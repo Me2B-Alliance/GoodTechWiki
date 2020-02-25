@@ -1,0 +1,10 @@
+id:d085ae38-e300-429b-9f89-598f466e5f67
+config.central-topic: 129601a3-84e8-46d6-bef3-055436b686db
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open WPM (Web Privacy Measurement)
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:6ec648a7-bd56-4aaa-8357-94f45c3a545c
+config.central-topic: f4cc639b-d4e4-4d5a-b469-d5fd6d76fb82
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Policy for mygymworld.club web access
+tmap.type: neighbor
+
+

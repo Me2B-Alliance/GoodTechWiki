@@ -1,0 +1,10 @@
+id:7fb7e5a0-391e-4a53-9579-e0e49297ae91
+config.central-topic: 08854a85-1b60-4798-8a09-f7c127ab23db
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Human First Technology
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:bc2a5fbe-61b3-4262-8a9a-0c21c117ea05
+config.central-topic: 15d0d7b4-a440-47d8-bf97-8a978ef53141
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Challenges in Automated Question Answering for Privacy Policies
+tmap.type: neighbor
+
+

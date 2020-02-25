@@ -1,0 +1,10 @@
+id:6ed3c91d-8585-43c4-9855-e51c022bab13
+config.central-topic: b164c734-832e-43aa-b747-65cedac7310b
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Economy & Society
+tmap.type: neighbor
+
+

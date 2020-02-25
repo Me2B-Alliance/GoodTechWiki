@@ -1,0 +1,27 @@
+created:1582526115512
+modified:1582526115512
+title:MODRNA Registration
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:B. Hjelm;John Bradley;T. Lodderstedt
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:MODRNA Registration
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:MONDRNA
+tags:
+tech.focus:
+tmap.edges:{"81d6a237-9f2e-48ac-903c-db030efc4b3a":{"to":"063b22f0-fc39-4ff7-9ac1-34d1387a916b","type":"specification-of-group"}}
+tmap.id:1a4728e5-2543-4cbc-9782-01a29c48d25c
+url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-registration-01.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+The OpenID Connect Mobile Registration Profile specification defines how a RP dynamically registers with a mobile network operator (MNO) to access identity services provided by the MNO. The RP shall be able to access identity services from multiple MNOs withour requiring the RP to register with all individual MNOs. To achieve this, the OpenID Connect Dynamic Client Registration 1.0 [OpenID.Registration] will be extended with Software Statement as specified in OAuth2.0 [RFC 7591].

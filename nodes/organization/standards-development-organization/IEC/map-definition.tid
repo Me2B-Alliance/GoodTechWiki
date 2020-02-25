@@ -1,0 +1,10 @@
+id:8fbaf706-74ee-43d1-ab25-8dac3f6539ec
+config.central-topic: 00b12ee5-a907-44f0-938b-73cd10810aa2
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IEC
+tmap.type: neighbor
+
+

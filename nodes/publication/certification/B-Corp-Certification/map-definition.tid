@@ -1,0 +1,10 @@
+id:e9d02353-7125-4032-90ab-d6bdf8e13fd8
+config.central-topic: 8e8090be-a896-4d74-8fe0-247019d65611
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/B Corp Certification
+tmap.type: neighbor
+
+

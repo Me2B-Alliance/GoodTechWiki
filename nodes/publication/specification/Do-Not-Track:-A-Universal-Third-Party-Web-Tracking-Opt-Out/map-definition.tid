@@ -1,0 +1,10 @@
+id:69d10bac-196a-4cd9-aae7-26d6cbad98bd
+config.central-topic: f8bf66a6-d4d7-4776-b4f7-319e2807c2b5
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Do Not Track: A Universal Third-Party Web Tracking Opt Out
+tmap.type: neighbor
+
+

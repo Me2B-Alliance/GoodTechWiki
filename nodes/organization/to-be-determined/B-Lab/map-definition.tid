@@ -1,0 +1,10 @@
+id:453f3fec-0e41-4083-8304-332feee868c7
+config.central-topic: b53386ba-7ad8-48e1-8d34-a869501feb27
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/B Lab
+tmap.type: neighbor
+
+

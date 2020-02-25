@@ -1,0 +1,28 @@
+created:1582526115774
+modified:1582526115774
+title:DID Use Cases
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:DID Use Cases
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[community notes]]
+tech.focus:
+tmap.edges:{}
+tmap.id:09b5ab71-3fda-44b7-9eec-cfe91be79e96
+url:https://github.com/w3c-ccg/did-use-cases
+version.or.edition:
+volume.frequency:
+working.group:
+
+Decentralized Identifiers (DIDs) allow for exceptional user-driven control and overall reliability of publicly resolvable, provable identifiers. While DIDs share many features with extant identity systems, no other system combines all the features designed into DIDs. We present the current consensus of the motivations behind DIDs based on input and collaboration with implementers currently building products to the DID specification.

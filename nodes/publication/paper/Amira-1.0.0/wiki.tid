@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Amira 1.0.0
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Amira 1.0.0
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot v]]
+tech.focus:
+tmap.edges:{}
+tmap.id:5a502992-ea8a-40f0-ab65-65eec82e9d81
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+his paper began as a collaborative project at the fifth Rebooting the Web of Trust1workshop, held in Cambridge MA in October 2017. We reinterpret ChristopherAllen’s Rebooting the Web of Trust user story,2through the lens of the InformationLifecycle Engagement Model (described in Appendix A). We present a human-centric illustration of an individual’s experience in a self-sovereign, decentralizedrealization of the Web of Trust as originally conceived by Phil Zimmerman forPGP.3In our scenario, Amira is a successful programmer working in Boston at aprestigious multi-national bank. Outside of working hours, Amira wants togive back to her community by writing software that matters. On the adviceof her friend Charlene, Amira joins RISK, a self-sovereign reputation networkthat connects developers with projects while protecting participants’ anonymity,building reputation, and sending & receiving secure payments.

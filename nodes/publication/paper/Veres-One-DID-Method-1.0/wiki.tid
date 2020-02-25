@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Veres One DID Method 1.0
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Veres One DID Method 1.0
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot v]]
+tech.focus:
+tmap.edges:{}
+tmap.id:3e5d8f49-71e6-4b24-95a4-74846f282ef5
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+The Veres One Ledger is a permissionless public ledger designed specifcally for the creation and management of decentralized identifers (DIDs). Veres One DIDs are self-sovereign identifers that may be used by people, organizations, and digital devices to establish an identifer that is under their control. Veres One DIDs are useful in ecosystems where one needs to issue, store, and use Verifable Claims. This specifcation defnes how a developer may create and update DIDs in the Veres One Ledger.

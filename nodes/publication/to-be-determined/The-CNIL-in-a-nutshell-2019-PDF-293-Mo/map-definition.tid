@@ -1,0 +1,10 @@
+id:23ed36b8-7c8b-4e66-bd26-9fdc0dfd9e52
+config.central-topic: d65f46f6-de9b-495f-93be-c8eb9a425db5
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The CNIL in a nutshell 2019 - PDF - 2,93 Mo
+tmap.type: neighbor
+
+

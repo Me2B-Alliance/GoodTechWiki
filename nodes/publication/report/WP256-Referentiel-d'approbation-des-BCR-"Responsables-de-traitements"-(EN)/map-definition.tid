@@ -1,0 +1,10 @@
+id:a70d72b3-353d-454a-8d13-efe9e328a75f
+config.central-topic: d09eb528-c8f7-4c53-b220-100d3a600332
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/WP256 - Réferentiel d'approbation des BCR "Responsables de traitements" (EN)
+tmap.type: neighbor
+
+

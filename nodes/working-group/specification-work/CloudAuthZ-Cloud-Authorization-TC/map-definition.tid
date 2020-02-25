@@ -1,0 +1,10 @@
+id:5579b546-fd84-477d-99d1-3511ce3c7f27
+config.central-topic: aacb8c1e-228f-4336-9b8b-5d97a53a88a6
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CloudAuthZ Cloud Authorization TC
+tmap.type: neighbor
+
+

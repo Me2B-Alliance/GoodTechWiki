@@ -1,0 +1,10 @@
+id:6ae27c1a-4ef4-4ca5-a362-a406f3444621
+config.central-topic: 7c6d30d1-f2aa-4daa-8962-a3f757bd6c49
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO
+tmap.type: neighbor
+
+

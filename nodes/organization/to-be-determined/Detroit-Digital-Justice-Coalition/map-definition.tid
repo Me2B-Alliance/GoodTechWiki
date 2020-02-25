@@ -1,0 +1,10 @@
+id:5d365374-59d9-4093-9e0d-e14fa60f660c
+config.central-topic: 90731089-60b2-4cd7-bc25-97de3b4c8303
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Detroit Digital Justice Coalition
+tmap.type: neighbor
+
+

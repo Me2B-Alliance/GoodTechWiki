@@ -1,0 +1,10 @@
+id:d26f9414-9e51-42a1-be1a-bb1a9ba6e106
+config.central-topic: 72fb5349-63dc-43f8-a6b8-d725a49a1a0a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Human Pose Detection
+tmap.type: neighbor
+
+

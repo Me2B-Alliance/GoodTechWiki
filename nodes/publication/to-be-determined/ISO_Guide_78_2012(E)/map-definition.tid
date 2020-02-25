@@ -1,0 +1,10 @@
+id:bc00f5f7-5774-4e37-a276-ecb9c3b1e108
+config.central-topic: 23653a62-5b84-4c6b-afda-78d0b97f58ff
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO_Guide_78_2012(E)
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:9b3ae9f9-7142-4df0-bafc-a6c3f778478c
+config.central-topic: 519d7c09-50ea-43ec-8e52-7ec22a386860
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FoCAS Manifesto
+tmap.type: neighbor
+
+

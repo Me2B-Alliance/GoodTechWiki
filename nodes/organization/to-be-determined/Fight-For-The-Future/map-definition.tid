@@ -1,0 +1,10 @@
+id:f9ed8859-9a09-4fab-b379-4c750cdc348d
+config.central-topic: dc9874cb-53ac-4027-9462-f235c162cc10
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Fight For The Future
+tmap.type: neighbor
+
+

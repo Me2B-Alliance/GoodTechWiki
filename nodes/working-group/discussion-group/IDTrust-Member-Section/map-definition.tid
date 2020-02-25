@@ -1,0 +1,10 @@
+id:1796287d-419f-4260-b32d-00f1cd2d3a65
+config.central-topic: 14e16b0a-8d56-498f-a681-3389933a0818
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IDTrust Member Section
+tmap.type: neighbor
+
+

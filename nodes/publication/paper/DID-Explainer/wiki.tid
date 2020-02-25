@@ -1,0 +1,30 @@
+created:1582526115774
+modified:1582526115774
+title:DID Explainer
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:DID Explainer
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[community notes]]
+tech.focus:
+tmap.edges:{}
+tmap.id:475370cf-0235-4daa-9eba-6d40791859d2
+url:https://github.com/w3c-ccg/did-explainer
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document is an “Explainer” as requested by the Technical Architecture Group at the W3C. An explainer for explainers can be found here: https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md 
+We’ve populated this document with the template provided in that link.  As the document evolves, there will be a period with a confusing mix of references to "your feature" and concrete explanations about DIDs.
+NOTE: In essence, every sentence should support the delineation of what is in scope and out of scope.

@@ -1,0 +1,10 @@
+id:53a20c6b-1689-49cd-bcb7-2a15533d041a
+config.central-topic: bedba6d2-d268-49b4-9708-1ced6798aef8
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Police surveillance of children’s Climate Strike protest – Letter to the Metropolitan Police
+tmap.type: neighbor
+
+

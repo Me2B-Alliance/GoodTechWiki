@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Decentralized Autonomic Data (DAD) and the three R's of Key Management
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Decentralized Autonomic Data (DAD) and the three R's of Key Management
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot vi]]
+tech.focus:
+tmap.edges:{}
+tmap.id:f0cfd49e-670b-413f-8b7f-654edf3e60d7
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/DecentralizedAutonomicData.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+This paper proposes a new class of data called decentralized autonomic data (DAD). The term decentralizedmeans that the governance of the data may not reside with a single party. A related concept is that the trust in the data provenance is difuse in nature. Central to the approach is leveraging the emerging DID (decentralized identifer) standard. The term autonomic means self-managing or self-regulating. In the context of data, we crystalize the meaning of self-managing to include cryptographic techniques for maintaining data provenance that make the data self-identifying, self-certifying, and self-securing. Implied thereby is the use of cryptographic keys and signatures to provide a root of trust for data integrity and to maintain that trust over transformation of that data, e.g. provenance. Thus key management must be a frst order property of DADs. This includes key reproduction, rotation, and recovery. The pre-rotation and hybrid recovery methods presented herein are somewhat novel.

@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Identity Hub Attestation Flows and Components
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Identity Hub Attestation Flows and Components
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot vi]]
+tech.focus:
+tmap.edges:{}
+tmap.id:65741e38-d5b3-44dc-9f59-b6cb81f697d6
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/identity-hub-attestations.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+In this document, we defne a set of user fows and describe the associated Action Objects that support a Hub-centric approach to the request, issuance, presentation, verifcation, and revocation of interoperable attestations. This document extends the Identity Hub Explainer

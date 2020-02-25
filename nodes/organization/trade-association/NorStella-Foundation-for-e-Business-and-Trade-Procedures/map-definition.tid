@@ -1,0 +1,10 @@
+id:e270ab84-0ee2-4821-b8d7-4e4db76394fe
+config.central-topic: 7963a3c7-65ad-4e2a-924a-ff6e5b7db138
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NorStella - Foundation for e-Business and Trade Procedures
+tmap.type: neighbor
+
+

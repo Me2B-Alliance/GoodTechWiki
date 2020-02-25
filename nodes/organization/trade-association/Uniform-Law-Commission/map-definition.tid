@@ -1,0 +1,10 @@
+id:f9a34b9c-19d7-42cf-91dc-7e155266d70f
+config.central-topic: 81c44250-9415-40d7-8d67-03e057f00be2
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Uniform Law Commission
+tmap.type: neighbor
+
+

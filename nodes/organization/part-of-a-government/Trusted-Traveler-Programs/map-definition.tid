@@ -1,0 +1,10 @@
+id:72147bb4-0328-4871-a314-940855513c81
+config.central-topic: cf0427d2-bd22-4221-a2c8-add25c00409e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Trusted Traveler Programs
+tmap.type: neighbor
+
+

@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:The DCS Theorem
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:The DCS Theorem
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot v]]
+tech.focus:
+tmap.edges:{}
+tmap.id:b7bfbc2b-08a9-4e42-bb07-1fcdfab551d9
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Abstract.Blockchain design involves many tradeoffs, and much debatehas focused on tradeoffs related to scaling parameters such as blocksize.To address some of the confusion around this subject, we present a prob-ability proof of theDCS  Triangle[1][2].  We use the triangle to showdecentralized consensus systems, like blockchains, can haveDecentraliza-tion,Consensus, orScale, but not all three properties simultaneously. Wethen describe two methods for getting around the limitations suggestedby the triangle.

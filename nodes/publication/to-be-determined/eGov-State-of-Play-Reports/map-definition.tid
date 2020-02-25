@@ -1,0 +1,10 @@
+id:636b4294-9d94-437b-8a87-829ad074e77d
+config.central-topic: 041dc296-9cac-463d-8608-8ae59bb23671
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/eGov State of Play - Reports
+tmap.type: neighbor
+
+

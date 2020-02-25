@@ -1,0 +1,10 @@
+id:375e44ed-cf17-421c-a381-600529fdbc39
+config.central-topic: 0eb9bdb0-1da6-4689-8651-2e51dadfc307
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/European Commission
+tmap.type: neighbor
+
+

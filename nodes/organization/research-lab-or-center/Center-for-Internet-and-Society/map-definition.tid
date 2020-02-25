@@ -1,0 +1,10 @@
+id:0d8e3ea1-b38e-4196-936e-3c9ac2302964
+config.central-topic: e61133c6-96a0-46c8-a508-656e04371166
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Center for Internet and Society
+tmap.type: neighbor
+
+

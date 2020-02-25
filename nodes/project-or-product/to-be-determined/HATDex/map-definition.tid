@@ -1,0 +1,10 @@
+id:291a3672-03ce-4c7c-951c-e05c049581ee
+config.central-topic: 2009031c-5067-41c3-bb19-6a2da2559bae
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/HATDex
+tmap.type: neighbor
+
+

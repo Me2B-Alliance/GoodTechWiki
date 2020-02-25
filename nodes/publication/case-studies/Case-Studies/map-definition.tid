@@ -1,0 +1,10 @@
+id:7b8d2dbe-6ea8-4bcc-a74e-621df651087b
+config.central-topic: 6d66a9fc-19c4-4781-9928-00b4cf79a8f6
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Case Studies
+tmap.type: neighbor
+
+

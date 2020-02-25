@@ -1,0 +1,10 @@
+id:5c4eb764-36d8-4d1b-bf64-68cb5b4e8e58
+config.central-topic: b8ebf9ac-29e2-46ee-9a50-e1f05752d19f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data and Equity in School Choice
+tmap.type: neighbor
+
+

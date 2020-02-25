@@ -1,0 +1,10 @@
+id:64f2c361-47de-4225-8fa1-e511880098ae
+config.central-topic: 1a153580-abc4-442e-a359-23571221d24a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Office of Administration (BVA)
+tmap.type: neighbor
+
+

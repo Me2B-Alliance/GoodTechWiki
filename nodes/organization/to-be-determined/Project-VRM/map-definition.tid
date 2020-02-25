@@ -1,0 +1,10 @@
+id:c510676b-02b3-4587-8f93-083e6899248a
+config.central-topic: 8c341bf8-74ff-486d-94ee-4e083bbabf73
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Project VRM
+tmap.type: neighbor
+
+

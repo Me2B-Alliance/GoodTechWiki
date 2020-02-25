@@ -1,0 +1,10 @@
+id:ed6b852a-b6fd-4285-8785-477f94837825
+config.central-topic: 5b0c4069-e9b0-4c93-9233-745ef337c3dd
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/European Committee for Standardization (CEN)
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:e25c8c70-78cd-4d73-80a7-60e93ace9871
+config.central-topic: 57fa3925-fea9-414f-8f92-e44a314aba23
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/WP257 - Réferentiel d'approbation des BCR "Sous-traitants" (EN)
+tmap.type: neighbor
+
+

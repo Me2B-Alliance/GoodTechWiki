@@ -1,0 +1,63 @@
+created:1582526115764
+modified:1582526115764
+title:Datum
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Datum
+org.type:to-be-determined
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:https://datum.org/assets/Datum-WhitePaper.pdf
+scope:
+sector:
+status:
+tags:
+tech.focus:
+tmap.edges:{}
+tmap.id:b19f0048-17bb-4f8e-a554-9d577468fc4b
+twitter.profile:
+website:https://datum.org
+
+Abstract: The Datum network allows anyone to store structured data securely in
+a decentralized way on a smart contract blockchain. The DAT smart token
+enables optional selling and buying of stored data while enforcing data usage
+rules as set by the data owner.
+Every day we create 2.5 Quintillion bytes of data, and 90% of the world’s data today
+has been created in the last 2 years alone. Data stored grows 4x faster than the
+world economy and contributes to a substantial shift in economic power and
+source of economic value.
+A lot of this data is created by individuals or organizations; browsing the internet,
+interacting on social networks, uploading personal files, syncing devices and
+shopping online. This data is owned and stored by large private organizations in
+huge data silos where it is susceptible to selling, tampering, extraction and other
+exploitation. The originator of the data mostly loses control over its data when
+signing up to various services such as Facebook, Google, Instagram, Snap, Twitter
+etc., that offer ‘free’ services in exchange for exploitation of data, e.g. Google’s
+Gmail service reading emails and showing targeted ads as a result.
+Datum proposes a network run on a secure smart contract blockchain that allows
+all of its users to retake control of their data, not just the personal and habitual
+data they produce every day, but also data from the (IoT) devices that they control.
+1
+Datum encompasses the following key elements:
+A fast decentralized data store allowing users to store structured data securely
+running on a smart contract blockchain
+The DAT token enabling this data storage and sharing
+The data marketplace, enabling individuals to monetize their data on their terms
+Datum leverages BigchainDB and IPFS to provide an infinitely scalable,
+decentralized data storage backend.
+Data storage and data sharing is paid for by the DAT token.

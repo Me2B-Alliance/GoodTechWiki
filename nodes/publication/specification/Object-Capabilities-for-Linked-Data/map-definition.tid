@@ -1,0 +1,10 @@
+id:caafcc01-a259-4916-b22a-fddfcc9c772c
+config.central-topic: 6b2bf6a8-e1ec-45e1-ae3f-7793078ceb9d
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Object Capabilities for Linked Data
+tmap.type: neighbor
+
+

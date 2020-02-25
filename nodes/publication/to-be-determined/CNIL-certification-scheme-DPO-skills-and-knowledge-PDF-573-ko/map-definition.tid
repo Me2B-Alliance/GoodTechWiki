@@ -1,0 +1,10 @@
+id:80e84ffb-f392-4aef-a5bc-205973569e66
+config.central-topic: afc43189-e9d2-41cb-9bce-fd296856d15e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/CNIL certification scheme DPO skills and knowledge - PDF - 573 ko
+tmap.type: neighbor
+
+

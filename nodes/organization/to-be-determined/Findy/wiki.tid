@@ -1,0 +1,45 @@
+created:1582526115764
+modified:1582526115764
+title:Findy
+type:text/vnd.tiddlywiki
+activities:
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:
+org.name:Findy
+org.type:to-be-determined
+parent.org:
+partners:MyData
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:
+sector:
+status:
+tags:[[mydata operator]]
+tech.focus:
+tmap.edges:{}
+tmap.id:8060bf78-a7a2-445d-90d4-81af7f72f473
+twitter.profile:
+website:https://www.findy.fi/
+
+Findy stands for Finnish Indy network, a locally governed and run decentralised identity ledger. Its target is to enable pilot use cases and services with use of self-sovereign identifiers in Finland.
+
+A decentralised identity ledger consists of a limited set of public, permissioned nodes that when run together as a decentralised system are responsible for
+
+    running the cryptographic consensus algorithm that provides non-repudiation of public identifiers
+    catering the discovery of public decentralised identifiers (DIDs) and their related public statement documents (DID documents)
+    hosting the public credential definitions and schemas that are used by any of FIndy’s overlaying pilot use cases
+    enabling privacy-preserving tools (revocation accumulators) for revocation checks
+
+The Findy ledger, run first as a test network and sandbox for pilots will be operated and coordinated by local legal entities that i) commit to maintain the network and its nodes along the initial Findy governance rules under development during 2019-20, and ii) agree to work in good faith towards setting up a joint, long-term ledger infrastructure project that stands responsible for operating the distributed ledger. Entities are expected to cover their own operational and development related costs. Result of the first phase will mature eventually with a production ledger for commercial use, potentially with a different name.

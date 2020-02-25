@@ -1,0 +1,10 @@
+id:58151620-1fd4-4688-a33b-3fdfabb7a796
+config.central-topic: 2905a487-2d32-436d-8d9d-9f05d5af9760
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing for the House of Commons (Second Reading)
+tmap.type: neighbor
+
+

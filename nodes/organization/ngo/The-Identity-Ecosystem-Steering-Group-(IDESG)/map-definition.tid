@@ -1,0 +1,10 @@
+id:91c30bbb-2791-4eb6-9799-2de0f9142cec
+config.central-topic: 8d7b9ff5-0061-41da-b3d6-3ace71444606
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Identity Ecosystem Steering Group (IDESG)
+tmap.type: neighbor
+
+

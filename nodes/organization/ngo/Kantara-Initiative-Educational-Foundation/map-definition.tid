@@ -1,0 +1,10 @@
+id:7cb683b9-2be5-464e-bb14-b520997af06b
+config.central-topic: 2ffa4a63-d513-4c37-877a-334eb88fedb0
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative Educational Foundation
+tmap.type: neighbor
+
+

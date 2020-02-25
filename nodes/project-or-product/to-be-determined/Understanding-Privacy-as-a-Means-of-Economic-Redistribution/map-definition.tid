@@ -1,0 +1,10 @@
+id:4052d361-df2f-458d-ac60-4d7b55f2287e
+config.central-topic: 5e992a5f-4fa1-4b87-91c7-fba4c2832d05
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Understanding Privacy as a Means of Economic Redistribution
+tmap.type: neighbor
+
+

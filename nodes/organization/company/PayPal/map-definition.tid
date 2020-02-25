@@ -1,0 +1,10 @@
+id:5644c357-1dd8-4d55-9c4e-eca05e0ca6c6
+config.central-topic: 45c6675b-9f94-4ed7-bf12-15b1845bcb06
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PayPal
+tmap.type: neighbor
+
+

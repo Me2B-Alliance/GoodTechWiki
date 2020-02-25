@@ -1,0 +1,30 @@
+created:1582526115772
+modified:1582526115772
+title:Challenges in Automated Question Answering for Privacy Policies
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:[[abhilasha ravichander]] [[alan black]] [[eduard hovy]] [[joel reidenberg]] [[n. cameron russell]] [[norman sadeh]]
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Challenges in Automated Question Answering for Privacy Policies
+publication.type:[[TO BE DETERMINED]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[usable privacy policy - publications]]
+tech.focus:
+tmap.edges:{}
+tmap.id:15d0d7b4-a440-47d8-bf97-8a978ef53141
+url:https://usableprivacy.org/static/files/ravichander_pal_2019.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+AAAI Spring Symposium on Privacy Enhancing AI and Language Technologies (PAL 2019), Mar 2019
+
+Privacy  policies  are  legal  documents  used  to  inform  usersabout  the  collection  and  handling  of  their  data  services  ortechnologies with which they interact. Research has shownthat few users take the time to read these policies, as they areoften long and difficult to understand. In addition, users oftenonly care about a small subset of issues discussed in privacypolicies, and some of the issues they actually care about maynot even be addressed in the text of the policies. Rather thanrequiring users to read the policies, a better approach might beto allow them to simply ask questions about those issues theycare about, possibly through iterative dialog. In this work, wetake a step towards this goal by exploring the idea of an au-tomated privacy question-answering assistant, and look at thekinds of questions users are likely to pose to such a system.This analysis is informed by an initial study that elicits pri-vacy questions from crowdworkers about the data practicesof mobile apps. We analyze 1350 questions posed by crowd-workers  about  the  privacy  practices  of  a  diverse  cross  sec-tion of mobile applications. This analysis sheds some lighton privacy issues mobile app users are likely to inquire aboutas well as their ability to articulate questions in this domain.Our findings in turn should help inform the design of futureprivacy question answering systems.

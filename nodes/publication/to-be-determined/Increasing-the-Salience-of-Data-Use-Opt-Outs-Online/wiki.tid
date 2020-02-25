@@ -1,0 +1,30 @@
+created:1582526115773
+modified:1582526115773
+title:Increasing the Salience of Data Use Opt-Outs Online
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:[[n. nisal]] [[s.k. cherivirala]] [[k.m. sathyendra]] [[m. hagan]] [[f. schaub]] [[s. wilson]] [[l.f. cranor]] [[n. sadeh]]
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Increasing the Salience of Data Use Opt-Outs Online
+publication.type:[[TO BE DETERMINED]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[usable privacy policy - publications]]
+tech.focus:
+tmap.edges:{}
+tmap.id:dbea2f33-55c6-40fb-8cd8-0ad4d7c0bdfe
+url:https://www.usenix.org/sites/default/files/soups17_poster_nisai.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+SOUPS ’17: Symposium on Usable Privacy and Security, USENIX, Jul 2017 Poster
+
+rior work has shown that many individuals are concernedabout their privacy but feel resigned with respect to theirabilities to manage or protect their privacy. At the sametime, individuals may not be aware of privacy choices thatare available to them. For instance, many privacy policiescontain links that allow users to opt out of certain data usepractices, such as the use or sharing of contact informa-tion for marketing purposes. We propose a method to makesuch privacy choices more salient to Internet users. Basedon an approach to automatically identify and classify opt-out choices in privacy policies, we designed a browser ex-tension that notifies users about available opt-out choiceson the websites they visit. The goal of our work is to notonly make users aware of available choices but also make iteasier for them to utilize those choices

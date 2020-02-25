@@ -1,0 +1,10 @@
+id:a43055c0-b059-46c6-9cc4-db0b37756d2b
+config.central-topic: 8c1d4cdf-874f-47b9-9576-f3882a804f5b
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Security Workshop 2016
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:e480f2f8-7200-4b77-ad28-809b510283c9
+config.central-topic: 2cd8ed20-44bd-409e-a581-b6f43086a7d2
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Center for Humane Technology
+tmap.type: neighbor
+
+

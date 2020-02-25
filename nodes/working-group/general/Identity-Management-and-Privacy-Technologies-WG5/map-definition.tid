@@ -1,0 +1,10 @@
+id:34046052-26ee-40a6-91f1-732729014f44
+config.central-topic: 291cfe7a-2af5-4bb0-8d2f-b460399fec5f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Identity Management and Privacy Technologies WG5
+tmap.type: neighbor
+
+

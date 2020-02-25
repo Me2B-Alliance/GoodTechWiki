@@ -1,0 +1,10 @@
+id:203bcd42-72ec-4486-a01e-c0d99a671b44
+config.central-topic: ecdf3310-62f3-4f9e-b821-4bc288c454eb
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc GDPR Validation
+tmap.type: neighbor
+
+

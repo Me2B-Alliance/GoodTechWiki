@@ -1,0 +1,29 @@
+created:1582526115510
+modified:1582526115510
+title:Health Relationship Trust Profile for OAuth 2.0
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:Justin Richer
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Health Relationship Trust Profile for OAuth 2.0
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:HEART Working Group
+tags:
+tech.focus:
+tmap.edges:{"eec23abd-2487-45ec-9fa5-9653e1d84ef2":{"to":"29918acf-f35b-46cf-b915-9f3a3bc212d0","type":"specification-of-group"}}
+tmap.id:aef22172-2c84-4989-b80a-4a989cfc2364
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+The OAuth 2.0 protocol framework defines a mechanism to allow a resource owner to delegate access to a protected resource for a client application.
+
+This specification profiles the OAuth 2.0 protocol framework to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.

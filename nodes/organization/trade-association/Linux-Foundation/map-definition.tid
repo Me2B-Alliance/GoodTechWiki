@@ -1,0 +1,10 @@
+id:ef320ced-9473-4353-b7c0-70019c75d807
+config.central-topic: 08a7970d-f120-4e6c-9106-e0b9a96ca0f6
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Linux Foundation
+tmap.type: neighbor
+
+

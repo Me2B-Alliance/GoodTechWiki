@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Decentralized Public Key Infrastructure
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Decentralized Public Key Infrastructure
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot i]]
+tech.focus:
+tmap.edges:{}
+tmap.id:bba168da-991a-498d-90ac-34c3b177d6f8
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Today’s Internet places control of online identities into the hands of third-parties. Email addresses, usernames, and website domains are borrowed or "rented" through DNS, X.509, and social networks. This results in severe usability and security challenges Internet-wide. This paper describes a possible alternate approach called decentralized public key infrastructure (DPKI), which returns control of online identities to the entities they belong to. By doing so, DPKI addresses many usability and security challenges that plague traditional public key infrastructure (PKI). DPKI has advantages at each stage of the PKI life cycle. It makes permissionless bootstrapping of online identities possible and provides for the simple creation of stronger SSL certificates. In usage, it can help “Johnny” to finally encrypt thanks to its relegation of public key management to secure decentralized datastores. Finally, it includes mechanisms to recover lost or compromised identifiers.

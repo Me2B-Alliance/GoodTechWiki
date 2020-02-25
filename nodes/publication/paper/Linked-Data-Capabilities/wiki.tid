@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Linked Data Capabilities
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Linked Data Capabilities
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot v]]
+tech.focus:
+tmap.edges:{}
+tmap.id:f583751c-227d-4b80-90f6-089e4c636e47
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/lds-ocap.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Linked Data Signatures enable a method of asserting the integrity of linked data documents that are passed throughout the web. The object capability model is a powerful system for ensuring the security of computing systems. In this paper, we explore layering an object capability model on top of Linked Data Signatures via chainsof signed proclamations1. We call this system "Linked Data Capabilities", or "ld-ocap" for short.The system we propose can work regardless of whether https identifers or DIDs are being used. Since DIDs work nicely with this system and add an additional layer of decentralization we use them for the URIs of this system.

@@ -1,0 +1,10 @@
+id:b7c6bd6d-1ff4-417f-8629-253e292c75e8
+config.central-topic: 6df2bc2e-3391-447f-8bf3-a73707faf11c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Satyrn: A Markdown-based JavaScript Sandbox
+tmap.type: neighbor
+
+

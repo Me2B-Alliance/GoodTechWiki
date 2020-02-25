@@ -1,0 +1,10 @@
+id:b7f59b60-c6e8-4d94-9163-ecc168e2084f
+config.central-topic: 269ddb11-65c3-4be2-966d-b506633a2bcf
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/”Rome Memorandum” - Report and Guidance on Privacy in Social Network Services
+tmap.type: neighbor
+
+

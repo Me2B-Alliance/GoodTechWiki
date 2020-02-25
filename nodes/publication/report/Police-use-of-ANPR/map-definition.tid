@@ -1,0 +1,10 @@
+id:97edcf4b-3fae-419c-a0f6-5c17c7b3099e
+config.central-topic: af33da2a-bd33-401e-9c71-2549dacd2403
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Police use of ANPR
+tmap.type: neighbor
+
+

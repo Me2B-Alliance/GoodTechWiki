@@ -1,0 +1,10 @@
+id:9f2a6f68-f77a-45c3-b7b5-e3999c5253d1
+config.central-topic: 21b71ada-56e2-47e3-bd00-11aa15a63f0c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Virginia Electronic Identity Management Act
+tmap.type: neighbor
+
+

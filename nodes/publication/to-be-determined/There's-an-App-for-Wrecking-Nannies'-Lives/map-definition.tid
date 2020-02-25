@@ -1,0 +1,10 @@
+id:ada14718-4121-463d-a14a-5c934b87f794
+config.central-topic: 8471dbe7-4d30-4d66-a807-f3fe6f4a42b2
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/There’s an App for Wrecking Nannies’ Lives
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:4f715114-f682-4590-997d-c98fa6b0a93f
+config.central-topic: cb72dddb-444c-484d-b95c-83f42e960a7e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FaceOff: The Lawless Growth of Facial Recognition in UK Policing (2018)
+tmap.type: neighbor
+
+

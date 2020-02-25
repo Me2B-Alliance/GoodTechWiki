@@ -1,0 +1,10 @@
+id:29321c80-9654-4e8b-9064-27cf879130f3
+config.central-topic: dd45e151-941b-48a1-a445-4bc5d4a0672f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Mass Network
+tmap.type: neighbor
+
+

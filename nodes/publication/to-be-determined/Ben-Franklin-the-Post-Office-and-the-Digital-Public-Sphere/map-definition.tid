@@ -1,0 +1,10 @@
+id:3ceca9e1-3da6-41b3-ac6e-a4b63f14b491
+config.central-topic: 1dd89d8b-35a7-45b3-b47d-4049b22688a9
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Ben Franklin, the Post Office and the Digital Public Sphere
+tmap.type: neighbor
+
+

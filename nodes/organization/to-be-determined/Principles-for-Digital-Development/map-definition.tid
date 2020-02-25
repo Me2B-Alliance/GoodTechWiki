@@ -1,0 +1,10 @@
+id:9923f4a3-b2fa-48c8-a931-f721d9ae9214
+config.central-topic: 77ed7081-8468-4a3c-9a3f-6b70041aea57
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Principles for Digital Development
+tmap.type: neighbor
+
+

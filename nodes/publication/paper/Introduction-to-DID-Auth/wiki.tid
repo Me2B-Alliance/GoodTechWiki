@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Introduction to DID Auth
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Introduction to DID Auth
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot vi]]
+tech.focus:
+tmap.edges:{}
+tmap.id:5ad65cfe-f555-472c-bcfd-587a3aff3fb4
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+The term DID Auth has been used in different ways and is currently not well-defined. We define DID Auth as a ceremony where an identity owner, with the help of various components such as web browsers, mobile devices, and other agents, proves to a relying party that they are in control of a DID. This means demonstrating control of the DID using the mechanismspecified in the DID Document's "authentication" object. This could take place using a number of different data formats, protocols, and flows. DID Auth includes the ability to establish mutually authenticated communication channels and to authenticate to web sites and applications. Authorization, Verifiable Credentials, and Capabilities are built on top of DID Auth and are out of scope for this document. This paper gives on overview of the scope of DID Auth, supported protocols and flows, and the use of components of the DID Documents that are relevant to authentication, as well as formats for challenges and responses.

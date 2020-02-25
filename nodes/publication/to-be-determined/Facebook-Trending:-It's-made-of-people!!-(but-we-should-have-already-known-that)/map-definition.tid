@@ -1,0 +1,10 @@
+id:f066a486-c659-4aac-bcde-1278e4c1e3a9
+config.central-topic: 0e8a294c-0cab-47b5-9a3a-5f07a057246b
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Trending: It’s made of people!! (but we should have already known that)
+tmap.type: neighbor
+
+

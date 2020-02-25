@@ -1,0 +1,10 @@
+id:eb843038-884f-4ae4-8d64-f6c91d09ee86
+config.central-topic: 9cb448db-b37b-4140-9de6-86578e24222a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Nannies Already Felt Like They Were Under Constant Surveillance. The Internet Has Made It Even Worse.
+tmap.type: neighbor
+
+

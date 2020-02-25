@@ -1,0 +1,32 @@
+created:1582526115497
+modified:1582526115497
+title:Financial API Working Group
+type:text/vnd.tiddlywiki
+activities:
+category:[[specification work]]
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+name:Financial API Working Group
+parent.org:OpenID foundation
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tmap.edges:{"02559581-b39d-4d04-8926-b07aca8878e2":{"to":"3cd36c02-7cbf-433e-b73c-330f3af2ec5a","type":"organization-for-group"}}
+tmap.id:98b5ed85-af80-43f4-af04-650a06c8fa11
+url:http://openid.net/wg/fapi/
+
+In many cases, Fintech services such as aggregation services uses screen scraping and stores user passwords. This model is both brittle and insecure. To cope with the brittleness, it should utilize an API model with structured data and to cope with insecurity, it should utilize a token model such as OAuth [RFC6749, RFC6750].
+
+This working group aims to rectify the situation by developing a REST/JSON model protected by OAuth. Specifically, the FAPI WG aims to provide JSON data schemas, security and privacy recommendations and protocols to:
+* enable applications to utilize the data stored in the financial account,
+* enable applications to interact with the financial account, and
+* enable users to control the security and privacy settings.
+
+Both commercial and investment banking account as well as insurance, and credit card accounts are to be considered.

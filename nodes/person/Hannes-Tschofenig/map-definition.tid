@@ -1,0 +1,10 @@
+id:c5b4605f-9ab4-49a5-b4de-8830387f3681
+config.central-topic: 039920ce-d6d6-4a94-b6bf-2a51785cfb82
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Hannes Tschofenig
+tmap.type: neighbor
+
+

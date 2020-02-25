@@ -1,0 +1,10 @@
+id:52fce04f-3ebc-471d-92cf-749571e0e9a8
+config.central-topic: 3b748276-c797-45c3-90a9-693eb56a3ba9
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Student Data Privacy News Round-up
+tmap.type: neighbor
+
+

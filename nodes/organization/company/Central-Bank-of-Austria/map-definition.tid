@@ -1,0 +1,10 @@
+id:ef1de107-7190-4f54-90fd-4a41f99d2685
+config.central-topic: fdfc9f3f-dc74-42de-a0cf-95c9a9e0d861
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Central Bank of Austria
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:74466900-6121-4345-986c-8478003745e5
+config.central-topic: fda83ee0-bcb9-4fde-bb5f-19b9cb642125
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/theDataMap
+tmap.type: neighbor
+
+

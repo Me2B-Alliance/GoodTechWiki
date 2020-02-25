@@ -1,0 +1,27 @@
+created:1582526115511
+modified:1582526115511
+title:JSON-LD
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:JSON-LD
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tmap.edges:{"1c73c3a2-fc4e-40a1-bdb9-04d2d8b9dd0d":{"to":"05ebd799-8bef-4efc-a4cf-eaac3bbca26a","type":"organization-for-group"}}
+tmap.id:aa500491-a7a9-447b-8094-58ec65672441
+url:https://www.w3.org/tr/json-ld/
+version.or.edition:
+volume.frequency:
+working.group:
+
+JSON is a useful data serialization and messaging format. This specification defines JSON-LD, a JSON-based format to serialize Linked Data. The syntax is designed to easily integrate into deployed systems that already use JSON, and provides a smooth upgrade path from JSON to JSON-LD. It is primarily intended to be a way to use Linked Data in Web-based programming environments, to build interoperable Web services, and to store Linked Data in JSON-based storage engines.

@@ -1,0 +1,10 @@
+id:7cd02ebd-5def-4940-b0ac-a09a65950805
+config.central-topic: 886c45d2-1d15-490d-8a36-a67a0f0bad8c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Off the record
+tmap.type: neighbor
+
+

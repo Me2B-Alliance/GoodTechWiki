@@ -1,0 +1,10 @@
+id:4bccd502-d9ab-49e6-897c-15fe194f4025
+config.central-topic: a8fda3b9-52c6-41fa-8f1f-108c904cd439
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Draft Investigatory Powers Bill Response – Joint Committee on Human Rights
+tmap.type: neighbor
+
+

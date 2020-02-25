@@ -1,0 +1,10 @@
+id:d70ee7c5-0e76-4963-8e7e-86858e8f9066
+config.central-topic: be042fa2-1598-415f-8c16-9d298688ddb9
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Spectrum of Trust in Data
+tmap.type: neighbor
+
+

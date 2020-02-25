@@ -1,0 +1,10 @@
+id:c706fe8f-6ce8-423a-a14d-19ffe27fd5fb
+config.central-topic: c17ca8c5-d066-43d1-a449-58411c02ab52
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Toward Better Usability, Security, and Privacy of Information Technology
+tmap.type: neighbor
+
+

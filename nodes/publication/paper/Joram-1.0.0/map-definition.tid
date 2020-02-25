@@ -1,0 +1,10 @@
+id:a8e138a1-963b-4614-ad95-557d40925432
+config.central-topic: 211baa2f-8fb1-42f7-9420-a60c3c7fa43f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Joram 1.0.0
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:7504a737-6adc-464c-94c6-ad582fb55941
+config.central-topic: 48f4330c-bdee-4b6b-b9d2-3bcd9d148fad
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Tech Pledge
+tmap.type: neighbor
+
+

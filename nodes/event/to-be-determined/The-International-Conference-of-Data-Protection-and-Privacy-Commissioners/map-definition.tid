@@ -1,0 +1,10 @@
+id:cd6fccb8-0558-40f7-a3b4-fa8dec6ab9a9
+config.central-topic: c048f1ea-48f8-4e1f-94c3-83f7f31c8e68
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The International Conference of Data Protection and Privacy Commissioners
+tmap.type: neighbor
+
+

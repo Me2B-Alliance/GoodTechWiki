@@ -1,0 +1,10 @@
+id:ce5207b3-f217-4bc5-a51f-0e6823d31bbd
+config.central-topic: 41695b0a-626b-43ff-97ec-10667d5a7622
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/N. Agarwal
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:dc81a7f7-ae8c-4768-ac0d-ab01cb4c64af
+config.central-topic: 0d8088f6-9d0d-4e8b-9904-e46a7d21a775
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data Voids
+tmap.type: neighbor
+
+

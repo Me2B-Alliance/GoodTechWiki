@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Using OpenID Connect Self-Issued to Achieve DID Auth
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Using OpenID Connect Self-Issued to Achieve DID Auth
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot viii]]
+tech.focus:
+tmap.edges:{}
+tmap.id:410e7547-8874-471c-afb0-4e9eeaa8ce4e
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/did-auth-oidc.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Proving control of a DID requires proving ownership of a private key corresponding to a public key for the DID. Of course, this could be done with a new DID-specifc protocol. However, standard protocols for proving ownership of a public/private key pair already exist.This paper describes how to reuse the Self-Issued OpenID Connect (SIOP) specifcation and related protocol messages to prove control of a DID. It describes both why and how to do this. Related topics, such as release of claims, are also touched upon.

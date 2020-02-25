@@ -1,0 +1,10 @@
+id:4b297589-9aba-475a-b49f-d72c58441891
+config.central-topic: 24d1807e-8893-4411-b794-2883498536d1
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Hub of All Things (HAT)
+tmap.type: neighbor
+
+

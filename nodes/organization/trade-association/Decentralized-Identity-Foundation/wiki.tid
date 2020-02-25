@@ -1,0 +1,38 @@
+created:1582526115759
+modified:1582526115759
+title:Decentralized Identity Foundation
+type:text/vnd.tiddlywiki
+activities:[[software development]] [[standard development]] [[outreach]]
+annual.budget:
+audience:
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/decentralized-identity
+input.source:me2b
+key.people:
+linkedin.profile:
+location(s):
+me2b.relationship:[[input to interoperability specification]]
+org.name:Decentralized Identity Foundation
+org.type:trade association
+parent.org:
+partners:
+products.and.or.services:
+purpose:[[ecosystem building]]
+relevant.publications:
+scope:global
+sector:non-profit
+status:
+tags:
+tech.focus:Identity: Information Sharing Control
+tmap.edges:{"12bdddd5-5a78-426a-a27e-eff7e93760f2":{"to":"dad91afc-1222-463f-956e-3846721e1c09","type":"Organization Supports Project or Product"},"a6e3b4ca-9563-49d8-8785-0a281a3216b1":{"to":"c17ef41c-cdb2-42b8-98bc-960fc6a0c272","type":"Organization Supports Project or Product"},"e5d93173-37a8-46b6-a558-35315cc4df68":{"to":"0a6291ad-333e-4d22-b787-e80af721b25e","type":"Organization Supports Project or Product"},"ea7f6a8f-d7cc-48a4-a63e-30ed9405804f":{"to":"2ec4ed82-42d6-4f42-8385-56d832d77ff5","type":"Organization Supports Project or Product"},"db071d9b-9a5c-44d3-a41f-ae5af7fe00de":{"to":"a0ca748a-7d9d-4bce-b5f4-4551f150d55f","type":"Organization Supports Project or Product"},"3eaba512-a5af-42cb-9af2-95e35ab2a313":{"to":"c4de0c60-727d-41b7-8a33-5006f78297b8","type":"Organization Supports Project or Product"}}
+tmap.id:11b7b48b-f1b2-47bc-965a-4ba4d891bd44
+twitter.profile:https://twitter.com/DecentralizedID
+website:https://identity.foundation/
+
+DIF is an engineering-driven organization focused on developing the foundational elements necessary to establish an open ecosystem for decentralized identity and ensure interop between all participants.
+
+DIF is a registered 501(c)(6) membership organization. All code is licensed under Apache 2: W3C terms govern IPR: and content is available via Creative Commons 4 Attribution.

@@ -1,0 +1,10 @@
+id:d0b5c6d2-ae1a-4a3a-afd9-3497cfb664f9
+config.central-topic: 0155cba4-49e6-4d39-84bb-228dde995fee
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Open Technology Institute
+tmap.type: neighbor
+
+

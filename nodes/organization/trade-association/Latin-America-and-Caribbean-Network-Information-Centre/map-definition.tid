@@ -1,0 +1,10 @@
+id:a742a45f-b4a5-4878-96cf-b8de6cb8b6ef
+config.central-topic: 1f6f0b3d-1136-4cea-a0b8-6a80607d2742
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Latin America and Caribbean Network Information Centre
+tmap.type: neighbor
+
+

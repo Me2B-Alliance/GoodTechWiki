@@ -1,0 +1,10 @@
+id:ac9ce052-6fb5-49fa-972e-fa503bc65d46
+config.central-topic: aae752c6-b719-4804-b647-9c624b4b0237
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/scytl
+tmap.type: neighbor
+
+

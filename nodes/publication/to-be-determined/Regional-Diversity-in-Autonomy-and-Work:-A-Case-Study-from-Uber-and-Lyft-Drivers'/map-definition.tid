@@ -1,0 +1,10 @@
+id:16e93865-2587-4f78-8a42-25a01c359049
+config.central-topic: 09440bbf-f6e3-4e6c-ac59-d63ef032385a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Regional Diversity in Autonomy and Work: A Case Study from Uber and Lyft Drivers'
+tmap.type: neighbor
+
+

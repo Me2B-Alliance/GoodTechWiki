@@ -1,0 +1,29 @@
+created:1582526115516
+modified:1582526115516
+title:OpenID Connect Front-Channel Logout 1.0
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:B. Campbell;Mike Jones
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:OpenID Connect Front-Channel Logout 1.0
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:AB/Connect Working Group
+tags:
+tech.focus:
+tmap.edges:{"000a9d29-5d35-426a-b95a-cb27795afbe1":{"to":"aa294dd6-627e-4889-bcaa-0aa958b972bb","type":"specification-of-group"}}
+tmap.id:a5331b55-abb6-45cd-9bbc-8ce5eb8153bd
+url:http://openid.net/specs/openid-connect-frontchannel-1_0.html
+version.or.edition:
+volume.frequency:
+working.group:
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+
+This specification defines a logout mechanism that uses front-channel communication via the User Agent between the OP and RPs being logged out that does not need an OpenID Provider iframe on Relying Party pages. Other protocols have used HTTP GETs to RP URLs that clear login state to achieve this. This specification does the same thing. It also reuses the RP-initiated logout functionality specified in Section 5 of OpenID Connect Session Management 1.0 (RP-Initiated Logout).

@@ -1,0 +1,10 @@
+id:0d2ed45f-79b4-42cb-8ed8-72926ee81d59
+config.central-topic: 1310d3fd-1341-4cda-aa88-602b6fe9c7a6
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Eve Maler
+tmap.type: neighbor
+
+

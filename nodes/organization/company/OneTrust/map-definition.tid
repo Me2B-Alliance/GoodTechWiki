@@ -1,0 +1,10 @@
+id:6e3b184d-ebe0-494a-81f5-916dfc82dfb9
+config.central-topic: 3d91934a-939e-49e8-b04a-197d00a78ff6
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust
+tmap.type: neighbor
+
+

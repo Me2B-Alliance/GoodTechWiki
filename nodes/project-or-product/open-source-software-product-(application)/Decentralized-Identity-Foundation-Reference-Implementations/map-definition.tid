@@ -1,0 +1,10 @@
+id:cd308783-b3d7-4383-b760-6b3a6843f362
+config.central-topic: dad91afc-1222-463f-956e-3846721e1c09
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identity Foundation - Reference Implementations
+tmap.type: neighbor
+
+

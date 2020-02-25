@@ -1,0 +1,10 @@
+id:016fa56c-b197-4699-ae5d-1d436e99b9b1
+config.central-topic: 679d9d87-e05b-48a9-9810-90180deaa68d
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/38th IEEE Symposium on Security and Privacy
+tmap.type: neighbor
+
+

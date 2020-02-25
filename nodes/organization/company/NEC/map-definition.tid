@@ -1,0 +1,10 @@
+id:cfb3bec4-c5f9-4ad7-aa2f-075b64ccae7b
+config.central-topic: 5eda0ce2-6be2-480b-ad28-f0053672bf4c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/NEC
+tmap.type: neighbor
+
+

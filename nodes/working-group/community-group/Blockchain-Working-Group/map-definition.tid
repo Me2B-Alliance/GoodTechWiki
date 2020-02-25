@@ -1,0 +1,10 @@
+id:4511c522-9a12-4da4-af8d-094e4479d1bb
+config.central-topic: 433a57fa-e000-4ca5-9d0d-21f5cdd50a1c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain Working Group
+tmap.type: neighbor
+
+

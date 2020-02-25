@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:BTCR DID Resolver Specification
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:BTCR DID Resolver Specification
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot vi]]
+tech.focus:
+tmap.edges:{}
+tmap.id:a0f7f860-d22b-41fe-ad7b-1aff3c3687fa
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+This describes the process of resolving a BTCR DID into a DID Document. The draft reference implementation is available at https://github.com/WebOfTrustInfo/btcr-did-tools-js (see didFormatter.js). Note that not all steps described in this document are implemented yet

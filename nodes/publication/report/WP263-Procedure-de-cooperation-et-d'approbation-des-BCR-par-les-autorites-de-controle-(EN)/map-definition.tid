@@ -1,0 +1,10 @@
+id:a5bd948f-98df-4d9d-b3b9-8af4a71d4577
+config.central-topic: 1a364540-ad7c-4ff2-875d-76f5ff94c81f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/WP263 - Procédure de coopération et d'approbation des BCR par les autorités de contrôle (EN)
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:753f9b18-3487-49cf-bb5d-6e861f18d61f
+config.central-topic: 322a09e9-c93b-4c44-baa5-aaf0e643669a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Harvard Medical School Department of Biomedical Informatics
+tmap.type: neighbor
+
+

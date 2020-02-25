@@ -1,0 +1,10 @@
+id:62a52eab-0d5a-43d1-9f73-6c708a367e7f
+config.central-topic: e4affeec-a21b-47fe-8abf-7d8ff1a4d735
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ETSI  The European Telecommunications Standards Institute
+tmap.type: neighbor
+
+

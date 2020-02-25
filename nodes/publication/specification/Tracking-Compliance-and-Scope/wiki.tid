@@ -1,0 +1,27 @@
+created:1582526115511
+modified:1582526115511
+title:Tracking Compliance and Scope
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+name:Tracking Compliance and Scope
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:The Tracking Protection Working Group
+tags:
+tech.focus:
+tmap.edges:{"9db107cb-331c-4ce8-8d0c-910fcbf769d5":{"to":"148711d1-3a2f-48db-9236-9dea796a47f0","type":"specification-of-group"}}
+tmap.id:9c8045a4-2117-4e81-8962-cee6ca608f81
+url:http://www.w3.org/tr/tracking-compliance/
+version.or.edition:
+volume.frequency:
+working.group:
+
+This specification defines a set of practices for compliance with a user's Do Not Track (DNT) tracking preference to which a server may claim adherence.

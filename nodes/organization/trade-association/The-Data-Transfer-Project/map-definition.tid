@@ -1,0 +1,10 @@
+id:45100de3-c3ae-4689-b464-6063fc6a4ed0
+config.central-topic: 74796cae-b189-445c-9d0f-3405c32e22b9
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Data Transfer Project
+tmap.type: neighbor
+
+

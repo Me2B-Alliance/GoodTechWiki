@@ -1,0 +1,10 @@
+id:a92c0517-f3b4-484a-b91b-805036ee0eed
+config.central-topic: 7c80525d-6e24-4f99-97d4-35b52766d86d
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Do No Harm License
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:8e6ef767-bdaf-49ba-829e-bbd4ba451823
+config.central-topic: fb1afbb8-e2bf-4295-bd87-34601fa76180
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Information Security Management Systems WG1
+tmap.type: neighbor
+
+

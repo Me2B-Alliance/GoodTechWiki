@@ -1,0 +1,10 @@
+id:e3094abe-4e91-4b7b-9354-fa4d2d9e86c0
+config.central-topic: 33798f65-b6ce-458a-8e68-3ab9faea4a2f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/North American Security Products Organization
+tmap.type: neighbor
+
+

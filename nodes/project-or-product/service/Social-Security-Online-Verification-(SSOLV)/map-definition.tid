@@ -1,0 +1,10 @@
+id:74648039-879d-45ec-b76b-6514c0b8842b
+config.central-topic: a650a7c7-e4da-451b-acf5-1935c6f7c4c5
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Social Security Online Verification (SSOLV)
+tmap.type: neighbor
+
+

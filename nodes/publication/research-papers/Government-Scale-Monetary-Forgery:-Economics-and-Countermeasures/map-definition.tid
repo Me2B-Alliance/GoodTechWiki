@@ -1,0 +1,10 @@
+id:ab884ef3-916c-4f5f-aa5c-4d3c76b267e2
+config.central-topic: 93136910-620d-477e-8cea-c0c391a70472
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Government-Scale Monetary Forgery: Economics and Countermeasures
+tmap.type: neighbor
+
+

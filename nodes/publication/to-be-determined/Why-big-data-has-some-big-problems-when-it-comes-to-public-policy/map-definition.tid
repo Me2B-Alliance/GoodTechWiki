@@ -1,0 +1,10 @@
+id:0c4e2ccd-909e-41cf-8507-f07af85b8f8d
+config.central-topic: 61735c4e-566e-4cbe-9b60-3219d99c4be5
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Why big data has some big problems when it comes to public policy
+tmap.type: neighbor
+
+

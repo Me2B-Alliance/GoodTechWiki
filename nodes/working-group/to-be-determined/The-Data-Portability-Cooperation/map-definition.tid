@@ -1,0 +1,10 @@
+id:9a51d63f-e7b5-48dd-aec6-542d21ce2d8b
+config.central-topic: 0252c99a-7d91-4129-9fc8-f0581eb871c5
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Data Portability Cooperation
+tmap.type: neighbor
+
+

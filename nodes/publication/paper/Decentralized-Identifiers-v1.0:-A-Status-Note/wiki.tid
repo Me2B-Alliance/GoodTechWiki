@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Decentralized Identifiers v1.0: A Status Note
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Decentralized Identifiers v1.0: A Status Note
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot vi]]
+tech.focus:
+tmap.edges:{}
+tmap.id:f1ad2608-de90-4f80-a365-49b296b1bfad
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-spec-1.0.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+The Decentralized Identifers specifcation editors and implementers spent some time at Rebooting the Web of Trust 6 processing the remaining issues in the issue tracker.This document summarizes the proposed resolutions that the group has put forward to resolve all of the DID specifcation issues that were submitted before 2018-03-05.

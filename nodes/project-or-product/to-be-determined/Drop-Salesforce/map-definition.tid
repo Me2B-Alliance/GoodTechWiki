@@ -1,0 +1,10 @@
+id:0ac5cc44-4882-40dd-a2a7-108856516d63
+config.central-topic: 1e3ec2f8-7d52-4021-9313-bab73f83046c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Drop Salesforce
+tmap.type: neighbor
+
+

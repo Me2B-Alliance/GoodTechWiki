@@ -1,0 +1,10 @@
+id:808da5aa-f6db-4475-8f4e-1841c3022e6b
+config.central-topic: f54a7258-45ac-4eee-aa1b-4c08517c5e0d
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Uber’s Phantom Cabs
+tmap.type: neighbor
+
+

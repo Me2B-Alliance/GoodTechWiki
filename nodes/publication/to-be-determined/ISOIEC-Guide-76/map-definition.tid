@@ -1,0 +1,10 @@
+id:a95837c0-174b-4700-85ce-e385722be092
+config.central-topic: 6ab79549-b585-4d9e-afc8-d4da5357ac76
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 76
+tmap.type: neighbor
+
+

@@ -1,0 +1,28 @@
+created:1582526115769
+modified:1582526115769
+title:Requirements for DIDs (Decentralized Identifiers)
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Requirements for DIDs (Decentralized Identifiers)
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[rwot ii]]
+tech.focus:
+tmap.edges:{}
+tmap.id:b3c34b02-a7f2-4d7f-9ef7-1a002e6b6330
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Respect Network is conducting a research project for the    U.S.    Department    of    Homeland    Security, HSHQDC-16-C-00061, to analyze the applicability of blockchain  technologies  to  a  decentralized  identifier system.  Our  thesis  is  that  blockchains,  or  more generically  distributed  ledgers,  are  a  potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy  principles  needed  in  a  complete  identity system.   In   this   case   DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up  being  a  foundational  building  block  for  higher level identity management solutions.During  this  phase  of  our  work,  we  interviewed industry    experts    in    identity    and    blockchain technology,  both  in  informal  discussions  at  major identity  conferences  as  well  as  in-depth  interviews. This  included  a  series  of  sessions  on  DIDs  at  the ID2020 Design Workshop held in New York City on May  21-22.  Attendees  included  Drummond  Reed, Les   Chasen,   Christopher   Allen,   Manu   Sporny, Markus   Sabadello,   Juan   Bennet,   Ryan   Shea, Christian lundkvist, Rouven Heck, and Greg Slepak.

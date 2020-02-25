@@ -1,0 +1,10 @@
+id:383579bf-803b-49f9-ae9f-025a91cdf666
+config.central-topic: 21e3dcd6-d247-4b36-b810-4b18653fb2bb
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Can the internet make a better contribution to children’s opportunities and well-being?
+tmap.type: neighbor
+
+

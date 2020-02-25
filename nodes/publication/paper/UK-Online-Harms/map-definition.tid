@@ -1,0 +1,10 @@
+id:361bfc56-8b29-4ad8-a138-8219bd490c8f
+config.central-topic: 0f7bba5e-fc98-4685-8ab9-2639bf3224d1
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/UK - Online Harms
+tmap.type: neighbor
+
+

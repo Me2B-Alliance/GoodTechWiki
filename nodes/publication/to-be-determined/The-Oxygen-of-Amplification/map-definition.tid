@@ -1,0 +1,10 @@
+id:f9f798b4-e80a-48f0-943e-6ef7a71d6246
+config.central-topic: 6f0e5625-9d0b-4fa9-8c44-9a2731796d0c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Oxygen of Amplification
+tmap.type: neighbor
+
+

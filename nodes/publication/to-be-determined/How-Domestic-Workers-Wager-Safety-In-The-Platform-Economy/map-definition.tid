@@ -1,0 +1,10 @@
+id:9ae21641-f4fd-43b2-a0f6-bf1c8b1c3904
+config.central-topic: c896d5d2-bedb-494a-ad79-571d051ccf53
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/How Domestic Workers Wager Safety In The Platform Economy
+tmap.type: neighbor
+
+

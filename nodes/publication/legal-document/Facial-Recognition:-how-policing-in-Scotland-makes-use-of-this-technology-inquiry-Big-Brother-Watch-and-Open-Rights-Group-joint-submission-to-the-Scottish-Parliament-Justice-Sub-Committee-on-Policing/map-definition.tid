@@ -1,0 +1,10 @@
+id:8286c3ec-0ad7-4981-8f3b-2193af9130e5
+config.central-topic: 0be720bc-3474-49b6-b590-b077f9e51f59
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Facial Recognition: how policing in Scotland makes use of this technology inquiry – Big Brother Watch and Open Rights Group joint submission to the Scottish Parliament Justice Sub-Committee on Policing
+tmap.type: neighbor
+
+

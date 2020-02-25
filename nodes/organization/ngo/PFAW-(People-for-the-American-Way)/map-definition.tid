@@ -1,0 +1,10 @@
+id:2fc7cb97-ed22-477a-ba66-37689ea98bed
+config.central-topic: 125db7f3-dbe0-49a3-9b63-94b2e7e72214
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/PFAW  (People for the American Way)
+tmap.type: neighbor
+
+

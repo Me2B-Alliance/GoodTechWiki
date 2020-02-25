@@ -1,0 +1,10 @@
+id:9a4b14be-a296-4996-a009-ea2142ab061d
+config.central-topic: 0c5ec2c4-1a65-4531-914d-aa8e1ce57703
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Morpho (Safran Identity and Security)
+tmap.type: neighbor
+
+

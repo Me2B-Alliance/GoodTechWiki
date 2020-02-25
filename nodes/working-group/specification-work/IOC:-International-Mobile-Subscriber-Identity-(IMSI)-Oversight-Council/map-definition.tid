@@ -1,0 +1,10 @@
+id:7748fac4-9183-4dab-bd32-358d3ecd3fc5
+config.central-topic: 9e55ced9-65e6-45fe-883b-9e7568efd58c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IOC: International Mobile Subscriber Identity (IMSI) Oversight Council
+tmap.type: neighbor
+
+

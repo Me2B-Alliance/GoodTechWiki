@@ -1,0 +1,28 @@
+created:1582526115774
+modified:1582526115774
+title:btcr method
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:btcr method
+publication.type:[[specification]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[community specifications]]
+tech.focus:
+tmap.edges:{}
+tmap.id:636ef832-8bec-4856-9b28-15b42ea4cde6
+url:https://github.com/w3c-ccg/didm-btcr
+version.or.edition:
+volume.frequency:
+working.group:
+
+The Bitcoin Reference DID method specification conforms to the requirements specified in the DID specification currently published by the W3C Credentials Community Group. For more information about DIDs and DID method specifications, please see the DID Primer.

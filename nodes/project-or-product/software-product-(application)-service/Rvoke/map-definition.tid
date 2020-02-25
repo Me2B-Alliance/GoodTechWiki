@@ -1,0 +1,10 @@
+id:77969f51-6155-476d-bb53-283207ae48e8
+config.central-topic: f9f5a4d5-23cb-444f-906a-6f83e6f77b89
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Rvoke
+tmap.type: neighbor
+
+

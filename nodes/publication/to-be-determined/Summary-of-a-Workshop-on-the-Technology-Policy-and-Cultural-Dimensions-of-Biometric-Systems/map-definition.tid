@@ -1,0 +1,10 @@
+id:c86cc46a-d896-44fd-ae07-644e5731801f
+config.central-topic: c9f0a309-2f8c-4f2f-97ee-12a8bb4e0f3d
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems
+tmap.type: neighbor
+
+

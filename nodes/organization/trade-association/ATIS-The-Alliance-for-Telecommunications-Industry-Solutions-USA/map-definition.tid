@@ -1,0 +1,10 @@
+id:e8231823-001e-4130-81fc-2d49b96322f8
+config.central-topic: ce90a861-ff3c-4580-b0e1-1de76d7befa7
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ATIS   The Alliance for Telecommunications Industry Solutions, USA
+tmap.type: neighbor
+
+

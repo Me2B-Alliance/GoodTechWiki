@@ -1,0 +1,10 @@
+id:77bdd5b4-b367-4759-931b-9f9c2292f731
+config.central-topic: cd2973f5-80fb-400b-8b4d-b5d1ac4e6dd1
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/P. Tarjan
+tmap.type: neighbor
+
+

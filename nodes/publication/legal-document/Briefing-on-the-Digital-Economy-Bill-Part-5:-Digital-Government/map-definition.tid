@@ -1,0 +1,10 @@
+id:17086458-6fec-4f7e-9000-a0e2a389d131
+config.central-topic: f944202a-2c94-4d6c-9e4e-13ff40187fbb
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Briefing on the Digital Economy Bill Part 5: Digital Government
+tmap.type: neighbor
+
+
