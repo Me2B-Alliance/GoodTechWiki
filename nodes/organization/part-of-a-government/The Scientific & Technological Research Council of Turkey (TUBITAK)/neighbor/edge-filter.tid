@@ -1,12 +1,12 @@
-created:1582714534796
+created:1582719062120
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0070d839-bf11-4ae6-81f5-fcbc166f15ae
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534796
+modified:1582719062120
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Scientific & Technological Research Council of Turkey (TUBITAK)/filter/edges
-tmap.id:3829a899-5c10-449b-aa20-b1b5474414a7
+tmap.id:fdab0712-2d88-498f-8bcf-8a60613e326a
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534912
+created:1582719062235
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f8e0864f-ddc3-4c6f-9960-91fa1a7341c4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534912
+modified:1582719062235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Decentralized Approach to Blockcerts Credential Revocation/filter/edges
-tmap.id:daf97ec1-a008-4c2f-8b46-1b3560974ef1
+tmap.id:2cc97cdd-2161-4670-97fa-4a5f72cdecdd
 type:text/vnd.tiddlywiki
 
 No body provided

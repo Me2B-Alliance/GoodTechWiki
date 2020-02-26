@@ -1,12 +1,12 @@
-created:1582714534924
+created:1582719062242
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d2fdb537-61ba-4eb7-9bbd-84da839f8eeb
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534924
+modified:1582719062242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISS/PSA Brahms Model/filter/edges
-tmap.id:4399fd56-1667-42e7-80b4-b8f592d50e2f
+tmap.id:fabb85df-4270-4c30-8d6f-c382a18154b2
 type:text/vnd.tiddlywiki
 
 No body provided

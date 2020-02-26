@@ -2,16 +2,16 @@ config.central-topic:60fecc42-a385-48df-a96b-d2ee20cd1d7c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534928
-id:9bddb015-286b-4b87-a4a7-3bf359c06ffd
+created:1582719062246
+id:05cd3382-d891-4d5b-a47e-18882b1fbc0a
 isview:false
 map.base:60fecc42-a385-48df-a96b-d2ee20cd1d7c
 map.role:definition
 map.type:neighbor
-modified:1582714534928
+modified:1582719062246
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data-map
-tmap.id:9bddb015-286b-4b87-a4a7-3bf359c06ffd
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data
+tmap.id:05cd3382-d891-4d5b-a47e-18882b1fbc0a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data

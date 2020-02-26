@@ -1,12 +1,12 @@
-created:1582714535029
+created:1582719062353
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d9a63bcd-8f86-4de6-9f96-415959708bfc
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535029
+modified:1582719062353
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Authenticity, Integrity and Trust for Products and Documents  WG4/filter/edges
-tmap.id:06ad07ef-8aa0-43bb-842e-a06b0df532d1
+tmap.id:139d4985-3525-4976-a478-f747a1678efc
 type:text/vnd.tiddlywiki
 
 No body provided

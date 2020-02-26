@@ -1,12 +1,12 @@
-created:1582714534959
+created:1582719062285
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:317349b3-f7bd-4ca2-a7a0-e0967f56e84a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534959
+modified:1582719062285
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Media Manipulation and Disinformation Online/filter/edges
-tmap.id:701a36a0-3925-4fff-a2c2-c8ebdf19a7fb
+tmap.id:db45da40-14ae-46f5-90dc-66d587c6201d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:4349fe73-7344-4871-86fa-3c5fbb5f5e54
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534982
-id:e6c23db6-4f7b-48ad-9bb5-ad0c7e6e6f03
+created:1582719062307
+id:79f937d2-7216-4f1b-b6ec-05a20121b97b
 isview:false
 map.base:4349fe73-7344-4871-86fa-3c5fbb5f5e54
 map.role:definition
 map.type:neighbor
-modified:1582714534982
+modified:1582719062307
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/ABAC Attribute Based Access Control-map
-tmap.id:e6c23db6-4f7b-48ad-9bb5-ad0c7e6e6f03
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ABAC Attribute Based Access Control
+tmap.id:79f937d2-7216-4f1b-b6ec-05a20121b97b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ABAC Attribute Based Access Control

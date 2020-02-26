@@ -1,12 +1,12 @@
-created:1582714535018
+created:1582719062345
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:4b4c3287-df35-49c7-8bad-de0d6636630e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535018
+modified:1582719062345
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Algorithm Watching a Movie Trailer/filter/edges
-tmap.id:15b2fd28-95ac-4684-ba87-e5bed3dc97e1
+tmap.id:1d7bd92e-0596-4790-9c16-1b24f7597ccc
 type:text/vnd.tiddlywiki
 
 No body provided

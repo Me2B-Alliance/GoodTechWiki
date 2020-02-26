@@ -2,16 +2,16 @@ config.central-topic:1bd74ed8-d684-41f0-92fe-f9abbc1ecbf9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535009
-id:868c2f9c-b3c1-48a5-a4ad-556c661677a3
+created:1582719062335
+id:09844fcb-d985-44cb-b738-baed48b862d3
 isview:false
 map.base:1bd74ed8-d684-41f0-92fe-f9abbc1ecbf9
 map.role:definition
 map.type:neighbor
-modified:1582714535009
+modified:1582719062335
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/HighTech ID-map
-tmap.id:868c2f9c-b3c1-48a5-a4ad-556c661677a3
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/HighTech ID
+tmap.id:09844fcb-d985-44cb-b738-baed48b862d3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of HighTech ID

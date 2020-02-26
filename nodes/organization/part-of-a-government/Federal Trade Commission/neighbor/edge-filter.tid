@@ -1,12 +1,12 @@
-created:1582714534793
+created:1582719062117
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:fc625389-e9a5-4564-adc3-da1d52b1a26b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534793
+modified:1582719062117
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Federal Trade Commission/filter/edges
-tmap.id:54156974-3d6f-425e-8d0c-b2cc188202f9
+tmap.id:1324e987-7e64-40ac-afa8-4d3c6868711d
 type:text/vnd.tiddlywiki
 
 No body provided

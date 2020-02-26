@@ -1,12 +1,12 @@
-created:1582714534954
+created:1582719062278
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:eda42de8-b5a6-4d40-998b-5c5ec2e4ff0d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534954
+modified:1582719062278
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Personal data breach notification/filter/edges
-tmap.id:0d114177-b264-457d-bddb-d5b5fd371527
+tmap.id:f8be22fd-e4e5-48b8-96b1-a93e75a14d02
 type:text/vnd.tiddlywiki
 
 No body provided

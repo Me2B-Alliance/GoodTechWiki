@@ -2,16 +2,16 @@ config.central-topic:6bd07831-f583-4c18-8d88-1e617fac2c87
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534932
-id:5ad0fba4-5424-4e2e-b4c2-493b31e28906
+created:1582719062255
+id:11e10ee8-8402-4094-9e7e-7c1339fc29ae
 isview:false
 map.base:6bd07831-f583-4c18-8d88-1e617fac2c87
 map.role:definition
 map.type:neighbor
-modified:1582714534932
+modified:1582719062255
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Issues and Recommendations for Online Social Networks-map
-tmap.id:5ad0fba4-5424-4e2e-b4c2-493b31e28906
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Issues and Recommendations for Online Social Networks
+tmap.id:11e10ee8-8402-4094-9e7e-7c1339fc29ae
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Security Issues and Recommendations for Online Social Networks

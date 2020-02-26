@@ -1,12 +1,12 @@
-created:1582714534936
+created:1582719062261
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f771fa4c-06fb-4935-b8f5-5a31a0976ead
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534936
+modified:1582719062261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Breach of Trust/filter/edges
-tmap.id:5c31136d-8a73-4a3f-8f78-5fa3042305fa
+tmap.id:4b9e31f2-80a5-477f-bbba-65a5b781c0e0
 type:text/vnd.tiddlywiki
 
 No body provided

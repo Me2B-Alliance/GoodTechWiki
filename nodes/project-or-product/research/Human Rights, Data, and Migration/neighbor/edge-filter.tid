@@ -1,12 +1,12 @@
-created:1582714534870
+created:1582719062188
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:595d2e3d-a86e-4f4a-ac39-6dbbc2b56e51
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534870
+modified:1582719062188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human Rights, Data, and Migration/filter/edges
-tmap.id:5357cd4c-d444-4694-bf94-648d38d06346
+tmap.id:30e71f70-476e-4d41-95c5-d3b66ffd57e3
 type:text/vnd.tiddlywiki
 
 No body provided

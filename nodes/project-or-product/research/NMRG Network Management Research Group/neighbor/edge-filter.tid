@@ -1,12 +1,12 @@
-created:1582714534874
+created:1582719062190
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c6278561-2e0c-40d9-94ae-9a35ffaf87d0
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534874
+modified:1582719062190
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NMRG Network Management Research Group/filter/edges
-tmap.id:46d5edae-6912-4de6-8d07-73af526b86c3
+tmap.id:dcc072d4-f8e5-4f46-ba18-b38179a7d695
 type:text/vnd.tiddlywiki
 
 No body provided

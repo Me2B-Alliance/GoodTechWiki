@@ -2,16 +2,16 @@ config.central-topic:3984596c-6ab9-47d2-bd3b-8aef9df172da
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534952
-id:d25f9832-a7b4-4632-96d7-dbd5dd40918e
+created:1582719062275
+id:733c40c8-b742-4e7b-9d8a-e7d16bb0eb63
 isview:false
 map.base:3984596c-6ab9-47d2-bd3b-8aef9df172da
 map.role:definition
 map.type:neighbor
-modified:1582714534952
+modified:1582719062275
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global attitudes to privacy online-map
-tmap.id:d25f9832-a7b4-4632-96d7-dbd5dd40918e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global attitudes to privacy online
+tmap.id:733c40c8-b742-4e7b-9d8a-e7d16bb0eb63
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global attitudes to privacy online

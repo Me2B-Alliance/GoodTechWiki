@@ -1,12 +1,12 @@
-created:1582714534829
+created:1582719062151
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e72b4d33-ad7a-4a33-afcf-61aa9384ad40
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534829
+modified:1582719062151
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Society Research Institute/filter/edges
-tmap.id:53b1b8f2-59a6-4a2e-96cb-1bec68cf53dc
+tmap.id:e962d501-34b8-454b-b4ae-6e50df52c88b
 type:text/vnd.tiddlywiki
 
 No body provided

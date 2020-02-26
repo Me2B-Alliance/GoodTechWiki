@@ -31,3 +31,4 @@ FIDO uses the concept of attestation to provide a cryptographic proof of the aut
 
 This specification defines generic data structures that cover the semantics of FIDO Authenticator attestation. This specification also provides a profile of these structures when a TPM [TPM] acts as a crypto kernel. More profiles are expected to be added as the specification evolves.
 
+

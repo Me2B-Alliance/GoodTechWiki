@@ -2,16 +2,16 @@ config.central-topic:7d1b87eb-ebfa-4828-b420-d0c629ec4825
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535040
-id:eeb74ac8-363d-4c69-b29e-1e69c2a28eeb
+created:1582719062368
+id:27acf4b3-6bb1-4548-88e6-8b0a79e2f1a3
 isview:false
 map.base:7d1b87eb-ebfa-4828-b420-d0c629ec4825
 map.role:definition
 map.type:neighbor
-modified:1582714535040
+modified:1582719062368
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Application Security Working Group-map
-tmap.id:eeb74ac8-363d-4c69-b29e-1e69c2a28eeb
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Application Security Working Group
+tmap.id:27acf4b3-6bb1-4548-88e6-8b0a79e2f1a3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Web Application Security Working Group

@@ -2,16 +2,16 @@ config.central-topic:b3d5509e-e9c1-46bb-9fa6-52233d3aa129
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534807
-id:27f501ac-d9cf-49f6-8c7f-c3937ba59daa
+created:1582719062126
+id:07c31728-7f68-433f-bf20-debdf0cfe027
 isview:false
 map.base:b3d5509e-e9c1-46bb-9fa6-52233d3aa129
 map.role:definition
 map.type:neighbor
-modified:1582714534807
+modified:1582719062126
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO-map
-tmap.id:27f501ac-d9cf-49f6-8c7f-c3937ba59daa
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO
+tmap.id:07c31728-7f68-433f-bf20-debdf0cfe027
 type:text/vnd.tiddlywiki
 
 Neighbor Map of COPOLCO

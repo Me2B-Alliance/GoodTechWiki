@@ -1,12 +1,12 @@
-created:1582714534780
+created:1582719062104
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c3584162-6b6f-4a43-89fa-f230c16aa1e4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534780
+modified:1582719062104
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Georgian Government/filter/edges
-tmap.id:0c551881-3e89-466e-ae49-b540bc56b7b1
+tmap.id:8423eebd-9639-4649-9536-f65be6b71b3d
 type:text/vnd.tiddlywiki
 
 No body provided

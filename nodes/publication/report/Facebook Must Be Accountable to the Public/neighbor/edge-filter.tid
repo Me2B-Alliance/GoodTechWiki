@@ -1,12 +1,12 @@
-created:1582714534949
+created:1582719062273
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:cdc16f85-4eaf-4f6e-a862-fc9cf658984f
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534949
+modified:1582719062273
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Must Be Accountable to the Public/filter/edges
-tmap.id:5cf7584d-05f3-4830-ae74-9ecc8a340ae5
+tmap.id:d6e8bbb6-ca44-4278-bbc6-d312b887bbba
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534772
+created:1582719062096
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:06a8ddcc-871e-42bb-adb9-8399aa8d9402
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534772
+modified:1582719062096
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Söderhamn Kommun/filter/edges
-tmap.id:30eea7b9-334a-4d67-8192-5d96e80b3626
+tmap.id:6ca32bfd-a175-4605-81b4-60d2d31dd270
 type:text/vnd.tiddlywiki
 
 No body provided

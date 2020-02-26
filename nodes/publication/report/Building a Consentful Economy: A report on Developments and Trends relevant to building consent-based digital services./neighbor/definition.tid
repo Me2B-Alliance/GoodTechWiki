@@ -2,16 +2,16 @@ config.central-topic:f467d5fc-124d-4f0d-888b-318bebd9227e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534941
-id:a77f5398-4274-4d94-b6b5-12e6e3df33b2
+created:1582719062266
+id:e31473c4-147f-4ded-ac08-d4e8888e565b
 isview:false
 map.base:f467d5fc-124d-4f0d-888b-318bebd9227e
 map.role:definition
 map.type:neighbor
-modified:1582714534941
+modified:1582719062266
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Building a Consentful Economy: A report on Developments and Trends relevant to building consent-based digital services.-map
-tmap.id:a77f5398-4274-4d94-b6b5-12e6e3df33b2
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Building a Consentful Economy: A report on Developments and Trends relevant to building consent-based digital services.
+tmap.id:e31473c4-147f-4ded-ac08-d4e8888e565b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Building a Consentful Economy: A report on Developments and Trends relevant to building consent-based digital services.

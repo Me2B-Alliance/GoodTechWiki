@@ -2,16 +2,16 @@ config.central-topic:2fe1266d-0138-4da8-ac7a-6bb3db4f236d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534889
-id:fa1e36ca-cd15-48a8-b618-71bba3c630be
+created:1582719062209
+id:0f65cf98-85d9-4cb3-b341-fba1e389b509
 isview:false
 map.base:2fe1266d-0138-4da8-ac7a-6bb3db4f236d
 map.role:definition
 map.type:neighbor
-modified:1582714534889
+modified:1582719062209
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intelligent Third- Party Risk Management-map
-tmap.id:fa1e36ca-cd15-48a8-b618-71bba3c630be
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intelligent Third- Party Risk Management
+tmap.id:0f65cf98-85d9-4cb3-b341-fba1e389b509
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Intelligent Third- Party Risk Management

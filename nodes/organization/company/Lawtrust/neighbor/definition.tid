@@ -2,16 +2,16 @@ config.central-topic:4f2ef9aa-281c-4702-a318-7443b65ac4d3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534768
-id:7cd94306-dc1b-4eb4-9c19-be67c1bdf657
+created:1582719062090
+id:599a1242-5c07-49ff-8aa4-482fe8632029
 isview:false
 map.base:4f2ef9aa-281c-4702-a318-7443b65ac4d3
 map.role:definition
 map.type:neighbor
-modified:1582714534768
+modified:1582719062090
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lawtrust-map
-tmap.id:7cd94306-dc1b-4eb4-9c19-be67c1bdf657
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lawtrust
+tmap.id:599a1242-5c07-49ff-8aa4-482fe8632029
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Lawtrust

@@ -2,16 +2,16 @@ config.central-topic:8912d90a-2704-4d95-989b-51cdc1d52457
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534914
-id:9beacb67-ba52-46ab-ae3e-3d0c9a6b7dbb
+created:1582719062236
+id:818cb706-feab-4c8a-9b01-90d6df4b537f
 isview:false
 map.base:8912d90a-2704-4d95-989b-51cdc1d52457
 map.role:definition
 map.type:neighbor
-modified:1582714534914
+modified:1582719062236
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies-map
-tmap.id:9beacb67-ba52-46ab-ae3e-3d0c9a6b7dbb
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies
+tmap.id:818cb706-feab-4c8a-9b01-90d6df4b537f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies

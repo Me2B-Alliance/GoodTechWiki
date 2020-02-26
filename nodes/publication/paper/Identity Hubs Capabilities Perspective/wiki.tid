@@ -28,3 +28,4 @@ working.group:
 
 Identity Hubs as currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifer (DID) based user-controlled agent, based on ACLs rather than an object-capabilities (ocap) architecture. The current approach has both security and scalability issues. Transitioning the Hubs design to an ocap model can be achieved by introducing an UMA authorization server as the control endpoint. This avoids creating confused-deputy security issues and expands scale by enabling the hub to delegate accessto resources not stored in the hub itself.
 
+

@@ -1,12 +1,12 @@
-created:1582714534827
+created:1582719062151
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:1df33ffd-9755-4e08-8cd1-9cdc5fd30c1f
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534827
+modified:1582719062151
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association Française pour le Nommage Internet en Coopération (AFNIC)/filter/edges
-tmap.id:347cee27-0912-4271-af6a-13c0a6f4bf1f
+tmap.id:555fab20-c405-4b45-9f78-aa8f47a78f21
 type:text/vnd.tiddlywiki
 
 No body provided

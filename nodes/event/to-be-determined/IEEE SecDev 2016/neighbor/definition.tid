@@ -2,16 +2,16 @@ config.central-topic:839b0ba0-7952-4d5f-9a9b-b385a56daf06
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534755
-id:1805f25b-601c-403e-a8f8-5b795cefd0d6
+created:1582719062077
+id:2b321fcb-f4e0-40d0-bd9b-d7f1c4e416eb
 isview:false
 map.base:839b0ba0-7952-4d5f-9a9b-b385a56daf06
 map.role:definition
 map.type:neighbor
-modified:1582714534755
+modified:1582719062077
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE SecDev 2016-map
-tmap.id:1805f25b-601c-403e-a8f8-5b795cefd0d6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE SecDev 2016
+tmap.id:2b321fcb-f4e0-40d0-bd9b-d7f1c4e416eb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE SecDev 2016

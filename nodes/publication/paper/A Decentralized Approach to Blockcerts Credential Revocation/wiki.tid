@@ -28,3 +28,4 @@ working.group:
 
 Blockcerts are blockchain-anchored credentials with a verifcation process designed to be decentralized and trustless. This proposal describes an alternate Ethereum-based method of issuing Blockcerts that addresses knownlimitations in the current reference implementation. This approach allows revocation by issuer, recipient, or pre-defned party (guardian); enables revocation auditing; and is a compatible extension to the Blockcerts standard and verifcation process.
 
+

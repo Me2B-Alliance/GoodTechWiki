@@ -1,12 +1,12 @@
-created:1582714534960
+created:1582719062284
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:7ba83f6e-17a3-4d3e-86df-fb03b4e2fdc9
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534960
+modified:1582719062284
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mediation, Automation, Power(publication/report) (report)/filter/edges
-tmap.id:780c42d6-3bc8-4f0e-bbbd-ec94f0c8b345
+tmap.id:45e5c06a-dbc0-44d3-bc0d-bd6fd702bd82
 type:text/vnd.tiddlywiki
 
 No body provided

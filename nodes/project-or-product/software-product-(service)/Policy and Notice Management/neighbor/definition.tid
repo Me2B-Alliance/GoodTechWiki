@@ -2,16 +2,16 @@ config.central-topic:746d565e-520b-495a-a5cd-b6a840bb534d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534891
-id:c88adff7-9e6e-4e14-a4b5-216e05c917f6
+created:1582719062211
+id:588bceba-a9e4-4df7-bb3c-0b30ca0faab9
 isview:false
 map.base:746d565e-520b-495a-a5cd-b6a840bb534d
 map.role:definition
 map.type:neighbor
-modified:1582714534891
+modified:1582719062211
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Policy and Notice Management-map
-tmap.id:c88adff7-9e6e-4e14-a4b5-216e05c917f6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Policy and Notice Management
+tmap.id:588bceba-a9e4-4df7-bb3c-0b30ca0faab9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Policy and Notice Management

@@ -2,16 +2,16 @@ config.central-topic:5c8a720f-29b2-4a1c-b840-71d9d7d4473e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534935
-id:c2b8b055-fb80-4dfa-949a-eecdaebe5a53
+created:1582719062259
+id:d748af15-802a-4a02-a789-8a190cbcc5eb
 isview:false
 map.base:5c8a720f-29b2-4a1c-b840-71d9d7d4473e
 map.role:definition
 map.type:neighbor
-modified:1582714534935
+modified:1582719062259
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/When Media Companies Insist They’re Not Media Companies and Why It Matters for Communications Policy-map
-tmap.id:c2b8b055-fb80-4dfa-949a-eecdaebe5a53
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/When Media Companies Insist They’re Not Media Companies and Why It Matters for Communications Policy
+tmap.id:d748af15-802a-4a02-a789-8a190cbcc5eb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of When Media Companies Insist They’re Not Media Companies and Why It Matters for Communications Policy

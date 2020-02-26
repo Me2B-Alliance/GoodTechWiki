@@ -1,12 +1,12 @@
-created:1582714534946
+created:1582719062269
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e071550b-192c-4648-ba87-fca750e8abbf
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534946
+modified:1582719062269
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Civil Rights: Health Primer'/filter/edges
-tmap.id:62c83654-38af-4933-9005-64b4cc7ef910
+tmap.id:27284484-a886-4683-99c9-90d5ec88e57c
 type:text/vnd.tiddlywiki
 
 No body provided

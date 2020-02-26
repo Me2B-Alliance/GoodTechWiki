@@ -1,12 +1,12 @@
-created:1582714534958
+created:1582719062282
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:b9159ba3-bd6b-4be0-97a1-96d2d84c5849
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534958
+modified:1582719062282
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lexicon of Lies: Terms for Problematic Information/filter/edges
-tmap.id:65d5480b-ba04-4604-b103-882ad6c06acb
+tmap.id:97a606fc-ddd7-4ef1-8629-c7e0aa2c725c
 type:text/vnd.tiddlywiki
 
 No body provided

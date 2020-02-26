@@ -1,12 +1,12 @@
-created:1582714534805
+created:1582719062124
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d876917e-c001-4246-978b-6bd5257f769f
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534805
+modified:1582719062124
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Interoperability Framework Observatory (NIFO)/filter/edges
-tmap.id:1ac581a6-6f53-4210-83d1-43050586bbdf
+tmap.id:a0799baf-6200-45b9-9e8d-fbf6ce569d35
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -28,3 +28,4 @@ working.group:
 
 Hubs let you securely store and share data. A Hub is a datastore containing semantic data objects at well-known locations. Each object in a Hub is signed by an identity and accessible via a globally recognized API format that explicitlymaps to semantic data objects. Hubs are addressable via unique identifiers maintained in a global namespace.SINGLE ADDRESS FOR MULTIPLE HUB INSTANCESA single entity may have one or more instances of a Hub, all of which are addressable via a URI-routing mechanism linked to the entity’s identifier. Hub instances sync state changes, ensuring the owner can access data and attestations from anywhere, even when offline.
 
+

@@ -2,16 +2,16 @@ config.central-topic:3a4944d4-d76b-4ae8-b5ce-574cc4e9c7eb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534848
-id:20ff62e7-5494-405b-ba68-d221e082c8c7
+created:1582719062167
+id:b03a9669-363d-47fd-8e9b-348451ae16da
 isview:false
 map.base:3a4944d4-d76b-4ae8-b5ce-574cc4e9c7eb
 map.role:definition
 map.type:neighbor
-modified:1582714534848
+modified:1582719062167
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/ULD - Unabhängiges Landeszentrum fur Datenschutz-map
-tmap.id:20ff62e7-5494-405b-ba68-d221e082c8c7
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ULD - Unabhängiges Landeszentrum fur Datenschutz
+tmap.id:b03a9669-363d-47fd-8e9b-348451ae16da
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ULD - Unabhängiges Landeszentrum fur Datenschutz

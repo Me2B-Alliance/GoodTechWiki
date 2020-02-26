@@ -1,12 +1,12 @@
-created:1582714534805
+created:1582719062125
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0afe13a4-92cb-492d-b145-b62a5ddcb3da
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534805
+modified:1582719062125
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Fourth Industrial Revolution/filter/edges
-tmap.id:00a839b4-d0a1-494b-8750-0428c1d37407
+tmap.id:b2dc625e-0f22-4a37-a12f-3145716e36f6
 type:text/vnd.tiddlywiki
 
 No body provided

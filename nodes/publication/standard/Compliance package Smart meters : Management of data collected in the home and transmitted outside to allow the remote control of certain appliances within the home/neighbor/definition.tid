@@ -2,16 +2,16 @@ config.central-topic:6e74d1b8-89f6-4f10-a992-1c09a83ec17f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535001
-id:15b2560b-97c6-4864-b5ee-be6f3add5477
+created:1582719062328
+id:846b92a6-345d-439f-9fd3-df2ce85e4355
 isview:false
 map.base:6e74d1b8-89f6-4f10-a992-1c09a83ec17f
 map.role:definition
 map.type:neighbor
-modified:1582714535001
+modified:1582719062328
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Management of data collected in the home and transmitted outside to allow the remote control of certain appliances within the home-map
-tmap.id:15b2560b-97c6-4864-b5ee-be6f3add5477
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Management of data collected in the home and transmitted outside to allow the remote control of certain appliances within the home
+tmap.id:846b92a6-345d-439f-9fd3-df2ce85e4355
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Compliance package Smart meters : Management of data collected in the home and transmitted outside to allow the remote control of certain appliances within the home

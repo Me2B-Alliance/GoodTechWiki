@@ -1,12 +1,12 @@
-created:1582714534774
+created:1582719062098
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:258c7144-4338-4102-96b1-58325c6d2914
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534774
+modified:1582719062098
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)/filter/edges
-tmap.id:401f8839-7775-4d47-87de-28e66d30acab
+tmap.id:5f74fb47-44de-4e4f-967f-e9a0b58a3860
 type:text/vnd.tiddlywiki
 
 No body provided

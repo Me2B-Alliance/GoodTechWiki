@@ -2,16 +2,16 @@ config.central-topic:ad0b5ca0-403b-45b3-9780-1249dca19361
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534820
-id:a439d2b3-1cc7-4bf3-9438-94229570f48d
+created:1582719062144
+id:70fba0f3-7375-44ca-8e81-07bb6474df71
 isview:false
 map.base:ad0b5ca0-403b-45b3-9780-1249dca19361
 map.role:definition
 map.type:neighbor
-modified:1582714534820
+modified:1582719062144
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform of Trust-map
-tmap.id:a439d2b3-1cc7-4bf3-9438-94229570f48d
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform of Trust
+tmap.id:70fba0f3-7375-44ca-8e81-07bb6474df71
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Platform of Trust

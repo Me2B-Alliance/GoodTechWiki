@@ -29,3 +29,4 @@ RDF extends the linking structure of the Web to use URIs to name the relationshi
 
 This linking structure forms a directed, labeled graph, where the edges represent the named link between two resources, represented by the graph nodes. This graph view is the easiest possible mental model for RDF and is often used in easy-to-understand visual explanations.
 
+

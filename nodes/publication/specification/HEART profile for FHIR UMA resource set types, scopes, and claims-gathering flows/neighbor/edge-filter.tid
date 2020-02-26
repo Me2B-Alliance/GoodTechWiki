@@ -1,12 +1,12 @@
-created:1582714534985
+created:1582719062311
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:713c549b-bfa2-41c2-9066-00e0bf288a4e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534985
+modified:1582719062311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HEART profile for FHIR UMA resource set types, scopes, and claims-gathering flows/filter/edges
-tmap.id:28bb2e07-6518-44cc-a9f0-9ca8d88a765a
+tmap.id:a8416bf5-741b-43f0-80c8-039d7d545267
 type:text/vnd.tiddlywiki
 
 No body provided

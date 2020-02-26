@@ -1,12 +1,12 @@
-created:1582714534932
+created:1582719062253
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:362c39a3-9fe0-4a3d-86a9-86de03734e90
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534932
+modified:1582719062253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSI: A Roadmap for Adoption/filter/edges
-tmap.id:cd48c667-84ca-4be9-854e-23c0eb5a5c15
+tmap.id:95a737c3-b72b-49fd-a099-6c08e8f1dbf7
 type:text/vnd.tiddlywiki
 
 No body provided

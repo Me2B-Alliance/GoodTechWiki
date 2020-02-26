@@ -2,16 +2,16 @@ config.central-topic:e8caf28a-41a7-4437-9312-2a2648e43cd9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534809
-id:ec7d5131-1c14-4d16-8f84-a8aaf559e760
+created:1582719062128
+id:76e629b9-6251-44c9-b05f-545d539ccfc7
 isview:false
 map.base:e8caf28a-41a7-4437-9312-2a2648e43cd9
 map.role:definition
 map.type:neighbor
-modified:1582714534809
+modified:1582719062128
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Certification Body (TCCB)-map
-tmap.id:ec7d5131-1c14-4d16-8f84-a8aaf559e760
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Certification Body (TCCB)
+tmap.id:76e629b9-6251-44c9-b05f-545d539ccfc7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trustless Computing Certification Body (TCCB)

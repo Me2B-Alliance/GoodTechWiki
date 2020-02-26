@@ -1,12 +1,12 @@
-created:1582714534941
+created:1582719062266
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:cc1fa5e7-7c78-499d-93bc-aae33fd3bf40
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534941
+modified:1582719062266
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Biometrics in Schools/filter/edges
-tmap.id:01f325d5-3e2c-4833-8cc8-514b23f567a3
+tmap.id:808b3ebf-4fc3-46d1-b193-cd6ed4e5a25b
 type:text/vnd.tiddlywiki
 
 No body provided

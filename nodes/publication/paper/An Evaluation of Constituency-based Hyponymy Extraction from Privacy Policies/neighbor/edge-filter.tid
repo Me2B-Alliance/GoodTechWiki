@@ -1,12 +1,12 @@
-created:1582714534914
+created:1582719062236
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8912d90a-2704-4d95-989b-51cdc1d52457
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534914
+modified:1582719062236
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies/filter/edges
-tmap.id:2c581c4e-75dd-42f0-9109-e82a3d70a205
+tmap.id:21b31e20-14c8-4e3d-a95c-18a1f0210dd7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:2ffbb507-fe0f-445a-ad17-5335252d177a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535008
-id:9def521a-c4ac-4240-a162-70e9da4be5e1
+created:1582719062334
+id:0168956c-c476-4dd6-ab60-cde4a6408faa
 isview:false
 map.base:2ffbb507-fe0f-445a-ad17-5335252d177a
 map.role:definition
 map.type:neighbor
-modified:1582714535008
+modified:1582719062334
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future ID Presenation-map
-tmap.id:9def521a-c4ac-4240-a162-70e9da4be5e1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future ID Presenation
+tmap.id:0168956c-c476-4dd6-ab60-cde4a6408faa
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Future ID Presenation

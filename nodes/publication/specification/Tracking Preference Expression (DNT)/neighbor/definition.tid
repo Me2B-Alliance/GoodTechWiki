@@ -2,16 +2,16 @@ config.central-topic:d7d2eecb-9ed5-4d7f-b8ce-9a7949dc931b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534994
-id:8af34d5f-9e25-45e9-b111-0eec9b41f391
+created:1582719062321
+id:608a88f3-da05-4575-851a-77060ad04c57
 isview:false
 map.base:d7d2eecb-9ed5-4d7f-b8ce-9a7949dc931b
 map.role:definition
 map.type:neighbor
-modified:1582714534994
+modified:1582719062321
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tracking Preference Expression (DNT)-map
-tmap.id:8af34d5f-9e25-45e9-b111-0eec9b41f391
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tracking Preference Expression (DNT)
+tmap.id:608a88f3-da05-4575-851a-77060ad04c57
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tracking Preference Expression (DNT)

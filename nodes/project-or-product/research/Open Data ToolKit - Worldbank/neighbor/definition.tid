@@ -2,16 +2,16 @@ config.central-topic:556a38a4-752f-4da3-9847-4754ddac2376
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534878
-id:1ceeb93e-a986-4384-901c-548a7c1bb50a
+created:1582719062194
+id:c78ca26f-f55d-44cc-b21f-8e607070da8e
 isview:false
 map.base:556a38a4-752f-4da3-9847-4754ddac2376
 map.role:definition
 map.type:neighbor
-modified:1582714534878
+modified:1582719062194
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data ToolKit - Worldbank-map
-tmap.id:1ceeb93e-a986-4384-901c-548a7c1bb50a
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data ToolKit - Worldbank
+tmap.id:c78ca26f-f55d-44cc-b21f-8e607070da8e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Data ToolKit - Worldbank

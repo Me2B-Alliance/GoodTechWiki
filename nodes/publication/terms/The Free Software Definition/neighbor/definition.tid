@@ -2,16 +2,16 @@ config.central-topic:58a08f7a-c876-4137-8f97-c22f99d00257
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535004
-id:aa698546-98b3-4c23-9551-6cb5ccf7729b
+created:1582719062331
+id:3923ff9c-ab8c-4483-8662-c0b7a73be111
 isview:false
 map.base:58a08f7a-c876-4137-8f97-c22f99d00257
 map.role:definition
 map.type:neighbor
-modified:1582714535004
+modified:1582719062331
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Free Software Definition-map
-tmap.id:aa698546-98b3-4c23-9551-6cb5ccf7729b
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Free Software Definition
+tmap.id:3923ff9c-ab8c-4483-8662-c0b7a73be111
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Free Software Definition

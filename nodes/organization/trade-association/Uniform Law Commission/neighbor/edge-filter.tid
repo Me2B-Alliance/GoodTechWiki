@@ -1,12 +1,12 @@
-created:1582714534845
+created:1582719062164
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:efcb2e77-02be-4c1a-af68-2a080be366e8
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534845
+modified:1582719062164
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Uniform Law Commission/filter/edges
-tmap.id:73f7269d-abfb-4131-b015-573effaf04dd
+tmap.id:7c45d590-e224-48ca-838e-a0f2f9504850
 type:text/vnd.tiddlywiki
 
 No body provided

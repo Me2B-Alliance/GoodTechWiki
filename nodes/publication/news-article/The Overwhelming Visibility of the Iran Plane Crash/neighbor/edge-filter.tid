@@ -1,12 +1,12 @@
-created:1582714534912
+created:1582719062234
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:313f6b99-3ed3-4614-aa6d-7359ee8f2729
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534912
+modified:1582719062234
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Overwhelming Visibility of the Iran Plane Crash/filter/edges
-tmap.id:21d61cba-5157-434a-a272-6ce232fb3319
+tmap.id:042cc484-377b-475d-9c69-57fb49c0fd62
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:23b044b1-634e-4f55-b9d8-8a608b8764a4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534810
-id:26184360-c58c-4946-a8de-d80c66f96ce7
+created:1582719062132
+id:d13e3398-9bf6-47b5-a36c-ecc07c9e0e69
 isview:false
 map.base:23b044b1-634e-4f55-b9d8-8a608b8764a4
 map.role:definition
 map.type:neighbor
-modified:1582714534810
+modified:1582719062132
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association for Computing Machinery-map
-tmap.id:26184360-c58c-4946-a8de-d80c66f96ce7
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association for Computing Machinery
+tmap.id:d13e3398-9bf6-47b5-a36c-ecc07c9e0e69
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Association for Computing Machinery

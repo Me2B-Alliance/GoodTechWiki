@@ -1,12 +1,12 @@
-created:1582714535014
+created:1582719062341
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:27215cfd-3b4e-4529-b666-58cda4089f03
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535014
+modified:1582719062341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Cloud Computing - Privacy and data protection issues - “Sopot Memorandum”/filter/edges
-tmap.id:9feebe7a-8864-490c-8aba-638512d56a89
+tmap.id:bc793c6d-eb91-4c47-b6ba-456c44457cba
 type:text/vnd.tiddlywiki
 
 No body provided

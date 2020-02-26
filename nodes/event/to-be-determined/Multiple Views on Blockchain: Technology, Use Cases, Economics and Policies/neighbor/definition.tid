@@ -2,16 +2,16 @@ config.central-topic:556c462f-ff92-43be-80cf-70bbffe1bb6d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534756
-id:82261cb5-3e74-4de2-8a1d-3b3a005b5614
+created:1582719062079
+id:1a6fad0a-cd59-4c75-a05d-9b92b92f923e
 isview:false
 map.base:556c462f-ff92-43be-80cf-70bbffe1bb6d
 map.role:definition
 map.type:neighbor
-modified:1582714534756
+modified:1582719062079
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Multiple Views on Blockchain: Technology, Use Cases, Economics and Policies-map
-tmap.id:82261cb5-3e74-4de2-8a1d-3b3a005b5614
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Multiple Views on Blockchain: Technology, Use Cases, Economics and Policies
+tmap.id:1a6fad0a-cd59-4c75-a05d-9b92b92f923e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Multiple Views on Blockchain: Technology, Use Cases, Economics and Policies

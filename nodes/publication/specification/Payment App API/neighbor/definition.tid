@@ -2,16 +2,16 @@ config.central-topic:40834b4f-9215-44c7-8b3b-62ed99aeaac1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534993
-id:8bbf9ff8-35b3-4c01-9b16-48a42d01acae
+created:1582719062320
+id:305593b8-26e8-4d2f-ad57-97d5494f4d68
 isview:false
 map.base:40834b4f-9215-44c7-8b3b-62ed99aeaac1
 map.role:definition
 map.type:neighbor
-modified:1582714534993
+modified:1582719062320
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Payment App API-map
-tmap.id:8bbf9ff8-35b3-4c01-9b16-48a42d01acae
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Payment App API
+tmap.id:305593b8-26e8-4d2f-ad57-97d5494f4d68
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Payment App API

@@ -30,3 +30,4 @@ AAAI Spring Symposium on Privacy Enhancing AI and Language Technologies (PAL 201
 
 Privacy policies are documents that describe what data is col-lected by a website or an app and how that data is handled.Privacy policies are often long and difficult to understand. Re-cently people have started to turn to Natural Language Pro-cessing (NLP) to automatically extract statements from thetext of these policies. This article reports on a study to eval-uate the benefits of using word embeddings in this endeavor.Specifically, we use 150,000 privacy policies to build wordvectors in an unsupervised manner. This includes evaluatingthe benefits of privacy specific word embeddings. Evaluationis conducted on the OPP-115 corpus of privacy policy anno-tations. By building privacy-specific embeddings we hope toaccelerate research at the intersection of privacy policies andlanguage technologies.
 
+

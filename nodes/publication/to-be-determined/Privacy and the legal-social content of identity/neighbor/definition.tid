@@ -2,16 +2,16 @@ config.central-topic:46ae8d35-e499-4b80-9ec8-35581ef6aada
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535010
-id:82dd8a5d-7c60-4d42-a9f3-492aa245e45d
+created:1582719062337
+id:68f9c2fd-a873-4ff9-a069-a54c5614a69a
 isview:false
 map.base:46ae8d35-e499-4b80-9ec8-35581ef6aada
 map.role:definition
 map.type:neighbor
-modified:1582714535010
+modified:1582719062337
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy and the legal-social content of identity-map
-tmap.id:82dd8a5d-7c60-4d42-a9f3-492aa245e45d
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy and the legal-social content of identity
+tmap.id:68f9c2fd-a873-4ff9-a069-a54c5614a69a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy and the legal-social content of identity

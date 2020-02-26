@@ -1,12 +1,12 @@
-created:1582714534920
+created:1582719062241
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:47c4a81b-9c31-4ba6-806a-7a2c0a6ddfc3
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534920
+modified:1582719062241
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Exploring Sustainable Technology Commons using Appreciative Inquiry/filter/edges
-tmap.id:324012d1-21d9-45b7-a5ee-219e2ede9a21
+tmap.id:cd921a6a-b027-42ab-8373-10fcef3d52e3
 type:text/vnd.tiddlywiki
 
 No body provided

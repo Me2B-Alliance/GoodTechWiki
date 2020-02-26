@@ -1,12 +1,12 @@
-created:1582714534766
+created:1582719062088
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:19f90bb0-0386-4974-afcc-ae33ee74075d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534766
+modified:1582719062088
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fraunhofer Group for Defense and Security VVS/filter/edges
-tmap.id:db9f5809-cdd8-4bd1-82b0-4955267d4e3f
+tmap.id:46543948-1fd8-4e77-9940-ce8bae0bf0ba
 type:text/vnd.tiddlywiki
 
 No body provided

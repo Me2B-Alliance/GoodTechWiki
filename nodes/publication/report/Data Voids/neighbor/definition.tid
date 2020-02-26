@@ -2,16 +2,16 @@ config.central-topic:ee65a783-2365-4cf6-abde-2646740bc5fb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534945
-id:de72d03c-a1c7-4bf1-8768-d527071ce484
+created:1582719062270
+id:ee7db7cb-64ee-4a82-9ce0-635760682f95
 isview:false
 map.base:ee65a783-2365-4cf6-abde-2646740bc5fb
 map.role:definition
 map.type:neighbor
-modified:1582714534945
+modified:1582719062270
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Voids-map
-tmap.id:de72d03c-a1c7-4bf1-8768-d527071ce484
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Voids
+tmap.id:ee7db7cb-64ee-4a82-9ce0-635760682f95
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Voids

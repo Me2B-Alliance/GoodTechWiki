@@ -2,16 +2,16 @@ config.central-topic:e500568a-d2fa-41ae-8cda-a35930f0304f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534956
-id:72836d49-5b1c-4a61-9c39-bdc5d8f2b0fc
+created:1582719062280
+id:544fd420-8245-4532-8a7f-cb83025ef7ea
 isview:false
 map.base:e500568a-d2fa-41ae-8cda-a35930f0304f
 map.role:definition
 map.type:neighbor
-modified:1582714534956
+modified:1582719062280
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP REPORTS N°1 : Privacy Towards 2020 (A4)'-map
-tmap.id:72836d49-5b1c-4a61-9c39-bdc5d8f2b0fc
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP REPORTS N°1 : Privacy Towards 2020 (A4)'
+tmap.id:544fd420-8245-4532-8a7f-cb83025ef7ea
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IP REPORTS N°1 : Privacy Towards 2020 (A4)'

@@ -2,16 +2,16 @@ config.central-topic:2859fcdf-c63a-4c9d-b951-5731b9281105
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535009
-id:d4ce49cb-a629-4422-855a-7f27e041fcea
+created:1582719062335
+id:28ce5afa-9158-4dcd-bed3-1a8640ea884b
 isview:false
 map.base:2859fcdf-c63a-4c9d-b951-5731b9281105
 map.role:definition
 map.type:neighbor
-modified:1582714535009
+modified:1582719062335
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Initial Open Notice Call for Collaboration-map
-tmap.id:d4ce49cb-a629-4422-855a-7f27e041fcea
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Initial Open Notice Call for Collaboration
+tmap.id:28ce5afa-9158-4dcd-bed3-1a8640ea884b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Initial Open Notice Call for Collaboration

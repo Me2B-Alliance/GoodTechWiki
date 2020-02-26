@@ -28,3 +28,4 @@ working.group:
 
 Proving control of a DID requires proving ownership of a private key corresponding to a public key for the DID. Of course, this could be done with a new DID-specifc protocol. However, standard protocols for proving ownership of a public/private key pair already exist.This paper describes how to reuse the Self-Issued OpenID Connect (SIOP) specifcation and related protocol messages to prove control of a DID. It describes both why and how to do this. Related topics, such as release of claims, are also touched upon.
 
+

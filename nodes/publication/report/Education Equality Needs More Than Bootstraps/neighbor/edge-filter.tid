@@ -1,12 +1,12 @@
-created:1582714534950
+created:1582719062273
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:af526447-b0fa-4a07-863d-35566c0fd42d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534950
+modified:1582719062273
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Education Equality Needs More Than Bootstraps/filter/edges
-tmap.id:0d3d2921-3485-45fa-b167-dc373ecf1fe9
+tmap.id:9d068b82-62fa-4ed4-b1d1-e09b4eea090f
 type:text/vnd.tiddlywiki
 
 No body provided

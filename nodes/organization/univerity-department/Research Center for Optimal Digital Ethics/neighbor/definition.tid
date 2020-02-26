@@ -2,16 +2,16 @@ config.central-topic:2944bdce-d655-46b0-9fc3-dbfba297f498
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534846
-id:646e57f9-d275-4c9b-9aac-2574df5227a1
+created:1582719062165
+id:dcf8fea0-bf04-40ee-b778-48be0eaf7bec
 isview:false
 map.base:2944bdce-d655-46b0-9fc3-dbfba297f498
 map.role:definition
 map.type:neighbor
-modified:1582714534846
+modified:1582719062165
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Research Center for Optimal Digital Ethics-map
-tmap.id:646e57f9-d275-4c9b-9aac-2574df5227a1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Research Center for Optimal Digital Ethics
+tmap.id:dcf8fea0-bf04-40ee-b778-48be0eaf7bec
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Research Center for Optimal Digital Ethics

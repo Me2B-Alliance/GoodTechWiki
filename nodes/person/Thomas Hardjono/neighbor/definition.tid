@@ -2,16 +2,16 @@ config.central-topic:0a95245a-9640-48e7-ba94-3c01e280d60d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534858
-id:347423a9-1dd1-40af-8e77-692c9db9786c
+created:1582719062177
+id:0b35bf37-2f9f-4527-88b4-8d954c112826
 isview:false
 map.base:0a95245a-9640-48e7-ba94-3c01e280d60d
 map.role:definition
 map.type:neighbor
-modified:1582714534858
+modified:1582719062177
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thomas Hardjono-map
-tmap.id:347423a9-1dd1-40af-8e77-692c9db9786c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thomas Hardjono
+tmap.id:0b35bf37-2f9f-4527-88b4-8d954c112826
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Thomas Hardjono

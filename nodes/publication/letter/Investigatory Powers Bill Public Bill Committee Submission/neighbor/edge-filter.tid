@@ -1,12 +1,12 @@
-created:1582714534910
+created:1582719062231
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8781cd35-d3b1-4e45-a249-8e947bbceaca
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534910
+modified:1582719062231
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Investigatory Powers Bill Public Bill Committee Submission/filter/edges
-tmap.id:a84e0738-a620-40eb-b8bd-d46fd8d45aa0
+tmap.id:d6e9b688-93a3-430a-961a-b3119368d2ff
 type:text/vnd.tiddlywiki
 
 No body provided

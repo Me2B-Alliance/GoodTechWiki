@@ -2,16 +2,16 @@ config.central-topic:dc4395e7-4703-41af-ac4b-0d46a5604c70
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534958
-id:57fcde70-2e86-42ef-8309-93eefdffdf00
+created:1582719062284
+id:833790d9-d063-4844-9b88-0eea48b03e4d
 isview:false
 map.base:dc4395e7-4703-41af-ac4b-0d46a5604c70
 map.role:definition
 map.type:neighbor
-modified:1582714534958
+modified:1582719062284
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Is using technology for learning a good idea?-map
-tmap.id:57fcde70-2e86-42ef-8309-93eefdffdf00
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Is using technology for learning a good idea?
+tmap.id:833790d9-d063-4844-9b88-0eea48b03e4d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Is using technology for learning a good idea?

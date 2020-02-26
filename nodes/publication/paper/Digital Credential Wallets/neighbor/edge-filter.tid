@@ -1,12 +1,12 @@
-created:1582714534919
+created:1582719062240
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:b5f3be90-941e-42f0-884f-f707f7da40f4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534919
+modified:1582719062240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Credential Wallets/filter/edges
-tmap.id:cdb55ecc-4e1b-4699-9fcf-c6b07980cce8
+tmap.id:809878c3-968c-44e1-bcf8-18aa272ca9ad
 type:text/vnd.tiddlywiki
 
 No body provided

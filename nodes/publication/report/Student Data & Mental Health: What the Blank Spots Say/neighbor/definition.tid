@@ -2,16 +2,16 @@ config.central-topic:c27552bb-5399-48ce-a6f1-e5eeec7e7a44
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534968
-id:812f8624-1aa6-43f1-a19e-db82a0060a37
+created:1582719062294
+id:732bb165-93eb-41b3-a194-f5593c0cd375
 isview:false
 map.base:c27552bb-5399-48ce-a6f1-e5eeec7e7a44
 map.role:definition
 map.type:neighbor
-modified:1582714534968
+modified:1582719062294
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Mental Health: What the Blank Spots Say-map
-tmap.id:812f8624-1aa6-43f1-a19e-db82a0060a37
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Mental Health: What the Blank Spots Say
+tmap.id:732bb165-93eb-41b3-a194-f5593c0cd375
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Student Data & Mental Health: What the Blank Spots Say

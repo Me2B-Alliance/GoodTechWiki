@@ -1,0 +1,12 @@
+created:1582718900302
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:1ac71ccd-e99b-4ad1-81c1-9e9c47f02ab4
+map.role:edge-filter
+map.type:neighbor
+modified:1582718900302
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security of personal data (report)/filter/edges
+tmap.id:ca60d378-5cc4-4118-8e61-d910c37fee41
+type:text/vnd.tiddlywiki
+
+No body provided

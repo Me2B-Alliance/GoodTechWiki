@@ -1,12 +1,12 @@
-created:1582714534844
+created:1582719062163
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d6480c3e-b8c9-4595-8fc2-de853b54a573
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534844
+modified:1582719062163
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Telecommunications Industry Association (TIA)/filter/edges
-tmap.id:306465f1-52b3-47be-a33a-3f6cc1440f6f
+tmap.id:9db31b23-d525-4805-a0ef-d1ce93ee2c00
 type:text/vnd.tiddlywiki
 
 No body provided

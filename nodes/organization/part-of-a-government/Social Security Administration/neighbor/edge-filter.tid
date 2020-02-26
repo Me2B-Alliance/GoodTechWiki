@@ -1,12 +1,12 @@
-created:1582714534797
+created:1582719062119
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8a03029c-7038-4124-b621-220d6c6a0584
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534797
+modified:1582719062119
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Social Security Administration/filter/edges
-tmap.id:aab2e247-3b7b-4ddb-917d-180c3d03b0f1
+tmap.id:2a1e9431-8975-482f-9c50-8eccb7a7717b
 type:text/vnd.tiddlywiki
 
 No body provided

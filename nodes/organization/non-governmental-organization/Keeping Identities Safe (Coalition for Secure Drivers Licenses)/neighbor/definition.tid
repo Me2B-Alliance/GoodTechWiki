@@ -2,16 +2,16 @@ config.central-topic:14f8cd01-4138-4c7a-84af-491a0bc144f7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534792
-id:715c0e21-af41-468a-8b2f-62a526523f4f
+created:1582719062115
+id:47de0608-2bfe-4369-82cb-09b6b6cd95f5
 isview:false
 map.base:14f8cd01-4138-4c7a-84af-491a0bc144f7
 map.role:definition
 map.type:neighbor
-modified:1582714534792
+modified:1582719062115
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keeping Identities Safe (Coalition for Secure Drivers Licenses)-map
-tmap.id:715c0e21-af41-468a-8b2f-62a526523f4f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keeping Identities Safe (Coalition for Secure Drivers Licenses)
+tmap.id:47de0608-2bfe-4369-82cb-09b6b6cd95f5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Keeping Identities Safe (Coalition for Secure Drivers Licenses)

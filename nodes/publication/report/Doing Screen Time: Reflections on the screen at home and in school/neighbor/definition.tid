@@ -2,16 +2,16 @@ config.central-topic:a8ab07c3-76b9-4931-9447-de69c7363cdd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534948
-id:bf473aaa-d2aa-46cb-aedb-417da0bd7f08
+created:1582719062272
+id:a4b2623e-f868-4b2c-b8e3-8333ce068ad6
 isview:false
 map.base:a8ab07c3-76b9-4931-9447-de69c7363cdd
 map.role:definition
 map.type:neighbor
-modified:1582714534948
+modified:1582719062272
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doing Screen Time: Reflections on the screen at home and in school-map
-tmap.id:bf473aaa-d2aa-46cb-aedb-417da0bd7f08
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doing Screen Time: Reflections on the screen at home and in school
+tmap.id:a4b2623e-f868-4b2c-b8e3-8333ce068ad6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Doing Screen Time: Reflections on the screen at home and in school

@@ -2,16 +2,16 @@ config.central-topic:ba37d70b-0f1d-42c8-9248-a220d450709b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535019
-id:43e69b11-3357-46f7-a9ae-956521c1de04
+created:1582719062346
+id:4b66cd84-3264-43f8-aa6e-49695588e725
 isview:false
 map.base:ba37d70b-0f1d-42c8-9248-a220d450709b
 map.role:definition
 map.type:neighbor
-modified:1582714535019
+modified:1582719062346
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Computers Watching Movies-map
-tmap.id:43e69b11-3357-46f7-a9ae-956521c1de04
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Computers Watching Movies
+tmap.id:4b66cd84-3264-43f8-aa6e-49695588e725
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Computers Watching Movies

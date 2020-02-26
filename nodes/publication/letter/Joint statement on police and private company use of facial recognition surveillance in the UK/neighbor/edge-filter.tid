@@ -1,12 +1,12 @@
-created:1582714534910
+created:1582719062231
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:565db5f8-adec-49ea-8a5e-8bf2e423a0a7
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534910
+modified:1582719062231
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Joint statement on police and private company use of facial recognition surveillance in the UK/filter/edges
-tmap.id:df570788-f230-4fd1-8dcb-b7836850efc3
+tmap.id:3568eae3-16f9-435e-91e0-774674f3ba25
 type:text/vnd.tiddlywiki
 
 No body provided

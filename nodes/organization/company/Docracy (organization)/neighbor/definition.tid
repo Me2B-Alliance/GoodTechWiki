@@ -2,16 +2,16 @@ config.central-topic:be100602-be7d-4a26-8cd9-c366024bb7e6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534764
-id:68846e25-4d97-4c08-a811-cda3223c209d
+created:1582719062087
+id:f68cab3e-2d98-4de1-86e7-108e81deb9df
 isview:false
 map.base:be100602-be7d-4a26-8cd9-c366024bb7e6
 map.role:definition
 map.type:neighbor
-modified:1582714534764
+modified:1582719062087
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Docracy (organization)-map
-tmap.id:68846e25-4d97-4c08-a811-cda3223c209d
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Docracy (organization)
+tmap.id:f68cab3e-2d98-4de1-86e7-108e81deb9df
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Docracy (organization)

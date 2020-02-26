@@ -29,3 +29,4 @@ AccountChooser is a facility where users can store basic identifying information
 
 This specification standardizes a low-level JavaScript interface that can be offered by an AccountChooser, enabling developers to leverage AccountChooser functionality for login and signup pages, and push new Account Records into the Chooser, through javascript methods exposed by the AccountChooser API. This developer wishing to build their own AccountChooser can do so by meeting this specification.
 
+

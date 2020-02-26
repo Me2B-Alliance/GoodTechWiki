@@ -1,12 +1,12 @@
-created:1582714534797
+created:1582719062121
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e7d2f0a4-7715-4a20-9cf1-0bccac261e2b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534797
+modified:1582719062121
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/White House - Office of Science and Technology Policy/filter/edges
-tmap.id:844ff051-adac-4451-a05a-6c72ae21d4ed
+tmap.id:a617bb39-d950-4b25-a3c9-3cf66d2a9eae
 type:text/vnd.tiddlywiki
 
 No body provided

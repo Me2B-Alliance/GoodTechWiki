@@ -2,16 +2,16 @@ config.central-topic:037893fa-0bca-4d00-b20b-bfc9a85f5895
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534766
-id:b971779c-4794-412f-a148-495f236c2b1b
+created:1582719062088
+id:415cc20d-fd2a-4117-9816-19c383494f4c
 isview:false
 map.base:037893fa-0bca-4d00-b20b-bfc9a85f5895
 map.role:definition
 map.type:neighbor
-modified:1582714534766
+modified:1582719062088
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto-map
-tmap.id:b971779c-4794-412f-a148-495f236c2b1b
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto
+tmap.id:415cc20d-fd2a-4117-9816-19c383494f4c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Gemalto

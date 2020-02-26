@@ -2,16 +2,16 @@ config.central-topic:60a563f8-6344-4c3d-96e2-ee484f64560d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534832
-id:caca017c-d82b-4050-933d-8cbc8c74dbe7
+created:1582719062154
+id:86d3bad6-9ac7-46d3-a413-2f66c6684ff0
 isview:false
 map.base:60a563f8-6344-4c3d-96e2-ee484f64560d
 map.role:definition
 map.type:neighbor
-modified:1582714534832
+modified:1582719062154
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hyperledger-map
-tmap.id:caca017c-d82b-4050-933d-8cbc8c74dbe7
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hyperledger
+tmap.id:86d3bad6-9ac7-46d3-a413-2f66c6684ff0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Hyperledger

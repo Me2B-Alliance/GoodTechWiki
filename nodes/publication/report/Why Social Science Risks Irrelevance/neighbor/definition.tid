@@ -2,16 +2,16 @@ config.central-topic:cd0bd684-695b-427f-8264-6add786a96d3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534981
-id:e171b5d1-592c-491a-b0e3-fb8d39446713
+created:1582719062307
+id:a0db31de-e3fb-478b-ad13-06a0228e5803
 isview:false
 map.base:cd0bd684-695b-427f-8264-6add786a96d3
 map.role:definition
 map.type:neighbor
-modified:1582714534981
+modified:1582719062307
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why Social Science Risks Irrelevance-map
-tmap.id:e171b5d1-592c-491a-b0e3-fb8d39446713
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why Social Science Risks Irrelevance
+tmap.id:a0db31de-e3fb-478b-ad13-06a0228e5803
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Why Social Science Risks Irrelevance

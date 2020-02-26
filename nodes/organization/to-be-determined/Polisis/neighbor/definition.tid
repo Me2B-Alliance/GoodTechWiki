@@ -2,16 +2,16 @@ config.central-topic:5ebd7640-2526-47cb-b74a-96782f6b1e37
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534821
-id:a306338c-e547-4064-9deb-fd1f5c52cf21
+created:1582719062143
+id:23bbf759-2549-47a7-a9d1-bbd674e4e013
 isview:false
 map.base:5ebd7640-2526-47cb-b74a-96782f6b1e37
 map.role:definition
 map.type:neighbor
-modified:1582714534821
+modified:1582719062143
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Polisis-map
-tmap.id:a306338c-e547-4064-9deb-fd1f5c52cf21
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Polisis
+tmap.id:23bbf759-2549-47a7-a9d1-bbd674e4e013
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Polisis

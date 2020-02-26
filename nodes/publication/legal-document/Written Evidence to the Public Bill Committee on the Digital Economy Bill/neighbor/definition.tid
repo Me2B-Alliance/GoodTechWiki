@@ -2,16 +2,16 @@ config.central-topic:c469968f-1269-4209-8d8a-6cd471e10f9e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534907
-id:113c6be0-06de-4ff4-82bd-d969832581ba
+created:1582719062228
+id:d5c02143-d13f-4c63-afc9-b3c6b883d7ef
 isview:false
 map.base:c469968f-1269-4209-8d8a-6cd471e10f9e
 map.role:definition
 map.type:neighbor
-modified:1582714534907
+modified:1582719062228
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Written Evidence to the Public Bill Committee on the Digital Economy Bill-map
-tmap.id:113c6be0-06de-4ff4-82bd-d969832581ba
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Written Evidence to the Public Bill Committee on the Digital Economy Bill
+tmap.id:d5c02143-d13f-4c63-afc9-b3c6b883d7ef
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Written Evidence to the Public Bill Committee on the Digital Economy Bill

@@ -2,16 +2,16 @@ config.central-topic:0070d839-bf11-4ae6-81f5-fcbc166f15ae
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534796
-id:24a513bd-b9d9-4f45-89fc-bf20cbd107f4
+created:1582719062120
+id:3d40b1d2-6cd5-49c9-a60e-44774dcc65cd
 isview:false
 map.base:0070d839-bf11-4ae6-81f5-fcbc166f15ae
 map.role:definition
 map.type:neighbor
-modified:1582714534796
+modified:1582719062120
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Scientific & Technological Research Council of Turkey (TUBITAK)-map
-tmap.id:24a513bd-b9d9-4f45-89fc-bf20cbd107f4
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Scientific & Technological Research Council of Turkey (TUBITAK)
+tmap.id:3d40b1d2-6cd5-49c9-a60e-44774dcc65cd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Scientific & Technological Research Council of Turkey (TUBITAK)

@@ -2,16 +2,16 @@ config.central-topic:19cbc15a-b47d-4c94-886c-c5d728b659ee
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534850
-id:a37e2608-8161-42f7-b03d-1b9205d82fd1
+created:1582719062170
+id:1f7a83d2-1aba-46e9-9d73-368666ada4a4
 isview:false
 map.base:19cbc15a-b47d-4c94-886c-c5d728b659ee
 map.role:definition
 map.type:neighbor
-modified:1582714534850
+modified:1582719062170
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Anthony Nadalin-map
-tmap.id:a37e2608-8161-42f7-b03d-1b9205d82fd1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Anthony Nadalin
+tmap.id:1f7a83d2-1aba-46e9-9d73-368666ada4a4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Anthony Nadalin

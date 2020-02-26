@@ -2,16 +2,16 @@ config.central-topic:69b2c873-1908-4c49-87cf-27087b4574a4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534995
-id:fe8f7940-d34d-418b-b047-465b6eb58e12
+created:1582719062322
+id:d20ed353-550e-4311-8abb-152c3391a348
 isview:false
 map.base:69b2c873-1908-4c49-87cf-27087b4574a4
 map.role:definition
 map.type:neighbor
-modified:1582714534995
+modified:1582719062322
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verifiable Claims Data Model 1.0-map
-tmap.id:fe8f7940-d34d-418b-b047-465b6eb58e12
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verifiable Claims Data Model 1.0
+tmap.id:d20ed353-550e-4311-8abb-152c3391a348
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Verifiable Claims Data Model 1.0

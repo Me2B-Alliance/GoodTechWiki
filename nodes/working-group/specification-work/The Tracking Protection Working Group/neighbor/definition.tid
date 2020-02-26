@@ -2,16 +2,16 @@ config.central-topic:35197831-fb28-4894-a8f8-e08044496a6f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535039
-id:325183c7-eb0b-4519-969e-dc948124a6e1
+created:1582719062367
+id:b289acb9-aad8-4142-8f84-349bd2d8be12
 isview:false
 map.base:35197831-fb28-4894-a8f8-e08044496a6f
 map.role:definition
 map.type:neighbor
-modified:1582714535039
+modified:1582719062367
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Tracking Protection Working Group-map
-tmap.id:325183c7-eb0b-4519-969e-dc948124a6e1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Tracking Protection Working Group
+tmap.id:b289acb9-aad8-4142-8f84-349bd2d8be12
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Tracking Protection Working Group

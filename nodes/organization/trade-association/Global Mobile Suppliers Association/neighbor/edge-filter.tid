@@ -1,12 +1,12 @@
-created:1582714534832
+created:1582719062154
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0fd35e30-0d2d-45a8-970b-a89cc530b33e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534832
+modified:1582719062154
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Mobile Suppliers Association/filter/edges
-tmap.id:23925c5e-cbe1-4417-9b58-5db92ab064d7
+tmap.id:0510125b-4ab9-43b2-b020-16f35d9f4038
 type:text/vnd.tiddlywiki
 
 No body provided

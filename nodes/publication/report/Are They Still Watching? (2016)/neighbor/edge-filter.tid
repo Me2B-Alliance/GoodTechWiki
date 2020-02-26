@@ -1,12 +1,12 @@
-created:1582714534940
+created:1582719062263
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:50f6e92d-122e-4998-9865-4c18da424d5c
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534940
+modified:1582719062263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Are They Still Watching? (2016)/filter/edges
-tmap.id:38632c4c-1352-476a-a00f-2c8403383ff9
+tmap.id:2040d7e8-9f19-4e53-9891-d6399577c2b0
 type:text/vnd.tiddlywiki
 
 No body provided

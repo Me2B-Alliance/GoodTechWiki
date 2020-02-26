@@ -1,12 +1,12 @@
-created:1582714535012
+created:1582719062338
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:db81e13d-326e-4c81-8c1d-33de48d4b437
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535012
+modified:1582719062338
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Six Conundrums of Global Identity/filter/edges
-tmap.id:d3aebe43-7b51-42ab-b042-856be68524f5
+tmap.id:f2b02a23-a328-49f5-aa6a-04486379fee3
 type:text/vnd.tiddlywiki
 
 No body provided

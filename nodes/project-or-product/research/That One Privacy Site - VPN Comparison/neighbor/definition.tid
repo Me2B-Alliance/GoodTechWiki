@@ -2,16 +2,16 @@ config.central-topic:5ad6390b-3dd9-4a82-ab08-9b76a44286e5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534876
-id:842175bb-30a2-4cc7-8da9-3e52390e0aa1
+created:1582719062196
+id:94e2b531-49cc-42a6-b339-602898f0e8f3
 isview:false
 map.base:5ad6390b-3dd9-4a82-ab08-9b76a44286e5
 map.role:definition
 map.type:neighbor
-modified:1582714534876
+modified:1582719062196
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/That One Privacy Site - VPN Comparison-map
-tmap.id:842175bb-30a2-4cc7-8da9-3e52390e0aa1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/That One Privacy Site - VPN Comparison
+tmap.id:94e2b531-49cc-42a6-b339-602898f0e8f3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of That One Privacy Site - VPN Comparison

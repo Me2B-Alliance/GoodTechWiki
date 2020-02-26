@@ -1,12 +1,12 @@
-created:1582714534846
+created:1582719062165
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:b5918983-9750-4dc6-b032-acbabecccdcd
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534846
+modified:1582719062165
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bern University of Applied Sciences/filter/edges
-tmap.id:0c4d6637-4309-4f92-a1a8-adf2fee37250
+tmap.id:6f173e7a-54a7-4aed-9924-1cbd720c02e0
 type:text/vnd.tiddlywiki
 
 No body provided

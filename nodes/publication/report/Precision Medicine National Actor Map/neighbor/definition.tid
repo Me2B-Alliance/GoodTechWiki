@@ -2,16 +2,16 @@ config.central-topic:c2737e41-8953-4b96-b7db-7f4d5cd85f34
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534966
-id:c599c660-bdef-40c9-a4e3-b3c0891e0f4f
+created:1582719062288
+id:0f5d455c-e306-4dec-94bf-00880be38f64
 isview:false
 map.base:c2737e41-8953-4b96-b7db-7f4d5cd85f34
 map.role:definition
 map.type:neighbor
-modified:1582714534966
+modified:1582719062288
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Precision Medicine National Actor Map-map
-tmap.id:c599c660-bdef-40c9-a4e3-b3c0891e0f4f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Precision Medicine National Actor Map
+tmap.id:0f5d455c-e306-4dec-94bf-00880be38f64
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Precision Medicine National Actor Map

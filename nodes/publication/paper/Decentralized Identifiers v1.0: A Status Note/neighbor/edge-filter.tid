@@ -1,12 +1,12 @@
-created:1582714534917
+created:1582719062239
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:bec7b87a-0a1a-4327-b402-c7d21272d6cc
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534917
+modified:1582719062239
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identifiers v1.0: A Status Note/filter/edges
-tmap.id:9a1c30c2-53d6-4ef9-babe-d51d9aa4e5d4
+tmap.id:ae6f8a92-54c6-4dc6-8259-c0306d64aca8
 type:text/vnd.tiddlywiki
 
 No body provided

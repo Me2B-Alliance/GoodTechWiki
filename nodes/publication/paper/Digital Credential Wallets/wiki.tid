@@ -28,3 +28,4 @@ working.group:
 
 Digital Credential Wallets (DCWs) are becoming more commonplace as more of our physical credentials become digital. In this paper, we provide requirements for digital credential wallet design, ofer considerations for key management of DCWs, and go over several real-life use cases.INTRODUCTIONDigital credentials are seeing widespread usage as governments, businesses, and individuals increasingly come online. Users need to be able to store these credentials for ease of use. Moreover, others validating these credentials need to be able to do so in a secure manner. In order to do this, digital credentials are stored in what are called DigitalCredentialWallets (DCW).The goal of this paper is to provide an overview of the considerations needed to build digital credential wallets and various use cases to put these considerations into perspective.
 
+

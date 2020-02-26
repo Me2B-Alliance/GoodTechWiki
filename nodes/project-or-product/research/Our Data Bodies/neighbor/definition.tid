@@ -2,16 +2,16 @@ config.central-topic:b53dd77d-a07b-4f3b-91f2-aa1ba18e752d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534875
-id:046223e7-df98-4ea6-a467-59a2a51a3dde
+created:1582719062190
+id:89837545-f7f6-4245-8ee5-359941f9ad09
 isview:false
 map.base:b53dd77d-a07b-4f3b-91f2-aa1ba18e752d
 map.role:definition
 map.type:neighbor
-modified:1582714534875
+modified:1582719062190
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Our Data Bodies-map
-tmap.id:046223e7-df98-4ea6-a467-59a2a51a3dde
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Our Data Bodies
+tmap.id:89837545-f7f6-4245-8ee5-359941f9ad09
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Our Data Bodies

@@ -28,3 +28,4 @@ working.group:
 
 The goal of the "LD Signature Format Alignment" Working Group at Rebooting the Web of Trust IV was to investigate the feasibility and impact of the proposed 2017 RSA Signature Suite spec, which brings JSON-LD signatures into alignment with the JOSE JSON Web Signature (JWS) standards.The 2017 RSA Signature Suite is based on RFC 7797, the JSON Web Signature (JWS) Unencoded Payload Option specifcation. This approach avoids past concerns about JWT raised in the LD signature adopters, including:•Increased space consumption associated withbase-64 encoding.•Difculty of nesting or chaining signatures, leading to data duplication.•Use of a format that is not a JSON object, preventing ability to rely exclusively on a JSON document-based storage engine (whilepreserving the signature)
 
+

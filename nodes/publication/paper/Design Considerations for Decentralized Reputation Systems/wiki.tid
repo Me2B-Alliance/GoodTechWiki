@@ -28,3 +28,4 @@ working.group:
 
 Reputation systems provide an efective way to builda web of trust on the Internet. They consider the history of interactions between peers to establish a measure for a reputation that can itself be used to support a trust decision. Decentralised reputations systems (DRS) rely on a decentralised computer architecture and a distributed ledger to store and maintain reputation information, so that no single entity has control over that information.While there have been numerous analyses of how reputation may be used, there has to date been no systematic defnition of the various aspects that should be considered when a reputation system is being designed. By defning these design considerations, we can come to a consensus about what is and is not important in a system. We can discuss the diferent ways in which they can be built and we can conduct further research and analysis into specifc factors in a structured way.
 
+

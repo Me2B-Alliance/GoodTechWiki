@@ -2,16 +2,16 @@ config.central-topic:f7be9838-20a1-47f4-aab7-c62250d3928e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535024
-id:9904b7ec-4d6a-40fb-b2c2-5a8b01c576da
+created:1582719062348
+id:91598819-2f27-4a3a-813c-706c5b806b3e
 isview:false
 map.base:f7be9838-20a1-47f4-aab7-c62250d3928e
 map.role:definition
 map.type:neighbor
-modified:1582714535024
+modified:1582719062348
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC-map
-tmap.id:9904b7ec-4d6a-40fb-b2c2-5a8b01c576da
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC
+tmap.id:91598819-2f27-4a3a-813c-706c5b806b3e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC

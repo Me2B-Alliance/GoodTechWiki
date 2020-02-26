@@ -1,12 +1,12 @@
-created:1582714534896
+created:1582719062214
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:a34e0698-2829-4eaf-be4f-f4c31b41f873
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534896
+modified:1582719062214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fire Mark Zuckerburg/filter/edges
-tmap.id:f2401c31-ad0c-4ee5-8d6e-3e89b64ae210
+tmap.id:68be5e60-20ed-4e0c-bdc4-83ccfd767aad
 type:text/vnd.tiddlywiki
 
 No body provided

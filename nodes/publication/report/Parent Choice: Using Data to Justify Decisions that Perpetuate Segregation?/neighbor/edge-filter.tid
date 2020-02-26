@@ -1,12 +1,12 @@
-created:1582714534961
+created:1582719062287
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:2d33f0d3-339c-49ef-b27d-cdebe5d05ea5
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534961
+modified:1582719062287
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Parent Choice: Using Data to Justify Decisions that Perpetuate Segregation?/filter/edges
-tmap.id:f7b99dc7-0dab-4095-9660-f5d386fb7794
+tmap.id:cfb662b9-047c-4922-bf50-0e552990db5d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:99df002b-8bc8-47ce-b3a5-9d3b0e4bd733
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534831
-id:830b4450-10da-4030-aa15-175899b4de35
+created:1582719062153
+id:75d3dd95-5047-457b-833d-b07935a91a0b
 isview:false
 map.base:99df002b-8bc8-47ce-b3a5-9d3b0e4bd733
 map.role:definition
 map.type:neighbor
-modified:1582714534831
+modified:1582719062153
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/EEMA-map
-tmap.id:830b4450-10da-4030-aa15-175899b4de35
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/EEMA
+tmap.id:75d3dd95-5047-457b-833d-b07935a91a0b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EEMA

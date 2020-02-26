@@ -2,16 +2,16 @@ config.central-topic:53890512-a139-410f-b2f3-f788ede394c6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534846
-id:a55bae98-7050-4eb3-b4b2-9ba766aff682
+created:1582719062161
+id:e2b14c89-16e5-4444-8065-ef41937d3b57
 isview:false
 map.base:53890512-a139-410f-b2f3-f788ede394c6
 map.role:definition
 map.type:neighbor
-modified:1582714534846
+modified:1582719062161
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Signature Initiative-map
-tmap.id:a55bae98-7050-4eb3-b4b2-9ba766aff682
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Signature Initiative
+tmap.id:e2b14c89-16e5-4444-8065-ef41937d3b57
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Signature Initiative

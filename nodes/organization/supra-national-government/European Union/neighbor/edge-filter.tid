@@ -1,12 +1,12 @@
-created:1582714534810
+created:1582719062128
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d5178bec-bff1-4b01-8181-ee9277b6cd0d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534810
+modified:1582719062128
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Union/filter/edges
-tmap.id:7987ad94-126c-4ae3-aa4e-4b9b4036d260
+tmap.id:0435c531-7c4d-430f-bc16-ff4d473dcae6
 type:text/vnd.tiddlywiki
 
 No body provided

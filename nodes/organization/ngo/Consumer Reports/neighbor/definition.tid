@@ -2,16 +2,16 @@ config.central-topic:2d36dccf-cd44-46ea-90e7-228777869c61
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534785
-id:d118d559-5be8-4e39-b603-849ae3201199
+created:1582719062110
+id:eabc6fc2-d5a3-4e5c-b312-26b7c24a858c
 isview:false
 map.base:2d36dccf-cd44-46ea-90e7-228777869c61
 map.role:definition
 map.type:neighbor
-modified:1582714534785
+modified:1582719062110
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumer Reports-map
-tmap.id:d118d559-5be8-4e39-b603-849ae3201199
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumer Reports
+tmap.id:eabc6fc2-d5a3-4e5c-b312-26b7c24a858c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Consumer Reports

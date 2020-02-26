@@ -2,16 +2,16 @@ config.central-topic:d085ee7b-6623-46ea-ae39-e462cf641bf4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534944
-id:7ad61323-def2-457a-a9f9-4e9274b9c454
+created:1582719062268
+id:5bbf94f4-3f79-4c5a-bd5e-a867f890e0ab
 isview:false
 map.base:d085ee7b-6623-46ea-ae39-e462cf641bf4
 map.role:definition
 map.type:neighbor
-modified:1582714534944
+modified:1582719062268
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Critical Perspectives on Artificial Intelligence and Human Rights-map
-tmap.id:7ad61323-def2-457a-a9f9-4e9274b9c454
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Critical Perspectives on Artificial Intelligence and Human Rights
+tmap.id:5bbf94f4-3f79-4c5a-bd5e-a867f890e0ab
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Critical Perspectives on Artificial Intelligence and Human Rights

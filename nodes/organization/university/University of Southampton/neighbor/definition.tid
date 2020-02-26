@@ -2,16 +2,16 @@ config.central-topic:29557234-e7c4-4362-ba3f-5b1edd0b7688
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534848
-id:0cb4d437-edc7-4fad-ac53-2c1a03285e62
+created:1582719062168
+id:9d3e5dc2-d9fd-476e-b202-a718f59dad8a
 isview:false
 map.base:29557234-e7c4-4362-ba3f-5b1edd0b7688
 map.role:definition
 map.type:neighbor
-modified:1582714534848
+modified:1582719062168
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Southampton-map
-tmap.id:0cb4d437-edc7-4fad-ac53-2c1a03285e62
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Southampton
+tmap.id:9d3e5dc2-d9fd-476e-b202-a718f59dad8a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of University of Southampton

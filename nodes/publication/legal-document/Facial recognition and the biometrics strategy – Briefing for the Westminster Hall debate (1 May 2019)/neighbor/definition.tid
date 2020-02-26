@@ -2,16 +2,16 @@ config.central-topic:b09bca4d-b169-47b8-9ba4-0612a2231659
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534904
-id:c624c47f-15e6-4017-9454-31df8e7068fc
+created:1582719062225
+id:cb8e22c8-bc06-451e-9c1b-c62074ffa823
 isview:false
 map.base:b09bca4d-b169-47b8-9ba4-0612a2231659
 map.role:definition
 map.type:neighbor
-modified:1582714534904
+modified:1582719062225
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facial recognition and the biometrics strategy – Briefing for the Westminster Hall debate (1 May 2019)-map
-tmap.id:c624c47f-15e6-4017-9454-31df8e7068fc
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facial recognition and the biometrics strategy – Briefing for the Westminster Hall debate (1 May 2019)
+tmap.id:cb8e22c8-bc06-451e-9c1b-c62074ffa823
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Facial recognition and the biometrics strategy – Briefing for the Westminster Hall debate (1 May 2019)

@@ -1,12 +1,12 @@
-created:1582714535007
+created:1582719062334
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c07433fb-c4c2-4846-bd50-bba52804e22a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535007
+modified:1582719062334
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Engaging Privacy and Information Technology in a Digital Age/filter/edges
-tmap.id:93b8942d-a1c5-4af6-b5d3-1241e54b2e48
+tmap.id:2e9c1892-c123-479b-95ef-2201c5eb751d
 type:text/vnd.tiddlywiki
 
 No body provided

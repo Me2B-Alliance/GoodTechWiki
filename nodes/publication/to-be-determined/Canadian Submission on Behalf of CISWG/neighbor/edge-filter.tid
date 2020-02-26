@@ -1,12 +1,12 @@
-created:1582714535005
+created:1582719062332
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c51c2676-ac5b-459c-b26d-86b2a0aa1464
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535005
+modified:1582719062332
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Submission on Behalf of CISWG/filter/edges
-tmap.id:d87fe3b0-0258-4bc1-91ff-68c4ecd46a6a
+tmap.id:9de51a3f-3c7d-4f70-8fd6-1c103056efc2
 type:text/vnd.tiddlywiki
 
 No body provided

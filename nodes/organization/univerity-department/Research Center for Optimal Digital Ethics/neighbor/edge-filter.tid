@@ -1,12 +1,12 @@
-created:1582714534847
+created:1582719062165
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:2944bdce-d655-46b0-9fc3-dbfba297f498
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534847
+modified:1582719062165
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Research Center for Optimal Digital Ethics/filter/edges
-tmap.id:11916efc-3d31-40d0-bb6e-153f4ebc3f49
+tmap.id:e3b20675-9a9e-4996-b0da-1799bcf41aae
 type:text/vnd.tiddlywiki
 
 No body provided

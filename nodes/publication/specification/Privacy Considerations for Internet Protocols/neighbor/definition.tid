@@ -2,16 +2,16 @@ config.central-topic:ad787a59-62d2-41a3-a50c-56600ab35028
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534994
-id:4107b649-1d80-498f-bfa5-1423f7e58ef1
+created:1582719062319
+id:1d22602e-2358-42ea-89a0-d223ad7503df
 isview:false
 map.base:ad787a59-62d2-41a3-a50c-56600ab35028
 map.role:definition
 map.type:neighbor
-modified:1582714534994
+modified:1582719062319
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Considerations for Internet Protocols-map
-tmap.id:4107b649-1d80-498f-bfa5-1423f7e58ef1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Considerations for Internet Protocols
+tmap.id:1d22602e-2358-42ea-89a0-d223ad7503df
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Considerations for Internet Protocols

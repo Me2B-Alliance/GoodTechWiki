@@ -1,12 +1,12 @@
-created:1582714534919
+created:1582719062242
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:83965c1c-0834-431f-9cfb-3eca4614bfb7
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534919
+modified:1582719062242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How to Convince Dad* of the Importance of Self-Sovereign Identity/filter/edges
-tmap.id:be11e8ea-bfca-4b99-8a99-f7a432b93d5b
+tmap.id:88265bb3-de9a-4e5c-931b-e9f3dfedf23f
 type:text/vnd.tiddlywiki
 
 No body provided

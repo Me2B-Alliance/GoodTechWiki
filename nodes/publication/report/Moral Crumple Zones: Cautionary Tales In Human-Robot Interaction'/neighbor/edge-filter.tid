@@ -1,12 +1,12 @@
-created:1582714534960
+created:1582719062285
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0f3b632a-329e-4413-83a6-2dc3204e388a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534960
+modified:1582719062285
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Moral Crumple Zones: Cautionary Tales In Human-Robot Interaction'/filter/edges
-tmap.id:c5277023-5599-4ff5-94c7-7af814baa232
+tmap.id:03f8737d-546e-4e42-87fb-93a03c51d1f1
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534821
+created:1582719062143
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:5ebd7640-2526-47cb-b74a-96782f6b1e37
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534821
+modified:1582719062143
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Polisis/filter/edges
-tmap.id:36e8457e-b2d7-4e42-8121-9381544c7fde
+tmap.id:4ea0a9bb-e8d5-499f-95db-443f0b34a560
 type:text/vnd.tiddlywiki
 
 No body provided

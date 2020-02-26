@@ -2,16 +2,16 @@ config.central-topic:5e6f6072-6d79-4e52-8cc5-6b475c3f9323
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535044
-id:044f1b29-e812-43db-88bb-3bb51a7562c3
+created:1582719062369
+id:805f2889-ec9a-48ac-b1bf-e8abe887a420
 isview:false
 map.base:5e6f6072-6d79-4e52-8cc5-6b475c3f9323
 map.role:definition
 map.type:neighbor
-modified:1582714535044
+modified:1582719062369
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA Working Groups-map
-tmap.id:044f1b29-e812-43db-88bb-3bb51a7562c3
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA Working Groups
+tmap.id:805f2889-ec9a-48ac-b1bf-e8abe887a420
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GSMA Working Groups

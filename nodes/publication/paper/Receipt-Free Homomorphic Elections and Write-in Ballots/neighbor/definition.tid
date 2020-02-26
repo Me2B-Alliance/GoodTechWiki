@@ -2,16 +2,16 @@ config.central-topic:07bb235d-c702-4fec-a73b-bde33a436368
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534931
-id:4d4d083b-4274-4563-bd01-1c75385f0e20
+created:1582719062252
+id:2b1b3d53-0244-4ac5-aa22-d5119c408683
 isview:false
 map.base:07bb235d-c702-4fec-a73b-bde33a436368
 map.role:definition
 map.type:neighbor
-modified:1582714534931
+modified:1582719062252
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Receipt-Free Homomorphic Elections and Write-in Ballots-map
-tmap.id:4d4d083b-4274-4563-bd01-1c75385f0e20
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Receipt-Free Homomorphic Elections and Write-in Ballots
+tmap.id:2b1b3d53-0244-4ac5-aa22-d5119c408683
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Receipt-Free Homomorphic Elections and Write-in Ballots

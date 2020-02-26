@@ -1,12 +1,12 @@
-created:1582714534979
+created:1582719062302
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:400114ce-c2b6-4f01-bb50-107a957bdd10
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534979
+modified:1582719062302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What I learned about the limits of school choice in New York City from a mother whose child uses a wheelchair/filter/edges
-tmap.id:00cf3161-0f1a-4372-a3a0-506cdc0739bb
+tmap.id:7f3e3295-2804-49cb-a3cd-b2dc8bc05966
 type:text/vnd.tiddlywiki
 
 No body provided

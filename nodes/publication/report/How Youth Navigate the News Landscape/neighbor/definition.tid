@@ -2,16 +2,16 @@ config.central-topic:ac079e54-d147-4757-8bfe-0c5efb2b8736
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534955
-id:34d85c10-d950-42a5-994e-60a926681bea
+created:1582719062279
+id:4a929782-c26d-4577-b58b-f3a170a06853
 isview:false
 map.base:ac079e54-d147-4757-8bfe-0c5efb2b8736
 map.role:definition
 map.type:neighbor
-modified:1582714534955
+modified:1582719062279
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Youth Navigate the News Landscape-map
-tmap.id:34d85c10-d950-42a5-994e-60a926681bea
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Youth Navigate the News Landscape
+tmap.id:4a929782-c26d-4577-b58b-f3a170a06853
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How Youth Navigate the News Landscape

@@ -1,12 +1,12 @@
-created:1582714534937
+created:1582719062261
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:ae8fad09-a121-40cb-86c6-67054e8d1936
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534937
+modified:1582719062261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ALGORITHMIC ACCOUNTABILITY: A PRIMER'/filter/edges
-tmap.id:fcdbf9c8-d99f-414c-86cc-767c8ddb3be5
+tmap.id:53f60f4b-1a22-4589-9859-a1288ab1d8cc
 type:text/vnd.tiddlywiki
 
 No body provided

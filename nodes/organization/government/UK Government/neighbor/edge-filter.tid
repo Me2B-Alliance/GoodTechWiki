@@ -1,12 +1,12 @@
-created:1582714534782
+created:1582719062106
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:1d79a609-fac6-46b3-adfa-0ecc744e8ac7
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534782
+modified:1582719062106
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UK Government/filter/edges
-tmap.id:b5993c5b-856a-4f09-aa72-7d70c40b65e0
+tmap.id:965ec698-ed88-409e-a29c-48c57902cb40
 type:text/vnd.tiddlywiki
 
 No body provided

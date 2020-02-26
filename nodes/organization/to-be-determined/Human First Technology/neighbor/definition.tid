@@ -2,16 +2,16 @@ config.central-topic:78ae6d0f-bc1b-4c53-a322-dd77a43f7483
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534817
-id:6da5e23f-a59a-4769-b517-c8fe6ddf7e63
+created:1582719062141
+id:07a38493-acf1-4205-9650-b1492c702ea6
 isview:false
 map.base:78ae6d0f-bc1b-4c53-a322-dd77a43f7483
 map.role:definition
 map.type:neighbor
-modified:1582714534817
+modified:1582719062141
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human First Technology-map
-tmap.id:6da5e23f-a59a-4769-b517-c8fe6ddf7e63
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human First Technology
+tmap.id:07a38493-acf1-4205-9650-b1492c702ea6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Human First Technology

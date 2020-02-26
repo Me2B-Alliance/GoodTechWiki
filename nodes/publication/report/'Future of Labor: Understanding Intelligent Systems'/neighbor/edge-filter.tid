@@ -1,12 +1,12 @@
-created:1582714534935
+created:1582719062261
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f4954512-dbfe-47f4-ab2b-7fc3b3cdae9e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534935
+modified:1582719062261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/'Future of Labor: Understanding Intelligent Systems'/filter/edges
-tmap.id:715fa905-d722-415c-b6c6-c14426eecbbc
+tmap.id:d1cf25b9-f26a-48fd-86d0-73df891e3f44
 type:text/vnd.tiddlywiki
 
 No body provided

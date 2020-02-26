@@ -1,12 +1,12 @@
-created:1582714534979
+created:1582719062301
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:845f997d-f5fb-4faf-9241-56be1e69aff9
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534979
+modified:1582719062301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web We Want Festival | The Myth Of The Digital Native/filter/edges
-tmap.id:ca10acc5-25df-4502-a4d3-e57d8c4772a3
+tmap.id:6c157472-5a14-49eb-9995-eaec9a0c323b
 type:text/vnd.tiddlywiki
 
 No body provided

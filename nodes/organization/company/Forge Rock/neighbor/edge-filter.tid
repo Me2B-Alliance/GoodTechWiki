@@ -1,12 +1,12 @@
-created:1582714534766
+created:1582719062089
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:b7a4799b-f41e-4195-aaea-5f9ec07cdc54
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534766
+modified:1582719062089
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Forge Rock/filter/edges
-tmap.id:e8738a7b-ad62-42f8-b815-b84b3831007f
+tmap.id:d436050a-6926-4ef3-bd8d-0fda955b9754
 type:text/vnd.tiddlywiki
 
 No body provided

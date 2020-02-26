@@ -1,12 +1,12 @@
-created:1582714534799
+created:1582719062122
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:868961de-04fc-4da5-89c5-dc01a42f7fc0
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534799
+modified:1582719062122
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Directorate-General for Informatics (DIGIT)/filter/edges
-tmap.id:cfbd98cf-5769-495e-b380-ac8eab5c6184
+tmap.id:826a2fea-a132-436b-9f52-725270c0689c
 type:text/vnd.tiddlywiki
 
 No body provided

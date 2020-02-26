@@ -1,12 +1,12 @@
-created:1582714534939
+created:1582719062264
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:7a0a390d-76d5-4270-94f0-746fb9492443
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534939
+modified:1582719062264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Are We Training Our Students to be Robots?/filter/edges
-tmap.id:efbc54bb-cb65-4379-a402-38bf190c151e
+tmap.id:d1fe2435-8f3b-415f-a176-24fb59ef9519
 type:text/vnd.tiddlywiki
 
 No body provided

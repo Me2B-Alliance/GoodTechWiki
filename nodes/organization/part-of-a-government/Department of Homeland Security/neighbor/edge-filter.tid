@@ -1,12 +1,12 @@
-created:1582714534795
+created:1582719062116
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0b44382e-b54a-4baf-bb1d-bf2fbbe3bd3a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534795
+modified:1582719062116
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Department of Homeland Security/filter/edges
-tmap.id:f061c96c-b006-4baf-aa0e-20a6d363ac6a
+tmap.id:3fc98fc4-a6a0-4952-a729-fe3315dda026
 type:text/vnd.tiddlywiki
 
 No body provided

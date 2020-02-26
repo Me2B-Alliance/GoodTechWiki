@@ -1,12 +1,12 @@
-created:1582714534854
+created:1582719062173
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:fa539f53-a5ca-4423-af1c-d8b906dc47a2
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534854
+modified:1582719062173
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Jim Hazard/filter/edges
-tmap.id:dfbe189a-c8bc-4e4f-8204-9bc2c3d4069f
+tmap.id:10250c01-61c4-4ef1-b5bf-f2ffe184fc5c
 type:text/vnd.tiddlywiki
 
 No body provided

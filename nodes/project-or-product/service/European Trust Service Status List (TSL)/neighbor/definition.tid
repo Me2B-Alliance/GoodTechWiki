@@ -2,16 +2,16 @@ config.central-topic:e25340a7-6249-4853-917b-f3b74a15dcdc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534879
-id:f64ddfd9-558d-4e5f-9a75-e974a458d223
+created:1582719062199
+id:1ef0e069-e5ee-4be4-8cf3-4c2f3fd41466
 isview:false
 map.base:e25340a7-6249-4853-917b-f3b74a15dcdc
 map.role:definition
 map.type:neighbor
-modified:1582714534879
+modified:1582719062199
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Trust Service Status List (TSL)-map
-tmap.id:f64ddfd9-558d-4e5f-9a75-e974a458d223
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Trust Service Status List (TSL)
+tmap.id:1ef0e069-e5ee-4be4-8cf3-4c2f3fd41466
 type:text/vnd.tiddlywiki
 
 Neighbor Map of European Trust Service Status List (TSL)

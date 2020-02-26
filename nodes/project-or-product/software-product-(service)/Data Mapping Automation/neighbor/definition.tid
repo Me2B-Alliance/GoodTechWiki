@@ -2,16 +2,16 @@ config.central-topic:8195ba49-d097-4e11-9093-ec080768c1be
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534888
-id:7eebf971-9d53-4113-b75e-7abdb42da01e
+created:1582719062208
+id:8484c6c7-1f2f-4949-aeb3-a9fbf35f7aac
 isview:false
 map.base:8195ba49-d097-4e11-9093-ec080768c1be
 map.role:definition
 map.type:neighbor
-modified:1582714534888
+modified:1582719062208
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Mapping Automation-map
-tmap.id:7eebf971-9d53-4113-b75e-7abdb42da01e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Mapping Automation
+tmap.id:8484c6c7-1f2f-4949-aeb3-a9fbf35f7aac
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Mapping Automation

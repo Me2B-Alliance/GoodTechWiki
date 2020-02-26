@@ -1,12 +1,12 @@
-created:1582714534813
+created:1582719062135
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:331e35fd-b3de-482c-b4f5-05e046ca3ccc
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534813
+modified:1582719062135
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Detroit Digital Justice Coalition/filter/edges
-tmap.id:dc0bc76e-bd25-4aa9-8117-d6f05bf797e0
+tmap.id:0d55d697-cbd7-4a62-9db2-360c13f10c3d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:8c8126be-0a79-4eca-ae09-633b83d2387c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534889
-id:05603a87-bcc1-4cb5-b5a5-94474490be0f
+created:1582719062210
+id:50339b89-4cf6-43aa-b3b0-b3efb3d5ecde
 isview:false
 map.base:8c8126be-0a79-4eca-ae09-633b83d2387c
 map.role:definition
 map.type:neighbor
-modified:1582714534889
+modified:1582719062210
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Governance, Risk and Compliance Solution-map
-tmap.id:05603a87-bcc1-4cb5-b5a5-94474490be0f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Governance, Risk and Compliance Solution
+tmap.id:50339b89-4cf6-43aa-b3b0-b3efb3d5ecde
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust Governance, Risk and Compliance Solution

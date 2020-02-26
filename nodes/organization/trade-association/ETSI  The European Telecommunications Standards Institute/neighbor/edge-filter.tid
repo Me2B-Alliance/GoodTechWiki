@@ -1,12 +1,12 @@
-created:1582714534829
+created:1582719062153
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:1037653d-3b5a-480b-9da2-a0ff93c20855
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534829
+modified:1582719062153
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ETSI  The European Telecommunications Standards Institute/filter/edges
-tmap.id:7cee42a8-66cc-4cc3-87c1-d624e1feb58b
+tmap.id:17e147f1-71c6-4842-bba6-3f68753fd1e9
 type:text/vnd.tiddlywiki
 
 No body provided

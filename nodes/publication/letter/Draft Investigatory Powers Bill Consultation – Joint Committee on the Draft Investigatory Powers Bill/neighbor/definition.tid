@@ -2,16 +2,16 @@ config.central-topic:0c78de1d-5612-4668-9f72-f8bba6c105eb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534913
-id:64ca5321-fbb6-4ee3-9a88-1e37dd5e154c
+created:1582719062230
+id:9a7d935a-a58f-4fc8-9cbb-5b093e937c27
 isview:false
 map.base:0c78de1d-5612-4668-9f72-f8bba6c105eb
 map.role:definition
 map.type:neighbor
-modified:1582714534913
+modified:1582719062230
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Draft Investigatory Powers Bill Consultation – Joint Committee on the Draft Investigatory Powers Bill-map
-tmap.id:64ca5321-fbb6-4ee3-9a88-1e37dd5e154c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Draft Investigatory Powers Bill Consultation – Joint Committee on the Draft Investigatory Powers Bill
+tmap.id:9a7d935a-a58f-4fc8-9cbb-5b093e937c27
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Draft Investigatory Powers Bill Consultation – Joint Committee on the Draft Investigatory Powers Bill

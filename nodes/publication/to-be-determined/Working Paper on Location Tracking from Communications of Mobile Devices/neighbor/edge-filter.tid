@@ -1,12 +1,12 @@
-created:1582714535015
+created:1582719062341
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d51d8cb6-6fdd-4de7-9c10-a49550a28661
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535015
+modified:1582719062341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Location Tracking from Communications of Mobile Devices/filter/edges
-tmap.id:2da0fb30-9c57-4a30-8779-4a8c859ac405
+tmap.id:ecca2ec8-876c-4073-a1bb-786772dce30b
 type:text/vnd.tiddlywiki
 
 No body provided

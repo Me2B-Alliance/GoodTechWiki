@@ -2,16 +2,16 @@ config.central-topic:4ab17ae7-b4f7-4118-82d1-1351af556f81
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535031
-id:bd6260e9-cd2d-4fa6-90fd-d0326fcd6e80
+created:1582719062354
+id:29fcecde-5576-4541-b9f3-1cb37272b8c7
 isview:false
 map.base:4ab17ae7-b4f7-4118-82d1-1351af556f81
 map.role:definition
 map.type:neighbor
-modified:1582714535031
+modified:1582719062354
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Continuity and Organizational Resilience WG2-map
-tmap.id:bd6260e9-cd2d-4fa6-90fd-d0326fcd6e80
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Continuity and Organizational Resilience WG2
+tmap.id:29fcecde-5576-4541-b9f3-1cb37272b8c7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Continuity and Organizational Resilience WG2

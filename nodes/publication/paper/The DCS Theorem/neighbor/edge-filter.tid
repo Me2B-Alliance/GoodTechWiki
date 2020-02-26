@@ -1,12 +1,12 @@
-created:1582714534933
+created:1582719062256
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:33cd3076-4f90-457c-94af-0134d8cf63b2
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534933
+modified:1582719062256
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The DCS Theorem/filter/edges
-tmap.id:7f94d694-03cf-4926-9717-7ae9a36de8f4
+tmap.id:4734a054-c928-4510-b9aa-adc8df6d68ad
 type:text/vnd.tiddlywiki
 
 No body provided

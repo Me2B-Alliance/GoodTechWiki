@@ -28,3 +28,4 @@ working.group:
 
 Abstract.We present a voting protocol that protects voters’ privacy and achieves uni-versal verifiability, receipt-freeness, and uncoercibility withoutad hocphysical assumptions orprocedural constraints (such as untappable channels, voting booths, smart cards, third-partyrandomizers, and so on). We discuss under which conditions the scheme allows voters to castwrite-in ballots, and we show how it can be practically implemented through voter-verified (pa-per) ballots. The scheme allows voters to combine voting credentials with their chosen votesapplying the homomorphic properties of certain probabilistic cryptosystems.
 
+

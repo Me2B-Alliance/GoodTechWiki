@@ -2,16 +2,16 @@ config.central-topic:77c53c03-b82b-4ab2-ad9c-ec362b8315b9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534975
-id:0638c3ac-bcc7-469d-a230-be0eca56d2ba
+created:1582719062298
+id:55843525-c2ae-4e82-a760-5119f922e6e0
 isview:false
 map.base:77c53c03-b82b-4ab2-ad9c-ec362b8315b9
 map.role:definition
 map.type:neighbor
-modified:1582714534975
+modified:1582719062298
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/The real component of virtual learning: motivations for face-to-face MOOC meetings in developing and industrialised countries-map
-tmap.id:0638c3ac-bcc7-469d-a230-be0eca56d2ba
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The real component of virtual learning: motivations for face-to-face MOOC meetings in developing and industrialised countries
+tmap.id:55843525-c2ae-4e82-a760-5119f922e6e0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The real component of virtual learning: motivations for face-to-face MOOC meetings in developing and industrialised countries

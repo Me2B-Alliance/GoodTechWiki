@@ -1,12 +1,12 @@
-created:1582714534836
+created:1582719062157
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:6e744783-4f3f-4c11-bd0b-6c352ae75e5b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534836
+modified:1582719062157
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keith Institute/filter/edges
-tmap.id:d23c1c6b-7ebe-4b75-9a76-d98a6dd4d8ec
+tmap.id:74e534bd-cd4b-4c06-bf00-a549d75f92b1
 type:text/vnd.tiddlywiki
 
 No body provided

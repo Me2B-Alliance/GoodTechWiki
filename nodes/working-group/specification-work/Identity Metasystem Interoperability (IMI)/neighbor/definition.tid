@@ -2,16 +2,16 @@ config.central-topic:c1b85cd1-90c1-4c69-96f1-16251112a2a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535035
-id:f9f049ec-4f05-4ef8-af51-4e09f618703d
+created:1582719062361
+id:b4b22cad-19cd-46f9-a195-ad5bad315074
 isview:false
 map.base:c1b85cd1-90c1-4c69-96f1-16251112a2a2
 map.role:definition
 map.type:neighbor
-modified:1582714535035
+modified:1582719062361
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Metasystem Interoperability (IMI)-map
-tmap.id:f9f049ec-4f05-4ef8-af51-4e09f618703d
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Metasystem Interoperability (IMI)
+tmap.id:b4b22cad-19cd-46f9-a195-ad5bad315074
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity Metasystem Interoperability (IMI)

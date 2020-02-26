@@ -2,16 +2,16 @@ config.central-topic:9d53b443-7042-4505-a8ed-5465443fb68b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534944
-id:00b74b88-12eb-4b46-859e-b85bd88fac0f
+created:1582719062267
+id:fd540de4-7640-47f5-b9fc-335eb2e18411
 isview:false
 map.base:9d53b443-7042-4505-a8ed-5465443fb68b
 map.role:definition
 map.type:neighbor
-modified:1582714534944
+modified:1582719062267
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Content or Context Moderation?-map
-tmap.id:00b74b88-12eb-4b46-859e-b85bd88fac0f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Content or Context Moderation?
+tmap.id:fd540de4-7640-47f5-b9fc-335eb2e18411
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Content or Context Moderation?

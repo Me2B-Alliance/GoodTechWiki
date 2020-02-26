@@ -2,16 +2,16 @@ config.central-topic:676f80d9-a877-442c-94dd-49d0b447eff7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534775
-id:831ca0a6-0636-4d21-93b9-d56375115a16
+created:1582719062099
+id:984477b3-0a35-4a86-b7c5-29d79e140825
 isview:false
 map.base:676f80d9-a877-442c-94dd-49d0b447eff7
 map.role:definition
 map.type:neighbor
-modified:1582714534775
+modified:1582719062099
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Veridos-map
-tmap.id:831ca0a6-0636-4d21-93b9-d56375115a16
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Veridos
+tmap.id:984477b3-0a35-4a86-b7c5-29d79e140825
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Veridos

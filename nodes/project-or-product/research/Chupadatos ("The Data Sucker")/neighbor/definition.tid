@@ -2,16 +2,16 @@ config.central-topic:91d41e83-d58a-4f79-96a6-47e2e728d4ef
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534867
-id:6cf43ed7-4db8-48c4-8706-c55d9384ada0
+created:1582719062185
+id:b3946e91-caa2-4859-a937-132616ceee2c
 isview:false
 map.base:91d41e83-d58a-4f79-96a6-47e2e728d4ef
 map.role:definition
 map.type:neighbor
-modified:1582714534867
+modified:1582719062185
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chupadatos ("The Data Sucker")-map
-tmap.id:6cf43ed7-4db8-48c4-8706-c55d9384ada0
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chupadatos ("The Data Sucker")
+tmap.id:b3946e91-caa2-4859-a937-132616ceee2c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Chupadatos ("The Data Sucker")

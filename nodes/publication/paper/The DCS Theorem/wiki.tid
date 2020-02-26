@@ -28,3 +28,4 @@ working.group:
 
 Abstract.Blockchain design involves many tradeoffs, and much debatehas focused on tradeoffs related to scaling parameters such as blocksize.To address some of the confusion around this subject, we present a prob-ability proof of theDCS  Triangle[1][2].  We use the triangle to showdecentralized consensus systems, like blockchains, can haveDecentraliza-tion,Consensus, orScale, but not all three properties simultaneously. Wethen describe two methods for getting around the limitations suggestedby the triangle.
 
+

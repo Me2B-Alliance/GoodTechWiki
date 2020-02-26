@@ -1,12 +1,12 @@
-created:1582714534879
+created:1582719062198
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:1268c8bc-6894-4bf4-bc21-d444d44560de
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534879
+modified:1582719062198
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Verification of Vital Events (EVVE)/filter/edges
-tmap.id:dd9b35a1-4ba6-4552-a9d8-3f7056068f0d
+tmap.id:da0b33b9-62dd-440b-ad06-2d4ed63a5576
 type:text/vnd.tiddlywiki
 
 No body provided

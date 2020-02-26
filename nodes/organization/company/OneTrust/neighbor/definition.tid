@@ -2,16 +2,16 @@ config.central-topic:8d31744f-dac9-4551-8c43-735d4b294268
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534770
-id:3150cd16-2141-4578-a9a6-aa881f6dffba
+created:1582719062094
+id:7394c03b-04a8-4e9e-946b-9498e9b55d3e
 isview:false
 map.base:8d31744f-dac9-4551-8c43-735d4b294268
 map.role:definition
 map.type:neighbor
-modified:1582714534770
+modified:1582719062094
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust-map
-tmap.id:3150cd16-2141-4578-a9a6-aa881f6dffba
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust
+tmap.id:7394c03b-04a8-4e9e-946b-9498e9b55d3e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust

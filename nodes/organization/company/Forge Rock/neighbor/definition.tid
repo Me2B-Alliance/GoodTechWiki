@@ -2,16 +2,16 @@ config.central-topic:b7a4799b-f41e-4195-aaea-5f9ec07cdc54
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534766
-id:c31aa765-feea-45af-832d-1e6d6dccd805
+created:1582719062089
+id:ea4316c3-8c2d-4f8d-8aae-ed791df07e17
 isview:false
 map.base:b7a4799b-f41e-4195-aaea-5f9ec07cdc54
 map.role:definition
 map.type:neighbor
-modified:1582714534766
+modified:1582719062089
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Forge Rock-map
-tmap.id:c31aa765-feea-45af-832d-1e6d6dccd805
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Forge Rock
+tmap.id:ea4316c3-8c2d-4f8d-8aae-ed791df07e17
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Forge Rock

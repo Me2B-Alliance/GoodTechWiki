@@ -2,16 +2,16 @@ config.central-topic:d51d8cb6-6fdd-4de7-9c10-a49550a28661
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535015
-id:146839b3-2490-4b82-a057-ef1b8e3a560e
+created:1582719062341
+id:febe8fb0-30f4-44b4-a702-ed64d4c61e9f
 isview:false
 map.base:d51d8cb6-6fdd-4de7-9c10-a49550a28661
 map.role:definition
 map.type:neighbor
-modified:1582714535015
+modified:1582719062341
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Location Tracking from Communications of Mobile Devices-map
-tmap.id:146839b3-2490-4b82-a057-ef1b8e3a560e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Location Tracking from Communications of Mobile Devices
+tmap.id:febe8fb0-30f4-44b4-a702-ed64d4c61e9f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on Location Tracking from Communications of Mobile Devices

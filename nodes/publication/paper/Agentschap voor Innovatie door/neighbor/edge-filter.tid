@@ -1,12 +1,12 @@
-created:1582714534913
+created:1582719062235
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:ed18c1ac-d028-47a2-838b-25d97508de3b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534913
+modified:1582719062235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Agentschap voor Innovatie door/filter/edges
-tmap.id:b2f261bc-98f9-4b37-a0ab-f987baa6837f
+tmap.id:3d956774-bdc8-4a81-9f73-adb6a1935043
 type:text/vnd.tiddlywiki
 
 No body provided

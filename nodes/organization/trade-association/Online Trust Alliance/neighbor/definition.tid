@@ -2,16 +2,16 @@ config.central-topic:9b6edff9-57de-4026-998e-34d1bfbddbed
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534838
-id:52544bc1-1dc0-4582-acd2-b43b805e10ad
+created:1582719062159
+id:3232bf63-9fa1-4994-9578-ac577f7748f9
 isview:false
 map.base:9b6edff9-57de-4026-998e-34d1bfbddbed
 map.role:definition
 map.type:neighbor
-modified:1582714534838
+modified:1582719062159
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Online Trust Alliance-map
-tmap.id:52544bc1-1dc0-4582-acd2-b43b805e10ad
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Online Trust Alliance
+tmap.id:3232bf63-9fa1-4994-9578-ac577f7748f9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Online Trust Alliance

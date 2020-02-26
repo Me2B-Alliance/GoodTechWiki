@@ -1,12 +1,12 @@
-created:1582714534849
+created:1582719062167
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:91416ea0-a5f0-4b61-a1fb-1a8ad3997e57
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534849
+modified:1582719062167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Twente/filter/edges
-tmap.id:0ca9fd0f-dc77-45a0-9c8f-9aee372f0b39
+tmap.id:b93a3ce6-9eea-45d7-b724-3a9d16ee09c1
 type:text/vnd.tiddlywiki
 
 No body provided

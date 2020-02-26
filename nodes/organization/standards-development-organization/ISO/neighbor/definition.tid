@@ -2,16 +2,16 @@ config.central-topic:3f3592b2-5edc-4300-8931-dc9a9455c0fe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534808
-id:e950b050-ab9b-4cc8-845d-0c5be937d7a2
+created:1582719062127
+id:14bd0d4d-fcc4-4121-980d-172aca6794c6
 isview:false
 map.base:3f3592b2-5edc-4300-8931-dc9a9455c0fe
 map.role:definition
 map.type:neighbor
-modified:1582714534808
+modified:1582719062127
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO-map
-tmap.id:e950b050-ab9b-4cc8-845d-0c5be937d7a2
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO
+tmap.id:14bd0d4d-fcc4-4121-980d-172aca6794c6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO

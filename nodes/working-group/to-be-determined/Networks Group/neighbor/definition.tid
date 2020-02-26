@@ -2,16 +2,16 @@ config.central-topic:d327c1d0-9465-4653-853a-e221c4eeb8df
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535043
-id:dea0f8ee-89a3-42f8-94ae-e0574ea2eeac
+created:1582719062370
+id:625d0673-540c-4395-9a76-d15b322971f8
 isview:false
 map.base:d327c1d0-9465-4653-853a-e221c4eeb8df
 map.role:definition
 map.type:neighbor
-modified:1582714535043
+modified:1582719062370
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Networks Group-map
-tmap.id:dea0f8ee-89a3-42f8-94ae-e0574ea2eeac
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Networks Group
+tmap.id:625d0673-540c-4395-9a76-d15b322971f8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Networks Group

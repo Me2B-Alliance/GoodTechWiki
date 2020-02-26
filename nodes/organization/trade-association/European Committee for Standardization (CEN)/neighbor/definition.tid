@@ -2,16 +2,16 @@ config.central-topic:11010b14-4879-44cf-b449-0ee4f3caa3f8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534832
-id:a5e39792-f735-46fc-9f91-4f449af381e0
+created:1582719062153
+id:25dad264-587f-4141-8170-f90cf10f6edd
 isview:false
 map.base:11010b14-4879-44cf-b449-0ee4f3caa3f8
 map.role:definition
 map.type:neighbor
-modified:1582714534832
+modified:1582719062153
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Committee for Standardization (CEN)-map
-tmap.id:a5e39792-f735-46fc-9f91-4f449af381e0
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Committee for Standardization (CEN)
+tmap.id:25dad264-587f-4141-8170-f90cf10f6edd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of European Committee for Standardization (CEN)

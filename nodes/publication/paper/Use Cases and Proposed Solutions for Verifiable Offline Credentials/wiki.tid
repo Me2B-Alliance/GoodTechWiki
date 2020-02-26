@@ -28,3 +28,4 @@ working.group:
 
 Self-Sovereign Identity is now a widely discussed topic, especially in the context of verifable credentials/attributesattested by third-parties about an individual or entity that can be used as proof about them, such as a digital driver’s license or passport. This has enabled new systems to be developed to address security and privacy issues.In this paper we cover various scenarios where some or all parties have intermittent, unreliable, untrusted, insecure, or no network access, but require cryptographic verifcation (message protection and/or proofs). Furthermore, communications between the parties may be only via legacy voice channels. Applicable situations include marine, subterranean, remote expeditions, disaster areas, refugee camps, and high-security installations. This paper then recommends solutions for addressing ofine deployments.
 
+

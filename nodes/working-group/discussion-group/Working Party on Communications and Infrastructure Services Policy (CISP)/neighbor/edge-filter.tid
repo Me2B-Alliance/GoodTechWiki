@@ -1,12 +1,12 @@
-created:1582714535026
+created:1582719062350
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:41643e68-f5ba-4453-98aa-3b3c573a8585
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535026
+modified:1582719062350
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Party on Communications and Infrastructure Services Policy (CISP)/filter/edges
-tmap.id:be9eb8f8-1d55-440d-b283-8f88e188464e
+tmap.id:4cf23318-ca46-474e-9850-f2e67649ebf4
 type:text/vnd.tiddlywiki
 
 No body provided

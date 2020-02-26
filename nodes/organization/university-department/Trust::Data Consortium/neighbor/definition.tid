@@ -2,16 +2,16 @@ config.central-topic:039c9080-77f5-40e4-bdf9-94f0fc817f56
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534850
-id:ca5d2707-e900-4241-a060-020133d1542e
+created:1582719062169
+id:09c13759-3d69-4aec-a076-aec0d54deede
 isview:false
 map.base:039c9080-77f5-40e4-bdf9-94f0fc817f56
 map.role:definition
 map.type:neighbor
-modified:1582714534850
+modified:1582719062169
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust::Data Consortium-map
-tmap.id:ca5d2707-e900-4241-a060-020133d1542e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust::Data Consortium
+tmap.id:09c13759-3d69-4aec-a076-aec0d54deede
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trust::Data Consortium

@@ -2,16 +2,16 @@ config.central-topic:b8047089-1edf-4749-a8ef-886428c80b80
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535038
-id:786fd65f-16de-4ffe-ad92-9a924b003681
+created:1582719062366
+id:4431372b-ecff-4507-8bae-d2ab7e5f41c9
 isview:false
 map.base:b8047089-1edf-4749-a8ef-886428c80b80
 map.role:definition
 map.type:neighbor
-modified:1582714535038
+modified:1582719062366
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/RISC-map
-tmap.id:786fd65f-16de-4ffe-ad92-9a924b003681
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/RISC
+tmap.id:4431372b-ecff-4507-8bae-d2ab7e5f41c9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of RISC

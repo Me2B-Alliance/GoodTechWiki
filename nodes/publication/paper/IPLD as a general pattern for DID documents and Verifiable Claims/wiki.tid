@@ -28,3 +28,4 @@ working.group:
 
 Since the emergence of the Decentralized Identifer (DID) specifcation at the Fall 2016 Rebooting the Web of Trust[1], numerous DID method specifcations have appeared. Each DID method specifcation defnes how to resolve a cryptographically-tied DID document given a method-specifc identifer. In this paper, we describe a wayto represent the DID document as a content-addressed Merkle Directed Acyclic Graph (DAG) using Interplanetary Linked Data (IPLD). This technique enables more cost-efcient, scaleable creation of DIDs and canbe applied across diferent DID method specifcations.
 
+

@@ -2,16 +2,16 @@ config.central-topic:eefea1de-a2c1-4df0-a70f-bdfc796d4533
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534763
-id:2a5b3a34-79f9-4bda-8435-91109e3af860
+created:1582719062086
+id:b3e1a602-89fb-4f1a-9816-fe93bc2113cc
 isview:false
 map.base:eefea1de-a2c1-4df0-a70f-bdfc796d4533
 map.role:definition
 map.type:neighbor
-modified:1582714534763
+modified:1582719062086
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Deutsche Telekom-map
-tmap.id:2a5b3a34-79f9-4bda-8435-91109e3af860
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Deutsche Telekom
+tmap.id:b3e1a602-89fb-4f1a-9816-fe93bc2113cc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Deutsche Telekom

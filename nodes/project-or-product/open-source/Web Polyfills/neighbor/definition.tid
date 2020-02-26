@@ -2,16 +2,16 @@ config.central-topic:065e3f52-640c-4cc5-a8b1-79d6fdd5e42b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534861
-id:f1863cc8-4fb0-458e-b41a-cdacba7449f2
+created:1582719062179
+id:be8f5182-d2c0-41fc-8224-437536482c03
 isview:false
 map.base:065e3f52-640c-4cc5-a8b1-79d6fdd5e42b
 map.role:definition
 map.type:neighbor
-modified:1582714534861
+modified:1582719062179
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Polyfills-map
-tmap.id:f1863cc8-4fb0-458e-b41a-cdacba7449f2
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Polyfills
+tmap.id:be8f5182-d2c0-41fc-8224-437536482c03
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Web Polyfills

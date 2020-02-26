@@ -28,3 +28,4 @@ working.group:
 
 The decentralized identifer (DID) is a new and open standard type of globally unique identifer that ofers a model for lifetime-scope portable digital identity that does not depend on any centralized authority and that can never be taken away by third-parties [14]. DIDs are supported by the W3C community [14] and the Decentralized Identity Foundation (DIF) [16]. They are the "atomic units" of a new layer of decentralized identity infrastructure. However, DIDs can be extended from identifers for people to any entity, thus identifying everything. We can use DIDs to help us identify and manage objects, machines, or agents through their digital twins; we can expand them to locations, to events, and even to pure data objects, which we refer to as decentralized autonomic data (DAD) items [1][3].
 
+

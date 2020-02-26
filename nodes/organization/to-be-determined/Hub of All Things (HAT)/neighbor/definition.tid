@@ -2,16 +2,16 @@ config.central-topic:093e3b03-6e44-45e0-8167-5020900e1bd4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534817
-id:1241b09f-f7d7-4a94-9c36-9b6b443b9179
+created:1582719062139
+id:b660d8d6-bb89-408a-ad84-6366d38cc77f
 isview:false
 map.base:093e3b03-6e44-45e0-8167-5020900e1bd4
 map.role:definition
 map.type:neighbor
-modified:1582714534817
+modified:1582719062139
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hub of All Things (HAT)-map
-tmap.id:1241b09f-f7d7-4a94-9c36-9b6b443b9179
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hub of All Things (HAT)
+tmap.id:b660d8d6-bb89-408a-ad84-6366d38cc77f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Hub of All Things (HAT)

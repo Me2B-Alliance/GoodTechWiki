@@ -1,12 +1,12 @@
-created:1582714535029
+created:1582719062353
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:bbfd046a-f28a-47ea-8528-e503746d1c1a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535029
+modified:1582719062353
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACE - Authentication and Authorization of Constrained Environments/filter/edges
-tmap.id:a853c247-5065-4e9d-bcc4-97c9346f0773
+tmap.id:32f657bc-8650-45b8-8604-5fa9b8efd50e
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534870
+created:1582719062188
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:61567cbb-dc0c-43c8-ac52-c6ac8707ae06
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534870
+modified:1582719062188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Data Portability in Big Data affects Individuals, Innovation and Competition/filter/edges
-tmap.id:e3400901-ff9d-4c44-8c01-9214aaae7a91
+tmap.id:83c6ed80-ee01-490e-a141-82aeea8dd8cb
 type:text/vnd.tiddlywiki
 
 No body provided

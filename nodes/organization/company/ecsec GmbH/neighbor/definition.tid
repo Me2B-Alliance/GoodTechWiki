@@ -2,16 +2,16 @@ config.central-topic:d61ded90-802e-4bc6-b790-acd07888cfe8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534777
-id:2bb2a84a-1fd4-479a-86d8-cd6a69f5d9b6
+created:1582719062100
+id:bfb784d6-f7c4-48ba-a1b9-840dabc24597
 isview:false
 map.base:d61ded90-802e-4bc6-b790-acd07888cfe8
 map.role:definition
 map.type:neighbor
-modified:1582714534777
+modified:1582719062100
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/ecsec GmbH-map
-tmap.id:2bb2a84a-1fd4-479a-86d8-cd6a69f5d9b6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ecsec GmbH
+tmap.id:bfb784d6-f7c4-48ba-a1b9-840dabc24597
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ecsec GmbH

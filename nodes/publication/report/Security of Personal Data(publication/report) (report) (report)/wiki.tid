@@ -1,0 +1,31 @@
+audience:
+authors.editors:
+created:1582718740573
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582718740573
+name:Security of Personal Data
+publication.type:report
+purpose:
+sector:
+sponsoring.org:
+tags:
+tech.focus:
+tiddler.classification:node
+title:Security of Personal Data(publication/report) (report) (report)
+tmap.edges:{}
+tmap.id:30f71070-04f5-47f9-9ec1-d10cfa66d54f
+type:text/vnd.tiddlywiki
+url:https://www.cnil.fr/sites/default/files/typo/document/Guide_Security_of_Personal_Data-2010.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+This English translation of the guide Sécurité des données personellespublished in 2010 was motivated  by  frequent  requests receivedfromnon  French-speaking  readers.  It  is  the  first guide we translateinto English. Thisis both a clear sign of our significant investment in IT security and of our commitment to advance the protection of personal data in a globalized international environement.Ever since the birth of Internet, security of personal data has been an issue that has known no borders. Today, this is even more true in a world of extensive externalization and cloud computing, where major cyberattacks make the headlines almost everymonth.The  European  directive  on  the  protection  of  personal  data  unambiguiously  requires  all companies  to  implement  adequate  security  measures  if  they  are  established  in  a  member state or otherwise make use of data processing means situated in Europe. Our commission is  strongly commited to  promote this  principle nationaly,  as  well  as internationaly through increased cooperation with other data protection authorities. As such, this guide should be of  interest  not  only  to  controllers  established  in  France  but  more  generally,to  any  entity that directly or indirectly uses IT systems in our country.In this  context, this  document represents  a  significant  work to  catalogue IT  best  practices when  processing  personal  data  for  small  to  medium-size  companies.  A  collection  of  about fourty  security  measures  are  listed,  allowing  to  assess  the  overall  security  of  the  most common personal data processing requirements.We  are  confident  that  this  work  will  help  improving  the  adoption  of  elementary  best practices. We appreciate your feedback and help to improve this guide. Please contact us at sei@cnil.fr.
+
+

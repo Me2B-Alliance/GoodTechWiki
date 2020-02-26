@@ -2,16 +2,16 @@ config.central-topic:4efe8f3f-dc3a-4abc-9dae-147a92c8a7a6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535024
-id:dc9d1a97-6460-41f6-8fbe-1e8c08a0c9a1
+created:1582719062348
+id:8c27fee5-e8d5-46b3-ba39-7644b69a08d1
 isview:false
 map.base:4efe8f3f-dc3a-4abc-9dae-147a92c8a7a6
 map.role:definition
 map.type:neighbor
-modified:1582714535024
+modified:1582719062348
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Technical Committee on Security and Privacy-map
-tmap.id:dc9d1a97-6460-41f6-8fbe-1e8c08a0c9a1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Technical Committee on Security and Privacy
+tmap.id:8c27fee5-e8d5-46b3-ba39-7644b69a08d1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Technical Committee on Security and Privacy

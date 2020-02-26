@@ -2,16 +2,16 @@ config.central-topic:2e92fcc3-87b3-478a-a7fd-ae5f91e8a127
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534809
-id:7a1d0be4-689a-409d-81fb-55d5bbc856ae
+created:1582719062131
+id:8399d475-3421-48c9-a58c-69ff578e597e
 isview:false
 map.base:2e92fcc3-87b3-478a-a7fd-ae5f91e8a127
 map.role:definition
 map.type:neighbor
-modified:1582714534809
+modified:1582719062131
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations-map
-tmap.id:7a1d0be4-689a-409d-81fb-55d5bbc856ae
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations
+tmap.id:8399d475-3421-48c9-a58c-69ff578e597e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of United Nations

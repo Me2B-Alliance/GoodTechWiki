@@ -2,16 +2,16 @@ config.central-topic:61260876-1213-4551-905a-ac9914d1e6ba
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535019
-id:6ce25683-d01e-4ea0-8b15-f9ac92469b9b
+created:1582719062346
+id:6d42091c-9e87-453c-b31d-62b2f79f3860
 isview:false
 map.base:61260876-1213-4551-905a-ac9914d1e6ba
 map.role:definition
 map.type:neighbor
-modified:1582714535019
+modified:1582719062346
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Quicksort-map
-tmap.id:6ce25683-d01e-4ea0-8b15-f9ac92469b9b
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Quicksort
+tmap.id:6d42091c-9e87-453c-b31d-62b2f79f3860
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Quicksort

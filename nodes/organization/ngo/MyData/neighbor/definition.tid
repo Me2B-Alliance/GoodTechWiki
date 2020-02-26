@@ -2,16 +2,16 @@ config.central-topic:4b2455d2-e2db-4394-a842-c441af653fb9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534789
-id:3139f33c-f3cb-4fb5-bc68-6bd67ed89fb9
+created:1582719062111
+id:33356d25-2966-4ec9-9033-c2b33a2e7ee8
 isview:false
 map.base:4b2455d2-e2db-4394-a842-c441af653fb9
 map.role:definition
 map.type:neighbor
-modified:1582714534789
+modified:1582719062111
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/MyData-map
-tmap.id:3139f33c-f3cb-4fb5-bc68-6bd67ed89fb9
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MyData
+tmap.id:33356d25-2966-4ec9-9033-c2b33a2e7ee8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MyData

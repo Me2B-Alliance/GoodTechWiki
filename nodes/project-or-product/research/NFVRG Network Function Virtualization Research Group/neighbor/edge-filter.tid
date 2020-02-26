@@ -1,12 +1,12 @@
-created:1582714534874
+created:1582719062190
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:964f37c7-2029-41e7-a18d-cfed634de6f9
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534874
+modified:1582719062190
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NFVRG Network Function Virtualization Research Group/filter/edges
-tmap.id:7a38fb80-9a9f-40d9-95d1-4a0c3578d2de
+tmap.id:01106b10-be9e-407f-bb6d-a98220e64c3c
 type:text/vnd.tiddlywiki
 
 No body provided

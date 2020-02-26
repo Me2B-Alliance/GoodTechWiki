@@ -1,12 +1,12 @@
-created:1582714535043
+created:1582719062370
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:75f13c09-9114-4805-8c77-f22ebb321c0a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535043
+modified:1582719062370
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OASIS Classification of Everyday Living (COEL) TC/filter/edges
-tmap.id:2253b032-4a6a-4255-a85a-5c8b25d7d684
+tmap.id:dda49640-615f-46e0-93c8-84abc2bd976a
 type:text/vnd.tiddlywiki
 
 No body provided

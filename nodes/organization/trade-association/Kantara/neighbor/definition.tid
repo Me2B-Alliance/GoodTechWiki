@@ -2,16 +2,16 @@ config.central-topic:2b301088-bfc2-4cef-adca-6c991cc60353
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534836
-id:b02335d1-e378-4c7a-bacf-06635968d1d6
+created:1582719062157
+id:565f294a-0d90-4669-ae38-31ba3ebfe344
 isview:false
 map.base:2b301088-bfc2-4cef-adca-6c991cc60353
 map.role:definition
 map.type:neighbor
-modified:1582714534836
+modified:1582719062157
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara-map
-tmap.id:b02335d1-e378-4c7a-bacf-06635968d1d6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara
+tmap.id:565f294a-0d90-4669-ae38-31ba3ebfe344
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Kantara

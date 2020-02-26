@@ -1,12 +1,12 @@
-created:1582714534837
+created:1582719062158
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:79ea197a-ae8d-447f-a341-3cfd496393c5
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534837
+modified:1582719062158
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Association for Public Health Statistics and Information Systems/filter/edges
-tmap.id:86b04707-c7ba-4a90-85ae-89bbe97ffb3a
+tmap.id:31dc56a8-0d94-49d2-830e-361b64d608d3
 type:text/vnd.tiddlywiki
 
 No body provided

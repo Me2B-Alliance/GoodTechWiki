@@ -2,16 +2,16 @@ config.central-topic:a4105b5a-f656-4c73-8702-0d74bd655cb3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534804
-id:cee22fe4-8e9c-4c05-b5fd-4e6f00c3d3bf
+created:1582719062124
+id:f2990aa1-0fe1-41bb-a8ca-ed6ce5a42189
 isview:false
 map.base:a4105b5a-f656-4c73-8702-0d74bd655cb3
 map.role:definition
 map.type:neighbor
-modified:1582714534804
+modified:1582719062124
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Innovation and Networks Executive Agency-map
-tmap.id:cee22fe4-8e9c-4c05-b5fd-4e6f00c3d3bf
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Innovation and Networks Executive Agency
+tmap.id:f2990aa1-0fe1-41bb-a8ca-ed6ce5a42189
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Innovation and Networks Executive Agency

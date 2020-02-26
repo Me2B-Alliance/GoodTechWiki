@@ -1,12 +1,12 @@
-created:1582714534809
+created:1582719062128
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c0c43a05-07c6-4a50-8d03-112f5e38a7c6
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534809
+modified:1582719062128
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OECD (The Organisation for Economic Co-operation and Development)/filter/edges
-tmap.id:aae66533-4d32-4348-b923-b02f5f8cdcd4
+tmap.id:f0a722ce-c2db-4fa5-ba23-eed9cab4b306
 type:text/vnd.tiddlywiki
 
 No body provided

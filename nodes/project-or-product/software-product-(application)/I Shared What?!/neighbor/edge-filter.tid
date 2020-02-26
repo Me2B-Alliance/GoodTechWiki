@@ -1,12 +1,12 @@
-created:1582714534886
+created:1582719062207
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:382076d9-831d-483a-81ab-f01af5c2b7cc
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534886
+modified:1582719062207
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/I Shared What?!/filter/edges
-tmap.id:f63f7684-bf80-4664-ba4c-9214eb323013
+tmap.id:b11bf793-54e0-445b-8e4d-670f0eb99fde
 type:text/vnd.tiddlywiki
 
 No body provided

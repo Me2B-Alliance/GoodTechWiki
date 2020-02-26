@@ -2,16 +2,16 @@ config.central-topic:f5882538-fd1a-4c70-a8c9-cc58aff675f8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534861
-id:7f0cb3a4-55d9-40b9-a350-635a8a295bc2
+created:1582719062179
+id:c0734341-d8f1-4b9f-ad02-c65497688dda
 isview:false
 map.base:f5882538-fd1a-4c70-a8c9-cc58aff675f8
 map.role:definition
 map.type:neighbor
-modified:1582714534861
+modified:1582719062179
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/eIDAS-Node-map
-tmap.id:7f0cb3a4-55d9-40b9-a350-635a8a295bc2
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/eIDAS-Node
+tmap.id:c0734341-d8f1-4b9f-ad02-c65497688dda
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eIDAS-Node

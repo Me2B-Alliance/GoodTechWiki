@@ -2,16 +2,16 @@ config.central-topic:d320e0a6-043e-495a-a058-55a38cea724a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534797
-id:0596095d-9580-4ad5-876f-431b2ecb30db
+created:1582719062120
+id:686d9c6a-699a-467b-aad2-2bab7f6b5306
 isview:false
 map.base:d320e0a6-043e-495a-a058-55a38cea724a
 map.role:definition
 map.type:neighbor
-modified:1582714534797
+modified:1582719062120
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/US National Information Exchange Model-map
-tmap.id:0596095d-9580-4ad5-876f-431b2ecb30db
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/US National Information Exchange Model
+tmap.id:686d9c6a-699a-467b-aad2-2bab7f6b5306
 type:text/vnd.tiddlywiki
 
 Neighbor Map of US National Information Exchange Model

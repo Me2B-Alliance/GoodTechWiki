@@ -28,3 +28,4 @@ working.group:
 
 Currently, the Web provides a simple yet powerful mechanism for the dissemination of information via links. Unfortunately, there is no generalized mechanism that enables verifying that a fetched resource has been deliveredwithout unexpected manipulation. Would it be possible to create an extensible and multipurpose cryptographic link that provides discoverability, integrity, and scheme agility?This paper proposes a linking solution that decouples integrity information from link and resource syntaxes, enabling verifcation of any representation of a resource from any type of link. We call this approach Resource Integrity Proofs (RIPs). RIPs provide a succinct way to link to resources with cryptographically verifable contentintegrity. RIPs can be combined with blockchain technology to create discoverable proofs of existence to of-chain resources.
 
+

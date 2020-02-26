@@ -2,16 +2,16 @@ config.central-topic:1f8f9128-e4d4-47f6-ae48-34cfdbee6883
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534779
-id:e5eab6fc-34ab-40e2-a2da-a2a8ceab8aac
+created:1582719062101
+id:f0822a05-9fb3-4c57-8fb7-96a956339ecd
 isview:false
 map.base:1f8f9128-e4d4-47f6-ae48-34cfdbee6883
 map.role:definition
 map.type:neighbor
-modified:1582714534779
+modified:1582719062101
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mozilla Foundation-map
-tmap.id:e5eab6fc-34ab-40e2-a2da-a2a8ceab8aac
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mozilla Foundation
+tmap.id:f0822a05-9fb3-4c57-8fb7-96a956339ecd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mozilla Foundation

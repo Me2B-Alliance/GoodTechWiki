@@ -1,12 +1,12 @@
-created:1582714534981
+created:1582719062308
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:9d9713a9-f6a5-4a52-ae89-d2e6189038d4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534981
+modified:1582719062308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CBOR Web Token (CWT)/filter/edges
-tmap.id:018a0711-05d8-4884-a20e-ecd31bba08d9
+tmap.id:a7dca923-1c85-4c68-9fef-248ac26a27df
 type:text/vnd.tiddlywiki
 
 No body provided

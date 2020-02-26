@@ -2,16 +2,16 @@ config.central-topic:5280610f-31d1-41d5-97bf-5a7964aebeb2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535038
-id:4e2943cf-cc3c-4be8-9fb7-e8771cd16d41
+created:1582719062365
+id:17b28dc5-d114-44dc-92ff-fabde32a118b
 isview:false
 map.base:5280610f-31d1-41d5-97bf-5a7964aebeb2
 map.role:definition
 map.type:neighbor
-modified:1582714535038
+modified:1582719062365
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Management Reference Model (PMRM)-map
-tmap.id:4e2943cf-cc3c-4be8-9fb7-e8771cd16d41
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Management Reference Model (PMRM)
+tmap.id:17b28dc5-d114-44dc-92ff-fabde32a118b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Management Reference Model (PMRM)

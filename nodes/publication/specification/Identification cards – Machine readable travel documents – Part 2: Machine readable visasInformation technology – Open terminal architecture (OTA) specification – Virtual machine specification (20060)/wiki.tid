@@ -29,3 +29,4 @@ This document is one of several documents containing the Implementation Specific
 The overall architecture of the Open Terminal Architecture is described in Appendix F, “System Architecture,” and is based on a Virtual Machine (VM) that can be programmed using high-level languages such as Forth or C. For compactness and efficiency a tokenised form has been developed for delivering compiled programs to terminals of all CPU types. This and other Virtual Machine related issues are explained in Section 3.
 This International Standard describes a set of functions to be implemented in terminals in terms of instructions for a Virtual Machine. With these functions the application programmer is able to generate application software that is compact, portable and certifiable on all OTA terminals.
 
+

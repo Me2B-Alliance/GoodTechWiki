@@ -28,3 +28,4 @@ working.group:
 
 The Decentralized Identifer (DID) specifcation describes a new type of URL that is globally unique, highly available, and cryptographically verifable and which has no central authority. The DID spec document describes the expected ecosystem, data model, and syntaxes for DIDs. In December 2018, the W3C held a Strong Authentication and Identity Workshop that determined that a reasonable next step would be to create a W3C Working Group to standardize the DID specifcation. As a result, the W3C Credentials Community Group, whichhas been incubating the specifcation, will eventually need to hand the specifcation over to the newly formed W3C DID Working Group. In preparation for this hand of, a group at Rebooting the Web of Trust triaged issuesrelated to the DID specifcation, refned existing proposals related to the specifcation, and gathered new features and requirements from the community. The result of this work is outlined in this document.
 
+

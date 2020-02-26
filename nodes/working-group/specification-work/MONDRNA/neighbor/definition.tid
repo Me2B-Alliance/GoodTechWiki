@@ -2,16 +2,16 @@ config.central-topic:9e89d67e-d917-4f0f-bca4-fafe75a16e52
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535036
-id:e38b99a4-10eb-4de5-8a5a-a3e1cebfeab1
+created:1582719062363
+id:7facade8-f31c-402e-8f43-b3a2e624ee53
 isview:false
 map.base:9e89d67e-d917-4f0f-bca4-fafe75a16e52
 map.role:definition
 map.type:neighbor
-modified:1582714535036
+modified:1582719062363
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/MONDRNA-map
-tmap.id:e38b99a4-10eb-4de5-8a5a-a3e1cebfeab1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MONDRNA
+tmap.id:7facade8-f31c-402e-8f43-b3a2e624ee53
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MONDRNA

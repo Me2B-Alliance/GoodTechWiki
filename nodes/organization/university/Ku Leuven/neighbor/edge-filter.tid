@@ -1,12 +1,12 @@
-created:1582714534847
+created:1582719062167
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:ed13cc73-c161-4c04-8e12-d8ac26093872
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534847
+modified:1582719062167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ku Leuven/filter/edges
-tmap.id:db799e0d-b560-4400-937d-52f713c702ca
+tmap.id:6d20dae3-7dff-4a8c-ba58-36fec60fca93
 type:text/vnd.tiddlywiki
 
 No body provided

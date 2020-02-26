@@ -2,16 +2,16 @@ config.central-topic:c0c43a05-07c6-4a50-8d03-112f5e38a7c6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534809
-id:81fb5450-f9c0-4444-88c4-85c90b6d434b
+created:1582719062128
+id:d4d63e91-b0f4-428d-b3e4-aaa54c0bb394
 isview:false
 map.base:c0c43a05-07c6-4a50-8d03-112f5e38a7c6
 map.role:definition
 map.type:neighbor
-modified:1582714534809
+modified:1582719062128
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/OECD (The Organisation for Economic Co-operation and Development)-map
-tmap.id:81fb5450-f9c0-4444-88c4-85c90b6d434b
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OECD (The Organisation for Economic Co-operation and Development)
+tmap.id:d4d63e91-b0f4-428d-b3e4-aaa54c0bb394
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OECD (The Organisation for Economic Co-operation and Development)

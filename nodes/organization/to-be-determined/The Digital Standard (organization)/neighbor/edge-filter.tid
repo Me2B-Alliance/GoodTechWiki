@@ -1,12 +1,12 @@
-created:1582714534823
+created:1582719062146
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:7e4a135c-df97-4593-baa3-76c868120ee2
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534823
+modified:1582719062146
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Digital Standard (organization)/filter/edges
-tmap.id:27cd24c0-8105-46c5-b91f-21fee32f66eb
+tmap.id:4a7aae6e-9579-4d3b-b33d-19a38cfed09f
 type:text/vnd.tiddlywiki
 
 No body provided

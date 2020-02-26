@@ -1,12 +1,12 @@
-created:1582714534862
+created:1582719062181
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:6812d0e0-12fc-4627-9448-23de47d1c7aa
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534862
+modified:1582719062181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cyber secure assessment preferences of financial institutions/filter/edges
-tmap.id:fe446f4f-d090-43f5-b333-a0c35bd58e2a
+tmap.id:dc3dadff-8d30-4077-91b3-5fb495ccdbb0
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:ad0d5661-fa25-4d04-bae5-92ff5d54d356
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534950
-id:e1706856-83bd-42ba-8db3-696c670a5d52
+created:1582719062277
+id:c51b0d90-87a5-48aa-b6e7-d7f056ee3784
 isview:false
 map.base:ad0d5661-fa25-4d04-bae5-92ff5d54d356
 map.role:definition
 map.type:neighbor
-modified:1582714534950
+modified:1582719062277
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Trending: It’s made of people!! (but we should have already known that)-map
-tmap.id:e1706856-83bd-42ba-8db3-696c670a5d52
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Trending: It’s made of people!! (but we should have already known that)
+tmap.id:c51b0d90-87a5-48aa-b6e7-d7f056ee3784
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Facebook Trending: It’s made of people!! (but we should have already known that)

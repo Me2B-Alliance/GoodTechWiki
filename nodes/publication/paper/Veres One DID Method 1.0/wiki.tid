@@ -28,3 +28,4 @@ working.group:
 
 The Veres One Ledger is a permissionless public ledger designed specifcally for the creation and management of decentralized identifers (DIDs). Veres One DIDs are self-sovereign identifers that may be used by people, organizations, and digital devices to establish an identifer that is under their control. Veres One DIDs are useful in ecosystems where one needs to issue, store, and use Verifable Claims. This specifcation defnes how a developer may create and update DIDs in the Veres One Ledger.
 
+

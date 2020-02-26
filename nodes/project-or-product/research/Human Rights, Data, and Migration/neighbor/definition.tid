@@ -2,16 +2,16 @@ config.central-topic:595d2e3d-a86e-4f4a-ac39-6dbbc2b56e51
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534870
-id:13f110bb-8fbb-478e-b024-dd0dab796479
+created:1582719062188
+id:b53882cb-0350-497d-b44d-215616fa1af2
 isview:false
 map.base:595d2e3d-a86e-4f4a-ac39-6dbbc2b56e51
 map.role:definition
 map.type:neighbor
-modified:1582714534870
+modified:1582719062188
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human Rights, Data, and Migration-map
-tmap.id:13f110bb-8fbb-478e-b024-dd0dab796479
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human Rights, Data, and Migration
+tmap.id:b53882cb-0350-497d-b44d-215616fa1af2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Human Rights, Data, and Migration

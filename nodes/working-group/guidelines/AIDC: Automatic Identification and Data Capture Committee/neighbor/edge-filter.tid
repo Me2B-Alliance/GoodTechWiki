@@ -1,12 +1,12 @@
-created:1582714535028
+created:1582719062352
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:93308f42-a163-4663-ac41-683ec44e9a98
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535028
+modified:1582719062352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AIDC: Automatic Identification and Data Capture Committee/filter/edges
-tmap.id:85bf2c4f-e91e-459a-9a93-5c0a12c52b03
+tmap.id:6803a29f-a0f1-4e8c-bec6-7fc67f82a720
 type:text/vnd.tiddlywiki
 
 No body provided

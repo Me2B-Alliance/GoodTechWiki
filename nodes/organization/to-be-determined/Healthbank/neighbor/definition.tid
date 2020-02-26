@@ -2,16 +2,16 @@ config.central-topic:e46074cc-1490-4276-b822-8f1904850f59
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534816
-id:ea7fb12b-4418-4566-b0cb-5a6bfaa0e259
+created:1582719062143
+id:f0f1afdb-6c37-4ec0-b90f-0995028eeacf
 isview:false
 map.base:e46074cc-1490-4276-b822-8f1904850f59
 map.role:definition
 map.type:neighbor
-modified:1582714534816
+modified:1582719062143
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Healthbank-map
-tmap.id:ea7fb12b-4418-4566-b0cb-5a6bfaa0e259
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Healthbank
+tmap.id:f0f1afdb-6c37-4ec0-b90f-0995028eeacf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Healthbank

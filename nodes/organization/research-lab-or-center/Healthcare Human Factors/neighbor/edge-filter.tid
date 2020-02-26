@@ -1,12 +1,12 @@
-created:1582714534808
+created:1582719062126
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:073f117d-c52f-4ad7-bdde-6a14aef1e254
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534808
+modified:1582719062126
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Healthcare Human Factors/filter/edges
-tmap.id:c866b50b-f8a5-40a7-b5d6-f47a0165f6c5
+tmap.id:614741da-f03e-4430-8247-212b479b5ee5
 type:text/vnd.tiddlywiki
 
 No body provided

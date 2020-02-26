@@ -2,16 +2,16 @@ config.central-topic:874b708c-6204-43cc-a710-8e702878e950
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534854
-id:ced5d922-78db-4547-9a6f-a18c0edef2e1
+created:1582719062174
+id:431fe320-25dd-4c5d-9b6a-c373af0ac0c9
 isview:false
 map.base:874b708c-6204-43cc-a710-8e702878e950
 map.role:definition
 map.type:neighbor
-modified:1582714534854
+modified:1582719062174
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Justin Richer-map
-tmap.id:ced5d922-78db-4547-9a6f-a18c0edef2e1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Justin Richer
+tmap.id:431fe320-25dd-4c5d-9b6a-c373af0ac0c9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Justin Richer

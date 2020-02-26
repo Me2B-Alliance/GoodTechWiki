@@ -2,16 +2,16 @@ config.central-topic:2f81d154-8c58-43b7-a47f-dc65b8a22081
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534923
-id:da8f2773-3fee-49f8-8b06-8c3a8bc8310a
+created:1582719062242
+id:2cfe88af-0660-4d02-aae9-5b41b97a87ad
 isview:false
 map.base:2f81d154-8c58-43b7-a47f-dc65b8a22081
 map.role:definition
 map.type:neighbor
-modified:1582714534923
+modified:1582719062242
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identifying the Provision of Choices in Privacy Policy Text-map
-tmap.id:da8f2773-3fee-49f8-8b06-8c3a8bc8310a
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identifying the Provision of Choices in Privacy Policy Text
+tmap.id:2cfe88af-0660-4d02-aae9-5b41b97a87ad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identifying the Provision of Choices in Privacy Policy Text

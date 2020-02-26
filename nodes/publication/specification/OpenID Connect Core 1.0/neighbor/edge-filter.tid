@@ -1,12 +1,12 @@
-created:1582714534992
+created:1582719062319
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:74672616-5a00-47ee-8942-cbc68493063d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534992
+modified:1582719062319
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Core 1.0/filter/edges
-tmap.id:d3485be6-3d12-4c4c-aa33-55dd046d65cf
+tmap.id:d1d7c010-49df-4612-adde-1adeb4cc5f52
 type:text/vnd.tiddlywiki
 
 No body provided

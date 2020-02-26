@@ -2,16 +2,16 @@ config.central-topic:826f5ccb-75ab-46bc-bfb0-9c6bcce164e0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534892
-id:27e84fc7-6f67-413c-ba1a-50df76398afe
+created:1582719062211
+id:2b496315-c52f-4cce-997a-4cd5d3ac5c78
 isview:false
 map.base:826f5ccb-75ab-46bc-bfb0-9c6bcce164e0
 map.role:definition
 map.type:neighbor
-modified:1582714534892
+modified:1582719062211
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/commidfy.us-map
-tmap.id:27e84fc7-6f67-413c-ba1a-50df76398afe
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/commidfy.us
+tmap.id:2b496315-c52f-4cce-997a-4cd5d3ac5c78
 type:text/vnd.tiddlywiki
 
 Neighbor Map of commidfy.us

@@ -2,16 +2,16 @@ config.central-topic:08ef3225-9722-43d4-b0b9-7b0c23f92836
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534774
-id:746f8a09-1064-41fd-aca2-1827c38a259d
+created:1582719062097
+id:253d623f-5d0f-462f-a54a-f25e551db132
 isview:false
 map.base:08ef3225-9722-43d4-b0b9-7b0c23f92836
 map.role:definition
 map.type:neighbor
-modified:1582714534774
+modified:1582719062097
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Timpson-map
-tmap.id:746f8a09-1064-41fd-aca2-1827c38a259d
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Timpson
+tmap.id:253d623f-5d0f-462f-a54a-f25e551db132
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Timpson

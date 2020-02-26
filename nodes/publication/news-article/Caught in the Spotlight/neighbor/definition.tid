@@ -2,16 +2,16 @@ config.central-topic:11570695-b5dd-4a9c-a11c-781b62b0627e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534911
-id:38abaa6c-d0d8-4705-8538-ac456f4b1dce
+created:1582719062233
+id:a728a1fd-2090-4540-865f-583b4b607ee9
 isview:false
 map.base:11570695-b5dd-4a9c-a11c-781b62b0627e
 map.role:definition
 map.type:neighbor
-modified:1582714534911
+modified:1582719062233
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Caught in the Spotlight-map
-tmap.id:38abaa6c-d0d8-4705-8538-ac456f4b1dce
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Caught in the Spotlight
+tmap.id:a728a1fd-2090-4540-865f-583b4b607ee9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Caught in the Spotlight

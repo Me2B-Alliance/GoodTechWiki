@@ -2,16 +2,16 @@ config.central-topic:a314c3eb-39b4-4725-b0c2-b79bf24ef1b1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534852
-id:58324622-7132-426f-8333-84b44df80f6f
+created:1582719062171
+id:d0c4eef5-a1aa-4003-b25a-3f32bfe88da8
 isview:false
 map.base:a314c3eb-39b4-4725-b0c2-b79bf24ef1b1
 map.role:definition
 map.type:neighbor
-modified:1582714534852
+modified:1582719062171
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/David Singer-map
-tmap.id:58324622-7132-426f-8333-84b44df80f6f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/David Singer
+tmap.id:d0c4eef5-a1aa-4003-b25a-3f32bfe88da8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of David Singer

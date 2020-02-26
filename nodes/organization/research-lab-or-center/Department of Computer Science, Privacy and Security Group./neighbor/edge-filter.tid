@@ -1,12 +1,12 @@
-created:1582714534807
+created:1582719062126
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8c2fe50f-e196-42aa-9704-517023fbbd5b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534807
+modified:1582719062126
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Department of Computer Science, Privacy and Security Group./filter/edges
-tmap.id:e0deba44-e010-42ab-8ad3-ebf222d72afa
+tmap.id:f640b97d-baf1-4527-86f0-ca4337a4b1db
 type:text/vnd.tiddlywiki
 
 No body provided

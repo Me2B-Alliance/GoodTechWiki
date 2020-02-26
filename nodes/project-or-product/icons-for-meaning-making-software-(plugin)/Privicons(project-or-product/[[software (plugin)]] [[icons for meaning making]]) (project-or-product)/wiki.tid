@@ -1,0 +1,35 @@
+activities:
+audience:
+category:[[icons for meaning making]] [[software (plugin)]]
+created:1582678071969
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:[object Set]
+modified:1582678071969
+name:Privicons
+parent.org:Privicons
+partners:
+people:
+purpose:[object Set]
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:[object Set]
+terms.of.service:
+tiddler.classification:node
+title:Privicons(project-or-product/[[software (plugin)]] [[icons for meaning making]]) (project-or-product)
+tmap.edges:{"93938c73-4c61-464b-a78d-c60d3fd60738":{"to":"bf5491d9-3efd-470c-bb72-2c55e223b51c","type":"Organization Supports Project or Product"}}
+tmap.id:bf5491d9-3efd-470c-bb72-2c55e223b51c
+type:text/vnd.tiddlywiki
+url:http://privicons.org/
+version.or.edition:
+working.group:
+
+Privicons is a simple approach to expressing how you want your email to be treated by the recipient. Do you want it [X]kept secret? Or do you want the information to be [>]shared with the world? Think of it as washing tags for email privacy.
+
+

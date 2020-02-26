@@ -2,16 +2,16 @@ config.central-topic:3387bf01-5602-460b-8ecd-030b25d1247a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534990
-id:023ddae2-18d6-453d-be0d-61576d94c420
+created:1582719062316
+id:0ecfbfcf-4f87-4faf-b0c9-0c2c993623d4
 isview:false
 map.base:3387bf01-5602-460b-8ecd-030b25d1247a
 map.role:definition
 map.type:neighbor
-modified:1582714534990
+modified:1582719062316
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth 2.0 Form Post Response Mode-map
-tmap.id:023ddae2-18d6-453d-be0d-61576d94c420
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth 2.0 Form Post Response Mode
+tmap.id:0ecfbfcf-4f87-4faf-b0c9-0c2c993623d4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OAuth 2.0 Form Post Response Mode

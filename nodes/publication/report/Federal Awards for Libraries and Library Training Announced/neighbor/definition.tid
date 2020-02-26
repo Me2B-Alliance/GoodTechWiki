@@ -2,16 +2,16 @@ config.central-topic:3ace4d99-0f4e-4558-942b-67f1c45ab40a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534951
-id:1f5ebce1-8de3-4807-b48e-602c23ed1792
+created:1582719062274
+id:4394600f-c4b1-408c-8d60-121d7f3f2df3
 isview:false
 map.base:3ace4d99-0f4e-4558-942b-67f1c45ab40a
 map.role:definition
 map.type:neighbor
-modified:1582714534951
+modified:1582719062274
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Federal Awards for Libraries and Library Training Announced-map
-tmap.id:1f5ebce1-8de3-4807-b48e-602c23ed1792
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Federal Awards for Libraries and Library Training Announced
+tmap.id:4394600f-c4b1-408c-8d60-121d7f3f2df3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Federal Awards for Libraries and Library Training Announced

@@ -2,16 +2,16 @@ config.central-topic:94b92e48-f7f6-4c86-b7b6-e91e6f70ea6d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534820
-id:26664141-1dad-4e49-966b-ed85bd8b1d68
+created:1582719062142
+id:1ce0bdcd-deee-4c1b-8fc4-ed4120fc787b
 isview:false
 map.base:94b92e48-f7f6-4c86-b7b6-e91e6f70ea6d
 map.role:definition
 map.type:neighbor
-modified:1582714534820
+modified:1582719062142
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Omidyar Network-map
-tmap.id:26664141-1dad-4e49-966b-ed85bd8b1d68
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Omidyar Network
+tmap.id:1ce0bdcd-deee-4c1b-8fc4-ed4120fc787b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Omidyar Network

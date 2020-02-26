@@ -1,12 +1,12 @@
-created:1582714534848
+created:1582719062168
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f069e6fc-65ca-43ca-b9af-ee62dd5f3df6
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534848
+modified:1582719062168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Murcia/filter/edges
-tmap.id:d8559881-87df-47c2-a56c-1d0140f26b7f
+tmap.id:7d8d1392-11ea-4747-8ee0-4afe8a234030
 type:text/vnd.tiddlywiki
 
 No body provided

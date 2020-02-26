@@ -2,16 +2,16 @@ config.central-topic:7f4941af-8a63-4a73-bad0-f0acfb75f314
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534927
-id:c61d44e4-41d1-4c5e-b8e5-d1fd584da601
+created:1582719062245
+id:67ae4f1b-5018-4124-ad23-2207d6a761a2
 isview:false
 map.base:7f4941af-8a63-4a73-bad0-f0acfb75f314
 map.role:definition
 map.type:neighbor
-modified:1582714534927
+modified:1582719062245
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Linked Data Capabilities-map
-tmap.id:c61d44e4-41d1-4c5e-b8e5-d1fd584da601
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Linked Data Capabilities
+tmap.id:67ae4f1b-5018-4124-ad23-2207d6a761a2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Linked Data Capabilities

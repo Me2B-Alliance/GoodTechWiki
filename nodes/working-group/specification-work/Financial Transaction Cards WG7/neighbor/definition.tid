@@ -2,16 +2,16 @@ config.central-topic:4d12d954-5d9a-493b-a623-3647076cb73b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535032
-id:b2270800-d1b1-4aef-9a99-afa222f24546
+created:1582719062360
+id:bd588e23-7916-4afa-9934-efac9a4c7465
 isview:false
 map.base:4d12d954-5d9a-493b-a623-3647076cb73b
 map.role:definition
 map.type:neighbor
-modified:1582714535032
+modified:1582719062360
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial Transaction Cards WG7-map
-tmap.id:b2270800-d1b1-4aef-9a99-afa222f24546
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial Transaction Cards WG7
+tmap.id:bd588e23-7916-4afa-9934-efac9a4c7465
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Financial Transaction Cards WG7

@@ -1,12 +1,12 @@
-created:1582714534879
+created:1582719062199
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e25340a7-6249-4853-917b-f3b74a15dcdc
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534879
+modified:1582719062199
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Trust Service Status List (TSL)/filter/edges
-tmap.id:c9d76536-bae4-43c8-9518-9ce1994e1367
+tmap.id:423bd385-753e-4fbb-bd57-e0a43b40161a
 type:text/vnd.tiddlywiki
 
 No body provided

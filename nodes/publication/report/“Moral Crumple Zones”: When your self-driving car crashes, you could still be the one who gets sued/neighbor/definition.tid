@@ -2,16 +2,16 @@ config.central-topic:00ef775d-ecea-4717-94fd-405bafca07f6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534935
-id:8af0ad0e-065c-41f9-8c76-5ddff2b15be6
+created:1582719062307
+id:4d18dfc6-487e-455f-975b-7c840ae7af5f
 isview:false
 map.base:00ef775d-ecea-4717-94fd-405bafca07f6
 map.role:definition
 map.type:neighbor
-modified:1582714534935
+modified:1582719062307
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/“Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued-map
-tmap.id:8af0ad0e-065c-41f9-8c76-5ddff2b15be6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/“Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued
+tmap.id:4d18dfc6-487e-455f-975b-7c840ae7af5f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of “Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued

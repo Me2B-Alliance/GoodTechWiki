@@ -2,16 +2,16 @@ config.central-topic:904d9498-6d6e-47c4-b6e2-17a4bdc072e6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534751
-id:cec47373-5c03-469c-b73d-d7424a1b2a54
+created:1582719062074
+id:7aa1e7ef-6ba2-48ff-9610-9cae5fccea05
 isview:false
 map.base:904d9498-6d6e-47c4-b6e2-17a4bdc072e6
 map.role:definition
 map.type:neighbor
-modified:1582714534751
+modified:1582719062074
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/20th International Conference on  Practice and Theory of Public-Key Cryptography-map
-tmap.id:cec47373-5c03-469c-b73d-d7424a1b2a54
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/20th International Conference on  Practice and Theory of Public-Key Cryptography
+tmap.id:7aa1e7ef-6ba2-48ff-9610-9cae5fccea05
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 20th International Conference on  Practice and Theory of Public-Key Cryptography

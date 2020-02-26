@@ -1,12 +1,12 @@
-created:1582714534956
+created:1582719062279
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:3abfb2ef-07dc-4c08-a092-faeb6d3b6183
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534956
+modified:1582719062279
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Politicians Should and Shouldn’t Use Twitter Bots/filter/edges
-tmap.id:2eb357a7-ffd9-4494-b97c-7364efd2b979
+tmap.id:19d497a7-5512-4852-b962-452cb6bc4b2f
 type:text/vnd.tiddlywiki
 
 No body provided

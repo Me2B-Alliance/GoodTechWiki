@@ -2,16 +2,16 @@ config.central-topic:280d31e0-a75b-4e87-9721-f7e1e9ec1dc7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534842
-id:6d434367-5d0c-499e-99b8-74f330f84d07
+created:1582719062162
+id:8791dac8-f800-4e2d-8e07-5b58d42101ee
 isview:false
 map.base:280d31e0-a75b-4e87-9721-f7e1e9ec1dc7
 map.role:definition
 map.type:neighbor
-modified:1582714534842
+modified:1582719062162
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform Identity Management Nederland (PIMN)-map
-tmap.id:6d434367-5d0c-499e-99b8-74f330f84d07
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform Identity Management Nederland (PIMN)
+tmap.id:8791dac8-f800-4e2d-8e07-5b58d42101ee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Platform Identity Management Nederland (PIMN)

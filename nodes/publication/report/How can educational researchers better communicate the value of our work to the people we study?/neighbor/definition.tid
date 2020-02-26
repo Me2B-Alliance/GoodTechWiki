@@ -2,16 +2,16 @@ config.central-topic:3fbd82ca-ed75-48c1-9d55-ad48bbc9ffff
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534955
-id:ebc2be57-e3fe-4f5c-b7b9-5b0ef10a170b
+created:1582719062279
+id:f45b03cd-ee1c-4b6b-8f86-681729d9a075
 isview:false
 map.base:3fbd82ca-ed75-48c1-9d55-ad48bbc9ffff
 map.role:definition
 map.type:neighbor
-modified:1582714534955
+modified:1582719062279
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/How can educational researchers better communicate the value of our work to the people we study?-map
-tmap.id:ebc2be57-e3fe-4f5c-b7b9-5b0ef10a170b
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/How can educational researchers better communicate the value of our work to the people we study?
+tmap.id:f45b03cd-ee1c-4b6b-8f86-681729d9a075
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How can educational researchers better communicate the value of our work to the people we study?

@@ -1,12 +1,12 @@
-created:1582714534932
+created:1582719062257
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:971d7f4a-230f-4701-a120-4bc9fb0a6375
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534932
+modified:1582719062257
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smarter Signatures: Experiments in Verifications/filter/edges
-tmap.id:98010a30-0d83-4f0e-a35c-8e6649ba2446
+tmap.id:75035594-62f8-44ed-853f-d5ca4bc0beb1
 type:text/vnd.tiddlywiki
 
 No body provided

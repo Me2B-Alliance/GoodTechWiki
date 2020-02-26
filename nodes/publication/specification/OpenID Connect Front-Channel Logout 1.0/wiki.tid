@@ -29,3 +29,4 @@ OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. 
 
 This specification defines a logout mechanism that uses front-channel communication via the User Agent between the OP and RPs being logged out that does not need an OpenID Provider iframe on Relying Party pages. Other protocols have used HTTP GETs to RP URLs that clear login state to achieve this. This specification does the same thing. It also reuses the RP-initiated logout functionality specified in Section 5 of OpenID Connect Session Management 1.0 (RP-Initiated Logout).
 
+

@@ -1,12 +1,12 @@
-created:1582714534946
+created:1582719062268
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:23f4ee20-67db-4681-8aa0-ea5ef33a3480
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534946
+modified:1582719062268
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Civil Rights: Education Primer/filter/edges
-tmap.id:9a787a69-f418-4569-b2ee-a2b848dd2614
+tmap.id:a352b52b-ca3f-4686-961c-1fffc19ba90f
 type:text/vnd.tiddlywiki
 
 No body provided

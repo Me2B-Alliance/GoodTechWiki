@@ -1,12 +1,12 @@
-created:1582714535029
+created:1582719062354
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c7160dd9-530c-4481-a4a3-6d07b3fa4ce4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535029
+modified:1582719062354
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Biometrics WG11/filter/edges
-tmap.id:94d0ccc1-2275-4d73-9531-fa6e336e8115
+tmap.id:a70eb8e1-04a2-4283-8e77-cce90c0c7f12
 type:text/vnd.tiddlywiki
 
 No body provided

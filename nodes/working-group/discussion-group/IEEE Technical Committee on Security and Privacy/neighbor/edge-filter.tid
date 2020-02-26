@@ -1,12 +1,12 @@
-created:1582714535024
+created:1582719062348
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:4efe8f3f-dc3a-4abc-9dae-147a92c8a7a6
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535024
+modified:1582719062348
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Technical Committee on Security and Privacy/filter/edges
-tmap.id:9d3aa835-d8cf-49f3-94d1-600fdfccd08d
+tmap.id:f1a6938d-7d90-4b7b-b017-58f1da4a60dc
 type:text/vnd.tiddlywiki
 
 No body provided

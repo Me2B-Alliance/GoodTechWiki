@@ -2,16 +2,16 @@ config.central-topic:12048782-a218-485a-b6c8-b6e0810630c2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534854
-id:3e3d728d-5664-4a94-b715-bd2f8aade118
+created:1582719062173
+id:6c2b46ee-4d06-4a6f-a8be-1028398d184c
 isview:false
 map.base:12048782-a218-485a-b6c8-b6e0810630c2
 map.role:definition
 map.type:neighbor
-modified:1582714534854
+modified:1582719062173
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kyla Reid-map
-tmap.id:3e3d728d-5664-4a94-b715-bd2f8aade118
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kyla Reid
+tmap.id:6c2b46ee-4d06-4a6f-a8be-1028398d184c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Kyla Reid

@@ -1,12 +1,12 @@
-created:1582714534870
+created:1582719062187
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e3f55f33-d3ec-4aeb-b47f-2104a9b94336
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534870
+modified:1582719062187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GAIA Global Access to the Internet for All Research Group/filter/edges
-tmap.id:2c9336dc-f3bb-4183-8484-dbfe4884b1a1
+tmap.id:517c2fed-c5b8-4894-8cdc-bd269c6038d9
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:eeeb7ec6-44e9-4bc5-a753-2dd99af21ce5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534848
-id:7addf655-9416-4a8b-ad21-8e53c2f3f737
+created:1582719062167
+id:257248cc-3f8c-4dae-b60d-19e619c23688
 isview:false
 map.base:eeeb7ec6-44e9-4bc5-a753-2dd99af21ce5
 map.role:definition
 map.type:neighbor
-modified:1582714534848
+modified:1582719062167
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/UmU-map
-tmap.id:7addf655-9416-4a8b-ad21-8e53c2f3f737
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/UmU
+tmap.id:257248cc-3f8c-4dae-b60d-19e619c23688
 type:text/vnd.tiddlywiki
 
 Neighbor Map of UmU

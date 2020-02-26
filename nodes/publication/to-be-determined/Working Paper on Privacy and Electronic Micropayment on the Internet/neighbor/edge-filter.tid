@@ -1,12 +1,12 @@
-created:1582714535015
+created:1582719062341
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:9e4bf768-6ad5-428e-a279-96dafb7f7c79
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535015
+modified:1582719062341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Privacy and Electronic Micropayment on the Internet/filter/edges
-tmap.id:e8dbc6bb-9efe-449e-b898-fed4deef77ae
+tmap.id:a58b4092-1732-4dfa-a973-ea10d30fd50b
 type:text/vnd.tiddlywiki
 
 No body provided

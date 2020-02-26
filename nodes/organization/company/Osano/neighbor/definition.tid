@@ -2,16 +2,16 @@ config.central-topic:f47e2fc9-33af-4d45-8c09-e01ff580b6e0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534771
-id:57fb9b74-de9d-4f7d-ba2a-fb9f54aac5b5
+created:1582719062095
+id:a3ac8d56-8854-4ccb-abf4-e2dccb4a4ae9
 isview:false
 map.base:f47e2fc9-33af-4d45-8c09-e01ff580b6e0
 map.role:definition
 map.type:neighbor
-modified:1582714534771
+modified:1582719062095
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Osano-map
-tmap.id:57fb9b74-de9d-4f7d-ba2a-fb9f54aac5b5
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Osano
+tmap.id:a3ac8d56-8854-4ccb-abf4-e2dccb4a4ae9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Osano

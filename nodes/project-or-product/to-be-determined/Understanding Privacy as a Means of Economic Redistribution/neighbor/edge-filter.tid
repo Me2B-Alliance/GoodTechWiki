@@ -1,12 +1,12 @@
-created:1582714534897
+created:1582719062217
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:a3c27dd2-17ce-45e3-bacd-ce17c5ba3f1a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534897
+modified:1582719062217
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Understanding Privacy as a Means of Economic Redistribution/filter/edges
-tmap.id:f9b88c6e-782e-4768-b6b9-eea457944300
+tmap.id:734b821c-0849-4a78-9747-edf5ee2ab829
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534844
+created:1582719062164
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:ea40ef0b-bc38-4f0d-8f47-7094602d982a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534844
+modified:1582719062164
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trusted IoT Alliance/filter/edges
-tmap.id:98b0c193-4a13-499b-8d82-c914e3dcbf91
+tmap.id:01690583-3c68-4c3f-8d79-bd8b4637c17f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534846
+created:1582719062165
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:a405d5d5-f10e-4672-9314-21f6d334a18c
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534846
+modified:1582719062165
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Computer Technology Institute & Press - DIOPHANTUS/filter/edges
-tmap.id:583144fa-8101-4d99-92b1-ae9a04809986
+tmap.id:a8934079-e8dc-44d1-b4ce-94c5d0c0b7e2
 type:text/vnd.tiddlywiki
 
 No body provided

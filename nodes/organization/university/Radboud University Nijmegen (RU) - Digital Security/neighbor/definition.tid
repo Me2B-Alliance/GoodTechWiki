@@ -2,16 +2,16 @@ config.central-topic:7fba4084-c9eb-4f43-aa5c-5f8562123544
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534847
-id:5cdd468c-38fc-4ca4-8e53-6723ba33c70a
+created:1582719062166
+id:b59be597-a432-469b-a5f7-585c28d3fac5
 isview:false
 map.base:7fba4084-c9eb-4f43-aa5c-5f8562123544
 map.role:definition
 map.type:neighbor
-modified:1582714534847
+modified:1582719062166
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radboud University Nijmegen (RU) - Digital Security-map
-tmap.id:5cdd468c-38fc-4ca4-8e53-6723ba33c70a
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radboud University Nijmegen (RU) - Digital Security
+tmap.id:b59be597-a432-469b-a5f7-585c28d3fac5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Radboud University Nijmegen (RU) - Digital Security

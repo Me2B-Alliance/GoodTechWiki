@@ -1,12 +1,12 @@
-created:1582714534963
+created:1582719062287
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:132be945-27c2-47e1-92a3-3227873bf3c4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534963
+modified:1582719062287
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police Access to Communications Data (2015)/filter/edges
-tmap.id:38db418f-e1b2-47f5-a2b6-1818fabbf3a5
+tmap.id:c0f459de-9118-4e77-b131-b5094f7ff64f
 type:text/vnd.tiddlywiki
 
 No body provided

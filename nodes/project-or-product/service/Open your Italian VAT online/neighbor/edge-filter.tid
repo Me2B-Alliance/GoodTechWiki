@@ -1,12 +1,12 @@
-created:1582714534880
+created:1582719062199
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d3f3cd2d-1189-4ed6-a46a-f9c6d59edaf3
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534880
+modified:1582719062199
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open your Italian VAT online/filter/edges
-tmap.id:90e1eba5-3b35-479d-88c6-0fea2a506411
+tmap.id:7bcc5e59-9bb9-4307-ae82-1deafe13c520
 type:text/vnd.tiddlywiki
 
 No body provided

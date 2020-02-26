@@ -2,16 +2,16 @@ config.central-topic:d2ee48ce-3a56-4865-b9e0-f41ccc760b07
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534940
-id:bdd2db66-fb7e-445c-b34c-5c062ab99f24
+created:1582719062264
+id:533aec2b-e4dd-41a4-8ac9-ecb802dccf01
 isview:false
 map.base:d2ee48ce-3a56-4865-b9e0-f41ccc760b07
 map.role:definition
 map.type:neighbor
-modified:1582714534940
+modified:1582719062264
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Artificial Intelligence & Human Rights: A Workshop at Data & Society-map
-tmap.id:bdd2db66-fb7e-445c-b34c-5c062ab99f24
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Artificial Intelligence & Human Rights: A Workshop at Data & Society
+tmap.id:533aec2b-e4dd-41a4-8ac9-ecb802dccf01
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Artificial Intelligence & Human Rights: A Workshop at Data & Society

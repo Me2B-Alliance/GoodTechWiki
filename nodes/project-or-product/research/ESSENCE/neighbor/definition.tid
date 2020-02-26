@@ -2,16 +2,16 @@ config.central-topic:fede168f-9e9d-4f9b-80ba-862353e2dae8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534868
-id:c71b4005-41c7-417a-8ce7-5213c57ad495
+created:1582719062186
+id:466ab41a-d13b-4f42-871b-570dda2d0327
 isview:false
 map.base:fede168f-9e9d-4f9b-80ba-862353e2dae8
 map.role:definition
 map.type:neighbor
-modified:1582714534868
+modified:1582719062186
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESSENCE-map
-tmap.id:c71b4005-41c7-417a-8ce7-5213c57ad495
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESSENCE
+tmap.id:466ab41a-d13b-4f42-871b-570dda2d0327
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ESSENCE

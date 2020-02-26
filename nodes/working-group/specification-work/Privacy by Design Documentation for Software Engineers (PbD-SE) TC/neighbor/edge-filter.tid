@@ -1,12 +1,12 @@
-created:1582714535038
+created:1582719062365
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c3ade451-27fc-4de4-99ac-45cb4bef910f
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535038
+modified:1582719062365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy by Design Documentation for Software Engineers (PbD-SE) TC/filter/edges
-tmap.id:e611957d-1071-441e-a796-087107d98749
+tmap.id:7e61d45b-2852-44f8-9b5b-38c707a32379
 type:text/vnd.tiddlywiki
 
 No body provided

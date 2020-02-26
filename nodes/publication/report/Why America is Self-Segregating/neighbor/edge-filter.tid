@@ -1,12 +1,12 @@
-created:1582714534981
+created:1582719062304
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:54de701c-1a57-4b1e-a222-22b777b352d4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534981
+modified:1582719062304
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why America is Self-Segregating/filter/edges
-tmap.id:35f403c2-aac3-4503-b1e0-1f98fb2719d8
+tmap.id:33e7d79f-f373-4723-9d6c-0c4361d6314b
 type:text/vnd.tiddlywiki
 
 No body provided

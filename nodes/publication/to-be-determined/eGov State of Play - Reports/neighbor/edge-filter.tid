@@ -1,12 +1,12 @@
-created:1582714535016
+created:1582719062343
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:80496f1b-4d69-4d0f-a77d-29e54244a021
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535016
+modified:1582719062343
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eGov State of Play - Reports/filter/edges
-tmap.id:a9a5a3d6-c70e-4fb9-b697-e5e129de89b1
+tmap.id:aabb82db-4cc8-4a97-a687-d77c42578182
 type:text/vnd.tiddlywiki
 
 No body provided

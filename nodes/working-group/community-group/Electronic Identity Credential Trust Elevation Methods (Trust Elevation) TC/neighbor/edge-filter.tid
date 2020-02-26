@@ -1,12 +1,12 @@
-created:1582714535024
+created:1582719062348
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f7be9838-20a1-47f4-aab7-c62250d3928e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535024
+modified:1582719062348
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC/filter/edges
-tmap.id:d8b748dd-30a6-4044-a35d-78a20f0eb29d
+tmap.id:51fdfb09-4cad-4ca5-b647-99f9a9a9d882
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:3d796bd1-87ba-4e34-b209-e682e89abfb4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534852
-id:df9f09ad-d687-4b80-b7ae-036cb1c4d567
+created:1582719062172
+id:121da0bf-6928-4741-b16a-128571007873
 isview:false
 map.base:3d796bd1-87ba-4e34-b209-e682e89abfb4
 map.role:definition
 map.type:neighbor
-modified:1582714534852
+modified:1582719062172
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Eve Maler-map
-tmap.id:df9f09ad-d687-4b80-b7ae-036cb1c4d567
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Eve Maler
+tmap.id:121da0bf-6928-4741-b16a-128571007873
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Eve Maler

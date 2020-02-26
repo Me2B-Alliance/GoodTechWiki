@@ -2,16 +2,16 @@ config.central-topic:99c1a019-e8b1-41fa-b487-e6c792b15cdd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534935
-id:98324bf8-af9d-401d-b572-e8305921be9c
+created:1582719062258
+id:13206a83-5030-4fda-90ef-eb692e245e06
 isview:false
 map.base:99c1a019-e8b1-41fa-b487-e6c792b15cdd
 map.role:definition
 map.type:neighbor
-modified:1582714534935
+modified:1582719062258
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Von Neumann's Legacy: 'Intelligent' Capital in a Weightless Economy-map
-tmap.id:98324bf8-af9d-401d-b572-e8305921be9c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Von Neumann's Legacy: 'Intelligent' Capital in a Weightless Economy
+tmap.id:13206a83-5030-4fda-90ef-eb692e245e06
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Von Neumann's Legacy: 'Intelligent' Capital in a Weightless Economy

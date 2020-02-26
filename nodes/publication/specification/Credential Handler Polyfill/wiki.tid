@@ -34,3 +34,4 @@ The Credential Handler receives the event via a Service Worker or, if the Creden
 
 The Credential Handler must respond to the event with a credential that fulfills the request. If necessary, the Credential Handler may open a window on its website's origin to allow the user to interact with its website prior to responding. This UI can be styled and shaped according to the website owner's brand using arbitrary JavaScript and HTML like any other webpage.
 
+

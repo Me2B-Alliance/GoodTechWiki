@@ -2,16 +2,16 @@ config.central-topic:bf7a9e34-ee07-497a-83ad-6737c87bc1fb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534847
-id:fb1ecb39-e38f-4d9e-ac4a-53a7832f6ef6
+created:1582719062166
+id:090db361-d67a-4820-9bc0-904f13efa148
 isview:false
 map.base:bf7a9e34-ee07-497a-83ad-6737c87bc1fb
 map.role:definition
 map.type:neighbor
-modified:1582714534847
+modified:1582719062166
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Harvard-map
-tmap.id:fb1ecb39-e38f-4d9e-ac4a-53a7832f6ef6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Harvard
+tmap.id:090db361-d67a-4820-9bc0-904f13efa148
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Harvard

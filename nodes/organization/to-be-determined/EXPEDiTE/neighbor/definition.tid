@@ -2,16 +2,16 @@ config.central-topic:d6eb77cf-fc3e-4727-8959-5fd79a1bd76a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534814
-id:11d58a54-b13a-4589-ab3f-f04ca636d1b6
+created:1582719062135
+id:7001d2f8-e02d-4ddd-8e29-925c9e5fea10
 isview:false
 map.base:d6eb77cf-fc3e-4727-8959-5fd79a1bd76a
 map.role:definition
 map.type:neighbor
-modified:1582714534814
+modified:1582719062135
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/EXPEDiTE-map
-tmap.id:11d58a54-b13a-4589-ab3f-f04ca636d1b6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/EXPEDiTE
+tmap.id:7001d2f8-e02d-4ddd-8e29-925c9e5fea10
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EXPEDiTE

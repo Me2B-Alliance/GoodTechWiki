@@ -1,12 +1,12 @@
-created:1582714535012
+created:1582719062338
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8209d420-171f-47a8-87f7-875a5de151fe
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535012
+modified:1582719062338
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet's Coming of Age/filter/edges
-tmap.id:1cd6a475-eb03-4bdf-a3d2-175857fb5b80
+tmap.id:177f7aa5-7111-4625-829c-882c2aaf1ef4
 type:text/vnd.tiddlywiki
 
 No body provided

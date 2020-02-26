@@ -2,16 +2,16 @@ config.central-topic:bb8d3706-a021-48b3-8531-07f9cda2901b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534784
-id:da7d9478-4663-4c0f-92b4-ec8391bfbd82
+created:1582719062109
+id:9faf7ca6-fd86-44d2-acda-6894121fc810
 isview:false
 map.base:bb8d3706-a021-48b3-8531-07f9cda2901b
 map.role:definition
 map.type:neighbor
-modified:1582714534784
+modified:1582719062109
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/AmIUnique (organization)-map
-tmap.id:da7d9478-4663-4c0f-92b4-ec8391bfbd82
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/AmIUnique (organization)
+tmap.id:9faf7ca6-fd86-44d2-acda-6894121fc810
 type:text/vnd.tiddlywiki
 
 Neighbor Map of AmIUnique (organization)

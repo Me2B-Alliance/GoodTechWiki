@@ -2,16 +2,16 @@ config.central-topic:ade4b176-3697-46aa-a798-f6f7da05c329
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534968
-id:980c76be-f9a9-4aba-804c-5393d30db3b4
+created:1582719062294
+id:48e2fb75-8fa5-48b1-a848-f7666157fa32
 isview:false
 map.base:ade4b176-3697-46aa-a798-f6f7da05c329
 map.role:definition
 map.type:neighbor
-modified:1582714534968
+modified:1582719062294
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of responses to the public consultation on Cloud computing-map
-tmap.id:980c76be-f9a9-4aba-804c-5393d30db3b4
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of responses to the public consultation on Cloud computing
+tmap.id:48e2fb75-8fa5-48b1-a848-f7666157fa32
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Summary of responses to the public consultation on Cloud computing

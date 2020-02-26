@@ -1,12 +1,12 @@
-created:1582714534890
+created:1582719062209
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:90f155a2-bfc9-4a7e-b8dc-8c643b1b98de
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534890
+modified:1582719062209
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Consumer & Data Subject Rights Management/filter/edges
-tmap.id:6b72e8c9-4692-488b-b457-487bb50c619a
+tmap.id:a31b59d8-5d9f-4c9b-b84a-580e5e378911
 type:text/vnd.tiddlywiki
 
 No body provided

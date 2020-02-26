@@ -2,16 +2,16 @@ config.central-topic:0c075115-84d3-485a-a2ad-24017438436b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534771
-id:009bca9c-f70c-417b-ad2b-a75daf8dc4d6
+created:1582719062095
+id:8cfad505-1620-4d60-9fbd-c0ba063ff60e
 isview:false
 map.base:0c075115-84d3-485a-a2ad-24017438436b
 map.role:definition
 map.type:neighbor
-modified:1582714534771
+modified:1582719062095
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/PwC-map
-tmap.id:009bca9c-f70c-417b-ad2b-a75daf8dc4d6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/PwC
+tmap.id:8cfad505-1620-4d60-9fbd-c0ba063ff60e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PwC

@@ -1,12 +1,12 @@
-created:1582714535027
+created:1582719062352
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:6b38f451-bbc1-4027-93a5-b80f781f448b
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535027
+modified:1582719062352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet Technical Advisory Committee/filter/edges
-tmap.id:c82cef05-3342-4275-8f8e-2771e3a93cd1
+tmap.id:758b1445-98ee-4bc4-bdbb-fa0ae6c7a152
 type:text/vnd.tiddlywiki
 
 No body provided

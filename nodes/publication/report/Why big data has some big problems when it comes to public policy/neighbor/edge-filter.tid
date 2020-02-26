@@ -1,12 +1,12 @@
-created:1582714534982
+created:1582719062303
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:fe80cf89-e409-4881-9ea2-05f9354a79a9
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534982
+modified:1582719062303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why big data has some big problems when it comes to public policy/filter/edges
-tmap.id:5aff85fc-7f22-4f46-87a0-1ad7e4708a1d
+tmap.id:7efd91dd-aee5-4fca-b348-058761f76cd2
 type:text/vnd.tiddlywiki
 
 No body provided

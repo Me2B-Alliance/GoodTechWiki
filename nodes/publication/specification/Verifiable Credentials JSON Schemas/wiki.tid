@@ -28,3 +28,4 @@ working.group:
 
 The [VC_DATA_MODEL] specifies the models used for Verifiable Credentials and Verifiable Presentations, and explains the relationships between three parties: issuer, holder, and verifier. A critical piece of infrastructure out of the scope of those specifications is the Credential Schema. This specification provides a mechanism to express a Credential Schema and the protocols for evolving the schema.
 
+

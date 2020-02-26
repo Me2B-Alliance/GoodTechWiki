@@ -2,16 +2,16 @@ config.central-topic:83965c1c-0834-431f-9cfb-3eca4614bfb7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534919
-id:35ebdab7-ddee-42f0-8629-1f80b27b9dcf
+created:1582719062242
+id:cd1f2fa7-8770-48fe-9f70-5be888c1b8a9
 isview:false
 map.base:83965c1c-0834-431f-9cfb-3eca4614bfb7
 map.role:definition
 map.type:neighbor
-modified:1582714534919
+modified:1582719062242
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/How to Convince Dad* of the Importance of Self-Sovereign Identity-map
-tmap.id:35ebdab7-ddee-42f0-8629-1f80b27b9dcf
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/How to Convince Dad* of the Importance of Self-Sovereign Identity
+tmap.id:cd1f2fa7-8770-48fe-9f70-5be888c1b8a9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How to Convince Dad* of the Importance of Self-Sovereign Identity

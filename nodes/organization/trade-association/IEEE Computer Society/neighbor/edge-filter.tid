@@ -1,12 +1,12 @@
-created:1582714534833
+created:1582719062155
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:1a890b2c-8df5-444e-989f-9fd4d163ccb7
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534833
+modified:1582719062155
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Computer Society/filter/edges
-tmap.id:63a6c3a1-b24d-40ce-a1b2-e1d697f6ebf5
+tmap.id:767dcd8f-8e45-4507-b8c7-d1cf37125f07
 type:text/vnd.tiddlywiki
 
 No body provided

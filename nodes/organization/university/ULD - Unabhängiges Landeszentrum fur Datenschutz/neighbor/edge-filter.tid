@@ -1,12 +1,12 @@
-created:1582714534848
+created:1582719062167
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:3a4944d4-d76b-4ae8-b5ce-574cc4e9c7eb
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534848
+modified:1582719062167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ULD - Unabhängiges Landeszentrum fur Datenschutz/filter/edges
-tmap.id:d4a2a4d6-1dce-42d5-b657-51355fd2ffd3
+tmap.id:4c0a9256-a23c-4f19-b4ab-f31452ab583f
 type:text/vnd.tiddlywiki
 
 No body provided

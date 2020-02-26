@@ -29,3 +29,4 @@ This specification provides guidance on the proper encoding of responses to OAut
 
 This specification also defines a Response Mode Authorization Request parameter that informs the Authorization Server of the mechanism to be used for returning Authorization Response parameters from the Authorization Endpoint.
 
+

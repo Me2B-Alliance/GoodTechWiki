@@ -2,16 +2,16 @@ config.central-topic:6392ae94-3302-424c-8a41-8e62fd86fb7d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534874
-id:c639a08f-e394-417a-aaa0-a638dc8af915
+created:1582719062190
+id:344321ce-2f96-4004-9ff3-882513a7d01c
 isview:false
 map.base:6392ae94-3302-424c-8a41-8e62fd86fb7d
 map.role:definition
 map.type:neighbor
-modified:1582714534874
+modified:1582719062190
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Media Manipulation-map
-tmap.id:c639a08f-e394-417a-aaa0-a638dc8af915
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Media Manipulation
+tmap.id:344321ce-2f96-4004-9ff3-882513a7d01c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Media Manipulation

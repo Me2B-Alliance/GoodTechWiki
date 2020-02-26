@@ -2,16 +2,16 @@ config.central-topic:61f88e0d-4369-4286-b8e9-fb473f568943
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534899
-id:f8530d5d-162f-47b1-93ba-dbe8e5529c97
+created:1582719062221
+id:c6c2b6ec-9730-457a-b0ea-77ba916c8c9e
 isview:false
 map.base:61f88e0d-4369-4286-b8e9-fb473f568943
 map.role:definition
 map.type:neighbor
-modified:1582714534899
+modified:1582719062221
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/English French Dictionary on Data Protection-map
-tmap.id:f8530d5d-162f-47b1-93ba-dbe8e5529c97
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/English French Dictionary on Data Protection
+tmap.id:c6c2b6ec-9730-457a-b0ea-77ba916c8c9e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of English French Dictionary on Data Protection

@@ -2,16 +2,16 @@ config.central-topic:6b5d63a6-4c1d-4da4-b1a3-90de5cae2e45
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534840
-id:e1f4a314-829c-4ca1-b177-36cc948a3ff7
+created:1582719062173
+id:46f09740-0290-4e58-9e3f-0db692735d80
 isview:false
 map.base:6b5d63a6-4c1d-4da4-b1a3-90de5cae2e45
 map.role:definition
 map.type:neighbor
-modified:1582714534840
+modified:1582719062173
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Networking Foundation ONF-map
-tmap.id:e1f4a314-829c-4ca1-b177-36cc948a3ff7
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Networking Foundation ONF
+tmap.id:46f09740-0290-4e58-9e3f-0db692735d80
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Networking Foundation ONF

@@ -1,12 +1,12 @@
-created:1582714535031
+created:1582719062358
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:f43bead2-e902-4f05-91d2-95ad2a8317b5
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535031
+modified:1582719062358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Signature Services eXtended (DSS-X)/filter/edges
-tmap.id:4234189e-a1ea-4b86-8881-59fd6d624799
+tmap.id:411bc130-f832-46f6-b4e3-7010c08b7777
 type:text/vnd.tiddlywiki
 
 No body provided

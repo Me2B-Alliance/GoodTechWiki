@@ -2,16 +2,16 @@ config.central-topic:f6428dd1-1e91-46ea-b0b5-a8b82f72e1fd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534916
-id:6e6cefde-b1d0-43e3-9980-3265a8291f46
+created:1582719062238
+id:ab4197b7-6353-459c-b90a-d3f3428424f5
 isview:false
 map.base:f6428dd1-1e91-46ea-b0b5-a8b82f72e1fd
 map.role:definition
 map.type:neighbor
-modified:1582714534916
+modified:1582719062238
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Creating the New World of Trust-map
-tmap.id:6e6cefde-b1d0-43e3-9980-3265a8291f46
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Creating the New World of Trust
+tmap.id:ab4197b7-6353-459c-b90a-d3f3428424f5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Creating the New World of Trust

@@ -1,12 +1,12 @@
-created:1582714534895
+created:1582719062214
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:43f786d8-0c3e-4189-aefd-4e07f349b355
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534895
+modified:1582719062214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GAMERS FOR FREEDOM/filter/edges
-tmap.id:1341ebfc-290e-4022-8d3f-f04e09e96dd2
+tmap.id:56783b0e-3b57-4d8d-8b4d-f5f8528e86fb
 type:text/vnd.tiddlywiki
 
 No body provided

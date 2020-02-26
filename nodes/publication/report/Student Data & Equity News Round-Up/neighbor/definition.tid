@@ -2,16 +2,16 @@ config.central-topic:783f4c99-7cb0-4a09-ace4-cd987c85c50d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534968
-id:aab142f3-33ff-415c-a43f-d3abfb3f0d91
+created:1582719062293
+id:47570156-cff5-4f4f-bc0f-7b72ebc6b66e
 isview:false
 map.base:783f4c99-7cb0-4a09-ace4-cd987c85c50d
 map.role:definition
 map.type:neighbor
-modified:1582714534968
+modified:1582719062293
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Equity News Round-Up-map
-tmap.id:aab142f3-33ff-415c-a43f-d3abfb3f0d91
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Equity News Round-Up
+tmap.id:47570156-cff5-4f4f-bc0f-7b72ebc6b66e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Student Data & Equity News Round-Up

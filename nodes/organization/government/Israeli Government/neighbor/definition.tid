@@ -2,16 +2,16 @@ config.central-topic:386d9a1e-39b7-4117-9bf1-390f6678831f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534781
-id:cca63569-2dda-444a-90ba-c78cf2cc51b5
+created:1582719062104
+id:2bc0ae53-0448-412f-ae28-85f359b9612b
 isview:false
 map.base:386d9a1e-39b7-4117-9bf1-390f6678831f
 map.role:definition
 map.type:neighbor
-modified:1582714534781
+modified:1582719062104
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Israeli Government-map
-tmap.id:cca63569-2dda-444a-90ba-c78cf2cc51b5
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Israeli Government
+tmap.id:2bc0ae53-0448-412f-ae28-85f359b9612b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Israeli Government

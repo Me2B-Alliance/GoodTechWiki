@@ -2,16 +2,16 @@ config.central-topic:a91a86b8-2097-4d70-a6f7-9081f88ee535
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534839
-id:13cdaa0b-ab73-47fb-9c2f-1b9afc86d5c6
+created:1582719062160
+id:9a13d0bf-3e12-4ba8-8b20-b6e8b2d2a987
 isview:false
 map.base:a91a86b8-2097-4d70-a6f7-9081f88ee535
 map.role:definition
 map.type:neighbor
-modified:1582714534839
+modified:1582719062160
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Kit-map
-tmap.id:13cdaa0b-ab73-47fb-9c2f-1b9afc86d5c6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Kit
+tmap.id:9a13d0bf-3e12-4ba8-8b20-b6e8b2d2a987
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Data Kit

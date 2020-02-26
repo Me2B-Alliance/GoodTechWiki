@@ -2,16 +2,16 @@ config.central-topic:e2930904-58fc-4695-b7e5-c3fbb491f5a4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534844
-id:e5ad6e90-5dd6-4e4e-8193-d22bbe70d6c3
+created:1582719062164
+id:03726a05-2744-4b4b-ad49-fbe22ec0133e
 isview:false
 map.base:e2930904-58fc-4695-b7e5-c3fbb491f5a4
 map.role:definition
 map.type:neighbor
-modified:1582714534844
+modified:1582719062164
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vendorcom-map
-tmap.id:e5ad6e90-5dd6-4e4e-8193-d22bbe70d6c3
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vendorcom
+tmap.id:03726a05-2744-4b4b-ad49-fbe22ec0133e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Vendorcom

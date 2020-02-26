@@ -2,16 +2,16 @@ config.central-topic:a3d19e88-b246-4e1e-81fc-0fc1748a5eac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534981
-id:7b9abb7a-2a1d-4c65-b748-37c8690fb41c
+created:1582719062303
+id:6928af51-a3d0-45d2-8c59-1ebacdb0b076
 isview:false
 map.base:a3d19e88-b246-4e1e-81fc-0fc1748a5eac
 map.role:definition
 map.type:neighbor
-modified:1582714534981
+modified:1582719062303
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Who’s Knocking At Your Door?-map
-tmap.id:7b9abb7a-2a1d-4c65-b748-37c8690fb41c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Who’s Knocking At Your Door?
+tmap.id:6928af51-a3d0-45d2-8c59-1ebacdb0b076
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Who’s Knocking At Your Door?

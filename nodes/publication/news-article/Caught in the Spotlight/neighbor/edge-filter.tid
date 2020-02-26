@@ -1,12 +1,12 @@
-created:1582714534911
+created:1582719062233
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:11570695-b5dd-4a9c-a11c-781b62b0627e
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534911
+modified:1582719062233
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Caught in the Spotlight/filter/edges
-tmap.id:e913440d-8b01-42ff-aa8f-5e264aa02d41
+tmap.id:6c5bf432-8ce6-4692-b005-c0dbdf8c4c0f
 type:text/vnd.tiddlywiki
 
 No body provided

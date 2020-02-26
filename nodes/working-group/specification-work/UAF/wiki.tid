@@ -32,3 +32,4 @@ The passwordless FIDO experience is supported by the Universal Authentication Fr
 
 Once registered, the user simply repeats the local authentication action whenever they need to authenticate to the service. The user no longer needs to enter their password when authenticating from that device. UAF also allows experiences that combine multiple authentication mechanisms such as fingerprint + PIN.
 
+

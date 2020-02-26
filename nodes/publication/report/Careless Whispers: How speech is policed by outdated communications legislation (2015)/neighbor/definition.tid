@@ -2,16 +2,16 @@ config.central-topic:613954d9-198b-4a85-810e-cfe8ddc05f6e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534942
-id:f096edbf-1b5b-4da8-a1c9-a820fa8f07a6
+created:1582719062267
+id:f3b0009a-47de-4b11-ad38-65d19ad62b5a
 isview:false
 map.base:613954d9-198b-4a85-810e-cfe8ddc05f6e
 map.role:definition
 map.type:neighbor
-modified:1582714534942
+modified:1582719062267
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Careless Whispers: How speech is policed by outdated communications legislation (2015)-map
-tmap.id:f096edbf-1b5b-4da8-a1c9-a820fa8f07a6
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Careless Whispers: How speech is policed by outdated communications legislation (2015)
+tmap.id:f3b0009a-47de-4b11-ad38-65d19ad62b5a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Careless Whispers: How speech is policed by outdated communications legislation (2015)

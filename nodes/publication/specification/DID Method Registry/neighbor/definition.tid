@@ -2,16 +2,16 @@ config.central-topic:dc272e6d-60b3-4221-8991-555888bb25f2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534982
-id:0c74a22d-23db-4420-86ca-ad8dfca034fd
+created:1582719062308
+id:37ddc4ba-6fc8-4833-8c14-2478b38973b9
 isview:false
 map.base:dc272e6d-60b3-4221-8991-555888bb25f2
 map.role:definition
 map.type:neighbor
-modified:1582714534982
+modified:1582719062308
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID Method Registry-map
-tmap.id:0c74a22d-23db-4420-86ca-ad8dfca034fd
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID Method Registry
+tmap.id:37ddc4ba-6fc8-4833-8c14-2478b38973b9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DID Method Registry

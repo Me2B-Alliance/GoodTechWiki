@@ -1,12 +1,12 @@
-created:1582714534979
+created:1582719062301
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:c397a09d-3e24-4b91-a4d4-63b04009deec
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534979
+modified:1582719062301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What Customer Data Collection Could Mean for Workers/filter/edges
-tmap.id:1b4bbdb9-8780-4f74-811d-785bb375fbb9
+tmap.id:a4aea453-eb2c-4507-ad19-b18206538ef3
 type:text/vnd.tiddlywiki
 
 No body provided

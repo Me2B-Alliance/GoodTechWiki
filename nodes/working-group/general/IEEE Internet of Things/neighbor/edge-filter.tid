@@ -1,12 +1,12 @@
-created:1582714535027
+created:1582719062351
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:12551380-be5f-4119-aeca-b0b3947ab4bb
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535027
+modified:1582719062351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Internet of Things/filter/edges
-tmap.id:b5048160-09e4-40e1-b89c-8b9aeb39b4a5
+tmap.id:0b2e4598-d627-4cf3-9559-71c7273534e3
 type:text/vnd.tiddlywiki
 
 No body provided

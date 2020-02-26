@@ -2,16 +2,16 @@ config.central-topic:2ce522b8-7a2c-4d83-a132-448277623c58
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534754
-id:45b2a803-3b86-4ae3-8e82-ed0f3044b280
+created:1582719062075
+id:750ae60f-0dc0-4bbc-a861-b3f84a2daa3f
 isview:false
 map.base:2ce522b8-7a2c-4d83-a132-448277623c58
 map.role:definition
 map.type:neighbor
-modified:1582714534754
+modified:1582719062075
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms and Accountability Conference-map
-tmap.id:45b2a803-3b86-4ae3-8e82-ed0f3044b280
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms and Accountability Conference
+tmap.id:750ae60f-0dc0-4bbc-a861-b3f84a2daa3f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Algorithms and Accountability Conference

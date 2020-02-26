@@ -1,12 +1,12 @@
-created:1582714534823
+created:1582719062146
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:08c8f458-4442-47b3-8d42-059cd9c92e93
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534823
+modified:1582719062146
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustable Technology Mark (organization)/filter/edges
-tmap.id:3329c3de-6a87-4fbf-91d0-4c42e6c9bc56
+tmap.id:b933cdc9-c70b-4320-be5b-94fcde8cc584
 type:text/vnd.tiddlywiki
 
 No body provided

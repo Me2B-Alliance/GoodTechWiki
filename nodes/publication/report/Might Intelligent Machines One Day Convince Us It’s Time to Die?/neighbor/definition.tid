@@ -2,16 +2,16 @@ config.central-topic:6b76159c-8114-4a71-b534-2523433b3e1e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534959
-id:36606863-4ad1-4a60-bfac-de78cf131f6a
+created:1582719062285
+id:0ddd52cd-4fa7-40f5-869b-8186219cad32
 isview:false
 map.base:6b76159c-8114-4a71-b534-2523433b3e1e
 map.role:definition
 map.type:neighbor
-modified:1582714534959
+modified:1582719062285
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Might Intelligent Machines One Day Convince Us It’s Time to Die?-map
-tmap.id:36606863-4ad1-4a60-bfac-de78cf131f6a
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Might Intelligent Machines One Day Convince Us It’s Time to Die?
+tmap.id:0ddd52cd-4fa7-40f5-869b-8186219cad32
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Might Intelligent Machines One Day Convince Us It’s Time to Die?

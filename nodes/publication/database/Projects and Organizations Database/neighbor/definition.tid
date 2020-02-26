@@ -2,16 +2,16 @@ config.central-topic:48b63211-767f-4e59-8948-3d36128fd959
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534899
-id:2f44991e-9037-4b58-9904-3a06ef339d1f
+created:1582719062219
+id:112692a6-26a4-41e7-b5df-82aa401869e3
 isview:false
 map.base:48b63211-767f-4e59-8948-3d36128fd959
 map.role:definition
 map.type:neighbor
-modified:1582714534899
+modified:1582719062219
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Projects and Organizations Database-map
-tmap.id:2f44991e-9037-4b58-9904-3a06ef339d1f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Projects and Organizations Database
+tmap.id:112692a6-26a4-41e7-b5df-82aa401869e3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Projects and Organizations Database

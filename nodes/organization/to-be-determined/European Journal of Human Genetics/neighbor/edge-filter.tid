@@ -1,12 +1,12 @@
-created:1582714534815
+created:1582719062137
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:7bdc37a1-0825-4a1f-86c3-f5f22ff43fe7
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534815
+modified:1582719062137
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Journal of Human Genetics/filter/edges
-tmap.id:23448668-7380-4665-8dfd-b7c2414d19f1
+tmap.id:281312d8-eba2-4a37-b075-f0740bcd5edf
 type:text/vnd.tiddlywiki
 
 No body provided

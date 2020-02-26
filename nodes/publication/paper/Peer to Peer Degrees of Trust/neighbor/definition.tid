@@ -2,16 +2,16 @@ config.central-topic:8331d50d-9cf6-47c1-8996-8c7761be1470
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534928
-id:68b4efc6-102c-4289-9d75-c40704f85d19
+created:1582719062246
+id:aec695a7-0b6c-4414-a000-ca7a9c79b0da
 isview:false
 map.base:8331d50d-9cf6-47c1-8996-8c7761be1470
 map.role:definition
 map.type:neighbor
-modified:1582714534928
+modified:1582719062246
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Peer to Peer Degrees of Trust-map
-tmap.id:68b4efc6-102c-4289-9d75-c40704f85d19
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Peer to Peer Degrees of Trust
+tmap.id:aec695a7-0b6c-4414-a000-ca7a9c79b0da
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Peer to Peer Degrees of Trust

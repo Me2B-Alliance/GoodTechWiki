@@ -2,16 +2,16 @@ config.central-topic:a6adde1b-2d26-4ae4-bf08-d0c055befab8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534918
-id:8e78cb0c-0d30-4d7f-951c-0d76a134fced
+created:1582719062239
+id:55a74db4-14ae-429d-a0d8-c3200db2de65
 isview:false
 map.base:a6adde1b-2d26-4ae4-bf08-d0c055befab8
 map.role:definition
 map.type:neighbor
-modified:1582714534918
+modified:1582719062239
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Enlightenment Forum Yearbook-map
-tmap.id:8e78cb0c-0d30-4d7f-951c-0d76a134fced
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Enlightenment Forum Yearbook
+tmap.id:55a74db4-14ae-429d-a0d8-c3200db2de65
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Enlightenment Forum Yearbook

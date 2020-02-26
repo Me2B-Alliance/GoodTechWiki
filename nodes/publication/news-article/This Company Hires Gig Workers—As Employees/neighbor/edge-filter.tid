@@ -1,12 +1,12 @@
-created:1582714534912
+created:1582719062234
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e68e09f7-e06d-4f13-9dea-ee2361d510a3
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534912
+modified:1582719062234
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/This Company Hires Gig Workers—As Employees/filter/edges
-tmap.id:be0fb46e-dabf-4a9a-9146-05f193e42814
+tmap.id:77568a09-2bb3-4a47-9c9d-438b707f10ec
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714535014
+created:1582719062341
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:8e968f8d-ac1f-40e3-9aad-22685e0882d6
 map.role:edge-filter
 map.type:neighbor
-modified:1582714535014
+modified:1582719062341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper and Recommendations on the Publication of Personal Data on the Web, Website Contents Indexing and the Protection of Privacy/filter/edges
-tmap.id:17694c11-d8f4-4812-bffa-14365cfd664b
+tmap.id:69c0cf19-3247-4ba1-9d96-f6e2fa57049e
 type:text/vnd.tiddlywiki
 
 No body provided

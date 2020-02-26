@@ -1,12 +1,12 @@
-created:1582714534833
+created:1582719062154
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:740e131c-11fa-4fc4-b20c-032a7d2f2e65
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534833
+modified:1582719062154
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Cybersecurity Initiative/filter/edges
-tmap.id:09dbf306-2fbf-4ead-a5ac-1bbaece1716d
+tmap.id:63723425-d04f-47f5-b4a4-8b0d4d602191
 type:text/vnd.tiddlywiki
 
 No body provided

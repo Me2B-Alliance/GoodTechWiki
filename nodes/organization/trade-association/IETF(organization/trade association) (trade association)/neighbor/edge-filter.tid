@@ -1,12 +1,12 @@
-created:1582714534834
+created:1582719062155
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:e9ef5d73-40d4-4b2c-963c-228c95dd4820
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534834
+modified:1582719062155
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IETF(organization/trade association) (trade association)/filter/edges
-tmap.id:26e7180e-db3b-497f-8cb3-b9622cd90b84
+tmap.id:38985c01-59f2-4858-8aa8-71402a9cfcd9
 type:text/vnd.tiddlywiki
 
 No body provided

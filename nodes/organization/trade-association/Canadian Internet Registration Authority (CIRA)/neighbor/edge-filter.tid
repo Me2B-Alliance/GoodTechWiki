@@ -1,12 +1,12 @@
-created:1582714534831
+created:1582719062151
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:48a3a7e6-9ee0-4644-9788-c980be4c09aa
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534831
+modified:1582719062151
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Internet Registration Authority (CIRA)/filter/edges
-tmap.id:ca3ae50e-fdb9-4629-aaa8-992a4d65aa5a
+tmap.id:d5905933-18dd-4859-b38d-8f3551dcde28
 type:text/vnd.tiddlywiki
 
 No body provided

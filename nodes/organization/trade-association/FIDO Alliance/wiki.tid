@@ -37,3 +37,4 @@ The FIDO protocols use standard public key cryptography techniques to provide st
 
 The FIDO protocols are designed from the ground up to protect user privacy. The protocols do not provide information that can be used by different online services to collaborate and track a user across the services. Biometric information, if used, never leaves the user’s device.
 
+

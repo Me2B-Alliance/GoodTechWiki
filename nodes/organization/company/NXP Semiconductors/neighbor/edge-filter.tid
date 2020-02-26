@@ -1,12 +1,12 @@
-created:1582714534770
+created:1582719062093
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:5ca972c0-d287-4949-8392-4fe535d2e4d4
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534770
+modified:1582719062093
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NXP Semiconductors/filter/edges
-tmap.id:19a75d96-8b5b-4715-a87e-ca5d78f23127
+tmap.id:6b8091bc-4ce6-4ad8-8a50-981f8cf5193c
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:e92b6315-a35f-4e5e-9466-cc6b0e07d78f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534871
-id:96d76265-e550-4e0c-9d79-440d9cdfb7a0
+created:1582719062189
+id:5a49e9cd-344e-47c1-9625-54bff4c73743
 isview:false
 map.base:e92b6315-a35f-4e5e-9466-cc6b0e07d78f
 map.role:definition
 map.type:neighbor
-modified:1582714534871
+modified:1582719062189
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intelligence and Autonomy-map
-tmap.id:96d76265-e550-4e0c-9d79-440d9cdfb7a0
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intelligence and Autonomy
+tmap.id:5a49e9cd-344e-47c1-9625-54bff4c73743
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Intelligence and Autonomy

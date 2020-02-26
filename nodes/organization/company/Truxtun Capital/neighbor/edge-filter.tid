@@ -1,12 +1,12 @@
-created:1582714534775
+created:1582719062098
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:fbb7108a-c943-4875-ac10-44638261cf70
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534775
+modified:1582719062098
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Truxtun Capital/filter/edges
-tmap.id:977f7b3f-f803-4625-9a4e-411242039c88
+tmap.id:2f802177-b4ec-42bc-877d-e1d54f827945
 type:text/vnd.tiddlywiki
 
 No body provided

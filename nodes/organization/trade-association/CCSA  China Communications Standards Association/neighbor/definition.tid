@@ -2,16 +2,16 @@ config.central-topic:50b2f0d3-d194-4d10-8c95-1b950a489a62
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534827
-id:22de634b-6c3e-4efd-868b-ed5ce4c88c9e
+created:1582719062150
+id:3607043b-c5e2-4bbd-83ea-7e2f0ac32c80
 isview:false
 map.base:50b2f0d3-d194-4d10-8c95-1b950a489a62
 map.role:definition
 map.type:neighbor
-modified:1582714534827
+modified:1582719062150
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/CCSA  China Communications Standards Association-map
-tmap.id:22de634b-6c3e-4efd-868b-ed5ce4c88c9e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CCSA  China Communications Standards Association
+tmap.id:3607043b-c5e2-4bbd-83ea-7e2f0ac32c80
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CCSA  China Communications Standards Association

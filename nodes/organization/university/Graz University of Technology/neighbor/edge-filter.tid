@@ -1,12 +1,12 @@
-created:1582714534846
+created:1582719062166
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d8292d53-cf6f-4f07-9959-d3cf2390c977
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534846
+modified:1582719062166
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Graz University of Technology/filter/edges
-tmap.id:ea478a7a-58b0-47cf-b3a1-4f5b406d8ab2
+tmap.id:e4743bfa-6d23-44e9-a8df-4888e07e8150
 type:text/vnd.tiddlywiki
 
 No body provided

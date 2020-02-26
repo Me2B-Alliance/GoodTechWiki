@@ -1,12 +1,12 @@
-created:1582714534867
+created:1582719062184
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:a62d66cf-43ab-470b-84e0-f4d2ac5613fd
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534867
+modified:1582719062184
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CFRG Crypto Forum Research Group/filter/edges
-tmap.id:ff5ef997-964d-4882-bad8-019103f32332
+tmap.id:338df9b6-35bb-40f7-ab12-f8ad728950db
 type:text/vnd.tiddlywiki
 
 No body provided

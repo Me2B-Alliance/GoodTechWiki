@@ -1,12 +1,12 @@
-created:1582714534951
+created:1582719062274
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:3ace4d99-0f4e-4558-942b-67f1c45ab40a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534951
+modified:1582719062274
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Federal Awards for Libraries and Library Training Announced/filter/edges
-tmap.id:41584e2e-c895-4b2f-a7d5-5db80fe545a1
+tmap.id:e1846b09-46e5-433f-85f7-8831d6a1cadb
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534870
+created:1582719062187
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:16129a76-ff74-4504-94f2-e8b6ede28f89
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534870
+modified:1582719062187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HRPC Human Rights Protocol Considerations Research Group/filter/edges
-tmap.id:1c2d9564-8201-4e7f-9412-1e0c764eb6c2
+tmap.id:ecb6331f-426c-4c32-93a5-3dc4a2fb0ab3
 type:text/vnd.tiddlywiki
 
 No body provided

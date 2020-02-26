@@ -2,16 +2,16 @@ config.central-topic:f00bb32b-658e-4e5e-acfd-67c0c9a21e6c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534840
-id:a97696b7-a21d-4a98-be26-3f793f20a900
+created:1582719062160
+id:de94c47f-dfb6-461a-aecf-a941da61d720
 isview:false
 map.base:f00bb32b-658e-4e5e-acfd-67c0c9a21e6c
 map.role:definition
 map.type:neighbor
-modified:1582714534840
+modified:1582719062160
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Mobile Alliance-map
-tmap.id:a97696b7-a21d-4a98-be26-3f793f20a900
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Mobile Alliance
+tmap.id:de94c47f-dfb6-461a-aecf-a941da61d720
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Mobile Alliance

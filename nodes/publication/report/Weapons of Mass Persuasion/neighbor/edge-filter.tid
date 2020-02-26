@@ -1,12 +1,12 @@
-created:1582714534979
+created:1582719062301
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0f515232-48d7-436c-b401-8f0667855779
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534979
+modified:1582719062301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weapons of Mass Persuasion/filter/edges
-tmap.id:b07a9851-bf24-4372-a55e-af54e546bd49
+tmap.id:328cb764-7f3e-4d5d-a80a-c9e043ae0c40
 type:text/vnd.tiddlywiki
 
 No body provided

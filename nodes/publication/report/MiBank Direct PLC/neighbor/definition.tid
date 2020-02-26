@@ -2,16 +2,16 @@ config.central-topic:fd18a330-a582-490a-94a0-a933f117333f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534959
-id:f1f37c61-c510-470c-8b63-d0c31e009e1e
+created:1582719062286
+id:e8d8a8b6-cd77-4f1d-9efb-055dcf377313
 isview:false
 map.base:fd18a330-a582-490a-94a0-a933f117333f
 map.role:definition
 map.type:neighbor
-modified:1582714534959
+modified:1582719062286
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/MiBank Direct PLC-map
-tmap.id:f1f37c61-c510-470c-8b63-d0c31e009e1e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MiBank Direct PLC
+tmap.id:e8d8a8b6-cd77-4f1d-9efb-055dcf377313
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MiBank Direct PLC

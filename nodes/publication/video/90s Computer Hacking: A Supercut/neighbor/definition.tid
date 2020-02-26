@@ -2,16 +2,16 @@ config.central-topic:7e4380a1-0744-463a-925d-3605912c0b0e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535017
-id:c9d92f8e-1169-4dab-a5e5-101987192995
+created:1582719062347
+id:cd7de83a-d77a-4e87-95e1-c9342cba6bc6
 isview:false
 map.base:7e4380a1-0744-463a-925d-3605912c0b0e
 map.role:definition
 map.type:neighbor
-modified:1582714535017
+modified:1582719062347
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/90s Computer Hacking: A Supercut-map
-tmap.id:c9d92f8e-1169-4dab-a5e5-101987192995
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/90s Computer Hacking: A Supercut
+tmap.id:cd7de83a-d77a-4e87-95e1-c9342cba6bc6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 90s Computer Hacking: A Supercut

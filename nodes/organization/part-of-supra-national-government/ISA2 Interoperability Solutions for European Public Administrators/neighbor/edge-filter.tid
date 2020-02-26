@@ -1,12 +1,12 @@
-created:1582714534805
+created:1582719062123
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:db2bf9c7-91d4-4bcc-99fb-3f79bc69702a
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534805
+modified:1582719062123
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISA2 Interoperability Solutions for European Public Administrators/filter/edges
-tmap.id:2d05453f-3d10-463d-8eae-20bfa5a90b1c
+tmap.id:4b14e956-e4a2-4027-8e8a-1e00eff26cf6
 type:text/vnd.tiddlywiki
 
 No body provided

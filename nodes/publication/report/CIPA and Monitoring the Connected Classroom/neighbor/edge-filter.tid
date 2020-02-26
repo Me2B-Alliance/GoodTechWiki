@@ -1,12 +1,12 @@
-created:1582714534943
+created:1582719062266
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:52f3286b-7ec3-4a6e-9ad9-49094657420f
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534943
+modified:1582719062266
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CIPA and Monitoring the Connected Classroom/filter/edges
-tmap.id:df6e0424-a893-4bbe-a8bd-69d4b654b270
+tmap.id:640b4758-a503-4af9-a7a9-f4b2179f93ac
 type:text/vnd.tiddlywiki
 
 No body provided

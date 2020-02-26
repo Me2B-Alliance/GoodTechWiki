@@ -2,16 +2,16 @@ config.central-topic:19bd7875-3f69-4570-be29-469ddcf040c9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534937
-id:747a1e56-8838-447a-9a4d-021beff631da
+created:1582719062261
+id:9182d643-3fa4-4c56-8358-6f3518833b49
 isview:false
 map.base:19bd7875-3f69-4570-be29-469ddcf040c9
 map.role:definition
 map.type:neighbor
-modified:1582714534937
+modified:1582719062261
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Accountability: Calling Education to A Count-map
-tmap.id:747a1e56-8838-447a-9a4d-021beff631da
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Accountability: Calling Education to A Count
+tmap.id:9182d643-3fa4-4c56-8358-6f3518833b49
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Accountability: Calling Education to A Count

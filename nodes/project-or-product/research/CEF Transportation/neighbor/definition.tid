@@ -2,16 +2,16 @@ config.central-topic:d04b0fe7-6c64-4d15-a143-af505ee906fe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534867
-id:3da222d9-7ecf-470d-8ceb-5f6145c26d35
+created:1582719062184
+id:da7f0e20-96c8-4b2f-9dc2-7f89a4f37c5a
 isview:false
 map.base:d04b0fe7-6c64-4d15-a143-af505ee906fe
 map.role:definition
 map.type:neighbor
-modified:1582714534867
+modified:1582719062184
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Transportation-map
-tmap.id:3da222d9-7ecf-470d-8ceb-5f6145c26d35
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Transportation
+tmap.id:da7f0e20-96c8-4b2f-9dc2-7f89a4f37c5a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CEF Transportation

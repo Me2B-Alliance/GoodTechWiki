@@ -2,16 +2,16 @@ config.central-topic:b9225e6a-65d1-4e19-9cda-69729c7d6a58
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534917
-id:e3b5fb42-413c-4f9a-be12-26fc2b92c179
+created:1582719062239
+id:8bb555fb-1e4f-41fd-b239-b823bc01f141
 isview:false
 map.base:b9225e6a-65d1-4e19-9cda-69729c7d6a58
 map.role:definition
 map.type:neighbor
-modified:1582714534917
+modified:1582719062239
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Verification Advancements at RWoT III-map
-tmap.id:e3b5fb42-413c-4f9a-be12-26fc2b92c179
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Verification Advancements at RWoT III
+tmap.id:8bb555fb-1e4f-41fd-b239-b823bc01f141
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Verification Advancements at RWoT III

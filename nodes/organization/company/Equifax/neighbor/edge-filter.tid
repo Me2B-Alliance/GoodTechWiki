@@ -1,12 +1,12 @@
-created:1582714534764
+created:1582719062087
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:d9692cbb-9640-4c60-b3cd-69cd513d1275
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534764
+modified:1582719062087
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equifax/filter/edges
-tmap.id:185eca0d-9296-423f-9eda-669728cc8e53
+tmap.id:945c793d-ea7f-45fa-93bb-64bbabe8add0
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -2,16 +2,16 @@ config.central-topic:f471281c-034e-463c-ba48-8c9b6eaf93ad
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534759
-id:2bafa090-ac5a-4e9c-ba59-d14a9740e419
+created:1582719062080
+id:78f98fd5-1f34-49f4-ae17-9e803cb0172a
 isview:false
 map.base:f471281c-034e-463c-ba48-8c9b6eaf93ad
 map.role:definition
 map.type:neighbor
-modified:1582714534759
+modified:1582719062080
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Workshop on Trustworthy Algorithmic Decision-Making-map
-tmap.id:2bafa090-ac5a-4e9c-ba59-d14a9740e419
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Workshop on Trustworthy Algorithmic Decision-Making
+tmap.id:78f98fd5-1f34-49f4-ae17-9e803cb0172a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Workshop on Trustworthy Algorithmic Decision-Making

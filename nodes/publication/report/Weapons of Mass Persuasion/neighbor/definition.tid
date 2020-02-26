@@ -2,16 +2,16 @@ config.central-topic:0f515232-48d7-436c-b401-8f0667855779
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534979
-id:486c2574-e7ef-4206-afca-a468b07b8d9c
+created:1582719062301
+id:539b1d47-57c9-4b43-8572-d7f21245fc05
 isview:false
 map.base:0f515232-48d7-436c-b401-8f0667855779
 map.role:definition
 map.type:neighbor
-modified:1582714534979
+modified:1582719062301
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weapons of Mass Persuasion-map
-tmap.id:486c2574-e7ef-4206-afca-a468b07b8d9c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weapons of Mass Persuasion
+tmap.id:539b1d47-57c9-4b43-8572-d7f21245fc05
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Weapons of Mass Persuasion

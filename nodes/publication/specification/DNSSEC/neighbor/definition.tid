@@ -2,16 +2,16 @@ config.central-topic:160f5047-ec1f-47ca-b606-10433d1da9c3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534983
-id:a58fffa9-0226-43cc-a331-757c5bc38246
+created:1582719062309
+id:95ae9437-11fa-4cf1-aa3a-9c7051c6283a
 isview:false
 map.base:160f5047-ec1f-47ca-b606-10433d1da9c3
 map.role:definition
 map.type:neighbor
-modified:1582714534983
+modified:1582719062309
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/DNSSEC-map
-tmap.id:a58fffa9-0226-43cc-a331-757c5bc38246
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/DNSSEC
+tmap.id:95ae9437-11fa-4cf1-aa3a-9c7051c6283a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DNSSEC

@@ -2,16 +2,16 @@ config.central-topic:d0224c49-b9b5-4599-9621-fe009e47c606
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534760
-id:0c5c586c-506b-484a-982e-dc4beff3f174
+created:1582719062083
+id:1e6cc7f3-1d0b-4e86-be81-8d0ba65bea6b
 isview:false
 map.base:d0224c49-b9b5-4599-9621-fe009e47c606
 map.role:definition
 map.type:neighbor
-modified:1582714534760
+modified:1582719062083
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Arhs Spikeseed-map
-tmap.id:0c5c586c-506b-484a-982e-dc4beff3f174
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Arhs Spikeseed
+tmap.id:1e6cc7f3-1d0b-4e86-be81-8d0ba65bea6b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Arhs Spikeseed

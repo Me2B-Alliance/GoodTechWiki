@@ -1,12 +1,12 @@
-created:1582714534822
+created:1582719062145
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:0e60cddb-cb3b-49a1-990d-deb92e384012
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534822
+modified:1582719062145
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Southampton University/filter/edges
-tmap.id:4e66a1d0-19f4-411a-931c-ccadcd1fccee
+tmap.id:86367c33-06a6-4aeb-b526-173bb3b954f8
 type:text/vnd.tiddlywiki
 
 No body provided

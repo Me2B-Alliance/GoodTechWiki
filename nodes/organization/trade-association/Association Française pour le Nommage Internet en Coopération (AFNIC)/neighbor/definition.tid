@@ -2,16 +2,16 @@ config.central-topic:1df33ffd-9755-4e08-8cd1-9cdc5fd30c1f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534827
-id:ab237747-bc0e-46eb-b4c1-3a29f923b71f
+created:1582719062151
+id:bd392071-4274-4db1-a128-39e0e6b60500
 isview:false
 map.base:1df33ffd-9755-4e08-8cd1-9cdc5fd30c1f
 map.role:definition
 map.type:neighbor
-modified:1582714534827
+modified:1582719062151
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association Française pour le Nommage Internet en Coopération (AFNIC)-map
-tmap.id:ab237747-bc0e-46eb-b4c1-3a29f923b71f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association Française pour le Nommage Internet en Coopération (AFNIC)
+tmap.id:bd392071-4274-4db1-a128-39e0e6b60500
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Association Française pour le Nommage Internet en Coopération (AFNIC)

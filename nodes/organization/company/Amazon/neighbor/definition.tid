@@ -2,16 +2,16 @@ config.central-topic:82620e69-22f5-4a51-b294-642fc5a24915
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534761
-id:e604bbc8-073a-4f90-adf6-908e2a4b649f
+created:1582719062082
+id:7b51a271-8e1b-411b-ab44-5409d48bb3a6
 isview:false
 map.base:82620e69-22f5-4a51-b294-642fc5a24915
 map.role:definition
 map.type:neighbor
-modified:1582714534761
+modified:1582719062082
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Amazon-map
-tmap.id:e604bbc8-073a-4f90-adf6-908e2a4b649f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Amazon
+tmap.id:7b51a271-8e1b-411b-ab44-5409d48bb3a6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Amazon

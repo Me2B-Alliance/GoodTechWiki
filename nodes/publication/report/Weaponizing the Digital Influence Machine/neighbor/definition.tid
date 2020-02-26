@@ -2,16 +2,16 @@ config.central-topic:492909b3-1569-48ff-8492-6aa064562e7c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534978
-id:2bb84dd7-0e3c-4f7d-b18d-7f2d9cc69e6e
+created:1582719062301
+id:044a6b4a-9aa2-49bc-a02c-68f896295c84
 isview:false
 map.base:492909b3-1569-48ff-8492-6aa064562e7c
 map.role:definition
 map.type:neighbor
-modified:1582714534978
+modified:1582719062301
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weaponizing the Digital Influence Machine-map
-tmap.id:2bb84dd7-0e3c-4f7d-b18d-7f2d9cc69e6e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weaponizing the Digital Influence Machine
+tmap.id:044a6b4a-9aa2-49bc-a02c-68f896295c84
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Weaponizing the Digital Influence Machine

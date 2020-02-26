@@ -2,16 +2,16 @@ config.central-topic:ebdb690f-2615-41c6-8acf-ddb28640689e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534765
-id:dfb5491b-a01b-4639-ba04-c7afd2d0938c
+created:1582719062087
+id:32370ab8-5e4b-4f2a-bbc4-f2a6cdcacd6d
 isview:false
 map.base:ebdb690f-2615-41c6-8acf-ddb28640689e
 map.role:definition
 map.type:neighbor
-modified:1582714534765
+modified:1582719062087
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Experian-map
-tmap.id:dfb5491b-a01b-4639-ba04-c7afd2d0938c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Experian
+tmap.id:32370ab8-5e4b-4f2a-bbc4-f2a6cdcacd6d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Experian

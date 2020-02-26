@@ -28,3 +28,4 @@ working.group:
 
 As systems where people are required to manage their own cryptographic keys become more popular, social recovery or reissuance of keys increases in importance. Such systems are inherently empowering to users but safeguarding keys is a hard problem.We focus on the social recovery of control of an identifer. There are several techniques to re-assert control over identifers including key recovery and issuance of a new key. In many situations it is preferrable to establish a newkey than recover the old one.We propose a rubrik for evaluating such schemes, and give a brief overview of possible schemes to consider.
 
+

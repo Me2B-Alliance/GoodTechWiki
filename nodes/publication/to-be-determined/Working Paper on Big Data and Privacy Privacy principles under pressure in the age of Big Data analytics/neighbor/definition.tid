@@ -2,16 +2,16 @@ config.central-topic:44b15143-5f2a-4286-9b14-d3993324d6a1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535014
-id:7b5058d2-b845-4122-8141-47c456849c54
+created:1582719062340
+id:ca0de84f-eefd-40c6-b54a-51ffad0e4e7e
 isview:false
 map.base:44b15143-5f2a-4286-9b14-d3993324d6a1
 map.role:definition
 map.type:neighbor
-modified:1582714535014
+modified:1582719062340
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Big Data and Privacy Privacy principles under pressure in the age of Big Data analytics-map
-tmap.id:7b5058d2-b845-4122-8141-47c456849c54
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Big Data and Privacy Privacy principles under pressure in the age of Big Data analytics
+tmap.id:ca0de84f-eefd-40c6-b54a-51ffad0e4e7e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on Big Data and Privacy Privacy principles under pressure in the age of Big Data analytics

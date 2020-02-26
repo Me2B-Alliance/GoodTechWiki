@@ -1,12 +1,12 @@
-created:1582714534968
+created:1582719062293
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:783f4c99-7cb0-4a09-ace4-cd987c85c50d
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534968
+modified:1582719062293
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data & Equity News Round-Up/filter/edges
-tmap.id:cf172ec9-e892-47ce-ba23-d3b2f3a769ea
+tmap.id:1b86a782-efdd-4c84-befb-9911e63ac89f
 type:text/vnd.tiddlywiki
 
 No body provided

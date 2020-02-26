@@ -1,12 +1,12 @@
-created:1582714534923
+created:1582719062241
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
 map.base:7aca466f-c43f-4fe5-9b80-48e05b37fa3c
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534923
+modified:1582719062241
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How SSI Will Survive Capitalism/filter/edges
-tmap.id:08ab3551-8043-4269-be98-23c8020edd6f
+tmap.id:76306fc4-03c2-4e5a-b195-136db7c17b28
 type:text/vnd.tiddlywiki
 
 No body provided

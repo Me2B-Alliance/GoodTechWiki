@@ -2,16 +2,16 @@ config.central-topic:bbd86664-8f45-476a-ad8e-c2a7c8b4b96c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535020
-id:22c3e440-9fcd-4569-984a-970a31d7406e
+created:1582719062347
+id:70dc0f79-ebe6-4654-b67b-5da75687fef5
 isview:false
 map.base:bbd86664-8f45-476a-ad8e-c2a7c8b4b96c
 map.role:definition
 map.type:neighbor
-modified:1582714535020
+modified:1582719062347
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Race, Technology, And AI Bias-map
-tmap.id:22c3e440-9fcd-4569-984a-970a31d7406e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Race, Technology, And AI Bias
+tmap.id:70dc0f79-ebe6-4654-b67b-5da75687fef5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Race, Technology, And AI Bias
