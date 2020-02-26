@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071974
+modified:1582678071974
 title:Smart Signatures
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot i]]
 tech.focus:
 tmap.edges:{}
-tmap.id:def7b5dc-6d13-4fe8-b288-336c6e89913b
+tmap.id:6083feb5-43e0-4078-9439-8a65d2559693
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf
 version.or.edition:
 volume.frequency:

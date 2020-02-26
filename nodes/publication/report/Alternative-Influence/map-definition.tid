@@ -1,0 +1,10 @@
+id:374dea50-7db0-4206-a45d-b1a58641924e
+config.central-topic: d85b6c8d-deec-4506-8816-52e68a22ec1e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Alternative Influence
+tmap.type: neighbor
+
+

@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:SSI: A Roadmap for Adoption
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot vi]]
 tech.focus:
 tmap.edges:{}
-tmap.id:0dd84240-65c7-4939-8b50-63a07826a903
+tmap.id:362c39a3-9fe0-4a3d-86a9-86de03734e90
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.pdf
 version.or.edition:
 volume.frequency:

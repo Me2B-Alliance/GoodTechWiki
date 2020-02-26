@@ -1,0 +1,36 @@
+created:1582678071977
+modified:1582678071977
+title:Roaming
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:Roaming
+publication.type:[[specification]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[gsma working groups]] [[publications]] [[parent]]
+tech.focus:
+tmap.edges:{}
+tmap.id:f84135e4-13d7-4ec7-9f10-d594179041af
+url:https://www.gsma.com/aboutus/gsm-technology/roaming
+version.or.edition:
+volume.frequency:
+working.group:
+
+Roaming enables a mobile subscriber to automatically make and receive voice calls, send and receive data, or access other services when travelling outside the geographical coverage area of their home network, by means of using a visited network.
+
+Roaming is technically supported by mobility management, authentication and billing procedures. Establishing roaming between network operators is based on – and the commercial terms are contained in – dedicated roaming agreements.
+
+If the visited network is in the same country as the home network, this is known as national roaming. If the visited network is outside the home country, this is known as international roaming.
+
+If the visited network operates on a different technical standard than the home network, this is known as inter-standard roaming.
+
+GSM Roaming, which involves roaming between GSM networks, offers the mobile subscriber the convenience of being able to use a single number, a single bill and a single phone in up to 219 countries. The convenience of GSM Roaming has been a key driver behind the global success of the GSM Platform.

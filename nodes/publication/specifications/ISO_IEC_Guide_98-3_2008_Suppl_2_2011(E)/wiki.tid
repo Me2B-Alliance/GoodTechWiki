@@ -1,0 +1,30 @@
+created:1582678071976
+modified:1582678071976
+title:ISO_IEC_Guide_98-3_2008_Suppl_2_2011(E)
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:ISO_IEC_Guide_98-3_2008_Suppl_2_2011(E)
+publication.type:[[specifications]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
+tech.focus:
+tmap.edges:{}
+tmap.id:3146290c-df0e-4a77-9ceb-8578ec6c4eb2
+url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_98%2D3_2008_Suppl_2_2011%28E%29_%2D_Extension_to_any_number_of_output_quantities.pdf?nodeid=11650198&vernum=-2
+version.or.edition:
+volume.frequency:
+working.group:
+
+Extension to any number of output quantities
+
+This Supplement to the “Guide to the expression of uncertainty in measurement” (GUM) is concerned withmeasurement  models  having  any  number  of  input  quantities  (as  in  the  GUM  and  GUM  Supplement  1)  andany  number  of  output  quantities.   The  quantities  involved  might  be  real  or  complex.   Two  approaches  areconsidered for treating such models.  The first approach is a generalization of the GUM uncertainty framework.The second is a Monte Carlo method as an implementation of the propagation of distributions.  Appropriateuse of the Monte Carlo method would be expected to provide valid results when the applicability of the GUMuncertainty framework is questionable.The approach based on the GUM uncertainty framework is applicable when the input quantities are summarized(as in the GUM) in terms of estimates (for instance, measured values) and standard uncertainties associatedwith  these  estimates  and,  when  appropriate,  covariances  associated  with  pairs  of  these  estimates.   Formulæand procedures are provided for obtaining estimates of the output quantities and for evaluating the associatedstandard uncertainties and covariances.  Variants of the formulæ and procedures relate to models for which theoutput quantities (a) can be expressed directly in terms of the input quantities as measurement functions, and(b) are obtained through solving a measurement model, which links implicitly the input and output quantities.The  counterparts  of  the  formulæ  in  the  GUM  for  the  standard  uncertainty  associated  with  an  estimate  ofthe output quantity would be algebraically cumbersome.  Such formulæ are provided in a more compact formin  terms  of  matrices  and  vectors,  the  elements  of  which  contain  variances  (squared  standard  uncertainties),covariances and sensitivity coefficients.  An advantage of this form of presentation is that these formulæ canreadily be implemented in the many computer languages and systems that support matrix algebra.

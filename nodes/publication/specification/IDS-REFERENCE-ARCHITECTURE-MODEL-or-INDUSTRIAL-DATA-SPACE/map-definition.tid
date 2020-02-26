@@ -1,0 +1,10 @@
+id:626aa0b9-b660-41c1-94b7-8e9aea041537
+config.central-topic: 0e99447b-d515-4120-9b69-8dcbc833b79c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE
+tmap.type: neighbor
+
+

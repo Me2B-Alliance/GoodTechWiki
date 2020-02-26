@@ -1,0 +1,30 @@
+created:1582678071977
+modified:1582678071977
+title:PrivOnto: A Semantic Framework for the Analysis of Privacy Policies
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:[[a. oltramari]] [[d. piraviperumal]] [[f. schaub]] [[s. wilson]] [[s. cherivirala]] [[t.b. norton]] [[n.c. russell]] [[p. story]] [[j. reidenberg]] [[n. sadeh]]
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:PrivOnto: A Semantic Framework for the Analysis of Privacy Policies
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[usable privacy policy - publications]]
+tech.focus:
+tmap.edges:{}
+tmap.id:a2b9086f-a17a-4401-9c88-2d52e5164724
+url:http://content.iospress.com/articles/semantic-web/sw283?resultNumber=1&totalResults=54&start=0&q=Oltramari&resultsPageSize=10&rows=10
+version.or.edition:
+volume.frequency:
+working.group:
+
+Semantic Web, 9, 2, Jan 2018
+
+Privacy policies are intended to inform users about the collection and use of their data by websites, mobile apps and other services or appliances they interact with. This also includes informing users about any choices they might have regarding such data practices. However, few users read these often long privacy policies; and those who do have difficulty understanding them, because they are written in convoluted and ambiguous language. A promising approach to help overcome this situation revolves around semi-automatically annotating policies, using combinations of crowdsourcing, machine learning and natural language processing. In this article, we introduce PrivOnto, a semantic framework to represent annotated privacy policies. PrivOnto relies on an ontology developed to represent issues identified as critical to users and/or legal experts. PrivOnto has been used to analyze a corpus of over 23,000 annotated data practices, extracted from 115 privacy policies of US-based companies. We introduce a collection of 57 SPARQL queries to extract information from the PrivOnto knowledge base, with the dual objective of (1) answering privacy questions of interest to users and (2) supporting researchers and regulators in the analysis of privacy policies at scale. We present an interactive online tool using PrivOnto to help users explore our corpus of 23,000 annotated data practices. Finally, we outline future research and open challenges in using semantic technologies for privacy policy analysis.

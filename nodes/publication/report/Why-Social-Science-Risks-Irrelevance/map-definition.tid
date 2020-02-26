@@ -1,0 +1,10 @@
+id:f0a3bbd2-d06c-4648-b8b2-e7726050e84d
+config.central-topic: cd0bd684-695b-427f-8264-6add786a96d3
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Why Social Science Risks Irrelevance
+tmap.type: neighbor
+
+

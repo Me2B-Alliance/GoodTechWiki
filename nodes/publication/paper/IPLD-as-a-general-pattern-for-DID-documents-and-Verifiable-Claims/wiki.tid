@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:IPLD as a general pattern for DID documents and Verifiable Claims
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot vii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:44f81795-4321-4997-952a-4dd6935ce577
+tmap.id:8d586557-80db-452e-b470-4037030d3e3d
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf
 version.or.edition:
 volume.frequency:

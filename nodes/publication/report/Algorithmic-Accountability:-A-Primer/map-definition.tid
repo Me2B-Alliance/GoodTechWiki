@@ -1,0 +1,10 @@
+id:fb88c581-5f1c-4a52-b2fc-01418af14ee7
+config.central-topic: 6301d6ce-7d23-4393-b651-5fb481843a96
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Algorithmic Accountability: A Primer
+tmap.type: neighbor
+
+

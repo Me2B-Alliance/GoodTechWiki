@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071974
+modified:1582678071974
 title:DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot iii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:3b8d1ef8-67c0-45a4-8e51-974ad59adc10
+tmap.id:ce404b28-c2bb-4a48-9df8-0b4dccb888ef
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/did-implementer-draft-10.pdf
 version.or.edition:
 volume.frequency:

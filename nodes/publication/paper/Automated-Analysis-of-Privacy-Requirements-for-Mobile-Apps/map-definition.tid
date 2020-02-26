@@ -1,0 +1,10 @@
+id:5e98e3dd-7f96-49d1-81bd-eb46affcb896
+config.central-topic: 6b8c7318-b420-498a-ad1c-c7c9896d3939
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Automated Analysis of Privacy Requirements for Mobile Apps
+tmap.type: neighbor
+
+

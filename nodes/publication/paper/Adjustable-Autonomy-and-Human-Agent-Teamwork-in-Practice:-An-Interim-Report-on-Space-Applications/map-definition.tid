@@ -1,0 +1,10 @@
+id:7677e75f-55fb-46ef-864d-543d9930b15c
+config.central-topic: d51286cf-922f-4c43-b136-c89d73e33c18
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Adjustable Autonomy and Human-Agent Teamwork in Practice: An Interim Report on Space Applications
+tmap.type: neighbor
+
+

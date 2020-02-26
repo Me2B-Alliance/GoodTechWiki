@@ -1,0 +1,10 @@
+id:deca8b2c-2513-4eea-9906-0192e5f4df69
+config.central-topic: ed633730-9a89-4266-b9e8-d30dec1aebb0
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Gig Economy Is Coming For Your Job
+tmap.type: neighbor
+
+

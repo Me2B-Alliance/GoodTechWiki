@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071974
+modified:1582678071974
 title:Smart Consent Protocol
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot iii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:762fdd5c-ed79-491a-8a55-ef4d953b1ac2
+tmap.id:b92f9bdd-8b01-4b63-a98e-756380e7f24c
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf
 version.or.edition:
 volume.frequency:

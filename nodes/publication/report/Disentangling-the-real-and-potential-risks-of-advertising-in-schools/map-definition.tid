@@ -1,0 +1,10 @@
+id:ed60a342-a400-4010-8a54-336d677adbce
+config.central-topic: a875749d-24af-4ef0-9f56-3158fd78e93c
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Disentangling the real and potential risks of advertising in schools
+tmap.type: neighbor
+
+

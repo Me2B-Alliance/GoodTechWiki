@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:Using OpenID Connect Self-Issued to Achieve DID Auth
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot viii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:410e7547-8874-471c-afb0-4e9eeaa8ce4e
+tmap.id:bbf29f3b-2e3f-42e8-a2d9-eea89f5fdd74
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/did-auth-oidc.pdf
 version.or.edition:
 volume.frequency:

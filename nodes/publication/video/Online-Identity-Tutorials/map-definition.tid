@@ -1,5 +1,5 @@
-id:8acfce64-2238-487b-93be-93382ea84952
-config.central-topic: a4d529c9-976e-4b2b-910e-58c5f181c842
+id:73956d7a-312f-4ab2-8ae7-5bb4c41ec25c
+config.central-topic: f32fba5b-a158-4c5b-a2e5-961a49b2b57c
 config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
 config.neighbourhood_scope: 2
 config.show_inter_neighbour_edges: true

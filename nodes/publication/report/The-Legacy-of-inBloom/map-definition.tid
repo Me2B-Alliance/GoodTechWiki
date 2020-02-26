@@ -1,0 +1,10 @@
+id:5ac68fef-4c7c-4f76-980b-8d43b83d49c5
+config.central-topic: d12bdaca-1423-4f80-9e0d-b4ab6ccba499
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/The Legacy of inBloom
+tmap.type: neighbor
+
+

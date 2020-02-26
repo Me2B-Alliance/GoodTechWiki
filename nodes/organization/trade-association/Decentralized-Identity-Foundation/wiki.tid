@@ -1,5 +1,5 @@
-created:1582526115759
-modified:1582526115759
+created:1582678071964
+modified:1582678071964
 title:Decentralized Identity Foundation
 type:text/vnd.tiddlywiki
 activities:[[software development]] [[standard development]] [[outreach]]
@@ -28,8 +28,8 @@ sector:non-profit
 status:
 tags:
 tech.focus:Identity: Information Sharing Control
-tmap.edges:{"12bdddd5-5a78-426a-a27e-eff7e93760f2":{"to":"dad91afc-1222-463f-956e-3846721e1c09","type":"Organization Supports Project or Product"},"a6e3b4ca-9563-49d8-8785-0a281a3216b1":{"to":"c17ef41c-cdb2-42b8-98bc-960fc6a0c272","type":"Organization Supports Project or Product"},"e5d93173-37a8-46b6-a558-35315cc4df68":{"to":"0a6291ad-333e-4d22-b787-e80af721b25e","type":"Organization Supports Project or Product"},"ea7f6a8f-d7cc-48a4-a63e-30ed9405804f":{"to":"2ec4ed82-42d6-4f42-8385-56d832d77ff5","type":"Organization Supports Project or Product"},"db071d9b-9a5c-44d3-a41f-ae5af7fe00de":{"to":"a0ca748a-7d9d-4bce-b5f4-4551f150d55f","type":"Organization Supports Project or Product"},"3eaba512-a5af-42cb-9af2-95e35ab2a313":{"to":"c4de0c60-727d-41b7-8a33-5006f78297b8","type":"Organization Supports Project or Product"}}
-tmap.id:11b7b48b-f1b2-47bc-965a-4ba4d891bd44
+tmap.edges:{"9544b777-a73e-450a-8c15-caee48193105":{"to":"c7e0f9c3-1e3c-45e1-8a13-1b9d5c83de69","type":"Organization Supports Project or Product"},"5d5bb505-7f8b-4d90-9d4f-f81b2ec3bf4b":{"to":"64c0b3d5-c80b-4452-a812-e41c3b38ee70","type":"Organization Supports Project or Product"},"fc514b01-2e54-4b2b-a560-99f6a6f588a4":{"to":"165e0f24-41f8-4269-91ef-7d690e4348ec","type":"Organization Supports Project or Product"},"95d38704-c9b5-4469-9858-42ac952c81af":{"to":"065e3f52-640c-4cc5-a8b1-79d6fdd5e42b","type":"Organization Supports Project or Product"},"a506dc12-611c-4446-b5ab-1b1430142d5b":{"to":"44f178ca-d77c-4152-9265-5f77c1f483a2","type":"Organization Supports Project or Product"},"e6424456-e855-426a-9c51-86bea370f631":{"to":"ea15e6d4-dbfb-474f-890d-8267d071cba5","type":"Organization Supports Project or Product"}}
+tmap.id:668ef010-f794-4e65-a591-0a1fb6517c3f
 twitter.profile:https://twitter.com/DecentralizedID
 website:https://identity.foundation/
 

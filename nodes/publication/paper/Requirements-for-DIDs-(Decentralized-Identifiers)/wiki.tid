@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071974
+modified:1582678071974
 title:Requirements for DIDs (Decentralized Identifiers)
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot ii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:b3c34b02-a7f2-4d7f-9ef7-1a002e6b6330
+tmap.id:5153e92e-9a52-4c63-b717-04be03ee3ee1
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf
 version.or.edition:
 volume.frequency:

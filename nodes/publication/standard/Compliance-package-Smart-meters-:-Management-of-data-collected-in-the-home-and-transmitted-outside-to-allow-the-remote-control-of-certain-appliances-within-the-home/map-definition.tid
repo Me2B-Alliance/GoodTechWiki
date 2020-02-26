@@ -1,0 +1,10 @@
+id:90900120-032a-4e69-84b3-07b21650d33f
+config.central-topic: 6e74d1b8-89f6-4f10-a992-1c09a83ec17f
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Management of data collected in the home and transmitted outside to allow the remote control of certain appliances within the home
+tmap.type: neighbor
+
+

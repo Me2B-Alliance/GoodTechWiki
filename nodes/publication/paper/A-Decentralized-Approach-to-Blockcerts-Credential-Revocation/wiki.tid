@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:A Decentralized Approach to Blockcerts Credential Revocation
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot v]]
 tech.focus:
 tmap.edges:{}
-tmap.id:dfb1af40-b2ba-4ceb-99a8-e5f082158d7c
+tmap.id:f8e0864f-ddc3-4c6f-9960-91fa1a7341c4
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.pdf
 version.or.edition:
 volume.frequency:

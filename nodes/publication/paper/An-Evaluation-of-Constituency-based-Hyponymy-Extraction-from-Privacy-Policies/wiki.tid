@@ -1,0 +1,30 @@
+created:1582678071977
+modified:1582678071977
+title:An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies
+type:text/vnd.tiddlywiki
+audience:
+authors.editors:[[m. c. evans]] [[j. bhatia]] [[s. wadkar]] [[t. d. breaux]]
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+name:An Evaluation of Constituency-based Hyponymy Extraction from Privacy Policies
+publication.type:[[paper]]
+purpose:
+sector:
+sponsoring.org:
+tags:[[usable privacy policy - publications]]
+tech.focus:
+tmap.edges:{}
+tmap.id:8912d90a-2704-4d95-989b-51cdc1d52457
+url:https://ieeexplore.ieee.org/document/8049137
+version.or.edition:
+volume.frequency:
+working.group:
+
+25th IEEE International Requirements Engineering Conference (RE'17), Lisbon, Portugal, Jun 2017
+
+Requirements analysts can model regulated data practices to identify and reason about risks of non-compliance. If terminology is inconsistent or ambiguous, however, these models and their conclusions will be unreliable. To study this problem, we investigated an approach to automatically construct an information type ontology by identifying information type hyponymy in privacy policies using Tregex patterns. Tregex is a utility to match regular expressions against constituency parse trees, which are hierarchical expressions of natural language clauses, including noun and verb phrases. We discovered the Tregex patterns by applying content analysis to 30 privacy policies from six domains (shopping, telecommunication, social networks, employment, health, and news.) From this dataset, three semantic and four lexical categories of hyponymy emerged based on category completeness and word-order. Among these, we identified and empirically evaluated 72 Tregex patterns to automate the extraction of hyponyms from privacy policies. The patterns match information type hyponyms with an average precision of 0.72 and recall of 0.74.

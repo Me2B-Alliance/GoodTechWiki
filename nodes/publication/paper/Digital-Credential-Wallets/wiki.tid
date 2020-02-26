@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:Digital Credential Wallets
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot vii]]
 tech.focus:
 tmap.edges:{}
-tmap.id:bec6f4be-c627-430d-97e2-6c05147b1c5d
+tmap.id:b5f3be90-941e-42f0-884f-f707f7da40f4
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/digital-credential-wallet.pdf
 version.or.edition:
 volume.frequency:

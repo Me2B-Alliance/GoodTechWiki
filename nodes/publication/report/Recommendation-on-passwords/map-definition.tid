@@ -1,0 +1,10 @@
+id:f7d23faa-245f-484c-b1b5-a4be01217d01
+config.central-topic: a901a237-c786-4a05-89d0-e350edfa438a
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Recommendation on passwords
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:7005c62f-506f-41f0-9380-2ac887d07b2c
+config.central-topic: e7c8e194-36b7-4ffa-bea0-a6c6a5cbd006
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/How mobile communication helps refugees…and smugglers
+tmap.type: neighbor
+
+

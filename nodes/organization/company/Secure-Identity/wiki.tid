@@ -1,5 +1,5 @@
-created:1582526115541
-modified:1582526115541
+created:1582678071751
+modified:1582678071751
 title:Secure Identity
 type:text/vnd.tiddlywiki
 activities:
@@ -27,8 +27,8 @@ sector:
 status:
 tags:
 tech.focus:
-tmap.edges:{"797a68ef-d874-4581-ab6a-7d2a6e90e602":{"to":"8f19b585-b121-4c31-b54f-5dee48c0e2f0","type":"certified-idp"},"e5c088a3-49d3-46b4-8711-bddbdac00a35":{"to":"0c5ec2c4-1a65-4531-914d-aa8e1ce57703","type":"organization-for-group"}}
-tmap.id:8ff5800a-94a0-479d-aeba-0254f550f981
+tmap.edges:{"b38b6115-4d69-4fe4-a1bf-c378afdffbbf":{"to":"2d160100-9d01-4af3-835f-cb74571169fe","type":"certified-idp"},"e7dada78-c230-4973-98da-34a1b1e85445":{"to":"fe52ca00-a4c1-4958-8441-62e72d2509d8","type":"organization-for-group"}}
+tmap.id:3c91a8a8-9b35-421a-8b94-1e4b3dbfc03b
 twitter.profile:
 website:https://secureidentity.co.uk
 

@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071973
+modified:1582678071973
 title:BTCR DID Resolver Specification
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot vi]]
 tech.focus:
 tmap.edges:{}
-tmap.id:a0f7f860-d22b-41fe-ad7b-1aff3c3687fa
+tmap.id:51cc08f0-8bcb-4264-832c-b3e75bde0d44
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf
 version.or.edition:
 volume.frequency:

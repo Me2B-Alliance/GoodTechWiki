@@ -1,0 +1,10 @@
+id:c65bd290-942b-4dd6-aac9-a34eaa46e1e7
+config.central-topic: c7936936-6ab4-4b87-816b-6f4833a2c159
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Big Data and Human Rights, a New and Sometimes Awkward Relationship
+tmap.type: neighbor
+
+

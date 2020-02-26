@@ -1,5 +1,5 @@
-created:1582526115769
-modified:1582526115769
+created:1582678071974
+modified:1582678071974
 title:LD Signature Format Alignment
 type:text/vnd.tiddlywiki
 audience:
@@ -7,7 +7,7 @@ authors.editors:
 date:
 digital.harms.addressed:
 element.type:publication
-github.profile:
+github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
@@ -19,7 +19,7 @@ sponsoring.org:
 tags:[[rwot iv]]
 tech.focus:
 tmap.edges:{}
-tmap.id:40ff7ab3-5acd-4ddf-9aa1-612819a0c119
+tmap.id:c7c5dc66-8160-416e-bbf1-027c75f3d305
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/ld-signatures.pdf
 version.or.edition:
 volume.frequency:

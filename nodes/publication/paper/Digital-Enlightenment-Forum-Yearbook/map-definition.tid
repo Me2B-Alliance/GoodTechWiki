@@ -1,0 +1,10 @@
+id:a4de0ec7-1395-42d7-815e-dc03132a56a5
+config.central-topic: a6adde1b-2d26-4ae4-bf08-d0c055befab8
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Digital Enlightenment Forum Yearbook
+tmap.type: neighbor
+
+

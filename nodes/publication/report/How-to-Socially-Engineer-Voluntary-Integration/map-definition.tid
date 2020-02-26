@@ -1,0 +1,10 @@
+id:c24a061c-08a0-4ed2-ab9a-79a4aa47fd27
+config.central-topic: c5f38fd8-7f49-4010-a466-2f213e73dd75
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/How to Socially Engineer Voluntary Integration
+tmap.type: neighbor
+
+

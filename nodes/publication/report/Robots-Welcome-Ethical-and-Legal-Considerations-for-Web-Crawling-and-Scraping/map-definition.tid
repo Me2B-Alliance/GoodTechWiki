@@ -1,0 +1,10 @@
+id:0dd3049f-030b-4984-b84d-9bc4eb4d8aab
+config.central-topic: 0a2aee7d-e47e-4159-b4d0-ba75f04d6a4e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping
+tmap.type: neighbor
+
+

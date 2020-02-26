@@ -1,5 +1,5 @@
-created:1582526115502
-modified:1582526115502
+created:1582678071714
+modified:1582678071714
 title:Identity in the Cloud
 type:text/vnd.tiddlywiki
 activities:
@@ -18,8 +18,8 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
-tmap.edges:{"19cc8cff-0bf8-4e0a-84b6-eda087e8acd6":{"to":"b3a8ac21-9581-49d5-b548-ec6548ba5cdf","type":"organization-for-group"}}
-tmap.id:4947ca1b-69f3-4456-ad6e-2a9483024cff
+tmap.edges:{"47f9d80d-d16b-4d87-a108-41c4b1dbc743":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
+tmap.id:55f7ff72-40d0-4347-9038-936cf9d25296
 url:https://www.oasis-open.org/committees/id-cloud/
 
 he OASIS IDCloud TC works to address the serious security challenges posed by identity management in cloud computing. The TC identifies gaps in existing identity management standards and investigates the need for profiles to achieve interoperability within current standards. It performs risk and threat analyses on collected use cases and produces guidelines for mitigating vulnerabilities.

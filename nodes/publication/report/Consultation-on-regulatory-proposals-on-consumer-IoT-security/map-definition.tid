@@ -1,0 +1,10 @@
+id:06cff374-f98d-440c-b79c-78513505da84
+config.central-topic: 49f8c5e2-01da-4d05-90f3-07dc3979be7e
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Consultation on regulatory proposals on consumer IoT security
+tmap.type: neighbor
+
+

@@ -1,0 +1,10 @@
+id:e9cc9438-322e-4106-bcaa-8bc74f9b3b5d
+config.central-topic: 2d703eae-43e6-47b2-bc1f-5cf4eea677e7
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Are There Limits to Online Free Speech?
+tmap.type: neighbor
+
+

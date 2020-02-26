@@ -1,0 +1,10 @@
+id:962e4016-76bd-4621-ad33-d86c225cf835
+config.central-topic: 98bd6b82-4fb1-4841-85e4-9d721b2e688b
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Technology’s Impact on Infrastructure is a Health Concern
+tmap.type: neighbor
+
+

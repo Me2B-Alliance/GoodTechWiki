@@ -1,0 +1,10 @@
+id:ab9805c5-419f-4bf1-bb13-92dbaf393473
+config.central-topic: f8926684-fdf3-4b5c-a6cd-97005a93914b
+config.vis: {"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+config.neighbourhood_scope: 2
+config.show_inter_neighbour_edges: true
+isview:false
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Analytics in K-12 Schools: Big Data, or Big Brother?
+tmap.type: neighbor
+
+
