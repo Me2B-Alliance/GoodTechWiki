@@ -1,9 +1,6 @@
-created:1582678071708
-modified:1582678071708
-title:eServices
-type:text/vnd.tiddlywiki
 activities:
-category:[[specification work]]
+category:specification work
+created:1582678071708
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,6 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
+modified:1582678071708
 name:eServices
 parent.org:Secure Identity Alliance
 people:
@@ -18,8 +16,12 @@ purpose:
 relevant.standards:
 status:
 tech.focus:
+tiddler.classification:node
+title:eServices
 tmap.edges:{"d84d9334-a329-44da-a3b7-a047d1cac646":{"to":"441e05bb-d980-4fd7-9728-4585f3a3633c","type":"organization-for-group"}}
 tmap.id:4cb6687f-4515-4bd0-a361-d3d391bcfece
+type:text/vnd.tiddlywiki
 url:
+
 
 

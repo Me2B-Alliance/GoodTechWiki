@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:JoloCom
-type:text/vnd.tiddlywiki
-activities:[[software development]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -14,23 +11,28 @@ github.profile:https://github.com/jolocom
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/jolocom
-location(s):[[berlin]]
-me2b.relationship:[[certification candidate]]
+location(s):[object Set]
+me2b.relationship:[object Set]
+modified:1582678071965
 org.name:JoloCom
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[ecosystem building]]
+purpose:[object Set]
 relevant.publications:https://stories.jolocom.com/
 scope:
 sector:for-profit
 status:
 tags:
 tech.focus:Identity
+tiddler.classification:node
+title:JoloCom
 tmap.edges:{}
 tmap.id:5fa65d41-2226-4645-aa57-e0e7536d2208
 twitter.profile:https://twitter.com/getjolocom
+type:text/vnd.tiddlywiki
 website:https://www.jolocom.com
 
 Jolocom builds global infrastructureto support decentralized digital identity management.Smart agents own and control the data that defines them, a prerequisite for self-sovereign identity.
+

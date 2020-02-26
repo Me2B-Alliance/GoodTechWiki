@@ -1,10 +1,7 @@
-created:1582678071769
-modified:1582678071769
-title:Barclays
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071769
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071769
 org.name:Barclays
 org.type:company
 parent.org:
@@ -27,9 +25,13 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Barclays
 tmap.edges:{"55302a8d-f97d-412e-97f6-569c0b369412":{"to":"2d160100-9d01-4af3-835f-cb74571169fe","type":"certified-idp"},"1012723a-111d-464d-9484-81335fe40e7f":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"}}
 tmap.id:a0224795-4eba-47af-92a1-c596de80b3df
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.barclays.co.uk/identity
+
 
 

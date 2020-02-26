@@ -1,10 +1,7 @@
-created:1582678071760
-modified:1582678071760
-title:eIDAS-Node
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[open source]]
+category:open source
+created:1582678071760
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -12,6 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
+modified:1582678071760
 name:eIDAS-Node
 parent.org:
 partners:
@@ -22,8 +20,11 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:eIDAS-Node
 tmap.edges:{}
 tmap.id:f5882538-fd1a-4c70-a8c9-cc58aff675f8
+type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/eidas-node+v1.1
 version.or.edition:
 working.group:
@@ -33,3 +34,4 @@ The CEF eID team is pleased to announce the release of the version 1.1 of the sa
 Member States may implement this version directly, or use it as a sample when testing other implementations of the technical specifications. Release 1.1 of the eIDAS sample implementation for Member States is an all-in-one package for the Java platform including binary distributions for Glassfish, JBoss, Tomcat, WebLogic, WebSphere and the source code (Maven project).
 
 With each re-release, the CEF eID Team is striving to improve users' CEF eID experience. The next version of the specifications will thus be further improved based on the feedback received on this current version.
+

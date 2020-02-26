@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:Helm
-type:text/vnd.tiddlywiki
-activities:[[software development]] [[service provider]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071965
 org.name:Helm
 org.type:company
 parent.org:
@@ -28,9 +26,13 @@ sector:for-profit
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Helm
 tmap.edges:{"0c024c99-48ce-4cdc-9a90-221ee7112d9d":{"to":"1cc913ec-5788-461b-8a0a-509165cce9ac","type":"Organization Supports Project or Product"}}
 tmap.id:3faeec30-9a8b-4e55-871f-4c6186ec5aee
 twitter.profile:https://twitter.com/helmsecure
+type:text/vnd.tiddlywiki
 website:https://thehelm.com/
 
 Take back ownership of your most important data like your files, photos, emails, browsing activity and more. Helm’s suite of privacy-first services protect and secure your online life
+

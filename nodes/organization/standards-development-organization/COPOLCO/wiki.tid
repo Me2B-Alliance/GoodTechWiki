@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:COPOLCO
-type:text/vnd.tiddlywiki
-activities:[[standard development]] [[formal training and classes]] [[publication]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,21 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071965
 org.name:COPOLCO
 org.type:standards development organization
 parent.org:ISO
 partners:
 products.and.or.services:
-purpose:[[consumer support]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:COPOLCO
 tmap.edges:{}
 tmap.id:b3d5509e-e9c1-46bb-9fa6-52233d3aa129
 twitter.profile:https://twitter.com/ISOConsumers
+type:text/vnd.tiddlywiki
 website:https://www.iso.org/copolco.html
 
 COPOLCO does not actually develop International Standards : it provides policy advice to the ISO. Founded in 1978: COPOLCO is the policy-making “ think tank ” on consumer matters for ISO: and reports directly to ISO Council: the executive governance body of ISO. ISO/COPOLCO’s mission is to promote and facilitate consumer input into ISO’s policy and technical work: and to help consumers around the world benefit from standardization.
+

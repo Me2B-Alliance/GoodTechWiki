@@ -1,9 +1,6 @@
-created:1582678071976
-modified:1582678071976
-title:Quicksort
-type:text/vnd.tiddlywiki
 audience:
 authors.editors:
+created:1582678071976
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,18 +8,23 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
+modified:1582678071976
 name:Quicksort
-publication.type:[[video]]
+publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[[film festival]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Quicksort
 tmap.edges:{}
 tmap.id:61260876-1213-4551-905a-ac9914d1e6ba
+type:text/vnd.tiddlywiki
 url:https://vimeo.com/114911241
 version.or.edition:
 volume.frequency:
 working.group:
 
 A fundamental sorting algorithm is explained via folk dance, punctuated by periodic shouts of “divide and conquer” in Hungarian. Winner of the Grand Jury Prize.
+

@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:Dataswift
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:Dataswift
 org.type:to-be-determined
 parent.org:
@@ -26,13 +24,17 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Dataswift
 tmap.edges:{"fbbad193-6cb6-4a90-968f-fdb60677c44f":{"to":"f0c76529-33b1-42ea-83b3-98bcd9fb4f6a","type":"Organization Supports Project or Product"}}
 tmap.id:acfff3eb-53ef-49f2-8286-7fe56c36a843
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://dataswift.io/
 
 Dataswift is a complete developers platform for personal data accounts and infrastructure
 
 With Dataswift, you get a complete toolkit for managing user-owned personal data accounts out-of-the-box. One API interface. One conversation. One permission model. Dozens of features. You'll be amazed at everything you can do with personal data accounts. And we're just getting started.
+

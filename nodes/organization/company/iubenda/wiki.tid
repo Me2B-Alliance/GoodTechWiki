@@ -1,10 +1,7 @@
-created:1582678071963
-modified:1582678071963
-title:iubenda
-type:text/vnd.tiddlywiki
-activities:[[service provider]] [[certification]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071963
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,23 +12,28 @@ input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/iubenda/
 location(s):
-me2b.relationship:[[me2b certification candidate? content source for me2b certification?]]
+me2b.relationship:[object Set]
+modified:1582678071963
 org.name:iubenda
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[certification and compliance]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:for-profit
 status:Defunct?
 tags:
 tech.focus:
+tiddler.classification:node
+title:iubenda
 tmap.edges:{"aa3f2653-c924-4c31-ae9a-db4b078db274":{"to":"56e0afda-cc01-45d4-a44a-a9b53947fdc8","type":"Organization Supports Project or Product"},"09c102ac-08a5-4e70-990f-85154fc6e545":{"to":"867e683c-0ab8-4773-bf73-0dacc49edb2e","type":"Organization Supports Project or Product"},"c573dbf0-7aed-44f9-a103-90d3e3976702":{"to":"efdb0c51-0e01-49fd-8eac-2346eab1940b","type":"Organization Supports Project or Product"},"9912f589-8258-4152-b340-1cbc976775f5":{"to":"2a350a30-18b1-4a40-8ee5-e304c352fbd5","type":"Organization Supports Project or Product"},"389c7098-745c-4a5c-a72a-65760581bba4":{"to":"84bf2354-508c-4b18-8cb2-671f63294cd4","type":"Organization Supports Project or Product"},"9cee842e-7aa3-4b8c-a80d-2f10ba3fd9fd":{"to":"ae80f9d0-1d4e-4594-87ff-58c7d39915f8","type":"Organization Supports Project or Product"},"6905ff3c-35ef-4804-8dee-9ad053f48b39":{"to":"1375eb62-1c51-4fb8-a956-3fb90087d052","type":"Organization Supports Project or Product"},"a95976aa-0ca8-41ba-9a03-eaa0832bf35a":{"to":"d3f3cd2d-1189-4ed6-a46a-f9c6d59edaf3","type":"Organization Supports Project or Product"}}
 tmap.id:0bd5187e-b6e6-495d-a0c9-d09e2c0c529b
 twitter.profile:https://twitter.com/iubenda
+type:text/vnd.tiddlywiki
 website:https://www.iubenda.com/en/
 
 We help with the legal requirements: so you can focus on the business
 Attorney-level solutions to make your websites and apps compliant with the law across multiple countries and legislations
+

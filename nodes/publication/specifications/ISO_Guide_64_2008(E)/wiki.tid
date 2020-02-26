@@ -1,9 +1,6 @@
-created:1582678071976
-modified:1582678071976
-title:ISO_Guide_64_2008(E)
-type:text/vnd.tiddlywiki
 audience:
 authors.editors:
+created:1582678071976
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +8,19 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
+modified:1582678071976
 name:ISO_Guide_64_2008(E)
-publication.type:[[specifications]]
+publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:ISO_Guide_64_2008(E)
 tmap.edges:{}
 tmap.id:be4817a3-6955-4bcf-8bb6-3ed062f3bb45
+type:text/vnd.tiddlywiki
 url:https://www.bsigroup.com/contentassets/fb7f1499fa6f43c6b9084be8c2378bc9/iso_guide_64_2008e---guide-for-addressing-environmental-issues-in-product-standards-.pdf
 version.or.edition:
 volume.frequency:
@@ -28,3 +29,4 @@ working.group:
 Guide for addressing environmental issues in product standards
 
 Every product has an impact on the environment during all stages of its life-cycle, e.g. extraction of resources, acquisition  of  raw  materials,  production,  distribution,  use  (application),  reuse,  end-of-life  treatment,  including  final  disposal.  These  impacts  range  from  slight  to  significant;  they  can  be  short-term  or  long-term;  and  they  occur  at  global,  regional  or  local  level.  Provisions  in  product  standards  have  an  influence  on  environmental  impacts of products. The  need  to  reduce  the  potential  adverse  impacts  on  the  environment  of  a  product  that  can  occur  during  all  stages  of  its  life  is  recognized  around  the  world.  The  potential  environmental  impacts  of  products  can  be  reduced by taking into account environmental issues in product standards. This Guide is intended for use by all those involved in the drafting of product standards, to draw attention to environmental  issues  in  support  of  sustainable  international  trade,  and  is  not  intended  to  be  used  to  create  non-tariff barriers to trade. Standards writers are not expected to become environmental experts but, by using this Guide, they are encouraged to: ⎯    identify   and   understand   basic   environmental   aspects   and   impacts   related   to   the   product   under   consideration, and ⎯    determine  when  it  is  possible  and  when  it  is  not  possible  to  deal  with  an  environmental  issue  through  a  product standard. During  the  life-cycle  of  a  given  product,  different  environmental  aspects  can  be  determined.  However,  the  identification  of  these  aspects  and  the  prediction  of  their  impacts  is  a  complex  process.  When  writing  a  product standard, it is important to ensure that an evaluation as to how products can affect the environment at different stages of their life-cycle is carried out as early as possible in the process of developing the standard. The results of this evaluation are important for specifying provisions in standards. It is anticipated that product standards  writers  actively  consider  compliance  with  any  applicable  national,  regional  or  local  product  related  regulation.
+

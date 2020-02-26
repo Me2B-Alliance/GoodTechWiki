@@ -1,10 +1,7 @@
-created:1582678071755
-modified:1582678071755
-title:NASCIO
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071755
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071755
 org.name:NASCIO
 org.type:trade association
 parent.org:
@@ -27,9 +25,12 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:NASCIO
 tmap.edges:{"8adaa4e4-22ec-414f-b44c-e9db5fe5b176":{"to":"d320e0a6-043e-495a-a058-55a38cea724a","type":"executive-member"}}
 tmap.id:359f622d-7d04-463f-a175-5a6b4783eb28
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.nascio.org
 
 NASCIO’s mission is to foster government excellence through quality business practices, information management, and technology policy.
@@ -37,3 +38,4 @@ NASCIO’s mission is to foster government excellence through quality business p
 Founded in 1969, the National Association of State Chief Information Officers (NASCIO) is a nonprofit, 501(c)3 association representing state chief information officers and information technology executives and managers from the states, territories, and the District of Columbia. The primary state members are senior officials from state government who have executive-level and statewide responsibility for information technology leadership. State officials who are involved in agency level information technology management may participate as associate members. Representatives from federal, municipal, international government and non-profit organizations may also participate as members. Private-sector firms join as corporate members and participate in the Corporate Leadership Council.
 
 NASCIO provides state CIOs and state members with products and services designed to support the challenging role of the state CIO, stimulate the exchange of information and promote the adoption of IT best practices and innovations. From national conferences, peer networking, research and publications, briefings and government affairs, NASCIO is the premier network and resource for state CIOs.
+

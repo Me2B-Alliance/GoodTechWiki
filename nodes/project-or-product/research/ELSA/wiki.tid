@@ -1,10 +1,7 @@
-created:1582678071732
-modified:1582678071732
-title:ELSA
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[research]]
+category:research
+created:1582678071732
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -12,6 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
+modified:1582678071732
 name:ELSA
 parent.org:
 partners:
@@ -22,10 +20,14 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:ELSA
 tmap.edges:{"83f3c61d-cc4d-4131-9eb2-f84c9433fb5d":{"to":"cdafb85d-4912-4f1b-9d04-675f2b905d95","type":"connection"},"24718754-c000-4a6a-8b5b-4054a23b71cb":{"to":"3453b060-6a4e-4859-b636-8f5a541ab57a","type":"connection"},"ba009921-3359-4a61-afc1-087845c9d4a4":{"to":"980a1d43-5de6-4730-a0c9-9a4b07b660a4","type":"connection"},"5107982a-b3ab-44c6-ab55-978e87f382d9":{"to":"15794d8f-d706-4b5d-a1ac-03a87a794300","type":"connection"}}
 tmap.id:be765c55-ffc5-48cc-b8f8-b4ad70e0b548
+type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 working.group:
+
 
 

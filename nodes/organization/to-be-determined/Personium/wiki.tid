@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:Personium
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:Personium
 org.type:to-be-determined
 parent.org:
@@ -26,11 +24,15 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Personium
 tmap.edges:{}
 tmap.id:db6ebac4-36e8-4791-b3fb-e5d4a42c71a5
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://personium.io/en/index.html
 
 We do not think current form of computing, data-data flow is optimal for human society. It should be a common interest for all the human society to create an existence using the power of IT to support individual human information processing ability, that is, reception, recognition, memory, integration, analysis and expression of the information. Among the technical metabolism, that is, new divices, new representation techniques arising every year based on that interest, we strongly recognize the importance of a persistence layer mainly responsible for memory, in other words, an IT that keeps stablly existing throught individual human lifecycle. What is called PDS today is very close to this. And it had better be implemented in the abstracted layer 'Cloud' or Web API (as opposed to 'Client'), which is relatively free from the metabolism. Such IT for the human society, should not be put under the control of single corporate or individual, but be shared and co-created using the knowledge of many individual or corporate entities. For that to happen, that cloud technology should be open to all the corporates, organizations and individulals over the world. Our mission is to develop and keep evolving such software and grow and nourish the application ecosystem based on it.
+

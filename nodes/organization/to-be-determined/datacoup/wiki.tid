@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:datacoup
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:datacoup
 org.type:to-be-determined
 parent.org:
@@ -26,11 +24,14 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:datacoup
 tmap.edges:{}
 tmap.id:9b0848cf-82a0-473c-acf4-9139295bac76
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://datacoup.com
 
 Our mission is to help people unlock the value of their personal data.
@@ -38,3 +39,4 @@ Our mission is to help people unlock the value of their personal data.
 Almost every link in the economic chain has their hand in our collective data pocket. Data brokers in the US alone account for a $15bn industry, yet they have zero relationship with the consumers whose data they harvest and sell. They offer no discernible benefit back to the producers of this great data asset - you.
 
 Datacoup is changing this asymmetric dynamic that exists around our personal data. The first and most important step is getting people compensated for the asset that they produce. We are building for a future where individuals like you are in control of your data and are the chief beneficiaries of its value.
+

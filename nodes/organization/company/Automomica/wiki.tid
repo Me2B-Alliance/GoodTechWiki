@@ -1,10 +1,7 @@
-created:1582678071772
-modified:1582678071772
-title:Automomica
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071772
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071772
 org.name:Automomica
 org.type:company
 parent.org:
@@ -27,11 +25,15 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Automomica
 tmap.edges:{"6745edf6-1a71-4d8f-a987-c0e1153272f0":{"to":"160f5047-ec1f-47ca-b606-10433d1da9c3","type":"author"}}
 tmap.id:76a0d747-824a-4e64-a166-95c03e9d3b2c
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:
 
 Autonomica Ab is a fully owned subsidiary of NetNod that operates several critical infrastructure pieces on the Internet.
 
 responsibility for running the i.root-servers.net
+

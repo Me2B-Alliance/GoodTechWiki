@@ -1,10 +1,7 @@
-created:1582678071964
-modified:1582678071964
-title:Personaldata.io
-type:text/vnd.tiddlywiki
-activities:[[policy development]] [[research]] [[publication]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071964
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -14,25 +11,30 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/personaldata.io/
-location(s):[[geneva]] [[switzerland]]
+location(s):[object Set]
 me2b.relationship:
+modified:1582678071964
 org.name:Personaldata.io
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[transparency and accountability]] [[human rights]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:non-profit
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Personaldata.io
 tmap.edges:{}
 tmap.id:1e5cc9e2-6a55-4a7f-8872-3e329d93a062
 twitter.profile:https://twitter.com/personaldataio
+type:text/vnd.tiddlywiki
 website:https://www.personaldata.io/
 
 promoting digital rights and trust in the digital world. We help people exercise greater control over their digital identity through practical tools coupled with advocacy for more effective personal data rights. Our goal is to empower individuals to truly exercise their rights online and to drive sustainable change across the personal data ecosystem.
+
 
 

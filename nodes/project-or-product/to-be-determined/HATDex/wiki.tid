@@ -1,10 +1,7 @@
-created:1582678071971
-modified:1582678071971
-title:HATDex
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[TO BE DETERMINED]]
+category:TO BE DETERMINED
+created:1582678071971
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -13,6 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
+modified:1582678071971
 name:HATDex
 parent.org:Dataswift
 partners:
@@ -23,8 +21,11 @@ status:
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:HATDex
 tmap.edges:{}
 tmap.id:f0c76529-33b1-42ea-83b3-98bcd9fb4f6a
+type:text/vnd.tiddlywiki
 url:https://hatdex.dataswift.io
 version.or.edition:
 working.group:
@@ -40,3 +41,4 @@ The HATDeX Platform is a governance platform for data mobility. It comprises of 
     Delivers standardisation and interoperability of personal data across all industry sectors
 
     Is already referenced globally as a best-in-class solution in the emerging primary personal data exchange
+

@@ -1,9 +1,6 @@
-created:1582678071976
-modified:1582678071976
-title:ISO_IEC_Guide_63_2019(E)
-type:text/vnd.tiddlywiki
 audience:
 authors.editors:
+created:1582678071976
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +8,19 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
+modified:1582678071976
 name:ISO_IEC_Guide_63_2019(E)
-publication.type:[[specifications]]
+publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:ISO_IEC_Guide_63_2019(E)
 tmap.edges:{}
 tmap.id:16acbff1-b64a-4638-942c-4bc2363ddfc5
+type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_63_2019%28E%29_%2D_Guide_to_the_development_and_inclusion_of_all_aspects_of_safety_in_International_Standards_for_medical_devices.pdf?nodeid=8387464&vernum=-2
 version.or.edition:
 volume.frequency:
@@ -28,3 +29,4 @@ working.group:
 Guide to the development and inclusion of all aspects of safety in International Standards for medical devices
 
 This document provides practical guidance to standards writers on how to include safety aspects in the development of medical device standards, including management system standards related to medical devices. This document is based on risk management principles and ISO/IEC Guide 51:2014 to address the needs of the medical device sector.The concept of safety, as described in this document, is closely related to protecting patients who are the subjects of medical care, as well as those persons who provide the care and other potentially affected persons. Safety is also related to harm to property or the environment.The approach described in this document aims to reduce the risk arising during the life cycle of a medical device, including design, production, distribution, installation, use, service, maintenance, and destruction or disposal. The complete life cycle of a medical device (including both the intended use and the reasonably foreseeable misuse) is considered. The goal is to achieve acceptable risk for people, property and the environment.As different circumstances warrant different approaches to ensuring safety, it is impossible to provide precise requirements and recommendations that apply to every case. Examples of such differences are the development of standards for manufacturers of medical devices and standards for health care providers and institutions. However, this document, when followed on a judicious “use when applicable” basis, will help in developing standards that include aspects of safety which are consistent with the generally acknowledged state of the art.NOTE The term “standard” used throughout this document includes International Standards, Technical Specifications, Publicly Available Specifications, Technical Reports and Guides developed by ISO or IEC.
+

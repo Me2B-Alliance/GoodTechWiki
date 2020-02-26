@@ -1,10 +1,7 @@
-created:1582678071969
-modified:1582678071969
-title:theDataMap
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[software product (application]]
+category:software product (application
+created:1582678071969
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -13,6 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
+modified:1582678071969
 name:theDataMap
 parent.org:Patient Privacy Rights
 partners:
@@ -21,10 +19,13 @@ purpose:
 relevant.publications:https://patientprivacyrights.org/thedatamap/
 status:
 supported.identity.technologies:
-tags:[[personal data management]]
+tags:[object Set]
 terms.of.service:
+tiddler.classification:node
+title:theDataMap
 tmap.edges:{}
 tmap.id:d50e6183-b9e0-4c5d-ba81-77e95919f2b7
+type:text/vnd.tiddlywiki
 url:http://thedatamap.org/
 version.or.edition:
 working.group:
@@ -32,3 +33,4 @@ working.group:
 theDataMap™ is an online portal for documenting flows of personal data to produce a detailed description of personal data flows in the United States.
 
 A comprehensive data map will encourage new uses of personal data, help innovators find new data sources, and educate the public and inform policy makers on data sharing practices so society can act responsibly to reap benefits from sharing while addressing risks for harm. To accomplish this goal, the portal engages members of the public in a game-like environment to report and vet reports of personal data sharing.
+

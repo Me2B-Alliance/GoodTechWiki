@@ -1,10 +1,7 @@
-created:1582678071758
-modified:1582678071758
-title:IDnext
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071758
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071758
 org.name:IDnext
 org.type:trade association
 parent.org:
@@ -25,11 +23,14 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[europe]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:IDnext
 tmap.edges:{"c70106e3-92ed-4d51-98be-58f76f3b2892":{"to":"2dd26b29-3b3c-434b-bb85-7dd9610e131c","type":"convenor"},"2d90b833-a180-4783-a14d-8632de78dbfb":{"to":"e6e7d8b7-b66c-4ee1-ba22-caed69d69222","type":"executive-member"}}
 tmap.id:42ea4868-a984-4f52-9164-5b0cb8728382
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:
 
 IDentity.Next Assocation
@@ -43,3 +44,4 @@ IDnext association aims to disseminate knowledge and experience by organizing ev
 
 Membership
 IDnext association is a membership organization. Although you can participate without a paid membership, joining helps us to engage in (innovative) project-programmes, business development and also organize events and workshops to strengthen our mission in the world of Digital Identity.
+

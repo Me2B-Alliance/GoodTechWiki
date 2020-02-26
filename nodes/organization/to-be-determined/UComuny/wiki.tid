@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:UComuny
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:UComuny
 org.type:to-be-determined
 parent.org:
@@ -26,11 +24,14 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:UComuny
 tmap.edges:{}
 tmap.id:749f9ba5-2a97-4b40-a050-eb53682fbc27
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://www.comuny.de/en/
 
 EXPERTISE – IDEAS – ENTREPRENEURSHIP
@@ -38,3 +39,4 @@ EXPERTISE – IDEAS – ENTREPRENEURSHIP
 comuny founders Beatrix Reiß and Dominik Deimel seek to contribute to a digital world where people can benefit from exploiting the potential of data to its full.
 
 They have recognized that the demand for simple, secure and valuable communication solutions will significantly increase; with comuny, they advance the digital transformation of services for people.
+

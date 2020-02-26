@@ -1,9 +1,6 @@
-created:1582678071968
-modified:1582678071968
-title:Workshop
-type:text/vnd.tiddlywiki
 audience:
-category:[[workshop]]
+category:workshop
+created:1582678071968
 date:
 element.type:event
 frequency:
@@ -11,14 +8,19 @@ github.profile:
 host.organization:Data & Society Research Institute
 input.source:me2b
 location(s):
+modified:1582678071968
 name:Workshop
 partners:
 people:
 relevant.publications:https://datasociety.net/algorithms-and-publics/
-tags:[[algorithms and publics]] [[publications]] [[parent]]
+tags:[object Set]
+tiddler.classification:node
+title:Workshop
 tmap.edges:{}
 tmap.id:d718885a-0c89-49c4-9f24-a0dcd6cda80b
+type:text/vnd.tiddlywiki
 website:https://datasociety.net/events/who-controls-public-sphere/
 working.group:
 
 On February 26, 2016, Data & Society held a workshop, Who Controls the Public Sphere in an Era of Algorithms? to drill into the assumptions, values, and tensions at the core of growing concerns about the control and shaping of the public sphere in an era of algorithms.
+

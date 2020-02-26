@@ -1,10 +1,7 @@
-created:1582678071768
-modified:1582678071768
-title:Verizon
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071768
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071768
 org.name:Verizon
 org.type:company
 parent.org:
@@ -27,11 +25,15 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Verizon
 tmap.edges:{"52d7c9ed-98c0-4747-9dd9-357d868fe670":{"to":"ec013359-191d-4d5c-9d94-13bf12f251eb","type":"sponsor"},"61705c99-92d9-4300-bd7a-ee1c4b9433fb":{"to":"cec42ec3-191c-4587-a038-84865ff4b651","type":"general-member"},"dafd8aa1-73a8-4b04-bb8b-360c71684f06":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"}}
 tmap.id:9f5adc3a-e277-4969-bc61-0797cea21d99
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.verizonenterprise.com/
 
 Powered by investments in security, data centers, 4G/LTE, cloud computing, and its immense global IP network; and built upon powerful, interplaying platforms that bring together networks, applications, information, and environments, Verizon’s portfolio of solutions effortlessly meets the demands and challenges shaping technology and business today. Each of its platforms — mobility, machine-to-machine, cloud and IT, advanced communications, security, and global networks — offers a compelling set of discrete capabilities. But when blended together, those capabilities are amplified, allowing them to create configurable industry solutions to meet the individual demands of our customers.
 
 Verizon believes that businesses and individuals empowered by technology can change the world and so create solutions with that belief in mind, perpetually challenging themselves to enable, advance, and pave the way for new possibilities across a variety of industries.
+

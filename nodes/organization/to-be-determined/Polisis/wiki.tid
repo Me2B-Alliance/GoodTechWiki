@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:Polisis
-type:text/vnd.tiddlywiki
-activities:[[standard development]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,21 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071965
 org.name:Polisis
 org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[transparency and accountability]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:
 status:
 tags:
 tech.focus:Data Mobility
+tiddler.classification:node
+title:Polisis
 tmap.edges:{}
 tmap.id:5ebd7640-2526-47cb-b74a-96782f6b1e37
 twitter.profile:https://twitter.com/pribotapp
+type:text/vnd.tiddlywiki
 website:https://pribot.org/polisis
 
 Assesses Privacy Policies and presents results in visual format.
+

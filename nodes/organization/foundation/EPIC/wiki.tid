@@ -1,10 +1,7 @@
-created:1582678071964
-modified:1582678071964
-title:EPIC
-type:text/vnd.tiddlywiki
-activities:[[outreach]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071964
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -14,23 +11,28 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/epic-foundation/
-location(s):[[usa]] [[uk]] [[france]] [[switzerland]]
+location(s):[object Set]
 me2b.relationship:
+modified:1582678071964
 org.name:EPIC
 org.type:foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[human rights]] [[transparency and accountability]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:[[philanthropy]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:EPIC
 tmap.edges:{}
 tmap.id:413ea647-dd6e-43cf-a282-4f45936f064a
 twitter.profile:https://twitter.com/epic_foundation
+type:text/vnd.tiddlywiki
 website:https://epic.foundation/
 
 Epic Foundation backs outstanding nonprofits and social innovation to change the lives of disadvantaged youth.
+

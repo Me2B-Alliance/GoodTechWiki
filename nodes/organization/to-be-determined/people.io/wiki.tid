@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:people.io
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:people.io
 org.type:to-be-determined
 parent.org:
@@ -26,11 +24,14 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:people.io
 tmap.edges:{}
 tmap.id:7a5e6346-1b2d-4a9e-a0ac-e3483fbe1a04
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://people.io
 
 A human's fundamental right to privacy is increasingly at odds with the eroding status quo of how people's information is collected and used by companies, small and large.
@@ -52,3 +53,4 @@ people.io launched a Beta app in February 2017, whereby users are rewarded for r
 In late 2018, a number of major announcements will be made that re-introduce people.io - as part of an ecosystem of data-centric products designed to empower people while solving some of the fundamental challenges faced by major corporates in their ability to compete with the major tech companies.
 
 To-date, people.io has received investment from a number of Europe’s most successful entrepreneurs, including Thomas Höegh (Founder of Lovefilm, Arts Alliance and Growth Street) and Nick Robertson (Founder of ASOS) in addition to the Founders Factory and Wayra Deutschland.
+

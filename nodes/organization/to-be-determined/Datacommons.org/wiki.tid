@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:Datacommons.org
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,21 +13,25 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071965
 org.name:Datacommons.org
 org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[research]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:
 status:
-tags:[[consolidation of open datasets]]
+tags:[object Set]
 tech.focus:Data Mobility
+tiddler.classification:node
+title:Datacommons.org
 tmap.edges:{}
 tmap.id:bbd72876-eccf-4164-ba39-f36694388b16
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://www.datacommons.org/
 
 Publicly available data from open sources (census.gov: NOAA: data.gov: etc.) are vital resources for students and researchers in a variety of disciplines. Unfortunately: processing these datasets is often tedious and cumbersome. Organizations follow distinctive practices for codifying datasets. Combining data from different sources requires mapping common entities (city: county: etc.) and resolving different types of keys/identifiers. This process is time consuming and can increase the likelihood for methodological errors.
@@ -40,3 +41,4 @@ Data Commons attempts to synthesize a single "Open Knowledge Graph" (OKG) from t
 You can use the Data Commons Graph Browser to browse the graph. The data can be programmatically accessed via APIs. For example usage: check out the tutorials.
 
 Data Commons is a project started by Google: and is intended to be a community effort. Get involved!
+

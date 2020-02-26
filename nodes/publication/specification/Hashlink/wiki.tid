@@ -1,9 +1,6 @@
-created:1582678071977
-modified:1582678071977
-title:Hashlink
-type:text/vnd.tiddlywiki
 audience:
 authors.editors:
+created:1582678071977
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +8,19 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
+modified:1582678071977
 name:Hashlink
-publication.type:[[specification]]
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[[community specifications]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Hashlink
 tmap.edges:{}
 tmap.id:44ebf98f-d0fc-474b-b321-4cdc358a97d9
+type:text/vnd.tiddlywiki
 url:https://github.com/w3c-dvcg/hashlink/
 version.or.edition:
 volume.frequency:
@@ -38,3 +39,4 @@ You can view an HTML version of the specification here:
 https://w3c-dvcg.github.io/hashlink/
 
 We encourage contributions meeting the Contribution Guidelines. While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the public-credentials mailing list as well.
+

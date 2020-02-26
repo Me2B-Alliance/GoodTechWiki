@@ -1,10 +1,7 @@
-created:1582678071969
-modified:1582678071969
-title:One.thing.Less
-type:text/vnd.tiddlywiki
-activities:[[outreach]]
+activities:[object Set]
 audience:
-category:[[service]]
+category:service
+created:1582678071969
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -12,19 +9,23 @@ element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
-me2b.participation:[[certification candidate]]
+me2b.participation:[object Set]
+modified:1582678071969
 name:One.thing.Less
 parent.org:One.Thing.Less AG
 partners:
 people:
-purpose:[[usability]] [[consumer support]]
+purpose:[object Set]
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:One.thing.Less
 tmap.edges:{}
 tmap.id:5747e28f-b78c-44dc-a83d-5cd2347c374a
+type:text/vnd.tiddlywiki
 url:https://www.onethingless.com
 version.or.edition:
 working.group:
@@ -36,3 +37,4 @@ We believe that privacy is a fundamental human right. But to protect it and esta
 Our app empowers you to take control over the use of your personal data in a way that is simple and secure. Giving you One.Thing.Less to worry about.
 
 One.Thing.Less is free, does not include ads and does not sell personal data.
+

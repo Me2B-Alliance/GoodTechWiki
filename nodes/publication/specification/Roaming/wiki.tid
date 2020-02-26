@@ -1,9 +1,6 @@
-created:1582678071977
-modified:1582678071977
-title:Roaming
-type:text/vnd.tiddlywiki
 audience:
 authors.editors:
+created:1582678071977
 date:
 digital.harms.addressed:
 element.type:publication
@@ -11,15 +8,19 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
+modified:1582678071977
 name:Roaming
-publication.type:[[specification]]
+publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[[gsma working groups]] [[publications]] [[parent]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Roaming
 tmap.edges:{}
 tmap.id:f84135e4-13d7-4ec7-9f10-d594179041af
+type:text/vnd.tiddlywiki
 url:https://www.gsma.com/aboutus/gsm-technology/roaming
 version.or.edition:
 volume.frequency:
@@ -34,3 +35,4 @@ If the visited network is in the same country as the home network, this is known
 If the visited network operates on a different technical standard than the home network, this is known as inter-standard roaming.
 
 GSM Roaming, which involves roaming between GSM networks, offers the mobile subscriber the convenience of being able to use a single number, a single bill and a single phone in up to 219 countries. The convenience of GSM Roaming has been a key driver behind the global success of the GSM Platform.
+

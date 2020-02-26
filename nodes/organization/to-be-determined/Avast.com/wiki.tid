@@ -1,10 +1,7 @@
-created:1582678071966
-modified:1582678071966
-title:Avast.com
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071966
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071966
 org.name:Avast.com
 org.type:to-be-determined
 parent.org:
@@ -26,12 +24,16 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[anti-virus]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Avast.com
 tmap.edges:{"602dccef-7bc6-4468-9e14-916410f3131d":{"to":"81582741-108c-4d75-ae96-b0007ceb4128","type":"Organization Supports Project or Product"}}
 tmap.id:acf69bce-a05b-4993-8a96-91b34056905e
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://Avast.com
 
 Avast is dedicated to creating a world that provides safety and privacy for all,
 no matter who you are, where you are, or how you connect.
+

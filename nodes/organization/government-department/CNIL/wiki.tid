@@ -1,10 +1,7 @@
-created:1582678071966
-modified:1582678071966
-title:CNIL
-type:text/vnd.tiddlywiki
-activities:[[research]] [[publication]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071966
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -14,23 +11,27 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):[[paris]] [[france]]
+location(s):[object Set]
 me2b.relationship:
+modified:1582678071966
 org.name:CNIL
 org.type:government department
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[human rights]] [[consumer support]]
+purpose:[object Set]
 relevant.publications:
 scope:global
 sector:government
 status:
-tags:[[to protect personal data]] [[support innovation]] [[preserve individual liberties]]
+tags:[object Set]
 tech.focus:Information Sharing Control
+tiddler.classification:node
+title:CNIL
 tmap.edges:{}
 tmap.id:afe041e5-72dd-44f4-8fa2-d63c653360e5
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://www.cnil.fr/en/home
 
 The CNIL supports the development of new technologies on a daily basis and takes part in the construction of a digital ethic.
@@ -42,3 +43,4 @@ It has established and coordinates the network of Data Protection Officers (also
 The CNIL analyses the consequences of new technologies on citizens’ private life.
 
 Finally, it collaborates closely with its European and international counterparts.
+

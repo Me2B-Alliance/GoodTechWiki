@@ -1,10 +1,7 @@
-created:1582678071765
-modified:1582678071765
-title:Lawtrust
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071765
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071765
 org.name:Lawtrust
 org.type:company
 parent.org:
@@ -27,9 +25,12 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Lawtrust
 tmap.edges:{"c83e1d74-81bb-4007-93ba-c5e114550f64":{"to":"c195f082-9f8d-442b-9daa-7d56db09fa80","type":"general-member"}}
 tmap.id:4f2ef9aa-281c-4702-a318-7443b65ac4d3
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://www.lawtrust.co.za
 
 https://www.lawtrust.co.zaThe people at LAWtrust are passionate about information security, which addresses business’ need to create trust between stakeholders. LAWtrust understands that trust in business dealings is established through accountability and privacy, which in turn require the establishment of positive identity through verifiable signatures and confidentiality of information. LAWtrust’s solutions are mapped against these business needs so that it can deliver real business value. LAWtrust has a clear vision for trusted identities and securing transaction through its well established Certificate Authority and security integration capacity and capabilities. Focused on meeting globally recognised industry standards to deliver and support its solutions, LAWtrust has in-depth experience and have achieved the following:
@@ -47,3 +48,4 @@ Apart from these major systems, LAWtrust provides the following products and ser
 • Mobile biometrics solutions
 • Consulting and training
 LAWtrust view the involment in the FutureTrust project as beneficial to the African region in keeping abreast with and evolving further, developments in eID, payments and digital signatures within the EU.
+

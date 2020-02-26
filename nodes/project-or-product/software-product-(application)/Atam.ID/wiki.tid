@@ -1,10 +1,7 @@
-created:1582678071970
-modified:1582678071970
-title:Atam.ID
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[software product (application)]]
+category:software product (application)
+created:1582678071970
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -13,18 +10,22 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
+modified:1582678071970
 name:Atam.ID
 parent.org:ATAM ID
 partners:
 people:
-purpose:[[usability]]
+purpose:[object Set]
 relevant.publications:
 status:
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:Atam.ID
 tmap.edges:{}
 tmap.id:201f4dbc-785c-4ab2-8a5c-86f634e16048
+type:text/vnd.tiddlywiki
 url:https://atam.id
 version.or.edition:
 working.group:
@@ -38,3 +39,4 @@ Our technology combines proprietary and patented military grade encryption with 
 We have been building successful online products and services for over 20 years. Our supremely talented core team of engineers, visionaries and leaders drive our company forward.
 
 We are committed to leading the way into a brave new world where we work to put an end to the abuses of privacy and data rights that have for so long gone unchecked.
+

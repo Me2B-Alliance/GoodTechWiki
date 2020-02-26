@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:ColorCoded
-type:text/vnd.tiddlywiki
-activities:[[events and convening]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,21 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071965
 org.name:ColorCoded
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[[human rights]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:non-profit
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:ColorCoded
 tmap.edges:{}
 tmap.id:4b4a620e-e45b-44ee-a6cf-5daacddddb50
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:https://colorcoded.la/
 
 A collective holding space for POC to co-teach: co-create: and co-own technologies because #TechIsNotNeutral.
+

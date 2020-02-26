@@ -1,10 +1,7 @@
-created:1582678071969
-modified:1582678071969
-title:Youluh
-type:text/vnd.tiddlywiki
 activities:
 audience:
-category:[[terms]]
+category:terms
+created:1582678071969
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -12,19 +9,23 @@ element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
-me2b.participation:[[content source for customer commons terms creation]]
+me2b.participation:[object Set]
+modified:1582678071969
 name:Youluh
 parent.org:Independent
 partners:
 people:
-purpose:[[consumer support]]
+purpose:[object Set]
 relevant.publications:
 status:Inactive?
 supported.identity.technologies:
 tags:
 terms.of.service:
+tiddler.classification:node
+title:Youluh
 tmap.edges:{}
 tmap.id:d7fcabf7-97ea-497c-8d92-6d670700df98
+type:text/vnd.tiddlywiki
 url:http://www.x2xroads.com/
 version.or.edition:
 working.group:
@@ -42,3 +43,4 @@ But if you are going to agree to something without reading it, the service will 
     Anything in the EULA that has been commented on by other users?
 
 Our system for implementing the service is U.S. Patent Pending, but the development process will be open and use open source.  Details will be shared when the crowd funding campaign is ready.
+

@@ -1,10 +1,7 @@
-created:1582678071965
-modified:1582678071965
-title:Hu-manity.co
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071965
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -14,8 +11,9 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/hu-manity-co/
-location(s):[[princeton]] [[nj]]
+location(s):[object Set]
 me2b.relationship:
+modified:1582678071965
 org.name:Hu-manity.co
 org.type:company
 parent.org:
@@ -26,11 +24,15 @@ relevant.publications:
 scope:
 sector:for-profit
 status:
-tags:[[privacy]] [[exploring opportunities and challenges for emerging personal data ecosystems]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Hu-manity.co
 tmap.edges:{}
 tmap.id:7d2863e2-db30-499c-9b08-912cc564a272
 twitter.profile:https://twitter.com/hu_manityco
+type:text/vnd.tiddlywiki
 website:https://hu-manity.co/
 
 We are redesigning privacy for our lives
+

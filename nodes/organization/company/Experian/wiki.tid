@@ -1,10 +1,7 @@
-created:1582678071769
-modified:1582678071769
-title:Experian
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071769
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071769
 org.name:Experian
 org.type:company
 parent.org:
@@ -27,11 +25,15 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:Experian
 tmap.edges:{"40e4ceda-ed31-41a8-89c8-1cf96638cda4":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"},"5a1d64b7-a83f-4648-87f7-0ce3ff9e792f":{"to":"2d160100-9d01-4af3-835f-cb74571169fe","type":"certified-idp"}}
 tmap.id:ebdb690f-2615-41c6-8acf-ddb28640689e
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.experian.co.uk/identity-and-fraud/govuk-verify/
 
 Verify your identity and get access to GOV.UK services as quickly as possible
 
 As the UK’s most trusted consumer credit monitoring service we understand data and data security. We pride ourselves in keeping your information safe from prying eyes. Your information is protected using the latest encryption standards. You can trust Experian with your information. We already help hundreds of organisations in the UK make sure that the right people get access to the right services and products.
+

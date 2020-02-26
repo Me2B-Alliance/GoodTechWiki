@@ -1,10 +1,7 @@
-created:1582678071968
-modified:1582678071968
-title:Datamixer
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071968
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,6 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071968
 org.name:Datamixer
 org.type:to-be-determined
 parent.org:
@@ -26,11 +24,14 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[[mydata operator]]
+tags:[object Set]
 tech.focus:
+tiddler.classification:node
+title:Datamixer
 tmap.edges:{}
 tmap.id:3470787a-c192-4180-8b74-3ac603947376
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.datamixer.be/
 
 We help companies become customer centric
@@ -50,3 +51,4 @@ What we do for Business : improve Marketing ROI, innovate fast and build GDPR Re
 for Consumers : We believe that consumer data is the property of the consumer and should be treated that way, with respect and for the benefit of the consumer, helping them pursue and achieve their own goals. By turning consumer data into a service it’s possible to get better deals based on your data, while building trust – because now the consumer is in control.
 
 #Personalcloud#TrustFramework#lifemanagement
+

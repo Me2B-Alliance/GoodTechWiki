@@ -1,10 +1,7 @@
-created:1582678071746
-modified:1582678071746
-title:ICAO
-type:text/vnd.tiddlywiki
 activities:
 annual.budget:
 audience:
+created:1582678071746
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -15,6 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071746
 org.name:ICAO
 org.type:part of supra-national government
 parent.org:
@@ -27,9 +25,12 @@ sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:ICAO
 tmap.edges:{"85e2ebd7-3d25-4f87-8205-06a68866357b":{"to":"08562622-c5a6-40ab-a0cf-f46ae861853c","type":"organization-for-group"},"6c5113be-ca94-4fba-9e14-b17bcd5d2306":{"to":"2e92fcc3-87b3-478a-a7fd-ae5f91e8a127","type":"default"}}
 tmap.id:d3b99f8d-efcd-4c28-9045-77f1036c79f6
 twitter.profile:
+type:text/vnd.tiddlywiki
 website:http://www.icao.int
 
 The International Civil Aviation Organization (ICAO) is a UN specialized agency, established by States in 1944 to manage the administration and governance of the Convention on International Civil Aviation (Chicago Convention).
@@ -37,3 +38,4 @@ The International Civil Aviation Organization (ICAO) is a UN specialized agency,
 ICAO works with the Convention’s 191 Member States and industry groups to reach consensus on international civil aviation Standards and Recommended Practices (SARPs) and policies in support of a safe, efficient, secure, economically sustainable and environmentally responsible civil aviation sector. These SARPs and policies are used by ICAO Member States to ensure that their local civil aviation operations and regulations conform to global norms, which in turn permits more than 100,000 daily flights in aviation’s global network to operate safely and reliably in every region of the world.
  
 In addition to its core work resolving consensus-driven international SARPs and policies among its Member States and industry, and among many other priorities and programmes, ICAO also coordinates assistance and capacity building for States in support of numerous aviation development objectives; produces global plans to coordinate multilateral strategic progress for safety and air navigation; monitors and reports on numerous air transport sector performance metrics; and audits States’ civil aviation oversight capabilities in the areas of safety and security.
+

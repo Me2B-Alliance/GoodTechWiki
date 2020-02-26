@@ -1,10 +1,7 @@
-created:1582678071964
-modified:1582678071964
-title:MesInfos
-type:text/vnd.tiddlywiki
-activities:[[events and convening]]
+activities:[object Set]
 annual.budget:
 audience:
+created:1582678071964
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -16,21 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
+modified:1582678071964
 org.name:MesInfos
 org.type:trade association
 parent.org:MyData France
 partners:
 products.and.or.services:
-purpose:[[consumer support]] [[health care]]
+purpose:[object Set]
 relevant.publications:
 scope:
 sector:
 status:
 tags:
 tech.focus:
+tiddler.classification:node
+title:MesInfos
 tmap.edges:{}
 tmap.id:39d94f4a-8282-4fe0-9964-91ff28723f35
 twitter.profile:https://twitter.com/Expe_MesInfos
+type:text/vnd.tiddlywiki
 website:http://mesinfos.fing.org/english/
 
 The MesInfos Project explores and implements the self data concept in france.
+
