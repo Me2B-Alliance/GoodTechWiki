@@ -1,12 +1,12 @@
-created:1582719062330
+created:1582720021674
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:73638cbf-a9cf-4ac0-8766-8e5fb6e865cb
+map.base:f1fa1fc6-ca30-4166-90fc-a98b3ba5ab03
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062330
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Policy for Activinsights Band/filter/edges
-tmap.id:a883ae5e-c918-4370-84a0-278e3615a7f9
+tmap.id:02b39ee6-f653-423e-92c5-1387348cc397
 type:text/vnd.tiddlywiki
 
 No body provided

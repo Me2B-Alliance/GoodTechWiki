@@ -1,12 +1,12 @@
-created:1582719062297
+created:1582720021641
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a6cf580d-dc82-4efd-a9af-393885236d9f
+map.base:fdbbc796-e200-49ba-b29d-4585ffc67838
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062297
+modified:1582720021641
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Price of Privacy/filter/edges
-tmap.id:f0fac67a-f071-48c9-b283-dd91d0c393aa
+tmap.id:8a4d9439-7df4-4be5-b5fe-c16f89ed6d9e
 type:text/vnd.tiddlywiki
 
 No body provided

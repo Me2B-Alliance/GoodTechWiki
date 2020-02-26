@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[samuel woolley]] [[tim hwang]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Bring on the Bots
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:Bring on the Bots
 tmap.edges:{}
-tmap.id:95992c94-140d-4710-8fdc-4344b1c5a98e
+tmap.id:d0d49c72-10a9-42a2-a3b4-e842af58b0f3
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/bring-on-the-bots/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 In this piece for Civic Hall’s Civicist, Samuel Woolley and D&S fellow Tim Hwang argue that “he failure of the ‘good bot’ is a failure of design, not a...
-
 

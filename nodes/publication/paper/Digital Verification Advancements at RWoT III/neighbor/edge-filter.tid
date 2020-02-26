@@ -1,12 +1,12 @@
-created:1582719062239
+created:1582720021593
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b9225e6a-65d1-4e19-9cda-69729c7d6a58
+map.base:482edddf-af2e-400d-94a4-9d4d67669603
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062239
+modified:1582720021593
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Verification Advancements at RWoT III/filter/edges
-tmap.id:3f2525a4-7dd5-4d83-a2b1-2de5ee3dc031
+tmap.id:1cb7bc3b-300a-447d-9262-2ade8560d69f
 type:text/vnd.tiddlywiki
 
 No body provided

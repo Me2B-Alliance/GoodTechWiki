@@ -1,17 +1,17 @@
-config.central-topic:58911fbe-5275-4741-b1d4-0f62fc71f5ee
+config.central-topic:bbcb3823-ed03-48a1-bc5e-cc052130440b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062348
-id:57d43bd1-3185-423c-bc25-269f2d2fff0f
+created:1582720021689
+id:b9d6fda5-b46f-4f8e-ae97-c65602a8a6d0
 isview:false
-map.base:58911fbe-5275-4741-b1d4-0f62fc71f5ee
+map.base:bbcb3823-ed03-48a1-bc5e-cc052130440b
 map.role:definition
 map.type:neighbor
-modified:1582719062348
+modified:1582720021689
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain Working Group
-tmap.id:57d43bd1-3185-423c-bc25-269f2d2fff0f
+tmap.id:b9d6fda5-b46f-4f8e-ae97-c65602a8a6d0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Blockchain Working Group

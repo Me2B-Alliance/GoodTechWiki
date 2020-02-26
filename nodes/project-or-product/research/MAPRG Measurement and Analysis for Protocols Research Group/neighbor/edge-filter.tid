@@ -1,12 +1,12 @@
-created:1582719062189
+created:1582720021547
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f32f89f9-9565-4059-aa4a-a4ed20be8a9d
+map.base:664607af-43dc-415c-913e-69e79a2e8a83
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062189
+modified:1582720021547
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MAPRG Measurement and Analysis for Protocols Research Group/filter/edges
-tmap.id:2c48b8bc-a80d-4e2f-8a1c-b03b83c84e3d
+tmap.id:624ac61a-831d-4def-a40e-b7d2b9593a9b
 type:text/vnd.tiddlywiki
 
 No body provided

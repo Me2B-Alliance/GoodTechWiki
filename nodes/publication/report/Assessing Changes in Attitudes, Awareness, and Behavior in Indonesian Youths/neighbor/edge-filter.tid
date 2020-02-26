@@ -1,12 +1,12 @@
-created:1582719062264
+created:1582720021610
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:221f93bf-b9a1-461c-8648-c4f76a629d48
+map.base:485716c7-bef6-4574-85a9-b3daeb6e52b9
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062264
+modified:1582720021610
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Assessing Changes in Attitudes, Awareness, and Behavior in Indonesian Youths/filter/edges
-tmap.id:47e9733a-1ad1-461a-b717-a9a677b8b80d
+tmap.id:1ef682fc-3fef-428d-a0a8-c0278d423dee
 type:text/vnd.tiddlywiki
 
 No body provided

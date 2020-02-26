@@ -1,12 +1,12 @@
-created:1582719062168
+created:1582720021529
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:cead9359-7bd3-4dd5-9252-fd51df29b362
+map.base:f7acc1b5-468c-4dad-94f3-550d59fb4a8a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062168
+modified:1582720021529
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AI Now Institute/filter/edges
-tmap.id:4adf0a3b-f0d9-4fad-8ba4-94fdf127501d
+tmap.id:a1d43088-9a2c-4446-9306-adf8ca4996ea
 type:text/vnd.tiddlywiki
 
 No body provided

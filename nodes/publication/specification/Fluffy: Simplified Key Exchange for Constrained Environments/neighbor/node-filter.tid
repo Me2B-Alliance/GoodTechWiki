@@ -1,12 +1,12 @@
-created:1582719062311
-filter:[field:tmap.id[0c8cd622-3bd2-43ca-a65c-bddc2ba6c5ef]]
-map.base:0c8cd622-3bd2-43ca-a65c-bddc2ba6c5ef
+created:1582720021653
+filter:[field:tmap.id[cb733955-50f6-4fa6-bcb3-48a5b6b13880]]
+map.base:cb733955-50f6-4fa6-bcb3-48a5b6b13880
 map.role:node-filter
 map.type:neighbor
-modified:1582719062311
+modified:1582720021653
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fluffy: Simplified Key Exchange for Constrained Environments/filter/nodes
-tmap.id:d6ff68e0-3cf4-452a-8578-d9ff9ecc58a2
+tmap.id:0cc2ddc0-efff-40fd-b789-5938369eda82
 type:text/vnd.tiddlywiki
 
 No body provided

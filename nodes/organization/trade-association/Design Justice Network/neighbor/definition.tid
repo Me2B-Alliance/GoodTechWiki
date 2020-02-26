@@ -1,17 +1,17 @@
-config.central-topic:e0e60c99-7236-473d-9df0-10cafef22c47
+config.central-topic:318877c2-dd9c-4082-bed6-184f46eb18d5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062152
-id:0d86227e-0024-4fb6-8b31-b0d089af985f
+created:1582720021509
+id:7d5c216e-f45a-4dd8-9e11-2a5bf95c5f10
 isview:false
-map.base:e0e60c99-7236-473d-9df0-10cafef22c47
+map.base:318877c2-dd9c-4082-bed6-184f46eb18d5
 map.role:definition
 map.type:neighbor
-modified:1582719062152
+modified:1582720021509
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Justice Network
-tmap.id:0d86227e-0024-4fb6-8b31-b0d089af985f
+tmap.id:7d5c216e-f45a-4dd8-9e11-2a5bf95c5f10
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Design Justice Network

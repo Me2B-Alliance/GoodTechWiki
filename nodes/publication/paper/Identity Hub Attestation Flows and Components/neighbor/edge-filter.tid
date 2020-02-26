@@ -1,12 +1,12 @@
-created:1582719062244
+created:1582720021596
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c688469a-7417-4795-afd1-614dba54118d
+map.base:1b9c2724-c812-4ad4-81d3-eba4d9cd0605
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062244
+modified:1582720021596
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Hub Attestation Flows and Components/filter/edges
-tmap.id:a2f9b72c-3978-404b-9cb6-1af761561415
+tmap.id:f181c7d8-e243-42cb-b2a6-038eb6de087e
 type:text/vnd.tiddlywiki
 
 No body provided

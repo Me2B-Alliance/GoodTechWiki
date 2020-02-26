@@ -1,12 +1,12 @@
-created:1582719062136
-filter:[field:tmap.id[a240a765-5028-44d0-a73a-078c476c0a25]]
-map.base:a240a765-5028-44d0-a73a-078c476c0a25
+created:1582720021490
+filter:[field:tmap.id[3e42b4c1-ab8f-4ce8-ad04-a7a130f21c70]]
+map.base:3e42b4c1-ab8f-4ce8-ad04-a7a130f21c70
 map.role:node-filter
 map.type:neighbor
-modified:1582719062136
+modified:1582720021490
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fight For The Future/filter/nodes
-tmap.id:2319461e-91ad-4f9b-b349-c2bf7b5b8392
+tmap.id:5e68156f-2ecb-44d0-bdc8-a7e6223f3100
 type:text/vnd.tiddlywiki
 
 No body provided

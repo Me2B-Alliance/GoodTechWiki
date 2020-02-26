@@ -1,17 +1,17 @@
-config.central-topic:3a00605f-2837-456c-87f9-cb7dd8f065e8
+config.central-topic:3110a456-dc5b-45c5-a593-574d6cf19e3d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062266
-id:4faa8649-160d-4d84-a65a-629cda0fe9a1
+created:1582720021612
+id:305f02e0-e76f-40a3-a0c4-59e4ca6f3ad2
 isview:false
-map.base:3a00605f-2837-456c-87f9-cb7dd8f065e8
+map.base:3110a456-dc5b-45c5-a593-574d6cf19e3d
 map.role:definition
 map.type:neighbor
-modified:1582719062266
+modified:1582720021612
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Can the internet make a better contribution to children’s opportunities and well-being?
-tmap.id:4faa8649-160d-4d84-a65a-629cda0fe9a1
+tmap.id:305f02e0-e76f-40a3-a0c4-59e4ca6f3ad2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Can the internet make a better contribution to children’s opportunities and well-being?

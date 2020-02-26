@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[publication]] [[standard development]]
 audience:
 category:terms
-created:1582678071969
+created:1582720003596
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003596
 name:Common Terms
 parent.org:Metamatrix AB
 partners:
 people:
-purpose:[object Set]
+purpose:[[usability]] [[consumer support]] [[transparency and accountability]]
 relevant.publications:https://web.archive.org/web/20161021120859/http://www.commonterms.net/
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:Common Terms
 tmap.edges:{}
-tmap.id:fd19003b-a66d-43e6-9f3f-6f4ab662e084
+tmap.id:f751103e-8297-400b-a243-152561de48e3
 type:text/vnd.tiddlywiki
 url:http://commonterms.org/
 version.or.edition:
 working.group:
 
 The CommonTerms project aims to reduce the need for consenting to online terms without good reasons. This could make the internet a much better place for all, and contribute to digital sustainability.
-
 

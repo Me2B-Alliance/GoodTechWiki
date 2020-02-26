@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071967
+created:1582720003594
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,9 +11,9 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):[object Set]
+location(s):[[freienbach sz]] [[switzerland]]
 me2b.relationship:
-modified:1582678071967
+modified:1582720003594
 org.name:One.Thing.Less AG
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:One.Thing.Less AG
-tmap.edges:{"936809e6-6ab7-4eef-9b17-c1ee0d53b00f":{"to":"5747e28f-b78c-44dc-a83d-5cd2347c374a","type":"Organization Supports Project or Product"}}
-tmap.id:43c8bd79-fa96-438a-b808-ace4fc6e0fe0
+tmap.edges:{"6b2dddcc-235c-4012-90a5-c3fc3bddf599":{"to":"a64ba322-5464-4d08-b026-0a582d7e8aa1","type":"Organization Supports Project or Product"}}
+tmap.id:0ed877cb-88e2-4647-b024-fe631a9f817f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.onethingless.com/
@@ -39,5 +39,4 @@ We believe in a world with greater trust and respect for privacy between individ
 We do not judge if the use of personal data for a particular purpose violates your privacy. We believe that you are able to make this decision for yourself if you know how your personal data is being used and if you are given the option to change what you don’t like about it.
 
 This is our shared dream that inspires us to make a positive impact to the global community and remain the curious shapers we are.
-
 

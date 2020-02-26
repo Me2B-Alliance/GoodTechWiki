@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[standard development]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/open-data-foundation-inc-/about/
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:Open Data Foundation
 org.type:foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[usability]] [[tech interoperability]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:Data Mobility: analytics
 tiddler.classification:node
 title:Open Data Foundation
 tmap.edges:{}
-tmap.id:0efb9a79-0cdf-4dbc-a1fc-aec6702ba74f
+tmap.id:ad400fe7-d77f-411f-8163-69856864f8e1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://opendatafoundation.org/
 
 dedicated to the adoption of global metadata standards and the development of open-source solutions promoting the use of statistical data. We focus on improving data and metadata accessibility and overall quality in support of research, policy making, and transparency, in the fields of economics, finance, healthcare, education, labor, social science, technology, agriculture, development, and the environment. While we see this information as being primarily statistical in nature, it is understood that it can be drawn from a wide variety of sources and therefore may include information not traditionally seen as such.
-
 

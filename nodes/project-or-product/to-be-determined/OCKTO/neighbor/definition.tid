@@ -1,17 +1,17 @@
-config.central-topic:ffea94b4-ab29-4817-a057-25ba39bba868
+config.central-topic:85f3390b-868f-432e-ab09-96af1a241874
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062215
-id:01e18729-5faa-4772-b966-c5cd583eaf65
+created:1582720021573
+id:105ab79e-7bae-4914-92cb-5bef7d780ae3
 isview:false
-map.base:ffea94b4-ab29-4817-a057-25ba39bba868
+map.base:85f3390b-868f-432e-ab09-96af1a241874
 map.role:definition
 map.type:neighbor
-modified:1582719062215
+modified:1582720021573
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OCKTO
-tmap.id:01e18729-5faa-4772-b966-c5cd583eaf65
+tmap.id:105ab79e-7bae-4914-92cb-5bef7d780ae3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OCKTO

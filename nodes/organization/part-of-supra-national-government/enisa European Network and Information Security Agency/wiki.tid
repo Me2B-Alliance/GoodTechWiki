@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003363
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003363
 org.name:enisa European Network and Information Security Agency
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:enisa European Network and Information Security Agency
-tmap.edges:{"6f5a7994-af49-435b-8f1b-2f10b809a9db":{"to":"d5178bec-bff1-4b01-8181-ee9277b6cd0d","type":"government-connection"},"740c7632-b543-41e7-83cb-dc9fbef0b479":{"to":"9d79f983-6385-4e16-9194-51d5ed08c157","type":"sponsor"},"cefb1d58-29c6-49d7-a81b-b8f3a5478f5e":{"to":"c4c9049c-523b-46d4-b2bc-3f22fd253bd8","type":"convenor"},"71fcc358-b0e0-4aff-8188-9b1cff38d0cc":{"to":"3a7f3cc4-35e2-48c7-b4fe-7c572308d008","type":"author"}}
-tmap.id:b810e17a-8411-4d8a-867e-ddb9f17b082b
+tmap.edges:{"b4d2a555-556d-4ae4-91be-3f7b474344cf":{"to":"311dfdcd-72bd-4e76-8579-c6e8e6c03231","type":"government-connection"},"043891a8-3891-4b01-b6b5-c5fc0bf92a9a":{"to":"21c73a83-34a9-4809-8b8e-ebd16df5387d","type":"sponsor"},"1f8c40ca-dff9-4a1e-9314-524b23a79131":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"convenor"},"fca01fb7-4751-4fdb-ba0e-4ad6d1c23a43":{"to":"9e560f21-7131-404c-ad80-805bc0ac8f68","type":"author"}}
+tmap.id:2077e7ba-15bb-4d48-9feb-35765c8038b0
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.enisa.europa.eu/about-enisa
@@ -38,5 +38,4 @@ The European Union Agency for Network and Information Security (ENISA) is a cent
 ENISA is actively contributing to a high level of network and information security (NIS) within the Union, since it was set up in 2004, to the development of a culture of NIS in society and in order to raise awareness of NIS, thus contributing to proper functioning of the internal market.
 
 The Agency works closely together with Members States and private sector to deliver advice and solutions. This includes, the pan-European Cyber Security Exercises, the development of National Cyber Security Strategies, CSIRTs cooperation and capacity building, but also studies on secure Cloud adoption, addressing data protection issues, privacy enhancing technologies and privacy on emerging technologies, eIDs and trust services, and identifying the cyber threat landscape, and others. ENISA also supports the development and implementation of the European Union's policy and law on matters relating to NIS.
-
 

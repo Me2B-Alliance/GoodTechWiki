@@ -1,17 +1,17 @@
-config.central-topic:b3d8feca-b705-4e32-a8c2-656a0a19bf0f
+config.central-topic:19b7b4fe-770a-4530-97eb-06d75d1536c2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062277
-id:47fbabb7-19ee-4d23-917f-c1b73ea83cf7
+created:1582720021624
+id:3c92431b-663c-4bdd-b7ef-d2103e424094
 isview:false
-map.base:b3d8feca-b705-4e32-a8c2-656a0a19bf0f
+map.base:19b7b4fe-770a-4530-97eb-06d75d1536c2
 map.role:definition
 map.type:neighbor
-modified:1582719062277
+modified:1582720021624
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Data Protection Officers - DPO
-tmap.id:47fbabb7-19ee-4d23-917f-c1b73ea83cf7
+tmap.id:3c92431b-663c-4bdd-b7ef-d2103e424094
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on Data Protection Officers - DPO

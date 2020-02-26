@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071769
+created:1582720003387
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071769
+modified:1582720003387
 org.name:Microsoft
 org.type:company
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Microsoft
-tmap.edges:{"bf70798b-c23e-437e-b406-165c6bd17bf1":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"}}
-tmap.id:becc88da-36aa-4db8-8aba-793dfafbc9b7
+tmap.edges:{"8ccb7ee2-cd95-4b0d-8aba-857d2624794e":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
+tmap.id:50f72687-d993-4a46-936c-4e21ea2d8862
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

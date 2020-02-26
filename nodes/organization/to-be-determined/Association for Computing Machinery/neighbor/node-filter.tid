@@ -1,12 +1,12 @@
-created:1582719062132
-filter:[field:tmap.id[23b044b1-634e-4f55-b9d8-8a608b8764a4]]
-map.base:23b044b1-634e-4f55-b9d8-8a608b8764a4
+created:1582720021487
+filter:[field:tmap.id[8cc46919-ec7d-4494-9256-887d67eacb82]]
+map.base:8cc46919-ec7d-4494-9256-887d67eacb82
 map.role:node-filter
 map.type:neighbor
-modified:1582719062132
+modified:1582720021487
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Association for Computing Machinery/filter/nodes
-tmap.id:9514377e-abe9-4d74-9951-edd4c6c8f91f
+tmap.id:99a09cc6-581f-4b39-a315-6f61024db859
 type:text/vnd.tiddlywiki
 
 No body provided

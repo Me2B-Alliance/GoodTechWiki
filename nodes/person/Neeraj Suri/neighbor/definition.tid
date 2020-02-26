@@ -1,17 +1,17 @@
-config.central-topic:d192826c-c64b-40e5-a7ee-58b472bb41b3
+config.central-topic:4df3f5a5-4711-489f-8b7c-943b6a86a556
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062175
-id:819481d2-5f1b-4282-9fd0-7a4c03fe9409
+created:1582720021534
+id:a3a650ad-1a4f-4d7f-acb9-6222b26ed0bc
 isview:false
-map.base:d192826c-c64b-40e5-a7ee-58b472bb41b3
+map.base:4df3f5a5-4711-489f-8b7c-943b6a86a556
 map.role:definition
 map.type:neighbor
-modified:1582719062175
+modified:1582720021534
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Neeraj Suri
-tmap.id:819481d2-5f1b-4282-9fd0-7a4c03fe9409
+tmap.id:a3a650ad-1a4f-4d7f-acb9-6222b26ed0bc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Neeraj Suri

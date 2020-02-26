@@ -1,17 +1,17 @@
-config.central-topic:70f20f51-9c2b-466d-a283-2832aae1d457
+config.central-topic:fff2246e-e49d-4b6b-88c6-e7d51508e6a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062299
-id:d6a86789-1bd7-4c95-898c-5b795d4e78db
+created:1582720021643
+id:b12e0568-16e4-4d93-b160-d79a021af544
 isview:false
-map.base:70f20f51-9c2b-466d-a283-2832aae1d457
+map.base:fff2246e-e49d-4b6b-88c6-e7d51508e6a2
 map.role:definition
 map.type:neighbor
-modified:1582719062299
+modified:1582720021643
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The future of designing autonomous systems will involve ethnographers
-tmap.id:d6a86789-1bd7-4c95-898c-5b795d4e78db
+tmap.id:b12e0568-16e4-4d93-b160-d79a021af544
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The future of designing autonomous systems will involve ethnographers

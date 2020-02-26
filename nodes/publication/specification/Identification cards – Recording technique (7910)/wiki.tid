@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071724
+created:1582720003341
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071724
+modified:1582720003341
 name:Identification cards – Recording technique (7910)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Recording technique (7910)
-tmap.edges:{"e0ac3a48-346c-46ac-bbc1-dd822ba23b85":{"to":"58ae6940-aead-4164-a683-893351140005","type":"specification-of-group"}}
-tmap.id:84e4dce8-f5b0-498b-8dc8-2cf63043b64a
+tmap.edges:{"96d4fcb2-a4ea-4720-97b8-ca8d6dd3e0bd":{"to":"333a2663-73ee-4d9e-af49-350a3f2d1e64","type":"specification-of-group"}}
+tmap.id:d76b3461-d005-4164-afdb-ebca1e13c53f
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -27,5 +27,4 @@ working.group:
 
 This International standard is one of a series of standards describing the characteristics for identification cards as defined in the definitions clause and the use of such cards for international interchange.
 This International standard specifies the physical characteristics of identification cards including card materials, construction, characteristics, and dimensions for four sizes of cards.
-
 

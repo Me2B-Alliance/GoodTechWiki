@@ -1,12 +1,12 @@
-created:1582719062301
+created:1582720021645
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:492909b3-1569-48ff-8492-6aa064562e7c
+map.base:4ecb1544-8aae-4150-afd3-80bbb66eb6f4
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062301
+modified:1582720021645
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Weaponizing the Digital Influence Machine/filter/edges
-tmap.id:b240c99a-e1f5-4fd8-bf64-05b6cd7d97a1
+tmap.id:6c72e477-da4d-4516-9dd0-fa6192635272
 type:text/vnd.tiddlywiki
 
 No body provided

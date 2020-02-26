@@ -1,17 +1,17 @@
-config.central-topic:53268b8c-dcfd-4c22-9c07-525d662a5097
+config.central-topic:acc2cef2-95dc-4ab5-8331-f34c5298a3c1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062186
-id:63f31933-5352-4097-8418-c207b6aa84be
+created:1582720021543
+id:bc9c3031-d42a-4ae2-b71d-3f2120b50e96
 isview:false
-map.base:53268b8c-dcfd-4c22-9c07-525d662a5097
+map.base:acc2cef2-95dc-4ab5-8331-f34c5298a3c1
 map.role:definition
 map.type:neighbor
-modified:1582719062186
+modified:1582720021543
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data, Human Rights and Human Security (project-or-product)
-tmap.id:63f31933-5352-4097-8418-c207b6aa84be
+tmap.id:bc9c3031-d42a-4ae2-b71d-3f2120b50e96
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data, Human Rights and Human Security (project-or-product)

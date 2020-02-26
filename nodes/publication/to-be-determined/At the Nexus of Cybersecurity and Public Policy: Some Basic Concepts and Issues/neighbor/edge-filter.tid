@@ -1,12 +1,12 @@
-created:1582719062331
+created:1582720021674
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4fb348cb-9037-4abc-a473-09c8fee9a93a
+map.base:fad7b6e8-41a0-4c96-bf31-ff6489c51e0f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062331
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/At the Nexus of Cybersecurity and Public Policy: Some Basic Concepts and Issues/filter/edges
-tmap.id:88a905b1-dca3-4567-97f6-e392bccacbc8
+tmap.id:10fafaea-0507-4f5b-8a1a-5222f6ae1998
 type:text/vnd.tiddlywiki
 
 No body provided

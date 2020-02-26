@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (service)
-created:1582678071970
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003598
 name:DataGuidance by OneTrust
 parent.org:One Trust
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:DataGuidance by OneTrust
 tmap.edges:{}
-tmap.id:337ec7ab-173a-4a3c-a366-5ee985f432bb
+tmap.id:a63a7386-750f-42cc-80c7-aaf02b74692b
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/dataguidance-by-onetrust/
 version.or.edition:
 working.group:
 
 Organizations need actionable information to monitor and manage the complex legal and regulatory environments across privacy, security, and third-party risk compliance. DataGuidance by OneTrust is a dynamic regulatory research platform that gives organizations the tools they need to make the right decisions when building a successful compliance program.
-
 

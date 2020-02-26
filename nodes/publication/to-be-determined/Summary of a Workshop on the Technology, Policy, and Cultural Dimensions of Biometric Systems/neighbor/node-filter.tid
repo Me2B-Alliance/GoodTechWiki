@@ -1,12 +1,12 @@
-created:1582719062338
-filter:[field:tmap.id[02feed32-449f-43d8-950e-9722c064a1fc]]
-map.base:02feed32-449f-43d8-950e-9722c064a1fc
+created:1582720021681
+filter:[field:tmap.id[550b63a2-8b71-4715-84a9-6db691908731]]
+map.base:550b63a2-8b71-4715-84a9-6db691908731
 map.role:node-filter
 map.type:neighbor
-modified:1582719062338
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems/filter/nodes
-tmap.id:1c598d48-fef8-4181-8f1d-386ee2f316c8
+tmap.id:c87e8e2d-d8f8-4212-922b-d66b0d421676
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062157
+created:1582720021517
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b2f4661c-566c-479d-8cd8-d02a87f4726b
+map.base:1631f88c-e9e9-412c-886d-ec6bc61f2aa5
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062157
+modified:1582720021517
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Latin America and Caribbean Network Information Centre/filter/edges
-tmap.id:5f8653fa-4aca-4b5b-a716-8e749fd9da84
+tmap.id:47abedbe-7448-43d6-822f-cd5d093017c5
 type:text/vnd.tiddlywiki
 
 No body provided

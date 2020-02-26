@@ -1,12 +1,12 @@
-created:1582719062244
+created:1582720021597
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:908d8be9-d83a-4c53-b960-ff0c2c016ecb
+map.base:28fa6054-8110-46e3-a2aa-6c243e8f093b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062244
+modified:1582720021597
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Introduction to DID Auth/filter/edges
-tmap.id:2179ce99-a1d4-4a7a-a7b1-4e1073d46212
+tmap.id:73721b52-a029-468c-9991-8d868431551b
 type:text/vnd.tiddlywiki
 
 No body provided

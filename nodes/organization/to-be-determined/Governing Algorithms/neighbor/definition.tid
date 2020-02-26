@@ -1,17 +1,17 @@
-config.central-topic:1bd10ec6-c3b5-400b-a1a6-57f3035f3a16
+config.central-topic:c0dd3c4e-a242-42f4-8cc0-b18aa0d17250
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062139
-id:84b0335e-8447-4a3b-b9ad-c62a54ec1f4f
+created:1582720021492
+id:359f0c12-18fd-4ed0-bc37-22d190a4e8d4
 isview:false
-map.base:1bd10ec6-c3b5-400b-a1a6-57f3035f3a16
+map.base:c0dd3c4e-a242-42f4-8cc0-b18aa0d17250
 map.role:definition
 map.type:neighbor
-modified:1582719062139
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Governing Algorithms
-tmap.id:84b0335e-8447-4a3b-b9ad-c62a54ec1f4f
+tmap.id:359f0c12-18fd-4ed0-bc37-22d190a4e8d4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Governing Algorithms

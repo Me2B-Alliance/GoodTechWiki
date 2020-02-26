@@ -1,12 +1,12 @@
-created:1582719062311
+created:1582720021653
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a774091e-773c-41ba-b05c-ad4c5706ff88
+map.base:15027cfe-26b2-4983-ba2b-a358f67c9c9f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062311
+modified:1582720021653
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OAuth 2.0/filter/edges
-tmap.id:37909589-d82d-452f-b537-853d3d9fc524
+tmap.id:2cc3dfbe-63de-4ffb-a6d7-9f3e97bd4ca9
 type:text/vnd.tiddlywiki
 
 No body provided

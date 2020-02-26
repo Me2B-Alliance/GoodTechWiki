@@ -1,12 +1,12 @@
-created:1582719062342
+created:1582720021685
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:98e6f2f6-9e84-4790-a532-2e5ee7534755
+map.base:94ebb9d0-a352-4ce4-a806-1a2110a83db0
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062342
+modified:1582720021685
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on the Use of Deep Packet Inspection for Marketing Purposes/filter/edges
-tmap.id:6608a216-a24c-4c6e-8bbe-8faffbe93f63
+tmap.id:eedefd20-bbf0-4573-bf8e-6e77a5029903
 type:text/vnd.tiddlywiki
 
 No body provided

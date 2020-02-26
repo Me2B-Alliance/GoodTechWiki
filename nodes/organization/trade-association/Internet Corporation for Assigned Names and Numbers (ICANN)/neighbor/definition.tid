@@ -1,17 +1,17 @@
-config.central-topic:2c84c2a0-d61e-4027-95c7-7ed6ed845898
+config.central-topic:934918f2-265d-4b33-a1b4-724bf46ad77c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062156
-id:f0541e0a-3341-47c8-a386-b372c3f37a20
+created:1582720021516
+id:9487218b-5979-4cde-8470-7a8552cc215d
 isview:false
-map.base:2c84c2a0-d61e-4027-95c7-7ed6ed845898
+map.base:934918f2-265d-4b33-a1b4-724bf46ad77c
 map.role:definition
 map.type:neighbor
-modified:1582719062156
+modified:1582720021516
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Corporation for Assigned Names and Numbers (ICANN)
-tmap.id:f0541e0a-3341-47c8-a386-b372c3f37a20
+tmap.id:9487218b-5979-4cde-8470-7a8552cc215d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Internet Corporation for Assigned Names and Numbers (ICANN)

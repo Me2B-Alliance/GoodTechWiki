@@ -1,17 +1,17 @@
-config.central-topic:2e443777-09c2-449e-8fa1-f784656cc718
+config.central-topic:3d2b9d5a-d98e-4b79-b0ce-79c257eef29a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062156
-id:162a0a8f-8e16-4dfb-9dcf-f4d862b13fec
+created:1582720021514
+id:aee8dc94-ce50-492d-97a3-e5ec33893b38
 isview:false
-map.base:2e443777-09c2-449e-8fa1-f784656cc718
+map.base:3d2b9d5a-d98e-4b79-b0ce-79c257eef29a
 map.role:definition
 map.type:neighbor
-modified:1582719062156
+modified:1582720021514
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ITU-T  International Telecommunication Union
-tmap.id:162a0a8f-8e16-4dfb-9dcf-f4d862b13fec
+tmap.id:aee8dc94-ce50-492d-97a3-e5ec33893b38
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ITU-T  International Telecommunication Union

@@ -1,12 +1,12 @@
-created:1582719062253
-filter:[field:tmap.id[362c39a3-9fe0-4a3d-86a9-86de03734e90]]
-map.base:362c39a3-9fe0-4a3d-86a9-86de03734e90
+created:1582720021604
+filter:[field:tmap.id[d5fa4c26-fa7a-486e-9445-9220e77f0265]]
+map.base:d5fa4c26-fa7a-486e-9445-9220e77f0265
 map.role:node-filter
 map.type:neighbor
-modified:1582719062253
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSI: A Roadmap for Adoption/filter/nodes
-tmap.id:022f284a-b92a-4278-93e0-91a1be7b5d50
+tmap.id:72207968-73e6-45c9-8def-ad071efda3d0
 type:text/vnd.tiddlywiki
 
 No body provided

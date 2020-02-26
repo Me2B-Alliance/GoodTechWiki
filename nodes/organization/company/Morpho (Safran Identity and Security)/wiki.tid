@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071766
+created:1582720003385
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071766
+modified:1582720003385
 org.name:Morpho (Safran Identity and Security)
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Morpho (Safran Identity and Security)
-tmap.edges:{"35f37923-6ee5-420a-af57-91b7353291fe":{"to":"441e05bb-d980-4fd7-9728-4585f3a3633c","type":"executive-member"}}
-tmap.id:fe52ca00-a4c1-4958-8441-62e72d2509d8
+tmap.edges:{"89c689d4-41f7-45df-a982-73d868cbcb32":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"executive-member"}}
+tmap.id:0af0c83a-5840-4e71-8c33-0ae5748eb830
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.morpho.com/en
@@ -40,5 +40,4 @@ We employ more than 8,700 people in 57 countries and generated revenues of nearl
 Our solutions manage identities, secure payments and transactions and safeguard privacy, for an increasingly digital and connected world.
 
 We also contribute to supporting law enforcement and protecting borders, for safer and easier everyday lives.
-
 

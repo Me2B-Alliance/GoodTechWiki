@@ -1,12 +1,12 @@
-created:1582719062284
+created:1582720021631
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c720a8a4-7866-41d2-8405-158e8f7b294d
+map.base:4f1614d9-4e5e-4a57-8c45-f26e85f74e52
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062284
+modified:1582720021631
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mark Latonero: Data-Driven Tensions in Human Rights/filter/edges
-tmap.id:12bc7d8f-2909-4ebb-a7d6-2172e193f32c
+tmap.id:548cf73f-a8c3-4d25-9e56-980a6e33470f
 type:text/vnd.tiddlywiki
 
 No body provided

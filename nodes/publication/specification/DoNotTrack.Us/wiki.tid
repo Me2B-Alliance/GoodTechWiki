@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071723
+created:1582720003340
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071723
+modified:1582720003340
 name:DoNotTrack.Us
 publication.type:specification
 purpose:
@@ -17,14 +17,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:DoNotTrack.Us
-tmap.edges:{"8a155978-e645-444d-805c-f7adb70ff692":{"to":"684d54cf-c633-4565-ba68-288e1026eb09","type":"work"},"b2f457a2-770f-4fa9-8ce3-ed027b16db18":{"to":"096572fd-3831-4c74-9f58-828a520e635c","type":"work"},"c21bda1c-e371-4348-9947-2ce8b2b2c3d3":{"to":"2413ce39-0652-4572-a8d6-dda3c327f39f","type":"work"},"29943de2-b99e-4d84-b33d-244f2e9066d9":{"to":"fa8cf580-7d08-4989-9ad4-90e91c630460","type":"specification-of-group"},"a4c9de74-2947-4392-94ce-06cee3828776":{"to":"35197831-fb28-4894-a8f8-e08044496a6f","type":"work"}}
-tmap.id:040a278e-4e92-4a96-95c9-011fd56f0325
+tmap.edges:{"056975d1-aac3-480f-9942-3e4891c78c43":{"to":"4bfdae11-52b7-41cb-af26-4d1da84c38c0","type":"work"},"341da708-60be-48c5-9af4-068bf248147a":{"to":"b8bf4fc6-a5e2-4a3a-95a9-0ea61e72e998","type":"work"},"3f7e9164-15f6-4231-844f-b77fb73e5c61":{"to":"ca782739-33eb-447a-8c78-fa3d65f92378","type":"work"},"31a75ab9-0bf7-45cf-9c7f-72ed0bf05607":{"to":"46a70b33-5bb7-4220-8f56-2a8cfd253218","type":"specification-of-group"},"d3218372-599a-4b86-80c1-cb9d13491a30":{"to":"4dee3692-1e5b-4405-9621-31c79f299238","type":"work"}}
+tmap.id:09f64f23-5af8-4569-bf1b-df9d98a97fe0
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
-
 
 
 

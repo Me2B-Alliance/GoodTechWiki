@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003605
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003605
 name:Multihash
 publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[community specifications]]
 tech.focus:
 tiddler.classification:node
 title:Multihash
 tmap.edges:{}
-tmap.id:8b8d2aa9-a9b7-4797-a57c-a9ed6ac25775
+tmap.id:1e50e19a-4ccf-4150-9826-01e8f490ee16
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-dvcg/multihash
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 This specification describes a data model for expressing the output of cryptographic hash functions.
 
 Cryptographic hash functions often have multiple output sizes and encodings. This variability makes it difficult for applications to examine a series of bytes and determine which hash function produced them. Multihash is a universal data format for encoding outputs from hash functions. It is useful to write applications that can simultaneously support different hash function outputs as well as upgrade their use of hashes over time; Multihash is intended to address these needs.
-
 

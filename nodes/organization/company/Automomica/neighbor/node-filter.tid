@@ -1,12 +1,12 @@
-created:1582719062083
-filter:[field:tmap.id[76a0d747-824a-4e64-a166-95c03e9d3b2c]]
-map.base:76a0d747-824a-4e64-a166-95c03e9d3b2c
+created:1582720021435
+filter:[field:tmap.id[7da742bf-c40e-43d2-bc0e-3dab0a5d86b5]]
+map.base:7da742bf-c40e-43d2-bc0e-3dab0a5d86b5
 map.role:node-filter
 map.type:neighbor
-modified:1582719062083
+modified:1582720021435
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Automomica/filter/nodes
-tmap.id:d67469eb-1781-4408-9254-d3a08fd0b137
+tmap.id:3eb9dcd0-b2b0-4b62-b469-ef6db353be6a
 type:text/vnd.tiddlywiki
 
 No body provided

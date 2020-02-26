@@ -1,12 +1,12 @@
-created:1582719062274
+created:1582720021624
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0ed8518e-d5ad-421e-9abd-dd27525b4e81
+map.base:88be7677-ed84-44ca-9b9a-6654612e9c30
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062274
+modified:1582720021624
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GDPR: Guide for processors/filter/edges
-tmap.id:5c3087fb-4456-43f1-9816-469a0732ebe8
+tmap.id:621f2bb0-5248-47a1-9de0-9c9026a6aab6
 type:text/vnd.tiddlywiki
 
 No body provided

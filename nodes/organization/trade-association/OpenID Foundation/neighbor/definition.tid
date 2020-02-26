@@ -1,17 +1,17 @@
-config.central-topic:5ae49ba8-feea-4934-ac55-1730a84dcb0a
+config.central-topic:b96f25c7-de4d-4f8d-a9be-296ff6067335
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062161
-id:ae11087a-989b-4345-aa1c-30938d4fc8e7
+created:1582720021522
+id:b97cbac4-3870-413d-9b55-6a2a318c3dcb
 isview:false
-map.base:5ae49ba8-feea-4934-ac55-1730a84dcb0a
+map.base:b96f25c7-de4d-4f8d-a9be-296ff6067335
 map.role:definition
 map.type:neighbor
-modified:1582719062161
+modified:1582720021522
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Foundation
-tmap.id:ae11087a-989b-4345-aa1c-30938d4fc8e7
+tmap.id:b97cbac4-3870-413d-9b55-6a2a318c3dcb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OpenID Foundation

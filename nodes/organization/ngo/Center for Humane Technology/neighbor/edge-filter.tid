@@ -1,12 +1,12 @@
-created:1582719062108
+created:1582720021464
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f09d9680-9ebc-4e7b-828e-ee2fbf4bdea6
+map.base:01ba269c-3c46-4002-be1c-89902f7c039c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062108
+modified:1582720021464
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Center for Humane Technology/filter/edges
-tmap.id:8287eccc-df51-4920-8433-3871f6406c09
+tmap.id:16368e0e-1e89-4321-bf33-ec220466dede
 type:text/vnd.tiddlywiki
 
 No body provided

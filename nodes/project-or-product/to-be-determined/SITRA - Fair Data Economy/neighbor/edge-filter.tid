@@ -1,12 +1,12 @@
-created:1582719062215
+created:1582720021573
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:402f0734-1967-4af6-801a-9ff9dabf8f2b
+map.base:640db52f-9553-4801-bec2-d3bd739051cd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062215
+modified:1582720021573
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SITRA - Fair Data Economy/filter/edges
-tmap.id:2fb4e9ca-e62d-4d24-92c1-0db9b3f37db6
+tmap.id:427d7cae-1d8a-4adb-a474-ed9572a273e8
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062155
-filter:[field:tmap.id[e9ef5d73-40d4-4b2c-963c-228c95dd4820]]
-map.base:e9ef5d73-40d4-4b2c-963c-228c95dd4820
+created:1582720021512
+filter:[field:tmap.id[612ceb24-bd15-45ee-99dd-7adb66446ce4]]
+map.base:612ceb24-bd15-45ee-99dd-7adb66446ce4
 map.role:node-filter
 map.type:neighbor
-modified:1582719062155
+modified:1582720021512
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IETF(organization/trade association) (trade association)/filter/nodes
-tmap.id:d696b122-7834-4257-8959-9eb321148d5e
+tmap.id:c1a1efb8-5f88-413a-9f97-021bc2077ce6
 type:text/vnd.tiddlywiki
 
 No body provided

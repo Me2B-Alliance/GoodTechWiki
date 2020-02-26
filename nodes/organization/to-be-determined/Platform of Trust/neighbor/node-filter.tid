@@ -1,12 +1,12 @@
-created:1582719062144
-filter:[field:tmap.id[ad0b5ca0-403b-45b3-9780-1249dca19361]]
-map.base:ad0b5ca0-403b-45b3-9780-1249dca19361
+created:1582720021497
+filter:[field:tmap.id[7b91fc3f-cfea-4054-bf7f-0fa8cdffd9e2]]
+map.base:7b91fc3f-cfea-4054-bf7f-0fa8cdffd9e2
 map.role:node-filter
 map.type:neighbor
-modified:1582719062144
+modified:1582720021497
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform of Trust/filter/nodes
-tmap.id:2f80a1f7-efd7-4b0c-8b9e-6ea74a2580f8
+tmap.id:a313c002-0495-44d7-8adb-2ec3df8d6e94
 type:text/vnd.tiddlywiki
 
 No body provided

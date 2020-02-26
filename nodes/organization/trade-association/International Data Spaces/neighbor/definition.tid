@@ -1,17 +1,17 @@
-config.central-topic:a1d16f85-0f0a-4f1e-8685-b03ce53ccd88
+config.central-topic:89c08b40-da31-4e8b-b2e9-c215c4c545a1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062155
-id:0d90acf9-5255-468d-858e-a91923c283b7
+created:1582720021515
+id:5351d7c8-e54f-48ae-83af-adc93f4f14c9
 isview:false
-map.base:a1d16f85-0f0a-4f1e-8685-b03ce53ccd88
+map.base:89c08b40-da31-4e8b-b2e9-c215c4c545a1
 map.role:definition
 map.type:neighbor
-modified:1582719062155
+modified:1582720021515
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Data Spaces
-tmap.id:0d90acf9-5255-468d-858e-a91923c283b7
+tmap.id:5351d7c8-e54f-48ae-83af-adc93f4f14c9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of International Data Spaces

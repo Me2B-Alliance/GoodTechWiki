@@ -1,12 +1,12 @@
-created:1582719062117
+created:1582720021474
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0b54a118-e8dd-4a36-8604-f749789e9e0a
+map.base:a9994b9e-0264-439a-8923-bc565120dda1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062117
+modified:1582720021474
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Institute of Standards (NIST)/filter/edges
-tmap.id:b614ee05-ece7-49f6-9c04-0eb628344363
+tmap.id:8770a666-e713-4853-88ca-820f97886297
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[bonnie tijerina]] [[bex hurwitz]] [[seeta peña gangadharan]] [[nate hill]] [[melissa morrone]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Data Privacy Project
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[libraries and privacy]]
 tech.focus:
 tiddler.classification:node
 title:Data Privacy Project
 tmap.edges:{}
-tmap.id:2d7e1a32-11ce-4f4f-bb20-f207bb119b09
+tmap.id:59c0885d-87cb-4f1e-8343-b7fb43557ad7
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/data-privacy-project/
 version.or.edition:
@@ -33,5 +33,4 @@ In collaboration with New America, the Brooklyn Public Library, Research Action 
     Inspiration for the project began in 2012. Research done in part with collaboration from Brooklyn Public Library found that frontline library staff required training and ongoing support to better respond to patron needs regarding digital privacy or data profiling issues.1 The Data Privacy Project aims to meet that need. With additional training and easy step- by-step resource guides and straightforward training materials, we believe that libraries will be more likely to live up to their professional commitment to protecting patron privacy.
 
     As the Internet and its usage continue to influence and shape our lives, the issues of digital privacy and data profiling are central to policymaking and public debate. The extent of government surveillance programs, differential treatment of online consumers, and the need for protection of sensitive personal data have increased the urgency of addressing these matters.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:c919c2a0-f565-40ad-9250-7f5ffa249c8e
+config.central-topic:ace6fb70-095e-4ef7-aa4b-6829f616dd3c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062195
-id:678f117e-5168-46b8-978c-18bebdc0bf67
+created:1582720021550
+id:2d5930d5-3fa1-45a7-9209-fb8be10fbb16
 isview:false
-map.base:c919c2a0-f565-40ad-9250-7f5ffa249c8e
+map.base:ace6fb70-095e-4ef7-aa4b-6829f616dd3c
 map.role:definition
 map.type:neighbor
-modified:1582719062195
+modified:1582720021550
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SDNRG Software-Defined Networking Research Group
-tmap.id:678f117e-5168-46b8-978c-18bebdc0bf67
+tmap.id:2d5930d5-3fa1-45a7-9209-fb8be10fbb16
 type:text/vnd.tiddlywiki
 
 Neighbor Map of SDNRG Software-Defined Networking Research Group

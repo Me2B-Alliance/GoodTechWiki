@@ -1,12 +1,12 @@
-created:1582719062080
-filter:[field:tmap.id[f471281c-034e-463c-ba48-8c9b6eaf93ad]]
-map.base:f471281c-034e-463c-ba48-8c9b6eaf93ad
+created:1582720021433
+filter:[field:tmap.id[d973be5b-def1-459f-9cfc-874e33d74fa0]]
+map.base:d973be5b-def1-459f-9cfc-874e33d74fa0
 map.role:node-filter
 map.type:neighbor
-modified:1582719062080
+modified:1582720021433
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Workshop on Trustworthy Algorithmic Decision-Making/filter/nodes
-tmap.id:a5d4c5e1-1541-4872-b652-6c96d054b1c9
+tmap.id:516b214a-a52d-4d0f-bc5e-98d058ddbe3e
 type:text/vnd.tiddlywiki
 
 No body provided

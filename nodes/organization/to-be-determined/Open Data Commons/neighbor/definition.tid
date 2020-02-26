@@ -1,17 +1,17 @@
-config.central-topic:be23e8ed-7649-4c26-a793-b13ad1cbe77b
+config.central-topic:b81e7123-2180-47fe-b06d-229b2acb7426
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062142
-id:deac5e05-709b-4a60-be37-ed154920f91d
+created:1582720021496
+id:73c77c61-d5a8-45c7-954b-bfb825bb5850
 isview:false
-map.base:be23e8ed-7649-4c26-a793-b13ad1cbe77b
+map.base:b81e7123-2180-47fe-b06d-229b2acb7426
 map.role:definition
 map.type:neighbor
-modified:1582719062142
+modified:1582720021496
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Commons
-tmap.id:deac5e05-709b-4a60-be37-ed154920f91d
+tmap.id:73c77c61-d5a8-45c7-954b-bfb825bb5850
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Data Commons

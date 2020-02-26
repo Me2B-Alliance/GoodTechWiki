@@ -1,12 +1,12 @@
-created:1582719062366
-filter:[field:tmap.id[cfa57e84-f2ba-4529-a52e-53df67e5e949]]
-map.base:cfa57e84-f2ba-4529-a52e-53df67e5e949
+created:1582720021703
+filter:[field:tmap.id[c1fffb0b-8986-4642-b22b-7fee54e55d4e]]
+map.base:c1fffb0b-8986-4642-b22b-7fee54e55d4e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062366
+modified:1582720021703
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SAML - Security Assertion Markup Language/filter/nodes
-tmap.id:becf4eb8-1e74-41b2-9705-9c1173ea4466
+tmap.id:dfe7055e-77d9-4f39-9471-e8a2cef8c89f
 type:text/vnd.tiddlywiki
 
 No body provided

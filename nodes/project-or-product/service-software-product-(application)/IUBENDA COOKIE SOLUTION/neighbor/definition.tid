@@ -1,17 +1,17 @@
-config.central-topic:efdb0c51-0e01-49fd-8eac-2346eab1940b
+config.central-topic:d9a7a3e4-ccfc-4536-ae18-a9a0a2a3f647
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534886
-id:984b8249-3055-4ae7-b2f2-a59b82d8580f
+created:1582720021563
+id:8f3076d5-06a6-45f1-be20-a3d571041fa4
 isview:false
-map.base:efdb0c51-0e01-49fd-8eac-2346eab1940b
+map.base:d9a7a3e4-ccfc-4536-ae18-a9a0a2a3f647
 map.role:definition
 map.type:neighbor
-modified:1582714534886
+modified:1582720021563
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/IUBENDA COOKIE SOLUTION-map
-tmap.id:984b8249-3055-4ae7-b2f2-a59b82d8580f
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IUBENDA COOKIE SOLUTION
+tmap.id:8f3076d5-06a6-45f1-be20-a3d571041fa4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IUBENDA COOKIE SOLUTION

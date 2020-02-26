@@ -1,12 +1,12 @@
-created:1582719062279
+created:1582720021626
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:075c7b4a-f959-4f39-b36c-aeeffca58ccd
+map.base:23c99d8a-7d21-42af-83d9-7cef029361ee
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062279
+modified:1582720021626
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hacking the Attention Economy/filter/edges
-tmap.id:922babfb-98e1-4889-8477-b837080b09d9
+tmap.id:ea1538a7-65d7-456e-9b2c-bb1494bc738b
 type:text/vnd.tiddlywiki
 
 No body provided

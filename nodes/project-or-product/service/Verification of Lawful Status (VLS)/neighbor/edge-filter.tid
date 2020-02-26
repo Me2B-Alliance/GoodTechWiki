@@ -1,12 +1,12 @@
-created:1582719062204
+created:1582720021559
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c2ad032e-8ad9-441d-a5fe-79b484ed91ce
+map.base:44586c1f-9fa2-4839-8694-321d3bc056e9
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062204
+modified:1582720021559
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verification of Lawful Status (VLS)/filter/edges
-tmap.id:949d2a4f-e278-4cf0-80c1-6f8195c567fa
+tmap.id:811c6f8f-f01e-4e6a-a0be-54e98d84c630
 type:text/vnd.tiddlywiki
 
 No body provided

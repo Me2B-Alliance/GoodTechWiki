@@ -1,12 +1,12 @@
-created:1582719062316
+created:1582720021650
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:096572fd-3831-4c74-9f58-828a520e635c
+map.base:b8bf4fc6-a5e2-4a3a-95a9-0ea61e72e998
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062316
+modified:1582720021650
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Do Not Track: A Universal Third-Party Web Tracking Opt Out/filter/edges
-tmap.id:6377db29-d3ac-46e3-9b5c-322152e4207b
+tmap.id:b018a8d9-b879-42b8-a475-e36d00b80f70
 type:text/vnd.tiddlywiki
 
 No body provided

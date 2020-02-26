@@ -1,12 +1,12 @@
-created:1582719062156
+created:1582720021514
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2e443777-09c2-449e-8fa1-f784656cc718
+map.base:3d2b9d5a-d98e-4b79-b0ce-79c257eef29a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062156
+modified:1582720021514
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ITU-T  International Telecommunication Union/filter/edges
-tmap.id:23104094-32d1-4561-8246-848fdeaeb6a8
+tmap.id:2aa3312f-8f17-409d-a6fc-6f4d789b6fd5
 type:text/vnd.tiddlywiki
 
 No body provided

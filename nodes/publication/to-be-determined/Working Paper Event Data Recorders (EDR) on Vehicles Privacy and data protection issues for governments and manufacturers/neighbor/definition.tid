@@ -1,17 +1,17 @@
-config.central-topic:dbad0f4c-c043-4dc7-bd65-193316d945fe
+config.central-topic:56e2784f-a9a1-4594-95c3-8008e729268b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062340
-id:37c49788-3d20-45ef-b15f-4e5968d314d8
+created:1582720021683
+id:ada12372-825c-429b-a99c-21c28af4ca4d
 isview:false
-map.base:dbad0f4c-c043-4dc7-bd65-193316d945fe
+map.base:56e2784f-a9a1-4594-95c3-8008e729268b
 map.role:definition
 map.type:neighbor
-modified:1582719062340
+modified:1582720021683
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers
-tmap.id:37c49788-3d20-45ef-b15f-4e5968d314d8
+tmap.id:ada12372-825c-429b-a99c-21c28af4ca4d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers

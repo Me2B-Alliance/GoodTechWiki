@@ -1,12 +1,12 @@
-created:1582719062215
+created:1582720021572
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:420b8a61-4261-4b91-8c37-b5ace7253bf7
+map.base:446ce21e-0e36-4906-ac22-385138ae95bd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062215
+modified:1582720021572
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fight for the Future Projects/filter/edges
-tmap.id:71bf809a-bb31-4643-ab7f-6185aac4cb35
+tmap.id:3f141061-f1f1-40f8-b046-9a07e8794e52
 type:text/vnd.tiddlywiki
 
 No body provided

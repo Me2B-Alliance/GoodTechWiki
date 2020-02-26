@@ -1,17 +1,17 @@
-config.central-topic:d2540e0d-33e4-4a23-befd-293d0c5004dc
+config.central-topic:88a76c90-cb6b-4a93-a5a3-e1f93f6fe1e9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062099
-id:cb8cdadc-517c-43c2-94cd-a9550767badf
+created:1582720021455
+id:8fe97ff1-7644-4ea0-baf6-eabc5b06af69
 isview:false
-map.base:d2540e0d-33e4-4a23-befd-293d0c5004dc
+map.base:88a76c90-cb6b-4a93-a5a3-e1f93f6fe1e9
 map.role:definition
 map.type:neighbor
-modified:1582719062099
+modified:1582720021455
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/comsign
-tmap.id:cb8cdadc-517c-43c2-94cd-a9550767badf
+tmap.id:8fe97ff1-7644-4ea0-baf6-eabc5b06af69
 type:text/vnd.tiddlywiki
 
 Neighbor Map of comsign

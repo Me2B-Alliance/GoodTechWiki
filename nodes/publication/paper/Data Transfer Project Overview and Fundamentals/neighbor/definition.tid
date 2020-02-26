@@ -1,17 +1,17 @@
-config.central-topic:3feab6e4-e260-4fb7-8757-e029ce3f7ab9
+config.central-topic:3d55fcdd-d133-4b8b-81fc-80e6256d5910
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062238
-id:90000c04-1e9a-4b62-a9bc-95ca34f33fc3
+created:1582720021592
+id:57f7bbf2-eaa6-48b9-907f-afda6b783d64
 isview:false
-map.base:3feab6e4-e260-4fb7-8757-e029ce3f7ab9
+map.base:3d55fcdd-d133-4b8b-81fc-80e6256d5910
 map.role:definition
 map.type:neighbor
-modified:1582719062238
+modified:1582720021592
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Transfer Project Overview and Fundamentals
-tmap.id:90000c04-1e9a-4b62-a9bc-95ca34f33fc3
+tmap.id:57f7bbf2-eaa6-48b9-907f-afda6b783d64
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Transfer Project Overview and Fundamentals

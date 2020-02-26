@@ -1,17 +1,17 @@
-config.central-topic:53fd78ff-bd1c-4d64-9c0a-381f8ee50aa8
+config.central-topic:fa95087a-8888-4883-91d0-0bf229655ebe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062095
-id:c97c2f45-4e86-4f7c-9d9b-a09c4b595713
+created:1582720021452
+id:fffa4b74-d670-45a9-b1ac-f43c34b093e0
 isview:false
-map.base:53fd78ff-bd1c-4d64-9c0a-381f8ee50aa8
+map.base:fa95087a-8888-4883-91d0-0bf229655ebe
 map.role:definition
 map.type:neighbor
-modified:1582719062095
+modified:1582720021452
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Salesforce
-tmap.id:c97c2f45-4e86-4f7c-9d9b-a09c4b595713
+tmap.id:fffa4b74-d670-45a9-b1ac-f43c34b093e0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Salesforce

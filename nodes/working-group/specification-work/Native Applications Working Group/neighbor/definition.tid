@@ -1,17 +1,17 @@
-config.central-topic:b079a3bf-0706-4403-828c-25ab8508b95e
+config.central-topic:0d8797a6-4205-4ee6-84d5-bdb6a45e558e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062363
-id:1307554a-20d9-45f2-b442-98a37c811f4b
+created:1582720021701
+id:79a25360-2fe4-470e-bc34-2defc2f52026
 isview:false
-map.base:b079a3bf-0706-4403-828c-25ab8508b95e
+map.base:0d8797a6-4205-4ee6-84d5-bdb6a45e558e
 map.role:definition
 map.type:neighbor
-modified:1582719062363
+modified:1582720021701
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Native Applications Working Group
-tmap.id:1307554a-20d9-45f2-b442-98a37c811f4b
+tmap.id:79a25360-2fe4-470e-bc34-2defc2f52026
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Native Applications Working Group

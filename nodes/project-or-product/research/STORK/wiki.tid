@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071733
+created:1582720003350
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071733
+modified:1582720003350
 name:STORK
 parent.org:
 partners:
@@ -18,12 +18,12 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[europe]]
 terms.of.service:
 tiddler.classification:node
 title:STORK
-tmap.edges:{"259f298a-1c92-4dfb-9fea-2e39a4b5a404":{"to":"827e4d1e-4e18-42fb-b649-39b5eb5cab37","type":"connection"}}
-tmap.id:cdafb85d-4912-4f1b-9d04-675f2b905d95
+tmap.edges:{"3cf2fd7d-2c55-40f1-956e-643feb3a9f5a":{"to":"8b8c1e3f-ac83-48c3-8aa4-1930a327219c","type":"connection"}}
+tmap.id:0dcd375e-c299-4335-b3ff-f2226b925a8a
 type:text/vnd.tiddlywiki
 url:https://www.eid-stork.eu
 version.or.edition:
@@ -42,5 +42,4 @@ The role of the STORK platform is to identify a user who is in a session with a 
 The platform will not store any personal data, so no data can be lost.
 
 This user centric approach was not taken to satisfy some philosophical preferences, but in line with the legislative requirements of all the various countries involved that oblige concrete measures to be taken to guarantee that a citizen's fundamental rights, such as his privacy, are respected.
-
 

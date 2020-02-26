@@ -1,19 +1,19 @@
-activities:[object Set]
+activities:[[research]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
-digital.harms.addressed:[object Set]
+digital.harms.addressed:[[exposure]]
 element.type:organization
 funding:DHS: NIST
 github.profile:https://github.com/privacypatterns
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):[object Set]
+location(s):[[san francisco bay area]]
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:Privacy Patterns.org
 org.type:to-be-determined
 parent.org:
@@ -24,16 +24,15 @@ relevant.publications:
 scope:
 sector:academic
 status:
-tags:[object Set]
+tags:[[privacy]]
 tech.focus:
 tiddler.classification:node
 title:Privacy Patterns.org
 tmap.edges:{}
-tmap.id:4116ed2f-946b-4156-bc7e-0423ef19ae61
+tmap.id:c0e2bc5b-71ab-4238-85fb-fb3f592cb693
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://privacypatterns.org/about/
 
 Our goal is for this to be a living document constructed by the community of engineers: designers: lawyers and regulators involved in this topic.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:0bdc0235-6c6d-403a-a728-d203399a966a
+config.central-topic:629e998c-3011-4285-a2d2-85827c7113ee
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062147
-id:93960f23-bd08-47b1-bf21-1abd81650861
+created:1582720021501
+id:60e265a4-536c-4821-9987-1acf61df3f5f
 isview:false
-map.base:0bdc0235-6c6d-403a-a728-d203399a966a
+map.base:629e998c-3011-4285-a2d2-85827c7113ee
 map.role:definition
 map.type:neighbor
-modified:1582719062147
+modified:1582720021501
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Yellowtail
-tmap.id:93960f23-bd08-47b1-bf21-1abd81650861
+tmap.id:60e265a4-536c-4821-9987-1acf61df3f5f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Yellowtail

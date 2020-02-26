@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[madeleine clare elish]] [[elizabeth watkins]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:When Humans Attack
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ai on the ground]]
 tech.focus:
 tiddler.classification:node
 title:When Humans Attack
 tmap.edges:{}
-tmap.id:7baf5ca3-5e28-405e-8aa7-1539198d71a5
+tmap.id:dc86c527-5b6a-49dd-a378-c434a3b16da5
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/when-humans-attack/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 As AI becomes integrated into our everyday lives, how might it be gamed by humans, and how should we reconceptualize our notions of security? “It is imperative to leverage...
-
 

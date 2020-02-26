@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (application)
-created:1582678071970
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,26 +10,25 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003597
 name:I Shared What?!
 parent.org:Independent
 partners:
-people:[object Set]
+people:[[joe andrieu]]
 purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[facebook]]
 terms.of.service:
 tiddler.classification:node
 title:I Shared What?!
 tmap.edges:{}
-tmap.id:382076d9-831d-483a-81ab-f01af5c2b7cc
+tmap.id:0a5cf58f-f47e-4dda-8102-d12e1e50529b
 type:text/vnd.tiddlywiki
 url:https://web.archive.org/web/20190809094343/http://isharedwhat.com/
 version.or.edition:
 working.group:
 
 Shows Facebook information you shared by default.
-
 

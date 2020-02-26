@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071734
+created:1582720003352
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071734
+modified:1582720003352
 name:WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)
 tmap.edges:{}
-tmap.id:2ab52707-1c7e-41c6-8a6a-674953f81f46
+tmap.id:24341576-6a1c-4044-99a1-582c311ade29
 type:text/vnd.tiddlywiki
 url:http://witdom.eu
 version.or.edition:
@@ -38,5 +38,4 @@ While currently there are solid bases for homomorphic cryptography and secure pr
 Moreover, research and Innovation in this field cannot ignore the fundamental impact of the EU data protection regulation on the evolution of Cloud-related environments and in the processing of personal and sensitive data.
 
 Finally WITDOM’s innovations deals with the instantiation of the developed framework, platform and tools in two carefully chosen use-case scenarios from the eHealth and Financial services sectors, whose impact and sensitivity of the involved data make privacy a must, and where privacy and confidentiality constraints is a true barrier for profiting from the benefits of outsourced architectures and Cloud-based deployments.
-
 

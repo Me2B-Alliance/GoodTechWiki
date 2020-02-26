@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[publication]] [[movement building]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:
 input.source:me2b
-key.people:[object Set]
+key.people:[[doc & joyce searls]] [[mary hodder]] [[iain henderson]] [[nitin badjatia]]
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071964
+me2b.relationship:[[tbd]]
+modified:1582720003590
 org.name:Customer Commons
 org.type:ngo
 parent.org:Berkman Klein Center for Internet and Society at Harvard University
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[consumer support]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Customer Commons (organization)
 tmap.edges:{}
-tmap.id:304f5327-d1e3-467b-8472-f4c1494098b7
+tmap.id:83c2462d-da16-42bd-a161-e9ba26b77aee
 twitter.profile:https://twitter.com/customercommons
 type:text/vnd.tiddlywiki
 website:http://customercommons.org/
@@ -37,5 +37,4 @@ website:http://customercommons.org/
 Customer Commons’ mission is to restore the balance of power: respect and trust between individuals and organizations that serve them: and does not take contributions from commercial entities. 
 
 As a public-facing organization focused on emerging issues at the intersection of empowered customers and the public good: Customer Commons seeks to both educate and inspire change for customers worldwide. We do this through research: educational initiatives and promotion of customer-side tools.
-
 

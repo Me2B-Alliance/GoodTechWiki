@@ -1,17 +1,17 @@
-config.central-topic:d876917e-c001-4246-978b-6bd5257f769f
+config.central-topic:45e4d5d0-940c-4e01-8ef0-f9716f7b493f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062124
-id:571db2e3-6a5a-4220-b083-e9bd6433d059
+created:1582720021480
+id:3ed78f54-70e4-47d9-9e95-cc6a601685b2
 isview:false
-map.base:d876917e-c001-4246-978b-6bd5257f769f
+map.base:45e4d5d0-940c-4e01-8ef0-f9716f7b493f
 map.role:definition
 map.type:neighbor
-modified:1582719062124
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Interoperability Framework Observatory (NIFO)
-tmap.id:571db2e3-6a5a-4220-b083-e9bd6433d059
+tmap.id:3ed78f54-70e4-47d9-9e95-cc6a601685b2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of National Interoperability Framework Observatory (NIFO)

@@ -1,17 +1,17 @@
-config.central-topic:d6ade0fa-4119-4819-b7a1-56578b6e72b5
+config.central-topic:0dfa8e42-7156-401f-8b7a-c13cd1748c5d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062097
-id:b7a82cb7-1462-4ca0-b2f2-2533d35a7202
+created:1582720021453
+id:135f4c69-d9d5-459b-86d6-a15aac1164cc
 isview:false
-map.base:d6ade0fa-4119-4819-b7a1-56578b6e72b5
+map.base:0dfa8e42-7156-401f-8b7a-c13cd1748c5d
 map.role:definition
 map.type:neighbor
-modified:1582719062097
+modified:1582720021453
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Cyber Independent Testing Lab:
-tmap.id:b7a82cb7-1462-4ca0-b2f2-2533d35a7202
+tmap.id:135f4c69-d9d5-459b-86d6-a15aac1164cc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Cyber Independent Testing Lab:

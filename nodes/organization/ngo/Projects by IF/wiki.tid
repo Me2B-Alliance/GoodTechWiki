@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[publication]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/projectsbyif
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/projects-by-if/
-location(s):[object Set]
+location(s):[[london]]
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:Projects by IF
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]] [[human rights]] [[usability]]
 relevant.publications:
 scope:
 sector:
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Projects by IF
 tmap.edges:{}
-tmap.id:123e3d91-0d2c-4e22-b182-f254d155645d
+tmap.id:a49f8956-a841-4d1d-8467-a4388b3b221d
 twitter.profile:https://twitter.com/@projectsbyif
 type:text/vnd.tiddlywiki
 website:https://www.projectsbyif.com/
 
 IF has unrivalled expertise in making ethical data use delightful and commercially viable. We prototype products worth trusting and, working with companies, we test and research tomorrow's technologies so they serve people.
-
 

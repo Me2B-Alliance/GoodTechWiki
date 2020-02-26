@@ -1,12 +1,12 @@
-created:1582719062279
+created:1582720021627
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:962293e7-a83e-466b-8968-e2bb4d3f5601
+map.base:594c7ea9-36b9-43e7-96f7-aa777994a3a6
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062279
+modified:1582720021627
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How do you deal with a problem like “fake news?”/filter/edges
-tmap.id:e558d4ab-4412-446e-8f9b-d13e1b1c97f0
+tmap.id:c9ed1beb-2d3a-422b-8f70-e8b428a5cf96
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:359f622d-7d04-463f-a175-5a6b4783eb28
+config.central-topic:7cd0401e-8c96-46e5-9461-5b02cf565ac6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062158
-id:3de863fa-8f7f-4b36-b6a9-d25ffea0b5ce
+created:1582720021517
+id:beabbea4-be32-4d1a-a73c-153550d6b296
 isview:false
-map.base:359f622d-7d04-463f-a175-5a6b4783eb28
+map.base:7cd0401e-8c96-46e5-9461-5b02cf565ac6
 map.role:definition
 map.type:neighbor
-modified:1582719062158
+modified:1582720021517
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NASCIO
-tmap.id:3de863fa-8f7f-4b36-b6a9-d25ffea0b5ce
+tmap.id:beabbea4-be32-4d1a-a73c-153550d6b296
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NASCIO

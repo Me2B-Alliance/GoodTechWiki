@@ -1,12 +1,12 @@
-created:1582719062177
-filter:[field:tmap.id[0a95245a-9640-48e7-ba94-3c01e280d60d]]
-map.base:0a95245a-9640-48e7-ba94-3c01e280d60d
+created:1582720021539
+filter:[field:tmap.id[03efdb24-c563-49ad-be12-a93fc009eb1c]]
+map.base:03efdb24-c563-49ad-be12-a93fc009eb1c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062177
+modified:1582720021539
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thomas Hardjono/filter/nodes
-tmap.id:7ec04be1-6f75-4778-afa9-b196e519ebd0
+tmap.id:6fafbfb3-da02-4b1b-8c5f-63e4666f4eac
 type:text/vnd.tiddlywiki
 
 No body provided

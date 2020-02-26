@@ -1,12 +1,12 @@
-created:1582719062105
-filter:[field:tmap.id[e98dd8e6-59fe-422f-bd79-bc11fd939c38]]
-map.base:e98dd8e6-59fe-422f-bd79-bc11fd939c38
+created:1582720021460
+filter:[field:tmap.id[aadc8ff9-6d45-409d-9830-6a6874ba4245]]
+map.base:aadc8ff9-6d45-409d-9830-6a6874ba4245
 map.role:node-filter
 map.type:neighbor
-modified:1582719062105
+modified:1582720021460
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/New Zealand/filter/nodes
-tmap.id:fb8d06da-ef57-4d84-a4aa-7fa3cab5e051
+tmap.id:edd53686-7a5e-4fe8-a13a-470b5f561a3b
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062285
+created:1582720021631
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8ea3cabc-8b81-4917-8ed7-30b1599d5f57
+map.base:1014ebf7-3081-48f3-b7dc-e3d3a128b3d3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062285
+modified:1582720021631
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MyGymWorld.Club(publication/report) (publication)/filter/edges
-tmap.id:39d44333-48f8-428e-8db4-db2cf041bb4b
+tmap.id:7387b877-9a2d-4323-8977-dc1313efd984
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:fbb7108a-c943-4875-ac10-44638261cf70
+config.central-topic:de11cdc3-3205-41aa-a4cc-3eb83107b429
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062098
-id:acc61a0e-af55-49f8-b51c-8a457d308f4a
+created:1582720021454
+id:ee84af23-9637-4662-89db-6540319cf48e
 isview:false
-map.base:fbb7108a-c943-4875-ac10-44638261cf70
+map.base:de11cdc3-3205-41aa-a4cc-3eb83107b429
 map.role:definition
 map.type:neighbor
-modified:1582719062098
+modified:1582720021454
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Truxtun Capital
-tmap.id:acc61a0e-af55-49f8-b51c-8a457d308f4a
+tmap.id:ee84af23-9637-4662-89db-6540319cf48e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Truxtun Capital

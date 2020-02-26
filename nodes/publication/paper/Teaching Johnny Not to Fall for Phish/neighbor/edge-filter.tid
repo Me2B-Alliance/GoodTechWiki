@@ -1,12 +1,12 @@
-created:1582719062256
+created:1582720021604
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b498ed56-5c0a-4c38-80f3-c3928ab8806f
+map.base:ad7a0e74-9b6a-41ca-b86d-bdfa4fc53e1e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062256
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Teaching Johnny Not to Fall for Phish/filter/edges
-tmap.id:c7271a8c-a72a-480f-8548-53cf3d1e1b38
+tmap.id:9426ca33-8495-4aa6-9e35-331ee9dc64fa
 type:text/vnd.tiddlywiki
 
 No body provided

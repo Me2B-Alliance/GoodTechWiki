@@ -1,17 +1,17 @@
-config.central-topic:a4fa4453-b183-4516-a528-81cd600405cf
+config.central-topic:69f3ffc6-f7db-48f2-b213-6114da5c244f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062211
-id:2acf3348-4d3c-465c-9f6e-d80c78c0d22f
+created:1582720021566
+id:ec019737-0cf7-4d0a-8e2b-fa3a9b771288
 isview:false
-map.base:a4fa4453-b183-4516-a528-81cd600405cf
+map.base:69f3ffc6-f7db-48f2-b213-6114da5c244f
 map.role:definition
 map.type:neighbor
-modified:1582719062211
+modified:1582720021566
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Integrations Marketplace
-tmap.id:2acf3348-4d3c-465c-9f6e-d80c78c0d22f
+tmap.id:ec019737-0cf7-4d0a-8e2b-fa3a9b771288
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust Integrations Marketplace

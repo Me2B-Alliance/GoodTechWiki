@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:Schluss
 org.type:to-be-determined
 parent.org:
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Schluss
 tmap.edges:{}
-tmap.id:6514aef9-0338-44d6-80aa-fe6faa602d99
+tmap.id:87769d27-d63d-4946-a4a6-22d172dfb520
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.schluss.org/
@@ -39,5 +39,4 @@ With Schluss, you - and only you - decide who gets which information about you o
 Help us to change the Internet.
 To give the power back to the user.
 Join us.
-
 

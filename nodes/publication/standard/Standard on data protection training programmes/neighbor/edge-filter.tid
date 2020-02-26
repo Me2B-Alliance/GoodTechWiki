@@ -1,12 +1,12 @@
-created:1582719062329
+created:1582720021672
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:73e97559-4a5f-449b-bc40-9e4045b8c9cb
+map.base:371ae1b5-6e82-45a3-a309-c37e30d25874
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062329
+modified:1582720021672
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Standard on data protection training programmes/filter/edges
-tmap.id:dd13cb1f-121d-4929-a878-ca181f5336ce
+tmap.id:3894a341-d7e9-410d-8851-d26aa6d66624
 type:text/vnd.tiddlywiki
 
 No body provided

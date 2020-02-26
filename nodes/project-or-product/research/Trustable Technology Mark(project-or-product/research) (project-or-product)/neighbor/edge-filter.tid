@@ -1,12 +1,12 @@
-created:1582719062197
+created:1582720021552
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6cccd271-8563-4bc5-b697-0797193b12c7
+map.base:6bcaadcd-36d5-4835-bbf2-9218eb2f89b4
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062197
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustable Technology Mark(project-or-product/research) (project-or-product)/filter/edges
-tmap.id:d8e3e987-24af-4ca1-8bf4-cdc99a271aa9
+tmap.id:1cc38292-4b12-46d0-b97c-e6e4e7115265
 type:text/vnd.tiddlywiki
 
 No body provided

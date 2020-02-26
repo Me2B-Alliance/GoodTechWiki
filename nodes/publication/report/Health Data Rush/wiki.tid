@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[kadija ferryman]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Health Data Rush
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[health and data]]
 tech.focus:
 tiddler.classification:node
 title:Health Data Rush
 tmap.edges:{}
-tmap.id:956cbb1f-175d-4d88-8d77-cdbaee48076e
+tmap.id:a3af6cad-f6eb-4e79-a205-b6ecc4195aba
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/health-data-rush/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 As data becomes more prevalent in the health world, Data & Society Postdoctoral Scholar Kadija Ferryman urges us to consider how we will regulate its collection and usage. “As...
-
 

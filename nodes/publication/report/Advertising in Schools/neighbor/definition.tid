@@ -1,17 +1,17 @@
-config.central-topic:c90df36b-095e-4945-a381-e7e4e364fa8e
+config.central-topic:a5835df0-c828-4623-b15b-8e78f9b357bb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062263
-id:2d6de729-bbf6-4a15-9603-a4857e6d8d5d
+created:1582720021609
+id:6e35fa63-e838-41c2-8040-9b2cce4cac00
 isview:false
-map.base:c90df36b-095e-4945-a381-e7e4e364fa8e
+map.base:a5835df0-c828-4623-b15b-8e78f9b357bb
 map.role:definition
 map.type:neighbor
-modified:1582719062263
+modified:1582720021609
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Advertising in Schools
-tmap.id:2d6de729-bbf6-4a15-9603-a4857e6d8d5d
+tmap.id:6e35fa63-e838-41c2-8040-9b2cce4cac00
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Advertising in Schools

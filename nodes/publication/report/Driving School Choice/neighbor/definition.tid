@@ -1,17 +1,17 @@
-config.central-topic:81e4684f-e866-4d7c-909d-c2d3b83ef3e3
+config.central-topic:e7dc6e91-3543-48e1-9f9a-fab763b05572
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062273
-id:63956cfb-00f7-4128-a677-f5931caa55da
+created:1582720021621
+id:b6935847-137d-4654-984e-cd4707f505df
 isview:false
-map.base:81e4684f-e866-4d7c-909d-c2d3b83ef3e3
+map.base:e7dc6e91-3543-48e1-9f9a-fab763b05572
 map.role:definition
 map.type:neighbor
-modified:1582719062273
+modified:1582720021621
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Driving School Choice
-tmap.id:63956cfb-00f7-4128-a677-f5931caa55da
+tmap.id:b6935847-137d-4654-984e-cd4707f505df
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Driving School Choice

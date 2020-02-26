@@ -1,12 +1,12 @@
-created:1582719062279
+created:1582720021627
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ac079e54-d147-4757-8bfe-0c5efb2b8736
+map.base:42524f3c-4f82-4ba8-a9d6-16a15ab669bc
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062279
+modified:1582720021627
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Youth Navigate the News Landscape/filter/edges
-tmap.id:9d4f4ea5-8355-4c5b-87e7-6136e2c9382e
+tmap.id:cf68502f-109d-4234-9e44-eb9fc514b50f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:90f245b3-56c3-425c-9294-3dee28bfd1f6
+config.central-topic:3529176d-58f3-4604-b281-a05a59ea5305
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062329
-id:1b92d1b9-15b2-4849-b5fd-8daf9544e162
+created:1582720021674
+id:b09a38a3-0f20-4d72-850a-796f203b6c62
 isview:false
-map.base:90f245b3-56c3-425c-9294-3dee28bfd1f6
+map.base:3529176d-58f3-4604-b281-a05a59ea5305
 map.role:definition
 map.type:neighbor
-modified:1582719062329
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Standard on digital safe boxes
-tmap.id:1b92d1b9-15b2-4849-b5fd-8daf9544e162
+tmap.id:b09a38a3-0f20-4d72-850a-796f203b6c62
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Standard on digital safe boxes

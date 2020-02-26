@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071732
+created:1582720003350
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071732
+modified:1582720003350
 name:ELSA
 parent.org:
 partners:
@@ -22,13 +22,12 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:ELSA
-tmap.edges:{"83f3c61d-cc4d-4131-9eb2-f84c9433fb5d":{"to":"cdafb85d-4912-4f1b-9d04-675f2b905d95","type":"connection"},"24718754-c000-4a6a-8b5b-4054a23b71cb":{"to":"3453b060-6a4e-4859-b636-8f5a541ab57a","type":"connection"},"ba009921-3359-4a61-afc1-087845c9d4a4":{"to":"980a1d43-5de6-4730-a0c9-9a4b07b660a4","type":"connection"},"5107982a-b3ab-44c6-ab55-978e87f382d9":{"to":"15794d8f-d706-4b5d-a1ac-03a87a794300","type":"connection"}}
-tmap.id:be765c55-ffc5-48cc-b8f8-b4ad70e0b548
+tmap.edges:{"65e61e5e-5c89-45aa-b465-7a4780892624":{"to":"0dcd375e-c299-4335-b3ff-f2226b925a8a","type":"connection"},"c43045a7-6b66-47fa-ab36-ebdbb1121850":{"to":"bf4aaceb-b4e3-47a8-92ce-cf30621a3291","type":"connection"},"ceecfb4e-9249-43bb-af1a-8e0fc1ddd415":{"to":"45019ade-54f0-4643-99fd-f173c746d7c0","type":"connection"},"80bcd92d-28ca-486d-9fca-5b9710e3ae59":{"to":"b33e970d-0136-4955-b51e-489e83f7e264","type":"connection"}}
+tmap.id:6d5d2c29-7d79-47ae-b1a5-c0dcb0bf523d
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 working.group:
-
 
 
 

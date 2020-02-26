@@ -1,12 +1,12 @@
-created:1582719062155
-filter:[field:tmap.id[cc838467-b6f9-4781-9921-e225893bbce6]]
-map.base:cc838467-b6f9-4781-9921-e225893bbce6
+created:1582720021513
+filter:[field:tmap.id[62c1de60-47ba-4ac7-8c75-1e0c586758d6]]
+map.base:62c1de60-47ba-4ac7-8c75-1e0c586758d6
 map.role:node-filter
 map.type:neighbor
-modified:1582719062155
+modified:1582720021513
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Standards Organization/filter/nodes
-tmap.id:7f4f1d21-0fb4-4a24-8565-bb95c7ccb46c
+tmap.id:49e0e868-c375-4653-93c5-31c97fc64b9c
 type:text/vnd.tiddlywiki
 
 No body provided

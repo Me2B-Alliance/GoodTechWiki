@@ -1,12 +1,12 @@
-created:1582719062277
+created:1582720021624
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4e7ef11f-0e72-49a8-a3a1-4b4bb7272784
+map.base:27e7063c-965c-47d3-8e26-3a6aec9361cd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062277
+modified:1582720021624
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Lead supervisory authority/filter/edges
-tmap.id:d9381269-f9c7-4679-8fe1-419cce0d9b8e
+tmap.id:d5354336-0905-4ccb-906c-49fa059906da
 type:text/vnd.tiddlywiki
 
 No body provided

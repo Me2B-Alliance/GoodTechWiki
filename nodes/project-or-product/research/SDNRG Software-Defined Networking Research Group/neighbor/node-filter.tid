@@ -1,12 +1,12 @@
-created:1582719062195
-filter:[field:tmap.id[c919c2a0-f565-40ad-9250-7f5ffa249c8e]]
-map.base:c919c2a0-f565-40ad-9250-7f5ffa249c8e
+created:1582720021550
+filter:[field:tmap.id[ace6fb70-095e-4ef7-aa4b-6829f616dd3c]]
+map.base:ace6fb70-095e-4ef7-aa4b-6829f616dd3c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062195
+modified:1582720021550
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SDNRG Software-Defined Networking Research Group/filter/nodes
-tmap.id:2d1adb63-a6c3-476a-aa50-6f59c586e11b
+tmap.id:b8b1cdca-225a-4b26-b4fc-4e80e69e185c
 type:text/vnd.tiddlywiki
 
 No body provided

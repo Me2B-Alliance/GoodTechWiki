@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[software development]] [[publication]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:EthicalOS
 org.type:to-be-determined
 parent.org:Institute for the Future: Omidyar Network
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[ecosystem building]] [[human rights]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:EthicalOS (organization)
 tmap.edges:{}
-tmap.id:f1bc22ba-b9bf-4542-9d9b-99369af23adc
+tmap.id:31cdd443-2995-45fb-9352-d3145da6381a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ethicalos.org/
@@ -39,6 +39,5 @@ What’s in the Toolkit:
     A checklist of 8 risk zones to help you identify the emerging areas of risk and social harm most critical for your team to start considering now.
     14 scenarios to spark conversation and stretch your imagination about the long-term impacts of tech you’re building today.
     7 future-proofing strategies to help you take ethical action today.
-
 
 

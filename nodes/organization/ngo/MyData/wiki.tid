@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[movement building]]
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:https://github.com/mydataglobal
 input.source:me2b
-key.people:[object Set]
+key.people:[[john wunderlich]] [[julian ranger]] [[henrik biering]]
 linkedin.profile:https://www.linkedin.com/company/mydata-global/
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071963
+me2b.relationship:[[reuse any work from mydata.org that advances the code of practice and certification.  explore creating theme hub(s) for specific me2b tasks?   relationship between these two "sibling" orgs is tbd on both sides]]
+modified:1582720003590
 org.name:MyData
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[tech interoperability]]
 relevant.publications:
 scope:global
 sector:non-profit
@@ -29,7 +29,7 @@ tech.focus:Information Sharing Control: Data Mobility: Data Storage: Terms Manag
 tiddler.classification:node
 title:MyData
 tmap.edges:{}
-tmap.id:4b2455d2-e2db-4394-a842-c441af653fb9
+tmap.id:e764d698-5785-4175-8172-49f70535a129
 twitter.profile:https://twitter.com/mydataorg
 type:text/vnd.tiddlywiki
 website:https://mydata.org/
@@ -37,5 +37,4 @@ website:https://mydata.org/
 MyData Global’s mission is to empower individuals by improving their right to self-determination regarding their personal data.
 
 The human-centric paradigm is aimed at a fair: sustainable: and prosperous digital society: where the sharing of personal data is based on trust as well as balanced and fair relationship between individuals and organisations. 
-
 

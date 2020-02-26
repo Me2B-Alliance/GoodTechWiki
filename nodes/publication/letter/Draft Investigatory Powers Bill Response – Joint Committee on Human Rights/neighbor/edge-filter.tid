@@ -1,12 +1,12 @@
-created:1582719062230
+created:1582720021585
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e151a262-7248-4d96-9c26-ce4c8943f5f6
+map.base:40e59263-d858-4b61-94e8-83ae4921ed27
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062230
+modified:1582720021585
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Draft Investigatory Powers Bill Response – Joint Committee on Human Rights/filter/edges
-tmap.id:1134b056-923f-4be9-8895-89a8347765e2
+tmap.id:8d6cc176-b9ec-49b4-a0f2-f87b15ad4c3f
 type:text/vnd.tiddlywiki
 
 No body provided

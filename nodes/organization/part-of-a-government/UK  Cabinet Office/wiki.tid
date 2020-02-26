@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071750
+created:1582720003368
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071750
+modified:1582720003368
 org.name:UK  Cabinet Office
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:UK  Cabinet Office
-tmap.edges:{"c7dddcbd-791e-44ed-9829-30d95be16317":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"},"df1b813a-06a8-445d-8ff0-fcaff0d14920":{"to":"2e7ba137-4a55-456c-9983-bc292e1a9f9e","type":"connection"},"dfaca898-df90-4fd6-8646-9ede822a6530":{"to":"1d79a609-fac6-46b3-adfa-0ecc744e8ac7","type":"government-connection"}}
-tmap.id:36528e18-7901-4175-b4f6-0bb47fbc7cd3
+tmap.edges:{"b1f91f0b-0458-4076-b6ef-3a79112d5e3a":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"},"371bacd2-eb76-4ec6-b42a-dd2a445f3ed5":{"to":"27b44b3f-13ba-4261-bcd4-fd9943b22f34","type":"connection"},"6bdec3c5-8b03-4d05-822c-ff467c63d853":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"}}
+tmap.id:96dded24-581e-4e64-a732-60b9906cc1d9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

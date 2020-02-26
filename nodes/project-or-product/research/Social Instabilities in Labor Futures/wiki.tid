@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071971
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,26 +10,25 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071971
+modified:1582720003598
 name:Social Instabilities in Labor Futures
 parent.org:Data & Society Research Institute
 partners:
-people:[object Set]
+people:[[aiha nguyen]] [[alexandra mateescu]] [[alex rosenblat]] [[julia ticona]]
 purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[data & society research]] [[publications]] [[parent]]
 terms.of.service:
 tiddler.classification:node
 title:Social Instabilities in Labor Futures
 tmap.edges:{}
-tmap.id:3af242f6-592a-4e43-862e-3246acd1af7a
+tmap.id:bcd83b90-2c5a-4c55-ba05-88518568566f
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/labor_futures/
 version.or.edition:
 working.group:
 
 Technology is disrupting, destabilizing, and transforming many aspects of the labor force. The Social Instabilities in Labor Futures initiative seeks to better understand emergent disruptions in the labor force as a result of data-centric technological development, with a special focus on structural inequalities.
-
 

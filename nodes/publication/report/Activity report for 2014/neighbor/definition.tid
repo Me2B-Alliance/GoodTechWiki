@@ -1,17 +1,17 @@
-config.central-topic:f56f2166-485c-4cd9-bab4-8eb6bff1883f
+config.central-topic:1384c686-f671-4ade-924e-7342eb1c98b7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062263
-id:37311ccb-9333-4eae-973d-33d43f8945bb
+created:1582720021611
+id:8bd35aeb-f5c1-471b-8731-d943640d2466
 isview:false
-map.base:f56f2166-485c-4cd9-bab4-8eb6bff1883f
+map.base:1384c686-f671-4ade-924e-7342eb1c98b7
 map.role:definition
 map.type:neighbor
-modified:1582719062263
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Activity report for 2014
-tmap.id:37311ccb-9333-4eae-973d-33d43f8945bb
+tmap.id:8bd35aeb-f5c1-471b-8731-d943640d2466
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Activity report for 2014

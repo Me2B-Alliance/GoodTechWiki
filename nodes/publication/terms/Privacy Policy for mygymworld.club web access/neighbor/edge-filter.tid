@@ -1,12 +1,12 @@
-created:1582719062330
+created:1582720021675
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c1cb039a-9715-40f1-9bbd-328bf7585dfb
+map.base:b57fc5d0-8464-4e81-85f0-6b037bbb72ab
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062330
+modified:1582720021675
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Policy for mygymworld.club web access/filter/edges
-tmap.id:78a8b870-3b8e-453d-9630-713714ac99b5
+tmap.id:416dee06-c955-492d-81c2-89d592269bb1
 type:text/vnd.tiddlywiki
 
 No body provided

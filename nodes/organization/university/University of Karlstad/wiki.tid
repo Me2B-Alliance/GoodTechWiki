@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071719
+created:1582720003336
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071719
+modified:1582720003336
 org.name:University of Karlstad
 org.type:university
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:University of Karlstad
-tmap.edges:{"328bb0f6-8c02-4e1a-98b6-3b463f23e624":{"to":"8c2fe50f-e196-42aa-9704-517023fbbd5b","type":"organization-for-group"}}
-tmap.id:e9b5987a-ee27-4fce-a551-6e390457de9b
+tmap.edges:{"35cd6bef-6778-43ff-9391-2e8b2105bb06":{"to":"9272fb11-8a95-4eef-bbca-2adcf38b2a78","type":"organization-for-group"}}
+tmap.id:57740b5e-acff-4a73-9a75-cb3ca55e1cff
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.kau.se/en/
-
 
 
 

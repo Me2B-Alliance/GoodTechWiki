@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Student Data & Mental Health: What the Blank Spots Say
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[enabling connected learning]]
 tech.focus:
 tiddler.classification:node
 title:Student Data & Mental Health: What the Blank Spots Say
 tmap.edges:{}
-tmap.id:c27552bb-5399-48ce-a6f1-e5eeec7e7a44
+tmap.id:562a4542-2eaa-419f-bef5-837044668af8
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/student-data-mental-health-what-the-blank-spots-say/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 D&S research analyst Mikaela Pitcan discusses how missing data can impact how students with mental health conditions.
 
     The areas in which data are lacking communicate priorities. However, without concrete data to show a need to prioritize the issue of mental health in schools, there is little incentive to make this issue a priority. Is the failure to account for students with mental illness in a detailed manner the result of stigma? Is it the result of a broader culture that idealizes childhood and is unable to integrate the idea of children struggling with mental illness into our collective consciousness? How might big data be used to identify children in need of mental health treatment in schools to target intervention while protecting students’ privacy? In an age where incredibly detailed information is collected, some students’ needs remain invisible. How can we use the data we have to address the need for the data that is missing?
-
 

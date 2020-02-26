@@ -1,17 +1,17 @@
-config.central-topic:bd335c82-dc4c-4b6a-b624-22f8e32f80b5
+config.central-topic:72b7cf4a-a805-4100-a16f-3fae37194356
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062125
-id:4348c054-01df-435e-bccb-c745b6bd8e2b
+created:1582720021482
+id:a611e5b0-8130-4ca0-a53e-57f534aff8c4
 isview:false
-map.base:bd335c82-dc4c-4b6a-b624-22f8e32f80b5
+map.base:72b7cf4a-a805-4100-a16f-3fae37194356
 map.role:definition
 map.type:neighbor
-modified:1582719062125
+modified:1582720021482
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Alexandra Institute
-tmap.id:4348c054-01df-435e-bccb-c745b6bd8e2b
+tmap.id:a611e5b0-8130-4ca0-a53e-57f534aff8c4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Alexandra Institute

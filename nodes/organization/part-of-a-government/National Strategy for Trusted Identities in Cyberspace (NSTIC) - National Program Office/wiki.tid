@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003367
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003367
 org.name:National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:National Strategy for Trusted Identities in Cyberspace (NSTIC) - National Program Office
-tmap.edges:{"6129ea83-4625-4bb0-8754-a82d9cc803d8":{"to":"0b54a118-e8dd-4a36-8604-f749789e9e0a","type":"government-connection"},"df91324e-7b0e-4dbc-882a-5700672d24b9":{"to":"c5f6c006-21ef-47e8-ba48-064868bb4bf9","type":"sponsor"},"be58635a-0713-4f4c-92b3-623fc4896128":{"to":"c5f6c006-21ef-47e8-ba48-064868bb4bf9","type":"default"}}
-tmap.id:045752bd-43fc-4875-97c7-d0e0ca81d04d
+tmap.edges:{"95015c21-8847-4e52-bbe0-9439889ece6c":{"to":"a9994b9e-0264-439a-8923-bc565120dda1","type":"government-connection"},"8a44f06d-5131-4cc9-adfc-ab649145b38b":{"to":"d559246b-2e6b-4cba-bd36-16fa4e55b64e","type":"sponsor"},"d535c1ad-61c1-4c1e-898d-bd99b098a8e4":{"to":"d559246b-2e6b-4cba-bd36-16fa4e55b64e","type":"default"}}
+tmap.id:71c1a702-ad54-4327-8867-b734780aedd7
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.nist.gov/nstic/npo.html
@@ -40,5 +40,4 @@ A National Program Office has been established at the National Institute of Stan
 * Support interagency collaboration and coordinate interagency efforts associated with achieving programmatic goals;
 * Assess progress against the goals, objectives, and milestones of the Strategy and the associated implementation activities ; and
 * Promote important pilot projects and other implementations under NSTIC.
-
 

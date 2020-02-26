@@ -1,12 +1,12 @@
-created:1582719062245
+created:1582720021600
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:08cb52ce-8a27-4b30-912d-c5164a7797a6
+map.base:423b7976-4149-4829-b70d-a6f995afe807
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062245
+modified:1582720021600
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Natural Language Processing for Mobile App Privacy Compliance/filter/edges
-tmap.id:803d6c80-3c7d-426b-a3cb-ca8b6140f3de
+tmap.id:ba3cee33-4d10-4b51-8a52-c166e117adb7
 type:text/vnd.tiddlywiki
 
 No body provided

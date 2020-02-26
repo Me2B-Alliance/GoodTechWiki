@@ -1,12 +1,12 @@
-created:1582719062354
+created:1582720021696
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4ab17ae7-b4f7-4118-82d1-1351af556f81
+map.base:9456a38f-3fd6-4dd5-8486-abd0509e9b94
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062354
+modified:1582720021696
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Continuity and Organizational Resilience WG2/filter/edges
-tmap.id:fb67a7c5-aa82-4d14-b67b-e3fb8e3a2ab6
+tmap.id:2be01670-22c4-4ec5-a9a0-ce406eeec8aa
 type:text/vnd.tiddlywiki
 
 No body provided

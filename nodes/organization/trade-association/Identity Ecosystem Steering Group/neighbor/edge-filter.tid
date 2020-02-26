@@ -1,12 +1,12 @@
-created:1582719062155
+created:1582720021515
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c5f6c006-21ef-47e8-ba48-064868bb4bf9
+map.base:d559246b-2e6b-4cba-bd36-16fa4e55b64e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062155
+modified:1582720021515
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Ecosystem Steering Group/filter/edges
-tmap.id:36f02137-2cd4-4e1d-af5d-1a5718715b3d
+tmap.id:08121733-8965-453d-9f62-1f8221b298c8
 type:text/vnd.tiddlywiki
 
 No body provided

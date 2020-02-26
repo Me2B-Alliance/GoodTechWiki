@@ -1,12 +1,12 @@
-created:1582719062210
+created:1582720021565
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:72ca0314-8ae1-4447-a837-98383e4233e8
+map.base:97706a03-4526-484e-9b6a-1dc0fd3e1697
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062210
+modified:1582720021565
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/One Trust(project-or-product/software product (service)) (project-or-product)/filter/edges
-tmap.id:77f04958-7684-4894-9148-5cc343c9a962
+tmap.id:31081d86-c8bf-4df1-bc4f-4777e00a9496
 type:text/vnd.tiddlywiki
 
 No body provided

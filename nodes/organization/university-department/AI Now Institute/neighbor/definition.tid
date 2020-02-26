@@ -1,17 +1,17 @@
-config.central-topic:cead9359-7bd3-4dd5-9252-fd51df29b362
+config.central-topic:f7acc1b5-468c-4dad-94f3-550d59fb4a8a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062168
-id:07b6762f-8f35-4e66-b73a-d7c5aa75f9f6
+created:1582720021529
+id:6eaa4082-c7d4-463d-a7b7-a6e578d40d49
 isview:false
-map.base:cead9359-7bd3-4dd5-9252-fd51df29b362
+map.base:f7acc1b5-468c-4dad-94f3-550d59fb4a8a
 map.role:definition
 map.type:neighbor
-modified:1582719062168
+modified:1582720021529
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AI Now Institute
-tmap.id:07b6762f-8f35-4e66-b73a-d7c5aa75f9f6
+tmap.id:6eaa4082-c7d4-463d-a7b7-a6e578d40d49
 type:text/vnd.tiddlywiki
 
 Neighbor Map of AI Now Institute

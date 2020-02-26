@@ -1,12 +1,12 @@
-created:1582719062347
-filter:[field:tmap.id[e27ef834-956e-490d-93ac-e12cc566010c]]
-map.base:e27ef834-956e-490d-93ac-e12cc566010c
+created:1582720021688
+filter:[field:tmap.id[8d8ce9f1-6dd3-462e-8139-262d9db4cbdd]]
+map.base:8d8ce9f1-6dd3-462e-8139-262d9db4cbdd
 map.role:node-filter
 map.type:neighbor
-modified:1582719062347
+modified:1582720021688
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PBS: Open Mind/filter/nodes
-tmap.id:61b76a3f-bb6e-4d77-a24f-5984e062f6e5
+tmap.id:f18c790b-5152-491e-9259-8fe09595d404
 type:text/vnd.tiddlywiki
 
 No body provided

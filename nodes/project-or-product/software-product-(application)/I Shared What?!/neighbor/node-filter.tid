@@ -1,12 +1,12 @@
-created:1582719062207
-filter:[field:tmap.id[382076d9-831d-483a-81ab-f01af5c2b7cc]]
-map.base:382076d9-831d-483a-81ab-f01af5c2b7cc
+created:1582720021562
+filter:[field:tmap.id[0a5cf58f-f47e-4dda-8102-d12e1e50529b]]
+map.base:0a5cf58f-f47e-4dda-8102-d12e1e50529b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062207
+modified:1582720021562
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/I Shared What?!/filter/nodes
-tmap.id:47e8d72a-9152-45ce-81fa-af2fe93141df
+tmap.id:3bd375b8-58a5-40f5-a226-0663dbe4c64d
 type:text/vnd.tiddlywiki
 
 No body provided

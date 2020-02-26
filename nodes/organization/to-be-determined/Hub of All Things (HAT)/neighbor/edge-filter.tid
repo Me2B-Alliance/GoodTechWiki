@@ -1,12 +1,12 @@
-created:1582719062139
+created:1582720021492
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:093e3b03-6e44-45e0-8167-5020900e1bd4
+map.base:ead794be-2707-460f-9beb-f4e2127e4132
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062139
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hub of All Things (HAT)/filter/edges
-tmap.id:6e337990-9bf9-4450-843e-105309204a70
+tmap.id:54eb40f9-2c91-4be8-bc9f-199030883932
 type:text/vnd.tiddlywiki
 
 No body provided

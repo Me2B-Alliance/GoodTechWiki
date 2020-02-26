@@ -1,17 +1,17 @@
-config.central-topic:f7eb3c11-9612-4813-9d66-ef07377e522a
+config.central-topic:4229033a-ceef-440e-b263-af6c39c5a259
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062220
-id:1b4afa9a-d770-4570-ba21-d15590c03cb9
+created:1582720021578
+id:d6c714ff-caed-4afe-8952-156022a7c12b
 isview:false
-map.base:f7eb3c11-9612-4813-9d66-ef07377e522a
+map.base:4229033a-ceef-440e-b263-af6c39c5a259
 map.role:definition
 map.type:neighbor
-modified:1582719062220
+modified:1582720021578
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Usable Privacy Policy - Publications
-tmap.id:1b4afa9a-d770-4570-ba21-d15590c03cb9
+tmap.id:d6c714ff-caed-4afe-8952-156022a7c12b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Usable Privacy Policy - Publications

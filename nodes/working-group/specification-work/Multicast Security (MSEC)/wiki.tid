@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071712
+created:1582720003330
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071712
+modified:1582720003330
 name:Multicast Security (MSEC)
 parent.org:IETF
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Multicast Security (MSEC)
-tmap.edges:{"28cf559d-66cc-4fc6-a79b-9ed5c6c7c6d0":{"to":"e9ef5d73-40d4-4b2c-963c-228c95dd4820","type":"organization-for-group"}}
-tmap.id:957b3c54-4869-4d71-8e48-a9d74f11363b
+tmap.edges:{"d2babacd-bf31-4898-a5c7-7a8c9a0a115c":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
+tmap.id:25bc9626-3afc-4516-96da-ffd2312906df
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

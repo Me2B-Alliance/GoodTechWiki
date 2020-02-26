@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Digital Credential Wallets
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[rwot vii]]
 tech.focus:
 tiddler.classification:node
 title:Digital Credential Wallets
 tmap.edges:{}
-tmap.id:b5f3be90-941e-42f0-884f-f707f7da40f4
+tmap.id:a78e094c-3af2-48ab-87df-17c8ca03a56b
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/digital-credential-wallet.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Digital Credential Wallets (DCWs) are becoming more commonplace as more of our physical credentials become digital. In this paper, we provide requirements for digital credential wallet design, ofer considerations for key management of DCWs, and go over several real-life use cases.INTRODUCTIONDigital credentials are seeing widespread usage as governments, businesses, and individuals increasingly come online. Users need to be able to store these credentials for ease of use. Moreover, others validating these credentials need to be able to do so in a secure manner. In order to do this, digital credentials are stored in what are called DigitalCredentialWallets (DCW).The goal of this paper is to provide an overview of the considerations needed to build digital credential wallets and various use cases to put these considerations into perspective.
-
 

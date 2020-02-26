@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003363
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003363
 org.name:CEF Building Blocks / CEF Digital Portal
 org.type:part of supra-national government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CEF Building Blocks / CEF Digital Portal
-tmap.edges:{"dbb6d8f1-df74-4541-ba57-6872a69d5762":{"to":"e38f1f6b-d874-486c-8df2-927c087c1a2d","type":"government-connection"},"ab9fe103-ca12-4132-b297-0da10ebcbc0c":{"to":"d8ccdecf-7a56-460f-9ec5-05b7840aec1f","type":"government-connection"},"f777e510-a00f-4962-bcca-6c129f828f01":{"to":"09e21cf5-84d1-4b34-913b-0547105f6a26","type":"government-connection"},"24e25943-1f16-49c8-99db-5939ecec76b5":{"to":"18175797-1a6e-4d57-a9a2-8ddf1a1fa4f9","type":"government-connection"},"28afaaf0-6207-45f4-928c-77fa29cc8f17":{"to":"d31b0406-5b6d-4712-9250-8bf1008f4e3b","type":"government-connection"},"b287c0af-1b02-427d-8d9a-79e9823ffe07":{"to":"a9015f54-0933-4e5e-9387-9117cb852b1f","type":"default"}}
-tmap.id:7dfb4a71-4826-4ad8-a98f-c6f9f11563b8
+tmap.edges:{"9007f98d-97b4-42dd-aeca-f4ce59f4dfaa":{"to":"f25fcbbf-5f97-4dcb-9e53-56eef899707b","type":"government-connection"},"e3aaefa5-daeb-425f-8649-b0dfa86b443b":{"to":"58d1aeb3-3678-43a8-a9b8-b5dae7cf091e","type":"government-connection"},"0cbe9b8b-2406-4349-854a-d4be9cc21ced":{"to":"864b5453-5a78-42c9-b97b-27d266dc1b29","type":"government-connection"},"93b94650-a1ea-4e38-9267-825609d6b317":{"to":"bbb08210-2cf6-462c-8348-300ce4251867","type":"government-connection"},"49a83e32-3f7b-40b8-9ea6-08f509c95e90":{"to":"066d6642-11e7-444f-bd37-273250ad2221","type":"government-connection"},"1b371a65-0fe6-437e-8c1d-1ad6f3175476":{"to":"cfdc8d17-546d-4b9e-b208-cfaaf2185890","type":"default"}}
+tmap.id:80451c2b-560a-433b-a3b8-6ea3adcfcc16
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/cef+digital+home
 
 Supported by the Connecting Europe Facility (CEF), the CEF Building Blocks offer basic capabilities that can be used in any European project to facilitate the delivery of digital public services across borders.
-
 

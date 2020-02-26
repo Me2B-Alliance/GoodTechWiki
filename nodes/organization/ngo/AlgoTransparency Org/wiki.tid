@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,27 +13,26 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/algotransparency
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:AlgoTransparency Org
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]]
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:[object Set]
+tags:[[youtube]]
 tech.focus:
 tiddler.classification:node
 title:AlgoTransparency Org
 tmap.edges:{}
-tmap.id:ff94511c-ef06-498c-ab84-81f60cdbc689
+tmap.id:05b37f94-cf4b-4f54-a33f-56721749e9d0
 twitter.profile:https://twitter.com/HelloAlgo
 type:text/vnd.tiddlywiki
 website:https://algotransparency.org
 
 We want to see which information the YouTube algorithm is showing to people. This algorithms is responsible for more than 700,000,000 hours of watch time every day, and it is not fully understood, even by the people who build it.
-
 

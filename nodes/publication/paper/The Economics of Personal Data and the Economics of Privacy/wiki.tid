@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[alessandro acquisti]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:The Economics of Personal Data and the Economics of Privacy
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:The Economics of Personal Data and the Economics of Privacy
 tmap.edges:{}
-tmap.id:d7048ef4-f894-4921-aafa-225766f58a30
+tmap.id:dc9fd9b2-52de-4395-8929-b95db6d203d1
 type:text/vnd.tiddlywiki
 url:https://www.oecd.org/sti/ieconomy/46968784.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This document has been prepared as background to for the Roundtable. It provides an overview of the economic analysis of the protection and revelation of personal data. In particular, it (1) describes the evolution of the economic theory of privacy, (2) examines privacy-related trade-offs for data subjects and data holders, and (3) highlight the current economic debate on privacy protection.
-
 

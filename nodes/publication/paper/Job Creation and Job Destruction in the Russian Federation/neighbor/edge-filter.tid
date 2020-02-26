@@ -1,12 +1,12 @@
-created:1582719062243
+created:1582720021597
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:593ec679-af6c-40a9-b577-27dfb4c2685c
+map.base:67eb5f7e-dc5a-49ed-b90b-77b657dc9896
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062243
+modified:1582720021597
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Job Creation and Job Destruction in the Russian Federation/filter/edges
-tmap.id:34f88ff5-727f-4b44-aca9-38fc429cc4de
+tmap.id:abb1d8aa-9e25-41fa-91ed-aceb4740cac3
 type:text/vnd.tiddlywiki
 
 No body provided

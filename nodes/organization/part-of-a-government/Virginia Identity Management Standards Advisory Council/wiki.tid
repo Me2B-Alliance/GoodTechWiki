@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003368
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003368
 org.name:Virginia Identity Management Standards Advisory Council
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Virginia Identity Management Standards Advisory Council
-tmap.edges:{"f2f12a10-1649-4c35-a30b-e40dac2b0327":{"to":"a0594b6d-1c0d-46f8-8061-b27ce38cbb6a","type":"government-connection"}}
-tmap.id:534e22db-e69f-4302-9e89-5014ba505ebc
+tmap.edges:{"fd31b151-cd73-4671-b6a8-dc167350f2e5":{"to":"28c59803-d05b-46fd-8813-f141b96951b7","type":"government-connection"}}
+tmap.id:d878764e-44cd-4d63-a1cb-769b5ce3ea7f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

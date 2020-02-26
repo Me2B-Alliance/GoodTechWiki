@@ -1,12 +1,12 @@
-created:1582719062122
+created:1582720021478
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ba7504c5-5108-4330-a0b6-8cced024a33a
+map.base:7ed1ba84-9b2f-46fe-895d-9cc098dcf818
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062122
+modified:1582720021478
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Single Market/filter/edges
-tmap.id:d21187de-c1db-4419-a1b6-6cd581e98dfc
+tmap.id:8ff07fe6-9467-428f-bfa8-5a06242ccb78
 type:text/vnd.tiddlywiki
 
 No body provided

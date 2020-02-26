@@ -1,17 +1,17 @@
-config.central-topic:55ea47a6-d2a8-41de-b17b-0e6f00509618
+config.central-topic:15c09999-6ac9-4120-82fe-2fd1de8e9c28
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062321
-id:60d33b66-ea9d-4392-b6e6-191913866484
+created:1582720021662
+id:a84c6b93-8b03-4bb8-b331-789d258898a2
 isview:false
-map.base:55ea47a6-d2a8-41de-b17b-0e6f00509618
+map.base:15c09999-6ac9-4120-82fe-2fd1de8e9c28
 map.role:definition
 map.type:neighbor
-modified:1582719062321
+modified:1582720021662
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Token Bound Authentication
-tmap.id:60d33b66-ea9d-4392-b6e6-191913866484
+tmap.id:a84c6b93-8b03-4bb8-b331-789d258898a2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Token Bound Authentication

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071972
+created:1582720003599
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071972
+modified:1582720003599
 name:Compliance package Smart meters : Management of data collected in the home and transmitted outside
 publication.type:standard
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Compliance package Smart meters : Management of data collected in the home and transmitted outside
 tmap.edges:{}
-tmap.id:c1a58e18-8a99-4538-a23f-7ee3d5228461
+tmap.id:1cdea2e9-587b-410d-b513-53fd55ea6e02
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/atoms/files/fiche2_packconf_smart_meters_en_230615.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This scenario covers cases in which data: leave the home to be then retrans-mitted to one or more service providers, whether this transfer is materially carried out by the data subject or by the service provider itself;  are processed by the service provi-der to offer a service to the data subject, without however triggering an action in the home.For example: a service provider offers a new electrical contract after analysing the energy consumption.In practice, the data may be collected and processed by the service provider which has directly entered into contract with the data subject or by third par-ties to which this service provider has subcontracted the implementation of all or part of the service provision (data pro-cessors) or has already transmitted data (business partners).
-
 

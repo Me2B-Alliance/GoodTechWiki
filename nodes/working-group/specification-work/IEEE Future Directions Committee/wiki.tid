@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071709
+created:1582720003326
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071709
+modified:1582720003326
 name:IEEE Future Directions Committee
 parent.org:IEEE
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:IEEE Future Directions Committee
-tmap.edges:{"f62788df-4890-4a6c-81e5-68c2991f9fe5":{"to":"1a890b2c-8df5-444e-989f-9fd4d163ccb7","type":"organization-for-group"},"2c57693d-dffd-45ed-8abc-1757dc308da1":{"to":"06df4507-1054-4842-b664-4cde1454dbba","type":"convenor"},"ced98ade-ddec-4fbd-8dea-38cae8e64930":{"to":"740e131c-11fa-4fc4-b20c-032a7d2f2e65","type":"founder"}}
-tmap.id:878a68ab-c211-4a33-8613-2cd578853989
+tmap.edges:{"ed1f3a1c-4856-4d89-abd4-41658bb610aa":{"to":"5a21c8c4-d841-4cdd-ae50-dadbc4ceee4b","type":"organization-for-group"},"66cf3d4e-947d-4769-9559-38942cf12783":{"to":"d7596f05-c511-46cc-86ef-fa407e0e791a","type":"convenor"},"01fd3b5d-d8e0-4915-a376-7caf8ae2c8d7":{"to":"81de0666-99b6-465b-ac16-12b4f67b4c53","type":"founder"}}
+tmap.id:1464f983-3d3e-4c53-9031-e7cb110d5899
 type:text/vnd.tiddlywiki
 url:http://www.ieee.org/about/technologies/index.html
 
@@ -30,5 +30,4 @@ The primary working objective of the IEEE Future Directions Committee:
 * identifies opportunities to engage the engineering community and the general public;
 * works with IEEE members and staff to focus on emerging technologies through technical, professional, and educational activities;
 * serves as a catalyst for new conferences, publications, standards, educational products, forums, white papers, grants, and projects to support new technologies.
-
 

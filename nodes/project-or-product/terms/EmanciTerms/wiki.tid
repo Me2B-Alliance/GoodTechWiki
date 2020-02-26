@@ -1,7 +1,7 @@
 activities:
 audience:
 category:terms
-created:1582678071969
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003597
 name:EmanciTerms
 parent.org:Project VRM
 partners:
 people:
-purpose:[object Set]
+purpose:[[human rights]]
 relevant.publications:https://blogs.harvard.edu/vrm/category/emanciterm/
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:EmanciTerms
 tmap.edges:{}
-tmap.id:07610c77-510c-43f9-ac4c-3617af080962
+tmap.id:391ae97a-e237-43e2-ad16-535f3cce823a
 type:text/vnd.tiddlywiki
 url:https://cyber.harvard.edu/projectvrm/EmanciTerm
 version.or.edition:
 working.group:
 
 EmanciTerm is a name for the ability of an individual to set his or her own terms of engagement, or to express a preference for those terms. Or, as Customer Commons puts it, EmanciTerms are "first party terms individuals can proffer in dealing with sites and services." Here is how those are described by Doc Searls (who started ProjectVRM and co-founded Customer Commons) in his book The Intention Economy: When Customers Take Charge
-
 

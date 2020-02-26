@@ -1,12 +1,12 @@
-created:1582719062345
+created:1582720021687
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7de08c68-6bb7-4d2d-b880-c5c2dabc66f0
+map.base:ff6788bf-4013-4128-9215-3ff20f71b13a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062345
+modified:1582720021687
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CAPrice - Collective Awareness Platform for Privacy Concerns and Expectations (with subtitles)/filter/edges
-tmap.id:c99679a0-4595-4d32-987d-14c02f6c23e1
+tmap.id:36ac489d-5f70-4000-bb04-c5ded1c499c9
 type:text/vnd.tiddlywiki
 
 No body provided

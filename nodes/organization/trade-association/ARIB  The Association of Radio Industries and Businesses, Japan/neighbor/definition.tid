@@ -1,17 +1,17 @@
-config.central-topic:79f56636-466e-4c17-8b9f-a599b8c9fd07
+config.central-topic:381f20fd-1e81-42b3-9df3-57cc6575ebbe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062149
-id:a0ae4b02-20f3-4a72-bf37-e1954c353772
+created:1582720021502
+id:5ab5ae49-920a-4271-b5c8-5f84ac7ffb77
 isview:false
-map.base:79f56636-466e-4c17-8b9f-a599b8c9fd07
+map.base:381f20fd-1e81-42b3-9df3-57cc6575ebbe
 map.role:definition
 map.type:neighbor
-modified:1582719062149
+modified:1582720021502
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ARIB  The Association of Radio Industries and Businesses, Japan
-tmap.id:a0ae4b02-20f3-4a72-bf37-e1954c353772
+tmap.id:5ab5ae49-920a-4271-b5c8-5f84ac7ffb77
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ARIB  The Association of Radio Industries and Businesses, Japan

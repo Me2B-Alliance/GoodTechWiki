@@ -1,17 +1,17 @@
-config.central-topic:945a759a-86ed-413c-9d5e-14a626e20d13
+config.central-topic:d5f6c550-79ca-4852-b7d8-0fa1a8d8a16d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062342
-id:2450cb2f-73c9-452e-b3ec-d769d0cf6284
+created:1582720021684
+id:a9374858-660f-4d31-951b-e3d1123fa532
 isview:false
-map.base:945a759a-86ed-413c-9d5e-14a626e20d13
+map.base:d5f6c550-79ca-4852-b7d8-0fa1a8d8a16d
 map.role:definition
 map.type:neighbor
-modified:1582719062342
+modified:1582720021684
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Mobile processing of Personal Data and Security
-tmap.id:2450cb2f-73c9-452e-b3ec-d769d0cf6284
+tmap.id:a9374858-660f-4d31-951b-e3d1123fa532
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on Mobile processing of Personal Data and Security

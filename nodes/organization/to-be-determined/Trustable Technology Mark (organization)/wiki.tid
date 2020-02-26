@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:https://github.com/thewavingcat/trustabletechnologymark
 input.source:me2b
-key.people:[object Set]
+key.people:[[(referred by steve olshanksy)]]
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:Trustable Technology Mark
 org.type:to-be-determined
 parent.org:Mozilla
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]] [[certification and compliance]]
 relevant.publications:
 scope:
 sector:
@@ -29,11 +29,10 @@ tech.focus:IOT
 tiddler.classification:node
 title:Trustable Technology Mark (organization)
 tmap.edges:{}
-tmap.id:08c8f458-4442-47b3-8d42-059cd9c92e93
+tmap.id:153c8ea9-1dee-49cd-a75e-bb827c21d504
 twitter.profile:https://twitter.com/trustable_tech
 type:text/vnd.tiddlywiki
 website:https://trustabletech.org/about/
 
 The Trustable Technology Mark aims to highlight the work of those companies that put in the extra effort of building truly trustworthy devices.
-
 

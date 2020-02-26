@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071721
+created:1582720003338
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071721
+modified:1582720003338
 name:Open Web Platform
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Open Web Platform
-tmap.edges:{"cd660cbe-39b6-43b3-b515-f22b214ba40c":{"to":"a83d5782-0887-4288-bbb4-6bb75f065b8f","type":"specification-of-group"}}
-tmap.id:9dd8958c-2293-4326-8e60-f7c91172599b
+tmap.edges:{"ddb06b82-ebea-4721-9148-a29e48048966":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"specification-of-group"}}
+tmap.id:8032fed4-d02b-42b1-b3d6-6de15a8b2e83
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/wiki/open_web_platform
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 The Open Web Platform is the collection of open (royalty-free) technologies which enables the Web. Using the Open Web Platform, everyone has the right to implement a software component of the Web without requiring any approvals or waiving license fees.
-
 

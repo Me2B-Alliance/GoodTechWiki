@@ -1,12 +1,12 @@
-created:1582719062307
-filter:[field:tmap.id[4349fe73-7344-4871-86fa-3c5fbb5f5e54]]
-map.base:4349fe73-7344-4871-86fa-3c5fbb5f5e54
+created:1582720021648
+filter:[field:tmap.id[32484ed4-92f2-4822-b31c-2c8ea0113989]]
+map.base:32484ed4-92f2-4822-b31c-2c8ea0113989
 map.role:node-filter
 map.type:neighbor
-modified:1582719062307
+modified:1582720021648
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ABAC Attribute Based Access Control/filter/nodes
-tmap.id:9abbfd3a-b99a-4cad-8381-89e820e93128
+tmap.id:0163d276-efc8-42ea-b545-5de789e3731c
 type:text/vnd.tiddlywiki
 
 No body provided

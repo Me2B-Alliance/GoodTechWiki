@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071715
+created:1582720003333
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071715
+modified:1582720003333
 name:IEEE Internet of Things
 parent.org:IEEE Computer Society
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:IEEE Internet of Things
-tmap.edges:{"578df4a3-f078-47bf-a66f-24003dec3296":{"to":"c6aea1c5-52e9-4930-9a11-5d3071d81781","type":"convenor"},"7563c4e3-028b-4d46-87e5-0a16eaf405c9":{"to":"1a890b2c-8df5-444e-989f-9fd4d163ccb7","type":"organization-for-group"},"b1d5f313-1b8e-4cef-804a-c4f94bea7c9b":{"to":"14724e45-8bba-4e17-9b38-3da445644518","type":"author"}}
-tmap.id:12551380-be5f-4119-aeca-b0b3947ab4bb
+tmap.edges:{"4206ca06-99ed-4c2c-9114-1b7ad8502fe5":{"to":"eafa8c53-e57e-4210-9e8e-5f8186e41da5","type":"convenor"},"1780354d-b20c-4e9f-8629-209fe16dbe7e":{"to":"5a21c8c4-d841-4cdd-ae50-dadbc4ceee4b","type":"organization-for-group"},"0a0dcbd4-1857-45ca-8ae4-c7129669a0c3":{"to":"89d2ee4b-3757-4777-9d18-da3409903820","type":"author"}}
+tmap.id:2872c0c2-2412-45bf-a8fa-5e5f261eb0bb
 type:text/vnd.tiddlywiki
 url:http://iot.ieee.org/about.html
 
@@ -30,5 +30,4 @@ The IEEE Internet of Things is one of IEEE’s important, multi-disciplinary, cr
 More information is revealed daily about the Internet of Things and its potential to transform how we communicate with machines and each other. To bring clarity to and disseminate information globally, IEEE Future Directions launched the IEEE IoT Initiative in 2014. It serves as a home for the global community of engineering and technology professionals in industry, academia, and government working in related technologies. Here, professionals learn, share knowledge, and collaborate on this sweeping convergence of technologies, markets, applications, and the Internet. Participants in the community have access to the most trusted resources developed including publications, videos, articles, and interviews, as well as webinars, Hangouts, presentations, workshops, and conferences, this web portal, and much more.
 
 You are invited to join, participate, and enjoy the benefits of becoming part of this cutting-edge Initiative.
-
 

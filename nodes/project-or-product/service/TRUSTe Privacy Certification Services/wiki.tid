@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071969
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,21 +10,21 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003597
 name:TRUSTe Privacy Certification Services
 parent.org:TrustArc / Trust-e
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[products_projects]] [[parent]]
 terms.of.service:
 tiddler.classification:node
 title:TRUSTe Privacy Certification Services
 tmap.edges:{}
-tmap.id:9e427db1-db67-44e5-a2a1-8bf2a5e7163b
+tmap.id:3ee54699-b8a2-4401-92cd-e6562bb24407
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/certifications/
 version.or.edition:
@@ -33,5 +33,4 @@ working.group:
 Demonstrate privacy compliance, reduce risk and build trust with an independent review powered by TrustArc technology and TRUSTe privacy experts.
 
 TrustArc and our TRUSTe subsidiary have over two decades of experience and a large team of privacy experts ready to help you demonstrate compliance with major privacy frameworks, including GDPR, EU Privacy Shield, APEC and other global frameworks.
-
 

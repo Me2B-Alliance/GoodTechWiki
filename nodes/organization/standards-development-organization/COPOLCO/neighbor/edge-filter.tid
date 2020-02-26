@@ -1,12 +1,12 @@
-created:1582719062126
+created:1582720021482
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b3d5509e-e9c1-46bb-9fa6-52233d3aa129
+map.base:f8ed6a39-8ed7-417e-a704-8b3289950004
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062126
+modified:1582720021482
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO/filter/edges
-tmap.id:18478265-90ed-4b7b-9d66-854e4b0f7deb
+tmap.id:0a03270d-8253-4ca4-a19b-94c5e45f0a42
 type:text/vnd.tiddlywiki
 
 No body provided

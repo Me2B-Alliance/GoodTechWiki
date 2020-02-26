@@ -1,17 +1,17 @@
-config.central-topic:3c933ead-07dc-4f40-907a-370923fe52a0
+config.central-topic:3b9bf265-5855-421d-913c-f05bbef30d21
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062140
-id:cbc0a57b-9e30-414d-8259-692043c3ae96
+created:1582720021493
+id:f4498ef7-c1f5-4b08-b742-44c27273a456
 isview:false
-map.base:3c933ead-07dc-4f40-907a-370923fe52a0
+map.base:3b9bf265-5855-421d-913c-f05bbef30d21
 map.role:definition
 map.type:neighbor
-modified:1582719062140
+modified:1582720021493
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mass Network
-tmap.id:cbc0a57b-9e30-414d-8259-692043c3ae96
+tmap.id:f4498ef7-c1f5-4b08-b742-44c27273a456
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mass Network

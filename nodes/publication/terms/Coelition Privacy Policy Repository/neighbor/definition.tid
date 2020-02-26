@@ -1,17 +1,17 @@
-config.central-topic:10509f73-ba21-49a4-ae21-17d39e33ce83
+config.central-topic:29e37ac4-c2f4-4652-a356-94ef5ca963b4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062330
-id:5755b20b-cc63-4787-a107-33965ba8bd30
+created:1582720021674
+id:2ae6411e-dc2f-4e41-815f-eb7bcae30ef8
 isview:false
-map.base:10509f73-ba21-49a4-ae21-17d39e33ce83
+map.base:29e37ac4-c2f4-4652-a356-94ef5ca963b4
 map.role:definition
 map.type:neighbor
-modified:1582719062330
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Coelition Privacy Policy Repository
-tmap.id:5755b20b-cc63-4787-a107-33965ba8bd30
+tmap.id:2ae6411e-dc2f-4e41-815f-eb7bcae30ef8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Coelition Privacy Policy Repository

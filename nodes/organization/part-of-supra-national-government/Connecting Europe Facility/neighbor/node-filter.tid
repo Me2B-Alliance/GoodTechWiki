@@ -1,12 +1,12 @@
-created:1582719062121
-filter:[field:tmap.id[23e101a8-502e-407d-81af-8ca79f689dc9]]
-map.base:23e101a8-502e-407d-81af-8ca79f689dc9
+created:1582720021478
+filter:[field:tmap.id[34e1e197-d99d-4079-b9fc-c331552fb8e1]]
+map.base:34e1e197-d99d-4079-b9fc-c331552fb8e1
 map.role:node-filter
 map.type:neighbor
-modified:1582719062121
+modified:1582720021478
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Connecting Europe Facility/filter/nodes
-tmap.id:ff0fcabe-1460-4578-8e27-7cf19e6f9050
+tmap.id:2c41d009-ca1d-4bfe-96e3-f129ee5c28bd
 type:text/vnd.tiddlywiki
 
 No body provided

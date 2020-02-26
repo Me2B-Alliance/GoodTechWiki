@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071753
+created:1582720003371
 date.ended:
 date.founded:2018-12-31
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071753
+modified:1582720003371
 org.name:Fundamentals of Collective Adaptive Systems FoCAS
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Fundamentals of Collective Adaptive Systems FoCAS
-tmap.edges:{"f700bae4-cd20-469c-b520-42a99bd6a43c":{"to":"390492c7-e311-465a-b32e-6fe1c6b92a88","type":"default"}}
-tmap.id:8409c64c-fa4c-4a56-bb9e-5a854a3f3f22
+tmap.edges:{"3d34e1c2-64c2-4ea2-9c31-b08588a6417f":{"to":"43c615ed-885b-48e7-9449-4e2fc7c0145f","type":"default"}}
+tmap.id:405b453e-90f1-48cb-b5e8-d79a65d0313c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.focas.eu/about-focas/
@@ -46,5 +46,4 @@ between researchers within Europe and internationally
 * Providing dissemination opportunities, a positive interface between scientists, industry and the
 science-aware public to demonstrate how CAS can impact on society
 * Providing training opportunities for researchers through summer schools and exchange opportunities
-
 

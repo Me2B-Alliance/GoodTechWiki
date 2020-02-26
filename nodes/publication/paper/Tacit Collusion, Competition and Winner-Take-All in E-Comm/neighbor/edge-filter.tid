@@ -1,12 +1,12 @@
-created:1582719062255
+created:1582720021605
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:be8011fc-9048-47b3-aaa0-51f7edbb7bdf
+map.base:10d37cbb-2e32-4fce-be43-af16806a9821
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062255
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tacit Collusion, Competition and Winner-Take-All in E-Comm/filter/edges
-tmap.id:7f6d9a4f-f011-40b6-b496-2f0a7aa6b972
+tmap.id:e0d9e5a5-c817-4b80-bd76-9a9c2b392bcb
 type:text/vnd.tiddlywiki
 
 No body provided

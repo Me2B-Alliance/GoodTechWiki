@@ -1,12 +1,12 @@
-created:1582719062244
-filter:[field:tmap.id[908d8be9-d83a-4c53-b960-ff0c2c016ecb]]
-map.base:908d8be9-d83a-4c53-b960-ff0c2c016ecb
+created:1582720021597
+filter:[field:tmap.id[28fa6054-8110-46e3-a2aa-6c243e8f093b]]
+map.base:28fa6054-8110-46e3-a2aa-6c243e8f093b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062244
+modified:1582720021597
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Introduction to DID Auth/filter/nodes
-tmap.id:3b829f46-cc3b-4aa2-bf0f-830ad5f0ffbd
+tmap.id:c68d6d54-171d-4142-9621-2ca1c4c159d9
 type:text/vnd.tiddlywiki
 
 No body provided

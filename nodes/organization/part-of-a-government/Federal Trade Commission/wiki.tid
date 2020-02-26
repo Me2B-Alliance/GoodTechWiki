@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071747
+created:1582720003365
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071747
+modified:1582720003365
 org.name:Federal Trade Commission
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Federal Trade Commission
-tmap.edges:{"d0d5b94a-9df8-470f-860a-dc15e7cb35f9":{"to":"44c29713-c4a0-496c-b375-9bb57d7bd8cd","type":"general-member"},"82bb6cdf-6bc0-4899-a7a6-60e6470e834c":{"to":"3fa68ad0-4e2a-48c0-940e-d0d2f0e44fd3","type":"government-connection"}}
-tmap.id:fc625389-e9a5-4564-adc3-da1d52b1a26b
+tmap.edges:{"b4401d4f-84ce-4c05-ac9e-07f945f489ff":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"},"c8d4c7b7-9b49-45f6-8f24-b39fde5a6471":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
+tmap.id:07c7e0a1-5cd4-4d9e-806f-422edfc633e3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://ftc.gov
-
 
 
 

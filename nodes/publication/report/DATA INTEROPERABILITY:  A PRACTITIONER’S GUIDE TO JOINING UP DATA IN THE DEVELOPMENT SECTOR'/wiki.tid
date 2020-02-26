@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071973
+authors.editors:[[luis gonzález morales]] [[tom orrell]]
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:DATA INTEROPERABILITY:  A PRACTITIONER’S GUIDE TO JOINING UP DATA IN THE DEVELOPMENT SECTOR'
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DATA INTEROPERABILITY:  A PRACTITIONER’S GUIDE TO JOINING UP DATA IN THE DEVELOPMENT SECTOR'
 tmap.edges:{}
-tmap.id:07e65190-98ef-4b79-9017-6484a66135e5
+tmap.id:18707d07-fdd9-4e60-b4f2-584451be5bd2
 type:text/vnd.tiddlywiki
 url:https://unstats.un.org/wiki/display/InteropGuide/Home
 version.or.edition:
@@ -35,5 +35,4 @@ At the Data for Development Festival in Bristol in March 2017, the Collaborative
 The Collaborative on SDG Data Interoperability will continue to build and maintain the Guide in this electronic space as it develops as a tool, adding new modules and examples as well as ancillary materials to help raise awareness of its existence and usability.
 
 It is hoped that new synergies will form between data producers, publishers, users, and those providing capacity building and training. In this way, the guidance set out within the Guide can be incorporated into existing training materials and modules, and a consistent approach to the system-wide improvement of data interoperability can start to become a reality in the development sector.
-
 

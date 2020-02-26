@@ -1,12 +1,12 @@
-created:1582719062226
+created:1582720021582
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4f3981fe-1cba-49e6-9a51-1bcb3be1dabc
+map.base:7e6451be-34a9-47dd-8114-946d3045fbff
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062226
+modified:1582720021582
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Investigatory Powers Reports Briefing/filter/edges
-tmap.id:e8f6532c-d94c-4c65-92ea-8fbf3c32b0bc
+tmap.id:71a49464-a6c0-465f-bf75-099081d9623a
 type:text/vnd.tiddlywiki
 
 No body provided

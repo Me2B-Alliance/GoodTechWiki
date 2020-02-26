@@ -1,12 +1,12 @@
-created:1582719062368
+created:1582720021705
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2851d23e-c43c-4f33-ac1d-4d3f3fe2b719
+map.base:d11f01ec-9d16-4692-8843-60e8c368fe46
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062368
+modified:1582720021705
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/XRI Data Interchange (XDI) TC/filter/edges
-tmap.id:ddb2dfa3-fea8-4d64-b450-eaa660cd2821
+tmap.id:93dde13b-16fe-4b2c-97ff-e1bf4813acaa
 type:text/vnd.tiddlywiki
 
 No body provided

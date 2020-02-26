@@ -1,12 +1,12 @@
-created:1582719062123
-filter:[field:tmap.id[12771dc9-4021-464b-9ff3-232fb21a8507]]
-map.base:12771dc9-4021-464b-9ff3-232fb21a8507
+created:1582720021480
+filter:[field:tmap.id[0d19a1c9-8e7b-4975-9a2f-3f4f3e567b4c]]
+map.base:0d19a1c9-8e7b-4975-9a2f-3f4f3e567b4c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062123
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Horizon 2020/filter/nodes
-tmap.id:7642e01e-60f3-4f5d-97d8-8555168b0de7
+tmap.id:898e1ea7-bfe9-4a7d-8360-39fda2605dfb
 type:text/vnd.tiddlywiki
 
 No body provided

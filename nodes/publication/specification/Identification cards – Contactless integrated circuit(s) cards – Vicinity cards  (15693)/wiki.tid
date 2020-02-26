@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071722
+created:1582720003339
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071722
+modified:1582720003339
 name:Identification cards – Contactless integrated circuit(s) cards – Vicinity cards  (15693)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Contactless integrated circuit(s) cards – Vicinity cards  (15693)
-tmap.edges:{"a89c9776-131b-4348-bfb3-7fc542e4fe43":{"to":"f2eb4f7f-f612-449d-bce7-80f3fd11af9a","type":"specification-of-group"}}
-tmap.id:e33bb792-53f6-4f75-be74-4bddd54dcec1
+tmap.edges:{"c99ae11d-6350-4e11-ae2b-14a7225b6ad7":{"to":"962b3bfc-ae5d-4b62-a5d5-b167c6a71390","type":"specification-of-group"}}
+tmap.id:bd8fa6b3-0a96-4dcf-958b-303d160a6c2b
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 This part of ISO/IEC 15693 specifies the physical characteristics of vicinity cards (VICC). It applies to identification cards of the card type ID-1 operating in vicinity of a coupling device.
-
 

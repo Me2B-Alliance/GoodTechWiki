@@ -1,17 +1,17 @@
-config.central-topic:3463873b-9831-4729-a9ad-8aa6a11d8406
+config.central-topic:c9a1e9ab-3002-4f70-8ab3-d164998c295f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062326
-id:422b4b3f-fe7c-44b5-a67e-ed5e5d23dda4
+created:1582720021670
+id:7faf14de-8b71-499b-8e5f-58042cbbcac2
 isview:false
-map.base:3463873b-9831-4729-a9ad-8aa6a11d8406
+map.base:c9a1e9ab-3002-4f70-8ab3-d164998c295f
 map.role:definition
 map.type:neighbor
-modified:1582719062326
+modified:1582720021670
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_75_2006(E)
-tmap.id:422b4b3f-fe7c-44b5-a67e-ed5e5d23dda4
+tmap.id:7faf14de-8b71-499b-8e5f-58042cbbcac2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_75_2006(E)

@@ -1,12 +1,12 @@
-created:1582719062320
-filter:[field:tmap.id[40834b4f-9215-44c7-8b3b-62ed99aeaac1]]
-map.base:40834b4f-9215-44c7-8b3b-62ed99aeaac1
+created:1582720021661
+filter:[field:tmap.id[fedbe11b-c654-46bb-912e-84dcd74038ba]]
+map.base:fedbe11b-c654-46bb-912e-84dcd74038ba
 map.role:node-filter
 map.type:neighbor
-modified:1582719062320
+modified:1582720021661
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Payment App API/filter/nodes
-tmap.id:5b31abf0-0ae4-4633-97b9-ac514b4a6327
+tmap.id:15ebd30f-3f99-4364-ab70-ace5df60ba61
 type:text/vnd.tiddlywiki
 
 No body provided

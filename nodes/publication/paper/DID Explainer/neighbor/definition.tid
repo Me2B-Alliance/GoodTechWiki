@@ -1,17 +1,17 @@
-config.central-topic:3d3289bb-f4d3-4cac-8e27-d29799b96c71
+config.central-topic:af299de1-a08b-46ff-92c4-264084af1371
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062237
-id:e9c946e5-aee8-4ce9-81ee-85ea307c1a1b
+created:1582720021591
+id:3a4ab170-ed93-429b-9db5-58dd87fd009a
 isview:false
-map.base:3d3289bb-f4d3-4cac-8e27-d29799b96c71
+map.base:af299de1-a08b-46ff-92c4-264084af1371
 map.role:definition
 map.type:neighbor
-modified:1582719062237
+modified:1582720021591
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID Explainer
-tmap.id:e9c946e5-aee8-4ce9-81ee-85ea307c1a1b
+tmap.id:3a4ab170-ed93-429b-9db5-58dd87fd009a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DID Explainer

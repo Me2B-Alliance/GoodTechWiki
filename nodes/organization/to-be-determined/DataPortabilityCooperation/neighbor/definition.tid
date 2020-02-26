@@ -1,17 +1,17 @@
-config.central-topic:f4d31c12-7b37-4c8e-8905-8cbf845c2aa5
+config.central-topic:0faf5ed5-8c32-4927-ac77-b88894953589
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062133
-id:685c6837-160c-4429-ae2f-e57c82a14438
+created:1582720021488
+id:ea59b34e-d6a7-47c1-88e8-7e4038e8416f
 isview:false
-map.base:f4d31c12-7b37-4c8e-8905-8cbf845c2aa5
+map.base:0faf5ed5-8c32-4927-ac77-b88894953589
 map.role:definition
 map.type:neighbor
-modified:1582719062133
+modified:1582720021488
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DataPortabilityCooperation
-tmap.id:685c6837-160c-4429-ae2f-e57c82a14438
+tmap.id:ea59b34e-d6a7-47c1-88e8-7e4038e8416f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DataPortabilityCooperation

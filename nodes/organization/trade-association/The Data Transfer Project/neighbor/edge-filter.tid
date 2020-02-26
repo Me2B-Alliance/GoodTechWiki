@@ -1,12 +1,12 @@
-created:1582719062163
+created:1582720021524
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a5f4b134-c21b-4ead-8659-fe0eb1090ce8
+map.base:a2853dda-ba5d-4ae1-978f-82a4884e9b41
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062163
+modified:1582720021524
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Data Transfer Project/filter/edges
-tmap.id:a6bcd71f-f9fe-4a17-bc76-4298d4d14c9e
+tmap.id:7cfcf9e3-ac97-4397-8d35-19e6c5fe8c85
 type:text/vnd.tiddlywiki
 
 No body provided

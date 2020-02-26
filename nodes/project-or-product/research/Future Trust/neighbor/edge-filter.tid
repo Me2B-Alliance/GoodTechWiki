@@ -1,12 +1,12 @@
-created:1582719062188
+created:1582720021545
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c195f082-9f8d-442b-9daa-7d56db09fa80
+map.base:c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062188
+modified:1582720021545
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future Trust/filter/edges
-tmap.id:6d6685fa-5817-481a-a03b-915fcc83ca15
+tmap.id:ff369fd8-eed8-45ef-b138-b9dd9aaa5250
 type:text/vnd.tiddlywiki
 
 No body provided

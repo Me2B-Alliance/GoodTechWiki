@@ -1,12 +1,12 @@
-created:1582719062355
+created:1582720021696
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:64406f57-e936-4f64-980e-5eaf1bbb1cdb
+map.base:8d777b2c-399a-476b-ba6f-a22ad802c196
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062355
+modified:1582720021696
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cross-Enterprise Security and Privacy Authorization (XSPA)/filter/edges
-tmap.id:b38c7374-9d45-46de-bb75-251ad8d3ad77
+tmap.id:17583a69-f6e2-4060-84fa-0caa71d70c28
 type:text/vnd.tiddlywiki
 
 No body provided

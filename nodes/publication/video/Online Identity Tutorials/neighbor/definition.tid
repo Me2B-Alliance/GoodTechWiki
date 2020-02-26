@@ -1,17 +1,17 @@
-config.central-topic:f32fba5b-a158-4c5b-a2e5-961a49b2b57c
+config.central-topic:fb806c40-3042-4f3d-ac78-c2f830f9547d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062346
-id:6e8def16-27e6-4395-8a67-5884c7b933e3
+created:1582720021688
+id:a2dc9df5-47b9-4bc0-9c98-6c1478c454ae
 isview:false
-map.base:f32fba5b-a158-4c5b-a2e5-961a49b2b57c
+map.base:fb806c40-3042-4f3d-ac78-c2f830f9547d
 map.role:definition
 map.type:neighbor
-modified:1582719062346
+modified:1582720021688
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Online Identity Tutorials
-tmap.id:6e8def16-27e6-4395-8a67-5884c7b933e3
+tmap.id:a2dc9df5-47b9-4bc0-9c98-6c1478c454ae
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Online Identity Tutorials

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,23 +13,23 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Datacommons.org
 org.type:to-be-determined
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[research]]
 relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[consolidation of open datasets]]
 tech.focus:Data Mobility
 tiddler.classification:node
 title:Datacommons.org
 tmap.edges:{}
-tmap.id:bbd72876-eccf-4164-ba39-f36694388b16
+tmap.id:6ecb317c-1f1b-47b0-8710-82e435610402
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.datacommons.org/
@@ -41,5 +41,4 @@ Data Commons attempts to synthesize a single "Open Knowledge Graph" (OKG) from t
 You can use the Data Commons Graph Browser to browse the graph. The data can be programmatically accessed via APIs. For example usage: check out the tutorials.
 
 Data Commons is a project started by Google: and is intended to be a community effort. Get involved!
-
 

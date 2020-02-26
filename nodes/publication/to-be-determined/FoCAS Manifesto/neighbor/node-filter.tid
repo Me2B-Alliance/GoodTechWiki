@@ -1,12 +1,12 @@
-created:1582719062333
-filter:[field:tmap.id[390492c7-e311-465a-b32e-6fe1c6b92a88]]
-map.base:390492c7-e311-465a-b32e-6fe1c6b92a88
+created:1582720021676
+filter:[field:tmap.id[43c615ed-885b-48e7-9449-4e2fc7c0145f]]
+map.base:43c615ed-885b-48e7-9449-4e2fc7c0145f
 map.role:node-filter
 map.type:neighbor
-modified:1582719062333
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FoCAS Manifesto/filter/nodes
-tmap.id:451be0f1-bcdb-49dc-b6df-ab0e881c83b5
+tmap.id:0ac2ddde-b7f9-468a-aed7-f91723f0c867
 type:text/vnd.tiddlywiki
 
 No body provided

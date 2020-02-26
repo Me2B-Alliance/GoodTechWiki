@@ -1,17 +1,17 @@
-config.central-topic:b4299978-0346-47b3-b66c-c2b49ed5bf9c
+config.central-topic:91b408c3-8040-4013-8283-fec822eb22cb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062173
-id:1e5a6657-8db3-4450-a709-51234724dc96
+created:1582720021534
+id:b7c7a9c8-aadd-45e1-abc0-fede05b70b1c
 isview:false
-map.base:b4299978-0346-47b3-b66c-c2b49ed5bf9c
+map.base:91b408c3-8040-4013-8283-fec822eb22cb
 map.role:definition
 map.type:neighbor
-modified:1582719062173
+modified:1582720021534
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/John Bradley
-tmap.id:1e5a6657-8db3-4450-a709-51234724dc96
+tmap.id:b7c7a9c8-aadd-45e1-abc0-fede05b70b1c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of John Bradley

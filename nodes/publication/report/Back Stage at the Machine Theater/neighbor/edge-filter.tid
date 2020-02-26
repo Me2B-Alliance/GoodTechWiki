@@ -1,12 +1,12 @@
-created:1582719062265
+created:1582720021611
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3da198f1-8bd6-4be2-a5d7-dca05a0f3b76
+map.base:e66567bb-1b18-4340-b1b1-1ec41d97fc32
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062265
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Back Stage at the Machine Theater/filter/edges
-tmap.id:a9eae672-310a-44ce-858f-ea5b33891736
+tmap.id:08907d22-3bf7-4d77-b052-253af8b7e832
 type:text/vnd.tiddlywiki
 
 No body provided

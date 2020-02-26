@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071733
+created:1582720003351
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071733
+modified:1582720003351
 name:HRPC Human Rights Protocol Considerations Research Group
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:HRPC Human Rights Protocol Considerations Research Group
 tmap.edges:{}
-tmap.id:16129a76-ff74-4504-94f2-e8b6ede28f89
+tmap.id:30d0028e-ee1a-445e-bccf-b986f09df232
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -50,5 +50,4 @@ The research group plans on using a variety of research methods to create differ
 * **Film and textual interviews** with a diverse set of community members, to give an accessible insight into the variety of opinions on this topic represented in the IETF.
 * **Data analysis and visualization,** to research and visualize the language used in current and historic RFCs and mailinglist discussions to expose core architectural principles, language and deliberations on human rights of those affected by the network.
 * **Protocol analysis.** Data analysis and visualization of (existing) protocols in the wild to research their concrete impact on human rights.
-
 

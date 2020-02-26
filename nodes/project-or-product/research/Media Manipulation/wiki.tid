@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071970
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,26 +10,25 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003598
 name:Media Manipulation
 parent.org:Data & Society Research Institute
 partners:
-people:[object Set]
+people:[[joan donovan]] [[alice e. marwick]] [[becca lewis]] [[caroline jack]] [[francesca tripodi]] [[mark ackerman]] [[matt goerzen]] [[robyn caplan]] [[whitney phillips]] [[jeanna neefe matthews]] [[rishab nithyan]] [[pete krafft]] [[lauren hanson]] [[patrick davison]] [[leon yin]] [[kinjal dave]]
 purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[data & society research]] [[publications]] [[parent]]
 terms.of.service:
 tiddler.classification:node
 title:Media Manipulation
 tmap.edges:{}
-tmap.id:6392ae94-3302-424c-8a41-8e62fd86fb7d
+tmap.id:5679167d-2e39-4352-9b3e-8283e57c43ee
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/media-manipulation/
 version.or.edition:
 working.group:
 
 The Media Manipulation initiative works to provide news organizations, civil society, platforms, and policymakers with insights into new forms of media manipulation to ensure a close and informed relationship between technical research and socio-political outcomes. This requires assessing strategic manipulation, imagining the possibilities for encoding fairness and accountability into technical systems, and conducting ethnographic research to describe and understand new social activity.
-
 

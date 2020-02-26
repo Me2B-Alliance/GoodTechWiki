@@ -1,12 +1,12 @@
-created:1582719062246
-filter:[field:tmap.id[aa1204fe-9b5d-4600-8c5d-078065ae1aef]]
-map.base:aa1204fe-9b5d-4600-8c5d-078065ae1aef
+created:1582720021601
+filter:[field:tmap.id[7f197cfb-39c7-4b05-917d-626ce9ee3b43]]
+map.base:7f197cfb-39c7-4b05-917d-626ce9ee3b43
 map.role:node-filter
 map.type:neighbor
-modified:1582719062246
+modified:1582720021601
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning/filter/nodes
-tmap.id:586a498e-8855-47f9-97a6-315d661f371a
+tmap.id:b32df0b4-9766-433c-a308-d5a6561f2297
 type:text/vnd.tiddlywiki
 
 No body provided

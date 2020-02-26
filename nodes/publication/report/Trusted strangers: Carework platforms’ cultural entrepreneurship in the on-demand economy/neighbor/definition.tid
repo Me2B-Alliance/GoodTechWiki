@@ -1,17 +1,17 @@
-config.central-topic:7017e910-a37d-407c-9e73-995891c27fbf
+config.central-topic:19525931-7a3c-496a-a8e2-436885f69bf4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062299
-id:5f337626-c8a9-4167-aa1f-7ac3bb4ad44f
+created:1582720021644
+id:a4ff30e3-12c4-437f-8893-2d0926e12a98
 isview:false
-map.base:7017e910-a37d-407c-9e73-995891c27fbf
+map.base:19525931-7a3c-496a-a8e2-436885f69bf4
 map.role:definition
 map.type:neighbor
-modified:1582719062299
+modified:1582720021644
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trusted strangers: Carework platforms’ cultural entrepreneurship in the on-demand economy
-tmap.id:5f337626-c8a9-4167-aa1f-7ac3bb4ad44f
+tmap.id:a4ff30e3-12c4-437f-8893-2d0926e12a98
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trusted strangers: Carework platforms’ cultural entrepreneurship in the on-demand economy

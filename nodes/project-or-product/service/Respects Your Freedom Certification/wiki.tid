@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071970
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003597
 name:Respects Your Freedom Certification
 parent.org:Free Software Foundation
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:Respects Your Freedom Certification
 tmap.edges:{}
-tmap.id:b97f03e4-f381-4f2e-86f7-c01266819cc6
+tmap.id:a5b0539d-2e56-422b-86bb-cba9b7b8d307
 type:text/vnd.tiddlywiki
 url:https://www.fsf.org/resources/hw/endorsement/respects-your-freedom
 version.or.edition:
 working.group:
 
 The "Respects Your Freedom" computer hardware product certification program encourages the creation and sale of hardware that will do as much as possible to respect your freedom and your privacy: and will ensure that you have control over your device.The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:201f4dbc-785c-4ab2-8a5c-86f634e16048
+config.central-topic:d0ab7c69-e6f3-46e8-81eb-d31cfcc5a680
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062207
-id:9c0af6f0-b3dc-497b-95ae-e6606b627c97
+created:1582720021561
+id:34c1d661-11f7-4001-8f56-dcda55341a38
 isview:false
-map.base:201f4dbc-785c-4ab2-8a5c-86f634e16048
+map.base:d0ab7c69-e6f3-46e8-81eb-d31cfcc5a680
 map.role:definition
 map.type:neighbor
-modified:1582719062207
+modified:1582720021561
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Atam.ID
-tmap.id:9c0af6f0-b3dc-497b-95ae-e6606b627c97
+tmap.id:34c1d661-11f7-4001-8f56-dcda55341a38
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Atam.ID

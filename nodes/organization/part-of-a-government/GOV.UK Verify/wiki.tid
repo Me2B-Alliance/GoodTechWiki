@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071751
+created:1582720003369
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071751
+modified:1582720003369
 org.name:GOV.UK Verify
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:GOV.UK Verify
-tmap.edges:{"07a93210-d47d-411e-92ec-025124ec54a1":{"to":"1d79a609-fac6-46b3-adfa-0ecc744e8ac7","type":"government-connection"}}
-tmap.id:2d160100-9d01-4af3-835f-cb74571169fe
+tmap.edges:{"944b7ac4-ef91-4fa6-ab1a-2ffa8393e446":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"}}
+tmap.id:8c3785d7-9797-4f41-a706-b96201df1b83
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify
-
 
 
 

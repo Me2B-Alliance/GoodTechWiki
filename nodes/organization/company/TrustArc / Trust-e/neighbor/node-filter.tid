@@ -1,12 +1,12 @@
-created:1582719062097
-filter:[field:tmap.id[a1df45e4-b0a5-49d1-bc6d-7a07c9137a7c]]
-map.base:a1df45e4-b0a5-49d1-bc6d-7a07c9137a7c
+created:1582720021454
+filter:[field:tmap.id[1b004d8f-e200-4ab9-8d63-170db209c348]]
+map.base:1b004d8f-e200-4ab9-8d63-170db209c348
 map.role:node-filter
 map.type:neighbor
-modified:1582719062097
+modified:1582720021454
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc / Trust-e/filter/nodes
-tmap.id:139b4f73-3906-4761-9d46-e9cecad2134f
+tmap.id:3b614ba8-c8de-4f50-84c6-43df1b535bdc
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:f86ae2e9-62b8-40d9-b5ce-40d73fd5f9c6
+config.central-topic:8888319d-66de-4183-a2fb-9c8af0e59aa0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062244
-id:60b9d5ae-2b2a-49d0-a0fb-d649fb595971
+created:1582720021598
+id:8c6d5b31-b3b8-4214-a8d7-8335b4d3d489
 isview:false
-map.base:f86ae2e9-62b8-40d9-b5ce-40d73fd5f9c6
+map.base:8888319d-66de-4183-a2fb-9c8af0e59aa0
 map.role:definition
 map.type:neighbor
-modified:1582719062244
+modified:1582720021598
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Labour Dynamics in the Russian Federation
-tmap.id:60b9d5ae-2b2a-49d0-a0fb-d649fb595971
+tmap.id:8c6d5b31-b3b8-4214-a8d7-8335b4d3d489
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Labour Dynamics in the Russian Federation

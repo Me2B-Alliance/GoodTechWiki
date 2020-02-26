@@ -1,12 +1,12 @@
-created:1582719062245
+created:1582720021600
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:15259a4d-9d18-4d82-8665-791d6067ef53
+map.base:90e533d1-b08a-473b-b55c-74a58970fdd5
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062245
+modified:1582720021600
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Of Techno-Ethics and Techno-Affects/filter/edges
-tmap.id:bad3434e-d7d5-43f7-ba0e-e931a5e45921
+tmap.id:b28024c0-1777-43f4-a5d5-97dcc9506655
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[alessandro acquisti]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Adjustable Autonomy and Human-Agent Teamwork in Practice: An Interim Report on Space Applications
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Adjustable Autonomy and Human-Agent Teamwork in Practice: An Interim Report on Space Applications
 tmap.edges:{}
-tmap.id:d51286cf-922f-4c43-b136-c89d73e33c18
+tmap.id:3a338bdf-22e1-4cb6-8cf3-8df560bfa812
 type:text/vnd.tiddlywiki
 url:https://www.semanticscholar.org/paper/Adjustable-Autonomy-and-Human-Agent-Teamwork-in-An-Bradshaw-Sierhuis/8185c2e900d56f1c5cd9a0c615148c9b0c70bc05
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 We give a preliminary perspective on the basic principles and pitfalls of adjustable autonomy and human-centered teamwork. We then summarize the interim results of our study on the problem of work practice modeling and human-agent collaboration in space applications, the development of a broad model of human-agent teamwork grounded in practice, and the integration of the Brahms, KAoS, and NOMADS agent frameworks We hope our work will benefit those who plan and participate in work activities in a wide variety of space applications, as well as those who are interested in design and execution tools for teams of robots that can function as effective assistants to humans.
-
 

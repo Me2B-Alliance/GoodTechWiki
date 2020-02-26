@@ -1,17 +1,17 @@
-config.central-topic:79ea197a-ae8d-447f-a341-3cfd496393c5
+config.central-topic:476391fc-82fa-4df7-8af2-0229fd537835
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062158
-id:dd62179e-1ac8-4de1-abda-25dc7be1ccad
+created:1582720021518
+id:33d0a157-d703-43b3-8d0f-77b9f3da45ff
 isview:false
-map.base:79ea197a-ae8d-447f-a341-3cfd496393c5
+map.base:476391fc-82fa-4df7-8af2-0229fd537835
 map.role:definition
 map.type:neighbor
-modified:1582719062158
+modified:1582720021518
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Association for Public Health Statistics and Information Systems
-tmap.id:dd62179e-1ac8-4de1-abda-25dc7be1ccad
+tmap.id:33d0a157-d703-43b3-8d0f-77b9f3da45ff
 type:text/vnd.tiddlywiki
 
 Neighbor Map of National Association for Public Health Statistics and Information Systems

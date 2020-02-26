@@ -1,12 +1,12 @@
-created:1582719062333
+created:1582720021676
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:390492c7-e311-465a-b32e-6fe1c6b92a88
+map.base:43c615ed-885b-48e7-9449-4e2fc7c0145f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062333
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FoCAS Manifesto/filter/edges
-tmap.id:5d365fcf-239f-4ce7-8b95-2c0c06361ba0
+tmap.id:7f53a8ec-49f1-4f6a-a55b-892ca3a8eb2f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062364
+created:1582720021701
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fa71688a-cd50-4337-a046-e03bbf93c1af
+map.base:5edf8d2d-b2d8-4f67-9641-41aea66240da
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062364
+modified:1582720021701
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Optical Memory Cards WG9/filter/edges
-tmap.id:dc25b1e5-149b-460b-8194-ad9f8ed81927
+tmap.id:98e8a26f-e6f1-4d55-8b18-f8452a0a2180
 type:text/vnd.tiddlywiki
 
 No body provided

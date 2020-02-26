@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071770
+created:1582720003388
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071770
+modified:1582720003388
 org.name:MULTICERT – Serviços de Certificação Electrónica S.A
 org.type:company
 parent.org:
@@ -23,16 +23,15 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:MULTICERT – Serviços de Certificação Electrónica S.A
-tmap.edges:{"aa9f44b5-cda4-47d9-87c2-4e6d4e4b6099":{"to":"c195f082-9f8d-442b-9daa-7d56db09fa80","type":"general-member"}}
-tmap.id:f8b6a3fe-50a7-4996-8e65-4d669f31480a
+tmap.edges:{"56048724-659d-4902-8a8b-66d38003265a":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
+tmap.id:b9610c9a-3439-4ad8-8dd5-31cd815b1084
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.multicert.com/en/
 
 MULTICERT – Serviços de Certificação Electrónica S.A. is a company broadly connected to the new information and communication technologies, focused in electronic certification and electronic communication / transaction security. Specialized in this area the company has begun its activity in 2002 having CTT (Portuguese Post Office), SIBS (Portuguese ACH and inter-banking services operator), INCM (Portuguese Mint) and Portugal Telecom as stakeholders. MULTICERT is committed to render electronic certification services for the security in the electronic business, and valuate, diffuse and stimulate the development of the Digital Economy, in Portugal and in Europe.
-
 

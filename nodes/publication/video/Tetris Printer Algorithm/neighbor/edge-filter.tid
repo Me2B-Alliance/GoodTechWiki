@@ -1,12 +1,12 @@
-created:1582719062346
+created:1582720021689
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a14d036d-9ad1-492c-a25c-81768887642c
+map.base:5a193283-8ddb-41d6-9c13-5baf92bb2939
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062346
+modified:1582720021689
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tetris Printer Algorithm/filter/edges
-tmap.id:b7fd2ef2-4cc7-41bd-9475-b4ca6e78cb9c
+tmap.id:a2bca4b6-dfed-4fae-9542-f8ac4eade143
 type:text/vnd.tiddlywiki
 
 No body provided

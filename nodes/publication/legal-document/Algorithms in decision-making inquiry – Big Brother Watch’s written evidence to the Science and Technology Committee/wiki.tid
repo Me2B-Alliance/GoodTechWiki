@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Algorithms in decision-making inquiry – Big Brother Watch’s written evidence to the Science and Technology Committee
 publication.type:legal document
 purpose:
 sector:government
 sponsoring.org:
-tags:[object Set]
+tags:[[research & briefings]] [[parliamentary briefings & evidence]]
 tech.focus:
 tiddler.classification:node
 title:Algorithms in decision-making inquiry – Big Brother Watch’s written evidence to the Science and Technology Committee
 tmap.edges:{}
-tmap.id:b7619fc0-f28f-4962-a68d-beaadebcf0a3
+tmap.id:138563ba-ccaa-4dac-b632-7c29eee5dab3
 type:text/vnd.tiddlywiki
 url:https://bigbrotherwatch.org.uk/wp-content/uploads/2017/11/Big-Brother-Watch-Submission.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 We have long warned against the adoption of Big Data analytics as the panacea to society’s woes. We have raised concern about bias, assumptionsand the potential for negative or restrictive conclusions being drawn,which could cause individuals harm. Algorithms, the toolsused to analyse big data,are clearly part of this concern. 2.Firstly,not all data is good data.Rather than encouraging “big data” analytics, we should be encouraging “relevant data”and “proportionate data”analytics, especially in the context of those made by or carried out in relation to Government and public bodies.3.Whilst some algorithms are designed to provide yes/no answers, increasingly that is not the sole purpose.   Indeed as we have seen from therecent “Growing the Artificial Intelligence Industry in the UK”1paper published by the Professor Dame Wendy Hall and Jerome Pesenti, the push appears to be for algorithms to infiltrate and impact every corner of our data driven lives.  We feel profoundlynervous of such proposals and stress that caution is applied to the optimism of a perfect world which the paper tends to err towards.  4.Firstly human beings are nuanced.  There is no such thing as one size fits all in terms of people.  All legislative decisions will have positive and negative outcomes depending on how the law impacts the individual.  Whilst broad laws are necessary to help society to function, the role of using algorithms to offer precision to those laws is not necessarily going to provide better outcomes.
-
 

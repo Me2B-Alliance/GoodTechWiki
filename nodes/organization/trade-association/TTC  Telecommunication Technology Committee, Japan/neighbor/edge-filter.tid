@@ -1,12 +1,12 @@
-created:1582719062164
+created:1582720021523
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b64daeb4-73da-4047-8cc5-6ee831add82f
+map.base:00754c38-6554-47f2-b314-33f01dd92cd7
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062164
+modified:1582720021523
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TTC  Telecommunication Technology Committee, Japan/filter/edges
-tmap.id:0450e5a4-c3bf-4d44-a42e-dc3d033aebcd
+tmap.id:abdc1d22-e887-4860-a7d8-285f1e9fc136
 type:text/vnd.tiddlywiki
 
 No body provided

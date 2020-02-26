@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071732
+created:1582720003349
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071732
+modified:1582720003349
 name:T2TRG Thing-to-Thing Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:T2TRG Thing-to-Thing Research Group
-tmap.edges:{"478c5b0b-6ed0-4a2b-9e77-6fce89fafe7f":{"to":"f613cee6-fd8d-4309-8ac1-bda4e9982c15","type":"organization-for-group"},"bb9f46ef-2e96-43a4-bae6-df76432c1a25":{"to":"f02f7ee5-efc3-4e18-a2fe-f4a299478429","type":"connection"}}
-tmap.id:85a6cb19-8481-4b09-8434-6e04aaed50e0
+tmap.edges:{"53438ffa-4319-4fd1-930f-48ca295850ff":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"},"6abc5a2a-f9d7-4dff-8820-cd3d9fd5fbc7":{"to":"5afa64de-d0aa-47d2-95fd-39c08f48ddf2","type":"connection"}}
+tmap.id:404a066c-2e70-48f2-a7e0-d8d17cd0565b
 type:text/vnd.tiddlywiki
 url:https://irtf.org/t2trg
 version.or.edition:
@@ -49,5 +49,4 @@ More exploratory areas of interest include:
 * Exploring the duality of state- and event-based approaches
 * Aspects of distribution (cf. “fog computing”); reliability and scalability considerations
 * Containerization and other forms of mobile code
-
 

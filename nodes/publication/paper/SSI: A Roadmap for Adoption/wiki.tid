@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:SSI: A Roadmap for Adoption
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[rwot vi]]
 tech.focus:
 tiddler.classification:node
 title:SSI: A Roadmap for Adoption
 tmap.edges:{}
-tmap.id:362c39a3-9fe0-4a3d-86a9-86de03734e90
+tmap.id:d5fa4c26-fa7a-486e-9445-9220e77f0265
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This document proposes the formation of a short-term team to develop consistent messaging for the Self-SovereignIdentity (SSI) market. It will target key stakeholders who would actively promote SSI adoption. The goal is to create an SSI market roadmap. This roadmap will help SSI leaders, standards bodies, developers, academics, media, and investors coordinate and clarify their messaging for the market, to accelerate the SSI adoption. We illustrate the need for this by summarizing our market strengths, weaknesses, opportunities, and threats (SWOT analysis), and show how this simple analysis exposes important marketing goals. Further projects will include market explainers, frequently asked questions, market glossaries, market research, and go-to-market (GTM) materials for developers.We wrote this paper to fnd more people who value a healthy SSI market. By working with us on this short-term project, you will help to grow the overall SSI market. Please join us!
-
 

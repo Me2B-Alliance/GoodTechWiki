@@ -1,17 +1,17 @@
-config.central-topic:096572fd-3831-4c74-9f58-828a520e635c
+config.central-topic:b8bf4fc6-a5e2-4a3a-95a9-0ea61e72e998
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062316
-id:c4df1859-950c-4100-a966-0ab07e77a80b
+created:1582720021650
+id:cf391adf-c963-4c1d-8250-bff7fef4e7d3
 isview:false
-map.base:096572fd-3831-4c74-9f58-828a520e635c
+map.base:b8bf4fc6-a5e2-4a3a-95a9-0ea61e72e998
 map.role:definition
 map.type:neighbor
-modified:1582719062316
+modified:1582720021650
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Do Not Track: A Universal Third-Party Web Tracking Opt Out
-tmap.id:c4df1859-950c-4100-a966-0ab07e77a80b
+tmap.id:cf391adf-c963-4c1d-8250-bff7fef4e7d3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Do Not Track: A Universal Third-Party Web Tracking Opt Out

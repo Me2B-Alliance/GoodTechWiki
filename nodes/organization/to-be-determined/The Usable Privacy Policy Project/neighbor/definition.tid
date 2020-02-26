@@ -1,17 +1,17 @@
-config.central-topic:f4cd342f-10f7-401a-a9a9-4e39d487fa48
+config.central-topic:1755486f-ca4a-4937-9fb9-3a9b61580cc3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062145
-id:47301624-0476-48ca-a2be-be29792ff335
+created:1582720021500
+id:aad0efc2-5490-4c15-bf9b-a40f9550e40b
 isview:false
-map.base:f4cd342f-10f7-401a-a9a9-4e39d487fa48
+map.base:1755486f-ca4a-4937-9fb9-3a9b61580cc3
 map.role:definition
 map.type:neighbor
-modified:1582719062145
+modified:1582720021500
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Usable Privacy Policy Project
-tmap.id:47301624-0476-48ca-a2be-be29792ff335
+tmap.id:aad0efc2-5490-4c15-bf9b-a40f9550e40b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Usable Privacy Policy Project

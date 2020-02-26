@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071714
+created:1582720003332
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071714
+modified:1582720003332
 name:Digital Signature Services (DSS) TC
 parent.org:OASIS
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Digital Signature Services (DSS) TC
-tmap.edges:{"68de4005-1c3f-4d65-a1bb-68114a3c0c85":{"to":"4253f254-1492-45c2-9a9a-452cfd2f26ab","type":"default"},"72ea346c-be7f-4c09-8994-d5919042fdd6":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
-tmap.id:7394c225-b90e-457d-8024-a8d766ed574d
+tmap.edges:{"a96e222a-a06c-478f-ba79-2bf45e6b5f37":{"to":"08379716-66cd-4c69-ae0f-cf2123b4ef38","type":"default"},"559c30d3-dbcf-4ea0-83ec-66ef1185bb17":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
+tmap.id:20f94e80-3e9f-4352-8f54-29baa798ecd6
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dss
 
@@ -41,5 +41,4 @@ Advanced Electronic Signature Profiles
 
 
 The OASIS Digital Signature Services (DSS) TC will develop techniques to support the processing of digital signatures. This includes defining an interface for requesting that a web service produce and/or verify a digital signature on a given piece of data and techniques for proving that a signature was created within its key validity period.
-
 

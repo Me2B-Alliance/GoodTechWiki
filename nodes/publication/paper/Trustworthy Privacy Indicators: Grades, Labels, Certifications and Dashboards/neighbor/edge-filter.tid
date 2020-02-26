@@ -1,12 +1,12 @@
-created:1582719062257
+created:1582720021605
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f5b67409-f661-43bf-a62a-7e99041c6fcb
+map.base:fbff7f28-4c84-419d-9532-16fce7810f59
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062257
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustworthy Privacy Indicators: Grades, Labels, Certifications and Dashboards/filter/edges
-tmap.id:801a6eb0-8c75-4524-a2bf-b2eaf1cda2b3
+tmap.id:25661171-a93a-42bf-9b06-70e4658a38ef
 type:text/vnd.tiddlywiki
 
 No body provided

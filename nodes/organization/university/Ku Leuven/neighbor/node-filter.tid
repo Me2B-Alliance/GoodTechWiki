@@ -1,12 +1,12 @@
-created:1582719062167
-filter:[field:tmap.id[ed13cc73-c161-4c04-8e12-d8ac26093872]]
-map.base:ed13cc73-c161-4c04-8e12-d8ac26093872
+created:1582720021526
+filter:[field:tmap.id[a5e1d451-5d38-4e73-bd17-85e1ef23a042]]
+map.base:a5e1d451-5d38-4e73-bd17-85e1ef23a042
 map.role:node-filter
 map.type:neighbor
-modified:1582719062167
+modified:1582720021526
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ku Leuven/filter/nodes
-tmap.id:00b95235-8675-4873-b51e-26537b19b437
+tmap.id:d76f8e5b-d8e2-47de-97a1-287e560300ac
 type:text/vnd.tiddlywiki
 
 No body provided

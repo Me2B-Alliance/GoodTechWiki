@@ -1,12 +1,12 @@
-created:1582719062256
-filter:[field:tmap.id[33cd3076-4f90-457c-94af-0134d8cf63b2]]
-map.base:33cd3076-4f90-457c-94af-0134d8cf63b2
+created:1582720021604
+filter:[field:tmap.id[2ea540ea-6fd0-4cca-903a-78de4a1e6d1c]]
+map.base:2ea540ea-6fd0-4cca-903a-78de4a1e6d1c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062256
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The DCS Theorem/filter/nodes
-tmap.id:b85bde6d-d40b-4227-a7ca-9c540fdc70f3
+tmap.id:f6f1d6c9-4bae-447a-a95a-f22494c66d48
 type:text/vnd.tiddlywiki
 
 No body provided

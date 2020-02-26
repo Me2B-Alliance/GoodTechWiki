@@ -1,12 +1,12 @@
-created:1582719062077
+created:1582720021429
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d8a419e1-6cc9-4fd8-b336-264428216dcc
+map.base:072249a3-dcf8-45cb-bccf-4e9147059be4
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062077
+modified:1582720021429
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Governance Design Conference/filter/edges
-tmap.id:a18df26e-9afa-452f-b103-f6050c40c536
+tmap.id:aeb0c80f-c50b-4f72-8754-89ce42bb9dfa
 type:text/vnd.tiddlywiki
 
 No body provided

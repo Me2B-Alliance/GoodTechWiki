@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003375
 date.ended:
 date.founded:1995-09-15
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003375
 org.name:ARIB  The Association of Radio Industries and Businesses, Japan
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ARIB  The Association of Radio Industries and Businesses, Japan
-tmap.edges:{"9e759500-5d81-46e7-ace0-8b3a0fe1f060":{"to":"08464ff2-b5ea-4f15-8840-0f8c1c8804c3","type":"executive-member"},"7e1ea44e-82a5-4dfe-8c41-f637b1fa969c":{"to":"9da0217c-0132-4496-912f-5315fae581c9","type":"general-member"}}
-tmap.id:79f56636-466e-4c17-8b9f-a599b8c9fd07
+tmap.edges:{"a25c83d7-45bb-4ba8-a7ef-f8e99a93edb4":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"},"627b31be-d96e-4375-b6c5-c67293465b95":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
+tmap.id:381f20fd-1e81-42b3-9df3-57cc6575ebbe
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.arib.or.jp/english/
@@ -42,5 +42,4 @@ broadcasting fields
 4	Liaison, coordination, and cooperation with foreign organizations working on radio wave use in the telecommunications and broadcasting fields
 5	Activities incidental to those listed above
 6	Any other activities necessary to achieve the objectives of ARIB
-
 

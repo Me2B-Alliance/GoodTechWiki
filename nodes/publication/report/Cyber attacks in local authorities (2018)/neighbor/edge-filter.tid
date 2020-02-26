@@ -1,12 +1,12 @@
-created:1582719062268
+created:1582720021614
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:06e9aa93-ca16-4eb5-9897-545fa4034d41
+map.base:cb2e709e-8ed4-45b4-a985-42d091e18489
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062268
+modified:1582720021614
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cyber attacks in local authorities (2018)/filter/edges
-tmap.id:1da0b115-9983-40bb-bd80-036c4ac88787
+tmap.id:f0be3105-d2fe-4c54-9660-bd513ce75c74
 type:text/vnd.tiddlywiki
 
 No body provided

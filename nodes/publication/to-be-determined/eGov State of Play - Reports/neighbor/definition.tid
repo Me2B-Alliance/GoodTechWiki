@@ -1,17 +1,17 @@
-config.central-topic:80496f1b-4d69-4d0f-a77d-29e54244a021
+config.central-topic:b000093b-cc25-43cc-a77f-1647ed80c658
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062343
-id:683c21a5-d8e4-49df-b5e0-90540dd0da3d
+created:1582720021686
+id:9bcbf43e-5a22-4efe-9402-7790c31fa543
 isview:false
-map.base:80496f1b-4d69-4d0f-a77d-29e54244a021
+map.base:b000093b-cc25-43cc-a77f-1647ed80c658
 map.role:definition
 map.type:neighbor
-modified:1582719062343
+modified:1582720021686
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eGov State of Play - Reports
-tmap.id:683c21a5-d8e4-49df-b5e0-90540dd0da3d
+tmap.id:9bcbf43e-5a22-4efe-9402-7790c31fa543
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eGov State of Play - Reports

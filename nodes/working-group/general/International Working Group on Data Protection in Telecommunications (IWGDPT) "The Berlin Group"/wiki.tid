@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071714
+created:1582720003332
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071714
+modified:1582720003332
 name:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
 parent.org:berlin Commissioner for Data Protection and Freedom of Information
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
-tmap.edges:{"f8773c67-5074-488f-93ab-95279d2d424b":{"to":"5c6ac3ee-94ac-4d03-8f92-e3977baebd47","type":"author"},"a01816cf-c410-4705-8e7d-3c8a54c110b1":{"to":"f30d424e-2e43-4bdb-8972-308fd5306163","type":"author"},"fa67733d-f77f-4b21-9ca8-a15948877146":{"to":"fded635d-4ef8-4024-9c81-a418327c8667","type":"author"},"7ab73fbd-d189-4a44-92bc-869574fee64c":{"to":"7badf2ae-7bfb-4456-aad5-483a1fbab105","type":"author"},"20f0afc8-fee6-478e-9ad7-549bf0811644":{"to":"29a3f13a-f4f7-4105-b978-4f2425e37988","type":"author"},"e632190c-7cce-405f-9862-0c0e3b61c370":{"to":"ebe921db-0457-4e5f-a7f3-7f14531a2019","type":"author"},"0d6ad868-130b-4643-9c0b-a7dc963ee4ac":{"to":"d51d8cb6-6fdd-4de7-9c10-a49550a28661","type":"author"},"e8f19116-aa01-4297-94b7-0ed29e3c8f9f":{"to":"8e968f8d-ac1f-40e3-9aad-22685e0882d6","type":"author"},"66c63224-66d3-4649-9f5b-317719b574d5":{"to":"9f73854a-2a35-4d3f-bad9-8fdf1a30f502","type":"organization-for-group"},"09f27e8c-19e5-4d12-a5e4-9c6c3fac83d1":{"to":"776b9ba4-d5dd-40bf-9846-7c1d6a8e73ed","type":"author"},"c19ef9d0-e522-4381-a0ac-971dfadf2ebc":{"to":"44b15143-5f2a-4286-9b14-d3993324d6a1","type":"author"},"02a28ea6-f97a-4679-99b1-9b5ce009e83d":{"to":"9e4bf768-6ad5-428e-a279-96dafb7f7c79","type":"author"},"9ca7aa93-0e4a-4c8b-bdc7-dfd44c670f43":{"to":"dbad0f4c-c043-4dc7-bd65-193316d945fe","type":"author"},"00ac18cd-71e7-4fa2-bc23-decad0392e10":{"to":"7ece0888-7815-4094-a2b1-9cba196c64e9","type":"author"},"076fc80d-1af8-4ed6-9766-203abc19ae3f":{"to":"945a759a-86ed-413c-9d5e-14a626e20d13","type":"author"},"e8608ad5-85c9-4a46-b35f-23a8b104f34a":{"to":"737ed523-4330-4192-b9ad-769b1541f73d","type":"author"},"2e7fa389-129f-4f64-82c6-2447f20f97e7":{"to":"98e6f2f6-9e84-4790-a532-2e5ee7534755","type":"author"},"6a590100-3027-4af0-a4c6-cd67e0b19ee7":{"to":"27215cfd-3b4e-4529-b666-58cda4089f03","type":"author"},"8c675a59-6a0a-49e0-ba5b-e4582301935a":{"to":"b6d96c73-5eac-432c-ad3f-1b9ed9045692","type":"author"}}
-tmap.id:79e1fad8-13e1-4757-a9cb-a387a014cdea
+tmap.edges:{"3968b96e-e5ef-4ab5-a29f-4f53d8e01f95":{"to":"d415fbd3-ccae-4b0c-8717-bfc3234354b4","type":"author"},"f0887cd8-3940-4da4-871b-2ebb99079ae7":{"to":"1a376ddf-3a25-4583-bac6-25880f35f88b","type":"author"},"a9c3899a-e59e-4fc0-989c-d5f1fcacf2b6":{"to":"1ed4c1d1-5348-40e1-8ff7-c43b669a1538","type":"author"},"65158009-4467-44d3-bba3-a699801e572e":{"to":"2368850b-7b76-492a-a8da-b4e00495ca9a","type":"author"},"01bda5a9-8803-44b4-8386-b4616ad4e193":{"to":"913b6ca2-1c4d-427a-9386-d09c6ca8eb94","type":"author"},"bc9b9428-457a-460e-96e6-76a80744a2fa":{"to":"3142601d-30ae-4dd7-924a-502c5cf29a63","type":"author"},"d4be2de4-9b84-4b76-9c25-6ddf781e642d":{"to":"311c9c4b-fbab-404c-b170-80af8997f2d4","type":"author"},"826eb730-d879-4f6c-b4e2-842e326803fb":{"to":"9ca7a780-a84b-4cac-9eb3-4f37f2871875","type":"author"},"b1684880-4e0f-46a9-977c-7ef420993a37":{"to":"5b801e8a-5818-4657-8854-3c7d7dfbc7de","type":"organization-for-group"},"8ed2e8b9-ae32-45d4-994a-f99f8ce8b8f0":{"to":"1ea7d638-3f2d-44fa-8a8c-6aed43bdba5f","type":"author"},"f2dbcadd-34dc-4910-8428-37ae3fad0658":{"to":"bd36e988-ef58-43a7-8953-738bb2544ef6","type":"author"},"a2c99c4a-02e3-465d-8740-9ecd7f1e9e0c":{"to":"b3d83c74-4334-489b-bdfa-6e4ac809c036","type":"author"},"92f04f87-a834-4372-82a3-c3fd8508df20":{"to":"56e2784f-a9a1-4594-95c3-8008e729268b","type":"author"},"53984ea4-8bd3-4e19-a917-07fb7ee035ac":{"to":"524ec20f-12db-4280-b979-5091484dcf96","type":"author"},"fc5cac19-e0a1-4cf0-9c54-f4fc156d3a0d":{"to":"d5f6c550-79ca-4852-b7d8-0fa1a8d8a16d","type":"author"},"7b2717b6-68b5-48af-b813-6e00d4f28674":{"to":"0840d1cd-1e5f-47ed-9302-0e997aae0061","type":"author"},"a3b11ed4-3b80-4e37-ab57-e140eeb31b16":{"to":"94ebb9d0-a352-4ce4-a806-1a2110a83db0","type":"author"},"d47edc50-258a-4f06-94d7-dab8291bf788":{"to":"1c19e5fa-007b-4f1e-b2a3-c623c8fe43b4","type":"author"},"7db63f6d-2f40-4291-8cb9-9de8d746951b":{"to":"07b3171f-cfa8-4a2c-ab4c-c65290421a76","type":"author"}}
+tmap.id:b125f232-a527-4be6-9738-d33d5ec5627a
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/content/europa-international/international-working-group-on-data-protection-in-telecommunications-iwgdpt/working-papers-and-common-positions-adopted-by-the-working-group
 
 The International Working Group on Data Protection in Telecommunications (IWGDPT, a.k.a. “Berlin Group”) includes representatives from Data Protection Authorities and international organisations dealing with privacy matters from all over the world. It was founded in 1983 in the framework of the International Conference of Data Protection and Privacy Commissioners at the initiative of the Berlin Commissioner for Data Protection, who has since then been chairing the Group. The Group has since 1983 adopted numerous recommendations (“Common Positions” and “Working Papers”) aimed at improving the protection of privacy in telecommunications. Since the beginning of the 90s the Group has in particular focused on the protection of privacy on the Internet. More information about the Work of the Group and the documents adopted by the Group are available for download on the website of the Group at http://www.berlin-privacy-group.org
-
 

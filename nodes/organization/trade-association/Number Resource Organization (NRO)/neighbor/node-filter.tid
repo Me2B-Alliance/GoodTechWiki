@@ -1,12 +1,12 @@
-created:1582719062159
-filter:[field:tmap.id[c1104702-197d-413b-83e6-572267446857]]
-map.base:c1104702-197d-413b-83e6-572267446857
+created:1582720021519
+filter:[field:tmap.id[4ca1c3c6-9f6b-4ad7-a387-49850e446e21]]
+map.base:4ca1c3c6-9f6b-4ad7-a387-49850e446e21
 map.role:node-filter
 map.type:neighbor
-modified:1582719062159
+modified:1582720021519
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Number Resource Organization (NRO)/filter/nodes
-tmap.id:5587b285-6903-48b4-b828-acdcc3fcf426
+tmap.id:3868a191-bcf4-415f-8924-13e3cc587c5c
 type:text/vnd.tiddlywiki
 
 No body provided

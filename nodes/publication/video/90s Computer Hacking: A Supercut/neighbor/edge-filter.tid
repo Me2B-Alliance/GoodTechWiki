@@ -1,12 +1,12 @@
-created:1582719062347
+created:1582720021687
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7e4380a1-0744-463a-925d-3605912c0b0e
+map.base:fa490db0-53e2-4aa1-8db5-db74c9a95940
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062347
+modified:1582720021687
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/90s Computer Hacking: A Supercut/filter/edges
-tmap.id:2c527cb9-584a-4c7e-9129-9e90731c2fbf
+tmap.id:880c8d97-a7f2-4655-99a0-1e556cdd806b
 type:text/vnd.tiddlywiki
 
 No body provided

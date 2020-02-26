@@ -1,12 +1,12 @@
-created:1582719062200
+created:1582720021557
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:31e8f506-0f9c-4a1f-acfa-eb8dde0d3e34
+map.base:d42dc786-069f-4152-a3d9-357e4d947552
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062200
+modified:1582720021557
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe Children's Privacy / COPPA/filter/edges
-tmap.id:f7d41a6b-0eb7-4191-8c80-ebb1ce261b64
+tmap.id:ac130eaa-3d1e-415a-8c63-ac9b5c222922
 type:text/vnd.tiddlywiki
 
 No body provided

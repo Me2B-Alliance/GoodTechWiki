@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071731
+created:1582720003349
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071731
+modified:1582720003349
 name:STORK 2.0
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:STORK 2.0
 tmap.edges:{}
-tmap.id:827e4d1e-4e18-42fb-b649-39b5eb5cab37
+tmap.id:8b8c1e3f-ac83-48c3-8aa4-1930a327219c
 type:text/vnd.tiddlywiki
 url:https://www.eid-stork.eu
 version.or.edition:
@@ -46,5 +46,4 @@ STORK 2.0 Pilots, focused on strategic eLearning and Academic Qualifications, eB
 The STORK 2.0 consortium comprises 19 EU MS / Associated Countries driving the Pilot and building a common, comprehensive and long-term vision of eID in Europe. Private and public organizations are involved in the management, technical infrastructure and dissemination of the pilots. It includes 13 countries with previous STORK interoperability infrastructure and pioneering services and 6 new countries joining the new technical infrastructure. Different types of organizations (industry, academia, government) of different levels (local, regional, national) covering the entire eID delivery chain of value will be included in pilot activities, from public and private identity & attribute providers and organizations responsible for common infrastructure components in each MS to providers in real-life settings of content and services for STORK 2.0 end-users (both natural & legal persons). This ensures pilots serve real needs, beyond the lifetime of STORK 2.0.
 
 The consortium has been formed in an open way, maximizing the possibilities for many to collaborate. Furthermore, the consortium regularly informs the public and relevant stakeholders on the progress made, asks for input and aligns strategies. STORK 2.0 offers the opportunity to other European countries, industry, standardization bodies and other ICT-PSP projects to play an important role in benefitting from and enriching the results of the project through knowledge sharing via a number of open workshops, focus groups and dissemination channels. Non-European countries representatives are invited as well to join the project as project external advisors. This also creates a base for future take-up up beyond the current partnership. All results (i.e. specifications of interfaces, protocols, architecture, open source reference implementations of necessary components and building blocks for interoperability) will be freely available after the end of the pilot online, and partners of the consortium are committed.
-
 

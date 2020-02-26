@@ -1,17 +1,17 @@
-config.central-topic:9316e8dc-ec56-4258-98fe-22ee63cbb060
+config.central-topic:e64ab4ba-a85c-45f2-83a3-c96cecb6325e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062309
-id:449a18d8-432e-47ac-a8d6-9e66f2f7a80d
+created:1582720021651
+id:792f3bfa-b298-429f-864e-4786cc112f5b
 isview:false
-map.base:9316e8dc-ec56-4258-98fe-22ee63cbb060
+map.base:e64ab4ba-a85c-45f2-83a3-c96cecb6325e
 map.role:definition
 map.type:neighbor
-modified:1582719062309
+modified:1582720021651
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FIDO 2.0: Key Attestation Format
-tmap.id:449a18d8-432e-47ac-a8d6-9e66f2f7a80d
+tmap.id:792f3bfa-b298-429f-864e-4786cc112f5b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of FIDO 2.0: Key Attestation Format

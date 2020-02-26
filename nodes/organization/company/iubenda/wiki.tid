@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[service provider]] [[certification]]
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/iubenda/
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071963
+me2b.relationship:[[me2b certification candidate? content source for me2b certification?]]
+modified:1582720003590
 org.name:iubenda
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 scope:
 sector:for-profit
@@ -28,13 +28,12 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:iubenda
-tmap.edges:{"aa3f2653-c924-4c31-ae9a-db4b078db274":{"to":"56e0afda-cc01-45d4-a44a-a9b53947fdc8","type":"Organization Supports Project or Product"},"09c102ac-08a5-4e70-990f-85154fc6e545":{"to":"867e683c-0ab8-4773-bf73-0dacc49edb2e","type":"Organization Supports Project or Product"},"c573dbf0-7aed-44f9-a103-90d3e3976702":{"to":"efdb0c51-0e01-49fd-8eac-2346eab1940b","type":"Organization Supports Project or Product"},"9912f589-8258-4152-b340-1cbc976775f5":{"to":"2a350a30-18b1-4a40-8ee5-e304c352fbd5","type":"Organization Supports Project or Product"},"389c7098-745c-4a5c-a72a-65760581bba4":{"to":"84bf2354-508c-4b18-8cb2-671f63294cd4","type":"Organization Supports Project or Product"},"9cee842e-7aa3-4b8c-a80d-2f10ba3fd9fd":{"to":"ae80f9d0-1d4e-4594-87ff-58c7d39915f8","type":"Organization Supports Project or Product"},"6905ff3c-35ef-4804-8dee-9ad053f48b39":{"to":"1375eb62-1c51-4fb8-a956-3fb90087d052","type":"Organization Supports Project or Product"},"a95976aa-0ca8-41ba-9a03-eaa0832bf35a":{"to":"d3f3cd2d-1189-4ed6-a46a-f9c6d59edaf3","type":"Organization Supports Project or Product"}}
-tmap.id:0bd5187e-b6e6-495d-a0c9-d09e2c0c529b
+tmap.edges:{"a31047f2-4c24-4c9f-b478-eaaa8bcfed95":{"to":"a9bb1749-de38-4981-a978-2d4534a66a50","type":"Organization Supports Project or Product"},"ef933bda-a047-43e9-81da-5b53201a1db8":{"to":"8308c599-57bc-4bdf-b633-bcb233263d33","type":"Organization Supports Project or Product"},"dc35f9ad-4044-40f8-829f-d512cfc51594":{"to":"d9a7a3e4-ccfc-4536-ae18-a9a0a2a3f647","type":"Organization Supports Project or Product"},"81e9d489-34d2-433e-ba49-4a24bad638b3":{"to":"4307a493-4595-4e4d-8cfb-ba0f02e02b9d","type":"Organization Supports Project or Product"},"54937212-dda3-4d03-8071-7f3aab7f1024":{"to":"9c652fcc-6f2a-4606-a23a-86214a8fa3c7","type":"Organization Supports Project or Product"},"e13a4c4b-3473-4897-8810-a86fbeeae5d7":{"to":"140a64c0-53a1-49cf-8842-019ffba1a87a","type":"Organization Supports Project or Product"},"cb317b09-5c75-47c1-890e-b08dfe28e141":{"to":"6bfbd670-719c-496b-81d6-102db98cc3d7","type":"Organization Supports Project or Product"},"52c28fe5-ce25-4d05-adc5-54d96cb93238":{"to":"020de534-b15d-4bc7-8919-cfbdaaf930ef","type":"Organization Supports Project or Product"}}
+tmap.id:f8e825fd-6458-45bb-bda0-7f3bceffdbf0
 twitter.profile:https://twitter.com/iubenda
 type:text/vnd.tiddlywiki
 website:https://www.iubenda.com/en/
 
 We help with the legal requirements: so you can focus on the business
 Attorney-level solutions to make your websites and apps compliant with the law across multiple countries and legislations
-
 

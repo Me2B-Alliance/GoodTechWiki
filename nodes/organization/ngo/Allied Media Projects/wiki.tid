@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[movement building]] [[events and convening]] [[publication]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/alliedmedia/
-location(s):[object Set]
+location(s):[[mississauga]] [[ontario]]
 me2b.relationship:
-modified:1582678071965
+modified:1582720003591
 org.name:Allied Media Projects
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[ecosystem building]] [[education]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Allied Media Projects
-tmap.edges:{"588f935e-1c45-43bd-91e1-9f974ef8623b":{"to":"e0e60c99-7236-473d-9df0-10cafef22c47","type":"Sponsors"},"ff01c890-2faa-48d6-b8de-99a0661c6049":{"to":"331e35fd-b3de-482c-b4f5-05e046ca3ccc","type":"Sponsors"}}
-tmap.id:3f07c643-5252-484d-9d59-2036490a6433
+tmap.edges:{"fa30b5e3-d290-4598-9e53-76a56512a1c6":{"to":"318877c2-dd9c-4082-bed6-184f46eb18d5","type":"Sponsors"},"24ec9c9e-b85e-4c60-bbb8-5e458642ad2a":{"to":"54d29f06-e7b5-4fc9-ab5a-80c0dda36a9c","type":"Sponsors"}}
+tmap.id:2fe266be-34f0-4766-8f19-e5170de1c1f7
 twitter.profile:https://twitter.com/allied_media
 type:text/vnd.tiddlywiki
 website:https://alliedmedia.org/
@@ -44,5 +44,4 @@ Care for ourselves: each other: other species: and the planet;
 Dismantle supremacist systems as they operate upon us and within us;
 Assume responsibility for creating new liberatory ways of being: and;
 Cultivate life affirming joy.
-
 

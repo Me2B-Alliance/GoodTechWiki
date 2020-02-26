@@ -1,17 +1,17 @@
-config.central-topic:46699b03-0ffa-4e0b-ab15-6d15c478e5bc
+config.central-topic:4dc54359-48d3-45e7-abdd-68af544ac25c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062209
-id:f634576d-874f-4959-85a8-24761cc97ba2
+created:1582720021564
+id:90d4b5e8-0a82-4aef-b103-9a70df5e826e
 isview:false
-map.base:46699b03-0ffa-4e0b-ab15-6d15c478e5bc
+map.base:4dc54359-48d3-45e7-abdd-68af544ac25c
 map.role:definition
 map.type:neighbor
-modified:1582719062209
+modified:1582720021564
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mobile App Consent
-tmap.id:f634576d-874f-4959-85a8-24761cc97ba2
+tmap.id:90d4b5e8-0a82-4aef-b103-9a70df5e826e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mobile App Consent

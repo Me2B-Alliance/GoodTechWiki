@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071712
+created:1582720003329
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071712
+modified:1582720003329
 name:Cross-Enterprise Security and Privacy Authorization (XSPA)
 parent.org:OASIS
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Cross-Enterprise Security and Privacy Authorization (XSPA)
-tmap.edges:{"90953365-ae32-4e17-988b-c0a7182a1404":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
-tmap.id:64406f57-e936-4f64-980e-5eaf1bbb1cdb
+tmap.edges:{"aa3a7d55-e2ca-4b4c-b4bc-7aa983cdce8a":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
+tmap.id:8d777b2c-399a-476b-ba6f-a22ad802c196
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

@@ -1,12 +1,12 @@
-created:1582719062118
+created:1582720021474
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1829b993-e961-4cd8-8255-37f39d60c11c
+map.base:ea24e0e3-ccb0-4d0b-972e-1e1427ef9c8e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062118
+modified:1582720021474
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Israeli Law, Information and Technology Authority/filter/edges
-tmap.id:916b0b1e-76d9-46d6-a735-e194370ab3f2
+tmap.id:f943dff2-88f4-4d0c-a882-08f3583e8ff9
 type:text/vnd.tiddlywiki
 
 No body provided

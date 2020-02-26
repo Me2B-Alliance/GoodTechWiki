@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (application)
-created:1582678071970
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003597
 name:#getsafe
 parent.org:Fight for the Future
 partners:
 people:
-purpose:[object Set]
+purpose:[[human rights]] [[consumer support]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:#getsafe
 tmap.edges:{}
-tmap.id:1c012328-b595-47f9-adaa-993bee9a78c3
+tmap.id:a0cea1df-b8bf-4717-b5ab-bd77a327839f
 type:text/vnd.tiddlywiki
 url:https://www.letsgetsafe.org/
 version.or.edition:
@@ -38,5 +38,4 @@ iOS devices - iPhone, iPad, iPod
 Android - Phones and Tablets
 Windows - Laptops and Desktops
 Mac - Laptops and Desktops
-
 

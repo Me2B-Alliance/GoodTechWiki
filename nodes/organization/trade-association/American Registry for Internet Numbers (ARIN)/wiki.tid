@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071756
+created:1582720003373
 date.ended:
 date.founded:1997-12-22
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071756
+modified:1582720003373
 org.name:American Registry for Internet Numbers (ARIN)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:American Registry for Internet Numbers (ARIN)
-tmap.edges:{"3bb33dd9-9645-457d-b6c3-e45de41d69cd":{"to":"c1104702-197d-413b-83e6-572267446857","type":"general-member"}}
-tmap.id:0b718f45-6e75-439d-a802-82322c3a2919
+tmap.edges:{"8457d253-8c3e-4e24-a08a-eeecd134cb31":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"general-member"}}
+tmap.id:9ad0d459-7c2e-490a-b1ad-f7194c1d1ca9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.arin.net/about_us/overview.html
@@ -38,5 +38,4 @@ Established in December 1997, the American Registry for Internet Numbers (ARIN) 
 ARIN accomplishes this by carrying out its core service, which is the management and distribution of Internet number resources such as Internet Protocol (IP) addresses and Autonomous System Numbers (ASNs). ARIN manages these resources within its service region, which is comprised of Canada, the United States, and many Caribbean and North Atlantic islands. ARIN also coordinates policy development by the community and advances the Internet through informational outreach.
 
 The American Registry for Internet Numbers (ARIN) is the Regional Internet Registry (RIR) for Canada, the United States, and many Caribbean and North Atlantic islands. ARIN manages the distribution of Internet number resources, including IPv4 and IPv6 address space and AS numbers. ARIN opened its doors for business on December 22, 1997 after incorporating on April 18, 1997. ARIN is a nonprofit corporation with headquarters in Chantilly, Virginia, USA.
-
 

@@ -1,12 +1,12 @@
-created:1582719062278
-filter:[field:tmap.id[eda42de8-b5a6-4d40-998b-5c5ec2e4ff0d]]
-map.base:eda42de8-b5a6-4d40-998b-5c5ec2e4ff0d
+created:1582720021625
+filter:[field:tmap.id[270e37ae-27b7-4a1e-82ef-ea1af690982b]]
+map.base:270e37ae-27b7-4a1e-82ef-ea1af690982b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062278
+modified:1582720021625
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Personal data breach notification/filter/nodes
-tmap.id:f600106c-7f3b-4215-a90b-1167043f9a92
+tmap.id:27dd0acc-1a2b-4c2d-aeea-8cd1eeaaf484
 type:text/vnd.tiddlywiki
 
 No body provided

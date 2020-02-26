@@ -1,17 +1,17 @@
-config.central-topic:878a68ab-c211-4a33-8613-2cd578853989
+config.central-topic:1464f983-3d3e-4c53-9031-e7cb110d5899
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062359
-id:d318e66f-a579-4384-9081-600869ec789a
+created:1582720021698
+id:7597e4c4-9ed8-4fd5-b43c-63d043ccc058
 isview:false
-map.base:878a68ab-c211-4a33-8613-2cd578853989
+map.base:1464f983-3d3e-4c53-9031-e7cb110d5899
 map.role:definition
 map.type:neighbor
-modified:1582719062359
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Future Directions Committee
-tmap.id:d318e66f-a579-4384-9081-600869ec789a
+tmap.id:7597e4c4-9ed8-4fd5-b43c-63d043ccc058
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Future Directions Committee

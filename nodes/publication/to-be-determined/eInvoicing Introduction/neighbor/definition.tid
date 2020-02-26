@@ -1,17 +1,17 @@
-config.central-topic:a0ce8231-100d-40ff-af14-bbbf086d3440
+config.central-topic:494333ed-70f0-456c-9fdb-d31f99b772e5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062343
-id:c1de27b1-4a3e-4a44-a3d9-fec1b99c887e
+created:1582720021686
+id:451cadf5-88e2-469c-83e5-021f0dd2903f
 isview:false
-map.base:a0ce8231-100d-40ff-af14-bbbf086d3440
+map.base:494333ed-70f0-456c-9fdb-d31f99b772e5
 map.role:definition
 map.type:neighbor
-modified:1582719062343
+modified:1582720021686
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eInvoicing Introduction
-tmap.id:c1de27b1-4a3e-4a44-a3d9-fec1b99c887e
+tmap.id:451cadf5-88e2-469c-83e5-021f0dd2903f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eInvoicing Introduction

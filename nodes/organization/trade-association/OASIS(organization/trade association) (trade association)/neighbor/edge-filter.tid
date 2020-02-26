@@ -1,12 +1,12 @@
-created:1582719062160
+created:1582720021518
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4edf50c7-7750-4b90-8b95-8f61c4272981
+map.base:fa8de664-d11d-48a3-8587-22320690d358
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062160
+modified:1582720021518
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OASIS(organization/trade association) (trade association)/filter/edges
-tmap.id:e61366c2-2c0e-47b7-94e8-19639740128f
+tmap.id:8ea6c878-d59c-44b5-b94c-49416b133b1b
 type:text/vnd.tiddlywiki
 
 No body provided

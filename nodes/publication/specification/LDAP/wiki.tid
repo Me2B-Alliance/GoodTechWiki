@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071726
+created:1582720003344
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071726
+modified:1582720003344
 name:LDAP
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:LDAP
-tmap.edges:{"d5b147fb-be99-4c90-9cae-cac8476bceff":{"to":"1b809427-8150-4f1f-9de1-036d3b97e10b","type":"organization-for-group"}}
-tmap.id:fe2c922e-b447-4296-9ed9-cc73562d6f5e
+tmap.edges:{"889fbfc4-1b5a-4737-8874-26dfb0039f45":{"to":"dd3ec96b-a3d0-4376-94e4-0c7eed8e395f","type":"organization-for-group"}}
+tmap.id:24a923f3-a54a-40ba-a5f6-20756fff7bae
 type:text/vnd.tiddlywiki
 url:https://tools.ietf.org/html/rfc4511
 version.or.edition:
@@ -31,5 +31,4 @@ This document describes the protocol elements, along with their
    act in accordance with X.500 data and service models.  These protocol
    elements are based on those described in the X.500 Directory Access
    Protocol (DAP).
-
 

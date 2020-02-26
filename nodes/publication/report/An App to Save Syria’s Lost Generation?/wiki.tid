@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[mark latonero]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:An App to Save Syria’s Lost Generation?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[data]] [[human rights & human security]]
 tech.focus:
 tiddler.classification:node
 title:An App to Save Syria’s Lost Generation?
 tmap.edges:{}
-tmap.id:615fbb8f-e01e-442e-94cf-4c94db144a7b
+tmap.id:9c500c71-c5d3-4e7c-a88a-3b526fa0586d
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/an-app-to-save-syrias-lost-generation/
 version.or.edition:
@@ -35,5 +35,4 @@ D&S fellow Mark Latonero considers recent attempts by policymakers, big tech com
     In cases where no in-person education is available, apps can still play a role, particularly for children who feel unsafe to travel outside their shelters or are immobile owing to injuries or disabilities. But if an app is to stand a chance of making a real difference, it needs to arise not out of a tech meet-up in New York City but on a field research trip to a refugee camp, where it will be easier to see how mobile phones are actually accessed and used. Researchers need to ask basic questions about the value of education for refugees: Is the goal to inspire learning on traditional subjects? Empower students with academic credentials or job skills? Assimilate refugees into their host country? Provide a protected space where children can be fed and feel safe? Or combat violent extremism at an early age?
 
     To decide, researchers need to put the specific needs of refugee children first—whether economic, psychosocial, emotional, or physical—and work backward to see whether technology can help, if at all.
-
 

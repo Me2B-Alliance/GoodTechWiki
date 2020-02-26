@@ -1,6 +1,6 @@
 activities:
 category:discussion group
-created:1582678071764
+created:1582720003382
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071764
+modified:1582720003382
 name:Identity of Things Discussion Group
 parent.org:
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Identity of Things Discussion Group
-tmap.edges:{"da8aad22-36c4-4dc8-8b4f-c593f99c35a8":{"to":"2b301088-bfc2-4cef-adca-6c991cc60353","type":"organization-for-group"}}
-tmap.id:662eb4a1-e481-4148-b73c-889fb90ec6c5
+tmap.edges:{"28b08727-2bdf-49e8-9a82-4d377d638318":{"to":"a6df14ff-14f9-43b5-8108-3365e23180fb","type":"organization-for-group"}}
+tmap.id:8d4fe9e0-176a-4fa3-8989-fbcb48ed28b3
 type:text/vnd.tiddlywiki
 url:https://kantarainitiative.org/confluence/display/idot/home
 
@@ -31,5 +31,4 @@ The discussion group intends to deliver the following:
 * Submit article proposal to IEEE about identities in the internet of things
 * Prepare the foundation for a working group to develop an Object IdM 
 * Framework for the IDoT, in support of IoT broader landscape.
-
 

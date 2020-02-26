@@ -1,17 +1,17 @@
-config.central-topic:1c179da9-9b03-4f52-8748-f39afb2eb340
+config.central-topic:24fc97bc-9672-4f40-926a-6665890e8f5c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062325
-id:9c9b07c0-e03b-4e01-89ba-02aa95911e37
+created:1582720021669
+id:b7303a1d-993d-410a-a850-9a99fbf0aea6
 isview:false
-map.base:1c179da9-9b03-4f52-8748-f39afb2eb340
+map.base:24fc97bc-9672-4f40-926a-6665890e8f5c
 map.role:definition
 map.type:neighbor
-modified:1582719062325
+modified:1582720021669
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_21-2_2005(E)
-tmap.id:9c9b07c0-e03b-4e01-89ba-02aa95911e37
+tmap.id:b7303a1d-993d-410a-a850-9a99fbf0aea6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_21-2_2005(E)

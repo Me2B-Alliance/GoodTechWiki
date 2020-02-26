@@ -1,12 +1,12 @@
-created:1582719062280
+created:1582720021627
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c5f38fd8-7f49-4010-a466-2f213e73dd75
+map.base:8c7b4db3-2d61-4a84-b308-e1d8fc6118e7
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062280
+modified:1582720021627
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How to Socially Engineer Voluntary Integration/filter/edges
-tmap.id:ee7100e7-5683-4343-8276-baffafb86002
+tmap.id:ac20317c-1637-4f89-83e8-10a4bedc6b63
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062273
+created:1582720021621
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:81e4684f-e866-4d7c-909d-c2d3b83ef3e3
+map.base:e7dc6e91-3543-48e1-9f9a-fab763b05572
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062273
+modified:1582720021621
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Driving School Choice/filter/edges
-tmap.id:4b24cdb0-f80f-4a9b-ad36-b27d8079c254
+tmap.id:0337ba5a-9e16-4e40-acd0-5acc26f229b1
 type:text/vnd.tiddlywiki
 
 No body provided

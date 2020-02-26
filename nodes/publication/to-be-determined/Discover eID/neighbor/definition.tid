@@ -1,17 +1,17 @@
-config.central-topic:1d90ddae-594f-48e7-8782-bc3e75e145a6
+config.central-topic:d9298677-7a9e-4904-9fd6-77be4bd67ac4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062333
-id:79c68c54-0520-419a-9e16-201f173b89e8
+created:1582720021677
+id:9880b80b-63c6-4ff1-bb8d-0d4a1d1e5fd9
 isview:false
-map.base:1d90ddae-594f-48e7-8782-bc3e75e145a6
+map.base:d9298677-7a9e-4904-9fd6-77be4bd67ac4
 map.role:definition
 map.type:neighbor
-modified:1582719062333
+modified:1582720021677
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Discover eID
-tmap.id:79c68c54-0520-419a-9e16-201f173b89e8
+tmap.id:9880b80b-63c6-4ff1-bb8d-0d4a1d1e5fd9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Discover eID

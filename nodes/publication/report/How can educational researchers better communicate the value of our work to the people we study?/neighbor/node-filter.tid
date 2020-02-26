@@ -1,12 +1,12 @@
-created:1582719062279
-filter:[field:tmap.id[3fbd82ca-ed75-48c1-9d55-ad48bbc9ffff]]
-map.base:3fbd82ca-ed75-48c1-9d55-ad48bbc9ffff
+created:1582720021627
+filter:[field:tmap.id[1f32cc34-e55d-4560-9747-86415370628c]]
+map.base:1f32cc34-e55d-4560-9747-86415370628c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062279
+modified:1582720021627
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How can educational researchers better communicate the value of our work to the people we study?/filter/nodes
-tmap.id:db7ac178-0af0-4d71-8fee-7f4270814f66
+tmap.id:f2b784a0-4aaf-43ee-862f-d6cd1a3f0049
 type:text/vnd.tiddlywiki
 
 No body provided

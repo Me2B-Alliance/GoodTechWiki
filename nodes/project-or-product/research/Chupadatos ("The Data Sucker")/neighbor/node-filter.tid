@@ -1,12 +1,12 @@
-created:1582719062185
-filter:[field:tmap.id[91d41e83-d58a-4f79-96a6-47e2e728d4ef]]
-map.base:91d41e83-d58a-4f79-96a6-47e2e728d4ef
+created:1582720021543
+filter:[field:tmap.id[85ff25e8-033f-44c0-9362-0cb4d483a5d4]]
+map.base:85ff25e8-033f-44c0-9362-0cb4d483a5d4
 map.role:node-filter
 map.type:neighbor
-modified:1582719062185
+modified:1582720021543
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chupadatos ("The Data Sucker")/filter/nodes
-tmap.id:13f4f92f-d671-479f-b30c-150e1e97ecaf
+tmap.id:5fea85bd-bba6-425d-abbe-d65b7fd65dea
 type:text/vnd.tiddlywiki
 
 No body provided

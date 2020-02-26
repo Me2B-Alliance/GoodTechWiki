@@ -1,17 +1,17 @@
-config.central-topic:7badf2ae-7bfb-4456-aad5-483a1fbab105
+config.central-topic:2368850b-7b76-492a-a8da-b4e00495ca9a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062344
-id:3502b7a1-923d-4416-8bfc-1c8cd3c2dc04
+created:1582720021674
+id:0b560eb9-f705-4c63-bb77-a3f191c8ac75
 isview:false
-map.base:7badf2ae-7bfb-4456-aad5-483a1fbab105
+map.base:2368850b-7b76-492a-a8da-b4e00495ca9a
 map.role:definition
 map.type:neighbor
-modified:1582719062344
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/”Rome Memorandum” - Report and Guidance on Privacy in Social Network Services
-tmap.id:3502b7a1-923d-4416-8bfc-1c8cd3c2dc04
+tmap.id:0b560eb9-f705-4c63-bb77-a3f191c8ac75
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ”Rome Memorandum” - Report and Guidance on Privacy in Social Network Services

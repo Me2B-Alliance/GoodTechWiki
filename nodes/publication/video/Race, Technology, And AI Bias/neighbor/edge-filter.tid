@@ -1,12 +1,12 @@
-created:1582719062347
+created:1582720021689
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bbd86664-8f45-476a-ad8e-c2a7c8b4b96c
+map.base:574866ed-bcaf-47d2-b2b1-06417b243ded
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062347
+modified:1582720021689
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Race, Technology, And AI Bias/filter/edges
-tmap.id:1d6aefef-e820-4c40-99de-ba9237ea73ac
+tmap.id:3c0cb14a-658e-4888-b271-1fa10bdd8236
 type:text/vnd.tiddlywiki
 
 No body provided

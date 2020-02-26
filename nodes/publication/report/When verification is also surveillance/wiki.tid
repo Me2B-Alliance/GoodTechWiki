@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[jacob metcalf]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:When verification is also surveillance
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[health and data]]
 tech.focus:
 tiddler.classification:node
 title:When verification is also surveillance
 tmap.edges:{}
-tmap.id:2bf98bc8-6f54-4e58-836b-ba12e3cce976
+tmap.id:02e5748c-ffa5-49f1-93bb-e8190e1f3103
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/when-verification-is-also-surveillance/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 The rollout of Electronic Visit Verification (EVV for Medicaid recipients has serious privacy implications, argues Data & Society Researcher Jacob Metcalf. “So why should we be worried about rules...
-
 

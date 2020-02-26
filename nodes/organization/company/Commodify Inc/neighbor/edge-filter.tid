@@ -1,12 +1,12 @@
-created:1582719062085
+created:1582720021436
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3d3d9430-5a2a-472f-8381-900592ab001b
+map.base:161b6b3d-2783-4858-afae-c557b66cb9bf
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062085
+modified:1582720021436
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Commodify Inc/filter/edges
-tmap.id:1efcebf5-8359-4d43-b370-04064c16ce9c
+tmap.id:bb700489-4869-4e74-a26b-efe08b81dbb3
 type:text/vnd.tiddlywiki
 
 No body provided

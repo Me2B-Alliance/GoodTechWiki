@@ -1,17 +1,17 @@
-config.central-topic:122447e7-6bd9-4eba-bec1-a326c4c64a6e
+config.central-topic:39f8dc17-e185-4c91-a745-969f1bf5d6cc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062227
-id:d02c900e-7ae1-4c37-a8e3-84599c201eba
+created:1582720021583
+id:652796b1-b5b1-41b7-9538-708580689f2b
 isview:false
-map.base:122447e7-6bd9-4eba-bec1-a326c4c64a6e
+map.base:39f8dc17-e185-4c91-a745-969f1bf5d6cc
 map.role:definition
 map.type:neighbor
-modified:1582719062227
+modified:1582720021583
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Oversight Committee – Live facial recognition impact on rights and liberties (22 May 2019)
-tmap.id:d02c900e-7ae1-4c37-a8e3-84599c201eba
+tmap.id:652796b1-b5b1-41b7-9538-708580689f2b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of US Oversight Committee – Live facial recognition impact on rights and liberties (22 May 2019)

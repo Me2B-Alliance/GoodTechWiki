@@ -1,13 +1,13 @@
 audience:
 authors.editors:David Singer;Roy T. Fielding
-created:1582678071724
+created:1582720003341
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071724
+modified:1582720003341
 name:Tracking Preference Expression (DNT)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Tracking Preference Expression (DNT)
-tmap.edges:{"4cf6dd66-a834-43d9-acd3-c820e7fab05f":{"to":"35197831-fb28-4894-a8f8-e08044496a6f","type":"specification-of-group"},"d4eb1e23-e38f-447e-8e8b-6e0a47f44102":{"to":"2413ce39-0652-4572-a8d6-dda3c327f39f","type":"work"}}
-tmap.id:d7d2eecb-9ed5-4d7f-b8ce-9a7949dc931b
+tmap.edges:{"53fd8b28-0927-4f60-bf46-28ba8aac1811":{"to":"4dee3692-1e5b-4405-9621-31c79f299238","type":"specification-of-group"},"315c4929-554d-489b-85a5-b6db123aaf4f":{"to":"ca782739-33eb-447a-8c78-fa3d65f92378","type":"work"}}
+tmap.id:fa13651d-97a5-47ae-b540-909ab88d36c9
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/tr/tracking-dnt/
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 This specification defines the DNT request header field as an HTTP mechanism for expressing the user's preference regarding tracking, an HTML DOM property to make that expression readable by scripts, and APIs that allow scripts to register site-specific exceptions granted by the user. It also defines mechanisms for sites to communicate whether and how they honor a received preference through use of the Tk response header field and well-known resources that provide a machine-readable tracking status.
-
 

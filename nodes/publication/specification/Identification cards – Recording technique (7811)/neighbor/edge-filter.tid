@@ -1,12 +1,12 @@
-created:1582719062314
+created:1582720021658
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7a5925f6-46b0-4f68-bc47-4e7702afb6b7
+map.base:c18c92e0-9a0d-4669-b9ba-f7c833faf982
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062314
+modified:1582720021658
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Recording technique (7811)/filter/edges
-tmap.id:118d86fe-53e7-41e0-94f7-c7230d82425e
+tmap.id:2e2429bf-6ee7-43a3-a8e1-b0e01f337ade
 type:text/vnd.tiddlywiki
 
 No body provided

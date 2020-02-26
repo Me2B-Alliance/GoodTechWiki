@@ -1,12 +1,12 @@
-created:1582719062111
-filter:[field:tmap.id[c78fcdea-1cc9-4dc4-81a0-aef111a9eecf]]
-map.base:c78fcdea-1cc9-4dc4-81a0-aef111a9eecf
+created:1582720021466
+filter:[field:tmap.id[a14c3af1-0361-4723-9bb4-94fd3be91441]]
+map.base:a14c3af1-0361-4723-9bb4-94fd3be91441
 map.role:node-filter
 map.type:neighbor
-modified:1582719062111
+modified:1582720021466
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Advertising Initiative/filter/nodes
-tmap.id:20ca1b76-048f-427e-bb61-b86aba31fcb9
+tmap.id:1d012817-afcf-4bfb-b6cf-38774725c8a3
 type:text/vnd.tiddlywiki
 
 No body provided

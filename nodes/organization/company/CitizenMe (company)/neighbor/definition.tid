@@ -1,17 +1,17 @@
-config.central-topic:6e20fd38-cef5-4f2b-a0c1-ac22ee417dea
+config.central-topic:5f714a85-f492-4a4a-a5ef-fe005fd72d06
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062084
-id:0121fbff-da5f-40ac-b23e-c301ff5ce284
+created:1582720021436
+id:dcd209ab-6f18-4a51-a02f-3ba238a9a455
 isview:false
-map.base:6e20fd38-cef5-4f2b-a0c1-ac22ee417dea
+map.base:5f714a85-f492-4a4a-a5ef-fe005fd72d06
 map.role:definition
 map.type:neighbor
-modified:1582719062084
+modified:1582720021436
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CitizenMe (company)
-tmap.id:0121fbff-da5f-40ac-b23e-c301ff5ce284
+tmap.id:dcd209ab-6f18-4a51-a02f-3ba238a9a455
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CitizenMe (company)

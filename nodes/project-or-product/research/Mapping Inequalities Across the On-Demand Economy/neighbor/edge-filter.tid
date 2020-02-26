@@ -1,12 +1,12 @@
-created:1582719062189
+created:1582720021547
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:51250d0e-26f3-40bd-80bf-7b0681e2a67e
+map.base:e0127c0a-b24c-4b0c-87dc-dff6951f28c0
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062189
+modified:1582720021547
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mapping Inequalities Across the On-Demand Economy/filter/edges
-tmap.id:e6a225d2-9ce4-408e-ae36-bd4953f25e66
+tmap.id:fee278c0-d261-4733-a510-8dc65b77d87a
 type:text/vnd.tiddlywiki
 
 No body provided

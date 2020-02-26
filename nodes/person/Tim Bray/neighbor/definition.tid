@@ -1,17 +1,17 @@
-config.central-topic:fffc62c9-1103-4457-816a-2266f04d20a5
+config.central-topic:364a0dcd-c372-4b98-aab0-9df018e1974e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062177
-id:ec6b34d3-f67c-40dc-9b90-142f4c894e5d
+created:1582720021537
+id:edfb6fa8-10d9-40fb-b1fc-c2feb6bd4573
 isview:false
-map.base:fffc62c9-1103-4457-816a-2266f04d20a5
+map.base:364a0dcd-c372-4b98-aab0-9df018e1974e
 map.role:definition
 map.type:neighbor
-modified:1582719062177
+modified:1582720021537
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tim Bray
-tmap.id:ec6b34d3-f67c-40dc-9b90-142f4c894e5d
+tmap.id:edfb6fa8-10d9-40fb-b1fc-c2feb6bd4573
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tim Bray

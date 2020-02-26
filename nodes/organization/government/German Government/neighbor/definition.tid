@@ -1,17 +1,17 @@
-config.central-topic:7b78c745-e296-403e-a05a-300079e46f0d
+config.central-topic:c6285002-a683-4dcf-8733-ec7135c37e4c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062104
-id:cf352dc4-593a-4f8c-a53f-4e2e688390bd
+created:1582720021460
+id:15038496-9d82-4ee5-ae16-ecd655a95dc3
 isview:false
-map.base:7b78c745-e296-403e-a05a-300079e46f0d
+map.base:c6285002-a683-4dcf-8733-ec7135c37e4c
 map.role:definition
 map.type:neighbor
-modified:1582719062104
+modified:1582720021460
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/German Government
-tmap.id:cf352dc4-593a-4f8c-a53f-4e2e688390bd
+tmap.id:15038496-9d82-4ee5-ae16-ecd655a95dc3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of German Government

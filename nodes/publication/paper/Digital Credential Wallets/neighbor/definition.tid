@@ -1,17 +1,17 @@
-config.central-topic:b5f3be90-941e-42f0-884f-f707f7da40f4
+config.central-topic:a78e094c-3af2-48ab-87df-17c8ca03a56b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062240
-id:4582a19a-ccd5-404d-8fd1-f323a7a99dfa
+created:1582720021594
+id:9b2017a6-3b59-4199-898f-15a49b9689e2
 isview:false
-map.base:b5f3be90-941e-42f0-884f-f707f7da40f4
+map.base:a78e094c-3af2-48ab-87df-17c8ca03a56b
 map.role:definition
 map.type:neighbor
-modified:1582719062240
+modified:1582720021594
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Credential Wallets
-tmap.id:4582a19a-ccd5-404d-8fd1-f323a7a99dfa
+tmap.id:9b2017a6-3b59-4199-898f-15a49b9689e2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Credential Wallets

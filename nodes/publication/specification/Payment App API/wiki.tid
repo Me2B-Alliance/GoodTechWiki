@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071726
+created:1582720003344
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071726
+modified:1582720003344
 name:Payment App API
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Payment App API
-tmap.edges:{"65567bd8-e617-43c6-89c0-4294f1c93960":{"to":"fe006c93-7cd0-49e1-a532-a78c966dd251","type":"specification-of-group"}}
-tmap.id:40834b4f-9215-44c7-8b3b-62ed99aeaac1
+tmap.edges:{"70c247fd-eb96-4b36-b078-5c24164e7400":{"to":"bb9a1fe4-b7af-408a-9163-1fd5eb3ae123","type":"specification-of-group"}}
+tmap.id:fedbe11b-c654-46bb-912e-84dcd74038ba
 type:text/vnd.tiddlywiki
 url:https://w3c.github.io/webpayments-payment-apps-api/
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 The Payment Request API [PAYMENT-REQUEST-API] provides a standard way to initiate payment requests from Web pages and applications. User agents implementing that API prompt the user to select a way to handle the payment request, after which the user agent returns a payment response to the originating site. This specification adds payment apps to that user experience. It defines how users register payment apps with user agents, how user agents support the display of information about payment options the user can select to handle the payment request, how the user selects a payment app, and how communication takes place between user agents and payment apps to fulfill the requirements of the underlying Payment Request API.
-
 

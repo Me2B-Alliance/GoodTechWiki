@@ -1,12 +1,12 @@
-created:1582719062229
+created:1582720021584
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ab486287-0c4d-4a3a-9493-b8791e9a050d
+map.base:b0272043-5975-42f1-8f85-f70257e9cb61
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062229
+modified:1582720021584
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Better Use of Data – Big Brother Watch Response/filter/edges
-tmap.id:51fe838c-6b6b-40e2-a529-96f394fa59b8
+tmap.id:4b0ced8b-e2a4-4dca-9bf5-b268af11a0bc
 type:text/vnd.tiddlywiki
 
 No body provided

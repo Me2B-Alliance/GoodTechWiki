@@ -1,12 +1,12 @@
-created:1582719062350
-filter:[field:tmap.id[2d3876a0-2782-473f-924d-305d8047ea2b]]
-map.base:2d3876a0-2782-473f-924d-305d8047ea2b
+created:1582720021692
+filter:[field:tmap.id[df47bcb5-854f-4875-8272-5eab5b54042f]]
+map.base:df47bcb5-854f-4875-8272-5eab5b54042f
 map.role:node-filter
 map.type:neighbor
-modified:1582719062350
+modified:1582720021692
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/e-Government Core Vocabularies/filter/nodes
-tmap.id:c8b2d4d5-2977-452d-89c3-63e7319d711f
+tmap.id:fd60b58c-0dd5-4474-b439-e4893977f261
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071977
+authors.editors:[[h. harkous]] [[k. fawaz]] [[r. lebret]] [[f. schaub]] [[k.g. shin]] [[k. aberer]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Pribot: A Chatbot for Privacy Policies
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:Pribot: A Chatbot for Privacy Policies
 tmap.edges:{}
-tmap.id:6c8b3f64-3117-4498-b15d-a1e909e16713
+tmap.id:82c8683f-76aa-44d0-887e-0f03dd9af36a
 type:text/vnd.tiddlywiki
 url:https://www.youtube.com/watch?v=In-UovK50wo
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 SwissText ’17: 2nd Swiss Text Analytics Conference, Jun 2017 Demo
 
 https://pribot.org/
-
 

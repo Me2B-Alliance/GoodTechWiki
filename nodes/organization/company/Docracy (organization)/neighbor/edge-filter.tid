@@ -1,12 +1,12 @@
-created:1582719062087
+created:1582720021438
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:be100602-be7d-4a26-8cd9-c366024bb7e6
+map.base:189b17d5-3323-4f04-bf1f-509f3a016f47
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062087
+modified:1582720021438
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Docracy (organization)/filter/edges
-tmap.id:dfc90fe2-303f-4549-aeb7-6d3bb1703ae8
+tmap.id:f64bc207-7677-4bd7-98ba-dff199090906
 type:text/vnd.tiddlywiki
 
 No body provided

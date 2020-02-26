@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[mark latonero]] [[zachary gold]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[data]] [[human rights & human security]]
 tech.focus:
 tiddler.classification:node
 title:Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping
 tmap.edges:{}
-tmap.id:0a2aee7d-e47e-4159-b4d0-ba75f04d6a4e
+tmap.id:7efd9289-322a-4b1e-99a8-c942a67d6389
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/robots-welcome-ethical-and-legal-considerations-for-web-crawling-and-scraping/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Data & Society Data & Human Rights Research Lead Mark Latonero and Zachary Gold look at the history of web crawlers usage and legal issues surrounding that usage.
 
     “This paper discusses the history of web crawlers in courts as well as the uses of such programs by a wide array of actors. It addresses ethical and legal issues surrounding the crawling and scraping of data posted online for uses not intended by the original poster or by the website on which the information is hosted. The article further suggests that stronger rules are necessary to protect the users’ initial expectations about how their data would be used, as well as their privacy.”
-
 

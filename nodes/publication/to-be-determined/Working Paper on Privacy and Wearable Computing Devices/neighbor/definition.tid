@@ -1,17 +1,17 @@
-config.central-topic:5c6ac3ee-94ac-4d03-8f92-e3977baebd47
+config.central-topic:d415fbd3-ccae-4b0c-8717-bfc3234354b4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062342
-id:95e57de6-4e7c-436b-a31d-a7a3cab17f64
+created:1582720021684
+id:391df353-3f6e-409e-863d-045ba2fec266
 isview:false
-map.base:5c6ac3ee-94ac-4d03-8f92-e3977baebd47
+map.base:d415fbd3-ccae-4b0c-8717-bfc3234354b4
 map.role:definition
 map.type:neighbor
-modified:1582719062342
+modified:1582720021684
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Privacy and Wearable Computing Devices
-tmap.id:95e57de6-4e7c-436b-a31d-a7a3cab17f64
+tmap.id:391df353-3f6e-409e-863d-045ba2fec266
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on Privacy and Wearable Computing Devices

@@ -1,12 +1,12 @@
-created:1582719062199
-filter:[field:tmap.id[15bdf76a-8381-4ec7-a5bc-504575e39e4c]]
-map.base:15bdf76a-8381-4ec7-a5bc-504575e39e4c
+created:1582720021556
+filter:[field:tmap.id[3f39376c-b5c7-41de-95c3-09cff4b1afa4]]
+map.base:3f39376c-b5c7-41de-95c3-09cff4b1afa4
 map.role:node-filter
 map.type:neighbor
-modified:1582719062199
+modified:1582720021556
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equitable Internet Initiative/filter/nodes
-tmap.id:34030241-6d6b-4233-90a2-037e1ab2124e
+tmap.id:243a35f4-3c74-48d0-b01f-986ea47c2dfa
 type:text/vnd.tiddlywiki
 
 No body provided

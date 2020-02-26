@@ -1,12 +1,12 @@
-created:1582719062084
-filter:[field:tmap.id[25c124eb-0826-4eb2-9f57-d712ddedcd18]]
-map.base:25c124eb-0826-4eb2-9f57-d712ddedcd18
+created:1582720021437
+filter:[field:tmap.id[b848c536-11de-4397-b0e3-972d1a5106c6]]
+map.base:b848c536-11de-4397-b0e3-972d1a5106c6
 map.role:node-filter
 map.type:neighbor
-modified:1582719062084
+modified:1582720021437
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consult Hyperion/filter/nodes
-tmap.id:1885f70f-5fd9-40c4-81cb-d0356b6ddcf4
+tmap.id:20147159-4a2f-4067-989c-105858e7ebf1
 type:text/vnd.tiddlywiki
 
 No body provided

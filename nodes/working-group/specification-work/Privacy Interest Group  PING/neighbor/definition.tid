@@ -1,17 +1,17 @@
-config.central-topic:72ea3f49-110a-4388-b2bb-b9797fc7ab0c
+config.central-topic:5dc52168-9b5c-4f48-a0bb-cebb0e9aef93
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062365
-id:ff8279ec-b9ff-4d33-8b57-35d7f74818db
+created:1582720021702
+id:1e6633d4-8a8c-4492-a69d-57e65801ace9
 isview:false
-map.base:72ea3f49-110a-4388-b2bb-b9797fc7ab0c
+map.base:5dc52168-9b5c-4f48-a0bb-cebb0e9aef93
 map.role:definition
 map.type:neighbor
-modified:1582719062365
+modified:1582720021702
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Interest Group  PING
-tmap.id:ff8279ec-b9ff-4d33-8b57-35d7f74818db
+tmap.id:1e6633d4-8a8c-4492-a69d-57e65801ace9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Interest Group  PING

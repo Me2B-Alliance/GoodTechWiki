@@ -1,12 +1,12 @@
-created:1582719062267
+created:1582720021614
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5ee6ceb0-58cc-44af-866f-d0901efb5ecb
+map.base:423bd800-f646-4e35-b50c-3c4f74b5aa42
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062267
+modified:1582720021614
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Class or Race: The Factor that Matters More for Equity/filter/edges
-tmap.id:8e83f207-0f9c-4978-b277-73e689a9cbc4
+tmap.id:944d5590-402e-43e3-b1ac-28b8b50a0d5e
 type:text/vnd.tiddlywiki
 
 No body provided

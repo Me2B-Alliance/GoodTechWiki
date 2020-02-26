@@ -1,12 +1,12 @@
-created:1582719062290
+created:1582720021635
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:40630108-efd0-4ed5-be6a-deccbdaf145d
+map.base:e001a125-481f-443a-a05f-df25be782b01
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062290
+modified:1582720021635
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Recommendations for companies planning to use Cloud computing services/filter/edges
-tmap.id:72b34767-c297-45c2-a2b1-f91485b4becd
+tmap.id:b0752a89-57c3-424b-b97c-df35278baa33
 type:text/vnd.tiddlywiki
 
 No body provided

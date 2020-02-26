@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071732
+created:1582720003350
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071732
+modified:1582720003350
 name:NMRG Network Management Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:NMRG Network Management Research Group
-tmap.edges:{"5add1211-9892-4be8-a4fd-c7a59ab3b3a0":{"to":"f613cee6-fd8d-4309-8ac1-bda4e9982c15","type":"organization-for-group"}}
-tmap.id:c6278561-2e0c-40d9-94ae-9a35ffaf87d0
+tmap.edges:{"4159d5ae-3aae-465c-948d-e5ec21f5a06e":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
+tmap.id:220ac4aa-3e9d-4dca-a97b-65faa9b0703f
 type:text/vnd.tiddlywiki
 url:https://irtf.org/nmrg
 version.or.edition:
@@ -36,5 +36,4 @@ The initial focus of the NMRG will be on higher-layer management services that i
 The IETF Operations and Management Area Directors are members of the NMRG mailing list and invited to NMRG meetings in order to ensure free flow of information in both directions, and to avoid duplication of work with the various IETF working groups.
 
 The group will report its progress through a publicly accessible web site and presentations at IETF meetings. Specifications developed by the NMRG will be submitted for publication as Experimental or Informational RFCs.
-
 

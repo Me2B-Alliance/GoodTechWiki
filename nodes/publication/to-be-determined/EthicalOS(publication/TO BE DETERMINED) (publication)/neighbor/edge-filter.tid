@@ -1,12 +1,12 @@
-created:1582719062334
+created:1582720021677
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b970356c-c59a-46f3-898e-c506a930366f
+map.base:fdea54ed-f488-4a61-898e-dae688ed8140
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062334
+modified:1582720021677
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EthicalOS(publication/TO BE DETERMINED) (publication)/filter/edges
-tmap.id:ee7accc0-d297-4f4b-9027-f03f7b7cfef5
+tmap.id:8a32fd88-b3fb-4a50-8a2b-3b182e44e1cf
 type:text/vnd.tiddlywiki
 
 No body provided

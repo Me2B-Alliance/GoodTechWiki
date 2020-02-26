@@ -1,12 +1,12 @@
-created:1582719062229
+created:1582720021584
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2de9e738-d520-4531-b2fd-67e1362d64a0
+map.base:4b03c5b0-e056-4423-b6cd-fdcc6abb1183
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062229
+modified:1582720021584
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bias in Algorithmic Decision-Making (Crime and Justice) – Submission to the Centre for Data Ethics and Innovation/filter/edges
-tmap.id:c4b6c64b-f74b-48d6-b431-22d4c7f048c1
+tmap.id:5e5c4dea-feda-4901-bb7d-589233d25136
 type:text/vnd.tiddlywiki
 
 No body provided

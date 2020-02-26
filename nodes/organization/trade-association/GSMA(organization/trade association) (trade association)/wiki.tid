@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071753
+created:1582720003370
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071753
+modified:1582720003370
 org.name:GSMA
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:GSMA(organization/trade association) (trade association)
-tmap.edges:{"5636aec1-3a6c-479b-a9fe-e111acb3d285":{"to":"f6a0c647-2684-4b76-b214-62c3deafcaec","type":"author"}}
-tmap.id:25361e13-ae48-4cba-96e4-d0db285e1da9
+tmap.edges:{"f182bec6-bec3-428e-bbc5-2196257cbde0":{"to":"d571b43e-c2f6-47de-bccc-513867f20bb2","type":"author"}}
+tmap.id:bdfb3b59-870b-403f-b2dd-12578c7d4705
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

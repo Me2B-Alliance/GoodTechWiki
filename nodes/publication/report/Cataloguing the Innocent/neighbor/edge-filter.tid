@@ -1,12 +1,12 @@
-created:1582719062267
+created:1582720021613
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:227f5bd7-1a4a-4af2-8e86-d18078bfb77a
+map.base:995cf19b-caaf-454d-8fcb-f67bf0a634f1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062267
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cataloguing the Innocent/filter/edges
-tmap.id:8efe005f-adf8-46d8-8c1a-16f0eb798c50
+tmap.id:2047016b-ea89-49c3-b592-9115c6bc9bf6
 type:text/vnd.tiddlywiki
 
 No body provided

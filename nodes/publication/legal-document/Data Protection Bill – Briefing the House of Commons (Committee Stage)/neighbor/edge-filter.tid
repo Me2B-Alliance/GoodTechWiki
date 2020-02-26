@@ -1,12 +1,12 @@
-created:1582719062224
+created:1582720021579
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5e190e77-a42e-4bf4-8e65-64a06a1757fb
+map.base:64b97cd0-1eb7-4c06-ab57-4231bc75612f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062224
+modified:1582720021579
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing the House of Commons (Committee Stage)/filter/edges
-tmap.id:266e685e-1d5b-4081-824d-0fdb014f76c3
+tmap.id:5c51fdde-f997-460f-a9b7-e0eb1d0ac0f4
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:c78fcdea-1cc9-4dc4-81a0-aef111a9eecf
+config.central-topic:a14c3af1-0361-4723-9bb4-94fd3be91441
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062111
-id:cc6f13bc-3f44-49ec-bcc8-285986886996
+created:1582720021466
+id:c42b594a-d4bb-41c0-8924-0f2c12570022
 isview:false
-map.base:c78fcdea-1cc9-4dc4-81a0-aef111a9eecf
+map.base:a14c3af1-0361-4723-9bb4-94fd3be91441
 map.role:definition
 map.type:neighbor
-modified:1582719062111
+modified:1582720021466
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Advertising Initiative
-tmap.id:cc6f13bc-3f44-49ec-bcc8-285986886996
+tmap.id:c42b594a-d4bb-41c0-8924-0f2c12570022
 type:text/vnd.tiddlywiki
 
 Neighbor Map of National Advertising Initiative

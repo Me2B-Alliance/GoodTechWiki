@@ -1,17 +1,17 @@
-config.central-topic:75104d7e-ce16-45bf-b527-f9671dc666b5
+config.central-topic:d403997a-01e0-4bfd-8ee3-b9ab08602282
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062111
-id:40da90b7-f098-443d-acf6-aed2d8b6313e
+created:1582720021466
+id:75c33079-6f8b-4569-98f0-90d1763e69de
 isview:false
-map.base:75104d7e-ce16-45bf-b527-f9671dc666b5
+map.base:d403997a-01e0-4bfd-8ee3-b9ab08602282
 map.role:definition
 map.type:neighbor
-modified:1582719062111
+modified:1582720021466
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative: Europe
-tmap.id:40da90b7-f098-443d-acf6-aed2d8b6313e
+tmap.id:75c33079-6f8b-4569-98f0-90d1763e69de
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Kantara Initiative: Europe

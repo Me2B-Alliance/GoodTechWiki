@@ -1,12 +1,12 @@
-created:1582719062337
-filter:[field:tmap.id[3a7f3cc4-35e2-48c7-b4fe-7c572308d008]]
-map.base:3a7f3cc4-35e2-48c7-b4fe-7c572308d008
+created:1582720021680
+filter:[field:tmap.id[9e560f21-7131-404c-ad80-805bc0ac8f68]]
+map.base:9e560f21-7131-404c-ad80-805bc0ac8f68
 map.role:node-filter
 map.type:neighbor
-modified:1582719062337
+modified:1582720021680
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy by Design in Big Data/filter/nodes
-tmap.id:caa09953-e94f-4f61-a574-af21338120c1
+tmap.id:be29fc7c-4690-4b9a-8838-5ac550153f13
 type:text/vnd.tiddlywiki
 
 No body provided

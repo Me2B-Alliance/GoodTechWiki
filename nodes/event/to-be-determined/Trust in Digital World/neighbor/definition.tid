@@ -1,17 +1,17 @@
-config.central-topic:2dd26b29-3b3c-434b-bb85-7dd9610e131c
+config.central-topic:2ffe8ef9-8f4c-4d65-9ae8-d5e8c11474fe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062080
-id:84910816-f94f-40d1-9c6c-b3218425aff3
+created:1582720021432
+id:d029e894-738f-4f7e-8390-aa6237387935
 isview:false
-map.base:2dd26b29-3b3c-434b-bb85-7dd9610e131c
+map.base:2ffe8ef9-8f4c-4d65-9ae8-d5e8c11474fe
 map.role:definition
 map.type:neighbor
-modified:1582719062080
+modified:1582720021432
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Digital World
-tmap.id:84910816-f94f-40d1-9c6c-b3218425aff3
+tmap.id:d029e894-738f-4f7e-8390-aa6237387935
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trust in Digital World

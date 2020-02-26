@@ -1,17 +1,17 @@
-config.central-topic:c63b6c37-bd0f-470a-a9d5-3e7d7d83ab46
+config.central-topic:97499d79-a2bd-468f-b8bd-99b036a918df
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062231
-id:e89c3371-c3ad-4d5b-8a52-ab0dde462a19
+created:1582720021586
+id:d70d64b9-a3a3-49b8-8b62-b11ef199d1e1
 isview:false
-map.base:c63b6c37-bd0f-470a-a9d5-3e7d7d83ab46
+map.base:97499d79-a2bd-468f-b8bd-99b036a918df
 map.role:definition
 map.type:neighbor
-modified:1582719062231
+modified:1582720021586
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Data Guardian for Health and Care’s Review of Data Security, Consent and Opt-Outs – Big Brother Watch Response
-tmap.id:e89c3371-c3ad-4d5b-8a52-ab0dde462a19
+tmap.id:d70d64b9-a3a3-49b8-8b62-b11ef199d1e1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of National Data Guardian for Health and Care’s Review of Data Security, Consent and Opt-Outs – Big Brother Watch Response

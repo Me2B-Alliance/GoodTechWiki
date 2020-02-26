@@ -1,17 +1,17 @@
-config.central-topic:398b8741-b78a-4472-89ed-35ea31375a53
+config.central-topic:2c7687cf-f08d-43c2-a5c4-51a5ab76f2bc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062138
-id:4fe3c7d3-b255-4fe8-92bd-d6ba27c0c79f
+created:1582720021492
+id:103e6385-564d-47d9-a58a-47a8e03690f3
 isview:false
-map.base:398b8741-b78a-4472-89ed-35ea31375a53
+map.base:2c7687cf-f08d-43c2-a5c4-51a5ab76f2bc
 map.role:definition
 map.type:neighbor
-modified:1582719062138
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Growers Information Services Coop
-tmap.id:4fe3c7d3-b255-4fe8-92bd-d6ba27c0c79f
+tmap.id:103e6385-564d-47d9-a58a-47a8e03690f3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Growers Information Services Coop

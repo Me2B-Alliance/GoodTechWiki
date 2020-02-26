@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Is using technology for learning a good idea?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[enabling connected learning]]
 tech.focus:
 tiddler.classification:node
 title:Is using technology for learning a good idea?
 tmap.edges:{}
-tmap.id:dc4395e7-4703-41af-ac4b-0d46a5604c70
+tmap.id:c3964040-8f3e-4e6d-a082-59f4aaabb42b
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/is-using-technology-for-learning-a-good-idea-2/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 D&S researcher Monica Bulger introduces better ways to measure edtech usage with children, including the following:
 
     Ask the children. As part of the demographic data collected by PISA tests, adding questions about use of technology in the classroom would be a stronger and more accurate measure. School administrators might feel pressured to report on ideal use or expected use rather than actual use, but asking an entire cohort of students about their use will likely result in more accurate averages. Further, given the number of classes and teachers at any given school, expecting principals to be aware of specific practices might be unreasonable.
-
 

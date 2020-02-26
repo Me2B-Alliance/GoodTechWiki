@@ -1,12 +1,12 @@
-created:1582719062351
+created:1582720021693
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2afb58c8-d0ee-49a7-af93-2fc0960f3149
+map.base:7438e523-0273-4b23-a660-55663ca8ed19
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062351
+modified:1582720021693
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Management in Electronic Commerce/filter/edges
-tmap.id:02456b95-917b-4f4b-acfd-27f2f7a9f6f3
+tmap.id:ebc3ced8-e6c4-417b-8fee-1d1537ddf280
 type:text/vnd.tiddlywiki
 
 No body provided

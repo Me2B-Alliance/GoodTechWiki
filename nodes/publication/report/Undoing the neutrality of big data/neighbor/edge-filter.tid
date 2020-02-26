@@ -1,12 +1,12 @@
-created:1582719062300
+created:1582720021645
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1fc69a08-db61-475c-8e2e-0158ce4e163a
+map.base:455742a6-d403-412d-8e46-d05bc92879ea
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062300
+modified:1582720021645
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Undoing the neutrality of big data/filter/edges
-tmap.id:3be53ee0-b219-44ec-b1c1-ae9428b75090
+tmap.id:4b962410-5c19-4574-aef2-f6402a63c9e1
 type:text/vnd.tiddlywiki
 
 No body provided

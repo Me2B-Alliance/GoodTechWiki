@@ -1,12 +1,12 @@
-created:1582719062168
+created:1582720021529
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:78836f02-d40d-4288-b5db-c713e258dee5
+map.base:823e3033-cc68-4b93-81b3-512dd4f37e70
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062168
+modified:1582720021529
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/the Center on Technology & Privacy at Georgetown Law/filter/edges
-tmap.id:e0117dc8-99ba-4480-86d6-14541c2c7fe0
+tmap.id:5ea87691-aba5-45c3-b483-214f21e90ab8
 type:text/vnd.tiddlywiki
 
 No body provided

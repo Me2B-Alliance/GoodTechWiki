@@ -1,12 +1,12 @@
-created:1582719062201
+created:1582720021558
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2d40bee0-9bc3-4eca-af29-c2f2e3c11631
+map.base:816d269a-99c9-49ca-b9e1-53790e4b31e6
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062201
+modified:1582720021558
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe Privacy Dispute Resolution/filter/edges
-tmap.id:bcd79cc8-c3d2-4654-b74d-1f31217ce85a
+tmap.id:c5a6393e-baf4-4ee6-a779-06999eeccfc4
 type:text/vnd.tiddlywiki
 
 No body provided

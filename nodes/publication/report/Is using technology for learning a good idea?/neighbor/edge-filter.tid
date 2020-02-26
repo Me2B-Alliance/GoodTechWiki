@@ -1,12 +1,12 @@
-created:1582719062284
+created:1582720021629
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dc4395e7-4703-41af-ac4b-0d46a5604c70
+map.base:c3964040-8f3e-4e6d-a082-59f4aaabb42b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062284
+modified:1582720021629
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Is using technology for learning a good idea?/filter/edges
-tmap.id:9ab3fa4f-e3c0-4298-9113-95cd81fc114e
+tmap.id:1a5acb67-eb21-4c4b-a805-f34ddbdb63b0
 type:text/vnd.tiddlywiki
 
 No body provided

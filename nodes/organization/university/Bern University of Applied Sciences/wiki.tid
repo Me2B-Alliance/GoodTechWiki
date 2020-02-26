@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071718
+created:1582720003336
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071718
+modified:1582720003336
 org.name:Bern University of Applied Sciences
 org.type:university
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Bern University of Applied Sciences
-tmap.edges:{"e81918a7-ca98-4bd0-9dfb-d7df12b1b36f":{"to":"01ad34e3-38b6-4890-bc1a-6ac8953025ef","type":"convenor"}}
-tmap.id:b5918983-9750-4dc6-b032-acbabecccdcd
+tmap.edges:{"fb0af9fa-8e64-443b-a7e9-0548e70192cf":{"to":"f479d56a-2807-49ac-a79e-7ee0d32db671","type":"convenor"}}
+tmap.id:64d58158-f538-42c6-90f1-3a2c8e3779ec
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.bfh.ch/en/home.html
-
 
 
 

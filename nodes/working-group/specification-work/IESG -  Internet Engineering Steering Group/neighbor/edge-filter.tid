@@ -1,12 +1,12 @@
-created:1582719062360
+created:1582720021698
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a1364224-2f13-4fd7-9c55-d3abf65f07b1
+map.base:138f237c-1bb9-40cf-b6d6-55cb16e59465
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062360
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IESG -  Internet Engineering Steering Group/filter/edges
-tmap.id:54df5e64-c600-4ccf-8f12-041d39f4640c
+tmap.id:476ff35b-18d4-4b69-9359-b4d67c70b93e
 type:text/vnd.tiddlywiki
 
 No body provided

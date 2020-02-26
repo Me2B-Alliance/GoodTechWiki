@@ -1,12 +1,12 @@
-created:1582719062358
-filter:[field:tmap.id[ff9278b0-d728-465f-8e1a-c7ca421a3f51]]
-map.base:ff9278b0-d728-465f-8e1a-c7ca421a3f51
+created:1582720021696
+filter:[field:tmap.id[aa6e28bb-95ed-4943-acef-36f93293fe7c]]
+map.base:aa6e28bb-95ed-4943-acef-36f93293fe7c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062358
+modified:1582720021696
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Signature Services eXtended (DSS-X) TC/filter/nodes
-tmap.id:49a7c811-883f-4c59-8bcc-18de80caad43
+tmap.id:346cc6b5-422e-4d18-8b88-55bcf39c64d4
 type:text/vnd.tiddlywiki
 
 No body provided

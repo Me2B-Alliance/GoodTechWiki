@@ -1,17 +1,17 @@
-config.central-topic:57e62226-fced-48e2-b5c8-98a3794884a8
+config.central-topic:4dbc159f-83e6-414a-b31c-faf9bcea1ce1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062349
-id:9147e718-80dd-4105-a76d-b58af87f2587
+created:1582720021691
+id:71c9786b-8802-49fd-8ed4-5b1e2db88aa3
 isview:false
-map.base:57e62226-fced-48e2-b5c8-98a3794884a8
+map.base:4dbc159f-83e6-414a-b31c-faf9bcea1ce1
 map.role:definition
 map.type:neighbor
-modified:1582719062349
+modified:1582720021691
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDTrust Member Section
-tmap.id:9147e718-80dd-4105-a76d-b58af87f2587
+tmap.id:71c9786b-8802-49fd-8ed4-5b1e2db88aa3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IDTrust Member Section

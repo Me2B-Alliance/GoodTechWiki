@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:The Legacy of inBloom
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[enabling connected learning]]
 tech.focus:
 tiddler.classification:node
 title:The Legacy of inBloom
 tmap.edges:{}
-tmap.id:d12bdaca-1423-4f80-9e0d-b4ab6ccba499
+tmap.id:547c371b-2d3a-47d5-b3c3-a409138ca23e
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-legacy-of-inbloom/
 version.or.edition:
@@ -31,5 +31,4 @@ D&S researcher Monica Bulger, with Patrick McCormick and D&S research analyst Mi
     Although inBloom closed in 2014, it ignited a public discussion of student data privacy that resulted in the introduction of over 400 pieces of state-level legislation. The fervor over inBloom showed that policies and procedures were not yet where they needed to be for schools to engage in data-informed instruction. Industry members responded with a student data privacy pledge that detailed responsible practice. A strengthened awareness of the need for transparent data practices among nearly all of the involved actors is one of inBloom’s most obvious legacies.
 
     Instead of a large-scale, open source platform that was a multi-state collaboration, the trend in data-driven educational   technologies since inBloom’s closure has been toward closed, proprietary systems, adopted piecemeal. To date, no large-scale educational technology initiative has succeeded in American K-12  schools. This study explores several factors that contributed to the demise of inBloom and a number of important questions: What were the values and plans that drove inBloom to be designed the way it was? What were the concerns and movements that caused inBloom to run into resistance How has the entire inBloom development impacted the future of edtech and student data?
-
 

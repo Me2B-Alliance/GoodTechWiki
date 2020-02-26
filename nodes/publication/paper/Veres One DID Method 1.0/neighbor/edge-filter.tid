@@ -1,12 +1,12 @@
-created:1582719062259
+created:1582720021606
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:877645b1-11bc-4677-bcc4-cd895079676c
+map.base:3822ef09-258c-4cd7-842d-29b8bf408724
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062259
+modified:1582720021606
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Veres One DID Method 1.0/filter/edges
-tmap.id:e0ae443f-c3bd-45d3-a81a-c25b47b23be6
+tmap.id:7c80962c-7de0-4a76-966f-daf7f3d4082b
 type:text/vnd.tiddlywiki
 
 No body provided

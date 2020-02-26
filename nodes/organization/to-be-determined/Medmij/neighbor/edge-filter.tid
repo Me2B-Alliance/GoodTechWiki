@@ -1,12 +1,12 @@
-created:1582719062140
+created:1582720021496
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7f128836-0be2-481b-b0d1-016667e1cd22
+map.base:5e2b123d-905c-4a33-87c3-f3bf33f37096
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062140
+modified:1582720021496
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Medmij/filter/edges
-tmap.id:6a5256c6-97f2-4ca1-a641-86dac63073ef
+tmap.id:58e0d9f3-c218-4756-8941-97bed1540853
 type:text/vnd.tiddlywiki
 
 No body provided

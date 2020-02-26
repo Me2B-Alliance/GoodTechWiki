@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003376
 date.ended:
 date.founded:2014-01-01
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003376
 org.name:IEEE Cybersecurity Initiative
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IEEE Cybersecurity Initiative
-tmap.edges:{"cdc19dc5-a618-4381-a315-662d1f473679":{"to":"839b0ba0-7952-4d5f-9a9b-b385a56daf06","type":"sponsor"}}
-tmap.id:740e131c-11fa-4fc4-b20c-032a7d2f2e65
+tmap.edges:{"a5a83f82-ff15-49a1-a82c-ac9a2cdd1465":{"to":"3ebfe462-abda-403a-ac0b-aa8337951d2e","type":"sponsor"}}
+tmap.id:81de0666-99b6-465b-ac16-12b4f67b4c53
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://cybersecurity.ieee.org/about/
-
 
 
 

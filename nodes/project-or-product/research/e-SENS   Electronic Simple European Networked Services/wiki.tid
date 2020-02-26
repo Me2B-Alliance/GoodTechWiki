@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071733
+created:1582720003351
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071733
+modified:1582720003351
 name:e-SENS   Electronic Simple European Networked Services
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:e-SENS   Electronic Simple European Networked Services
-tmap.edges:{"8144bbd5-dbfb-44da-b29a-8b046e0ebc2f":{"to":"7dfb4a71-4826-4ad8-a98f-c6f9f11563b8","type":"connection"}}
-tmap.id:3166e9f5-2fed-4620-9343-c373b9b0fb48
+tmap.edges:{"e565ff80-e25b-467b-b81e-3ccd7376976c":{"to":"80451c2b-560a-433b-a3b8-6ea3adcfcc16","type":"connection"}}
+tmap.id:0b975138-f2e1-444a-9bfa-fc8816e6b4fe
 type:text/vnd.tiddlywiki
 url:http://www.esens.eu
 version.or.edition:
@@ -34,5 +34,4 @@ In today’s digital world, numerous challenges are faced by public administrati
 The aim of e-SENS is to facilitate the deployment of cross-border digital public services through generic and re-usable technical components, based on the building blocks of the Large Scale Pilots. The consolidated technical solutions, with a strong focus on e-ID, e-Documents, e-Delivery, Semantics and e-Signatures, aim to provide the foundation for a platform of “core services” for the eGovernment cross-border digital infrastructure foreseen in the regulation for implementing the Connecting Europe Facility (CEF). These solutions are implemented in pilot production environments where actual transactions among public administrative bodies, or between them and European citizens and businesses, can take place. This is expected to unlock the potential of cross-border services and strengthen the functioning of the Digital Single Market in Europe.
 
 The real-life piloting phase aims to test digital communication with public administration in Europe. A wide spectrum of domains, such as e-Health, e-Justice, e-Procurement, Business Lifecycle and others, are in the focus of the e-SENS piloting exercise.
-
 

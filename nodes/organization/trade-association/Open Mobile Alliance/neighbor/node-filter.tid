@@ -1,12 +1,12 @@
-created:1582719062161
-filter:[field:tmap.id[f00bb32b-658e-4e5e-acfd-67c0c9a21e6c]]
-map.base:f00bb32b-658e-4e5e-acfd-67c0c9a21e6c
+created:1582720021519
+filter:[field:tmap.id[2db587e2-164d-4e58-af9c-ae1bf9a1216b]]
+map.base:2db587e2-164d-4e58-af9c-ae1bf9a1216b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062161
+modified:1582720021519
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Mobile Alliance/filter/nodes
-tmap.id:4aa4947a-d54d-4448-b892-a2bd41c402a9
+tmap.id:9359c6da-56cd-4814-99b4-4267854aa1e9
 type:text/vnd.tiddlywiki
 
 No body provided

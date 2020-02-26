@@ -1,21 +1,21 @@
 activities:
 audience:
 category:research
-created:1582678071969
+created:1582720003596
 date.begun:2014
 date.ended:2017
-digital.harms.addressed:[object Set]
+digital.harms.addressed:[[breach of confidentiality]]
 element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003596
 name:Meaningful Consent in the Digital Economy (MCDE)
 parent.org:South Hampton University
 partners:
 people:
-purpose:[object Set]
+purpose:[[consumer support]] [[transparency and accountability]]
 relevant.publications:
 status:Inactive
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Meaningful Consent in the Digital Economy (MCDE)
 tmap.edges:{}
-tmap.id:64a057cb-5fb1-47ce-9a8b-c9425dcd2be9
+tmap.id:f263f568-9c80-435c-b522-3046499a7565
 type:text/vnd.tiddlywiki
 url:http://www.meaningfulconsent.org
 version.or.edition:
@@ -33,5 +33,4 @@ working.group:
 Meaningful Consent in the Digital Economy (MCDE) is an EPSRC-funded research project that is examining issues related to giving and obtaining user consent online.
 
 MCDE is based at the University of Southampton, with industry and academic partners from across the world.
-
 

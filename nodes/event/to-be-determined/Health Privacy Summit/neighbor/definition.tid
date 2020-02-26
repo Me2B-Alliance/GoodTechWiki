@@ -1,17 +1,17 @@
-config.central-topic:7bcc13d3-0c69-4334-8991-41084b5bfa6f
+config.central-topic:27fb455f-64c3-4028-a611-305b8a9fbe0e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062077
-id:748f6b90-c4bb-4c1c-9e89-3022d1e3448f
+created:1582720021429
+id:b3116e81-d913-4b1e-80b1-cf6d60ff29b3
 isview:false
-map.base:7bcc13d3-0c69-4334-8991-41084b5bfa6f
+map.base:27fb455f-64c3-4028-a611-305b8a9fbe0e
 map.role:definition
 map.type:neighbor
-modified:1582719062077
+modified:1582720021429
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Privacy Summit
-tmap.id:748f6b90-c4bb-4c1c-9e89-3022d1e3448f
+tmap.id:b3116e81-d913-4b1e-80b1-cf6d60ff29b3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Health Privacy Summit

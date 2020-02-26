@@ -1,12 +1,12 @@
-created:1582719062116
+created:1582720021473
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9c972d16-c191-42fa-a6d1-424f4822bbef
+map.base:f39ca009-587f-41dc-ad0e-0c25b032fc14
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062116
+modified:1582720021473
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Department of Justice/filter/edges
-tmap.id:9a2b159a-0b18-4694-bca2-ebe95499909c
+tmap.id:6399f7a6-ca54-4d4e-b7a0-562951f08df7
 type:text/vnd.tiddlywiki
 
 No body provided

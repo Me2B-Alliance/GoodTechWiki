@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071755
+created:1582720003373
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071755
+modified:1582720003373
 org.name:ESI European Software Institute
 org.type:trade association
 parent.org:
@@ -23,12 +23,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:ESI European Software Institute
-tmap.edges:{"04e68f29-aeb0-4dd0-a6c0-6104d6ce2d69":{"to":"e6e7d8b7-b66c-4ee1-ba22-caed69d69222","type":"executive-member"}}
-tmap.id:ebce1648-634f-4359-99ec-47a91decd56b
+tmap.edges:{"16e97185-46c0-4fa0-8e59-c6b30373a5a2":{"to":"55c14f7d-1890-4a4f-af61-f3a328ec8b4c","type":"executive-member"}}
+tmap.id:08531f2c-f286-4dbb-a297-9549bed7dd85
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -36,5 +36,4 @@ website:
 European Software Institute – Center Eastern Europe (ESI CEE) is a leading Regional Excellence Center in information technologies, software engineering, quality and cybersecurity for Eastern Europe. Since its establishment in 2003 ESI CEE has actively supported the development of increased ICT industry competitiveness, digital entrepreneurship, knowledge economy and society, with a specific focus on supporting innovative businesses and education.
  
 ESI Center Eastern Europe consistently focuses on three directions:
-
 

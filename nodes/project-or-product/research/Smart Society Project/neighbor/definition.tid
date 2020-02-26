@@ -1,17 +1,17 @@
-config.central-topic:ea453cf7-2e95-4580-b1a2-f864ddae3ec7
+config.central-topic:e3125792-a5e8-4c5f-a095-d87417eff69e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062195
-id:eace7398-d52b-4063-82a7-cb5359831b9f
+created:1582720021551
+id:3df07de9-158b-4bac-b906-975f604adde9
 isview:false
-map.base:ea453cf7-2e95-4580-b1a2-f864ddae3ec7
+map.base:e3125792-a5e8-4c5f-a095-d87417eff69e
 map.role:definition
 map.type:neighbor
-modified:1582719062195
+modified:1582720021551
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smart Society Project
-tmap.id:eace7398-d52b-4063-82a7-cb5359831b9f
+tmap.id:3df07de9-158b-4bac-b906-975f604adde9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Smart Society Project

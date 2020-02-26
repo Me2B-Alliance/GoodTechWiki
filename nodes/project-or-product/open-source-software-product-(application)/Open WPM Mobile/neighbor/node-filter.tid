@@ -1,12 +1,12 @@
-created:1582714534887
-filter:[field:tmap.id[75ba091b-9744-47d3-939e-9b8ee3df2d13]]
-map.base:75ba091b-9744-47d3-939e-9b8ee3df2d13
+created:1582720021562
+filter:[field:tmap.id[1b3358de-e109-408f-ad1c-8f54a50c658e]]
+map.base:1b3358de-e109-408f-ad1c-8f54a50c658e
 map.role:node-filter
 map.type:neighbor
-modified:1582714534887
+modified:1582720021562
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open WPM Mobile/filter/nodes
-tmap.id:86b16e1b-e303-4b4c-937f-a642e8453806
+tmap.id:841ae32a-d7eb-4f39-8e46-fbc3843c06a4
 type:text/vnd.tiddlywiki
 
 No body provided

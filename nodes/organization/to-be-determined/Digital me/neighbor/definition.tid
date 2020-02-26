@@ -1,17 +1,17 @@
-config.central-topic:a2f918a5-94ab-44b6-b560-9226b4c74a47
+config.central-topic:01cbb0b6-879c-460a-bcab-fa99f5718a37
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062136
-id:cadb43fe-3d23-4092-8a5e-2d25c90da4e9
+created:1582720021489
+id:2298561a-fcd6-457c-a93a-4424fc263cc9
 isview:false
-map.base:a2f918a5-94ab-44b6-b560-9226b4c74a47
+map.base:01cbb0b6-879c-460a-bcab-fa99f5718a37
 map.role:definition
 map.type:neighbor
-modified:1582719062136
+modified:1582720021489
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital me
-tmap.id:cadb43fe-3d23-4092-8a5e-2d25c90da4e9
+tmap.id:2298561a-fcd6-457c-a93a-4424fc263cc9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital me

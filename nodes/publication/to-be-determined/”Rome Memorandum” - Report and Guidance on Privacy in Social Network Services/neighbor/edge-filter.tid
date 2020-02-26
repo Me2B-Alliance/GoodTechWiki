@@ -1,12 +1,12 @@
-created:1582719062344
+created:1582720021674
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7badf2ae-7bfb-4456-aad5-483a1fbab105
+map.base:2368850b-7b76-492a-a8da-b4e00495ca9a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062344
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/”Rome Memorandum” - Report and Guidance on Privacy in Social Network Services/filter/edges
-tmap.id:910cb589-bf78-4ef5-bf51-639557ca5c3f
+tmap.id:19fab4db-443e-450a-9d5e-0f94d58cd029
 type:text/vnd.tiddlywiki
 
 No body provided

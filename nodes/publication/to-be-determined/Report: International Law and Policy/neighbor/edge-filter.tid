@@ -1,12 +1,12 @@
-created:1582719062338
+created:1582720021680
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:811d054e-07df-42d0-9c8f-b1bab33c1643
+map.base:3af10ad0-a77e-4145-a2db-21d99cd6cec9
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062338
+modified:1582720021680
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Report: International Law and Policy/filter/edges
-tmap.id:2101c969-633a-471e-86df-3670f00ffac4
+tmap.id:18bcf82c-1bd5-4522-86af-f5b6a95182d5
 type:text/vnd.tiddlywiki
 
 No body provided

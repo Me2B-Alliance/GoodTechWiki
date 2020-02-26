@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[kadija ferryman]] [[elaine o. nsoesie]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Proceed With Caution
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[health and data]]
 tech.focus:
 tiddler.classification:node
 title:Proceed With Caution
 tmap.edges:{}
-tmap.id:b32de943-f031-4adc-81f6-687b4334f3d6
+tmap.id:e9086efd-2a57-4bca-b06c-2117163dffb8
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/proceed-with-caution/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 After the Cambridge Analytica scandal, can internet data be used ethically for research? Data & Society Postdoctoral Scholar Kadija Ferryman and Elaine O. Nsoesie, PhD from the Institute for...
-
 

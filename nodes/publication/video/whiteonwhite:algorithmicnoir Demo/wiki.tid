@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[eve sussman]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:whiteonwhite:algorithmicnoir Demo
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[film festival]]
 tech.focus:
 tiddler.classification:node
 title:whiteonwhite:algorithmicnoir Demo
 tmap.edges:{}
-tmap.id:451f7861-433d-4ac7-ba14-05036deff2c5
+tmap.id:8106b3f7-0c28-426c-8f94-1cf02f88f6ea
 type:text/vnd.tiddlywiki
 url:https://vimeo.com/85569330
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Pushing the envelope of cinematic form, this short film is edited in real time for each viewing by an algorithm called the “serendipity machine.” It never plays the same narrative twice. (This link is to a recorded performance.)
-
 

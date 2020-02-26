@@ -1,17 +1,17 @@
-config.central-topic:eb088657-e65a-437c-bd79-c2d33c92a9f3
+config.central-topic:59fcf2e9-2d06-48a1-9771-557fe8a2f5e5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062351
-id:bdd3ecf6-dd39-4cd2-9a65-9a04d02bc18e
+created:1582720021693
+id:1f38b232-1a85-43c9-8cf4-7c75fb73c476
 isview:false
-map.base:eb088657-e65a-437c-bd79-c2d33c92a9f3
+map.base:59fcf2e9-2d06-48a1-9771-557fe8a2f5e5
 map.role:definition
 map.type:neighbor
-modified:1582719062351
+modified:1582720021693
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Management and Privacy Technologies WG5
-tmap.id:bdd3ecf6-dd39-4cd2-9a65-9a04d02bc18e
+tmap.id:1f38b232-1a85-43c9-8cf4-7c75fb73c476
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity Management and Privacy Technologies WG5

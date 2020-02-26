@@ -1,12 +1,12 @@
-created:1582719062246
+created:1582720021601
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:89f6a1a4-917d-48f5-bc72-4d7f3e61b012
+map.base:12e9bdbd-5851-4b7c-ab75-c55b283d5745
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062246
+modified:1582720021601
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT/filter/edges
-tmap.id:791573bb-f286-41ec-a1fd-87d614e1b155
+tmap.id:fea985db-f327-4cf6-b202-78f0de1fc702
 type:text/vnd.tiddlywiki
 
 No body provided

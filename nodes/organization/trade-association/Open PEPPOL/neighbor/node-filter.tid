@@ -1,12 +1,12 @@
-created:1582719062161
-filter:[field:tmap.id[65e85273-18f0-40b1-a3a9-73b99f0ef0d9]]
-map.base:65e85273-18f0-40b1-a3a9-73b99f0ef0d9
+created:1582720021523
+filter:[field:tmap.id[4e82b8a3-9bed-4e82-bb38-9be5b7b23e94]]
+map.base:4e82b8a3-9bed-4e82-bb38-9be5b7b23e94
 map.role:node-filter
 map.type:neighbor
-modified:1582719062161
+modified:1582720021523
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open PEPPOL/filter/nodes
-tmap.id:625c8f32-ed9f-4b12-9584-b0c0ea4112f8
+tmap.id:e99d4f44-26c7-488e-a7d1-aa123674cbe9
 type:text/vnd.tiddlywiki
 
 No body provided

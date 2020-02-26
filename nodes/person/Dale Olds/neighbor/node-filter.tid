@@ -1,12 +1,12 @@
-created:1582719062171
-filter:[field:tmap.id[aeedc340-756a-4d73-b7cb-6663271e78a5]]
-map.base:aeedc340-756a-4d73-b7cb-6663271e78a5
+created:1582720021531
+filter:[field:tmap.id[d426f03f-22ca-4ef2-acd1-ae396a7facf1]]
+map.base:d426f03f-22ca-4ef2-acd1-ae396a7facf1
 map.role:node-filter
 map.type:neighbor
-modified:1582719062171
+modified:1582720021531
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dale Olds/filter/nodes
-tmap.id:4308aa27-3ae3-4008-bcd6-d0530e2ec92f
+tmap.id:e4fe2388-0626-4d58-aaf3-265948f24403
 type:text/vnd.tiddlywiki
 
 No body provided

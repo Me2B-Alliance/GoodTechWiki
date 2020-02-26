@@ -1,12 +1,12 @@
-created:1582719062117
+created:1582720021474
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4a7cf7d2-e38d-495d-a0c2-a292630a3c85
+map.base:9796ab57-23c1-4fa7-a63f-ae7acf296379
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062117
+modified:1582720021474
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ministry of Interior Republic of Serbia/filter/edges
-tmap.id:7cd5828a-3b14-4a2b-ac0d-bc1ec80312cf
+tmap.id:d4499eca-a42b-477b-a022-5bf5a231a3da
 type:text/vnd.tiddlywiki
 
 No body provided

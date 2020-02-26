@@ -1,12 +1,12 @@
-created:1582719062363
+created:1582720021700
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b2a87168-794d-4cc9-afd2-e07ad3531dad
+map.base:77788bc7-bddd-45be-89b6-901e602e09bd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062363
+modified:1582720021700
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Key Management Interoperability Protocol (KMIP)/filter/edges
-tmap.id:aebb7704-6e10-46bc-b345-33d0d5697c6b
+tmap.id:44750285-7884-4fa4-9a97-1b1a0690519b
 type:text/vnd.tiddlywiki
 
 No body provided

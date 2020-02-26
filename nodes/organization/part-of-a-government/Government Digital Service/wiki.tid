@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003367
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003367
 org.name:Government Digital Service
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Government Digital Service
-tmap.edges:{"97b1f278-664a-40de-9ca7-f679a03a1f73":{"to":"1d79a609-fac6-46b3-adfa-0ecc744e8ac7","type":"government-connection"},"bb5ea1d5-37a9-41ee-a987-a420f30f94be":{"to":"2d160100-9d01-4af3-835f-cb74571169fe","type":"connection"}}
-tmap.id:2e7ba137-4a55-456c-9983-bc292e1a9f9e
+tmap.edges:{"0e63516f-9e88-4e13-b0f8-15f576cb4d56":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"},"85364f7e-782d-45be-beb0-43287245f57c":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"connection"}}
+tmap.id:27b44b3f-13ba-4261-bcd4-fd9943b22f34
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

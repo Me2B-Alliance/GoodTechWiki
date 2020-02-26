@@ -1,12 +1,12 @@
-created:1582719062194
-filter:[field:tmap.id[bb0b2ac6-6a3d-481d-b263-125c0c412f0b]]
-map.base:bb0b2ac6-6a3d-481d-b263-125c0c412f0b
+created:1582720021551
+filter:[field:tmap.id[d980dbf3-15b9-4fa3-9fe6-2a8ce84da549]]
+map.base:d980dbf3-15b9-4fa3-9fe6-2a8ce84da549
 map.role:node-filter
 map.type:neighbor
-modified:1582719062194
+modified:1582720021551
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PRISMACLOUD/filter/nodes
-tmap.id:03eac166-db62-43d6-aab2-fa0594f008ce
+tmap.id:ba0df435-c29e-4421-ae13-67a0c71bde7f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:e9ae1d51-1ea9-44cb-82c9-da172c0c99b7
+config.central-topic:9ba6302e-0403-45ac-bb90-ee260eff7d66
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062225
-id:dd599eed-a49f-4d9d-91eb-fb086629f713
+created:1582720021581
+id:6d8e724b-3503-4d26-8a7f-0b7d4fd4691f
 isview:false
-map.base:e9ae1d51-1ea9-44cb-82c9-da172c0c99b7
+map.base:9ba6302e-0403-45ac-bb90-ee260eff7d66
 map.role:definition
 map.type:neighbor
-modified:1582719062225
+modified:1582720021581
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICO Data Sharing Code of Practice
-tmap.id:dd599eed-a49f-4d9d-91eb-fb086629f713
+tmap.id:6d8e724b-3503-4d26-8a7f-0b7d4fd4691f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ICO Data Sharing Code of Practice

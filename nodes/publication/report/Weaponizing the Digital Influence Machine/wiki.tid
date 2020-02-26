@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[anthony nadler]] [[matthew crain]] [[joan donovan]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Weaponizing the Digital Influence Machine
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[media manipulation]]
 tech.focus:
 tiddler.classification:node
 title:Weaponizing the Digital Influence Machine
 tmap.edges:{}
-tmap.id:492909b3-1569-48ff-8492-6aa064562e7c
+tmap.id:4ecb1544-8aae-4150-afd3-80bbb66eb6f4
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/weaponizing-the-digital-influence-machine/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Weaponizing the Digital Influence Machine: The Political Perils of Online Ad Tech identifies the technologies, conditions, and tactics that enable today’s digital advertising infrastructure to be weaponized by political...
-
 

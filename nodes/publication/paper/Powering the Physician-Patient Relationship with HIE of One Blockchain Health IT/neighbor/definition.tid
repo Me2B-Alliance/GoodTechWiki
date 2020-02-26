@@ -1,17 +1,17 @@
-config.central-topic:89f6a1a4-917d-48f5-bc72-4d7f3e61b012
+config.central-topic:12e9bdbd-5851-4b7c-ab75-c55b283d5745
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062246
-id:38738a82-606f-406a-8e24-bbd1ab6ac2ab
+created:1582720021601
+id:6846c2ce-5af5-47ba-a13d-f32a4ababba7
 isview:false
-map.base:89f6a1a4-917d-48f5-bc72-4d7f3e61b012
+map.base:12e9bdbd-5851-4b7c-ab75-c55b283d5745
 map.role:definition
 map.type:neighbor
-modified:1582719062246
+modified:1582720021601
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT
-tmap.id:38738a82-606f-406a-8e24-bbd1ab6ac2ab
+tmap.id:6846c2ce-5af5-47ba-a13d-f32a4ababba7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT

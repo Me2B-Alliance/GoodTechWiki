@@ -1,17 +1,17 @@
-config.central-topic:dcd0831d-2dd9-4935-8ac9-bddfeead2dc8
+config.central-topic:f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062123
-id:058c2f41-bf75-4d48-99ec-c1687abbd6b6
+created:1582720021479
+id:cc367aa4-a457-476d-b7a8-0e647bc86b50
 isview:false
-map.base:dcd0831d-2dd9-4935-8ac9-bddfeead2dc8
+map.base:f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d
 map.role:definition
 map.type:neighbor
-modified:1582719062123
+modified:1582720021479
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Economy & Society
-tmap.id:058c2f41-bf75-4d48-99ec-c1687abbd6b6
+tmap.id:cc367aa4-a457-476d-b7a8-0e647bc86b50
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Economy & Society

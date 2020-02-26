@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071759
+created:1582720003376
 date.ended:
 date.founded:1906-01-01
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071759
+modified:1582720003376
 org.name:International Electrotechnical Commission (IEC)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:International Electrotechnical Commission (IEC)
-tmap.edges:{"71545888-b15e-4331-8019-c5414d7495d0":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"general-member"},"c05b8eee-993d-48a7-bc53-7fb67c5f6da5":{"to":"9da0217c-0132-4496-912f-5315fae581c9","type":"general-member"}}
-tmap.id:24bb370e-2d62-4013-b341-2916f774b2c2
+tmap.edges:{"bf3bf8a4-8acb-40f1-9e2b-f2c4b085eb67":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"},"69a28bc5-8e39-48ac-b48f-fb1fa4f045f9":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
+tmap.id:f8622f74-189e-41ab-8235-3222c367589e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.iec.ch
@@ -47,5 +47,4 @@ Founded in 1906, the IEC (International Electrotechnical Commission) is the worl
 IEC provides a platform to companies, industries and governments for meeting, discussing and developing the International Standards they require.
  
 All IEC International Standards are fully consensus-based and represent the needs of key stakeholders of every nation participating in IEC work. Every member country, no matter how large or small, has one vote and a say in what goes into an IEC International Standard.
-
 

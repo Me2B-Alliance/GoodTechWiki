@@ -1,12 +1,12 @@
-created:1582719062311
-filter:[field:tmap.id[713c549b-bfa2-41c2-9066-00e0bf288a4e]]
-map.base:713c549b-bfa2-41c2-9066-00e0bf288a4e
+created:1582720021653
+filter:[field:tmap.id[8c9d8bf7-61bd-4012-ba26-042f0fff1687]]
+map.base:8c9d8bf7-61bd-4012-ba26-042f0fff1687
 map.role:node-filter
 map.type:neighbor
-modified:1582719062311
+modified:1582720021653
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HEART profile for FHIR UMA resource set types, scopes, and claims-gathering flows/filter/nodes
-tmap.id:4dc34754-f937-4715-b310-7cc6cddbeaa6
+tmap.id:00c97234-5131-49cd-aa60-bb3eb35384bd
 type:text/vnd.tiddlywiki
 
 No body provided

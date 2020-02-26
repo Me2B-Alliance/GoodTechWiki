@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:ISO_IEC_Guide_75_2006(E)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
 tech.focus:
 tiddler.classification:node
 title:ISO_IEC_Guide_75_2006(E)
 tmap.edges:{}
-tmap.id:3463873b-9831-4729-a9ad-8aa6a11d8406
+tmap.id:c9a1e9ab-3002-4f70-8ab3-d164998c295f
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_75_2006%28E%29_%2D_Strategic_principles_for_future_IEC_and_ISO_standardization_in_industrial_automation.pdf?nodeid=8388167&vernum=-2
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Strategic principles for future IEC and ISO standardization in industrial automation
 
 This Guide is applicable to IEC and ISO standardization for the industrial automation sector.  It   provides   strategic   principles   for   use   by   the   various   technical   committees   and   subcommittees working in different domains within the sector, as well as other bodies within IEC and ISO with interests in the work of these committees.
-
 

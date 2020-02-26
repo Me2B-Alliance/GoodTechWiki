@@ -1,17 +1,17 @@
-config.central-topic:6b1269b2-4a51-44ec-b709-5e0ffc371df6
+config.central-topic:15325680-fd00-415c-a434-a6ee7b7e0dba
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062110
-id:52a20d5e-4621-4540-bcd9-5213e89bc942
+created:1582720021465
+id:669c931e-1e8d-41d6-88ea-92b9431aa9a5
 isview:false
-map.base:6b1269b2-4a51-44ec-b709-5e0ffc371df6
+map.base:15325680-fd00-415c-a434-a6ee7b7e0dba
 map.role:definition
 map.type:neighbor
-modified:1582719062110
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gov2u
-tmap.id:52a20d5e-4621-4540-bcd9-5213e89bc942
+tmap.id:669c931e-1e8d-41d6-88ea-92b9431aa9a5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Gov2u

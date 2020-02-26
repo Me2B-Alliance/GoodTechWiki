@@ -1,17 +1,17 @@
-config.central-topic:a6182172-bde0-420c-ae5e-c6d86fd0fd7c
+config.central-topic:d5376746-fbff-45fb-9fc2-7d076ef2dee2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062075
-id:76460aac-ff73-4bbe-b35d-ac1836833e3a
+created:1582720021428
+id:f31071f1-e0cd-4967-8964-5a6233c2bb91
 isview:false
-map.base:a6182172-bde0-420c-ae5e-c6d86fd0fd7c
+map.base:d5376746-fbff-45fb-9fc2-7d076ef2dee2
 map.role:definition
 map.type:neighbor
-modified:1582719062075
+modified:1582720021428
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Film Festival
-tmap.id:76460aac-ff73-4bbe-b35d-ac1836833e3a
+tmap.id:f31071f1-e0cd-4967-8964-5a6233c2bb91
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Film Festival

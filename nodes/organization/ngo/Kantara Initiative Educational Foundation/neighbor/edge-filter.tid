@@ -1,12 +1,12 @@
-created:1582719062111
+created:1582720021465
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad8a7471-fdfd-41d9-ba60-66fd47fc53ad
+map.base:9d03c441-abf1-4b8f-83fa-c210e4d6e9ec
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062111
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative Educational Foundation/filter/edges
-tmap.id:4caed347-088a-47d7-88fd-1d4001ff358b
+tmap.id:d0f02157-b34d-41de-b91d-4f7394ee656e
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062088
-filter:[field:tmap.id[19f90bb0-0386-4974-afcc-ae33ee74075d]]
-map.base:19f90bb0-0386-4974-afcc-ae33ee74075d
+created:1582720021440
+filter:[field:tmap.id[bc8ac647-a5cd-4da9-9930-e42ee7f6bec7]]
+map.base:bc8ac647-a5cd-4da9-9930-e42ee7f6bec7
 map.role:node-filter
 map.type:neighbor
-modified:1582719062088
+modified:1582720021440
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fraunhofer Group for Defense and Security VVS/filter/nodes
-tmap.id:6fe7315a-587d-4cda-bb08-9d2c0ff174b9
+tmap.id:7adbf65f-ce66-4fe1-bbc6-c4fb8d17fc1c
 type:text/vnd.tiddlywiki
 
 No body provided

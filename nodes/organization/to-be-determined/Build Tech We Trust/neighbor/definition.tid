@@ -1,17 +1,17 @@
-config.central-topic:fa313c3f-b8c4-46d1-a4aa-7943346d8900
+config.central-topic:6d6f5134-0cb3-4299-bcb4-78de2d1d0ae6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062133
-id:291d422e-44fb-48ac-9158-d104d23a66c0
+created:1582720021487
+id:9f97dbb2-929d-4992-afbe-dbdf959dde8c
 isview:false
-map.base:fa313c3f-b8c4-46d1-a4aa-7943346d8900
+map.base:6d6f5134-0cb3-4299-bcb4-78de2d1d0ae6
 map.role:definition
 map.type:neighbor
-modified:1582719062133
+modified:1582720021487
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Build Tech We Trust
-tmap.id:291d422e-44fb-48ac-9158-d104d23a66c0
+tmap.id:9f97dbb2-929d-4992-afbe-dbdf959dde8c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Build Tech We Trust

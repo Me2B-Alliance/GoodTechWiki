@@ -1,12 +1,12 @@
-created:1582719062104
-filter:[field:tmap.id[7b78c745-e296-403e-a05a-300079e46f0d]]
-map.base:7b78c745-e296-403e-a05a-300079e46f0d
+created:1582720021460
+filter:[field:tmap.id[c6285002-a683-4dcf-8733-ec7135c37e4c]]
+map.base:c6285002-a683-4dcf-8733-ec7135c37e4c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062104
+modified:1582720021460
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/German Government/filter/nodes
-tmap.id:33d50dc6-5618-400f-828c-8ba1ba2eb89a
+tmap.id:8eab9501-b95b-4291-b1dc-1a7c4fe7f13f
 type:text/vnd.tiddlywiki
 
 No body provided

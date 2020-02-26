@@ -1,12 +1,12 @@
-created:1582719062075
+created:1582720021428
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bacf701e-bd3c-4645-b209-7370390b4241
+map.base:9a70bbeb-3694-4681-b59b-607047392c50
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062075
+modified:1582720021428
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Auditing Algorithms From the Outside: Methods and Implications/filter/edges
-tmap.id:2a5e70fc-f7e6-44c7-9121-dc9ffffa7620
+tmap.id:e9cc00a3-aabb-4947-a71f-cdf5784c5aef
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:90200893-8fd5-488d-b4cf-89221d325cf2
+config.central-topic:1f4a130c-8de1-4ef0-ad94-8f9a79741086
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062322
-id:bc1e7ec3-9901-482c-b68a-0074c114227c
+created:1582720021665
+id:afdbba37-9e46-4627-baaf-e9171bf8967c
 isview:false
-map.base:90200893-8fd5-488d-b4cf-89221d325cf2
+map.base:1f4a130c-8de1-4ef0-ad94-8f9a79741086
 map.role:definition
 map.type:neighbor
-modified:1582719062322
+modified:1582720021665
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verifiable Credentials JSON Schemas
-tmap.id:bc1e7ec3-9901-482c-b68a-0074c114227c
+tmap.id:afdbba37-9e46-4627-baaf-e9171bf8967c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Verifiable Credentials JSON Schemas

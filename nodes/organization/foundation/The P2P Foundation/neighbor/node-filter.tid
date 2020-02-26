@@ -1,12 +1,12 @@
-created:1582719062102
-filter:[field:tmap.id[0daba109-ace2-4d82-8cb4-a1a3faaee495]]
-map.base:0daba109-ace2-4d82-8cb4-a1a3faaee495
+created:1582720021459
+filter:[field:tmap.id[9116c04d-c6ea-4bff-a9ca-13731569e045]]
+map.base:9116c04d-c6ea-4bff-a9ca-13731569e045
 map.role:node-filter
 map.type:neighbor
-modified:1582719062102
+modified:1582720021459
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The P2P Foundation/filter/nodes
-tmap.id:56eb50b6-51a1-41db-bef5-318647f76298
+tmap.id:f6f098f7-1ee2-4d86-be56-ca1bff6a60d5
 type:text/vnd.tiddlywiki
 
 No body provided

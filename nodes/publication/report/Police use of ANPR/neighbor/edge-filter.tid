@@ -1,12 +1,12 @@
-created:1582719062287
+created:1582720021634
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f02b3ac7-e0a0-412d-a5de-cf8e74d2f701
+map.base:d5d281ba-06e7-4a07-a452-c23116434f75
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062287
+modified:1582720021634
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police use of ANPR/filter/edges
-tmap.id:0fdf2a81-4062-47c5-999d-ce15b3ef9765
+tmap.id:b3f29140-f332-467c-8305-1ae66a605781
 type:text/vnd.tiddlywiki
 
 No body provided

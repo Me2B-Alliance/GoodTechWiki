@@ -1,12 +1,12 @@
-created:1582719062102
+created:1582720021459
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0daba109-ace2-4d82-8cb4-a1a3faaee495
+map.base:9116c04d-c6ea-4bff-a9ca-13731569e045
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062102
+modified:1582720021459
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The P2P Foundation/filter/edges
-tmap.id:d8d74752-6a6f-4bca-b682-f3218e731fd0
+tmap.id:589cb7fd-be6e-4df6-81ff-7d505484af93
 type:text/vnd.tiddlywiki
 
 No body provided

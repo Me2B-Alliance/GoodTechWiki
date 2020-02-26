@@ -1,12 +1,12 @@
-created:1582719062078
+created:1582720021431
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4b61b9dc-9cd8-448c-a800-3e4ba36c5a05
+map.base:7dc95d78-e3b7-4aa0-96e8-e1b2b9380559
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062078
+modified:1582720021431
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Security Workshop 2016/filter/edges
-tmap.id:3fd6deaf-fba8-4c05-bd81-f5be679ffef3
+tmap.id:177bab86-af95-44e5-967f-6d887cabc2bb
 type:text/vnd.tiddlywiki
 
 No body provided

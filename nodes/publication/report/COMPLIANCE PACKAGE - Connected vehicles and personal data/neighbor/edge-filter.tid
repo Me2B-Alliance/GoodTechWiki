@@ -1,12 +1,12 @@
-created:1582719062266
+created:1582720021612
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f1225c8b-6fab-4615-b1c2-537fc90db176
+map.base:efcbd80a-b938-4c43-bb71-2195cb5a256e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062266
+modified:1582720021612
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/COMPLIANCE PACKAGE - Connected vehicles and personal data/filter/edges
-tmap.id:96351742-1d02-4008-9cc6-eb5bd06a360f
+tmap.id:c8668c01-9914-4546-b3b7-3aca2779ea91
 type:text/vnd.tiddlywiki
 
 No body provided

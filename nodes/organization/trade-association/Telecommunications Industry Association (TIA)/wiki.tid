@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071759
+created:1582720003377
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071759
+modified:1582720003377
 org.name:Telecommunications Industry Association (TIA)
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Telecommunications Industry Association (TIA)
-tmap.edges:{"25ef1bdf-d7a4-47b9-a0ec-80df9cbb7bbb":{"to":"9da0217c-0132-4496-912f-5315fae581c9","type":"general-member"},"1450f372-0b52-4c27-8514-69645dbc0322":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"general-member"}}
-tmap.id:d6480c3e-b8c9-4595-8fc2-de853b54a573
+tmap.edges:{"04ba670f-0a2f-40e3-8316-1e87ee3f826f":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"},"9bb4991c-e7f2-4574-b6d1-e183427bbe5e":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
+tmap.id:901b212c-00e3-4983-9884-6e0377e73af6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

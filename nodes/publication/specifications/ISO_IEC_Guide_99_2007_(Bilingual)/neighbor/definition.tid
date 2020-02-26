@@ -1,17 +1,17 @@
-config.central-topic:c61639b5-2840-4fea-92cd-71773d6f118c
+config.central-topic:1ef45208-f65c-4626-9fe1-7b3ae03c7ff2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062327
-id:9383e35f-028c-481f-9ef5-83f47629ae92
+created:1582720021670
+id:ac415a40-0c46-4c37-b7f3-ab3df96437c7
 isview:false
-map.base:c61639b5-2840-4fea-92cd-71773d6f118c
+map.base:1ef45208-f65c-4626-9fe1-7b3ae03c7ff2
 map.role:definition
 map.type:neighbor
-modified:1582719062327
+modified:1582720021670
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_99_2007_(Bilingual)
-tmap.id:9383e35f-028c-481f-9ef5-83f47629ae92
+tmap.id:ac415a40-0c46-4c37-b7f3-ab3df96437c7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_99_2007_(Bilingual)

@@ -1,12 +1,12 @@
-created:1582719062152
+created:1582720021504
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ee8c8961-b3f1-476e-adf6-b5258630e43e
+map.base:f3eca9c4-5cc5-40d9-9563-4705f1c8d0d3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062152
+modified:1582720021504
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Coordination Center for TLD RU (CC for TLD RU)/filter/edges
-tmap.id:eb3b33b4-3dcb-409a-897f-739f5024cff0
+tmap.id:d755ac50-4a08-4e61-a26f-562c22f44d90
 type:text/vnd.tiddlywiki
 
 No body provided

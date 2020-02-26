@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[mikaela pitcan]] [[alex rosenblat]] [[mary madden]] [[kadija ferryman]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Technology’s Impact on Infrastructure is a Health Concern
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[health and data]]
 tech.focus:
 tiddler.classification:node
 title:Technology’s Impact on Infrastructure is a Health Concern
 tmap.edges:{}
-tmap.id:98bd6b82-4fb1-4841-85e4-9d721b2e688b
+tmap.id:cd0f6494-479e-4c96-a397-5e9ebaf31364
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/technologys-impact-on-infrastructure-is-a-health-concern/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Increasingly, technology’s impact on infrastructure is becoming a health concern. In this Points piece, Data & Society Researchers Mikaela Pitcan, Alex Rosenblat, Mary Madden, and Kadija Ferryman tease out...
-
 

@@ -1,12 +1,12 @@
-created:1582719062313
+created:1582720021655
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0580921c-d21e-4d4d-8616-2889376eaa83
+map.base:36a58501-fc77-474f-94e2-76534dce0628
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062313
+modified:1582720021655
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)/filter/edges
-tmap.id:e38bf92d-2c66-4dd6-b07c-5d542db615ae
+tmap.id:cb413aaf-0644-4464-a1be-84de4804c9da
 type:text/vnd.tiddlywiki
 
 No body provided

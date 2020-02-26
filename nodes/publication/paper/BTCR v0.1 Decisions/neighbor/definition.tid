@@ -1,17 +1,17 @@
-config.central-topic:4b518f77-2058-4249-ab80-47c0aa298686
+config.central-topic:45e7f054-0574-44fd-9972-d1064f27a2a1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062237
-id:ad71a2ed-20b4-40f8-949a-8936838fa692
+created:1582720021591
+id:faeba303-f46d-432d-bf6e-5980bf887959
 isview:false
-map.base:4b518f77-2058-4249-ab80-47c0aa298686
+map.base:45e7f054-0574-44fd-9972-d1064f27a2a1
 map.role:definition
 map.type:neighbor
-modified:1582719062237
+modified:1582720021591
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/BTCR v0.1 Decisions
-tmap.id:ad71a2ed-20b4-40f8-949a-8936838fa692
+tmap.id:faeba303-f46d-432d-bf6e-5980bf887959
 type:text/vnd.tiddlywiki
 
 Neighbor Map of BTCR v0.1 Decisions

@@ -1,12 +1,12 @@
-created:1582719062340
+created:1582720021683
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dbad0f4c-c043-4dc7-bd65-193316d945fe
+map.base:56e2784f-a9a1-4594-95c3-8008e729268b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062340
+modified:1582720021683
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers/filter/edges
-tmap.id:39027daa-6a9a-4b9c-aacd-af3fffbfa659
+tmap.id:6300b5ec-404e-4c72-b8b5-877599489169
 type:text/vnd.tiddlywiki
 
 No body provided

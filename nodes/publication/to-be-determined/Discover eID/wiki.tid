@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071737
+created:1582720003355
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071737
+modified:1582720003355
 name:Discover eID
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Discover eID
 tmap.edges:{}
-tmap.id:1d90ddae-594f-48e7-8782-bc3e75e145a6
+tmap.id:d9298677-7a9e-4904-9fd6-77be4bd67ac4
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/download/attachments/23003331/building%20block%20dsi_introdocument%20%28eid%29-v1.05.pdf?version=1&modificationdate=1466696334819&api=v2
 version.or.edition:
@@ -33,5 +33,4 @@ Once this building block is deployed in a Member State, the mutual recognition o
 The technical management of the eID building block DSI is done by the Directorate-General for Informatics (DIGIT ) of the European Commission.
 Implementation of the EU policy directly related to eID and Trust Services is the responsibility of the Directorate-General for Communications Networks, Content and Technology (DG CNECT ) of the European Commission.
 The Innovation and Networks Executive Agency (INEA ) is responsible for the implementation of the CEF Telecom programme grants in cooperation with the Commission.
-
 

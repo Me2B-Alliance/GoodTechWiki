@@ -1,12 +1,12 @@
-created:1582719062328
+created:1582720021672
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:091c8214-47f1-426e-9bd2-7d669a62959e
+map.base:b7edf0fb-bf85-4cee-9cdd-4e2d42e95e2f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062328
+modified:1582720021672
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Introduction/filter/edges
-tmap.id:5647e15b-dc2c-462e-9fdb-9997700f8bf7
+tmap.id:70181421-7053-4248-8a84-06352d18ea57
 type:text/vnd.tiddlywiki
 
 No body provided

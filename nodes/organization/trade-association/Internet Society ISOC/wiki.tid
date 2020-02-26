@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071754
+created:1582720003372
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071754
+modified:1582720003372
 org.name:Internet Society ISOC
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Internet Society ISOC
-tmap.edges:{"05d633e0-ef6e-4a17-bf98-a982097463cf":{"to":"2b7360d8-3dc9-4e98-b49e-dd52d5d192a1","type":"convenor"},"360796ba-1f52-42ab-891c-8684dfbfedac":{"to":"354de142-03ed-4f39-9b80-09018c3b4a48","type":"organization-for-group"},"42bf2125-7df8-4f55-aab1-b61193dcb078":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"vice-chair"}}
-tmap.id:89c561f3-c388-4c3d-9715-4a26fe9b9824
+tmap.edges:{"90ab78d2-4db5-4d4b-85c7-c9328639e8c1":{"to":"6e72dc35-1f1e-4eed-a6ff-47f262cd46e9","type":"convenor"},"2227f387-12fd-4006-85c9-8bddce422c70":{"to":"1d106aae-7537-47ad-8982-2fcdecef8734","type":"organization-for-group"},"ec97c222-d1c7-4fd8-8fee-4b9cb2ca4d8f":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"vice-chair"}}
+tmap.id:35887d22-a74c-44ca-91e8-4ce8bd4a5cb0
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.isoc.org
-
 
 
 

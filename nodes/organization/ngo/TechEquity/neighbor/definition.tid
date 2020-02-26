@@ -1,17 +1,17 @@
-config.central-topic:9499642c-459b-49a4-9e26-783746f8bc8a
+config.central-topic:2ddff495-3068-4973-aa1c-4ed3c63cad0f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062113
-id:326c0de5-b1cf-473c-a9a3-2b23c4b2dfd1
+created:1582720021470
+id:82b4120a-6638-4ea8-9061-5fc49e70a56b
 isview:false
-map.base:9499642c-459b-49a4-9e26-783746f8bc8a
+map.base:2ddff495-3068-4973-aa1c-4ed3c63cad0f
 map.role:definition
 map.type:neighbor
-modified:1582719062113
+modified:1582720021470
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TechEquity
-tmap.id:326c0de5-b1cf-473c-a9a3-2b23c4b2dfd1
+tmap.id:82b4120a-6638-4ea8-9061-5fc49e70a56b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TechEquity

@@ -1,17 +1,17 @@
-config.central-topic:9dd8958c-2293-4326-8e60-f7c91172599b
+config.central-topic:8032fed4-d02b-42b1-b3d6-6de15a8b2e83
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062317
-id:16811323-636d-4b7d-9a30-00e4c99f7018
+created:1582720021660
+id:49d2673e-76b7-49f2-9868-3cd5facbebd4
 isview:false
-map.base:9dd8958c-2293-4326-8e60-f7c91172599b
+map.base:8032fed4-d02b-42b1-b3d6-6de15a8b2e83
 map.role:definition
 map.type:neighbor
-modified:1582719062317
+modified:1582720021660
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Web Platform
-tmap.id:16811323-636d-4b7d-9a30-00e4c99f7018
+tmap.id:49d2673e-76b7-49f2-9868-3cd5facbebd4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Web Platform

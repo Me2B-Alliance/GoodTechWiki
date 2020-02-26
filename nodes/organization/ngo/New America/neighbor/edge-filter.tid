@@ -1,12 +1,12 @@
-created:1582719062111
+created:1582720021466
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:331e5129-f8f0-4187-b9d0-138091feac65
+map.base:58c4218d-3343-4c08-92ed-0a202665e51f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062111
+modified:1582720021466
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/New America/filter/edges
-tmap.id:3fd16df8-6fb3-4a49-9888-7b7efe7f5572
+tmap.id:8c3a3779-1239-4399-9787-4cd53e58c928
 type:text/vnd.tiddlywiki
 
 No body provided

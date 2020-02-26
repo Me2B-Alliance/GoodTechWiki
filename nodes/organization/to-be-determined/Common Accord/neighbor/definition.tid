@@ -1,17 +1,17 @@
-config.central-topic:53836573-2257-4389-bfe7-59459bb516fb
+config.central-topic:bede0c95-9ad3-4ec1-be44-1c632a0f61a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062133
-id:b675cf8e-aea6-454e-a66f-68091ad2e33d
+created:1582720021488
+id:5bdf588c-772a-4185-972c-52c545a59f80
 isview:false
-map.base:53836573-2257-4389-bfe7-59459bb516fb
+map.base:bede0c95-9ad3-4ec1-be44-1c632a0f61a2
 map.role:definition
 map.type:neighbor
-modified:1582719062133
+modified:1582720021488
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Common Accord
-tmap.id:b675cf8e-aea6-454e-a66f-68091ad2e33d
+tmap.id:5bdf588c-772a-4185-972c-52c545a59f80
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Common Accord

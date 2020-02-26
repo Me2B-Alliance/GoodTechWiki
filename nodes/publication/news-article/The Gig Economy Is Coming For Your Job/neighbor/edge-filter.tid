@@ -1,12 +1,12 @@
-created:1582719062233
+created:1582720021588
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ed633730-9a89-4266-b9e8-d30dec1aebb0
+map.base:8c17dfb4-12cd-4edd-a17d-fda0c0210e11
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062233
+modified:1582720021588
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Gig Economy Is Coming For Your Job/filter/edges
-tmap.id:54fd4fdb-5a4f-48b7-bd37-f54b60adade5
+tmap.id:2539b4e6-6640-4620-911e-90cfc694feed
 type:text/vnd.tiddlywiki
 
 No body provided

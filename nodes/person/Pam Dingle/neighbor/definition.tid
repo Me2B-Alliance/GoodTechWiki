@@ -1,17 +1,17 @@
-config.central-topic:bf1db98e-0ca4-4a84-aa84-f04ff2faba08
+config.central-topic:e3c8c7c9-6598-4315-9495-7fdd59d53620
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062175
-id:451eaa00-ba5b-4442-9797-4f612057159f
+created:1582720021535
+id:efc6e76d-a153-48d6-9283-16a35a5c5f0e
 isview:false
-map.base:bf1db98e-0ca4-4a84-aa84-f04ff2faba08
+map.base:e3c8c7c9-6598-4315-9495-7fdd59d53620
 map.role:definition
 map.type:neighbor
-modified:1582719062175
+modified:1582720021535
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Pam Dingle
-tmap.id:451eaa00-ba5b-4442-9797-4f612057159f
+tmap.id:efc6e76d-a153-48d6-9283-16a35a5c5f0e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Pam Dingle

@@ -1,17 +1,17 @@
-config.central-topic:6f4d49a8-b997-4c11-b162-2bf3d28d0c24
+config.central-topic:31479b9f-05ce-449c-8a3b-9ed4a43414f8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062294
-id:a62d8fa7-8475-43ac-b872-030226980d71
+created:1582720021639
+id:6137213d-5eb7-4bd1-b68f-39ba2fc02d72
 isview:false
-map.base:6f4d49a8-b997-4c11-b162-2bf3d28d0c24
+map.base:31479b9f-05ce-449c-8a3b-9ed4a43414f8
 map.role:definition
 map.type:neighbor
-modified:1582719062294
+modified:1582720021639
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Supporting Ethical Data Research: An Exploratory Study of Emerging Issues in Big Data and Technical Research
-tmap.id:a62d8fa7-8475-43ac-b872-030226980d71
+tmap.id:6137213d-5eb7-4bd1-b68f-39ba2fc02d72
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Supporting Ethical Data Research: An Exploratory Study of Emerging Issues in Big Data and Technical Research

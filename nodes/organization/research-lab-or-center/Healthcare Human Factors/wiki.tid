@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:https://linkedin.com/company/healthcare-human-factors
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Healthcare Human Factors
 org.type:research lab or center
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[usability]] [[health care]]
 relevant.publications:
 scope:
 sector:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Healthcare Human Factors
 tmap.edges:{}
-tmap.id:073f117d-c52f-4ad7-bdde-6a14aef1e254
+tmap.id:fcbf240e-fc61-46c6-8d62-0ebaea5543e3
 twitter.profile:https://twitter.com/healthcarehf
 type:text/vnd.tiddlywiki
 website:https://humanfactors.ca/
@@ -38,5 +38,4 @@ We’re embedded within one of the largest academic
 health centres in the world, providing us with
 unparalleled insights and access to the clinicians and
 patients that we design, test, and create for.
-
 

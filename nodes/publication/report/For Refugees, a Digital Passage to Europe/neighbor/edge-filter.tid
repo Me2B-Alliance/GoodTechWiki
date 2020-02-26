@@ -1,12 +1,12 @@
-created:1582719062274
+created:1582720021623
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6c283c2c-5e59-45f8-bf5d-b460262942d1
+map.base:9a69c348-1f01-4bb5-9efd-4516f9ec314b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062274
+modified:1582720021623
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/For Refugees, a Digital Passage to Europe/filter/edges
-tmap.id:7804b525-44a6-49f3-8d33-9bb71ccab154
+tmap.id:b0dc62c2-9cbe-476e-adbe-ac1d3c4a1158
 type:text/vnd.tiddlywiki
 
 No body provided

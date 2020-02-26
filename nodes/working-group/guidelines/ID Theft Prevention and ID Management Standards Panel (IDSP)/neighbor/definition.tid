@@ -1,17 +1,17 @@
-config.central-topic:e906c947-615b-4dc6-88be-128b89168ec7
+config.central-topic:aafdaeb3-06c3-49ab-8cfd-5227893d3ce2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062352
-id:cb033fd3-4664-4e32-aaad-373a987e4333
+created:1582720021693
+id:1cc25471-2a0d-4e81-bafc-97a3a4258983
 isview:false
-map.base:e906c947-615b-4dc6-88be-128b89168ec7
+map.base:aafdaeb3-06c3-49ab-8cfd-5227893d3ce2
 map.role:definition
 map.type:neighbor
-modified:1582719062352
+modified:1582720021693
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ID Theft Prevention and ID Management Standards Panel (IDSP)
-tmap.id:cb033fd3-4664-4e32-aaad-373a987e4333
+tmap.id:1cc25471-2a0d-4e81-bafc-97a3a4258983
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ID Theft Prevention and ID Management Standards Panel (IDSP)

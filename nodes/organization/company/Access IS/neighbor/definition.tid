@@ -1,17 +1,17 @@
-config.central-topic:1c647f87-a2d5-4f58-837a-2cdaeb255933
+config.central-topic:8a5f8e6e-a284-491f-85f8-c9d08074d484
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062082
-id:01399bc6-f2c6-4b32-a2e7-f78a46e65e67
+created:1582720021434
+id:9f0c94e8-c974-4f48-9ac8-ddb1fe0bafaa
 isview:false
-map.base:1c647f87-a2d5-4f58-837a-2cdaeb255933
+map.base:8a5f8e6e-a284-491f-85f8-c9d08074d484
 map.role:definition
 map.type:neighbor
-modified:1582719062082
+modified:1582720021434
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Access IS
-tmap.id:01399bc6-f2c6-4b32-a2e7-f78a46e65e67
+tmap.id:9f0c94e8-c974-4f48-9ac8-ddb1fe0bafaa
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Access IS

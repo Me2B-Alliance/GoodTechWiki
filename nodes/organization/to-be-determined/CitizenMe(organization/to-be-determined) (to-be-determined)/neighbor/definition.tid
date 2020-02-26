@@ -1,17 +1,17 @@
-config.central-topic:47bbb617-8fec-4db2-9522-2bcb374c82b4
+config.central-topic:afcbadf0-a028-4641-8a49-b626d0ee7f9c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062133
-id:05728cb4-1634-48d0-bd5b-36952811e362
+created:1582720021488
+id:75c353af-cf95-4a3d-b51a-496a879d16b1
 isview:false
-map.base:47bbb617-8fec-4db2-9522-2bcb374c82b4
+map.base:afcbadf0-a028-4641-8a49-b626d0ee7f9c
 map.role:definition
 map.type:neighbor
-modified:1582719062133
+modified:1582720021488
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CitizenMe(organization/to-be-determined) (to-be-determined)
-tmap.id:05728cb4-1634-48d0-bd5b-36952811e362
+tmap.id:75c353af-cf95-4a3d-b51a-496a879d16b1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CitizenMe(organization/to-be-determined) (to-be-determined)

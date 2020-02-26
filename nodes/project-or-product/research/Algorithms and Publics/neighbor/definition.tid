@@ -1,17 +1,17 @@
-config.central-topic:2b109503-93e2-4adb-82c2-4a68104fbe23
+config.central-topic:0a3d50a8-3a01-4fd2-a010-ad636d3817ac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062184
-id:f86f03ae-0c91-48fc-8a88-fab8977b956c
+created:1582720021542
+id:e5efe5f5-8a48-4529-9fcb-c4c5d9c66a35
 isview:false
-map.base:2b109503-93e2-4adb-82c2-4a68104fbe23
+map.base:0a3d50a8-3a01-4fd2-a010-ad636d3817ac
 map.role:definition
 map.type:neighbor
-modified:1582719062184
+modified:1582720021542
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms and Publics
-tmap.id:f86f03ae-0c91-48fc-8a88-fab8977b956c
+tmap.id:e5efe5f5-8a48-4529-9fcb-c4c5d9c66a35
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Algorithms and Publics

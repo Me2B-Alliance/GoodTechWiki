@@ -1,17 +1,17 @@
-config.central-topic:950ed467-cec7-4b1b-af24-0fb318e741f9
+config.central-topic:98ed9bf5-e82e-45bb-8cf9-19c2ef6ea2d2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062147
-id:81ae9b09-df8d-418e-add6-06d2282cf965
+created:1582720021501
+id:65c8d1ed-f568-4c24-9226-e3371cf043bb
 isview:false
-map.base:950ed467-cec7-4b1b-af24-0fb318e741f9
+map.base:98ed9bf5-e82e-45bb-8cf9-19c2ef6ea2d2
 map.role:definition
 map.type:neighbor
-modified:1582719062147
+modified:1582720021501
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Zynga
-tmap.id:81ae9b09-df8d-418e-add6-06d2282cf965
+tmap.id:65c8d1ed-f568-4c24-9226-e3371cf043bb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Zynga

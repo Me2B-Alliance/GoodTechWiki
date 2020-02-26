@@ -1,12 +1,12 @@
-created:1582719062131
-filter:[field:tmap.id[2e92fcc3-87b3-478a-a7fd-ae5f91e8a127]]
-map.base:2e92fcc3-87b3-478a-a7fd-ae5f91e8a127
+created:1582720021485
+filter:[field:tmap.id[a4b45457-27fc-4c70-a946-e40f5fcd3688]]
+map.base:a4b45457-27fc-4c70-a946-e40f5fcd3688
 map.role:node-filter
 map.type:neighbor
-modified:1582719062131
+modified:1582720021485
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations/filter/nodes
-tmap.id:98fbebc1-d7e4-4078-99db-f1d6d1d1e55e
+tmap.id:8ee47cc2-653a-483d-81a6-68f082cb5f8e
 type:text/vnd.tiddlywiki
 
 No body provided

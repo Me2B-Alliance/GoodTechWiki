@@ -1,12 +1,12 @@
-created:1582719062309
-filter:[field:tmap.id[bc3b86a6-466a-47e5-8872-99716f003c4d]]
-map.base:bc3b86a6-466a-47e5-8872-99716f003c4d
+created:1582720021651
+filter:[field:tmap.id[a7195435-85e6-4d73-b02e-c752ac178498]]
+map.base:a7195435-85e6-4d73-b02e-c752ac178498
 map.role:node-filter
 map.type:neighbor
-modified:1582719062309
+modified:1582720021651
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Identification Cards (7816)/filter/nodes
-tmap.id:b3a6bc1e-6097-46d8-bfaf-437417a64b62
+tmap.id:ef7ebfa2-4353-4bbf-bf3f-b0d388331e39
 type:text/vnd.tiddlywiki
 
 No body provided

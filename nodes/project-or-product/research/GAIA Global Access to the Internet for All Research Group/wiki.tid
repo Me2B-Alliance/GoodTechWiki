@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071733
+created:1582720003351
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071733
+modified:1582720003351
 name:GAIA Global Access to the Internet for All Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:GAIA Global Access to the Internet for All Research Group
-tmap.edges:{"f9107e9e-943e-45da-8d04-69eb7fbdad06":{"to":"f613cee6-fd8d-4309-8ac1-bda4e9982c15","type":"organization-for-group"}}
-tmap.id:e3f55f33-d3ec-4aeb-b47f-2104a9b94336
+tmap.edges:{"aac9ae36-2d04-4572-be11-fb18699f38b1":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
+tmap.id:99262070-e720-49cc-ab4d-b08ffc3d8916
 type:text/vnd.tiddlywiki
 url:https://irtf.org/gaia
 version.or.edition:
@@ -45,5 +45,4 @@ The Global Access to the Internet for All Research Group (GAIA) is an IRTF initi
 4. to document and share deployment experiences and research results to the wider community through scholarly publications, white papers, presentations, workshops, Informational and Experimental RFCs;
 5. to document the costs of existing Internet Access, the breakdown of those costs (energy, manpower, licenses, bandwidth, infrastructure, transit, peering), and outline a path to achieve a 10x reduction in Internet Access costs especially in geographies and populations with low penetration.
 6. to develop a longer term perspective on the impact of GAIA research group findings on the standardisation efforts at the IETF. This could include recommendations to protocol designers and architects.
-
 

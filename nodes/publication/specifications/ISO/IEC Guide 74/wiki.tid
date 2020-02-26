@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:ISO/IEC Guide 74
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions]] [[12 iso/iec guides (english)]]
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC Guide 74
 tmap.edges:{}
-tmap.id:13fbc32d-b015-4f3f-87e6-2d19e8c5dd85
+tmap.id:a00d18a2-abe0-44e4-972e-9f450131a4b9
 type:text/vnd.tiddlywiki
 url:https://www.iso.org/standard/36942.html
 version.or.edition:
@@ -37,5 +37,4 @@ ISO/IEC Guide 74:2004 does not cover road traffic signs and graphical symbols fo
 Rules for the design of graphical symbols are given in International Standards. ISO/IEC Guide 74:2004 brings together information on relevant international reference documents and standards to assist technical committees and designers to follow best practice when considering the need for a new graphical symbol.
 
 IMPORTANT -- The colours represented in the electronic file of ISO/IEC Guide 74:2004 can be neither viewed on screen nor printed as true representations. Although the copies of ISO/IEC Guide 74:2004 printed by ISO have been produced to correspond (with an acceptable tolerance as judged by the naked eye) to the requirements of ISO 3864-1, it is not intended that these printed copies be used for colour matching. Instead, consult ISO 3864-1 which provides colorimetric and photometric properties together with, as a guideline, references from colour order systems.
-
 

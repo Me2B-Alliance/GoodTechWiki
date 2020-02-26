@@ -1,17 +1,17 @@
-config.central-topic:79e1fad8-13e1-4757-a9cb-a387a014cdea
+config.central-topic:b125f232-a527-4be6-9738-d33d5ec5627a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062351
-id:8a609006-7fc5-4a35-8ba6-0806d1ad027e
+created:1582720021693
+id:5391ba6c-d4a0-457c-a1c2-48f170b1a5af
 isview:false
-map.base:79e1fad8-13e1-4757-a9cb-a387a014cdea
+map.base:b125f232-a527-4be6-9738-d33d5ec5627a
 map.role:definition
 map.type:neighbor
-modified:1582719062351
+modified:1582720021693
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"
-tmap.id:8a609006-7fc5-4a35-8ba6-0806d1ad027e
+tmap.id:5391ba6c-d4a0-457c-a1c2-48f170b1a5af
 type:text/vnd.tiddlywiki
 
 Neighbor Map of International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"

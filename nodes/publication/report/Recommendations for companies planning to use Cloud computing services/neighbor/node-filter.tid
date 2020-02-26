@@ -1,12 +1,12 @@
-created:1582719062290
-filter:[field:tmap.id[40630108-efd0-4ed5-be6a-deccbdaf145d]]
-map.base:40630108-efd0-4ed5-be6a-deccbdaf145d
+created:1582720021635
+filter:[field:tmap.id[e001a125-481f-443a-a05f-df25be782b01]]
+map.base:e001a125-481f-443a-a05f-df25be782b01
 map.role:node-filter
 map.type:neighbor
-modified:1582719062290
+modified:1582720021635
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Recommendations for companies planning to use Cloud computing services/filter/nodes
-tmap.id:6b02b938-6e67-44cf-ae0f-f8c54e60c214
+tmap.id:6dac7563-90eb-4621-84ec-c1e106434f2f
 type:text/vnd.tiddlywiki
 
 No body provided

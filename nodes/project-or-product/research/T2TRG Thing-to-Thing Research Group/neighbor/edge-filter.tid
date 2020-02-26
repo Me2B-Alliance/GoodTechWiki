@@ -1,12 +1,12 @@
-created:1582719062196
+created:1582720021552
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:85a6cb19-8481-4b09-8434-6e04aaed50e0
+map.base:404a066c-2e70-48f2-a7e0-d8d17cd0565b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062196
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/T2TRG Thing-to-Thing Research Group/filter/edges
-tmap.id:ee770564-0bbb-4dd5-b452-0eb1de408c0e
+tmap.id:d9d08adc-2ab9-49f3-b3c5-46a35aaddb20
 type:text/vnd.tiddlywiki
 
 No body provided

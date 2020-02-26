@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:Association for Computing Machinery
 org.type:to-be-determined
 parent.org:
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[acm]]
 tech.focus:
 tiddler.classification:node
 title:Association for Computing Machinery
 tmap.edges:{}
-tmap.id:23b044b1-634e-4f55-b9d8-8a608b8764a4
+tmap.id:8cc46919-ec7d-4494-9256-887d67eacb82
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.acm.org/
@@ -37,5 +37,4 @@ website:https://www.acm.org/
 Advancing Computing as a Science & Profession
 
 We see a world where computing helps solve tomorrow’s problems – where we use our knowledge and skills to advance the profession and make a positive impact.
-
 

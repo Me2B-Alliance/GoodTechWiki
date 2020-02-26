@@ -1,17 +1,17 @@
-config.central-topic:aa402950-7a26-48df-b2b2-9090e4cf424e
+config.central-topic:300ad351-4422-49b9-b397-a850ef20e4ce
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062175
-id:d05c3772-0ec0-48ac-aba4-de8c3922db72
+created:1582720021535
+id:b0792804-8110-416f-9d8f-bad3f45a18b5
 isview:false
-map.base:aa402950-7a26-48df-b2b2-9090e4cf424e
+map.base:300ad351-4422-49b9-b397-a850ef20e4ce
 map.role:definition
 map.type:neighbor
-modified:1582719062175
+modified:1582720021535
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lucile Girollet
-tmap.id:d05c3772-0ec0-48ac-aba4-de8c3922db72
+tmap.id:b0792804-8110-416f-9d8f-bad3f45a18b5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Lucile Girollet

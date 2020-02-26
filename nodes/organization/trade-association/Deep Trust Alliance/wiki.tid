@@ -1,10 +1,10 @@
-activities:[object Set]
+activities:[[standard development]] [[movement building]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
-digital.harms.addressed:[object Set]
+digital.harms.addressed:[[impersonation]]
 element.type:organization
 funding:
 github.profile:https://github.com/DeepTrust
@@ -13,27 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Deep Trust Alliance
 org.type:trade association
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[governance]] [[transparency and accountability]] [[ecosystem building]]
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:[object Set]
+tags:[[a new open source software foundation is born to support the creation of a secure]] [[scalable]] [[interoperable]] [[and trusted iot ecosystem]]
 tech.focus:
 tiddler.classification:node
 title:Deep Trust Alliance
 tmap.edges:{}
-tmap.id:7154fc81-c0ad-4132-8cb4-bc456ffddf68
+tmap.id:131fe66a-e7de-4882-8631-da7681f6f9a5
 twitter.profile:https://twitter.com/trust_deep
 type:text/vnd.tiddlywiki
 website:https://www.deeptrustalliance.org
 
 The Ecosystem to Beat Deep Fakes
-
 

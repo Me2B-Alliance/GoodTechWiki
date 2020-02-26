@@ -1,12 +1,12 @@
-created:1582714534894
+created:1582720021568
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2ed89ca1-5a15-4955-b582-c5b073032113
+map.base:bfba345e-3ed4-4fe8-9e3a-e4161aaacfaf
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534894
+modified:1582720021568
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Zynga's Privacyville/filter/edges
-tmap.id:de958325-1a1d-44bc-ba6c-f3efbddaa0e7
+tmap.id:b646fa9c-4c61-49d2-af6d-b0d92e25ac8a
 type:text/vnd.tiddlywiki
 
 No body provided

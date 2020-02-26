@@ -1,12 +1,12 @@
-created:1582719062269
+created:1582720021614
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:49f8c5e2-01da-4d05-90f3-07dc3979be7e
+map.base:423bdc93-1392-40a4-9880-5c1721c88d9c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062269
+modified:1582720021614
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consultation on regulatory proposals on consumer IoT security/filter/edges
-tmap.id:487ec2f4-0bb9-4bdc-811f-d1dee68ec8f6
+tmap.id:52286f9e-aaa7-4898-ae42-b72103c12006
 type:text/vnd.tiddlywiki
 
 No body provided

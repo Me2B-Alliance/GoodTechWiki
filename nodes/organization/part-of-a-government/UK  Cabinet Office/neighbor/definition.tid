@@ -1,17 +1,17 @@
-config.central-topic:36528e18-7901-4175-b4f6-0bb47fbc7cd3
+config.central-topic:96dded24-581e-4e64-a732-60b9906cc1d9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062120
-id:bebcda26-4876-4e09-acec-dc4bfe6dc597
+created:1582720021477
+id:b4435f72-7f93-484c-a241-7611f6da089f
 isview:false
-map.base:36528e18-7901-4175-b4f6-0bb47fbc7cd3
+map.base:96dded24-581e-4e64-a732-60b9906cc1d9
 map.role:definition
 map.type:neighbor
-modified:1582719062120
+modified:1582720021477
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UK  Cabinet Office
-tmap.id:bebcda26-4876-4e09-acec-dc4bfe6dc597
+tmap.id:b4435f72-7f93-484c-a241-7611f6da089f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of UK  Cabinet Office

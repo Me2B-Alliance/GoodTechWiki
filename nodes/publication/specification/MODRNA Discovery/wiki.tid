@@ -1,13 +1,13 @@
 audience:
 authors.editors:John Bradley;T. Lodderstedt
-created:1582678071727
+created:1582720003345
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071727
+modified:1582720003345
 name:MODRNA Discovery
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:MODRNA Discovery
-tmap.edges:{"aff1270d-9b55-4f8e-a622-5d5db8d35006":{"to":"9e89d67e-d917-4f0f-bca4-fafe75a16e52","type":"specification-of-group"}}
-tmap.id:b698d4e9-0cb9-4d73-9f25-6975dde09420
+tmap.edges:{"81c09572-0bcb-4730-b3ee-f92879f0efb1":{"to":"d5b68109-8378-4f93-a16b-f0ee6fd804b8","type":"specification-of-group"}}
+tmap.id:0f2ba113-679d-466b-99cd-3b987a23f289
 type:text/vnd.tiddlywiki
 url:http://openid.net/wordpress-content/uploads/2014/04/draft-mobile-discovery-01.html
 version.or.edition:
@@ -30,5 +30,4 @@ OpenID Connect Discovery 1.0 [OpenID.Discovery] section 2.1 specifies a way to n
 The OpenID Connect Mobile Discovery Profile specifies the interface of this service. Part of the interface specification will be the identification of possible user input identifier types relevant in the Mobile Connect scenario. Remark: Some of those user input identifier types may not identify a single user/device but may be sufficient to identify the right mobile operator. An example for this is the MNC/MCC tuple (mobile network code/ mobile contry code) or the IP address range.
 
 This profile also specifies how a client registers with the MNO discovery service and how Account Chooser service [Account.Chooser] can be used to further improve user experience in the overall Mobile Connect flow.
-
 

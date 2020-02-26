@@ -1,12 +1,12 @@
-created:1582719062084
+created:1582720021436
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6e20fd38-cef5-4f2b-a0c1-ac22ee417dea
+map.base:5f714a85-f492-4a4a-a5ef-fe005fd72d06
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062084
+modified:1582720021436
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CitizenMe (company)/filter/edges
-tmap.id:9a3f8fd1-2755-4b51-bfe5-9f719290d7af
+tmap.id:b3b1f6ec-5375-45ad-8425-22304f12d288
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062200
+created:1582720021556
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b829d4c7-a6c6-434c-9e36-629f3ba3ed96
+map.base:1cf976bb-cda7-4da7-a978-eb49f7f6c212
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062200
+modified:1582720021556
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Commons(project-or-product/service) (project-or-product)/filter/edges
-tmap.id:a9b29820-2365-488c-9fa3-980d162e9a17
+tmap.id:a2193223-f90f-4224-9e87-82c59ee6abbb
 type:text/vnd.tiddlywiki
 
 No body provided

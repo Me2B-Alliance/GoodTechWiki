@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071754
+created:1582720003372
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071754
+modified:1582720003372
 org.name:OpenID Foundation
 org.type:trade association
 parent.org:
@@ -28,7 +28,7 @@ tech.focus:
 tiddler.classification:node
 title:OpenID Foundation
 tmap.edges:{}
-tmap.id:5ae49ba8-feea-4934-ac55-1730a84dcb0a
+tmap.id:b96f25c7-de4d-4f8d-a9be-296ff6067335
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://openid.net/foundation/
@@ -36,5 +36,4 @@ website:https://openid.net/foundation/
 The OpenID Foundation (OIDF) promotes, protects and nurtures the OpenID community and technologies.
 
 The OpenID Foundation is a non-profit international standardization organization of individuals and companies committed to enabling, promoting and protecting OpenID technologies. Formed in June 2007, the foundation serves as a public trust organization representing the open community of developers, vendors, and users. OIDF assists the community by providing needed infrastructure and help in promoting and supporting expanded adoption of OpenID. This entails managing intellectual property and brand marks as well as fostering viral growth and global participation in the proliferation of OpenID.
-
 

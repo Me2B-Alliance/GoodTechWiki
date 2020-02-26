@@ -1,6 +1,6 @@
 activities:
 category:TO BE DETERMINED
-created:1582678071968
+created:1582720003596
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ github.profile:
 input.source:me2b
 ipr:
 meeting.frequency:
-modified:1582678071968
+modified:1582720003596
 name:Credentials Community Group
 parent.org:W3C
 people:
@@ -20,10 +20,9 @@ tech.focus:
 tiddler.classification:node
 title:Credentials Community Group
 tmap.edges:{}
-tmap.id:a7a77602-56df-413d-a964-4b6bdffa941f
+tmap.id:28ded67b-41dc-4da7-99eb-6dfc3521e776
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/community/credentials/
 
 The mission of the W3C Credentials Community Group is to explore the creation, storage, presentation, verification, and user control of credentials. We focus on a verifiable credential (a set of claims) created by an issuer about a subject—a person, group, or thing—and seek solutions inclusive of approaches such as: self-sovereign identity; presentation of proofs by the bearer; data minimization; and centralized, federated, and decentralized registry and identity systems. Our tasks include drafting and incubating Internet specifications for further standardization and prototyping and testing reference implementations.
-
 

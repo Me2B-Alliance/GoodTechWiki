@@ -1,12 +1,12 @@
-created:1582719062210
+created:1582720021567
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8c8126be-0a79-4eca-ae09-633b83d2387c
+map.base:2d58ae32-582e-417e-a60f-b46c576cc8e2
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062210
+modified:1582720021567
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Governance, Risk and Compliance Solution/filter/edges
-tmap.id:a2e5ebf0-42d6-4c44-a809-44e35e9fe5e3
+tmap.id:3e594249-8439-4249-8d4e-fe2850e8b53e
 type:text/vnd.tiddlywiki
 
 No body provided

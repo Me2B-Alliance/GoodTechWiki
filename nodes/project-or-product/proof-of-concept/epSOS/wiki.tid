@@ -1,7 +1,7 @@
 activities:
 audience:
 category:proof of concept
-created:1582678071741
+created:1582720003359
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071741
+modified:1582720003359
 name:epSOS
 parent.org:
 partners:
@@ -18,12 +18,12 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[europe|health|over]]
 terms.of.service:
 tiddler.classification:node
 title:epSOS
-tmap.edges:{"30a7c4e0-63ff-40bb-a0a9-a9f43a33f4d7":{"to":"9d1bb865-7fbc-4af0-9523-001960ec8216","type":"connection"},"0d9fc7b8-213c-4f97-9abf-1f9a7774e636":{"to":"c3c84ccc-3241-4c0d-9dec-37248ca16a26","type":"connection"}}
-tmap.id:980a1d43-5de6-4730-a0c9-9a4b07b660a4
+tmap.edges:{"76ebaa57-f63e-4757-9382-62d79d4a1133":{"to":"1bf553b1-50ec-40aa-afc0-9beb3b8ffa9b","type":"connection"},"639c5d43-5cee-400b-b6da-83a0db26e1f2":{"to":"71b1886a-8e5f-4299-a02b-5eff28488e04","type":"connection"}}
+tmap.id:45019ade-54f0-4643-99fd-f173c746d7c0
 type:text/vnd.tiddlywiki
 url:http://www.epsos.eu
 version.or.edition:
@@ -45,5 +45,4 @@ Consisting of national ministries of health, national/regional competence center
 • Administrative Project Management: empirica
 • Project Coordination: SALAR
 Number of countries	25 different European countries: 22 EU member states and 3 non-EU member states.
-
 

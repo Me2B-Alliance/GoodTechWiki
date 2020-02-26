@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003367
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003367
 org.name:USCIS US Citizenship and Immigration Services - Department of Homeland Security
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:USCIS US Citizenship and Immigration Services - Department of Homeland Security
-tmap.edges:{"2b2f14e7-40e9-436c-9d25-c5e9132a6c62":{"to":"1268c8bc-6894-4bf4-bc21-d444d44560de","type":"company"},"80657426-3c08-4637-b1a0-9703362b0c3e":{"to":"0b44382e-b54a-4baf-bb1d-bf2fbbe3bd3a","type":"government-connection"}}
-tmap.id:9bb4197c-e5bf-4e46-837d-5ecdfdacb0f0
+tmap.edges:{"6c64a5f1-b26f-41df-9c17-a0b540ed9228":{"to":"ec40f8e6-6275-49fb-a8ec-68b9166ecb2a","type":"company"},"169de00e-48c7-4cc0-83ee-49b271c0613a":{"to":"d176dbdf-9d8f-4812-a33f-c312b288d18a","type":"government-connection"}}
+tmap.id:32c68df0-ecd2-42b2-b355-f65e93e4eb40
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.uscis.gov
-
 
 
 

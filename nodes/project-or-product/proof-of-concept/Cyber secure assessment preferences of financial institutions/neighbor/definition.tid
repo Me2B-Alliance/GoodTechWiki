@@ -1,17 +1,17 @@
-config.central-topic:6812d0e0-12fc-4627-9448-23de47d1c7aa
+config.central-topic:96a02bf1-dc41-4c41-b76c-e17d18ca4084
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062181
-id:e4a0ff95-d9ac-48cd-97ac-1e217576434b
+created:1582720021540
+id:84d7771b-223a-4d0a-a8c5-ab632ae6502c
 isview:false
-map.base:6812d0e0-12fc-4627-9448-23de47d1c7aa
+map.base:96a02bf1-dc41-4c41-b76c-e17d18ca4084
 map.role:definition
 map.type:neighbor
-modified:1582719062181
+modified:1582720021540
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cyber secure assessment preferences of financial institutions
-tmap.id:e4a0ff95-d9ac-48cd-97ac-1e217576434b
+tmap.id:84d7771b-223a-4d0a-a8c5-ab632ae6502c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Cyber secure assessment preferences of financial institutions

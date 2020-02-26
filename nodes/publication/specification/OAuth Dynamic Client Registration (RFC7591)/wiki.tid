@@ -1,13 +1,13 @@
 audience:
 authors.editors:Justin Richer
-created:1582678071726
+created:1582720003343
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071726
+modified:1582720003343
 name:OAuth Dynamic Client Registration (RFC7591)
 publication.type:specification
 purpose:
@@ -17,14 +17,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OAuth Dynamic Client Registration (RFC7591)
-tmap.edges:{"72dbd335-c7aa-4bd8-b7eb-914a363720ce":{"to":"24bff523-d47f-4907-8654-c5264f5db76a","type":"specification-of-group"}}
-tmap.id:7c8d3324-da13-42b9-8d4b-5122eb0236f0
+tmap.edges:{"dc0aa10a-f1b3-42e7-a07b-8b3d4b5d8b46":{"to":"cba14807-ec67-4927-a475-0e752deefac9","type":"specification-of-group"}}
+tmap.id:9c487821-a2b2-4109-9570-bf6ea8dc702f
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
-
 
 
 

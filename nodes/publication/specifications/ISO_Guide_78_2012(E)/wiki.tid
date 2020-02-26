@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:ISO_Guide_78_2012(E)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
 tech.focus:
 tiddler.classification:node
 title:ISO_Guide_78_2012(E)
 tmap.edges:{}
-tmap.id:a8c08114-799f-457e-a484-88c3517ee85a
+tmap.id:44b818ea-312d-46c3-89f7-829a1a5685b0
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_Guide_78_2012%28E%29_%2D_Safety_of_machinery_%2D%2D_Rules_for_drafting_and_presentation_of_safety_standards.pdf?nodeid=8387150&vernum=-2
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Safety of machinery— Rules for drafting and presentation of safety standards
 
 As a response to the increased global trade in machinery, the relevant ISO Technical Committees have undertaken publication of a series of related machinery safety standards. It has thus been necessary to develop rules for the preparation, drafting and presentation of such safety standards, supplementing the ISO/IEC    Directives, Part 2, which sets out general principles and requirements for all International Standards.This Guide provides those rules. It is intended for use by Technical Committees writing type-B and type-C standards in the field of safety of machinery (as defined in 3.2 and 3.3). It both makes use of, and refers to, the principles and concepts established in ISO12100, and also takes into account, as far as possible, ISO/IECGuide51.International Standards prepared according to this Guide are intended as a means for supporting national or regional technical regulations (for example, legislation) for machinery safety according to the principles of UNECE Recommendation L. In order that machinery safety standards be able to support these technical regulations, the drafting of the standards can necessitate compliance with specific requirements additional to this Guide, in as far as any such additional requirements are accepted by ISO as not contradicting the content of this Guide. For example, in order to support European legislation, the Guidelines for the implementation of the agreement on technical co-operation between ISO and CEN (Vienna Agreement) are additionally applicable.
-
 

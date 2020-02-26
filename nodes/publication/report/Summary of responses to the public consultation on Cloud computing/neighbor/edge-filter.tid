@@ -1,12 +1,12 @@
-created:1582719062294
+created:1582720021638
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ade4b176-3697-46aa-a798-f6f7da05c329
+map.base:21e86d0b-b5e9-4a34-b8a5-5964b2694577
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062294
+modified:1582720021638
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of responses to the public consultation on Cloud computing/filter/edges
-tmap.id:b8b09743-8b1b-4328-8407-37e2882ebd6f
+tmap.id:9241569d-ea86-44cb-aa88-af9d9fb32900
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:dc84797b-d1f9-4fb9-91d1-eb63854e9ba6
+config.central-topic:e97f941d-70ba-4ef9-a32b-a7f7e87ac441
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062286
-id:8d1a1b5f-7a65-4ee0-9b66-3bdda2706521
+created:1582720021631
+id:cc4d6b19-4c92-4747-9a12-6fc458869578
 isview:false
-map.base:dc84797b-d1f9-4fb9-91d1-eb63854e9ba6
+map.base:e97f941d-70ba-4ef9-a32b-a7f7e87ac441
 map.role:definition
 map.type:neighbor
-modified:1582719062286
+modified:1582720021631
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nobody Sees It, Nobody Gets Mad”: Social Media, Privacy, and Personal Responsibility Among Low-SES Youth
-tmap.id:8d1a1b5f-7a65-4ee0-9b66-3bdda2706521
+tmap.id:cc4d6b19-4c92-4747-9a12-6fc458869578
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Nobody Sees It, Nobody Gets Mad”: Social Media, Privacy, and Personal Responsibility Among Low-SES Youth

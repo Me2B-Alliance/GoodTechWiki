@@ -1,17 +1,17 @@
-config.central-topic:567bbe80-98bc-4640-84d3-d935f5c4717a
+config.central-topic:f50afd7f-d1ef-43e6-ac5b-3ad9d7531610
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062358
-id:52a00b61-1ebe-468a-9cce-7bc6a69dc253
+created:1582720021696
+id:fbff18ce-82ac-4d58-8e14-efde2f58ec67
 isview:false
-map.base:567bbe80-98bc-4640-84d3-d935f5c4717a
+map.base:f50afd7f-d1ef-43e6-ac5b-3ad9d7531610
 map.role:definition
 map.type:neighbor
-modified:1582719062358
+modified:1582720021696
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Developing Countries Contact Group DCCG
-tmap.id:52a00b61-1ebe-468a-9cce-7bc6a69dc253
+tmap.id:fbff18ce-82ac-4d58-8e14-efde2f58ec67
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Developing Countries Contact Group DCCG

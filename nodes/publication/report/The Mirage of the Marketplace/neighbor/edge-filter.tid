@@ -1,12 +1,12 @@
-created:1582719062297
+created:1582720021641
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d289731e-4770-4032-9c53-173e9f1dd3de
+map.base:44ef6ac8-28d2-4433-b37b-eb1d8817dc32
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062297
+modified:1582720021641
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Mirage of the Marketplace/filter/edges
-tmap.id:04030eb1-9b49-4f83-92fe-a8c2f9ca89a2
+tmap.id:3bc49f9a-e331-4298-94c2-f7c863c1d4c3
 type:text/vnd.tiddlywiki
 
 No body provided

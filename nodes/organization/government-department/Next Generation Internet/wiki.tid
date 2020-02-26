@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/NGI4eu
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/groups/2206279
-location(s):[object Set]
+location(s):[[european union]]
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Next Generation Internet
 org.type:government department
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[tech interoperability]] [[transparency and accountability]]
 relevant.publications:
 scope:regional
 sector:government
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Next Generation Internet
 tmap.edges:{}
-tmap.id:ebf059d0-eb30-49d5-b0de-f448a580e41b
+tmap.id:6cdbb2e8-21d5-4f2d-8e18-c9d8fde1616e
 twitter.profile:https://twitter.com/NGI4eu
 type:text/vnd.tiddlywiki
 website:https://www.ngi.eu/
 
 The Next Generation Internet (NGI) initiative: launched by the European Commission in the autumn of 2016: aims to shape the future internet as an interoperable platform ecosystem that embodies the values that Europe holds dear: openness: inclusivity: transparency: privacy: cooperation: and protection of data. The NGI will drive this technological revolution and ensure the progressive adoption of advanced concepts and methodologies spanning the domains of artificial intelligence: Internet of Things: interactive technologies and more: while contributing to making the future internet more human-centric.
-
 

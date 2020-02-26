@@ -1,12 +1,12 @@
-created:1582719062238
-filter:[field:tmap.id[bee60984-508e-4922-b654-b495c7bf1695]]
-map.base:bee60984-508e-4922-b654-b495c7bf1695
+created:1582720021593
+filter:[field:tmap.id[161540f8-c74f-4b9f-957e-3e9854380403]]
+map.base:161540f8-c74f-4b9f-957e-3e9854380403
 map.role:node-filter
 map.type:neighbor
-modified:1582719062238
+modified:1582720021593
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Public Key Infrastructure/filter/nodes
-tmap.id:f62463a3-3b21-48c5-86d0-90da3fb40b13
+tmap.id:e4235034-3db1-4ab7-a93b-e1efb5d23d7d
 type:text/vnd.tiddlywiki
 
 No body provided

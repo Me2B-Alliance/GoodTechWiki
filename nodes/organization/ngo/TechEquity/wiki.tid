@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[outreach]] [[research]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,29 +11,28 @@ github.profile:https://github.com/TechEquity-Collaborative
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/techequity-collaborative/
-location(s):[object Set]
+location(s):[[san francisco bay area]]
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:TechEquity
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[human rights]]
 relevant.publications:https://medium.com/techequity-collaborative
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[advocacy]] [[community support]]
 tech.focus:
 tiddler.classification:node
 title:TechEquity
 tmap.edges:{}
-tmap.id:9499642c-459b-49a4-9e26-783746f8bc8a
+tmap.id:2ddff495-3068-4973-aa1c-4ed3c63cad0f
 twitter.profile:https://twitter.com/TEcollab
 type:text/vnd.tiddlywiki
 website:https://techequitycollaborative.org/
 
 The TechEquity Collaborative advocates for a tech-driven economy in the Bay Area that works for everyone. We are a member-driven organization made up of individuals and companies that share our values.
-
 

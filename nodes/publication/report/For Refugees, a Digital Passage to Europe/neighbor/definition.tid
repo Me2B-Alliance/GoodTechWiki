@@ -1,17 +1,17 @@
-config.central-topic:6c283c2c-5e59-45f8-bf5d-b460262942d1
+config.central-topic:9a69c348-1f01-4bb5-9efd-4516f9ec314b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062274
-id:e74cf717-79de-4c84-8620-0c61226f2802
+created:1582720021623
+id:a182e14a-1871-45dd-98de-2d4db28298b5
 isview:false
-map.base:6c283c2c-5e59-45f8-bf5d-b460262942d1
+map.base:9a69c348-1f01-4bb5-9efd-4516f9ec314b
 map.role:definition
 map.type:neighbor
-modified:1582719062274
+modified:1582720021623
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/For Refugees, a Digital Passage to Europe
-tmap.id:e74cf717-79de-4c84-8620-0c61226f2802
+tmap.id:a182e14a-1871-45dd-98de-2d4db28298b5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of For Refugees, a Digital Passage to Europe

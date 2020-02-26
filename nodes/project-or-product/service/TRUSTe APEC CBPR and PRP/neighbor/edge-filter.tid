@@ -1,12 +1,12 @@
-created:1582719062204
+created:1582720021556
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:07ce8729-d9dc-4d5a-b5cb-1dee46ea55f7
+map.base:f5a7c794-7db7-48fb-8164-01d07b11635b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062204
+modified:1582720021556
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe APEC CBPR and PRP/filter/edges
-tmap.id:797401e5-42fd-4fc2-b3fc-7dd95cb4b8f8
+tmap.id:daf0ad04-7428-48fb-a91d-cc9630d6f553
 type:text/vnd.tiddlywiki
 
 No body provided

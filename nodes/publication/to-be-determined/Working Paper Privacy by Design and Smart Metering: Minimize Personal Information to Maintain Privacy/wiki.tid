@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071736
+created:1582720003353
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071736
+modified:1582720003353
 name:Working Paper Privacy by Design and Smart Metering: Minimize Personal Information to Maintain Privacy
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Working Paper Privacy by Design and Smart Metering: Minimize Personal Information to Maintain Privacy
 tmap.edges:{}
-tmap.id:ebe921db-0457-4e5f-a7f3-7f14531a2019
+tmap.id:3142601d-30ae-4dd7-924a-502c5cf29a63
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/842/675.43.18_wp_privacy_and_smart_metering.pdf?1321458912
 version.or.edition:
@@ -27,5 +27,4 @@ working.group:
 
 With the ongoing growth of the Smart Grid, the role of the utility is changing. Historically, energy providers focused on maintaining consistent supply at the lowest possible cost; interactions with cus- tomers largely involved billing and minimizing credit risk. However, with the current redesign of elec- trical systems, these interactions are being radically redesigned, as smart meters allow utilities to gain information about the usage patterns of their residential customers at a level of detail that was previously unavailable, and in near real-time. This change is allowing for the development of an ar- ray of new services and efficiencies for both the consumer and the utility.
 To maintain consumer trust and confidence, the Smart Grid and smart metering will necessitate the emergence of a new relationship between utilities and individuals, centred on customer engagement. Privacy and data security will be the dual cornerstones of this relationship.
-
 

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[madeleine clare elish]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Moral Crumple Zones: Cautionary Tales In Human-Robot Interaction'
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:Moral Crumple Zones: Cautionary Tales In Human-Robot Interaction'
 tmap.edges:{}
-tmap.id:0f3b632a-329e-4413-83a6-2dc3204e388a
+tmap.id:4f08620d-205e-4f70-ace0-5f5bfa217674
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/moral-crumple-zones-cautionary-tales-in-human-robot-interaction/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 In this Working Paper from We Robot 2016, D&S Researcher Madeleine Elish employs the concept of “moral crumple zones” within human-machine systems as a lens through which to think about...
-
 

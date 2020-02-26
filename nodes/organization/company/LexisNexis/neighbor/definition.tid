@@ -1,17 +1,17 @@
-config.central-topic:9c2cd468-4ea2-462c-a983-a56d6905b423
+config.central-topic:60df7053-22c2-448b-9977-71dee2e7e14d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062090
-id:24bae1dd-5c1a-4373-a37d-2670831aa636
+created:1582720021441
+id:f993b427-5daf-46e1-875f-07ed66d73e8f
 isview:false
-map.base:9c2cd468-4ea2-462c-a983-a56d6905b423
+map.base:60df7053-22c2-448b-9977-71dee2e7e14d
 map.role:definition
 map.type:neighbor
-modified:1582719062090
+modified:1582720021441
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LexisNexis
-tmap.id:24bae1dd-5c1a-4373-a37d-2670831aa636
+tmap.id:f993b427-5daf-46e1-875f-07ed66d73e8f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of LexisNexis

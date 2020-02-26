@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071752
+created:1582720003370
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071752
+modified:1582720003370
 org.name:PCH - Packet Clearing House
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:PCH - Packet Clearing House
-tmap.edges:{"91b30940-4577-405d-8355-c135b913a964":{"to":"160f5047-ec1f-47ca-b606-10433d1da9c3","type":"author"}}
-tmap.id:958712c5-baa8-4edb-8b8f-2a036c9bfb0c
+tmap.edges:{"b1e7f206-16b3-41ea-a189-b07b175eaad4":{"to":"0bb0f2a5-e983-40be-a3fd-93330e93d3cd","type":"author"}}
+tmap.id:91cf10a1-1217-4cb2-a2d3-0a8ee3923497
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -40,5 +40,4 @@ PCH conducts more than 100 workshops each year on Internet regulatory theory, go
 PCH has been working since 1995 to make the Domain Name System faster, more scalable, and more resilient against attack. PCH pioneered the use of DNS anycast to distribute DNS load among more servers in more places, anycasting top-level domain nameservers since 1997, and root nameservers since 2001. PCH is the largest authoritative DNS service network in the world, hosting three roots and 280 top-level domains on thousands of servers in more than 100 locations around the world. PCH is also the operator of the only FIPS 140-2 Level 4 DNSSEC signing platform other than the root itself.
 
 PCH is the secretariat and operator of the INOC-DBA critical infrastructure protection hotline communications system, which ties together more than two thousand network operations centers and CERTs in a resilient communications mesh that lets network operators mitigate cybersecurity threats and online crime. PCH also operates a CERT of global scope, and provides training, resources, and assistance to CERTs and governments and communities that wish to form new CERTs. PCH also provides training and resources for national cyber-defense and critical Internet infrastructure protection.
-
 

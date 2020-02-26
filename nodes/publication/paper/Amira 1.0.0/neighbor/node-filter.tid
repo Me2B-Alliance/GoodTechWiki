@@ -1,12 +1,12 @@
-created:1582719062236
-filter:[field:tmap.id[7cb4baf3-acf5-4789-b819-502aaf9ab10a]]
-map.base:7cb4baf3-acf5-4789-b819-502aaf9ab10a
+created:1582720021589
+filter:[field:tmap.id[0f0d02e2-4452-4fb5-9727-b20a23d4e3ad]]
+map.base:0f0d02e2-4452-4fb5-9727-b20a23d4e3ad
 map.role:node-filter
 map.type:neighbor
-modified:1582719062236
+modified:1582720021589
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Amira 1.0.0/filter/nodes
-tmap.id:19082338-9357-4572-9287-0d3993360640
+tmap.id:26147d03-0a7e-498d-ac86-4d73220160ae
 type:text/vnd.tiddlywiki
 
 No body provided

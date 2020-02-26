@@ -1,12 +1,12 @@
-created:1582719062098
-filter:[field:tmap.id[9f5adc3a-e277-4969-bc61-0797cea21d99]]
-map.base:9f5adc3a-e277-4969-bc61-0797cea21d99
+created:1582720021455
+filter:[field:tmap.id[31c0bfc2-12f9-4676-99b3-8346d8f99cd3]]
+map.base:31c0bfc2-12f9-4676-99b3-8346d8f99cd3
 map.role:node-filter
 map.type:neighbor
-modified:1582719062098
+modified:1582720021455
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verizon/filter/nodes
-tmap.id:36ba1d6e-8c4c-4115-9cad-281327b99990
+tmap.id:5e85f1c2-7e5b-428d-a2a4-5db23737d945
 type:text/vnd.tiddlywiki
 
 No body provided

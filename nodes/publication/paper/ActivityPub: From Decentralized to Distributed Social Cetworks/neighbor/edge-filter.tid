@@ -1,12 +1,12 @@
-created:1582719062236
+created:1582720021589
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4b2e5344-5df1-4fab-b9b9-b3b8f399e1e7
+map.base:a3ce4e13-ce80-4090-8edf-35486b5dbe9b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062236
+modified:1582720021589
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ActivityPub: From Decentralized to Distributed Social Cetworks/filter/edges
-tmap.id:268dd12b-3543-4f30-b67d-54ecb8994af4
+tmap.id:00de5630-448a-4f54-8c39-aaaf0eaa5cdb
 type:text/vnd.tiddlywiki
 
 No body provided

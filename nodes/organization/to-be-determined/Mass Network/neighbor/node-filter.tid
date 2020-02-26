@@ -1,12 +1,12 @@
-created:1582719062140
-filter:[field:tmap.id[3c933ead-07dc-4f40-907a-370923fe52a0]]
-map.base:3c933ead-07dc-4f40-907a-370923fe52a0
+created:1582720021493
+filter:[field:tmap.id[3b9bf265-5855-421d-913c-f05bbef30d21]]
+map.base:3b9bf265-5855-421d-913c-f05bbef30d21
 map.role:node-filter
 map.type:neighbor
-modified:1582719062140
+modified:1582720021493
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mass Network/filter/nodes
-tmap.id:85272aa7-c746-4034-a6ba-60ed44baf8b7
+tmap.id:54abfb6e-275c-4727-b4c8-1151b6b47f6b
 type:text/vnd.tiddlywiki
 
 No body provided

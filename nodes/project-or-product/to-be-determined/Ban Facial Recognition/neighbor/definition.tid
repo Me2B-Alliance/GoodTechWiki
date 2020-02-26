@@ -1,17 +1,17 @@
-config.central-topic:d42d62b6-1ce9-4c56-a7ac-c5dea2c7e682
+config.central-topic:fd4b8f96-1b3e-4dc9-b908-c1c1b0f45b4b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062213
-id:7c9a709c-b25e-4078-97c3-875893ed892f
+created:1582720021572
+id:eed1ea73-db49-42fc-b144-d8242c169104
 isview:false
-map.base:d42d62b6-1ce9-4c56-a7ac-c5dea2c7e682
+map.base:fd4b8f96-1b3e-4dc9-b908-c1c1b0f45b4b
 map.role:definition
 map.type:neighbor
-modified:1582719062213
+modified:1582720021572
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ban Facial Recognition
-tmap.id:7c9a709c-b25e-4078-97c3-875893ed892f
+tmap.id:eed1ea73-db49-42fc-b144-d8242c169104
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Ban Facial Recognition

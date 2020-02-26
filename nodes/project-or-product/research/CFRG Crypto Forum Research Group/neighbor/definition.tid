@@ -1,17 +1,17 @@
-config.central-topic:a62d66cf-43ab-470b-84e0-f4d2ac5613fd
+config.central-topic:68fef3a6-782a-42e5-8205-62234019347c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062184
-id:1c5c27b2-e24f-4774-b9f2-ce59e3f8b537
+created:1582720021543
+id:16fcfc94-29da-4e95-900b-ef7e9eaa921b
 isview:false
-map.base:a62d66cf-43ab-470b-84e0-f4d2ac5613fd
+map.base:68fef3a6-782a-42e5-8205-62234019347c
 map.role:definition
 map.type:neighbor
-modified:1582719062184
+modified:1582720021543
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CFRG Crypto Forum Research Group
-tmap.id:1c5c27b2-e24f-4774-b9f2-ce59e3f8b537
+tmap.id:16fcfc94-29da-4e95-900b-ef7e9eaa921b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CFRG Crypto Forum Research Group

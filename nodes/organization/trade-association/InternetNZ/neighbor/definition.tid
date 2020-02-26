@@ -1,17 +1,17 @@
-config.central-topic:3f95542c-e19f-425f-914b-53d810f8cd47
+config.central-topic:b65e9a55-3e8b-4dc6-9d70-c24aacd5c8ef
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062156
-id:47222691-bb3f-4ff9-801b-5f24c2cf3f96
+created:1582720021516
+id:5519bd7e-ddf2-4858-aec4-eade87c215f8
 isview:false
-map.base:3f95542c-e19f-425f-914b-53d810f8cd47
+map.base:b65e9a55-3e8b-4dc6-9d70-c24aacd5c8ef
 map.role:definition
 map.type:neighbor
-modified:1582719062156
+modified:1582720021516
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/InternetNZ
-tmap.id:47222691-bb3f-4ff9-801b-5f24c2cf3f96
+tmap.id:5519bd7e-ddf2-4858-aec4-eade87c215f8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of InternetNZ

@@ -1,12 +1,12 @@
-created:1582719062272
+created:1582720021621
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a8ab07c3-76b9-4931-9447-de69c7363cdd
+map.base:c88d702a-b5f2-4885-819c-2b88d760a24f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062272
+modified:1582720021621
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doing Screen Time: Reflections on the screen at home and in school/filter/edges
-tmap.id:a572a257-7a60-4a2a-a12e-649ba5058518
+tmap.id:a980ab01-6beb-4fcc-9bb3-20daf780dbb8
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071966
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071966
+modified:1582720003592
 org.name:MIT/Law
 org.type:to-be-determined
 parent.org:
@@ -28,12 +28,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:MIT/Law
-tmap.edges:{"01ca7f23-d7e8-4458-9a1c-9f41bf14ee61":{"to":"4a7817ba-2c98-4a8f-9c28-d8b645bbde9c","type":"Organization Supports Project or Product"}}
-tmap.id:406358c9-14d2-4ff3-8bb0-17c1def60ea1
+tmap.edges:{"b64ccafa-d85f-47e6-a427-3eac1306efb1":{"to":"91acd4bd-f9a5-4735-abe0-d2c7352734e8","type":"Organization Supports Project or Product"}}
+tmap.id:45181a50-cc27-48b6-95bc-e81a3972c0aa
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://web.mit.edu/law/
 
 MIT Computational Law
-
 

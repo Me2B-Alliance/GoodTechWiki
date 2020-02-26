@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071740
+created:1582720003357
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071740
+modified:1582720003357
 name:Towards a definition of the Internet of  Things (IoT)
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Towards a definition of the Internet of  Things (IoT)
 tmap.edges:{}
-tmap.id:14724e45-8bba-4e17-9b38-3da445644518
+tmap.id:89d2ee4b-3757-4777-9d18-da3409903820
 type:text/vnd.tiddlywiki
 url:http://iot.ieee.org/images/files/pdf/ieee_iot_towards_definition_internet_of_things_revision1_27may15.pdf
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 This document gives an allIinclusive definition of IoT that ranges from small localized systems  constrained to a specific location to a large global system that is distributed and composed of  complex systems. The document also provides an overview of the IoT’s basic architectural  requirements.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:c8d1a06b-66c3-4bee-b8cd-52c9b0cc79be
+config.central-topic:54b8b80e-d005-417b-8fff-15c68ee5324f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062110
-id:aaf39a4c-0a94-41c2-8cf9-18ad87d826b7
+created:1582720021465
+id:7b8a0774-ac41-488a-b0fb-7414f529c5ae
 isview:false
-map.base:c8d1a06b-66c3-4bee-b8cd-52c9b0cc79be
+map.base:54b8b80e-d005-417b-8fff-15c68ee5324f
 map.role:definition
 map.type:neighbor
-modified:1582719062110
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GliaNet
-tmap.id:aaf39a4c-0a94-41c2-8cf9-18ad87d826b7
+tmap.id:7b8a0774-ac41-488a-b0fb-7414f529c5ae
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GliaNet

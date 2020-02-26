@@ -1,12 +1,12 @@
-created:1582719062125
+created:1582720021480
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:80722476-8bf1-4906-8496-2278d4689f5e
+map.base:fe941a0e-9e9e-4756-9bee-83354e49aeed
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062125
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations Commission on International Trade Law/filter/edges
-tmap.id:a158442c-8d75-4c7a-a7c3-364574fba166
+tmap.id:2b717413-f49a-440a-b447-087480bde4d4
 type:text/vnd.tiddlywiki
 
 No body provided

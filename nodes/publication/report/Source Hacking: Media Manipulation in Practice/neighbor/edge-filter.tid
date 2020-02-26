@@ -1,12 +1,12 @@
-created:1582719062293
+created:1582720021637
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:53b5eb92-2646-4dd6-a265-5f0335c965bc
+map.base:5de981b1-24da-46fd-a2c0-37d1659ff84c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062293
+modified:1582720021637
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Source Hacking: Media Manipulation in Practice/filter/edges
-tmap.id:7ead1490-63d6-451e-ab8a-13ba29e32c9f
+tmap.id:385b456d-1b5a-4541-bafc-dc3f2790476b
 type:text/vnd.tiddlywiki
 
 No body provided

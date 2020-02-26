@@ -1,12 +1,12 @@
-created:1582719062172
+created:1582720021532
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8ddb0ef6-e647-48ad-bb95-ad021da04506
+map.base:59a6918d-98c7-444b-870c-d0c8e8604008
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062172
+modified:1582720021532
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/J. Connotte/filter/edges
-tmap.id:e086bd08-5b54-4e96-9f79-ba0d97b18cec
+tmap.id:b197d63f-56b2-42a3-9287-dae7e257b325
 type:text/vnd.tiddlywiki
 
 No body provided

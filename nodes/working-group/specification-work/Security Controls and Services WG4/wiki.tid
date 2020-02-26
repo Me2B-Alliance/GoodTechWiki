@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071708
+created:1582720003325
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071708
+modified:1582720003325
 name:Security Controls and Services WG4
 parent.org:ISO/IEC JTC 1 / SC27 IT Security Techniques
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Security Controls and Services WG4
-tmap.edges:{"faded82f-4ce9-4592-b3bc-7be65a232343":{"to":"6db003c3-9539-401b-9dbe-ecd42482558d","type":"organization-for-group"}}
-tmap.id:06bc1c4b-16dd-4235-aefa-a856e5a065df
+tmap.edges:{"b44373ed-1e32-4e51-83c8-8666e10cdd89":{"to":"1dffc408-db8d-4580-ae04-400a2e5bc81e","type":"organization-for-group"}}
+tmap.id:b09556a2-6e9d-4bbd-90ef-96ada71791df
 type:text/vnd.tiddlywiki
 url:
 
@@ -56,5 +56,4 @@ Automotive industry
 Standards bodies, such as IETF, IEEE
 International institutions, e.g. OECD, APEC, EU
 IAF and CASCO, and other relevant groups regarding the development of accreditation and certification standards and guidelines
-
 

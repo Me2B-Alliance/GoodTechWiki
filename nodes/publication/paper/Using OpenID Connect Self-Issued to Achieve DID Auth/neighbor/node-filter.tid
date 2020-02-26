@@ -1,12 +1,12 @@
-created:1582719062257
-filter:[field:tmap.id[bbf29f3b-2e3f-42e8-a2d9-eea89f5fdd74]]
-map.base:bbf29f3b-2e3f-42e8-a2d9-eea89f5fdd74
+created:1582720021605
+filter:[field:tmap.id[56787e3e-e923-4fc9-8fd7-da02db428bae]]
+map.base:56787e3e-e923-4fc9-8fd7-da02db428bae
 map.role:node-filter
 map.type:neighbor
-modified:1582719062257
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Using OpenID Connect Self-Issued to Achieve DID Auth/filter/nodes
-tmap.id:80e51d78-ae90-431b-90da-54bc902f0ea4
+tmap.id:e748b663-ba8f-4b34-90ff-71c15ab2ba80
 type:text/vnd.tiddlywiki
 
 No body provided

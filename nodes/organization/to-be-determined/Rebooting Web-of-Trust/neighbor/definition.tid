@@ -1,17 +1,17 @@
-config.central-topic:09133c8b-061e-47c9-af5a-3211cfe9fdff
+config.central-topic:d076dd07-6571-4b8a-b057-49a7a71913ba
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062145
-id:05f8dfe5-7f8a-49b6-b325-c5d5adf6d4fc
+created:1582720021498
+id:43ce14eb-51d4-4b89-82de-ddc027602211
 isview:false
-map.base:09133c8b-061e-47c9-af5a-3211cfe9fdff
+map.base:d076dd07-6571-4b8a-b057-49a7a71913ba
 map.role:definition
 map.type:neighbor
-modified:1582719062145
+modified:1582720021498
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rebooting Web-of-Trust
-tmap.id:05f8dfe5-7f8a-49b6-b325-c5d5adf6d4fc
+tmap.id:43ce14eb-51d4-4b89-82de-ddc027602211
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Rebooting Web-of-Trust

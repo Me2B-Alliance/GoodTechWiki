@@ -1,12 +1,12 @@
-created:1582719062163
-filter:[field:tmap.id[a5f4b134-c21b-4ead-8659-fe0eb1090ce8]]
-map.base:a5f4b134-c21b-4ead-8659-fe0eb1090ce8
+created:1582720021524
+filter:[field:tmap.id[a2853dda-ba5d-4ae1-978f-82a4884e9b41]]
+map.base:a2853dda-ba5d-4ae1-978f-82a4884e9b41
 map.role:node-filter
 map.type:neighbor
-modified:1582719062163
+modified:1582720021524
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Data Transfer Project/filter/nodes
-tmap.id:0978e692-a012-414f-b363-3d8d30832e8f
+tmap.id:3caf732d-578c-45e6-a757-ed92ca970f30
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:6514aef9-0338-44d6-80aa-fe6faa602d99
+config.central-topic:87769d27-d63d-4946-a4a6-22d172dfb520
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062146
-id:a155b698-d695-431e-b2be-d8e34273c2dc
+created:1582720021499
+id:4f89fef5-6147-4d18-8ceb-38f9578f9b9b
 isview:false
-map.base:6514aef9-0338-44d6-80aa-fe6faa602d99
+map.base:87769d27-d63d-4946-a4a6-22d172dfb520
 map.role:definition
 map.type:neighbor
-modified:1582719062146
+modified:1582720021499
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Schluss
-tmap.id:a155b698-d695-431e-b2be-d8e34273c2dc
+tmap.id:4f89fef5-6147-4d18-8ceb-38f9578f9b9b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Schluss

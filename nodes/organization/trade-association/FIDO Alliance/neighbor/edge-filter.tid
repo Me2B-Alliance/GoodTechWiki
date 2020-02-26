@@ -1,12 +1,12 @@
-created:1582719062153
+created:1582720021511
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:55b37d06-ffcf-4e45-a7e4-c28e08b98b97
+map.base:34df587c-8867-42d0-a1d2-80c3a5b0427d
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062153
+modified:1582720021511
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FIDO Alliance/filter/edges
-tmap.id:22eb7fd9-88ef-45e0-b8f2-eb187f4f391f
+tmap.id:fdcaed40-0c27-4423-b6aa-887881a598e7
 type:text/vnd.tiddlywiki
 
 No body provided

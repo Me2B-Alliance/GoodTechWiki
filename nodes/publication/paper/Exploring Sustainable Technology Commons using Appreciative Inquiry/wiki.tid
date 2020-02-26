@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Exploring Sustainable Technology Commons using Appreciative Inquiry
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[rwot vi]]
 tech.focus:
 tiddler.classification:node
 title:Exploring Sustainable Technology Commons using Appreciative Inquiry
 tmap.edges:{}
-tmap.id:47c4a81b-9c31-4ba6-806a-7a2c0a6ddfc3
+tmap.id:c27607cd-9490-4eb2-b34d-1cbc279c25e5
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/sustainable-commons.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Technology Commons are critical for the development of technology that is used across platforms, companies, and industries. In the internet age, corporations structured around monetizing defensible intellectual property frequently utilize common technology to produce innovative products that work across shared infrastructure, including most of the core platforms and building blocks of what we know as the internet industry. These technology commons include the Internet and the standards that make it run. There are several standards bodies that support the development of these standards, primarily the IETF, W3C, and OASIS.
-
 

@@ -1,12 +1,12 @@
-created:1582719062261
-filter:[field:tmap.id[e5280a89-3761-4b0b-a47c-930acee6cb21]]
-map.base:e5280a89-3761-4b0b-a47c-930acee6cb21
+created:1582720021608
+filter:[field:tmap.id[697b698c-7067-44e4-aec7-a28f90ac2f23]]
+map.base:697b698c-7067-44e4-aec7-a28f90ac2f23
 map.role:node-filter
 map.type:neighbor
-modified:1582719062261
+modified:1582720021608
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A legacy of suspicion/filter/nodes
-tmap.id:215af21f-9ab9-4105-ba41-ccbe9374ddd2
+tmap.id:4ba7ba50-7095-47f6-9ea0-f3720eede05d
 type:text/vnd.tiddlywiki
 
 No body provided

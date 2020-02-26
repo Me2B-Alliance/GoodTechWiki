@@ -1,12 +1,12 @@
-created:1582719062276
+created:1582720021624
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4f1e0294-5340-48c9-a63b-75e0fa1cbd1a
+map.base:35bf02ac-3c17-4397-a7fc-3dd1b6cdd28b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062276
+modified:1582720021624
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on BCR - Data controller/filter/edges
-tmap.id:582c1b66-ccd6-4cd0-b286-2656f5fb5b92
+tmap.id:f70bfd0e-b679-46d3-8fd7-03a7c5944301
 type:text/vnd.tiddlywiki
 
 No body provided

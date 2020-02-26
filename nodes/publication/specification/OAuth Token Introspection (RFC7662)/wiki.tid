@@ -1,13 +1,13 @@
 audience:
 authors.editors:Justin Richer
-created:1582678071725
+created:1582720003343
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071725
+modified:1582720003343
 name:OAuth Token Introspection (RFC7662)
 publication.type:specification
 purpose:
@@ -17,14 +17,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OAuth Token Introspection (RFC7662)
-tmap.edges:{"bfcce074-1db4-4316-bdd2-3135e8368101":{"to":"24bff523-d47f-4907-8654-c5264f5db76a","type":"specification-of-group"}}
-tmap.id:20f69df2-00c3-40db-8c14-641678ac3b3a
+tmap.edges:{"80cc4895-3136-4309-a37b-93bb641b404a":{"to":"cba14807-ec67-4927-a475-0e752deefac9","type":"specification-of-group"}}
+tmap.id:fc42127f-37b6-4ab7-b649-21ce2b8421bd
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
-
 
 
 

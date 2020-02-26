@@ -1,17 +1,17 @@
-config.central-topic:b1bbad1c-4218-4b85-a369-ed364137550e
+config.central-topic:c17d54f8-8e58-43f8-b6d8-b8c836e18ae4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062093
-id:1a799d37-2cf8-4520-a2b4-fd76b8e07213
+created:1582720021450
+id:44be1d7a-e243-43c6-849c-7c877ba876a5
 isview:false
-map.base:b1bbad1c-4218-4b85-a369-ed364137550e
+map.base:c17d54f8-8e58-43f8-b6d8-b8c836e18ae4
 map.role:definition
 map.type:neighbor
-modified:1582719062093
+modified:1582720021450
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NEC Laboratories Europe
-tmap.id:1a799d37-2cf8-4520-a2b4-fd76b8e07213
+tmap.id:44be1d7a-e243-43c6-849c-7c877ba876a5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NEC Laboratories Europe

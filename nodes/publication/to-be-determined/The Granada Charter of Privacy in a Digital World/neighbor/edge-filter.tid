@@ -1,12 +1,12 @@
-created:1582719062338
+created:1582720021681
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7ece0888-7815-4094-a2b1-9cba196c64e9
+map.base:524ec20f-12db-4280-b979-5091484dcf96
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062338
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Granada Charter of Privacy in a Digital World/filter/edges
-tmap.id:bea6c096-8235-4f9a-9220-79b0c607b435
+tmap.id:5ab15b8a-302e-4fef-87e8-bb269a9a9ca4
 type:text/vnd.tiddlywiki
 
 No body provided

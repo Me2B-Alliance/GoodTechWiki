@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071707
+created:1582720003324
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071707
+modified:1582720003324
 name:eBorders
 parent.org:Secure Identity Alliance
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:eBorders
-tmap.edges:{"6f54be2a-4dad-437e-be26-1bd658ffe3b4":{"to":"441e05bb-d980-4fd7-9728-4585f3a3633c","type":"organization-for-group"}}
-tmap.id:66f684bb-5ec3-4830-838c-2698564dfcd6
+tmap.edges:{"c18922fe-f984-4ad6-8845-9c0fdad78063":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"organization-for-group"}}
+tmap.id:d7a015bb-dee0-4a1a-b3ff-4ea9155f4643
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

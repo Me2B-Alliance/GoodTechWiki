@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[andrew selbst]] [[madeleine clare elish]] [[mark latonero]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Accountable Algorithmic Futures
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ai on the ground]]
 tech.focus:
 tiddler.classification:node
 title:Accountable Algorithmic Futures
 tmap.edges:{}
-tmap.id:51ccbb2a-fb5a-4a7d-a53e-3417a4906b8c
+tmap.id:35d2bab6-b18a-4548-a942-6c0f2425ed78
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/accountable-algorithmic-futures/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 The Algorithmic Accountability Act is a great first step, and regulators who are tasked with implementing it should take sociotechnical frames into account. “A sociological lens can help illuminate...
-
 

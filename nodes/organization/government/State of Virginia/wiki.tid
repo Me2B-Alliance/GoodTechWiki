@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071720
+created:1582720003337
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071720
+modified:1582720003337
 org.name:State of Virginia
 org.type:government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:State of Virginia
-tmap.edges:{"1f6a8aaf-00f8-4da6-b696-9b31145d5e52":{"to":"da6c0b19-ebcb-4509-8dbd-7b64dcddac89","type":"author"},"9c955b43-0f07-42f4-bbc4-cf30c3252733":{"to":"3fa68ad0-4e2a-48c0-940e-d0d2f0e44fd3","type":"government-connection"}}
-tmap.id:a0594b6d-1c0d-46f8-8061-b27ce38cbb6a
+tmap.edges:{"221afa76-3b0f-463e-8928-5860486a1c90":{"to":"85d3cc4f-76b0-488c-9ebe-329beb3c2714","type":"author"},"daa9942c-bc95-4a6e-ba9a-0417d6fd3b56":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
+tmap.id:28c59803-d05b-46fd-8813-f141b96951b7
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

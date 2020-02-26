@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[publication]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:
 input.source:me2b
-key.people:[object Set]
+key.people:[[that one privacy guy]]
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:That One Privacy Site
 org.type:independent
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[consumer education]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -28,12 +28,11 @@ tags:
 tech.focus:VPN
 tiddler.classification:node
 title:That One Privacy Site
-tmap.edges:{"9eefdee9-00a3-459f-ad72-0aa49e7a9ed2":{"to":"5ad6390b-3dd9-4a82-ab08-9b76a44286e5","type":"Organization Supports Project or Product"}}
-tmap.id:fe76b3a1-3a56-42a4-8db7-1e0695ac3d06
+tmap.edges:{"4a3a20b7-1816-4bdf-b91a-e3d1f1e94f3d":{"to":"89f30e91-8c83-4009-a8e7-b082e0eedc98","type":"Organization Supports Project or Product"}}
+tmap.id:82282caa-198b-4ffa-a958-071781f53bf9
 twitter.profile:https://twitter.com/ThatPrivacyGuy
 type:text/vnd.tiddlywiki
 website:https://thatoneprivacysite.net/
 
 Welcome to That One Privacy Site!  I intend for this site to be a resource to those who value their privacy, specifically those looking for information on VPNs (that isn’t disguised advertising).  There are some other good resources that cover privacy based topics quite well, but when I started down the path of retaking my own privacy, there was very little reliable and detailed information with regard to VPNs.
-
 

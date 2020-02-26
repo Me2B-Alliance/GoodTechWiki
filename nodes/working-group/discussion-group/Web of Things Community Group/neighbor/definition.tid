@@ -1,17 +1,17 @@
-config.central-topic:b53890cf-b186-43b9-8be0-cca07cc70f30
+config.central-topic:cc7565da-9bf4-40bd-aba3-8bad263ecd19
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062350
-id:ac1b1364-195a-4183-b853-dca2ef662226
+created:1582720021691
+id:11a455ad-bd8b-463f-b063-0349b4d51d8d
 isview:false
-map.base:b53890cf-b186-43b9-8be0-cca07cc70f30
+map.base:cc7565da-9bf4-40bd-aba3-8bad263ecd19
 map.role:definition
 map.type:neighbor
-modified:1582719062350
+modified:1582720021691
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web of Things Community Group
-tmap.id:ac1b1364-195a-4183-b853-dca2ef662226
+tmap.id:11a455ad-bd8b-463f-b063-0349b4d51d8d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Web of Things Community Group

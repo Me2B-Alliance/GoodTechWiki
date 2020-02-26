@@ -1,12 +1,12 @@
-created:1582719062259
+created:1582720021605
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3a053360-aa89-4626-95b1-e89f8bfefa3c
+map.base:288e9b62-6057-4143-946f-5a9e2adcdf50
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062259
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/When GDPR becomes real, and Blockchain is no longer Fairy Dust/filter/edges
-tmap.id:f64a4c2b-5f7e-4e5a-86bf-8755ef027ba5
+tmap.id:8ef54087-e96a-4401-a242-0342a975ece6
 type:text/vnd.tiddlywiki
 
 No body provided

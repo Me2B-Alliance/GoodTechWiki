@@ -1,7 +1,7 @@
 activities:
 audience:
 category:open source
-created:1582678071969
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,22 +9,22 @@ element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
-me2b.participation:[object Set]
-modified:1582678071969
+me2b.participation:[[certification candidate]]
+modified:1582720003597
 name:Solid
 parent.org:Inrupt
 partners:
 people:
-purpose:[object Set]
+purpose:[[usability]]
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[personal data management]]
 terms.of.service:
 tiddler.classification:node
 title:Solid
 tmap.edges:{}
-tmap.id:a28348ab-99ef-4dc9-8943-fea08560e3c1
+tmap.id:312d2468-0a92-4742-b48b-3338d9390602
 type:text/vnd.tiddlywiki
 url:https://solid.inrupt.com/
 version.or.edition:
@@ -35,5 +35,4 @@ Solid is the technology that underpins a movement, being led by Sir Tim Berners-
 The first web browser was also an editor. The idea being that not only could everyone read content on the web, but they could also help create it. It was to be a collaborative space for all mankind.
 
 However, when the first browser that popularized the web came along, called Mosaic, it included multimedia and editing was taken out. It was considered too difficult a problem. This change was the first curtailing of the web’s promise and spawned an effort led by Tim and others to get the write functionality back. It was dubbed the ‘read-write web’ and lead to Richard McManus' seminal article published in 2003.
-
 

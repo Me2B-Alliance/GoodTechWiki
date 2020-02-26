@@ -1,12 +1,12 @@
-created:1582719062170
+created:1582720021530
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:57911e9f-1af0-46a8-98a4-d0867698211f
+map.base:522ad1d1-b3b4-4dc7-b61c-3989f46a6200
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062170
+modified:1582720021530
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/B. de Medeiros/filter/edges
-tmap.id:79bedde4-8d0e-4bf2-9471-8a33b009bf4f
+tmap.id:0c7839b4-1fe8-43dd-a930-562e2a8b304e
 type:text/vnd.tiddlywiki
 
 No body provided

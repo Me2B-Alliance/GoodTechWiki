@@ -1,12 +1,12 @@
-created:1582719062166
+created:1582720021526
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:48625785-ed05-4d7c-8900-a735f7037c5d
+map.base:9cf6e41d-8c11-451d-8d21-ba964c9a91e5
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062166
+modified:1582720021526
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Goethe University: Frankfurt/filter/edges
-tmap.id:82a7d27e-5e45-4008-8914-175829ea65ce
+tmap.id:4aaf08ff-6b3e-4267-b138-aae7f0e0928f
 type:text/vnd.tiddlywiki
 
 No body provided

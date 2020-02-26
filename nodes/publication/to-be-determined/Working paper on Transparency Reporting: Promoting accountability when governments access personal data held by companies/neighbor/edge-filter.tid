@@ -1,12 +1,12 @@
-created:1582719062343
+created:1582720021685
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b6d96c73-5eac-432c-ad3f-1b9ed9045692
+map.base:07b3171f-cfa8-4a2c-ab4c-c65290421a76
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062343
+modified:1582720021685
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working paper on Transparency Reporting: Promoting accountability when governments access personal data held by companies/filter/edges
-tmap.id:a0338a63-f63f-4b1c-ba90-7a1454a89b8b
+tmap.id:9860b562-0cad-4006-846a-690df0d8a244
 type:text/vnd.tiddlywiki
 
 No body provided

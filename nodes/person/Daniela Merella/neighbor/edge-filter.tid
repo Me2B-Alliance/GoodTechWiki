@@ -1,12 +1,12 @@
-created:1582719062171
+created:1582720021531
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c6799199-d6a1-4532-8ad6-39a1ffad2a97
+map.base:82f7215a-1a61-4d25-baa2-edab3533e74c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062171
+modified:1582720021531
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Daniela Merella/filter/edges
-tmap.id:bb7e7e80-dc0e-40c6-970f-d5d82708b36f
+tmap.id:68c888da-c9fe-4319-81b6-7279427567a0
 type:text/vnd.tiddlywiki
 
 No body provided

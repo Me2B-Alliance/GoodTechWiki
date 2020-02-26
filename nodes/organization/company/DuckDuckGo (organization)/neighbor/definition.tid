@@ -1,17 +1,17 @@
-config.central-topic:0b42316a-2276-4fb3-a48b-6823571d1e6b
+config.central-topic:e712311c-95f9-483d-af1e-fe6dbdf575f7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062087
-id:db375da8-3bb1-4502-a920-89bae6a4c7c1
+created:1582720021438
+id:a2f3fc99-138c-4a77-a317-e3add09a51e1
 isview:false
-map.base:0b42316a-2276-4fb3-a48b-6823571d1e6b
+map.base:e712311c-95f9-483d-af1e-fe6dbdf575f7
 map.role:definition
 map.type:neighbor
-modified:1582719062087
+modified:1582720021438
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DuckDuckGo (organization)
-tmap.id:db375da8-3bb1-4502-a920-89bae6a4c7c1
+tmap.id:a2f3fc99-138c-4a77-a317-e3add09a51e1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DuckDuckGo (organization)

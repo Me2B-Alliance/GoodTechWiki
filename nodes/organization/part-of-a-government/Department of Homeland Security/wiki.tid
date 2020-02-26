@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003367
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003367
 org.name:Department of Homeland Security
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Department of Homeland Security
-tmap.edges:{"68593799-3b2b-487b-9774-00576116cd90":{"to":"d320e0a6-043e-495a-a058-55a38cea724a","type":"founder"},"9baf1331-2840-496b-893d-14d262e9de7f":{"to":"3fa68ad0-4e2a-48c0-940e-d0d2f0e44fd3","type":"government-connection"}}
-tmap.id:0b44382e-b54a-4baf-bb1d-bf2fbbe3bd3a
+tmap.edges:{"dc2406a3-a00b-472d-b206-50c402dba803":{"to":"fd2f1de8-9929-406e-b861-109d53548cd1","type":"founder"},"2940cf07-77e9-4522-8ef7-54bb9f795cb9":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
+tmap.id:d176dbdf-9d8f-4812-a33f-c312b288d18a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

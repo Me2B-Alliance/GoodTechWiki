@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071971
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,26 +10,25 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071971
+modified:1582720003598
 name:Law & Ethics in Computational Social Science
 parent.org:Data & Society Research Institute
 partners:
-people:[object Set]
+people:[[jake metcalf]] [[bonnie tijerina]] [[sorelle friedler]] [[suresh venkatasubramanian]] [[andrew selbst]]
 purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[data & society research]]
 terms.of.service:
 tiddler.classification:node
 title:Law & Ethics in Computational Social Science
 tmap.edges:{}
-tmap.id:50a6d43a-d135-4a2a-8dd6-64b5abcabb20
+tmap.id:1e02362b-441d-4d4b-b2db-0552d477e2f7
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/#law_ethics_in_comp
 version.or.edition:
 working.group:
 
 Machine learning raises novel challenges for ensuring non-discrimination, due process, and understandability in decision-making. This initiative uses computational approaches and quantitative and qualitative datasets to translate findings to policymakers, regulators, and advocates who seek to understand issues in data and AI ethics.
-
 

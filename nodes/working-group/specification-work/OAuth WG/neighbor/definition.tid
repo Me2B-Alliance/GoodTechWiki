@@ -1,17 +1,17 @@
-config.central-topic:24bff523-d47f-4907-8654-c5264f5db76a
+config.central-topic:cba14807-ec67-4927-a475-0e752deefac9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062364
-id:a7a969fc-d811-4bde-b95e-dfc8ab241ff4
+created:1582720021701
+id:034b47d9-a7a3-4d08-b9c6-7ef9a69b625e
 isview:false
-map.base:24bff523-d47f-4907-8654-c5264f5db76a
+map.base:cba14807-ec67-4927-a475-0e752deefac9
 map.role:definition
 map.type:neighbor
-modified:1582719062364
+modified:1582720021701
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth WG
-tmap.id:a7a969fc-d811-4bde-b95e-dfc8ab241ff4
+tmap.id:034b47d9-a7a3-4d08-b9c6-7ef9a69b625e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OAuth WG

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[ryan calo]] [[alex rosenblat]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003602
 name:The Taking Economy: Uber, Information, and Power
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[social instabilities in labor futures]] [[mapping inequalities across the on-demand economy]]
 tech.focus:
 tiddler.classification:node
 title:The Taking Economy: Uber, Information, and Power
 tmap.edges:{}
-tmap.id:1c6af812-ed63-4256-b945-28e9e897fc48
+tmap.id:0ba2d7ba-fb9e-4ef6-8582-f023efa7e8b3
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-taking-economy-uber-information-and-power/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Ryan Calo and D&S researcher Alex Rosenblat write this analysis of the newly termed ‘taking economy’ of Uber. Sharing economy firms such as Uber and Airbnb facilitate trusted transactions...
-
 

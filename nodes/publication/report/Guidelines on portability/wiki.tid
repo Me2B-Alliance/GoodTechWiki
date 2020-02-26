@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071971
+created:1582720003599
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071971
+modified:1582720003599
 name:Guidelines on portability
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Guidelines on portability
 tmap.edges:{}
-tmap.id:d68fe57f-0d19-4afd-b562-0551445f9983
+tmap.id:37446af0-f148-4901-99c2-9151bd1c172d
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/atoms/files/wp242_rev01_en-data-portability.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Article 20 of the GDPR creates a new right to data portability,which is closely related to the right of access but differs from it in many ways. Itallows for data subjectsto receive the personal datathat theyhave provided to a controller, in a structured, commonly used and  machine-readable  format,  and  to transmit those  data to  another  data  controller.  The purpose  of this  new right  is  to empower  the  data subject and give him/her more control overthe personal dataconcerning him or her.Since  it  allows  the  direct transmissionof  personal  data  from  one data  controllerto another,  the  right  to  data  portability  is also an  important  tool  that  will supportthe  free flow  of personal data  in  the  EU  and fostercompetition  between  controllers.  It  will facilitate  switchingbetween  differentserviceproviders,  and will  therefore  fosterthe development of new services in the context of the digital single market strategy.
-
 

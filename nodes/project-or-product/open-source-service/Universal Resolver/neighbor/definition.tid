@@ -1,17 +1,17 @@
-config.central-topic:64c0b3d5-c80b-4452-a812-e41c3b38ee70
+config.central-topic:0bfe983d-6cc0-45aa-8827-675d77606817
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534884
-id:5a3d5961-263a-4ef0-86b9-32c368d4f769
+created:1582720021560
+id:2cf98f4a-5f89-4b48-9ab5-10ea253f19e2
 isview:false
-map.base:64c0b3d5-c80b-4452-a812-e41c3b38ee70
+map.base:0bfe983d-6cc0-45aa-8827-675d77606817
 map.role:definition
 map.type:neighbor
-modified:1582714534884
+modified:1582720021560
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Universal Resolver-map
-tmap.id:5a3d5961-263a-4ef0-86b9-32c368d4f769
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Universal Resolver
+tmap.id:2cf98f4a-5f89-4b48-9ab5-10ea253f19e2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Universal Resolver

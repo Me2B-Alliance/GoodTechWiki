@@ -1,12 +1,12 @@
-created:1582719062172
+created:1582720021532
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ab184ab0-2727-4abf-ac62-a0be5e56acbe
+map.base:c9bce3c5-ae6c-4fe4-a47a-650ad1850ff1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062172
+modified:1582720021532
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ian Henderson/filter/edges
-tmap.id:b8079c5c-a957-45e5-9c01-40a2eddef668
+tmap.id:a3f5ad20-1f5b-40aa-a583-fc38f63391ba
 type:text/vnd.tiddlywiki
 
 No body provided

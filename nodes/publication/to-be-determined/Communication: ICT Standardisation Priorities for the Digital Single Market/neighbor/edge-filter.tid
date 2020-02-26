@@ -1,12 +1,12 @@
-created:1582719062332
+created:1582720021676
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fd957cce-3e77-43c0-bdc8-726c39ac32e3
+map.base:a9449a3c-e1e7-44df-b65a-09132235c3ad
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062332
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Communication: ICT Standardisation Priorities for the Digital Single Market/filter/edges
-tmap.id:0725428d-15bd-4aea-a29f-f90bc50aa502
+tmap.id:5da39548-1494-4a68-8e8d-41bebeeb58d4
 type:text/vnd.tiddlywiki
 
 No body provided

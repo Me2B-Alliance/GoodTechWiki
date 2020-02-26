@@ -1,17 +1,17 @@
-config.central-topic:a99d9028-c439-457d-a764-c9dcd40023f1
+config.central-topic:54a80ab5-68c2-4b5a-90ab-3d95f8ff4447
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062147
-id:8233f6f0-5cd7-4705-bdb2-0e8ba5496a30
+created:1582720021500
+id:b054f951-bf6f-431d-9999-a24324900d8d
 isview:false
-map.base:a99d9028-c439-457d-a764-c9dcd40023f1
+map.base:54a80ab5-68c2-4b5a-90ab-3d95f8ff4447
 map.role:definition
 map.type:neighbor
-modified:1582719062147
+modified:1582720021500
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vastuu Group
-tmap.id:8233f6f0-5cd7-4705-bdb2-0e8ba5496a30
+tmap.id:b054f951-bf6f-431d-9999-a24324900d8d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Vastuu Group

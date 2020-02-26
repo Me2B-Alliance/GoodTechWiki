@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/identity2020/
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:ID 2020 Alliance
 org.type:coalition or network
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[certification and compliance]] [[human rights]] [[ecosystem building]]
 relevant.publications:https://github.com/WebOfTrustInfo/rwot2-id2020/
 scope:global
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:ID 2020 Alliance
 tmap.edges:{}
-tmap.id:e4247020-3237-48ec-8abb-ecb0472a6e0b
+tmap.id:5b8bf97e-aa37-4440-8d07-650f95e6f6a0
 twitter.profile:https://twitter.com/id2020
 type:text/vnd.tiddlywiki
 website:https://id2020.org/
 
 ID2020 is coordinating funding for identity and channeling those funds toward high-impact projects, enabling diverse stakeholders - UN agencies, NGOs, governments, and enterprises - to pursue a coordinated approach that creates a pathway for efficient and responsible implementation at scale.
-
 

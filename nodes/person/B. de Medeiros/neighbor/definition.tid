@@ -1,17 +1,17 @@
-config.central-topic:57911e9f-1af0-46a8-98a4-d0867698211f
+config.central-topic:522ad1d1-b3b4-4dc7-b61c-3989f46a6200
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062170
-id:16550d5a-7565-418c-9681-c4b9af1090cd
+created:1582720021530
+id:801fb55b-c7b9-43b1-a4fa-0fa48ee2b508
 isview:false
-map.base:57911e9f-1af0-46a8-98a4-d0867698211f
+map.base:522ad1d1-b3b4-4dc7-b61c-3989f46a6200
 map.role:definition
 map.type:neighbor
-modified:1582719062170
+modified:1582720021530
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/B. de Medeiros
-tmap.id:16550d5a-7565-418c-9681-c4b9af1090cd
+tmap.id:801fb55b-c7b9-43b1-a4fa-0fa48ee2b508
 type:text/vnd.tiddlywiki
 
 Neighbor Map of B. de Medeiros

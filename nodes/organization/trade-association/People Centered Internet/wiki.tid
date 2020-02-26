@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:
 input.source:me2b
-key.people:[object Set]
+key.people:[[mei lin fung]]
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003590
 org.name:People Centered Internet
 org.type:trade association
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[education]] [[ecosystem building]]
 relevant.publications:
 scope:
 sector:
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:People Centered Internet
 tmap.edges:{}
-tmap.id:8b75539c-c756-49d0-b8f5-a87610c2e7e0
+tmap.id:b9551e51-45e6-4c39-9c75-29d7f67db206
 twitter.profile:https://twitter.com/pci_initiative
 type:text/vnd.tiddlywiki
 website:https://peoplecentered.net/
 
 The PCI coalition embodies the belief that the Internet can bring different groups of people together to form Living Learning Communities that advance a more People-Centered vision of the future of the Internet; a vision of better global connectivity and digital inclusion; a vision of vision better ways to counter online hate and polarizing misinformation online; a vision of more informed approaches to technology, data, and AI ethics in pluralistic societies, and more. Currently we have 5 Teams:
-
 

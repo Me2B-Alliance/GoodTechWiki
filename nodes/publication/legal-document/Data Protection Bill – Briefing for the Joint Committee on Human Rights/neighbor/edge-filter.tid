@@ -1,12 +1,12 @@
-created:1582719062224
+created:1582720021579
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7bfa8586-aff9-4868-9721-956cbeda1e78
+map.base:43055fe5-6692-4bf2-8a6e-d72277612477
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062224
+modified:1582720021579
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing for the Joint Committee on Human Rights/filter/edges
-tmap.id:52983443-4a84-412a-b804-f80b5b5d0a51
+tmap.id:e42dd85c-e77d-412d-8d2e-89a2b65eccc6
 type:text/vnd.tiddlywiki
 
 No body provided

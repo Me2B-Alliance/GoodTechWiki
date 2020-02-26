@@ -1,12 +1,12 @@
-created:1582719062181
+created:1582720021541
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:71584d58-ea0f-437a-a005-c3279201aa2c
+map.base:cb6b0a85-510b-4a0a-bef0-5225878dbc8d
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062181
+modified:1582720021541
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cyber secure, innovative smart energy products/filter/edges
-tmap.id:443b671a-b863-4b7f-a9f4-30695b6b05e7
+tmap.id:041f3984-aff8-474b-a552-c4d4584495ab
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:9c8ab6fa-a741-4836-9056-349257cf99ca
+config.central-topic:d12a09ce-4bca-44e1-8b71-5bad2aebbc3e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062122
-id:f01399c0-1a8a-42f3-8a92-0607599c0831
+created:1582720021479
+id:6756c34b-2a10-4de8-81fe-60ce178c7d18
 isview:false
-map.base:9c8ab6fa-a741-4836-9056-349257cf99ca
+map.base:d12a09ce-4bca-44e1-8b71-5bad2aebbc3e
 map.role:definition
 map.type:neighbor
-modified:1582719062122
+modified:1582720021479
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DG Connect European Commission's Directorate General for Communications Networks, Content & Technology
-tmap.id:f01399c0-1a8a-42f3-8a92-0607599c0831
+tmap.id:6756c34b-2a10-4de8-81fe-60ce178c7d18
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DG Connect European Commission's Directorate General for Communications Networks, Content & Technology

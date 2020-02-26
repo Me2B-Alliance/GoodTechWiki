@@ -1,12 +1,12 @@
-created:1582719062347
-filter:[field:tmap.id[7c949d61-1bc2-46e7-9ce1-ab265e0241f6]]
-map.base:7c949d61-1bc2-46e7-9ce1-ab265e0241f6
+created:1582720021689
+filter:[field:tmap.id[4b2f7517-e9db-44fc-b1a5-bd4c0310578d]]
+map.base:4b2f7517-e9db-44fc-b1a5-bd4c0310578d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062347
+modified:1582720021689
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Computer Says No/filter/nodes
-tmap.id:419ef614-690a-450e-a215-0e0002336a39
+tmap.id:3acf10a4-d7e9-45e7-ac47-d1ee4f723c22
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003363
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003363
 org.name:National Interoperability Framework Observatory (NIFO)
 org.type:part of supra-national government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:National Interoperability Framework Observatory (NIFO)
-tmap.edges:{"bfe4bb75-27f6-43f8-b26d-2c3457137946":{"to":"80496f1b-4d69-4d0f-a77d-29e54244a021","type":"author"},"deaba024-fcff-4492-88b2-c5c31746a680":{"to":"c201aea2-40c0-459d-8ff2-130fa113e7cf","type":"author"}}
-tmap.id:d876917e-c001-4246-978b-6bd5257f769f
+tmap.edges:{"6c57c999-860e-473a-8047-e1c276a1a0f9":{"to":"b000093b-cc25-43cc-a77f-1647ed80c658","type":"author"},"88e0acc7-fba3-4f88-8a8f-c0585ee33ed6":{"to":"bdcd8be6-cfcb-46df-8b83-d3adef2722c7","type":"author"}}
+tmap.id:45e4d5d0-940c-4e01-8ef0-f9716f7b493f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://joinup.ec.europa.eu/community/nifo/home
-
 
 
 

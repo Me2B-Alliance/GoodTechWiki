@@ -1,12 +1,12 @@
-created:1582719062185
+created:1582720021543
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f823063d-ee95-428d-befa-f17e965c2823
+map.base:090b4a8f-1e78-446f-82f2-f717d44b124c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062185
+modified:1582720021543
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Detroit Community Technology Project(project-or-product/research) (project-or-product)/filter/edges
-tmap.id:04fde9bf-9cca-4011-9ccd-ebc1eb3d958e
+tmap.id:93f56d59-5abb-4cad-8734-0e2b896a3056
 type:text/vnd.tiddlywiki
 
 No body provided

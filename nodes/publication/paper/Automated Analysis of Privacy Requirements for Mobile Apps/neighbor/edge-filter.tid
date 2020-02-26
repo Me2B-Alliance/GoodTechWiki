@@ -1,12 +1,12 @@
-created:1582719062237
+created:1582720021591
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6b8c7318-b420-498a-ad1c-c7c9896d3939
+map.base:1d3c0cfa-f098-4715-9200-5b9e43d00eb7
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062237
+modified:1582720021591
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Automated Analysis of Privacy Requirements for Mobile Apps/filter/edges
-tmap.id:86909801-e277-4123-b80f-4bd0621b55ca
+tmap.id:67ffcd49-1c1d-4cff-affe-110994e764f0
 type:text/vnd.tiddlywiki
 
 No body provided

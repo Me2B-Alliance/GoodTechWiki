@@ -1,12 +1,12 @@
-created:1582719062370
-filter:[field:tmap.id[535095d1-6b37-440b-8ddc-814ca4136313]]
-map.base:535095d1-6b37-440b-8ddc-814ca4136313
+created:1582720021708
+filter:[field:tmap.id[c6ba4938-d57e-4619-ba81-44076afcdfbb]]
+map.base:c6ba4938-d57e-4619-ba81-44076afcdfbb
 map.role:node-filter
 map.type:neighbor
-modified:1582719062370
+modified:1582720021708
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SIM Working Group/filter/nodes
-tmap.id:08e9d4a8-da71-4834-8f59-b6f1fe9f335d
+tmap.id:e84b9c42-b986-43a7-9b28-7c82c69ccce9
 type:text/vnd.tiddlywiki
 
 No body provided

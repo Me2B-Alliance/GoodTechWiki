@@ -1,12 +1,12 @@
-created:1582719062359
+created:1582720021697
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a6252961-eeda-4830-8470-e3a806cbce47
+map.base:482a346d-0599-4337-8511-bfac78a63bb1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062359
+modified:1582720021697
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESIF: Emergency Services Interconnection Forum/filter/edges
-tmap.id:b8e569db-cf3b-4ed4-9b8f-c3caa84fc5e6
+tmap.id:e9bf0c53-afc0-4c96-aa1d-86296ebb7197
 type:text/vnd.tiddlywiki
 
 No body provided

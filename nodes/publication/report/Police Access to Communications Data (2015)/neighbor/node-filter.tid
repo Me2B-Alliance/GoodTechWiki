@@ -1,12 +1,12 @@
-created:1582719062287
-filter:[field:tmap.id[132be945-27c2-47e1-92a3-3227873bf3c4]]
-map.base:132be945-27c2-47e1-92a3-3227873bf3c4
+created:1582720021633
+filter:[field:tmap.id[163d953b-43f2-4240-b654-f1de1f4f7b64]]
+map.base:163d953b-43f2-4240-b654-f1de1f4f7b64
 map.role:node-filter
 map.type:neighbor
-modified:1582719062287
+modified:1582720021633
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police Access to Communications Data (2015)/filter/nodes
-tmap.id:c68f042f-9aef-4fc3-a3e2-2363d69eec38
+tmap.id:fd6d5de1-a036-45cf-82dc-f1b6af8fb823
 type:text/vnd.tiddlywiki
 
 No body provided

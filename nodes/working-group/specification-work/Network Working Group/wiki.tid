@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071711
+created:1582720003329
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071711
+modified:1582720003329
 name:Network Working Group
 parent.org:IETF
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Network Working Group
-tmap.edges:{"e113c3af-640c-4462-8e47-7840a9f79cbc":{"to":"e9ef5d73-40d4-4b2c-963c-228c95dd4820","type":"organization-for-group"}}
-tmap.id:1b809427-8150-4f1f-9de1-036d3b97e10b
+tmap.edges:{"55a194a3-4a17-4b9b-badc-d3dd482d4a28":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
+tmap.id:dd3ec96b-a3d0-4376-94e4-0c7eed8e395f
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[monica bulger]] [[patrick davison]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:The Promises, Challenges, and Futures of Media Literacy
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[media manipulation]]
 tech.focus:
 tiddler.classification:node
 title:The Promises, Challenges, and Futures of Media Literacy
 tmap.edges:{}
-tmap.id:faac9e5f-e779-4f55-b49d-6e279023694b
+tmap.id:6849c34b-7c55-45ad-aaff-9ae78908a545
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-promises-challenges-and-futures-of-media-literacy/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This report responds to the “fake news” problem by evaluating the successes and failures of recent media literacy efforts while pointing towards next steps for educators, legislators, technologists, and...
-
 

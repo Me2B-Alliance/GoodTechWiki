@@ -1,17 +1,17 @@
-config.central-topic:d57135e0-65ef-49ad-a212-f440d03d8992
+config.central-topic:0b35c940-4d84-42b8-9ace-3c1d86d16c98
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062247
-id:0de1394e-166d-4fdb-81ae-a3bc5d12ce92
+created:1582720021602
+id:57d11492-066c-468d-92a2-7db45054ebda
 isview:false
-map.base:d57135e0-65ef-49ad-a212-f440d03d8992
+map.base:0b35c940-4d84-42b8-9ace-3c1d86d16c98
 map.role:definition
 map.type:neighbor
-modified:1582719062247
+modified:1582720021602
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/RWoT8 DID Specification Refinement
-tmap.id:0de1394e-166d-4fdb-81ae-a3bc5d12ce92
+tmap.id:57d11492-066c-468d-92a2-7db45054ebda
 type:text/vnd.tiddlywiki
 
 Neighbor Map of RWoT8 DID Specification Refinement

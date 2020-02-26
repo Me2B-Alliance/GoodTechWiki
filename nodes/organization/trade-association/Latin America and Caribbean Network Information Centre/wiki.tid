@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003376
 date.ended:
 date.founded:2016-09-13
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003376
 org.name:Latin America and Caribbean Network Information Centre
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Latin America and Caribbean Network Information Centre
-tmap.edges:{"cc9029e5-73b0-4beb-a63f-f04db4481de9":{"to":"c1104702-197d-413b-83e6-572267446857","type":"general-member"}}
-tmap.id:b2f4661c-566c-479d-8cd8-d02a87f4726b
+tmap.edges:{"49fd0cc1-7bc4-4963-af51-9bcf55b40ac2":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"general-member"}}
+tmap.id:1631f88c-e9e9-412c-886d-ec6bc61f2aa5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.lacnic.net/en/
@@ -36,5 +36,4 @@ website:http://www.lacnic.net/en/
 The Latin America and Caribbean Network Information Centre[1] (LACNIC, Spanish: Registro de Direcciones de Internet para América Latina y Caribe, Portuguese: Registro de Endereçamento da Internet para América Latina e Caribe) is the Regional Internet Registry for the Latin American and Caribbean regions.
 
 LACNIC[2] provides number resource allocation and registration services that support the global operation of the Internet. It is a not-for-profit, membership-based organisation whose members include Internet Service Providers, and similar organisations.
-
 

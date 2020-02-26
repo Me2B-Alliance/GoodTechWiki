@@ -1,17 +1,17 @@
-config.central-topic:50a6d43a-d135-4a2a-8dd6-64b5abcabb20
+config.central-topic:1e02362b-441d-4d4b-b2db-0552d477e2f7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062189
-id:f3c24f72-5e62-4683-84c6-16a3c62d156a
+created:1582720021546
+id:4b46c5ed-8532-495e-a4c8-f78120e57509
 isview:false
-map.base:50a6d43a-d135-4a2a-8dd6-64b5abcabb20
+map.base:1e02362b-441d-4d4b-b2db-0552d477e2f7
 map.role:definition
 map.type:neighbor
-modified:1582719062189
+modified:1582720021546
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Law & Ethics in Computational Social Science
-tmap.id:f3c24f72-5e62-4683-84c6-16a3c62d156a
+tmap.id:4b46c5ed-8532-495e-a4c8-f78120e57509
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Law & Ethics in Computational Social Science

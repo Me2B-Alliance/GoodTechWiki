@@ -1,12 +1,12 @@
-created:1582719062336
+created:1582720021680
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:08603eaf-5fb6-49f2-9a54-dd10969aabf7
+map.base:68b0548c-6c30-436f-a2ca-113cad9d6381
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062336
+modified:1582720021680
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Research and Best Practices:  Summary of a Workshop for the Intelligence Community/filter/edges
-tmap.id:fe9451bf-ffca-4d1d-ae44-073c07271a91
+tmap.id:b5c3bd25-73d3-4a5c-ac9b-c3fa06a0ec11
 type:text/vnd.tiddlywiki
 
 No body provided

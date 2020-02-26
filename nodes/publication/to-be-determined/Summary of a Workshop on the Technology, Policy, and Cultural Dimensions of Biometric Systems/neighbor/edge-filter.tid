@@ -1,12 +1,12 @@
-created:1582719062338
+created:1582720021681
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:02feed32-449f-43d8-950e-9722c064a1fc
+map.base:550b63a2-8b71-4715-84a9-6db691908731
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062338
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems/filter/edges
-tmap.id:ba245dcc-5545-4c0a-a1af-2856996a94a8
+tmap.id:dae3c22c-e8df-4a8c-a099-0d2a97129de9
 type:text/vnd.tiddlywiki
 
 No body provided

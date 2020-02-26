@@ -1,7 +1,7 @@
 activities:
 audience:
 category:open source
-created:1582678071760
+created:1582720003377
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071760
+modified:1582720003377
 name:Privacy Badger
 parent.org:
 partners:
@@ -23,12 +23,11 @@ terms.of.service:
 tiddler.classification:node
 title:Privacy Badger
 tmap.edges:{}
-tmap.id:69644d31-bd1f-45cb-9679-7313c80cec8b
+tmap.id:352b99e1-8d06-4bf5-83f2-19934c23a627
 type:text/vnd.tiddlywiki
 url:https://www.eff.org/privacybadger
 version.or.edition:
 working.group:
 
 Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.
-
 

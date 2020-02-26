@@ -1,12 +1,12 @@
-created:1582719062107
-filter:[field:tmap.id[fe76b3a1-3a56-42a4-8db7-1e0695ac3d06]]
-map.base:fe76b3a1-3a56-42a4-8db7-1e0695ac3d06
+created:1582720021463
+filter:[field:tmap.id[82282caa-198b-4ffa-a958-071781f53bf9]]
+map.base:82282caa-198b-4ffa-a958-071781f53bf9
 map.role:node-filter
 map.type:neighbor
-modified:1582719062107
+modified:1582720021463
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/That One Privacy Site/filter/nodes
-tmap.id:c34715e6-fc33-4000-9414-0d9ee601b22a
+tmap.id:bfc8910a-002c-4b14-aaff-31b576283913
 type:text/vnd.tiddlywiki
 
 No body provided

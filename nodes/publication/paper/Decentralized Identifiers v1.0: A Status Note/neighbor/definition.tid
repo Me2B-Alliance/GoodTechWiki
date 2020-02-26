@@ -1,17 +1,17 @@
-config.central-topic:bec7b87a-0a1a-4327-b402-c7d21272d6cc
+config.central-topic:cd15c58e-657e-4170-a772-73bb69ac38b0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062239
-id:0c740471-8dd8-4ddc-bd13-7de6d2db8e30
+created:1582720021593
+id:8947153d-8cde-485f-886a-8bf81951c26b
 isview:false
-map.base:bec7b87a-0a1a-4327-b402-c7d21272d6cc
+map.base:cd15c58e-657e-4170-a772-73bb69ac38b0
 map.role:definition
 map.type:neighbor
-modified:1582719062239
+modified:1582720021593
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identifiers v1.0: A Status Note
-tmap.id:0c740471-8dd8-4ddc-bd13-7de6d2db8e30
+tmap.id:8947153d-8cde-485f-886a-8bf81951c26b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Decentralized Identifiers v1.0: A Status Note

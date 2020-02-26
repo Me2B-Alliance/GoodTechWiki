@@ -1,17 +1,17 @@
-config.central-topic:d31b0406-5b6d-4712-9250-8bf1008f4e3b
+config.central-topic:066d6642-11e7-444f-bd37-273250ad2221
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062204
-id:503a9f23-cc8d-4e70-92a5-bc455ff1fad9
+created:1582720021559
+id:2737f2f4-d3b3-4a52-ada2-8680efb62419
 isview:false
-map.base:d31b0406-5b6d-4712-9250-8bf1008f4e3b
+map.base:066d6642-11e7-444f-bd37-273250ad2221
 map.role:definition
 map.type:neighbor
-modified:1582719062204
+modified:1582720021559
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eSignature
-tmap.id:503a9f23-cc8d-4e70-92a5-bc455ff1fad9
+tmap.id:2737f2f4-d3b3-4a52-ada2-8680efb62419
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eSignature

@@ -1,12 +1,12 @@
-created:1582719062123
+created:1582720021480
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:12771dc9-4021-464b-9ff3-232fb21a8507
+map.base:0d19a1c9-8e7b-4975-9a2f-3f4f3e567b4c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062123
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Horizon 2020/filter/edges
-tmap.id:dfc4485d-ce93-49ef-b0f7-54266ebb4d3a
+tmap.id:2a0ee58b-9a83-4919-9ed3-be91737e2403
 type:text/vnd.tiddlywiki
 
 No body provided

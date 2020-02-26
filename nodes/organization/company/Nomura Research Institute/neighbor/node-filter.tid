@@ -1,12 +1,12 @@
-created:1582719062093
-filter:[field:tmap.id[7a148bb2-1b29-45d1-9e76-ad38e1cdafdf]]
-map.base:7a148bb2-1b29-45d1-9e76-ad38e1cdafdf
+created:1582720021450
+filter:[field:tmap.id[0afef8ef-c195-4ede-bdb3-0229fe415aa9]]
+map.base:0afef8ef-c195-4ede-bdb3-0229fe415aa9
 map.role:node-filter
 map.type:neighbor
-modified:1582719062093
+modified:1582720021450
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nomura Research Institute/filter/nodes
-tmap.id:79867cd9-7097-417b-85ab-9433b5012646
+tmap.id:bcabfe06-8e6b-43c1-92f5-f769213bcfab
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582714534887
+created:1582720021562
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:01029d9c-7a54-4415-a3eb-c2639c926b63
+map.base:8e10d8fb-e19d-44b4-bf6d-a1dcbcd939f1
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534887
+modified:1582720021562
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Signal(project-or-product/[[open source]] [[software product (application)]]) (project-or-product)/filter/edges
-tmap.id:012471d0-727a-4677-91cf-d2753b3f1680
+tmap.id:79220b80-55a8-4267-85fc-b0971b00743f
 type:text/vnd.tiddlywiki
 
 No body provided

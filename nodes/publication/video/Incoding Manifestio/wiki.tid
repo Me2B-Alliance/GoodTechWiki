@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[joy buolamwini]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Incoding Manifestio
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[the coded gaze]]
 tech.focus:
 tiddler.classification:node
 title:Incoding Manifestio
 tmap.edges:{}
-tmap.id:3e672da0-d20d-48a4-9f24-7b403bafe0ea
+tmap.id:c3233652-6d48-494a-9e11-7c6cedbc7375
 type:text/vnd.tiddlywiki
 url:https://www.youtube.com/watch?v=162VzSzzoPs
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Debuted at the Museum of Fine Arts Boston, The Coded Gaze mini documentary follows  Poet of Code  Joy Buolamwini's personal frustrations with facial recognition software and the need for more inclusive code.
-
 

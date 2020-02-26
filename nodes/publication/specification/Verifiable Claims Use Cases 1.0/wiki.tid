@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Verifiable Claims Use Cases 1.0
 publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ongoing community drafts]]
 tech.focus:
 tiddler.classification:node
 title:Verifiable Claims Use Cases 1.0
 tmap.edges:{}
-tmap.id:33784e5a-8ce4-4c02-b4e1-5e97132979ff
+tmap.id:5fcda69b-4062-49b0-9d58-4d5f03144600
 type:text/vnd.tiddlywiki
 url:https://w3c.github.io/vc-use-cases/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Use Cases for claims that are cryptographically secure, privacy respecting, and automatically verifiable
-
 

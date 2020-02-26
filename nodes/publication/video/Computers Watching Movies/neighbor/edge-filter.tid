@@ -1,12 +1,12 @@
-created:1582719062346
+created:1582720021688
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ba37d70b-0f1d-42c8-9248-a220d450709b
+map.base:365372c9-72a4-4143-a0da-675e5808a83b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062346
+modified:1582720021688
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Computers Watching Movies/filter/edges
-tmap.id:44714ae6-6bfd-4513-9c4c-622da663812a
+tmap.id:95a242a7-207b-4b27-8ea0-2b6e5da2fe2f
 type:text/vnd.tiddlywiki
 
 No body provided

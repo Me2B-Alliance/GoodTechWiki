@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071967
+created:1582720003594
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071967
+modified:1582720003594
 org.name:ATAM ID
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ATAM ID
-tmap.edges:{"27d44c1f-13ad-483b-95e3-900090b77d2a":{"to":"65f030af-040c-4bab-8ed7-b3c249d4f017","type":"Organization Supports Project or Product"},"131e3aaa-11f4-4355-a598-1a8946fddad5":{"to":"201f4dbc-785c-4ab2-8a5c-86f634e16048","type":"Organization Supports Project or Product"}}
-tmap.id:5ac3e947-0589-4edd-ad31-1ed5d13e3543
+tmap.edges:{"6d214132-c06c-4069-9a8c-2b764a79b49f":{"to":"6b1ed83f-899f-4545-8a1a-8c1b0abf124c","type":"Organization Supports Project or Product"},"8eef9302-3878-4a78-b03d-e7ea85fdc0a3":{"to":"d0ab7c69-e6f3-46e8-81eb-d31cfcc5a680","type":"Organization Supports Project or Product"}}
+tmap.id:b8f8bf50-f565-4970-918d-9b6862ab985d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://atam.id
@@ -43,5 +43,4 @@ Our technology combines proprietary and patented military grade encryption with 
 We have been building successful online products and services for over 20 years. Our supremely talented core team of engineers, visionaries and leaders drive our company forward.
 
 We are committed to leading the way into a brave new world where we work to put an end to the abuses of privacy and data rights that have for so long gone unchecked.
-
 

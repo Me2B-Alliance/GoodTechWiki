@@ -1,12 +1,12 @@
-created:1582719062137
-filter:[field:tmap.id[fded737d-ec65-4cf5-a3f7-ab72649cbfd5]]
-map.base:fded737d-ec65-4cf5-a3f7-ab72649cbfd5
+created:1582720021491
+filter:[field:tmap.id[0c2a23af-d6fa-40cd-aeae-6653da55e8f7]]
+map.base:0c2a23af-d6fa-40cd-aeae-6653da55e8f7
 map.role:node-filter
 map.type:neighbor
-modified:1582719062137
+modified:1582720021491
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Alliance for Responsible Media/filter/nodes
-tmap.id:9642f623-b809-4687-bc8c-1c8511204306
+tmap.id:ffbebcca-aa41-4110-8f26-2441d3f9971f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:193ccc3a-3c57-45f8-907a-d86be113e5b2
+config.central-topic:311a402b-80b6-48fe-bf6c-9e5ba45188c5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062123
-id:f588fbde-947d-4ce8-a730-67366658eb44
+created:1582720021479
+id:e8fcd7b4-d293-4c47-bc79-a54599598e42
 isview:false
-map.base:193ccc3a-3c57-45f8-907a-d86be113e5b2
+map.base:311a402b-80b6-48fe-bf6c-9e5ba45188c5
 map.role:definition
 map.type:neighbor
-modified:1582719062123
+modified:1582720021479
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Data Protection Supervisor (Contrôleur européen de la protection des données)
-tmap.id:f588fbde-947d-4ce8-a730-67366658eb44
+tmap.id:e8fcd7b4-d293-4c47-bc79-a54599598e42
 type:text/vnd.tiddlywiki
 
 Neighbor Map of European Data Protection Supervisor (Contrôleur européen de la protection des données)

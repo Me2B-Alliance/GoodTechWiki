@@ -1,17 +1,17 @@
-config.central-topic:533654d6-eaef-4dc8-8cda-26419d73f336
+config.central-topic:7e1e385c-6367-4922-b4ad-f5c64456802e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062271
-id:19bc2d4e-164f-4a7c-b914-63bc0a82d758
+created:1582720021620
+id:c4fda190-7fb0-45cf-a1b1-10cbb47c81af
 isview:false
-map.base:533654d6-eaef-4dc8-8cda-26419d73f336
+map.base:7e1e385c-6367-4922-b4ad-f5c64456802e
 map.role:definition
 map.type:neighbor
-modified:1582719062271
+modified:1582720021620
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Does School Performance Data Reinforce Segregation?
-tmap.id:19bc2d4e-164f-4a7c-b914-63bc0a82d758
+tmap.id:c4fda190-7fb0-45cf-a1b1-10cbb47c81af
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Does School Performance Data Reinforce Segregation?

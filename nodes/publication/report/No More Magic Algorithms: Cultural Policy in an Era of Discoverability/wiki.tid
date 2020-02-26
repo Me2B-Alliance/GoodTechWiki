@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[fenwick mckelvey]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:No More Magic Algorithms: Cultural Policy in an Era of Discoverability
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[algorithms and publics]]
 tech.focus:
 tiddler.classification:node
 title:No More Magic Algorithms: Cultural Policy in an Era of Discoverability
 tmap.edges:{}
-tmap.id:73cc5553-6033-4668-9eea-bda857dea0c0
+tmap.id:f7a64af6-dfdc-4216-bc32-6893baaf67d2
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/no-more-magic-algorithms-cultural-policy-in-an-era-of-discoverability/
 version.or.edition:
@@ -31,5 +31,4 @@ working.group:
     While we debate Canadian content algorithms, we also have to take seriously the much broader accountability issues raised by algorithms. It’s not just a matter of whether algorithms should promote Canadian content, but how we can understand this black box of new media power in the first place.
 
 Points/public spheres: In “No More Magic Algorithms,” Fenwick McKelvey unpacks the impetus for and challenges of the Discovery Summit, co-hosted by the Canadian Radio-television and Telecommunications Commission and the National Film Board of Canada: What could an algorithmic cultural policy look like? Fenwick’s piece was also prompted by the Who Controls the Public Sphere in the Era of Algorithms? workshop, which Data & Society hosted in February 2016 as part of our developing Algorithms and Publics project.
-
 

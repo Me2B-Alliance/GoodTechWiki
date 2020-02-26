@@ -1,17 +1,17 @@
-config.central-topic:57276fa6-6162-474e-bb07-631169220aa3
+config.central-topic:224828a1-395d-4f3c-bbbf-f19dc574becf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062216
-id:a2e947d4-a291-486a-8f61-32ff26ee9ce6
+created:1582720021574
+id:b8491ebc-752e-416f-bb21-5617fac9dff9
 isview:false
-map.base:57276fa6-6162-474e-bb07-631169220aa3
+map.base:224828a1-395d-4f3c-bbbf-f19dc574becf
 map.role:definition
 map.type:neighbor
-modified:1582719062216
+modified:1582720021574
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Pledge
-tmap.id:a2e947d4-a291-486a-8f61-32ff26ee9ce6
+tmap.id:b8491ebc-752e-416f-bb21-5617fac9dff9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Security Pledge

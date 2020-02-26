@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071719
+created:1582720003336
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071719
+modified:1582720003336
 org.name:university Trier
 org.type:university
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:university Trier
-tmap.edges:{"8d22e42a-0381-4432-94b8-76c7195f59da":{"to":"088f4334-659d-43b0-a18f-ebd10f05c51a","type":"organization-for-group"}}
-tmap.id:e3a0902b-7aae-4308-bd89-248fd925778b
+tmap.edges:{"a2f2257d-a4cc-4d4e-8853-1c456dedf516":{"to":"d0ba9e49-3c4c-4611-b2b8-523350f0eb93","type":"organization-for-group"}}
+tmap.id:256c59dd-0849-4bed-b405-2e43d5a036c4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

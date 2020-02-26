@@ -1,12 +1,12 @@
-created:1582719062204
-filter:[field:tmap.id[18175797-1a6e-4d57-a9a2-8ddf1a1fa4f9]]
-map.base:18175797-1a6e-4d57-a9a2-8ddf1a1fa4f9
+created:1582720021559
+filter:[field:tmap.id[bbb08210-2cf6-462c-8348-300ce4251867]]
+map.base:bbb08210-2cf6-462c-8348-300ce4251867
 map.role:node-filter
 map.type:neighbor
-modified:1582719062204
+modified:1582720021559
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eInvoicing/filter/nodes
-tmap.id:93771bf5-e49d-4b08-8cb6-a4e53f9454a4
+tmap.id:66827ddb-c4d9-4c37-bc93-a6a4e62e46eb
 type:text/vnd.tiddlywiki
 
 No body provided

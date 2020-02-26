@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[madeleine clare elish]] [[danah boyd]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Don’t Believe Every AI You See
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ai on the ground]]
 tech.focus:
 tiddler.classification:node
 title:Don’t Believe Every AI You See
 tmap.edges:{}
-tmap.id:23ecb83c-4067-4c4d-8d5d-6b3ee8cc846a
+tmap.id:23526537-5584-4533-94cd-a4ab08deaba7
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/dont-believe-every-ai-you-see/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Data & Society Founder and President danah boyd and Researcher Madeleine Clare Elish lay the groundwork for questioning AI and ethics. “Without comprehensively accounting for the strengths and weaknesses...
-
 

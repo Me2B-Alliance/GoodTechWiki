@@ -1,12 +1,12 @@
-created:1582719062253
+created:1582720021603
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5a7a37d1-cc32-4177-92f1-c680dabfd667
+map.base:7bbcc532-6b98-46dd-94d3-ae9809a45688
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062253
+modified:1582720021603
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Satyrn: A Markdown-based JavaScript Sandbox/filter/edges
-tmap.id:2469e4e8-454f-408f-911e-45998eecfbe2
+tmap.id:f080d973-d913-47e3-85b1-07eef58d2e12
 type:text/vnd.tiddlywiki
 
 No body provided

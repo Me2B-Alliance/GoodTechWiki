@@ -1,17 +1,17 @@
-config.central-topic:aae5d14e-560c-4162-bf3d-9c8d10391b63
+config.central-topic:7ee6f084-672b-4717-a5ac-81448dc74689
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062264
-id:f4bae6ac-bf29-4a7a-8e73-dbfdc90c5504
+created:1582720021611
+id:4473e061-d65d-4246-b984-739db9a4eebb
 isview:false
-map.base:aae5d14e-560c-4162-bf3d-9c8d10391b63
+map.base:7ee6f084-672b-4717-a5ac-81448dc74689
 map.role:definition
 map.type:neighbor
-modified:1582719062264
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Autopsy of inBloom Sparks Old Debates About Sharing Student Data
-tmap.id:f4bae6ac-bf29-4a7a-8e73-dbfdc90c5504
+tmap.id:4473e061-d65d-4246-b984-739db9a4eebb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Autopsy of inBloom Sparks Old Debates About Sharing Student Data

@@ -1,12 +1,12 @@
-created:1582719062271
+created:1582720021621
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d293e204-c558-4a95-a6dc-6c3914350ba4
+map.base:de5d4dec-b51c-47fe-984a-524f9b448433
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062271
+modified:1582720021621
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Did Media Literacy Backfire?/filter/edges
-tmap.id:a4947e4e-efc9-4fef-ac80-b36d480ed591
+tmap.id:11955d90-ccae-4869-87c3-d38576123847
 type:text/vnd.tiddlywiki
 
 No body provided

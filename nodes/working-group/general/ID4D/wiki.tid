@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071715
+created:1582720003333
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071715
+modified:1582720003333
 name:ID4D
 parent.org:Secure Identity Alliance
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:ID4D
-tmap.edges:{"bf03b990-64f6-4686-880d-c5daa3446774":{"to":"441e05bb-d980-4fd7-9728-4585f3a3633c","type":"organization-for-group"}}
-tmap.id:8a2c73c8-21b0-43de-bcfe-51a207cb6aee
+tmap.edges:{"f56eca18-e8ce-473d-8824-4ec8d337ab0c":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"organization-for-group"}}
+tmap.id:3906f162-e430-4e71-9cbf-913f74f392ab
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

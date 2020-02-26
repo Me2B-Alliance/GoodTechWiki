@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071761
+created:1582720003378
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071761
+modified:1582720003378
 org.name:The Secure Information Technology Center – Austria (A-SIT)
 org.type:non governmental organization
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The Secure Information Technology Center – Austria (A-SIT)
-tmap.edges:{"37db349a-e301-4634-9883-8d9381325f05":{"to":"c195f082-9f8d-442b-9daa-7d56db09fa80","type":"general-member"}}
-tmap.id:51644dc0-a603-4fba-8a5c-1706d79a397e
+tmap.edges:{"598e6dac-5fe7-4f7d-b3dd-1321b266e8fc":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
+tmap.id:7ed098e0-66f0-4199-b147-d8d352738344
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.a-sit.at/de/allgemein/asit_en.php
 
 The Secure Information Technology Center – Austria (A-SIT) is a public funded non-profit association that has been established in 1999. Funding members have been the Austrian Federal Ministry of Finance, the Central Bank of Austria, and Graz University of Technology. In 2012 the Austrian Federal Computing Center joined as a member. The mission of A-SIT is focused on information security in providing advice and support to public authorities, technical evaluations, technology assessment and research, and raising awareness. This includes formal duties like as notified body under the Signature Directive on technical evaluation of secure signature-creation devices (qualified signature-creation or seal-creation devices under eIDAS), technical assessment of e-voting components, certification of online collection systems for the European Citizen Initiative, or technical assistance to the Central Bank in the Euro payment system oversight. Ministries and public authorities call for A SIT when seeking independent advice or support in information security aspects. A-SIT assists in security related projects, as well as is relied on in international coordination like in EC expert groups, the ENISA management board, or in European research and innovation projects like on coordination the Austrian participation in EU Large Scale Pilots like STORK or eSENS.
-
 

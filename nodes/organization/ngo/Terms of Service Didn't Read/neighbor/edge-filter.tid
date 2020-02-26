@@ -1,12 +1,12 @@
-created:1582719062113
+created:1582720021468
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3e6ca009-2e5c-4160-b657-cc1fab48ea12
+map.base:2b3014af-8ed7-4751-a2ab-e8605f0f86df
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062113
+modified:1582720021468
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Terms of Service Didn't Read/filter/edges
-tmap.id:748d1b28-7031-4b07-ac19-6b9eab8fd249
+tmap.id:da946023-0564-43e9-ad7f-7effe3da4ca9
 type:text/vnd.tiddlywiki
 
 No body provided

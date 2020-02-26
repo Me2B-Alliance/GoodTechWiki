@@ -1,12 +1,12 @@
-created:1582719062153
-filter:[field:tmap.id[55b37d06-ffcf-4e45-a7e4-c28e08b98b97]]
-map.base:55b37d06-ffcf-4e45-a7e4-c28e08b98b97
+created:1582720021511
+filter:[field:tmap.id[34df587c-8867-42d0-a1d2-80c3a5b0427d]]
+map.base:34df587c-8867-42d0-a1d2-80c3a5b0427d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062153
+modified:1582720021511
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FIDO Alliance/filter/nodes
-tmap.id:f38d0d66-9058-4d3b-88ec-f64aba780f0c
+tmap.id:61fc2fec-b5c6-46f4-bb8d-2a6145160517
 type:text/vnd.tiddlywiki
 
 No body provided

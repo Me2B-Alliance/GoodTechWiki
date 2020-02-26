@@ -1,17 +1,17 @@
-config.central-topic:63daa931-7133-459c-bf95-95688f591e12
+config.central-topic:507b261a-fc30-400f-b275-6889b4a75822
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062077
-id:0b205b99-81fd-49dc-b4b0-2733a178ac21
+created:1582720021430
+id:1c6d9095-ac60-464c-91a1-6f42b5979ff2
 isview:false
-map.base:63daa931-7133-459c-bf95-95688f591e12
+map.base:507b261a-fc30-400f-b275-6889b4a75822
 map.role:definition
 map.type:neighbor
-modified:1582719062077
+modified:1582720021430
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IFIP Summer School 2016
-tmap.id:0b205b99-81fd-49dc-b4b0-2733a178ac21
+tmap.id:1c6d9095-ac60-464c-91a1-6f42b5979ff2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IFIP Summer School 2016

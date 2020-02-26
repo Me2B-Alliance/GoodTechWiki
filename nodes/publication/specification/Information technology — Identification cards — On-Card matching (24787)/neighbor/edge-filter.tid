@@ -1,12 +1,12 @@
-created:1582719062314
+created:1582720021656
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:003a11ed-ee0a-4539-b149-f24c9dfc3250
+map.base:f9df8874-a724-448a-86d0-edd439acebf3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062314
+modified:1582720021656
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Information technology — Identification cards — On-Card matching (24787)/filter/edges
-tmap.id:7a9a730a-f4d6-4e10-b407-9061f9fe4cdb
+tmap.id:3a129cbb-7671-47e0-9764-b3bbdc55853a
 type:text/vnd.tiddlywiki
 
 No body provided

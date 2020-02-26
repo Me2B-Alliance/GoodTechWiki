@@ -1,12 +1,12 @@
-created:1582719062123
-filter:[field:tmap.id[db2bf9c7-91d4-4bcc-99fb-3f79bc69702a]]
-map.base:db2bf9c7-91d4-4bcc-99fb-3f79bc69702a
+created:1582720021480
+filter:[field:tmap.id[59fca2d0-e92d-4bbd-b079-c424d5f9b46a]]
+map.base:59fca2d0-e92d-4bbd-b079-c424d5f9b46a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062123
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISA2 Interoperability Solutions for European Public Administrators/filter/nodes
-tmap.id:258031fd-66e2-4a53-85dd-7dc9a8e0b6c3
+tmap.id:6e26b081-70cb-4c22-a650-96641094884d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062121
+created:1582720021478
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9f73854a-2a35-4d3f-bad9-8fdf1a30f502
+map.base:5b801e8a-5818-4657-8854-3c7d7dfbc7de
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062121
+modified:1582720021478
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/berlin Commissioner for Data Protection and Freedom of Information/filter/edges
-tmap.id:67dfe627-b80d-4669-bd25-fe6cff40f294
+tmap.id:37c73cde-5d49-4b55-8fe7-ad09d6dc484f
 type:text/vnd.tiddlywiki
 
 No body provided

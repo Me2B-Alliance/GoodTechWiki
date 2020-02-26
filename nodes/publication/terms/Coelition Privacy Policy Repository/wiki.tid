@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Coelition Privacy Policy Repository
 publication.type:terms
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[publications]] [[parent]]
 tech.focus:
 tiddler.classification:node
 title:Coelition Privacy Policy Repository
 tmap.edges:{}
-tmap.id:10509f73-ba21-49a4-ae21-17d39e33ce83
+tmap.id:29e37ac4-c2f4-4652-a356-94ef5ca963b4
 type:text/vnd.tiddlywiki
 url:https://coelition.org/business/resources/policy-repository/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This repository lists privacy policies published via the Coelition wesbite.
-
 

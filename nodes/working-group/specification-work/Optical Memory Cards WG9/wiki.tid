@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071710
+created:1582720003327
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071710
+modified:1582720003327
 name:Optical Memory Cards WG9
 parent.org:ISO/IEC JTC1/SC17
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Optical Memory Cards WG9
-tmap.edges:{"8b7ca63d-e3fe-434e-a213-1983b833616f":{"to":"d7c11861-87a2-4f8c-bc3e-f566d95a77e2","type":"organization-for-group"}}
-tmap.id:fa71688a-cd50-4337-a046-e03bbf93c1af
+tmap.edges:{"4b243993-ba9c-476b-bf2c-3cd5121af7b9":{"to":"58b741f7-12aa-4bb6-8db5-8d6ec33af651","type":"organization-for-group"}}
+tmap.id:5edf8d2d-b2d8-4f67-9641-41aea66240da
 type:text/vnd.tiddlywiki
 url:
 
 Enhanced OMC technologies enabling more data capacity, fast access and high reliability based on existing standard technologies or new technologies. Software or programming interface for accessing OMC data contents. (Host application program will be able to use this interface for easier implementation. Access method software of OMCs application program.) Physical assignment and /or logical assignment for OMC media use. Logical data structures in OMCs data (file structure etc).
-
 

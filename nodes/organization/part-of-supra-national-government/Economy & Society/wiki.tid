@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003363
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003363
 org.name:Economy & Society
 org.type:part of supra-national government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Economy & Society
-tmap.edges:{"2b38a9c7-2fc8-4758-bf5d-38b57758773b":{"to":"bb7ee2f9-b509-4aae-9e94-bbb2e25b3723","type":"government-connection"}}
-tmap.id:dcd0831d-2dd9-4935-8ac9-bddfeead2dc8
+tmap.edges:{"b0b4f136-5f8c-4584-8361-7fd78ba45951":{"to":"e32ea7d3-485d-4311-8a62-7d135755b7aa","type":"government-connection"}}
+tmap.id:f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

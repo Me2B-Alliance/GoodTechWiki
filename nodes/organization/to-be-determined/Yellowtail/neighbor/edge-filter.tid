@@ -1,12 +1,12 @@
-created:1582719062147
+created:1582720021501
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0bdc0235-6c6d-403a-a728-d203399a966a
+map.base:629e998c-3011-4285-a2d2-85827c7113ee
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062147
+modified:1582720021501
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Yellowtail/filter/edges
-tmap.id:23f4b8e4-c6c8-4886-a6cb-4115c764002d
+tmap.id:423d22aa-4e64-42e4-9b0b-42dc9a68b2f3
 type:text/vnd.tiddlywiki
 
 No body provided

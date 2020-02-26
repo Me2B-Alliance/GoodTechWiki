@@ -1,17 +1,17 @@
-config.central-topic:ebbf7ec8-7563-4d10-ad91-29f207bcf101
+config.central-topic:9beebedd-d733-48a7-a622-c7f5c679051f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062367
-id:a2f1205f-ad23-4b6c-af18-d178454f1efa
+created:1582720021704
+id:695c1dfb-f40b-48eb-b23d-6bce0c6cd548
 isview:false
-map.base:ebbf7ec8-7563-4d10-ad91-29f207bcf101
+map.base:9beebedd-d733-48a7-a622-c7f5c679051f
 map.role:definition
 map.type:neighbor
-modified:1582719062367
+modified:1582720021704
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/U2F
-tmap.id:a2f1205f-ad23-4b6c-af18-d178454f1efa
+tmap.id:695c1dfb-f40b-48eb-b23d-6bce0c6cd548
 type:text/vnd.tiddlywiki
 
 Neighbor Map of U2F

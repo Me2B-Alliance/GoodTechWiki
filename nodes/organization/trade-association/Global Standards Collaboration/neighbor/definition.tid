@@ -1,17 +1,17 @@
-config.central-topic:9da0217c-0132-4496-912f-5315fae581c9
+config.central-topic:45862213-7428-4e24-8cd9-9b4bfff59644
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062154
-id:4514a6a5-169b-4aa2-814a-a0f6dd074eaf
+created:1582720021511
+id:b8687ff1-46c8-4b28-a8b0-27dd134d82d6
 isview:false
-map.base:9da0217c-0132-4496-912f-5315fae581c9
+map.base:45862213-7428-4e24-8cd9-9b4bfff59644
 map.role:definition
 map.type:neighbor
-modified:1582719062154
+modified:1582720021511
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Standards Collaboration
-tmap.id:4514a6a5-169b-4aa2-814a-a0f6dd074eaf
+tmap.id:b8687ff1-46c8-4b28-a8b0-27dd134d82d6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global Standards Collaboration

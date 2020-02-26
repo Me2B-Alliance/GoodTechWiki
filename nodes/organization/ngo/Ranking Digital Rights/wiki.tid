@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,24 +12,24 @@ input.source:me2b
 key.people:
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071963
+me2b.relationship:[[content source for me2b certification?]]
+modified:1582720003590
 org.name:Ranking Digital Rights
 org.type:ngo
 parent.org:Open Technology Institute
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[certification and compliance]] [[transparency and accountability]]
 relevant.publications:https://www.newamerica.org/oti/ranking-digital-rights/
 scope:global
 sector:non-profit
 status:Active
-tags:[object Set]
+tags:[[privacy]]
 tech.focus:
 tiddler.classification:node
 title:Ranking Digital Rights
 tmap.edges:{}
-tmap.id:d860bf9d-9b43-4239-b476-ee2e8756d560
+tmap.id:0a16add3-9486-42fb-bb36-8109dac1cb9e
 twitter.profile:https://twitter.com/rankingrights
 type:text/vnd.tiddlywiki
 website:https://rankingdigitalrights.org/
@@ -37,5 +37,4 @@ website:https://rankingdigitalrights.org/
 Ranking Digital Rights (RDR) works to promote freedom of expression and privacy on the internet by creating global standards and incentives for companies to respect and protect users’ rights.
 
 We do this by ranking the world’s most powerful internet: mobile: and telecommunications companies on relevant commitments and policies: based on international human rights standards. We work with companies as well as advocates: researchers: investors: and policymakers to establish and advance global standards for corporate accountability.
-
 

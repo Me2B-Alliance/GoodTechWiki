@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071977
+authors.editors:[[jaspreet bhatia]] [[travis d. breaux]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:A Data Purpose Case Study of Privacy Policies
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:A Data Purpose Case Study of Privacy Policies
 tmap.edges:{}
-tmap.id:6249391e-ecf7-4fd3-abbd-64142b1665c9
+tmap.id:65909f7c-22b3-432b-a95f-3643242b1c43
 type:text/vnd.tiddlywiki
 url:https://ieeexplore.ieee.org/document/8049146
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 25th IEEE International Requirements Engineering Conference, RE:Next! Track, Lisbon, Portugal, Jun 2017
 
 Privacy laws and international privacy standards require that companies collect only the data they have a stated purpose for, called collection limitation. Furthermore, these regimes prescribe that companies will not use data for purposes other than the purposes for which they were collected, called use limitation, except for legal purposes and when the user provides consent. To help companies write better privacy requirements that embody the use limitations and collection limitation principles, we conducted a case study to identify how purpose is expressed among five privacy policies from the shopping domain. Using content analysis, we discovered six exclusive data purpose categories. In addition, we observed natural language patterns to express purpose. Finally, we found that data purpose specificity varies with the specificity of information type descriptions. We believe this taxonomy and the patterns can help policy analysts discover missing or underspecified purposes to better comply with the collection and use limitation principles.
-
 

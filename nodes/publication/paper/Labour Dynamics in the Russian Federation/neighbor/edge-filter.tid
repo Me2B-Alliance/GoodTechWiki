@@ -1,12 +1,12 @@
-created:1582719062244
+created:1582720021598
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f86ae2e9-62b8-40d9-b5ce-40d73fd5f9c6
+map.base:8888319d-66de-4183-a2fb-9c8af0e59aa0
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062244
+modified:1582720021598
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Labour Dynamics in the Russian Federation/filter/edges
-tmap.id:28c258a5-9c4c-49a9-aff9-ed586203f6f0
+tmap.id:9cd5aaa6-15db-4ee5-9164-a91576713ce2
 type:text/vnd.tiddlywiki
 
 No body provided

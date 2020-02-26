@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071737
+created:1582720003355
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071737
+modified:1582720003355
 name:Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Working Paper Event Data Recorders (EDR) on Vehicles Privacy and data protection issues for governments and manufacturers
 tmap.edges:{}
-tmap.id:dbad0f4c-c043-4dc7-bd65-193316d945fe
+tmap.id:56e2784f-a9a1-4594-95c3-8008e729268b
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/795/675.42.10.pdf?1308146250
 version.or.edition:
@@ -31,5 +31,4 @@ Transport Systems (ITS) in particular has increased the processing of personal d
 2. The almost universal availability of network access points together with large bandwidth capability now create the opportunity to connect those smart vehicles to the network and to provide access to the data produced. This emerging technological trend will make the smart vehicle one of the components of the so-called Internet of Things.
 3. Without appropriate privacy and data protection safeguards, drivers as well as passengers of "smart vehicles" may not have the ability to control or at least monitor their data processing, and even be unaware that such processing is taking place.
 4. Although technological applications in the automotive sector are diverse, this paper considers only those aspects related to the data of the event recorder (EDR).
-
 

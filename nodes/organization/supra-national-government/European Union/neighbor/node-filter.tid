@@ -1,12 +1,12 @@
-created:1582719062128
-filter:[field:tmap.id[d5178bec-bff1-4b01-8181-ee9277b6cd0d]]
-map.base:d5178bec-bff1-4b01-8181-ee9277b6cd0d
+created:1582720021484
+filter:[field:tmap.id[311dfdcd-72bd-4e76-8579-c6e8e6c03231]]
+map.base:311dfdcd-72bd-4e76-8579-c6e8e6c03231
 map.role:node-filter
 map.type:neighbor
-modified:1582719062128
+modified:1582720021484
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Union/filter/nodes
-tmap.id:d3af0dac-9023-45da-8d14-e118f950764e
+tmap.id:f18af996-08b5-45af-9a30-6c0cabc77f24
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[robyn caplan]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:How do you deal with a problem like “fake news?”
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[algorithms and publics]]
 tech.focus:
 tiddler.classification:node
 title:How do you deal with a problem like “fake news?”
 tmap.edges:{}
-tmap.id:962293e7-a83e-466b-8968-e2bb4d3f5601
+tmap.id:594c7ea9-36b9-43e7-96f7-aa777994a3a6
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/how-do-you-deal-with-a-problem-like-fake-news/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 In “How do you deal with a problem like ‘fake news?’” D&S researcher Robyn Caplan weighs in on the potential — and pitfalls — of efforts to curb Facebook’s fake news problem.
-
 

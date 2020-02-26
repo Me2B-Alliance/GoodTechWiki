@@ -1,12 +1,12 @@
-created:1582719062239
+created:1582720021593
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7f26e8c8-f48c-49b6-adc7-0078fe7827bf
+map.base:772151f2-0059-4b56-8c6a-f4d99cd81002
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062239
+modified:1582720021593
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Considerations for Decentralized Reputation Systems/filter/edges
-tmap.id:1d1b1aef-04fa-4cd7-93f6-5bfe39d6183e
+tmap.id:d5515bd3-1ed8-4a89-bd0b-909cc41754d8
 type:text/vnd.tiddlywiki
 
 No body provided

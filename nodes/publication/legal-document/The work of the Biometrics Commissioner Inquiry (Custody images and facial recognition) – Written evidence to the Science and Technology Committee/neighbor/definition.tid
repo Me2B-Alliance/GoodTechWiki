@@ -1,17 +1,17 @@
-config.central-topic:6d64176c-5b29-4e2f-b3da-2219f854d54e
+config.central-topic:15cd9f22-4e09-4037-8642-93c80814a33a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062228
-id:9563b467-2e86-44b6-bf2e-9efdb3702680
+created:1582720021583
+id:405de41c-c91a-4b19-83c7-461bceeaa274
 isview:false
-map.base:6d64176c-5b29-4e2f-b3da-2219f854d54e
+map.base:15cd9f22-4e09-4037-8642-93c80814a33a
 map.role:definition
 map.type:neighbor
-modified:1582719062228
+modified:1582720021583
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The work of the Biometrics Commissioner Inquiry (Custody images and facial recognition) – Written evidence to the Science and Technology Committee
-tmap.id:9563b467-2e86-44b6-bf2e-9efdb3702680
+tmap.id:405de41c-c91a-4b19-83c7-461bceeaa274
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The work of the Biometrics Commissioner Inquiry (Custody images and facial recognition) – Written evidence to the Science and Technology Committee

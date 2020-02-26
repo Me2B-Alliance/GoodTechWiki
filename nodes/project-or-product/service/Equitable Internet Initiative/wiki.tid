@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[outreach]]
 audience:
 category:service
-created:1582678071970
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003597
 name:Equitable Internet Initiative
 parent.org:Allied Media Projects: Detroit Community Technology Project
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Equitable Internet Initiative
 tmap.edges:{}
-tmap.id:15bdf76a-8381-4ec7-a5bc-504575e39e4c
+tmap.id:3f39376c-b5c7-41de-95c3-09cff4b1afa4
 type:text/vnd.tiddlywiki
 url:https://alliedmedia.org/dctp/eii
 version.or.edition:
@@ -37,5 +37,4 @@ The goals of this initiative are to:
 increase Internet access through the distribution of shared Gigabit Internet connections in three underserved neighborhoods;
 increase Internet adoption through a Digital Stewards training program that prepares residents of those same neighborhoods with the skills necessary to bring their communities online; and
 increase pathways for youth into the opportunities of Detroit's burgeoning Innovation District through intermediate and advanced digital literacy trainings.
-
 

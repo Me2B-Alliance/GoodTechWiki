@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071759
+created:1582720003377
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071759
+modified:1582720003377
 org.name:Nominet
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Nominet
-tmap.edges:{"f292b9b7-0222-45a9-8f30-8349582fd0ab":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"general-member"}}
-tmap.id:64dee2e9-c896-4ee9-bb19-33ec179d1045
+tmap.edges:{"c056fdae-40e6-408a-b00f-6f5a0d238c47":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
+tmap.id:d17d88b1-27d9-4c01-8d6b-6a71ea876b1d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

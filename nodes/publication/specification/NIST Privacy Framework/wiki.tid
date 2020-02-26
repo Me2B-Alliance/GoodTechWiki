@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:NIST Privacy Framework
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:NIST Privacy Framework
 tmap.edges:{}
-tmap.id:16e39386-2831-4bf5-894c-6fe0dd1eb25b
+tmap.id:fd66ee6e-cce4-426c-a409-551a6398385f
 type:text/vnd.tiddlywiki
 url:https://www.nist.gov/privacy-framework
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 The NIST Privacy Framework is currently under development. NIST envisions that it will be a voluntary tool for organizations to better identify, assess, manage, and communicate about privacy risks so that individuals can enjoy the benefits of innovative technologies with greater confidence and trust.
 
 For more than two decades, the Internet and associated information technologies have driven unprecedented innovation, economic value, andaccess to social services. Many of these benefits are fueled by dataabout individualsthat flowthrough a complex ecosystem. As a result, individualsmay not be ableto understand the potential consequences for their privacy as theyinteract with systems, products, and services. Organizationsmay notfully realize theconsequenceseither. Failure to manage privacy riskscan have direct adverse consequences at both the individual and societal levels, with follow-on effects on organizations’ brands, bottom lines, and future prospects for growth. Finding ways to continue to derive benefits from data processingwhile simultaneously protecting individuals’ privacy ischallenging, and not well-suited to one-size-fits-all solutions.Privacy is challenging because not only is it an all-encompassingconceptthat helps to safeguard important values such as human autonomy and dignity, but also the means for achieving it can vary.3For example, privacy can be achieved through seclusion,limiting observation, orindividuals’ controlof facets of their identities(e.g.,body, data, reputation).4Moreover, human autonomy and dignity are not fixed, quantifiable constructs; they are filtered throughcultural diversityand individual differences.Thisbroad and shifting nature of privacy makesit difficult to communicateclearlyabout privacy risks within and between organizations and with individuals. What has been missing is a common languageand practical toolthat is flexible enough to address diverse privacy needs.Thisvoluntary NIST Privacy Framework: ATool for Improving Privacy throughEnterprise Risk Management (Privacy Framework) is intended to be widely usable by organizations of all sizes and agnosticto any particular technology, sector, law, or jurisdiction. Using a common approach—adaptabletoany organization’srole(s)in thedata processing ecosystem—the Privacy Framework’s purpose is tohelp organizationsmanage privacy risks by:•Taking privacy into account as they design and deploysystems, products, and servicesthat affect individuals;•Communicatingabout their privacypractices;and•Encouraging cross-organizational workforcecollaboration—for example,amongexecutives, legal, and information technology (IT)—through thedevelopment ofProfiles, selection of Tiers, and achievement of outcomes
-
 

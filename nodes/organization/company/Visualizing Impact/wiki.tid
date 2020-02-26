@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[creative]] [[publication]] [[research]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,23 +13,23 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/visualizing-impact/about/
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Visualizing Impact
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[human rights]]
 relevant.publications:
 scope:
 sector:non-profit
 status:
-tags:[object Set]
+tags:[[data visualization]] [[information design]] [[information technology]] [[data journalism]]
 tech.focus:
 tiddler.classification:node
 title:Visualizing Impact
 tmap.edges:{}
-tmap.id:308f083d-b307-404b-92c6-b91d6164d2cb
+tmap.id:c90e3cd4-7bb2-44e0-8189-fc3001b37002
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://visualizingimpact.org
@@ -39,5 +39,4 @@ website:https://visualizingimpact.org
 Our mission
 - Breaking new ground in socially aware data science, technology, and design.
 - Mainstreaming marginalized perspectives on critical social issues.
-
 

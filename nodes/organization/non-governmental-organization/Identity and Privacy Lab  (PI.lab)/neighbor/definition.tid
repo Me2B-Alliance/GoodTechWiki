@@ -1,17 +1,17 @@
-config.central-topic:0f5c067b-e730-4fe2-8d07-863b2ecc5914
+config.central-topic:9c77c020-4960-4ff8-9ea9-7d259d1b6fab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062115
-id:a99552a0-fb7c-4758-b7b7-069d15876fde
+created:1582720021470
+id:cac4c0e7-2083-49fa-bc15-8f73f1b6a93b
 isview:false
-map.base:0f5c067b-e730-4fe2-8d07-863b2ecc5914
+map.base:9c77c020-4960-4ff8-9ea9-7d259d1b6fab
 map.role:definition
 map.type:neighbor
-modified:1582719062115
+modified:1582720021470
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity and Privacy Lab  (PI.lab)
-tmap.id:a99552a0-fb7c-4758-b7b7-069d15876fde
+tmap.id:cac4c0e7-2083-49fa-bc15-8f73f1b6a93b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity and Privacy Lab  (PI.lab)

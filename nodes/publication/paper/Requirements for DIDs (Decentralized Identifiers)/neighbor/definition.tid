@@ -1,17 +1,17 @@
-config.central-topic:5153e92e-9a52-4c63-b717-04be03ee3ee1
+config.central-topic:b00e0ff1-bab9-4179-aab4-af0140092987
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062252
-id:9a9a843b-5b45-4d7d-9cbd-ed74e1466445
+created:1582720021602
+id:c64538b8-a430-4d39-87c8-526d20711bfc
 isview:false
-map.base:5153e92e-9a52-4c63-b717-04be03ee3ee1
+map.base:b00e0ff1-bab9-4179-aab4-af0140092987
 map.role:definition
 map.type:neighbor
-modified:1582719062252
+modified:1582720021602
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Requirements for DIDs (Decentralized Identifiers)
-tmap.id:9a9a843b-5b45-4d7d-9cbd-ed74e1466445
+tmap.id:c64538b8-a430-4d39-87c8-526d20711bfc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Requirements for DIDs (Decentralized Identifiers)

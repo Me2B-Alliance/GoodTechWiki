@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (service)
-created:1582678071970
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003598
 name:Preference Center Management
 parent.org:One Trust
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:Preference Center Management
 tmap.edges:{}
-tmap.id:a033d5e5-3b4c-4432-8a0e-8208753e7824
+tmap.id:cb8bc9bc-c4bd-4e2a-8aa7-8afa54e536b3
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/preference-center-management/
 version.or.edition:
 working.group:
 
 OneTrust Universal Consent & Preference Management integrates into your existing marketing and IT technologies to manage the entire consent lifecycle, from collection through withdrawal. Demonstrate accountability across various collection points, enable users to manage preferences, and centrally maintain a consent audit trail to help demonstrate accountability with regulations.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:b280f433-ee90-454a-b139-a0cf4087a155
+config.central-topic:9f8a27bc-ef25-4f9c-b438-fafb5943bd6f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062334
-id:38ee944f-e8b1-4cf5-950a-2a04a0532ed1
+created:1582720021678
+id:1cc2a0c3-4dce-4dd4-b41f-b23806a6ff77
 isview:false
-map.base:b280f433-ee90-454a-b139-a0cf4087a155
+map.base:9f8a27bc-ef25-4f9c-b438-fafb5943bd6f
 map.role:definition
 map.type:neighbor
-modified:1582719062334
+modified:1582720021678
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Identity Foundation - White Paper
-tmap.id:38ee944f-e8b1-4cf5-950a-2a04a0532ed1
+tmap.id:1cc2a0c3-4dce-4dd4-b41f-b23806a6ff77
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global Identity Foundation - White Paper

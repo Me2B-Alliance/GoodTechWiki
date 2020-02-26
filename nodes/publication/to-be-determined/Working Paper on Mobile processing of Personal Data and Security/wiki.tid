@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071739
+created:1582720003357
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071739
+modified:1582720003357
 name:Working Paper on Mobile processing of Personal Data and Security
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Working Paper on Mobile processing of Personal Data and Security
 tmap.edges:{}
-tmap.id:945a759a-86ed-413c-9d5e-14a626e20d13
+tmap.id:d5f6c550-79ca-4852-b7d8-0fa1a8d8a16d
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/886/675.41.18.pdf?1345017918
 version.or.edition:
@@ -30,5 +30,4 @@ Since that time, due to the strongly increasing dissemination and diversity of m
 The use of mobile devices is not solely limited to the maintenance of contact data and processing of calendar entries. Rather, it makes confidential and personal data in corporate databases or the use of cloud computing services easily accessible.
 The constantly increasing storage capacities of mobile devices and the ever-increasing speed of wireless networks allow mobile data processing in a way that was only possible in fixed and more secure environments in the past. The increased integration of mobile applications in conventional company IT infrastructures and processes increasingly results in confidential, personal, as well as business critical data not just being stored in the central system, but also being processed on the mobile devices. This can have a direct impact on the integrity, confidentiality and security of the data.
 Furthermore, mobile devices are being increasingly used for archiving and temporary storage of data, which entails risks of data loss or disclosure.
-
 

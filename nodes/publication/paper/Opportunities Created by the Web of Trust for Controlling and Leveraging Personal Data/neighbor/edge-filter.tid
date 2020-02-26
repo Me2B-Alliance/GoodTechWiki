@@ -1,12 +1,12 @@
-created:1582719062246
+created:1582720021600
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:60fecc42-a385-48df-a96b-d2ee20cd1d7c
+map.base:293cc98b-c2ba-4243-b598-bcc18b8b6199
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062246
+modified:1582720021600
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data/filter/edges
-tmap.id:59fe7e8f-ad8f-461d-b572-84cf14bba9b7
+tmap.id:d36f3665-dfdf-4cfb-952c-a1a7dc7bbe77
 type:text/vnd.tiddlywiki
 
 No body provided

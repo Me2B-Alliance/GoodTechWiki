@@ -1,12 +1,12 @@
-created:1582719062075
+created:1582720021427
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2ce522b8-7a2c-4d83-a132-448277623c58
+map.base:538575e7-546f-43c9-a8dd-c27eca9100eb
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062075
+modified:1582720021427
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms and Accountability Conference/filter/edges
-tmap.id:5abfc4a1-e10c-43b8-be07-c258f18972a9
+tmap.id:85908d23-d64a-4620-956e-6751ef28efbf
 type:text/vnd.tiddlywiki
 
 No body provided

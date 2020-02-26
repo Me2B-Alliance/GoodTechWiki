@@ -1,12 +1,12 @@
-created:1582719062271
+created:1582720021620
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:533654d6-eaef-4dc8-8cda-26419d73f336
+map.base:7e1e385c-6367-4922-b4ad-f5c64456802e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062271
+modified:1582720021620
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Does School Performance Data Reinforce Segregation?/filter/edges
-tmap.id:541bb214-ca38-4b59-9cd0-cf2750dcd18b
+tmap.id:54116d79-c5ac-4a86-9a89-cd11454a69f4
 type:text/vnd.tiddlywiki
 
 No body provided

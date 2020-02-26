@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071712
+created:1582720003330
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071712
+modified:1582720003330
 name:Identity Management and Privacy Technologies WG5
 parent.org:Future of Identity in the Information Society (FIDIS)
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Identity Management and Privacy Technologies WG5
-tmap.edges:{"e5822880-92d0-4d58-a7e9-becc07ac6410":{"to":"6db003c3-9539-401b-9dbe-ecd42482558d","type":"organization-for-group"}}
-tmap.id:eb088657-e65a-437c-bd79-c2d33c92a9f3
+tmap.edges:{"708830ae-87a2-42a8-9b5c-c0688345f3b9":{"to":"1dffc408-db8d-4580-ae04-400a2e5bc81e","type":"organization-for-group"}}
+tmap.id:59fcf2e9-2d06-48a1-9771-557fe8a2f5e5
 type:text/vnd.tiddlywiki
 url:
 
@@ -63,5 +63,4 @@ ITU-T SG17 Security, languages and telecommunication software
 Future of Identity in the Information Society (FIDIS)
 The International Conference of Data Protection and Privacy Commissioners
 The Open Group (IdM Forum and Jericho Forum)
-
 

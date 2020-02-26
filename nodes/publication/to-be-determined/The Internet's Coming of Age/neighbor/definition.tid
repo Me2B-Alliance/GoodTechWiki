@@ -1,17 +1,17 @@
-config.central-topic:8209d420-171f-47a8-87f7-875a5de151fe
+config.central-topic:b5180ddb-7a35-4341-90ea-62b0d7784dc3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062338
-id:64604725-485b-48dd-9f00-808818f7defb
+created:1582720021681
+id:d132e696-9401-408a-a597-5d63e4842abc
 isview:false
-map.base:8209d420-171f-47a8-87f7-875a5de151fe
+map.base:b5180ddb-7a35-4341-90ea-62b0d7784dc3
 map.role:definition
 map.type:neighbor
-modified:1582719062338
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet's Coming of Age
-tmap.id:64604725-485b-48dd-9f00-808818f7defb
+tmap.id:d132e696-9401-408a-a597-5d63e4842abc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Internet's Coming of Age

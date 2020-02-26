@@ -1,12 +1,12 @@
-created:1582719062173
+created:1582720021534
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:12048782-a218-485a-b6c8-b6e0810630c2
+map.base:f2ee8671-e712-4450-93e9-19c3377b5271
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062173
+modified:1582720021534
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kyla Reid/filter/edges
-tmap.id:4117c115-d2aa-4ee4-aa40-090df61aad83
+tmap.id:329d4871-5dd5-49a4-9b0b-3f8340abf211
 type:text/vnd.tiddlywiki
 
 No body provided

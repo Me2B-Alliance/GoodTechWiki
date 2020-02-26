@@ -1,12 +1,12 @@
-created:1582719062196
+created:1582720021552
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5d25f03d-4980-478e-a639-4d2a86e78158
+map.base:9c1a2f36-06c0-42b6-8c88-a89ff6bf4404
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062196
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/WISER Wide-Impact cyber Security Risk framework/filter/edges
-tmap.id:afb87e1b-68a9-48f4-a8cf-8619a9f63dea
+tmap.id:33c3d016-d736-4ad9-85ce-22af4b570a1b
 type:text/vnd.tiddlywiki
 
 No body provided

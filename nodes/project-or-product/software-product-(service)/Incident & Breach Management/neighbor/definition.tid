@@ -1,17 +1,17 @@
-config.central-topic:53c88927-bfc8-43e0-a59e-734d19165375
+config.central-topic:07963705-fec2-4949-b1e4-d25773b089b5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062209
-id:6c0afabb-ce80-4380-a72e-2e3a704d64b5
+created:1582720021564
+id:9bc1874b-9c95-4da3-a199-892a53a11405
 isview:false
-map.base:53c88927-bfc8-43e0-a59e-734d19165375
+map.base:07963705-fec2-4949-b1e4-d25773b089b5
 map.role:definition
 map.type:neighbor
-modified:1582719062209
+modified:1582720021564
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Incident & Breach Management
-tmap.id:6c0afabb-ce80-4380-a72e-2e3a704d64b5
+tmap.id:9bc1874b-9c95-4da3-a199-892a53a11405
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Incident & Breach Management

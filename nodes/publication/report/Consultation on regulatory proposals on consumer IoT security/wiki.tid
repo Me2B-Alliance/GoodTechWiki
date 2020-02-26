@@ -1,14 +1,14 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 input.source:me2b
-jurisdiction:[object Set]
+jurisdiction:[[uk]]
 license:
-modified:1582678071973
+modified:1582720003600
 name:Consultation on regulatory proposals on consumer IoT security
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Consultation on regulatory proposals on consumer IoT security
 tmap.edges:{}
-tmap.id:49f8c5e2-01da-4d05-90f3-07dc3979be7e
+tmap.id:423bdc93-1392-40a4-9880-5c1721c88d9c
 type:text/vnd.tiddlywiki
 url:https://www.gov.uk/government/consultations/consultation-on-regulatory-proposals-on-consumer-iot-security
 version.or.edition:
@@ -31,5 +31,4 @@ The Department for Digital, Culture, Media and Sport (DCMS) is consulting on reg
 The UK Government takes the issue of consumer IoT security very seriously. We recognise the urgent need to move the expectation away from consumers securing their own devices and instead ensure that strong cyber security is built into these products by design.
 
 Having worked with stakeholders, experts and the National Cyber Security Centre (NCSC), we are now consulting on proposals for new mandatory industry requirements to ensure consumer smart devices adhere to a basic level of security. The proposals set out in this consultation seek to better protect consumers’ privacy and online security which can be put at risk by insecure devices.
-
 

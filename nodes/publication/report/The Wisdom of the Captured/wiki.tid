@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[alex rosenblat]] [[tim hwang]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:The Wisdom of the Captured
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:The Wisdom of the Captured
 tmap.edges:{}
-tmap.id:0c177eac-f07f-440f-ac04-b59fec552ffe
+tmap.id:9e24d92f-c32c-44af-ab34-700516b1c58d
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-wisdom-of-the-captured/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 D&S researchers Alex Rosenblat and Tim Hwang analyze how widely captured data of technologies, which enable these technologies to make intelligent decisions, may negatively impact users. More broadly, how...
-
 

@@ -1,12 +1,12 @@
-created:1582719062299
-filter:[field:tmap.id[30d25911-a1ab-4eb5-aea1-9eeb75380aff]]
-map.base:30d25911-a1ab-4eb5-aea1-9eeb75380aff
+created:1582720021643
+filter:[field:tmap.id[bc67c6b7-55b3-4056-aec9-fb4f5be33a93]]
+map.base:bc67c6b7-55b3-4056-aec9-fb4f5be33a93
 map.role:node-filter
 map.type:neighbor
-modified:1582719062299
+modified:1582720021643
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Topics for consideration 2019/filter/nodes
-tmap.id:ed9817a9-f2e4-4cc9-93f9-99efa4983ba8
+tmap.id:2510e3b2-3ae5-416f-a9b3-121e2d0f84c1
 type:text/vnd.tiddlywiki
 
 No body provided

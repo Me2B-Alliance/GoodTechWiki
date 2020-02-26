@@ -1,17 +1,17 @@
-config.central-topic:60096f2d-6cda-426f-92d5-2f91a0f692e5
+config.central-topic:0f247583-343f-4580-aa2b-325f25ca6876
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062282
-id:ae97a187-8872-4dc5-9ddb-9fe3e741e1d9
+created:1582720021629
+id:de5c47a1-0125-46c2-a060-a7cca61392de
 isview:false
-map.base:60096f2d-6cda-426f-92d5-2f91a0f692e5
+map.base:0f247583-343f-4580-aa2b-325f25ca6876
 map.role:definition
 map.type:neighbor
-modified:1582719062282
+modified:1582720021629
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Library Values & Privacy in our National Digital Strategies: Field guides, Convenings, and Conversations
-tmap.id:ae97a187-8872-4dc5-9ddb-9fe3e741e1d9
+tmap.id:de5c47a1-0125-46c2-a060-a7cca61392de
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Library Values & Privacy in our National Digital Strategies: Field guides, Convenings, and Conversations

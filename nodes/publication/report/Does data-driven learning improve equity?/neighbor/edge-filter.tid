@@ -1,12 +1,12 @@
-created:1582719062272
+created:1582720021620
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5e5608ca-aaa4-4a22-a22b-337482824866
+map.base:c7bcd555-d05c-423e-b3a2-391b2a80a2af
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062272
+modified:1582720021620
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Does data-driven learning improve equity?/filter/edges
-tmap.id:86cb4323-357e-47f7-8b27-6fd3aec5dec7
+tmap.id:6cd4200c-b43b-4bdd-ad03-fe7080e0980c
 type:text/vnd.tiddlywiki
 
 No body provided

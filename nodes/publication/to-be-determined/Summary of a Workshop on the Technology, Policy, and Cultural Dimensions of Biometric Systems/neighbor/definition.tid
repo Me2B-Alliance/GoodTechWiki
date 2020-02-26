@@ -1,17 +1,17 @@
-config.central-topic:02feed32-449f-43d8-950e-9722c064a1fc
+config.central-topic:550b63a2-8b71-4715-84a9-6db691908731
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062338
-id:82708dbc-5dba-41ea-8934-95483eb730fe
+created:1582720021681
+id:98b84446-390e-42db-a06e-c80b88b9acdd
 isview:false
-map.base:02feed32-449f-43d8-950e-9722c064a1fc
+map.base:550b63a2-8b71-4715-84a9-6db691908731
 map.role:definition
 map.type:neighbor
-modified:1582719062338
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems
-tmap.id:82708dbc-5dba-41ea-8934-95483eb730fe
+tmap.id:98b84446-390e-42db-a06e-c80b88b9acdd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Summary of a Workshop on the Technology, Policy, and Cultural Dimensions of Biometric Systems

@@ -1,12 +1,12 @@
-created:1582719062152
+created:1582720021510
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:aa3629dd-6613-4496-a10d-9471efe7783e
+map.base:bfcd1c6e-021b-4946-944d-b2e58e9d444f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062152
+modified:1582720021510
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DMTF Distributed Management Task Force Inc./filter/edges
-tmap.id:af944041-8a8a-4402-9b9c-32710c06af04
+tmap.id:db4d0d83-9728-45af-9f8f-68795543657e
 type:text/vnd.tiddlywiki
 
 No body provided

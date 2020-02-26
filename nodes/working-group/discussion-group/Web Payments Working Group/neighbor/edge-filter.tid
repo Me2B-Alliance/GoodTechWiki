@@ -1,12 +1,12 @@
-created:1582719062349
+created:1582720021691
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fe006c93-7cd0-49e1-a532-a78c966dd251
+map.base:bb9a1fe4-b7af-408a-9163-1fd5eb3ae123
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062349
+modified:1582720021691
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Payments Working Group/filter/edges
-tmap.id:8b33a2d0-7ab5-49b7-a704-139666ddeef3
+tmap.id:d336ebf7-dada-4c69-aa16-81b70ff4f726
 type:text/vnd.tiddlywiki
 
 No body provided

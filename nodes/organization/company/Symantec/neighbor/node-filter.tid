@@ -1,12 +1,12 @@
-created:1582719062096
-filter:[field:tmap.id[c53ebc84-5cc0-40a1-8dc1-829242319423]]
-map.base:c53ebc84-5cc0-40a1-8dc1-829242319423
+created:1582720021452
+filter:[field:tmap.id[a1a1810a-7ba2-4849-b6e2-e7a67ca8aa1f]]
+map.base:a1a1810a-7ba2-4849-b6e2-e7a67ca8aa1f
 map.role:node-filter
 map.type:neighbor
-modified:1582719062096
+modified:1582720021452
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Symantec/filter/nodes
-tmap.id:aa380461-db07-40eb-8a70-b3d34667efa5
+tmap.id:19c53f4f-3385-4932-b4b8-517dd38160b5
 type:text/vnd.tiddlywiki
 
 No body provided

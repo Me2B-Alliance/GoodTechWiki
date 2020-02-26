@@ -1,12 +1,12 @@
-created:1582719062339
+created:1582720021682
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:92c6bee2-2739-4279-8a97-5fa12f20ebf7
+map.base:b85f3a1f-a2d6-4954-932a-7b26c03d86b8
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062339
+modified:1582720021682
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Toward Better Usability, Security, and Privacy of Information Technology/filter/edges
-tmap.id:dd4c8906-dfbc-4d0f-a044-63eba2c86beb
+tmap.id:1b886e95-1a2b-49ea-8f34-0234c5e6b714
 type:text/vnd.tiddlywiki
 
 No body provided

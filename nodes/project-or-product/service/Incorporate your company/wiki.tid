@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071969
+created:1582720003596
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003596
 name:Incorporate your company
 parent.org:iubenda
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,12 +24,11 @@ terms.of.service:
 tiddler.classification:node
 title:Incorporate your company
 tmap.edges:{}
-tmap.id:1375eb62-1c51-4fb8-a956-3fb90087d052
+tmap.id:6bfbd670-719c-496b-81d6-102db98cc3d7
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/en/srl
 version.or.edition:
 working.group:
 
 iubenda is the easiest way to incorporate a SRL company in Italy. Whether you want to be the founder of a normal SRL or a tech startup (SRL innovativa), you will receive full legal support during the whole incorporation process.
-
 

@@ -1,12 +1,12 @@
-created:1582719062131
-filter:[field:tmap.id[c35c8c20-642c-4ae1-8685-58fc276c286d]]
-map.base:c35c8c20-642c-4ae1-8685-58fc276c286d
+created:1582720021486
+filter:[field:tmap.id[bc9ad150-eb0c-4cb7-9f72-af5384f0e71d]]
+map.base:bc9ad150-eb0c-4cb7-9f72-af5384f0e71d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062131
+modified:1582720021486
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/All Tech is Human/filter/nodes
-tmap.id:e1407e77-6ced-44d0-81d4-ac4b2cca0722
+tmap.id:bf06efd5-06a9-430e-a2c1-f0152d677fd7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062196
+created:1582720021552
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5ad6390b-3dd9-4a82-ab08-9b76a44286e5
+map.base:89f30e91-8c83-4009-a8e7-b082e0eedc98
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062196
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/That One Privacy Site - VPN Comparison/filter/edges
-tmap.id:a93c7c8e-6fc8-4001-910b-4b75aba529c1
+tmap.id:4a711bca-ee8d-4d2b-9a5d-4c5e1ea84d61
 type:text/vnd.tiddlywiki
 
 No body provided

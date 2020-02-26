@@ -1,12 +1,12 @@
-created:1582719062146
+created:1582720021500
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ef621277-1cdf-4db1-a06d-b7a667ced79b
+map.base:469a88a0-3a99-4531-94c8-b7515c11aa7a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062146
+modified:1582720021500
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Association/filter/edges
-tmap.id:f6b32da6-9303-478c-a889-bf2260113694
+tmap.id:59d27f2e-4fd0-4d23-9014-5eb97ab6cd30
 type:text/vnd.tiddlywiki
 
 No body provided

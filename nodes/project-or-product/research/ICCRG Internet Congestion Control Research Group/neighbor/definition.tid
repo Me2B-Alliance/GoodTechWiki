@@ -1,17 +1,17 @@
-config.central-topic:597c49f9-3b2f-431a-8ccc-ab870d058ddd
+config.central-topic:42548326-61c0-4a18-8e16-fc8b1bc4e87d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062188
-id:1dfe0730-ee3f-479b-8f44-72fb86470f83
+created:1582720021545
+id:17f29938-872b-4833-99cb-611ccb512775
 isview:false
-map.base:597c49f9-3b2f-431a-8ccc-ab870d058ddd
+map.base:42548326-61c0-4a18-8e16-fc8b1bc4e87d
 map.role:definition
 map.type:neighbor
-modified:1582719062188
+modified:1582720021545
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICCRG Internet Congestion Control Research Group
-tmap.id:1dfe0730-ee3f-479b-8f44-72fb86470f83
+tmap.id:17f29938-872b-4833-99cb-611ccb512775
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ICCRG Internet Congestion Control Research Group

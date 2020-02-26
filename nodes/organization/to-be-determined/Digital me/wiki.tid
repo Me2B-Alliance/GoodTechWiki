@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:Digital me
 org.type:to-be-determined
 parent.org:Qiy Foundation
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Digital me
 tmap.edges:{}
-tmap.id:a2f918a5-94ab-44b6-b560-9226b4c74a47
+tmap.id:01cbb0b6-879c-460a-bcab-fa99f5718a37
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://digital-me.nl/
@@ -42,5 +42,4 @@ A highly experienced team takes care of hosting and managing the Qiy Trust Netwo
 Contact maarten.louman[a]digital-me.nl or ad.vanloon[a]digital-me.nl to learn more.
 
 Services are built on the secure Qiy Trust Network infrastructure under a license to operate from the Qiy Foundation: cross sector solutions that are in line with the European General data Protection Regulation (GDPR).
-
 

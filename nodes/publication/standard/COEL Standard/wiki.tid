@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:COEL Standard
 publication.type:standard
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:COEL Standard
 tmap.edges:{}
-tmap.id:07942d91-126c-4e6d-8128-5bed7bc7fd2a
+tmap.id:9347eb79-087e-48e5-abd3-c0c25dcd47aa
 type:text/vnd.tiddlywiki
 url:https://coelition.org/business/resources/coel-standard/
 version.or.edition:
@@ -31,5 +31,4 @@ Coelition has driven the creation of the COEL Standard to provide interoperabili
 The COEL Standard specification development is managed with the OASIS framework (www.oasis-open.org/committees/coel/). OASIS is a non-profit consortium that drives the development, convergence and adoption of open standards for the global information society.
 
 The COEL specifications provide interoperability at the data layer with a knowledge base and data model. The roles and responsibilities of all the different actors are clearly defined alongside the data flows. It sets out the minimum requirements for a safe, operational ecosystem – leaving as much room as possible for innovation and competition. Finally, it is an interface specification that only defines how data is to be exchanged.
-
 

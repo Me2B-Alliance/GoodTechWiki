@@ -1,12 +1,12 @@
-created:1582719062159
-filter:[field:tmap.id[c4a34c19-e0f6-441b-8200-e52d1bd401aa]]
-map.base:c4a34c19-e0f6-441b-8200-e52d1bd401aa
+created:1582720021518
+filter:[field:tmap.id[f7e6630d-5933-41d7-91db-7f3147785b68]]
+map.base:f7e6630d-5933-41d7-91db-7f3147785b68
 map.role:node-filter
 map.type:neighbor
-modified:1582719062159
+modified:1582720021518
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/North American Security Products Organization/filter/nodes
-tmap.id:f392816d-3026-4aee-b79b-ed64832b5f7d
+tmap.id:132873a9-54e5-4526-9562-63dc97894237
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:ae80f9d0-1d4e-4594-87ff-58c7d39915f8
+config.central-topic:140a64c0-53a1-49cf-8842-019ffba1a87a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534887
-id:c7a42a1c-6305-4736-9439-a6dbff72b427
+created:1582720021564
+id:af13eec8-e61d-4008-ae6c-5a8dd9bfc5b4
 isview:false
-map.base:ae80f9d0-1d4e-4594-87ff-58c7d39915f8
+map.base:140a64c0-53a1-49cf-8842-019ffba1a87a
 map.role:definition
 map.type:neighbor
-modified:1582714534887
+modified:1582720021564
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Iubenda Internal Privacy Management-map
-tmap.id:c7a42a1c-6305-4736-9439-a6dbff72b427
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Iubenda Internal Privacy Management
+tmap.id:af13eec8-e61d-4008-ae6c-5a8dd9bfc5b4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Iubenda Internal Privacy Management

@@ -1,17 +1,17 @@
-config.central-topic:07610c77-510c-43f9-ac4c-3617af080962
+config.central-topic:391ae97a-e237-43e2-ad16-535f3cce823a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062212
-id:de5b521a-10dd-470a-acf3-ed5d5237af7e
+created:1582720021567
+id:a3fc4357-a680-4051-9e80-10e73a213548
 isview:false
-map.base:07610c77-510c-43f9-ac4c-3617af080962
+map.base:391ae97a-e237-43e2-ad16-535f3cce823a
 map.role:definition
 map.type:neighbor
-modified:1582719062212
+modified:1582720021567
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EmanciTerms
-tmap.id:de5b521a-10dd-470a-acf3-ed5d5237af7e
+tmap.id:a3fc4357-a680-4051-9e80-10e73a213548
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EmanciTerms

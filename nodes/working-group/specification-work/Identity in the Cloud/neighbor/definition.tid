@@ -1,17 +1,17 @@
-config.central-topic:55f7ff72-40d0-4347-9038-936cf9d25296
+config.central-topic:cded4651-7bdb-4125-91ab-ddc79b5654a5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062361
-id:b9670c02-abc4-4d2f-aaca-b584fde255eb
+created:1582720021699
+id:69a33d0b-2904-4c2b-899b-523104b750cc
 isview:false
-map.base:55f7ff72-40d0-4347-9038-936cf9d25296
+map.base:cded4651-7bdb-4125-91ab-ddc79b5654a5
 map.role:definition
 map.type:neighbor
-modified:1582719062361
+modified:1582720021699
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity in the Cloud
-tmap.id:b9670c02-abc4-4d2f-aaca-b584fde255eb
+tmap.id:69a33d0b-2904-4c2b-899b-523104b750cc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity in the Cloud

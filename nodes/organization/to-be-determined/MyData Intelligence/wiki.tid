@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:MyData Intelligence
 org.type:to-be-determined
 parent.org:
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:MyData Intelligence
 tmap.edges:{}
-tmap.id:d0594f93-b0e7-485d-87c3-e5d06e102b7a
+tmap.id:1b81f311-4270-4f8c-89eb-3eaffe3ba30f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.mydata-intelligence.co.jp/
@@ -38,5 +38,4 @@ website:https://www.mydata-intelligence.co.jp/
 Create a world where "consumers" and "businesses" grow together.
 We challenge for the future.
 That's the mission of My Data Intelligence.
-
 

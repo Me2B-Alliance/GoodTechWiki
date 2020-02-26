@@ -1,17 +1,17 @@
-config.central-topic:f5358f09-530e-4519-8d6a-55cf849a1942
+config.central-topic:e06b0938-18b1-4a88-951b-65103331451b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062232
-id:e7c74a90-3ed5-42cf-8e06-cefca6402a95
+created:1582720021587
+id:a7335a4f-54e6-4c03-b037-adbd81af7960
 isview:false
-map.base:f5358f09-530e-4519-8d6a-55cf849a1942
+map.base:e06b0938-18b1-4a88-951b-65103331451b
 map.role:definition
 map.type:neighbor
-modified:1582719062232
+modified:1582720021587
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Do No Harm License
-tmap.id:e7c74a90-3ed5-42cf-8e06-cefca6402a95
+tmap.id:a7335a4f-54e6-4c03-b037-adbd81af7960
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Do No Harm License

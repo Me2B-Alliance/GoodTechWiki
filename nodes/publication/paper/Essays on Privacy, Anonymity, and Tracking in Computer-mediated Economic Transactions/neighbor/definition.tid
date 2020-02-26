@@ -1,17 +1,17 @@
-config.central-topic:22a748f7-bb8a-4d5d-8cf3-5efa7c7ec469
+config.central-topic:288e5d43-966a-4d2b-9f72-accbb9a94582
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062240
-id:a9535afc-b049-434a-a50c-1964c4bea623
+created:1582720021594
+id:2a0abf75-32ad-417e-91d9-2191a7d89663
 isview:false
-map.base:22a748f7-bb8a-4d5d-8cf3-5efa7c7ec469
+map.base:288e5d43-966a-4d2b-9f72-accbb9a94582
 map.role:definition
 map.type:neighbor
-modified:1582719062240
+modified:1582720021594
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions
-tmap.id:a9535afc-b049-434a-a50c-1964c4bea623
+tmap.id:2a0abf75-32ad-417e-91d9-2191a7d89663
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions

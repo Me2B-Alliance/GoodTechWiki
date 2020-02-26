@@ -1,17 +1,17 @@
-config.central-topic:e7c8e194-36b7-4ffa-bea0-a6c6a5cbd006
+config.central-topic:d5149eb5-54e6-429a-8f11-bfd3e0f2afdd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062280
-id:b563dca7-dc91-4e2f-93c3-e4fe35d1263b
+created:1582720021627
+id:6dc77bda-d8ce-4a02-94c7-ee82e8ade01c
 isview:false
-map.base:e7c8e194-36b7-4ffa-bea0-a6c6a5cbd006
+map.base:d5149eb5-54e6-429a-8f11-bfd3e0f2afdd
 map.role:definition
 map.type:neighbor
-modified:1582719062280
+modified:1582720021627
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How mobile communication helps refugees…and smugglers
-tmap.id:b563dca7-dc91-4e2f-93c3-e4fe35d1263b
+tmap.id:6dc77bda-d8ce-4a02-94c7-ee82e8ade01c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How mobile communication helps refugees…and smugglers

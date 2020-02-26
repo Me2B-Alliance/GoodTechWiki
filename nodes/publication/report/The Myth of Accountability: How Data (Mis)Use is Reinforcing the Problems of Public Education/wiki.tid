@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:The Myth of Accountability: How Data (Mis)Use is Reinforcing the Problems of Public Education
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[enabling connected learning]]
 tech.focus:
 tiddler.classification:node
 title:The Myth of Accountability: How Data (Mis)Use is Reinforcing the Problems of Public Education
 tmap.edges:{}
-tmap.id:6622a87d-afc3-4509-89d0-1632ce61925c
+tmap.id:b6ef5fd0-9ea7-4d92-bc4a-444ae8c9fc57
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-myth-of-accountability-how-data-misuse-is-reinforcing-the-problems-of-public-education/
 version.or.edition:
@@ -33,5 +33,4 @@ In addition to the historical context around accountability, the paper considers
 Abstract:
 
     There is an ongoing tension in the American public education system between the values of excellence, equity, and a sustained commitment to efficiency. Accountability has emerged as a framework in education reform that promises to promote and balance all three values. Yet, this frame is often contested due to disagreements over the role of incentives and penalties in achieving desirable change, and concerns that the proposed mechanisms will have significant unintended consequences that outweigh potential benefits. More fundamentally, there is widespread disagreement over how to quantify excellence and equity, if it is even possible to do so. Accountability rhetoric echoes a broader turn toward data-driven decision-making and resource allocation across sectors. As a tool of power, accountability processes shift authority and control away from professional educators and toward policymakers, bureaucrats, and test makers.
-
 

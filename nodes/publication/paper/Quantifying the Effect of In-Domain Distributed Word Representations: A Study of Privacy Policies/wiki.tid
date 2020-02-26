@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[vinayshekhar bannihatti kumar]] [[abhilasha ravichander]] [[peter story]] [[and norman sadeh]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003604
 name:Quantifying the Effect of In-Domain Distributed Word Representations: A Study of Privacy Policies
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:Quantifying the Effect of In-Domain Distributed Word Representations: A Study of Privacy Policies
 tmap.edges:{}
-tmap.id:48cf8799-4fa3-45ed-9d35-21ccc6fcd5bc
+tmap.id:5eb24063-564d-42ee-8dfd-a6ee30cd0954
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/static/files/kumar_pal_2019.pdf
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 AAAI Spring Symposium on Privacy Enhancing AI and Language Technologies (PAL 2019), Mar 2019
 
 Privacy policies are documents that describe what data is col-lected by a website or an app and how that data is handled.Privacy policies are often long and difficult to understand. Re-cently people have started to turn to Natural Language Pro-cessing (NLP) to automatically extract statements from thetext of these policies. This article reports on a study to eval-uate the benefits of using word embeddings in this endeavor.Specifically, we use 150,000 privacy policies to build wordvectors in an unsupervised manner. This includes evaluatingthe benefits of privacy specific word embeddings. Evaluationis conducted on the OPP-115 corpus of privacy policy anno-tations. By building privacy-specific embeddings we hope toaccelerate research at the intersection of privacy policies andlanguage technologies.
-
 

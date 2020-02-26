@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071724
+created:1582720003342
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071724
+modified:1582720003342
 name:Information technology – Personal identification – ISO- compliant driving license (18013)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Information technology – Personal identification – ISO- compliant driving license (18013)
-tmap.edges:{"2b3a5d23-207a-4339-81ae-9daff6166cf3":{"to":"df00d798-ebdd-4501-841b-80529897e1c1","type":"specification-of-group"}}
-tmap.id:63861f21-d875-4b26-a3d3-3047e55e4325
+tmap.edges:{"3576bbdc-d436-4b42-93ee-b0050af830a1":{"to":"cef2b421-f0b7-4220-9342-d0365dd84b1c","type":"specification-of-group"}}
+tmap.id:cc3658f3-7498-407a-8667-50f29cb0a8db
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -72,5 +72,4 @@ This Part of ISO/IEC 18013:
 (c) Data integrity validation (i.e. confirming that the data was not changed since issuing).
 
 This Part of ISO/IEC 18013 does not address issues related to the subsequent use of data obtained from the IDL, e.g. privacy issues.
-
 

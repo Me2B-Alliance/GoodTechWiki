@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071747
+created:1582720003365
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071747
+modified:1582720003365
 org.name:Information Commissioner’s Office
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Information Commissioner’s Office
-tmap.edges:{"93287457-4ea7-4831-af59-405ed4e12000":{"to":"44c29713-c4a0-496c-b375-9bb57d7bd8cd","type":"general-member"},"a297d34e-7115-43fc-a6de-3e5a19d57d24":{"to":"1d79a609-fac6-46b3-adfa-0ecc744e8ac7","type":"government-connection"}}
-tmap.id:c3c0233b-6224-479f-bb57-541f2fc7e5c1
+tmap.edges:{"0a7c3c81-a8a2-4de4-aec0-0b6a4ff468d3":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"},"65316cad-0174-4e6d-86a9-a22cf07ba732":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"}}
+tmap.id:5d3d3e23-9651-434c-83a5-32f34d005a5d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ico.org.uk
@@ -36,5 +36,4 @@ website:https://ico.org.uk
 The UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.
 
 The ICO is an independent public body and the Department for Media, Culture and Sport is the ICO’s sponsoring department within Government.
-
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071966
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071966
+modified:1582720003592
 org.name:The Usable Privacy Policy Project
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The Usable Privacy Policy Project
-tmap.edges:{"38189eb6-eb6e-45cf-b5c1-37b089449095":{"to":"9361f4c2-bbe8-4725-8387-d6d806719502","type":"Organization Supports Project or Product"}}
-tmap.id:f4cd342f-10f7-401a-a9a9-4e39d487fa48
+tmap.edges:{"d357305f-46a7-4301-bbba-a53665fd4f78":{"to":"ab792e82-aea5-458c-884e-5bc85f88c6b5","type":"Organization Supports Project or Product"}}
+tmap.id:1755486f-ca4a-4937-9fb9-3a9b61580cc3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://usableprivacy.org/
@@ -38,5 +38,4 @@ The Usable Privacy Policy Project
 Towards Effective Web Privacy Notice and Choice
 
 Natural language privacy policies have become a de facto standard to address expectations of “notice and choice” on the Web. Yet, there is ample evidence that users generally do not read these policies and that those who occasionally do struggle to understand what they read. Initiatives aimed at addressing this problem through the development of machine implementable standards or other solutions that require website operators to adhere to more stringent requirements have run into obstacles, with many website operators showing reluctance to commit to anything more than what they currently do.
-
 

@@ -1,12 +1,12 @@
-created:1582719062277
+created:1582720021623
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad0d5661-fa25-4d04-bae5-92ff5d54d356
+map.base:2c082288-8b13-465e-a082-71d8b95bd3c2
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062277
+modified:1582720021623
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Trending: It’s made of people!! (but we should have already known that)/filter/edges
-tmap.id:1d7c25b7-b1ce-44bb-84b3-f1f370571007
+tmap.id:fd58201c-178d-4067-a7a2-1aac2e20ea3c
 type:text/vnd.tiddlywiki
 
 No body provided

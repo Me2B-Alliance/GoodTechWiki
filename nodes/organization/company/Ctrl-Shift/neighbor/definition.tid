@@ -1,17 +1,17 @@
-config.central-topic:b18b9e20-76fa-498e-8c2e-e0cd22b173a5
+config.central-topic:014ef10f-24bd-434a-9aeb-d53a2c3e34c5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062085
-id:fed8ef58-5460-4dd3-a51d-13be1686e4da
+created:1582720021437
+id:831e2950-2139-4c44-98d7-86614795bc7a
 isview:false
-map.base:b18b9e20-76fa-498e-8c2e-e0cd22b173a5
+map.base:014ef10f-24bd-434a-9aeb-d53a2c3e34c5
 map.role:definition
 map.type:neighbor
-modified:1582719062085
+modified:1582720021437
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ctrl-Shift
-tmap.id:fed8ef58-5460-4dd3-a51d-13be1686e4da
+tmap.id:831e2950-2139-4c44-98d7-86614795bc7a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Ctrl-Shift

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:ISO/IEC Guide 37
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[consumer standards resources]]
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC Guide 37
 tmap.edges:{}
-tmap.id:7c5b87a6-44d4-4697-9a20-1a7f09c5f00a
+tmap.id:e2747a81-a49f-422c-8e38-4f3fefd965ab
 type:text/vnd.tiddlywiki
 url:https://www.iso.org/standard/39881.html
 version.or.edition:
@@ -39,5 +39,4 @@ ISO/IEC Guide 37:2012 is intended to be used by the following:
 The principles and detailed recommendations in ISO/IEC Guide 37:2012 are intended to be applied in combination with the specific requirements on instructions for use specified in standards for particular products or groups of products. Some model formats and wordings are suggested for inclusion in standards.
 
 ISO/IEC Guide 37:2012 contains some practical recommendations and a proposed methodology for assessment, in order to help establish common criteria for the assessment of the quality of instructions for use.
-
 

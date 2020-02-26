@@ -1,12 +1,12 @@
-created:1582719062282
+created:1582720021629
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:60096f2d-6cda-426f-92d5-2f91a0f692e5
+map.base:0f247583-343f-4580-aa2b-325f25ca6876
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062282
+modified:1582720021629
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Library Values & Privacy in our National Digital Strategies: Field guides, Convenings, and Conversations/filter/edges
-tmap.id:ecc3d585-dd7a-48a4-b459-b4ef602c6941
+tmap.id:c61d2794-6661-42ac-9c93-8ab96c0d5efc
 type:text/vnd.tiddlywiki
 
 No body provided

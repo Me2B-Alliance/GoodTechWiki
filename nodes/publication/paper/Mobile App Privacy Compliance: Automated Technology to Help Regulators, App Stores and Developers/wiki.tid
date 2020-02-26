@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071977
+authors.editors:[[s. zimmeck]] [[z. wang]] [[l. zou]] [[r. iyengar]] [[b. liu]] [[f. schaub]] [[s. wilson]] [[n. sadeh]] [[s.m. bellovin]] [[j.r. reidenberg]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Mobile App Privacy Compliance: Automated Technology to Help Regulators, App Stores and Developers
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:Mobile App Privacy Compliance: Automated Technology to Help Regulators, App Stores and Developers
 tmap.edges:{}
-tmap.id:9b002c01-0d5a-4be3-b279-a31ec281a0dd
+tmap.id:7d711ce2-87cd-4abf-8eb4-09adb0973c79
 type:text/vnd.tiddlywiki
 url:https://www.usenix.org/sites/default/files/soups17_poster-zimmeck.pdf
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 SOUPS ’17: Symposium on Usable Privacy and Security, USENIX, Jul 2017 Poster
 
 Mobile apps have to satisfy various privacy requirements.Notably, app publishers are often obligated to provide a pri-vacy policy and notify users of their apps’ privacy practices.But how can a user tell whether an app behaves as its policypromises? In this study we are introducing a scalable systemto analyze and predict Android apps’ compliance with pri-vacy requirements. We report on our collaboration with threeregulatory agencies. We present analysis results for 17,991apps. We expect to soon be able to support app store-wideanalysis (i.e., over a million apps) and to track changes innon-compliant behavior over time. Beyond its use by regu-lators and activists our technology is also intended to assistapp developers and app store owners in their internal as-sessments of privacy requirement compliance
-
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003362
 date.ended:2020-12-31
 date.founded:2016-01-01
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003362
 org.name:ISA2 Interoperability Solutions for European Public Administrators
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ISA2 Interoperability Solutions for European Public Administrators
-tmap.edges:{"dc140a75-3bdb-4cbc-bd28-230503382527":{"to":"40b600d5-473f-4662-9160-5c01a6a26b8d","type":"author"},"cbb7e41d-ee5f-445d-8e34-b89e3371b096":{"to":"d876917e-c001-4246-978b-6bd5257f769f","type":"government-connection"},"6e5e2066-1191-4994-a679-8711d070ba62":{"to":"df2dc07f-38a6-46ec-b9bd-f324e2d17bb9","type":"government-connection"}}
-tmap.id:db2bf9c7-91d4-4bcc-99fb-3f79bc69702a
+tmap.edges:{"833ff16b-370d-44cb-b775-647f7941cc61":{"to":"dd12116e-5a24-44b6-bac9-c9267bacd61f","type":"author"},"577f6585-1bb9-44bd-9673-95a83edd94a9":{"to":"45e4d5d0-940c-4e01-8ef0-f9716f7b493f","type":"government-connection"},"01812c49-78f5-43b6-97d1-89e401ac023b":{"to":"574ff357-92dc-4123-99f4-e2054f90bac6","type":"government-connection"}}
+tmap.id:59fca2d0-e92d-4bbd-b079-c424d5f9b46a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://ec.europa.eu/isa/isa2/index_en.htm
@@ -38,5 +38,4 @@ The ISA² programme supports the development of digital solutions that enable pu
 Solutions developed by ISA² and under its predecessor ISA are generally available for free and can be found here.
 
 ISA² will run from 1 January 2016 until 31 December 2020. The programme was adopted in November 2015 by the European Parliament and the Council of European Union. To celebrate this, a conference 'From ISA to ISA²' was held on 3 March 2016 in the presence of Commission Vice-President Ansip and Commissioner Oettinger.
-
 

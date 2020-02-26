@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/digime
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/digime/
-location(s):[object Set]
-me2b.relationship:[object Set]
-modified:1582678071965
+location(s):[[england]] [[farnham]] [[surrey]]
+me2b.relationship:[[certification candidate]]
+modified:1582720003592
 org.name:Digi.me
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[ecosystem building]]
 relevant.publications:
 scope:
 sector:for-profit
@@ -29,13 +29,12 @@ tech.focus:Data storage: information sharing control: personal data driven apps
 tiddler.classification:node
 title:Digi.me
 tmap.edges:{}
-tmap.id:d7144011-9e62-407a-9e63-fba5fd0e55ea
+tmap.id:e877cf4c-3b24-4741-9a8c-c77f192dca34
 twitter.profile:https://twitter.com/digime
 type:text/vnd.tiddlywiki
 website:http://www.Digi.me
 
 Digi.me and Personal  which merged in 2017 have been widely recognised since 2009 for pioneering individual control over data while enhancing privacy and security. Our distributed user-centric architecture shifts power to individuals by making it easy for people to aggregate their own data and privately share with apps and companies that play by these new rules.
-
 
 
 

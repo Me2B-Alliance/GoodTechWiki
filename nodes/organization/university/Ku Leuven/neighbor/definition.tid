@@ -1,17 +1,17 @@
-config.central-topic:ed13cc73-c161-4c04-8e12-d8ac26093872
+config.central-topic:a5e1d451-5d38-4e73-bd17-85e1ef23a042
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062167
-id:49522408-eb3c-42ea-b775-61eaa6c61cbe
+created:1582720021526
+id:a0715c32-b0ca-45c7-8883-a385c9426e1e
 isview:false
-map.base:ed13cc73-c161-4c04-8e12-d8ac26093872
+map.base:a5e1d451-5d38-4e73-bd17-85e1ef23a042
 map.role:definition
 map.type:neighbor
-modified:1582719062167
+modified:1582720021526
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ku Leuven
-tmap.id:49522408-eb3c-42ea-b775-61eaa6c61cbe
+tmap.id:a0715c32-b0ca-45c7-8883-a385c9426e1e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Ku Leuven

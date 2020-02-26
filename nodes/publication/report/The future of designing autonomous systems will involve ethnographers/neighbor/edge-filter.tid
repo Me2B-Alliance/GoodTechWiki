@@ -1,12 +1,12 @@
-created:1582719062299
+created:1582720021643
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:70f20f51-9c2b-466d-a283-2832aae1d457
+map.base:fff2246e-e49d-4b6b-88c6-e7d51508e6a2
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062299
+modified:1582720021643
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The future of designing autonomous systems will involve ethnographers/filter/edges
-tmap.id:0c35ac3a-d37b-4ab0-bcfa-06bc454d7599
+tmap.id:8fa767ea-18a3-44ff-abae-56fbe395e8dd
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062219
+created:1582720021577
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:18dade3d-f026-44ff-a160-d652cf0a0401
+map.base:299aaf85-001f-408f-b288-de08b1190e7e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062219
+modified:1582720021577
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Safe Face Pledge/filter/edges
-tmap.id:bda7a3c4-ed28-4fd7-8cb7-a37c059628bf
+tmap.id:841b292b-d3bf-4224-94ea-81a39562d576
 type:text/vnd.tiddlywiki
 
 No body provided

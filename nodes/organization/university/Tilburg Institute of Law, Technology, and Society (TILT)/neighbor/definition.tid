@@ -1,17 +1,17 @@
-config.central-topic:0894757e-ab0d-47f6-9057-2545f6414ea4
+config.central-topic:f1dd16b5-6c80-45e0-a3ff-8f74840d3e03
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062167
-id:645ab536-13c4-4301-b879-b9919a739ae2
+created:1582720021527
+id:837561ae-be68-472e-9ce8-61d51af5b079
 isview:false
-map.base:0894757e-ab0d-47f6-9057-2545f6414ea4
+map.base:f1dd16b5-6c80-45e0-a3ff-8f74840d3e03
 map.role:definition
 map.type:neighbor
-modified:1582719062167
+modified:1582720021527
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tilburg Institute of Law, Technology, and Society (TILT)
-tmap.id:645ab536-13c4-4301-b879-b9919a739ae2
+tmap.id:837561ae-be68-472e-9ce8-61d51af5b079
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tilburg Institute of Law, Technology, and Society (TILT)

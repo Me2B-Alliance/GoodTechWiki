@@ -1,17 +1,17 @@
-config.central-topic:c53ebc84-5cc0-40a1-8dc1-829242319423
+config.central-topic:a1a1810a-7ba2-4849-b6e2-e7a67ca8aa1f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062096
-id:0ece1b36-610c-41fa-a69e-504e7b116054
+created:1582720021452
+id:9a4787d0-a099-46b7-a8c2-41b3b2af97bf
 isview:false
-map.base:c53ebc84-5cc0-40a1-8dc1-829242319423
+map.base:a1a1810a-7ba2-4849-b6e2-e7a67ca8aa1f
 map.role:definition
 map.type:neighbor
-modified:1582719062096
+modified:1582720021452
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Symantec
-tmap.id:0ece1b36-610c-41fa-a69e-504e7b116054
+tmap.id:9a4787d0-a099-46b7-a8c2-41b3b2af97bf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Symantec

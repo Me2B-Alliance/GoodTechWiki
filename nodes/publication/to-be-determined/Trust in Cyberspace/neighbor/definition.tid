@@ -1,17 +1,17 @@
-config.central-topic:0e120250-507a-46a7-84db-a6b2938d1dae
+config.central-topic:9958ca3f-9c49-4dfa-907c-853dfad0614d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062339
-id:71d584c3-8287-4c57-933f-92f4f17e84f8
+created:1582720021682
+id:f5f390c8-16f2-436e-bf03-8463befbbd55
 isview:false
-map.base:0e120250-507a-46a7-84db-a6b2938d1dae
+map.base:9958ca3f-9c49-4dfa-907c-853dfad0614d
 map.role:definition
 map.type:neighbor
-modified:1582719062339
+modified:1582720021682
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Cyberspace
-tmap.id:71d584c3-8287-4c57-933f-92f4f17e84f8
+tmap.id:f5f390c8-16f2-436e-bf03-8463befbbd55
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trust in Cyberspace

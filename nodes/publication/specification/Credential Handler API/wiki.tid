@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003605
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003605
 name:Credential Handler API
 publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[community specifications]]
 tech.focus:
 tiddler.classification:node
 title:Credential Handler API
 tmap.edges:{}
-tmap.id:f9a679b7-d8bb-427b-9640-4927d6287763
+tmap.id:78dc6884-44e5-49e4-9d3f-041a1232a623
 type:text/vnd.tiddlywiki
 url:https://github.com/digitalbazaar/credential-handler-polyfill
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
  By clicking 'Accept' on page load, you have registered this page with your browser, and now it can act as a test wallet.
 
 You can now test the Credential Handler API by requesting to be issued a credential, below.
-
 

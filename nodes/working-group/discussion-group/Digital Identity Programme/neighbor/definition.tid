@@ -1,17 +1,17 @@
-config.central-topic:fe8ed7b6-3443-49cf-95d5-047e74f7fb5c
+config.central-topic:6d495d57-f476-4f1e-ab53-347c70464af4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062348
-id:186e77e2-50e4-4fee-9a52-a1e14443de5d
+created:1582720021690
+id:b14f4399-24e8-4b10-908c-975eaf79313b
 isview:false
-map.base:fe8ed7b6-3443-49cf-95d5-047e74f7fb5c
+map.base:6d495d57-f476-4f1e-ab53-347c70464af4
 map.role:definition
 map.type:neighbor
-modified:1582719062348
+modified:1582720021690
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Identity Programme
-tmap.id:186e77e2-50e4-4fee-9a52-a1e14443de5d
+tmap.id:b14f4399-24e8-4b10-908c-975eaf79313b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Identity Programme

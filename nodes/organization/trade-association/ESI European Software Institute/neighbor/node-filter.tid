@@ -1,12 +1,12 @@
-created:1582719062152
-filter:[field:tmap.id[ebce1648-634f-4359-99ec-47a91decd56b]]
-map.base:ebce1648-634f-4359-99ec-47a91decd56b
+created:1582720021510
+filter:[field:tmap.id[08531f2c-f286-4dbb-a297-9549bed7dd85]]
+map.base:08531f2c-f286-4dbb-a297-9549bed7dd85
 map.role:node-filter
 map.type:neighbor
-modified:1582719062152
+modified:1582720021510
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESI European Software Institute/filter/nodes
-tmap.id:09443ff5-a415-4fea-b020-c8865c6de390
+tmap.id:002b905f-a0dc-464f-b32a-ab5503c08a10
 type:text/vnd.tiddlywiki
 
 No body provided

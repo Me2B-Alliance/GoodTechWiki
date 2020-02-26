@@ -1,17 +1,17 @@
-config.central-topic:c2215f6e-b966-48f4-92a6-23e5f4a45185
+config.central-topic:dff1eac7-b041-4e7c-9e01-9797527b5e3e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062226
-id:b6aa4cf7-c63f-45f8-8bbc-99576a360610
+created:1582720021581
+id:06e05caa-3318-483a-86be-40c02ae166dc
 isview:false
-map.base:c2215f6e-b966-48f4-92a6-23e5f4a45185
+map.base:dff1eac7-b041-4e7c-9e01-9797527b5e3e
 map.role:definition
 map.type:neighbor
-modified:1582719062226
+modified:1582720021581
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Investigatory Powers Bill – MP Briefing
-tmap.id:b6aa4cf7-c63f-45f8-8bbc-99576a360610
+tmap.id:06e05caa-3318-483a-86be-40c02ae166dc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Investigatory Powers Bill – MP Briefing

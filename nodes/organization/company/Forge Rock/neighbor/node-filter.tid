@@ -1,12 +1,12 @@
-created:1582719062089
-filter:[field:tmap.id[b7a4799b-f41e-4195-aaea-5f9ec07cdc54]]
-map.base:b7a4799b-f41e-4195-aaea-5f9ec07cdc54
+created:1582720021439
+filter:[field:tmap.id[f9d60f0a-350d-4132-8076-3864d968058c]]
+map.base:f9d60f0a-350d-4132-8076-3864d968058c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062089
+modified:1582720021439
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Forge Rock/filter/nodes
-tmap.id:89df7b05-0872-442f-961f-e2531007ba4b
+tmap.id:109bd0ef-a604-483b-bbcd-92e187cc9728
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[mary madden]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Need medical help? Sorry, not until you sign away your privacy.
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[health and data]]
 tech.focus:
 tiddler.classification:node
 title:Need medical help? Sorry, not until you sign away your privacy.
 tmap.edges:{}
-tmap.id:e8fede28-ebaf-4e3d-bbc4-a72949b6b28e
+tmap.id:b575b963-bc2f-4843-944a-3b68e6eee8fa
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/need-medical-help-sorry-not-until-you-sign-away-your-privacy/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Data & Society Health + Data Lead Mary Madden considers what patient privacy means in the current age of technology. “In the era of data-driven medicine, systems for handling...
-
 

@@ -1,12 +1,12 @@
-created:1582719062108
-filter:[field:tmap.id[5029267c-4b84-43f6-89aa-5df3e84637e7]]
-map.base:5029267c-4b84-43f6-89aa-5df3e84637e7
+created:1582720021463
+filter:[field:tmap.id[60a43061-1ed0-45ac-9c62-cfabaed4d685]]
+map.base:60a43061-1ed0-45ac-9c62-cfabaed4d685
 map.role:node-filter
 map.type:neighbor
-modified:1582719062108
+modified:1582720021463
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CAPrice (Collective Awareness Platform for Privacy Concerns and Expectations)/filter/nodes
-tmap.id:e8aec301-07b4-411f-ab15-836bf77364b4
+tmap.id:9de149ad-00ed-4d13-8fff-9b6f6f0229ad
 type:text/vnd.tiddlywiki
 
 No body provided

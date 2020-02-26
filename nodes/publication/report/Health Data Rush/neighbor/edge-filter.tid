@@ -1,12 +1,12 @@
-created:1582719062278
+created:1582720021626
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:956cbb1f-175d-4d88-8d77-cdbaee48076e
+map.base:a3af6cad-f6eb-4e79-a205-b6ecc4195aba
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062278
+modified:1582720021626
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Data Rush/filter/edges
-tmap.id:fdfe9c94-ec8e-494f-a7ae-91be848c4c37
+tmap.id:8d16bdd8-0356-4c79-b47d-2cae9d20e0fd
 type:text/vnd.tiddlywiki
 
 No body provided

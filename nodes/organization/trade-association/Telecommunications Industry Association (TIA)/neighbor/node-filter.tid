@@ -1,12 +1,12 @@
-created:1582719062163
-filter:[field:tmap.id[d6480c3e-b8c9-4595-8fc2-de853b54a573]]
-map.base:d6480c3e-b8c9-4595-8fc2-de853b54a573
+created:1582720021528
+filter:[field:tmap.id[901b212c-00e3-4983-9884-6e0377e73af6]]
+map.base:901b212c-00e3-4983-9884-6e0377e73af6
 map.role:node-filter
 map.type:neighbor
-modified:1582719062163
+modified:1582720021528
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Telecommunications Industry Association (TIA)/filter/nodes
-tmap.id:11dbcc96-9305-430d-afe5-a13b7ca607e4
+tmap.id:684684ce-6846-470c-8732-b09951141cc9
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062369
+created:1582720021707
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6526e1c8-b5fa-4fd6-bda0-020a55d23817
+map.base:2cf37893-2265-4cbe-88a0-50a58588b8bf
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062369
+modified:1582720021707
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/mef trust working group/filter/edges
-tmap.id:6f7cc729-67e0-4d60-b27b-48dce567e9db
+tmap.id:04c42628-62c3-4ed4-9dd9-ac45ec9c0c36
 type:text/vnd.tiddlywiki
 
 No body provided

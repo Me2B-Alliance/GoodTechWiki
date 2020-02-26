@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Classification of Everyday Living V1.0 COEL
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Classification of Everyday Living V1.0 COEL
 tmap.edges:{}
-tmap.id:a076154e-9964-4263-bccf-9b577e0a9f0e
+tmap.id:227314bb-c739-492d-9157-24bbb9c7f631
 type:text/vnd.tiddlywiki
 url:http://docs.oasis-open.org/coel/COEL/v1.0/cs02/COEL-v1.0-cs02.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 COEL is a hierarchical taxonomy of everyday human life events. It provides a privacy-by-design framework for collecting and processing behavioral data that is uniquely suited to the transparent use of dynamic data for personalized digital services: IoT applications where devices are collecting information about identifiable individuals: and the coding of behavioral data in identity solutions.
-
 

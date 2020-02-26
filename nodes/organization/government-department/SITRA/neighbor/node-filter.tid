@@ -1,12 +1,12 @@
-created:1582719062107
-filter:[field:tmap.id[faba690e-c36a-4cb8-a0e2-05b7d41cb525]]
-map.base:faba690e-c36a-4cb8-a0e2-05b7d41cb525
+created:1582720021462
+filter:[field:tmap.id[f99fb8c4-5cfc-4849-9783-95c4476bc1df]]
+map.base:f99fb8c4-5cfc-4849-9783-95c4476bc1df
 map.role:node-filter
 map.type:neighbor
-modified:1582719062107
+modified:1582720021462
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SITRA/filter/nodes
-tmap.id:8541c4bb-1cff-4809-add4-023c7eaa88eb
+tmap.id:bac53a5f-ed45-41fe-8a85-5cf28f85f604
 type:text/vnd.tiddlywiki
 
 No body provided

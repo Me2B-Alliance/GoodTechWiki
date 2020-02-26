@@ -1,12 +1,12 @@
-created:1582719062281
+created:1582720021630
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c41f2efc-a5c4-4c01-b868-d19c0f4bae7e
+map.base:ea97fba2-6e40-4831-b1c0-cd0090da1248
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062281
+modified:1582720021630
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keynote speech IAPP/filter/edges
-tmap.id:e95586eb-4669-489c-88f0-5b93d31e976e
+tmap.id:61948108-549c-4f08-948c-461b0000e3eb
 type:text/vnd.tiddlywiki
 
 No body provided

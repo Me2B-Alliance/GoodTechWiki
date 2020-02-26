@@ -1,12 +1,12 @@
-created:1582719062296
-filter:[field:tmap.id[d12bdaca-1423-4f80-9e0d-b4ab6ccba499]]
-map.base:d12bdaca-1423-4f80-9e0d-b4ab6ccba499
+created:1582720021641
+filter:[field:tmap.id[547c371b-2d3a-47d5-b3c3-a409138ca23e]]
+map.base:547c371b-2d3a-47d5-b3c3-a409138ca23e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062296
+modified:1582720021641
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Legacy of inBloom/filter/nodes
-tmap.id:ca712d3e-543f-433d-b4ff-7a8c7c06822a
+tmap.id:01ae3c3c-306b-459d-bb0a-96dc4d90a2ce
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071753
+created:1582720003371
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071753
+modified:1582720003371
 org.name:Linux Foundation
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Linux Foundation
-tmap.edges:{"bb9a5502-91e2-4c68-9ac1-50c13c735cf1":{"to":"60a563f8-6344-4c3d-96e2-ee484f64560d","type":"default"},"93b2a5b5-5e41-4f21-aa43-9fd567697b93":{"to":"f02370c9-a900-4798-884e-15d89f176347","type":"default"}}
-tmap.id:a81b2de5-e81c-447b-adb3-d0d017241bc4
+tmap.edges:{"af624d5a-0b45-4c69-ad91-f9396db9171a":{"to":"154a008d-b01e-44ac-b847-91b993ce64e5","type":"default"},"58eef888-6c14-45d6-8efc-56df10a37296":{"to":"8b3f2f87-0cab-44d6-abac-7dabe60c3b2b","type":"default"}}
+tmap.id:1ad28f35-6dea-47b0-8528-a881e94f72f6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.linuxfoundation.org/projects
-
 
 
 

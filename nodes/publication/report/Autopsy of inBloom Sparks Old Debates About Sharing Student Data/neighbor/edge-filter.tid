@@ -1,12 +1,12 @@
-created:1582719062264
+created:1582720021611
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:aae5d14e-560c-4162-bf3d-9c8d10391b63
+map.base:7ee6f084-672b-4717-a5ac-81448dc74689
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062264
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Autopsy of inBloom Sparks Old Debates About Sharing Student Data/filter/edges
-tmap.id:8173e453-c6b9-44f0-80f1-7b6f92b24b98
+tmap.id:8ae3d321-c4e5-4baa-b4b6-7dfb2aadf5d3
 type:text/vnd.tiddlywiki
 
 No body provided

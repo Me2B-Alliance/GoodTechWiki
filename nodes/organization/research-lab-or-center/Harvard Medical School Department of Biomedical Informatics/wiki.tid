@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003362
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003362
 org.name:Harvard Medical School Department of Biomedical Informatics
 org.type:research lab or center
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Harvard Medical School Department of Biomedical Informatics
-tmap.edges:{"e4eef520-2c16-4a8b-aca7-b695a766a3bf":{"to":"bf7a9e34-ee07-497a-83ad-6737c87bc1fb","type":"organization-for-group"}}
-tmap.id:dbce0429-a901-47c3-8240-2821614503dd
+tmap.edges:{"71f32ace-8afa-4817-818b-7f3849868ffe":{"to":"b415507b-0abc-46c3-9372-b46d72054260","type":"organization-for-group"}}
+tmap.id:3548c8a0-8923-4f6f-b8b2-18e308a68e29
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

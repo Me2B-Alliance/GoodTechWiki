@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:The Common Data Project
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:The Common Data Project
 tmap.edges:{}
-tmap.id:0b98a7d8-57cd-498a-82d8-57125aaa5cbc
+tmap.id:63ca5657-5d66-4286-aa7a-3d714468f2aa
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.commondataproject.org/
@@ -47,5 +47,4 @@ What should we do? Democratize access.
 Some people see this is a problem of privacy. They've advocated giving users more control over how their data is shared, or argued for barring reuses of data.
 
 But we see this as a problem of power and access. Privacy is definitely a central issue, which is why we've worked hard on developing a measurable privacy guarantee. But we think that by focusing only on radio controls or restricting reuse, we are risking the loss of innovation. The solution is not to shut down data collection, but to democratize access to data in a way that is safe and responsible through the creation of a datatrust.LEARN MORE
-
 

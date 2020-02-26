@@ -1,12 +1,12 @@
-created:1582719062156
-filter:[field:tmap.id[24bb370e-2d62-4013-b341-2916f774b2c2]]
-map.base:24bb370e-2d62-4013-b341-2916f774b2c2
+created:1582720021515
+filter:[field:tmap.id[f8622f74-189e-41ab-8235-3222c367589e]]
+map.base:f8622f74-189e-41ab-8235-3222c367589e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062156
+modified:1582720021515
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Electrotechnical Commission (IEC)/filter/nodes
-tmap.id:abc7b16a-e426-48f2-bf2a-d6073ee7d79a
+tmap.id:7f432153-5596-4fd9-b1fa-337d6bf6a097
 type:text/vnd.tiddlywiki
 
 No body provided

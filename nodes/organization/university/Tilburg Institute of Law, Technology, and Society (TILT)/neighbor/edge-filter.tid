@@ -1,12 +1,12 @@
-created:1582719062167
+created:1582720021527
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0894757e-ab0d-47f6-9057-2545f6414ea4
+map.base:f1dd16b5-6c80-45e0-a3ff-8f74840d3e03
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062167
+modified:1582720021527
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tilburg Institute of Law, Technology, and Society (TILT)/filter/edges
-tmap.id:ce69a684-240e-4a0b-8981-746a6b9ff0bf
+tmap.id:431f87f7-3c7f-4d3c-abee-86548319917e
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062154
+created:1582720021512
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:25361e13-ae48-4cba-96e4-d0db285e1da9
+map.base:bdfb3b59-870b-403f-b2dd-12578c7d4705
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062154
+modified:1582720021512
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA(organization/trade association) (trade association)/filter/edges
-tmap.id:70679f02-d59b-4de9-b51e-a7ed56ab4bb8
+tmap.id:e94d1a34-f07e-43f9-90aa-3af2cd73425f
 type:text/vnd.tiddlywiki
 
 No body provided

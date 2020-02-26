@@ -1,6 +1,6 @@
 audience:
 category:TO BE DETERMINED
-created:1582678071968
+created:1582720003596
 date:
 element.type:event
 frequency:
@@ -8,16 +8,16 @@ github.profile:
 host.organization:Governing Algorithms
 input.source:me2b
 location(s):
-modified:1582678071968
+modified:1582720003596
 name:Governing Algorithms A conference on computation: automation: and control
 partners:
 people:
 relevant.publications:
-tags:[object Set]
+tags:[[publications]] [[parent]]
 tiddler.classification:node
 title:Governing Algorithms A conference on computation: automation: and control
 tmap.edges:{}
-tmap.id:86c3fef8-5016-4b4c-8663-b1efc93b835a
+tmap.id:10a900d3-b8ec-46c3-ba19-8f8eb7058b31
 type:text/vnd.tiddlywiki
 website:https://governingalgorithms.org/
 working.group:
@@ -35,5 +35,4 @@ This conference sets out to explore the recent rise of algorithms as an object o
     rules and regulations surrounding development and implementation
 
 The conference is over now, but you can still sign up for the Mailing list and enjoy the various Resources we assembled.
-
 

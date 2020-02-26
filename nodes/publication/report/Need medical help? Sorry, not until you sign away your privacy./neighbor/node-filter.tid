@@ -1,12 +1,12 @@
-created:1582719062286
-filter:[field:tmap.id[e8fede28-ebaf-4e3d-bbc4-a72949b6b28e]]
-map.base:e8fede28-ebaf-4e3d-bbc4-a72949b6b28e
+created:1582720021632
+filter:[field:tmap.id[b575b963-bc2f-4843-944a-3b68e6eee8fa]]
+map.base:b575b963-bc2f-4843-944a-3b68e6eee8fa
 map.role:node-filter
 map.type:neighbor
-modified:1582719062286
+modified:1582720021632
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Need medical help? Sorry, not until you sign away your privacy./filter/nodes
-tmap.id:25190c90-0694-44e4-97bc-ced6f8316558
+tmap.id:bfa7e0e5-42a9-4849-8a2b-864aba59528e
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:ebce1648-634f-4359-99ec-47a91decd56b
+config.central-topic:08531f2c-f286-4dbb-a297-9549bed7dd85
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062152
-id:5f110654-8f75-4a45-a153-51fc5e2b1abc
+created:1582720021510
+id:270e8f3b-21bb-46dd-ac4a-766096a70c85
 isview:false
-map.base:ebce1648-634f-4359-99ec-47a91decd56b
+map.base:08531f2c-f286-4dbb-a297-9549bed7dd85
 map.role:definition
 map.type:neighbor
-modified:1582719062152
+modified:1582720021510
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESI European Software Institute
-tmap.id:5f110654-8f75-4a45-a153-51fc5e2b1abc
+tmap.id:270e8f3b-21bb-46dd-ac4a-766096a70c85
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ESI European Software Institute

@@ -1,12 +1,12 @@
-created:1582719062298
+created:1582720021642
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4c44c0c8-2183-4d44-9c1a-f0708c0e56b6
+map.base:e4071730-8fb0-47b6-92ec-7701efb85c47
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062298
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Trafficking-Technology Nexus/filter/edges
-tmap.id:70f6489c-809b-4090-b9e2-45da43cc2103
+tmap.id:80958060-325a-41ce-83ae-2c37bd8cdea4
 type:text/vnd.tiddlywiki
 
 No body provided

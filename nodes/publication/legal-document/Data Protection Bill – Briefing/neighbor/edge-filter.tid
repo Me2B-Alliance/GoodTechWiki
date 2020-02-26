@@ -1,12 +1,12 @@
-created:1582719062224
+created:1582720021579
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3dc3f565-e8f3-4670-8e71-299752fe999e
+map.base:02ca9191-4223-4f43-8a36-8968a1c50a2f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062224
+modified:1582720021579
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing/filter/edges
-tmap.id:ced098e2-099d-4728-806a-aaa7efd1d51c
+tmap.id:b196c7a1-640a-431a-9d50-ce51a7b36ab2
 type:text/vnd.tiddlywiki
 
 No body provided

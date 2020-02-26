@@ -1,17 +1,17 @@
-config.central-topic:9f5adc3a-e277-4969-bc61-0797cea21d99
+config.central-topic:31c0bfc2-12f9-4676-99b3-8346d8f99cd3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062098
-id:9822e326-8029-4b3d-9b29-6c7fab08f8d4
+created:1582720021455
+id:813c5187-1182-43a3-9bf0-cbf2d3170d54
 isview:false
-map.base:9f5adc3a-e277-4969-bc61-0797cea21d99
+map.base:31c0bfc2-12f9-4676-99b3-8346d8f99cd3
 map.role:definition
 map.type:neighbor
-modified:1582719062098
+modified:1582720021455
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verizon
-tmap.id:9822e326-8029-4b3d-9b29-6c7fab08f8d4
+tmap.id:813c5187-1182-43a3-9bf0-cbf2d3170d54
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Verizon

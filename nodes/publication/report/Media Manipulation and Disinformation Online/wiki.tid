@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[alice marwick]] [[rebecca lewis]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Media Manipulation and Disinformation Online
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[media manipulation]]
 tech.focus:
 tiddler.classification:node
 title:Media Manipulation and Disinformation Online
 tmap.edges:{}
-tmap.id:317349b3-f7bd-4ca2-a7a0-e0967f56e84a
+tmap.id:0449f994-ff1f-446f-b0ef-cf6f336c8ad3
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/media-manipulation-and-disinfo-online/
 version.or.edition:
@@ -35,5 +35,4 @@ working.group:
     While trolls, white nationalists, Men's Rights Activists, gamergaters, the "alt-right," and conspiracy theorists may diverge deeply in their beliefs, they share tactics and converge on common issues.
     The far-right exploits young men’s rebellion and dislike of “political correctness” to spread white supremacist thought, Islamophobia, and misogyny through irony and knowledge of internet culture.
     Media manipulation may contribute to decreased trust of mainstream media, increased misinformation, and further radicalization.
-
 

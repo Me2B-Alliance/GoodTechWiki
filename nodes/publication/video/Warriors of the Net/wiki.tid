@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[gunilla elam]] [[tomas stephanson]] [[niklas hanberger]] [[monte reid]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Warriors of the Net
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[film festival]]
 tech.focus:
 tiddler.classification:node
 title:Warriors of the Net
 tmap.edges:{}
-tmap.id:9059d1f5-db6a-4ac0-b8b0-9a120e39d389
+tmap.id:ab18ea03-e7b4-4bd0-bf53-ec02a66194d0
 type:text/vnd.tiddlywiki
 url:https://youtu.be/PBWhzz_Gn10
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 TNG Medialab (Stockholm, Sweden, 1999). [excerpt: the router, the router-switch, the proxy]. A cartoon explaining the Internet and “starring” a Transmission Control Protocol packet.
-
 

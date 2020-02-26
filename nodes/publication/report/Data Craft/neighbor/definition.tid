@@ -1,17 +1,17 @@
-config.central-topic:da443d51-2ee0-45d2-b689-396ca65dd2d5
+config.central-topic:b3779240-c510-42be-8b62-729edc654184
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062269
-id:03fef4af-b218-4ac1-8c36-1ccb0ff51076
+created:1582720021615
+id:71302b7d-0c6e-411b-a585-c04fa7f471fc
 isview:false
-map.base:da443d51-2ee0-45d2-b689-396ca65dd2d5
+map.base:b3779240-c510-42be-8b62-729edc654184
 map.role:definition
 map.type:neighbor
-modified:1582719062269
+modified:1582720021615
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Craft
-tmap.id:03fef4af-b218-4ac1-8c36-1ccb0ff51076
+tmap.id:71302b7d-0c6e-411b-a585-c04fa7f471fc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Craft

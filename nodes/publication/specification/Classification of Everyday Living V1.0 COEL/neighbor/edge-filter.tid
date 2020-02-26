@@ -1,12 +1,12 @@
-created:1582719062308
+created:1582720021649
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a076154e-9964-4263-bccf-9b577e0a9f0e
+map.base:227314bb-c739-492d-9157-24bbb9c7f631
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062308
+modified:1582720021649
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Classification of Everyday Living V1.0 COEL/filter/edges
-tmap.id:52e53093-4681-4364-a44d-643f0ea87d77
+tmap.id:a52e99fe-b825-4007-b63e-e34aac00b108
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:a8c08114-799f-457e-a484-88c3517ee85a
+config.central-topic:44b818ea-312d-46c3-89f7-829a1a5685b0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062325
-id:eb65291f-d8db-46db-9718-5e58b607ca69
+created:1582720021669
+id:af602191-c68e-4ada-98b1-c1a8a681a4dd
 isview:false
-map.base:a8c08114-799f-457e-a484-88c3517ee85a
+map.base:44b818ea-312d-46c3-89f7-829a1a5685b0
 map.role:definition
 map.type:neighbor
-modified:1582719062325
+modified:1582720021669
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_Guide_78_2012(E)
-tmap.id:eb65291f-d8db-46db-9718-5e58b607ca69
+tmap.id:af602191-c68e-4ada-98b1-c1a8a681a4dd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_Guide_78_2012(E)

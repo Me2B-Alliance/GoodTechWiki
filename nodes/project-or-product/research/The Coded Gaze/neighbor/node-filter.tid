@@ -1,12 +1,12 @@
-created:1582719062196
-filter:[field:tmap.id[62557f02-dac2-40ca-8d90-dedd15c354db]]
-map.base:62557f02-dac2-40ca-8d90-dedd15c354db
+created:1582720021552
+filter:[field:tmap.id[9517467c-34a9-446c-936c-3843c921061d]]
+map.base:9517467c-34a9-446c-936c-3843c921061d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062196
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Coded Gaze/filter/nodes
-tmap.id:7b05fbb1-9e8d-40a0-8099-74a904b70179
+tmap.id:bde27bed-c115-4a24-bf8e-ccf1f3f37dff
 type:text/vnd.tiddlywiki
 
 No body provided

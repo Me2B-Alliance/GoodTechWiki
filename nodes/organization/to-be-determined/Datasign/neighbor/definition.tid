@@ -1,17 +1,17 @@
-config.central-topic:3b1aad28-2c00-4f43-bc1c-53002cb7fff8
+config.central-topic:bc12bfc6-a821-42fe-ab4f-24e2da0c2d3b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062134
-id:831c3c2e-1b78-4f2a-8a3b-e76438e7f7e8
+created:1582720021489
+id:290b42ac-0e81-4352-b9da-59cdd152b025
 isview:false
-map.base:3b1aad28-2c00-4f43-bc1c-53002cb7fff8
+map.base:bc12bfc6-a821-42fe-ab4f-24e2da0c2d3b
 map.role:definition
 map.type:neighbor
-modified:1582719062134
+modified:1582720021489
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Datasign
-tmap.id:831c3c2e-1b78-4f2a-8a3b-e76438e7f7e8
+tmap.id:290b42ac-0e81-4352-b9da-59cdd152b025
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Datasign

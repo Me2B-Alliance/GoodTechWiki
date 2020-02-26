@@ -1,12 +1,12 @@
-created:1582719062346
+created:1582720021688
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3e672da0-d20d-48a4-9f24-7b403bafe0ea
+map.base:c3233652-6d48-494a-9e11-7c6cedbc7375
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062346
+modified:1582720021688
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Incoding Manifestio/filter/edges
-tmap.id:41dce17a-539a-4e10-8c56-0c69749091d9
+tmap.id:509f4b6b-8cef-497c-b6d4-582a111b5e16
 type:text/vnd.tiddlywiki
 
 No body provided

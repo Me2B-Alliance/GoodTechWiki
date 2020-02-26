@@ -1,17 +1,17 @@
-config.central-topic:4e7ef11f-0e72-49a8-a3a1-4b4bb7272784
+config.central-topic:27e7063c-965c-47d3-8e26-3a6aec9361cd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062277
-id:c7127059-2ae3-4ff0-9c06-b7fbcfbcd99e
+created:1582720021624
+id:b8627c24-b5e7-4db8-a4c5-624c87f24040
 isview:false
-map.base:4e7ef11f-0e72-49a8-a3a1-4b4bb7272784
+map.base:27e7063c-965c-47d3-8e26-3a6aec9361cd
 map.role:definition
 map.type:neighbor
-modified:1582719062277
+modified:1582720021624
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Lead supervisory authority
-tmap.id:c7127059-2ae3-4ff0-9c06-b7fbcfbcd99e
+tmap.id:b8627c24-b5e7-4db8-a4c5-624c87f24040
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on Lead supervisory authority

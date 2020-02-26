@@ -1,12 +1,12 @@
-created:1582719062084
+created:1582720021437
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d0ed6eae-90b5-4e2b-acea-99db44599f16
+map.base:73195939-46c1-4cee-86dc-d1ac5e1bbf29
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062084
+modified:1582720021437
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cogito Group/filter/edges
-tmap.id:e8384c75-35a7-4172-b27e-693ef129a658
+tmap.id:1c7cd6e7-50eb-4163-a6f3-1fb6292395c7
 type:text/vnd.tiddlywiki
 
 No body provided

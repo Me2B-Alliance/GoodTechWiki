@@ -1,12 +1,12 @@
-created:1582719062285
+created:1582720021630
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6b76159c-8114-4a71-b534-2523433b3e1e
+map.base:bb7e89b0-ba40-4077-975b-34c9d64b6172
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062285
+modified:1582720021630
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Might Intelligent Machines One Day Convince Us It’s Time to Die?/filter/edges
-tmap.id:081c059c-14f9-42b7-94ca-bc863adca40b
+tmap.id:c4aee5fb-d1cc-4a39-903d-a36260d2b04c
 type:text/vnd.tiddlywiki
 
 No body provided

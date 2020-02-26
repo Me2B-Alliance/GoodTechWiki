@@ -1,12 +1,12 @@
-created:1582719062294
+created:1582720021637
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a18281f4-02d4-4c60-99a4-b18f30fd574a
+map.base:efbc54a2-7a7c-4ef0-aea6-9a219678da44
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062294
+modified:1582720021637
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Stop Surveillance Humanitarianism/filter/edges
-tmap.id:ab6922fc-6de9-4a69-8040-e43bbb8f463b
+tmap.id:2e98b317-2a79-42ec-ade1-8db347e7510a
 type:text/vnd.tiddlywiki
 
 No body provided

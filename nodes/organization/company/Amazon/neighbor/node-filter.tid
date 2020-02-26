@@ -1,12 +1,12 @@
-created:1582719062082
-filter:[field:tmap.id[82620e69-22f5-4a51-b294-642fc5a24915]]
-map.base:82620e69-22f5-4a51-b294-642fc5a24915
+created:1582720021435
+filter:[field:tmap.id[2bb7d0bb-83f7-4c44-a198-6fd3c554baa3]]
+map.base:2bb7d0bb-83f7-4c44-a198-6fd3c554baa3
 map.role:node-filter
 map.type:neighbor
-modified:1582719062082
+modified:1582720021435
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Amazon/filter/nodes
-tmap.id:8dd9df5d-d2f1-4f03-a7f0-93b3fcf473aa
+tmap.id:5ee7a722-3096-4438-9354-b1f278f6f8e3
 type:text/vnd.tiddlywiki
 
 No body provided

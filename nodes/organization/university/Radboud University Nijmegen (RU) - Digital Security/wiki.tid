@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071716
+created:1582720003334
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071716
+modified:1582720003334
 org.name:Radboud University Nijmegen (RU) - Digital Security
 org.type:university
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Radboud University Nijmegen (RU) - Digital Security
-tmap.edges:{"7833b499-b5c0-4ce7-855d-edb2e950db1e":{"to":"0f5c067b-e730-4fe2-8d07-863b2ecc5914","type":"organization-for-group"}}
-tmap.id:7fba4084-c9eb-4f43-aa5c-5f8562123544
+tmap.edges:{"cc1cf607-a98d-4df3-9ec4-d84cf64f4876":{"to":"9c77c020-4960-4ff8-9ea9-7d259d1b6fab","type":"organization-for-group"}}
+tmap.id:6415466b-00ec-4943-82ef-0e763c7e1d30
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.ru.nl/ds/
@@ -38,5 +38,4 @@ Digital security is an increasingly important issue in our society. The Digital 
 
 Our research and collaboration
 The Digital Security group collaborates with SIDN, TNO, and TILT in the Privacy & Identity Lab, (PI.lab), an expertise centre doing research into solutions for electronic identities and the protection of online privacy. We are an associate member of ECRYPT II. Our group promotes open standards and open source and has started many open source smart card projects. Outside the field of security research, we are active in ICT4kids to improve the possibilities for children in South Africa.
-
 

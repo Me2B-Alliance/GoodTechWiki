@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071761
+created:1582720003378
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071761
+modified:1582720003378
 org.name:Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council
 org.type:non governmental organization
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences; National Research Council
-tmap.edges:{"edf2ca2d-dcfe-4cb6-98cf-8ff580f09155":{"to":"08603eaf-5fb6-49f2-9a54-dd10969aabf7","type":"author"},"89568962-b043-4297-86b5-54e1625f7cbc":{"to":"8209d420-171f-47a8-87f7-875a5de151fe","type":"author"},"c58efe15-7e73-498f-bba9-7e495b3afed3":{"to":"4fb348cb-9037-4abc-a473-09c8fee9a93a","type":"author"},"e63617a3-b1f9-4a1a-9b16-5df3d3afbfc0":{"to":"92c6bee2-2739-4279-8a97-5fa12f20ebf7","type":"author"},"44072cf3-fcae-4be3-a67a-5315d57ca442":{"to":"f15cc9d2-a1cb-446c-9cc7-ebb39c6007c7","type":"author"},"b004cbbc-fa8c-48f7-ab3b-e4aac0da8255":{"to":"02feed32-449f-43d8-950e-9722c064a1fc","type":"author"},"41f0f8ee-7351-47bf-bf58-2c78156a7128":{"to":"83d55efe-e06f-4d95-906b-acc3a694c338","type":"author"},"2b20f220-3dcf-4e42-acb2-6be803967fc8":{"to":"e33086cb-893a-4345-a1d7-07bd479366e9","type":"author"},"6b67a772-8ef3-47f0-bd65-a977c579c09a":{"to":"10f362a3-afc7-415c-9190-c9d3c351ddfe","type":"author"},"74ec998f-28db-4660-b576-1bd631def73b":{"to":"0e120250-507a-46a7-84db-a6b2938d1dae","type":"author"},"c108a0c8-e2f6-405c-8339-27f119156b14":{"to":"c07433fb-c4c2-4846-bd50-bba52804e22a","type":"author"}}
-tmap.id:8a0eb1f3-7229-4fee-80d7-084ce0ced69a
+tmap.edges:{"0130a8dc-3063-41b3-89f7-5f3b841b87fa":{"to":"68b0548c-6c30-436f-a2ca-113cad9d6381","type":"author"},"fd5544f9-4f02-47cb-9d57-9dc98d023be3":{"to":"b5180ddb-7a35-4341-90ea-62b0d7784dc3","type":"author"},"7dc81726-3c3c-47f0-8fda-25c53a3c96fd":{"to":"fad7b6e8-41a0-4c96-bf31-ff6489c51e0f","type":"author"},"b55241a5-744e-4d69-b977-27b204d60614":{"to":"b85f3a1f-a2d6-4954-932a-7b26c03d86b8","type":"author"},"4189c66e-4d58-4b5d-8a66-dc94605a40ec":{"to":"4fa4819a-659e-4e6e-b6e3-a089f10e5605","type":"author"},"bd2964f9-73c6-40ba-9fea-54afa255f982":{"to":"550b63a2-8b71-4715-84a9-6db691908731","type":"author"},"9f13346d-ecaf-4517-8247-62b354f26f9d":{"to":"31469c05-3787-4ba9-936f-b7de7f0b723c","type":"author"},"4c7bfc5a-0476-4ae1-be8c-16c1649b2ef4":{"to":"3db74269-d1bd-4ae2-960c-b2ce3b98654a","type":"author"},"2c911f6c-4072-4ab6-b710-59ff6ab7b465":{"to":"f89df5bf-59b3-4dc8-8d6a-276e63862189","type":"author"},"adc3bd07-fa80-4198-8cf3-984b09d08a2a":{"to":"9958ca3f-9c49-4dfa-907c-853dfad0614d","type":"author"},"9b3166c9-1e9f-4a06-9adf-b1c3172e0ac9":{"to":"6b1b263b-6c19-4b0a-86a2-415908037a95","type":"author"}}
+tmap.id:8db06087-da84-473e-846f-44f31a1be1ca
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
 
 The National Academies of Sciences, Engineering, and Medicine are private, nonprofit institutions that provide expert advice on some of the most pressing challenges facing the nation and the world. Our work helps shape sound policies, inform public opinion, and advance the pursuit of science, engineering, and medicine.
-
 

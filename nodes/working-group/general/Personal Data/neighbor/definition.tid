@@ -1,17 +1,17 @@
-config.central-topic:2ad6d73d-a75a-4895-86e1-46431997c5e5
+config.central-topic:e176197a-aacd-4657-9f55-65684027889e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062352
-id:8ba64fb5-16d9-4b7c-b514-6d4696aa5052
+created:1582720021692
+id:30c84427-4360-41a2-963a-8e8d965c4ca2
 isview:false
-map.base:2ad6d73d-a75a-4895-86e1-46431997c5e5
+map.base:e176197a-aacd-4657-9f55-65684027889e
 map.role:definition
 map.type:neighbor
-modified:1582719062352
+modified:1582720021692
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Personal Data
-tmap.id:8ba64fb5-16d9-4b7c-b514-6d4696aa5052
+tmap.id:30c84427-4360-41a2-963a-8e8d965c4ca2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Personal Data

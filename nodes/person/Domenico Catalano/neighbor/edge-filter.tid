@@ -1,12 +1,12 @@
-created:1582719062172
+created:1582720021532
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:55e5df99-492a-4266-8f80-13a7b531c88a
+map.base:8537e4e9-0a66-46dc-8a64-334fa049ab0d
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062172
+modified:1582720021532
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Domenico Catalano/filter/edges
-tmap.id:85010ce7-1c4b-4c67-b8bd-6ca4d511e01d
+tmap.id:cb1660f2-869d-433e-b6de-0c3578e5560f
 type:text/vnd.tiddlywiki
 
 No body provided

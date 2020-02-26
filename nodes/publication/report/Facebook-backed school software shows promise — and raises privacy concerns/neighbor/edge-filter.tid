@@ -1,12 +1,12 @@
-created:1582719062274
+created:1582720021625
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6174bef9-b5b0-4cca-89f3-bb94af13d1bb
+map.base:ed0d6e86-b128-4f00-bda0-cb82d4589057
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062274
+modified:1582720021625
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook-backed school software shows promise — and raises privacy concerns/filter/edges
-tmap.id:6725ade9-da1a-4848-ad17-2a0ab67ad93f
+tmap.id:b308ec09-a0f3-4e10-86e1-96768f01c876
 type:text/vnd.tiddlywiki
 
 No body provided

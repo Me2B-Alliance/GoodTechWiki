@@ -1,12 +1,12 @@
-created:1582719062237
-filter:[field:tmap.id[f13281b3-7af4-4c17-a21f-7919cdfc2b4a]]
-map.base:f13281b3-7af4-4c17-a21f-7919cdfc2b4a
+created:1582720021591
+filter:[field:tmap.id[ff8e1c7d-1e5f-4fcd-8220-e6017286e7bf]]
+map.base:ff8e1c7d-1e5f-4fcd-8220-e6017286e7bf
 map.role:node-filter
 map.type:neighbor
-modified:1582719062237
+modified:1582720021591
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Challenges in Automated Question Answering for Privacy Policies/filter/nodes
-tmap.id:760e8e6b-ca3b-40ed-816f-687533e1da98
+tmap.id:25e132da-aab3-45c4-b5f2-89325b954a52
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062187
+created:1582720021545
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3c67e11f-30bf-4d4f-8a24-c13cfce4a08f
+map.base:c8b6ea82-3229-4c16-8a70-bd798a9f83d1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062187
+modified:1582720021545
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fairness in Precision Medicine (project-or-product)/filter/edges
-tmap.id:20abef35-ce0a-4ec8-984e-86fc34d36575
+tmap.id:61235eb8-f011-44c0-9b77-1391533a1d3b
 type:text/vnd.tiddlywiki
 
 No body provided

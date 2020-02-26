@@ -1,17 +1,17 @@
-config.central-topic:8e1aefbb-e06c-40a3-8065-1f1bb483cc89
+config.central-topic:67646cd4-27c7-4a8d-99b4-37b0bb604e2e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062270
-id:751e296f-27b5-492b-8c59-68c0138b3d80
+created:1582720021616
+id:5918f6c9-2469-4e82-b5b5-3bbc38a21498
 isview:false
-map.base:8e1aefbb-e06c-40a3-8065-1f1bb483cc89
+map.base:67646cd4-27c7-4a8d-99b4-37b0bb604e2e
 map.role:definition
 map.type:neighbor
-modified:1582719062270
+modified:1582720021616
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Democratic Value
-tmap.id:751e296f-27b5-492b-8c59-68c0138b3d80
+tmap.id:5918f6c9-2469-4e82-b5b5-3bbc38a21498
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Democratic Value

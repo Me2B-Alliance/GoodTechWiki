@@ -1,12 +1,12 @@
-created:1582719062095
-filter:[field:tmap.id[6dfd924c-5074-42de-b968-a861ac32f3af]]
-map.base:6dfd924c-5074-42de-b968-a861ac32f3af
+created:1582720021451
+filter:[field:tmap.id[8c741cd3-13b3-4029-9b24-891a9c915e05]]
+map.base:8c741cd3-13b3-4029-9b24-891a9c915e05
 map.role:node-filter
 map.type:neighbor
-modified:1582719062095
+modified:1582720021451
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radiant Logic/filter/nodes
-tmap.id:c756a9f6-d5b5-443a-ad16-003b94bc300f
+tmap.id:f4f00edd-f36f-4f54-92b1-a0a2e5a0ebb2
 type:text/vnd.tiddlywiki
 
 No body provided

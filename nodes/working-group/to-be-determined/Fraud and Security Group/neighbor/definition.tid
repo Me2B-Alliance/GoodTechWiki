@@ -1,17 +1,17 @@
-config.central-topic:db3bca9c-9d9e-4ab4-a7be-885dbadff61f
+config.central-topic:0897254b-b07c-4182-9308-03f40138bba3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062369
-id:3735013b-a084-4387-b9c1-a8f2ce6d21eb
+created:1582720021707
+id:a772259c-c920-4dac-879a-30b9b8bc46e8
 isview:false
-map.base:db3bca9c-9d9e-4ab4-a7be-885dbadff61f
+map.base:0897254b-b07c-4182-9308-03f40138bba3
 map.role:definition
 map.type:neighbor
-modified:1582719062369
+modified:1582720021707
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fraud and Security Group
-tmap.id:3735013b-a084-4387-b9c1-a8f2ce6d21eb
+tmap.id:a772259c-c920-4dac-879a-30b9b8bc46e8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Fraud and Security Group

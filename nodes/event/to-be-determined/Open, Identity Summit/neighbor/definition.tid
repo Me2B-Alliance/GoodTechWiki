@@ -1,17 +1,17 @@
-config.central-topic:8492186c-5927-49ea-bb1a-e9ba75d647fd
+config.central-topic:a83c8231-5abd-441c-b9f9-08a46c251b43
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062079
-id:b87d4880-33ef-4331-bad9-d50fdf345a52
+created:1582720021431
+id:18b5cec2-e2f6-452a-8c49-d2c0309f0ac8
 isview:false
-map.base:8492186c-5927-49ea-bb1a-e9ba75d647fd
+map.base:a83c8231-5abd-441c-b9f9-08a46c251b43
 map.role:definition
 map.type:neighbor
-modified:1582719062079
+modified:1582720021431
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open, Identity Summit
-tmap.id:b87d4880-33ef-4331-bad9-d50fdf345a52
+tmap.id:18b5cec2-e2f6-452a-8c49-d2c0309f0ac8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open, Identity Summit

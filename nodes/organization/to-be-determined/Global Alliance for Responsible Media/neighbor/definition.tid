@@ -1,17 +1,17 @@
-config.central-topic:fded737d-ec65-4cf5-a3f7-ab72649cbfd5
+config.central-topic:0c2a23af-d6fa-40cd-aeae-6653da55e8f7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062137
-id:4e29ab03-f589-413d-977a-77963972d586
+created:1582720021491
+id:39c36da8-ecd5-4593-be96-b8b0ccb18ecd
 isview:false
-map.base:fded737d-ec65-4cf5-a3f7-ab72649cbfd5
+map.base:0c2a23af-d6fa-40cd-aeae-6653da55e8f7
 map.role:definition
 map.type:neighbor
-modified:1582719062137
+modified:1582720021491
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Alliance for Responsible Media
-tmap.id:4e29ab03-f589-413d-977a-77963972d586
+tmap.id:39c36da8-ecd5-4593-be96-b8b0ccb18ecd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global Alliance for Responsible Media

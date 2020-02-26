@@ -1,12 +1,12 @@
-created:1582719062110
+created:1582720021465
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a19f8a0f-c1f7-423f-89fe-8d041363e252
+map.base:f231490c-54b8-4c3c-9dca-2ec5fbf3ff59
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062110
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IAPP (International Association of Privacy Professionals)/filter/edges
-tmap.id:e10659d7-3710-4497-9dca-ec56d396e734
+tmap.id:be24c7f4-db27-49c6-a77c-012f7c76284f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071768
+created:1582720003386
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071768
+modified:1582720003386
 org.name:Eurodocs
 org.type:company
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Eurodocs
-tmap.edges:{"2cd59eca-116a-486d-80c3-9dfe3332a65d":{"to":"b56c20a9-8e9c-4f84-9aa3-740c63104681","type":"general-member"}}
-tmap.id:078c3fdd-8564-45b0-a31b-c6b57c455e0c
+tmap.edges:{"cf8607ee-167d-4f7e-8c7f-fa2359976fab":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
+tmap.id:25ce2a42-124a-4601-802e-9bca597ababa
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.eurodocs.se
-
 
 
 

@@ -1,12 +1,12 @@
-created:1582719062267
+created:1582720021613
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:613954d9-198b-4a85-810e-cfe8ddc05f6e
+map.base:b141d401-47d1-421e-b3c3-9be2a0970276
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062267
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Careless Whispers: How speech is policed by outdated communications legislation (2015)/filter/edges
-tmap.id:21db4ec8-7d54-4e48-ba00-279743ac2e79
+tmap.id:aa5e3672-d860-4338-a172-1cd63b151dae
 type:text/vnd.tiddlywiki
 
 No body provided

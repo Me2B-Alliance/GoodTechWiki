@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003605
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003605
 name:Linked Data Key Format Registry
 publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ongoing community drafts]]
 tech.focus:
 tiddler.classification:node
 title:Linked Data Key Format Registry
 tmap.edges:{}
-tmap.id:f21cfd46-6845-418b-b38a-df121b75cc3a
+tmap.id:49ead1d8-d22c-49e1-a959-0b6c2485f265
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/did-spec/blob/4eafb19e5c66b9d54e31d88460b89bdc00a07d80/ld-keys.html
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This repository has been archived by the owner. It is now read-only.
-
 

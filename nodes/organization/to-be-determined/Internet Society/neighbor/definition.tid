@@ -1,17 +1,17 @@
-config.central-topic:a836912e-187d-4fdb-8e11-5ed0e1795207
+config.central-topic:ecac1609-3a92-45aa-8bad-aa2c7120a6ae
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062139
-id:0384dfee-740f-45d1-b4bd-5b331915df48
+created:1582720021492
+id:9edd8009-3e4a-4b05-a340-eba1a7a4d88f
 isview:false
-map.base:a836912e-187d-4fdb-8e11-5ed0e1795207
+map.base:ecac1609-3a92-45aa-8bad-aa2c7120a6ae
 map.role:definition
 map.type:neighbor
-modified:1582719062139
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Society
-tmap.id:0384dfee-740f-45d1-b4bd-5b331915df48
+tmap.id:9edd8009-3e4a-4b05-a340-eba1a7a4d88f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Internet Society

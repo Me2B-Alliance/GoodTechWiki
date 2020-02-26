@@ -1,17 +1,17 @@
-config.central-topic:d837dcc0-828d-4e52-84c8-5a2ff6c9afd7
+config.central-topic:7cf5e541-1a83-475f-ab03-2db8c4848d51
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062316
-id:7274f616-a109-4c15-b718-232468218d01
+created:1582720021657
+id:7d0d7b06-3378-404f-8f32-26f15792c94b
 isview:false
-map.base:d837dcc0-828d-4e52-84c8-5a2ff6c9afd7
+map.base:7cf5e541-1a83-475f-ab03-2db8c4848d51
 map.role:definition
 map.type:neighbor
-modified:1582719062316
+modified:1582720021657
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Linked Data Cryptographic Suite Registry
-tmap.id:7274f616-a109-4c15-b718-232468218d01
+tmap.id:7d0d7b06-3378-404f-8f32-26f15792c94b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Linked Data Cryptographic Suite Registry

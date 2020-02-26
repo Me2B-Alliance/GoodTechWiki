@@ -1,17 +1,17 @@
-config.central-topic:ba7504c5-5108-4330-a0b6-8cced024a33a
+config.central-topic:7ed1ba84-9b2f-46fe-895d-9cc098dcf818
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062122
-id:a061d84e-4f94-42ea-b90d-6e65f2c6c9b0
+created:1582720021478
+id:0a082d0a-024d-4c13-8390-7fa7971175be
 isview:false
-map.base:ba7504c5-5108-4330-a0b6-8cced024a33a
+map.base:7ed1ba84-9b2f-46fe-895d-9cc098dcf818
 map.role:definition
 map.type:neighbor
-modified:1582719062122
+modified:1582720021478
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Single Market
-tmap.id:a061d84e-4f94-42ea-b90d-6e65f2c6c9b0
+tmap.id:0a082d0a-024d-4c13-8390-7fa7971175be
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Single Market

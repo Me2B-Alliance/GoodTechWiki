@@ -1,17 +1,17 @@
-config.central-topic:27bcdb3e-1cb7-4d86-8e73-448ea94de9c3
+config.central-topic:73936de7-44dc-4ab3-8bb5-402fcba434f2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062344
-id:3ca36a64-4c1c-4bf0-9fde-32ceb711481e
+created:1582720021675
+id:aafad98a-d004-4e79-9bad-3495a0ffccca
 isview:false
-map.base:27bcdb3e-1cb7-4d86-8e73-448ea94de9c3
+map.base:73936de7-44dc-4ab3-8bb5-402fcba434f2
 map.role:definition
 map.type:neighbor
-modified:1582719062344
+modified:1582720021675
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/“Identity” Commandments
-tmap.id:3ca36a64-4c1c-4bf0-9fde-32ceb711481e
+tmap.id:aafad98a-d004-4e79-9bad-3495a0ffccca
 type:text/vnd.tiddlywiki
 
 Neighbor Map of “Identity” Commandments

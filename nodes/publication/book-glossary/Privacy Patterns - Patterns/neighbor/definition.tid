@@ -1,17 +1,17 @@
-config.central-topic:2e9425ec-3a66-4127-a821-3c678f8accce
+config.central-topic:aaf2e1ab-7a4f-40c7-a2b8-37711ac8f7ac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534902
-id:a1a47c0c-c577-43d9-bbe5-c8fcfb9c81ff
+created:1582720021578
+id:bb1944d5-8a2f-4f9c-9ec9-fef4af08632e
 isview:false
-map.base:2e9425ec-3a66-4127-a821-3c678f8accce
+map.base:aaf2e1ab-7a4f-40c7-a2b8-37711ac8f7ac
 map.role:definition
 map.type:neighbor
-modified:1582714534902
+modified:1582720021578
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Patterns - Patterns-map
-tmap.id:a1a47c0c-c577-43d9-bbe5-c8fcfb9c81ff
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Patterns - Patterns
+tmap.id:bb1944d5-8a2f-4f9c-9ec9-fef4af08632e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Patterns - Patterns

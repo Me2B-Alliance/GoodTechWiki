@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Information Fiduciary Consortium
 org.type:university department
 parent.org:Berkman Klein Center for Internet and Society at Harvard University
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]]
 relevant.publications:
 scope:
 sector:cross-sector: academic
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Information Fiduciary Consortium
 tmap.edges:{}
-tmap.id:a7f6d17a-0aba-453b-a50b-e923f3e1b046
+tmap.id:5f21455a-5d81-4f79-a3e7-77eb265bc9c6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://berkmancenter.github.io/datatransparency/ifc-brief.pdf
 
 The Information Fiduciary Consortium will give incentives to companies to adopt more responsibility to protect user privacy. The consortium’s goal is to protect user data. In exchange for committing to fair security and privacy practices around user data collection, analysis, use, disclosure, and sale, companies will benefit from improved user trust.
-
 

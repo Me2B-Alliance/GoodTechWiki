@@ -1,12 +1,12 @@
-created:1582719062098
-filter:[field:tmap.id[258c7144-4338-4102-96b1-58325c6d2914]]
-map.base:258c7144-4338-4102-96b1-58325c6d2914
+created:1582720021453
+filter:[field:tmap.id[0ab42b05-d977-4075-b1f8-7ceeae386f8b]]
+map.base:0ab42b05-d977-4075-b1f8-7ceeae386f8b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062098
+modified:1582720021453
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)/filter/nodes
-tmap.id:bd87dc7b-6883-4223-81be-f2f09dd6d822
+tmap.id:ef49e51d-7a62-466e-8cfa-cafb86e14c98
 type:text/vnd.tiddlywiki
 
 No body provided

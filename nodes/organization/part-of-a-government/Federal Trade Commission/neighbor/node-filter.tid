@@ -1,12 +1,12 @@
-created:1582719062117
-filter:[field:tmap.id[fc625389-e9a5-4564-adc3-da1d52b1a26b]]
-map.base:fc625389-e9a5-4564-adc3-da1d52b1a26b
+created:1582720021472
+filter:[field:tmap.id[07c7e0a1-5cd4-4d9e-806f-422edfc633e3]]
+map.base:07c7e0a1-5cd4-4d9e-806f-422edfc633e3
 map.role:node-filter
 map.type:neighbor
-modified:1582719062117
+modified:1582720021472
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Federal Trade Commission/filter/nodes
-tmap.id:4d63de94-9cb9-42e5-9636-bb1b6d0bf661
+tmap.id:2f840a67-3a40-4572-ab3b-402dc944ddbd
 type:text/vnd.tiddlywiki
 
 No body provided

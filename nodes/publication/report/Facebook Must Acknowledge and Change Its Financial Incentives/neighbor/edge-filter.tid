@@ -1,12 +1,12 @@
-created:1582719062273
+created:1582720021622
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:13c2c5d9-9bd0-4252-b7e3-10cea19de820
+map.base:2393b1ee-fc21-4b5c-a347-2a1d901aa050
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062273
+modified:1582720021622
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook Must Acknowledge and Change Its Financial Incentives/filter/edges
-tmap.id:aa82ff31-cbe1-4117-85b3-9b47c622a398
+tmap.id:1afef810-b27d-487f-90c2-ec339d25416c
 type:text/vnd.tiddlywiki
 
 No body provided

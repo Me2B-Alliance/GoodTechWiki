@@ -1,17 +1,17 @@
-config.central-topic:258c7144-4338-4102-96b1-58325c6d2914
+config.central-topic:0ab42b05-d977-4075-b1f8-7ceeae386f8b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062098
-id:8021cb67-cb89-450d-938e-43e5808b37c2
+created:1582720021453
+id:bd7e9ae6-7754-4b29-8604-529ec31d84a5
 isview:false
-map.base:258c7144-4338-4102-96b1-58325c6d2914
+map.base:0ab42b05-d977-4075-b1f8-7ceeae386f8b
 map.role:definition
 map.type:neighbor
-modified:1582719062098
+modified:1582720021453
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)
-tmap.id:8021cb67-cb89-450d-938e-43e5808b37c2
+tmap.id:bd7e9ae6-7754-4b29-8604-529ec31d84a5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)

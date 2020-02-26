@@ -1,12 +1,12 @@
-created:1582719062246
-filter:[field:tmap.id[d4b77942-98c4-45c5-9482-e933958ac9f2]]
-map.base:d4b77942-98c4-45c5-9482-e933958ac9f2
+created:1582720021600
+filter:[field:tmap.id[cfe864ce-fe33-43bd-be2d-88ed81022b4b]]
+map.base:cfe864ce-fe33-43bd-be2d-88ed81022b4b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062246
+modified:1582720021600
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Badges are Verifiable Credentials/filter/nodes
-tmap.id:e5d2e4a4-36d1-40d0-a8b4-bf773187ed41
+tmap.id:603c9b07-ac3f-4251-80ae-e791f460e656
 type:text/vnd.tiddlywiki
 
 No body provided

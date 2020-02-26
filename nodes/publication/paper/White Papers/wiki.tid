@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:White Papers
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[publications]] [[parent]] [[rwot ix]] [[rwot viii]] [[rwot vii]] [[rwot vi]] [[rwot v]] [[rwot iv]] [[rwot iii]] [[rwot ii]] [[rwot i]]
 tech.focus:
 tiddler.classification:node
 title:White Papers
 tmap.edges:{}
-tmap.id:bfc4cbdf-d538-4ac4-922f-4cd4963dea78
+tmap.id:86105f49-a453-49b0-af18-d5bbaddae4bf
 type:text/vnd.tiddlywiki
 url:https://www.weboftrust.info/papers.html
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This is categorized list of papers produced by the Rebooting the Web of Trust design workshops is complete through RWOT-VII. For more recent papers, see our past events page.
-
 

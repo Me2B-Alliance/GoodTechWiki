@@ -1,12 +1,12 @@
-created:1582719062124
-filter:[field:tmap.id[df2dc07f-38a6-46ec-b9bd-f324e2d17bb9]]
-map.base:df2dc07f-38a6-46ec-b9bd-f324e2d17bb9
+created:1582720021481
+filter:[field:tmap.id[574ff357-92dc-4123-99f4-e2054f90bac6]]
+map.base:574ff357-92dc-4123-99f4-e2054f90bac6
 map.role:node-filter
 map.type:neighbor
-modified:1582719062124
+modified:1582720021481
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Semantic Interoperability Community (SEMIC)/filter/nodes
-tmap.id:08780a1d-2d14-4ae6-b4f1-4ff3c80649fc
+tmap.id:8599010a-1981-429b-9fe6-090f3031d2ad
 type:text/vnd.tiddlywiki
 
 No body provided

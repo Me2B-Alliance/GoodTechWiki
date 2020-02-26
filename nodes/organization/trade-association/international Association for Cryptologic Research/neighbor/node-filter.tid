@@ -1,12 +1,12 @@
-created:1582719062165
-filter:[field:tmap.id[a1437e1f-8879-466b-8ff7-21717e5f914d]]
-map.base:a1437e1f-8879-466b-8ff7-21717e5f914d
+created:1582720021525
+filter:[field:tmap.id[0d7bfdee-b458-4bce-a135-48880f4d548b]]
+map.base:0d7bfdee-b458-4bce-a135-48880f4d548b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062165
+modified:1582720021525
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/international Association for Cryptologic Research/filter/nodes
-tmap.id:408b375f-1ded-4484-95c5-45deda5a84d9
+tmap.id:67508427-edf0-42c1-a255-5cafa8dc5b18
 type:text/vnd.tiddlywiki
 
 No body provided

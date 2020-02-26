@@ -1,17 +1,17 @@
-config.central-topic:4c44c0c8-2183-4d44-9c1a-f0708c0e56b6
+config.central-topic:e4071730-8fb0-47b6-92ec-7701efb85c47
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062298
-id:e7875026-fe45-4a75-a979-23e2c3fb4186
+created:1582720021642
+id:efb6b528-2b99-4f94-a399-632e71775cfd
 isview:false
-map.base:4c44c0c8-2183-4d44-9c1a-f0708c0e56b6
+map.base:e4071730-8fb0-47b6-92ec-7701efb85c47
 map.role:definition
 map.type:neighbor
-modified:1582719062298
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Trafficking-Technology Nexus
-tmap.id:e7875026-fe45-4a75-a979-23e2c3fb4186
+tmap.id:efb6b528-2b99-4f94-a399-632e71775cfd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Trafficking-Technology Nexus

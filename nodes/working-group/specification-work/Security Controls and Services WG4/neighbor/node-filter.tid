@@ -1,12 +1,12 @@
-created:1582719062366
-filter:[field:tmap.id[06bc1c4b-16dd-4235-aefa-a856e5a065df]]
-map.base:06bc1c4b-16dd-4235-aefa-a856e5a065df
+created:1582720021704
+filter:[field:tmap.id[b09556a2-6e9d-4bbd-90ef-96ada71791df]]
+map.base:b09556a2-6e9d-4bbd-90ef-96ada71791df
 map.role:node-filter
 map.type:neighbor
-modified:1582719062366
+modified:1582720021704
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Controls and Services WG4/filter/nodes
-tmap.id:dd3630e2-fdbd-48c5-8655-5e2bea1da440
+tmap.id:84f4f12b-4d74-4c27-9c65-199f62613144
 type:text/vnd.tiddlywiki
 
 No body provided

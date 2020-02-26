@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[outreach]] [[publication]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,23 +13,23 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Project VRM
 org.type:to-be-determined
 parent.org:Berkman Klein Center for Internet and Society at Harvard University
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[consumer support]] [[research]]
 relevant.publications:https://cyber.harvard.edu/projectvrm/Main_Page
 scope:
 sector:academic
 status:
-tags:[object Set]
+tags:[[iot]]
 tech.focus:
 tiddler.classification:node
 title:Project VRM
-tmap.edges:{"546dc89a-e9f0-4a46-89ae-c02ac054010f":{"to":"14fef23a-6f67-4807-b5ee-f1d1a5715999","type":"Organization Supports Project or Product"},"eafb3d98-db06-428f-a9ed-7f16b8c18947":{"to":"07610c77-510c-43f9-ac4c-3617af080962","type":"Organization Supports Project or Product"}}
-tmap.id:26885d8c-4fec-4b52-bfe3-536ce0e92e74
+tmap.edges:{"bb070a05-d7b6-491c-9be0-0ec2dc6094c3":{"to":"e6bf5b02-5ea5-453a-9943-6282fa2e17f0","type":"Organization Supports Project or Product"},"79f8dfaa-e7a2-415e-b902-7e697336cf7b":{"to":"391ae97a-e237-43e2-ad16-535f3cce823a","type":"Organization Supports Project or Product"}}
+tmap.id:c9837fd9-3264-4624-8b3d-d00359b0b080
 twitter.profile:https://twitter.com/VRM
 type:text/vnd.tiddlywiki
 website:https://blogs.harvard.edu/vrm/
@@ -44,5 +44,4 @@ The project was created by Doc Searls when he became a fellow at the Center in 2
 VRM stands for Vendor Relationship Management, the customer-side counterpart of Customer Relationship Management, the $48 billion business by which companies attempt to relate to customers (for example through call centers).
 
 Doc sees VRM as “a way to fulfill one of the promises of The Cluetrain Manifiesto” — the widely-cited website and book written in 1999 by Doc and three other authors (one of which is David Weinberger, also of the Center). That promise was embodied in this statement, written by Christopher Locke:
-
 

@@ -1,12 +1,12 @@
-created:1582719062207
-filter:[field:tmap.id[201f4dbc-785c-4ab2-8a5c-86f634e16048]]
-map.base:201f4dbc-785c-4ab2-8a5c-86f634e16048
+created:1582720021561
+filter:[field:tmap.id[d0ab7c69-e6f3-46e8-81eb-d31cfcc5a680]]
+map.base:d0ab7c69-e6f3-46e8-81eb-d31cfcc5a680
 map.role:node-filter
 map.type:neighbor
-modified:1582719062207
+modified:1582720021561
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Atam.ID/filter/nodes
-tmap.id:8c72274e-51cd-47ef-a320-7da03bf20121
+tmap.id:986144f5-3cc3-409b-996d-d78edf73e330
 type:text/vnd.tiddlywiki
 
 No body provided

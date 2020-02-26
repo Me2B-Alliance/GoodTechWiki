@@ -1,12 +1,12 @@
-created:1582719062342
+created:1582720021685
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f30d424e-2e43-4bdb-8972-308fd5306163
+map.base:1a376ddf-3a25-4583-bac6-25880f35f88b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062342
+modified:1582720021685
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on privacy risks in the re-use of email accounts and similar information society services/filter/edges
-tmap.id:4c6a8af5-fb24-40fe-b1ed-d4a6c583c187
+tmap.id:24eb9954-6781-4a4e-8870-c1980ca05d01
 type:text/vnd.tiddlywiki
 
 No body provided

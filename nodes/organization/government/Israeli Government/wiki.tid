@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071762
+created:1582720003380
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071762
+modified:1582720003380
 org.name:Israeli Government
 org.type:government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Israeli Government
-tmap.edges:{"e8c35917-94db-4061-a9d7-aca3b0f705a9":{"to":"1829b993-e961-4cd8-8255-37f39d60c11c","type":"government-connection"}}
-tmap.id:386d9a1e-39b7-4117-9bf1-390f6678831f
+tmap.edges:{"3ca26a58-ffc5-4cfb-9300-ebd81656fc34":{"to":"ea24e0e3-ccb0-4d0b-972e-1e1427ef9c8e","type":"government-connection"}}
+tmap.id:35046ba7-9e28-482e-ae6e-929bcaf608f5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

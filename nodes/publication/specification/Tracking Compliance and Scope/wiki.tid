@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071722
+created:1582720003340
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071722
+modified:1582720003340
 name:Tracking Compliance and Scope
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Tracking Compliance and Scope
-tmap.edges:{"92934df6-f45f-4bc6-b3e0-b22c2ccf0495":{"to":"35197831-fb28-4894-a8f8-e08044496a6f","type":"specification-of-group"}}
-tmap.id:b64dd46d-cb0e-4910-836b-6b8854c15421
+tmap.edges:{"5d4b52b0-5c4a-4804-918e-06c2cdceba4e":{"to":"4dee3692-1e5b-4405-9621-31c79f299238","type":"specification-of-group"}}
+tmap.id:d5202543-a1ee-4995-a97c-0b5b88d58e34
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/tr/tracking-compliance/
 version.or.edition:
@@ -26,5 +26,4 @@ volume.frequency:
 working.group:
 
 This specification defines a set of practices for compliance with a user's Do Not Track (DNT) tracking preference to which a server may claim adherence.
-
 

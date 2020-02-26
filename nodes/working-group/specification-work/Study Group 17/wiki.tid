@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071706
+created:1582720003323
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071706
+modified:1582720003323
 name:Study Group 17
 parent.org:ITU-T  International Telecommunication Union
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Study Group 17
-tmap.edges:{"ad9d9a42-26fa-4400-8c36-95f6c6eaa164":{"to":"2e443777-09c2-449e-8fa1-f784656cc718","type":"organization-for-group"},"4acb6c4f-4750-4874-a254-89030a0f2d7a":{"to":"f419bff2-0e6e-4380-82a9-3a05d90ee5a6","type":"connection"}}
-tmap.id:c75c0a29-eb55-4099-a384-d2b1d347da26
+tmap.edges:{"8d864841-e130-4eae-b85b-435c7f3ce59b":{"to":"3d2b9d5a-d98e-4b79-b0ce-79c257eef29a","type":"organization-for-group"},"5fdb244d-efbf-462b-888c-2b6973d112ac":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"connection"}}
+tmap.id:3d01ff3a-0ab4-4eb0-888d-6ba749d81c78
 type:text/vnd.tiddlywiki
 url:http://www.itu.int/en/itu-t/studygroups/2013-2016/17/pages/default.aspx
 
@@ -32,5 +32,4 @@ To give a few examples, SG17 is currently working on cybersecurity; security man
 One key reference for security standards in use today is Recommendation ITU-T X.509 for electronic authentication over public networks. ITU-T X.509, a cornerstone in designing applications relating to public key infrastructure (PKI), is used in a wide range of applications; from securing the connection between a browser and a server on the web, to providing digital signatures that enable e-commerce transactions to be conducted with the same confidence as in a traditional system. Without wide acceptance of the standard, the rise of e-business would have been impossible.
 
 Cybersecurity remains high on SG17’s agenda. Additionally, SG17 is coordinating standardization work covering e-health, open identity trust framework, Near Field Communication (NFC) security, and Child Online Protection.
-
 

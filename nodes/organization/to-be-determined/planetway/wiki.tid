@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:planetway
 org.type:to-be-determined
 parent.org:
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:planetway
 tmap.edges:{}
-tmap.id:60ba83c4-82ff-4957-8119-65a3eaafd65c
+tmap.id:fd60825b-90e2-46f0-99e0-4000fdb51dc9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://planetway.com/en/
@@ -38,5 +38,4 @@ We believe that data should belong to individuals, not organizations. Individual
 
 Background: By 2020 there will be 50-100 billion devices connected to the internet and this amount will exceed 1 trillion by 2035. The IoT market is predicted to grow to incorporate hundreds of trillions of devices and be valued at thousands of trillions of Yen. Machine learning and neural networks development began in 2007, and now, the world is currently at a turning point with the third AI boom upon us. We are surrounded by advanced technologies and a diverse business environment, entering a turbulent era which will have a revolutionary impact in human history.
 However, many businesses still don’t know how to harness and exploit major technology trends such as IoT and AI. We aim to coordinate new and existing technological trends and transform them into businesses. As a technology development company, we will provide original technology and our own platform to do business globally.
-
 

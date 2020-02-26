@@ -1,12 +1,12 @@
-created:1582719062083
+created:1582720021433
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f07c4500-6e2e-4fa1-966a-6877dc2a0f02
+map.base:177cb268-61f4-41e6-94a3-4ed50ad52d30
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062083
+modified:1582720021433
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform Cooperativism Consortium (organization)/filter/edges
-tmap.id:a7f71de4-f211-451c-bb84-54335cfc0190
+tmap.id:8e312fe8-063a-470c-9320-cfbdc5855f5e
 type:text/vnd.tiddlywiki
 
 No body provided

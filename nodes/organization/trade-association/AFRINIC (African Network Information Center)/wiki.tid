@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071757
+created:1582720003375
 date.ended:
 date.founded:2005-10-13
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071757
+modified:1582720003375
 org.name:AFRINIC (African Network Information Center)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:AFRINIC (African Network Information Center)
-tmap.edges:{"273a3057-2012-481b-b720-94d9330ba790":{"to":"c1104702-197d-413b-83e6-572267446857","type":"general-member"}}
-tmap.id:1bd66676-3e34-4209-9198-ea34d1062e6e
+tmap.edges:{"9be29679-480d-4993-9397-7fcd31dffdc8":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"general-member"}}
+tmap.id:f6cfcfe3-1542-43e3-be2f-2d1a925c68ef
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.afrinic.net/en/about/origins
@@ -44,5 +44,4 @@ Moreover during the same year, the first AFRINIC observers were appointed to the
 In 2004, after a selection of potential host countries, AFRINIC was incorporated in Mauritius. It was decided that the Board will consist of elected representatives from the six identified sub-regions in Africa (Northern, Western, Central, Eastern, Indian Ocean and Southern).
 
 AFRINIC was registered in Mauritius with its operations dispersed in South Africa (Technical operations), Egypt (Backup and disaster recovery) and Ghana (Training coordination)
-
 

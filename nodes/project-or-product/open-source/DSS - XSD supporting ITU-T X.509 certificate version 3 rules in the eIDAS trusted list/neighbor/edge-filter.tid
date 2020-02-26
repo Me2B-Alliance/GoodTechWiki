@@ -1,12 +1,12 @@
-created:1582719062179
+created:1582720021539
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4253f254-1492-45c2-9a9a-452cfd2f26ab
+map.base:08379716-66cd-4c69-ae0f-cf2123b4ef38
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062179
+modified:1582720021539
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list/filter/edges
-tmap.id:3d2fe1f6-df82-4d60-8d3e-0ae99a61d1a6
+tmap.id:c007dfe8-7de5-43b8-b489-408bbac1dccc
 type:text/vnd.tiddlywiki
 
 No body provided

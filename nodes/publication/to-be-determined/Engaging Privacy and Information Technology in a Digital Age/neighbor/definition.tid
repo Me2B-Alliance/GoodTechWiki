@@ -1,17 +1,17 @@
-config.central-topic:c07433fb-c4c2-4846-bd50-bba52804e22a
+config.central-topic:6b1b263b-6c19-4b0a-86a2-415908037a95
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062334
-id:9cc3570c-af25-4fa2-856e-98ce7cc2b8ae
+created:1582720021677
+id:50a2e053-6e74-43dd-a8db-43b92825b574
 isview:false
-map.base:c07433fb-c4c2-4846-bd50-bba52804e22a
+map.base:6b1b263b-6c19-4b0a-86a2-415908037a95
 map.role:definition
 map.type:neighbor
-modified:1582719062334
+modified:1582720021677
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Engaging Privacy and Information Technology in a Digital Age
-tmap.id:9cc3570c-af25-4fa2-856e-98ce7cc2b8ae
+tmap.id:50a2e053-6e74-43dd-a8db-43b92825b574
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Engaging Privacy and Information Technology in a Digital Age

@@ -1,12 +1,12 @@
-created:1582719062156
-filter:[field:tmap.id[3c9a80e4-e7b9-4079-b6e8-96cc2f5de3e0]]
-map.base:3c9a80e4-e7b9-4079-b6e8-96cc2f5de3e0
+created:1582720021515
+filter:[field:tmap.id[088269eb-b683-4f19-89b1-d5f245b56de3]]
+map.base:088269eb-b683-4f19-89b1-d5f245b56de3
 map.role:node-filter
 map.type:neighbor
-modified:1582719062156
+modified:1582720021515
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Federation for Information Processing/filter/nodes
-tmap.id:fe035c50-ddbd-48a4-8e16-8a97b13f424a
+tmap.id:d77cd525-ba4e-4a0c-a575-51dd1a5ef520
 type:text/vnd.tiddlywiki
 
 No body provided

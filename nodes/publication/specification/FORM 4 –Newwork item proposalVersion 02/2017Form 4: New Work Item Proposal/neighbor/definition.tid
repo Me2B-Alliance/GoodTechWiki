@@ -1,17 +1,17 @@
-config.central-topic:5fc1ec2f-88d2-40ac-a89c-58ddc2de8e90
+config.central-topic:cb36aae4-3090-4936-9629-bb039cbf69c2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062310
-id:fa80fb2c-6116-4331-9b44-9eb09cf2a47d
+created:1582720021651
+id:08e2cd62-05ac-4142-80bb-ef49abcd62cb
 isview:false
-map.base:5fc1ec2f-88d2-40ac-a89c-58ddc2de8e90
+map.base:cb36aae4-3090-4936-9629-bb039cbf69c2
 map.role:definition
 map.type:neighbor
-modified:1582719062310
+modified:1582720021651
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FORM 4 –Newwork item proposalVersion 02/2017Form 4: New Work Item Proposal
-tmap.id:fa80fb2c-6116-4331-9b44-9eb09cf2a47d
+tmap.id:08e2cd62-05ac-4142-80bb-ef49abcd62cb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of FORM 4 –Newwork item proposalVersion 02/2017Form 4: New Work Item Proposal

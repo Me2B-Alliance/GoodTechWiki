@@ -1,12 +1,12 @@
-created:1582719062268
-filter:[field:tmap.id[ed2a2d76-2254-4547-b0ce-4b8eabcf0f70]]
-map.base:ed2a2d76-2254-4547-b0ce-4b8eabcf0f70
+created:1582720021613
+filter:[field:tmap.id[5babd7b1-5097-46df-bbf6-d577ac2d00fa]]
+map.base:5babd7b1-5097-46df-bbf6-d577ac2d00fa
 map.role:node-filter
 map.type:neighbor
-modified:1582719062268
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Campus Support Systems for Technical Researchers Navigating Big Data Ethics/filter/nodes
-tmap.id:410b792a-a7bf-4d90-a523-1254b67e2104
+tmap.id:fcc82d2a-848f-4b23-b166-4f041f0dff74
 type:text/vnd.tiddlywiki
 
 No body provided

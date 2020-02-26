@@ -1,12 +1,12 @@
-created:1582719062242
+created:1582720021596
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad67bf00-2eed-4e22-b966-8819deaf035d
+map.base:0227a460-85cf-46da-8122-cb8a855e4fac
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062242
+modified:1582720021596
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Crisis: Clear Identity through Correlation/filter/edges
-tmap.id:8c0b84e4-9b8c-41da-b30a-c7a85b456c85
+tmap.id:ba2220f2-5eb7-4d63-9fd9-e557a5ffde7f
 type:text/vnd.tiddlywiki
 
 No body provided

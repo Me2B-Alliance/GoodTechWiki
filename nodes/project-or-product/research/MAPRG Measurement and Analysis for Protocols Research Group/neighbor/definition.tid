@@ -1,17 +1,17 @@
-config.central-topic:f32f89f9-9565-4059-aa4a-a4ed20be8a9d
+config.central-topic:664607af-43dc-415c-913e-69e79a2e8a83
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062189
-id:e6f8c520-0ae4-456c-b258-d90dedc49a78
+created:1582720021547
+id:33da0b2a-dbb3-474b-b9a0-bb80432ee071
 isview:false
-map.base:f32f89f9-9565-4059-aa4a-a4ed20be8a9d
+map.base:664607af-43dc-415c-913e-69e79a2e8a83
 map.role:definition
 map.type:neighbor
-modified:1582719062189
+modified:1582720021547
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MAPRG Measurement and Analysis for Protocols Research Group
-tmap.id:e6f8c520-0ae4-456c-b258-d90dedc49a78
+tmap.id:33da0b2a-dbb3-474b-b9a0-bb80432ee071
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MAPRG Measurement and Analysis for Protocols Research Group

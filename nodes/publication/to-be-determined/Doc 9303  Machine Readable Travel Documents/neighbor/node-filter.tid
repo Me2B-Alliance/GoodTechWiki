@@ -1,12 +1,12 @@
-created:1582719062333
-filter:[field:tmap.id[01b62dd5-9fa1-4f59-b440-cb11f2eef012]]
-map.base:01b62dd5-9fa1-4f59-b440-cb11f2eef012
+created:1582720021676
+filter:[field:tmap.id[3ff70a63-515c-46f8-bcc5-ebc0cdc18405]]
+map.base:3ff70a63-515c-46f8-bcc5-ebc0cdc18405
 map.role:node-filter
 map.type:neighbor
-modified:1582719062333
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doc 9303  Machine Readable Travel Documents/filter/nodes
-tmap.id:360f6d4d-4e87-4506-9e20-4371d1518e7e
+tmap.id:b87bd5f2-c716-40c7-b4bb-75cf8764b9e2
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:b97f03e4-f381-4f2e-86f7-c01266819cc6
+config.central-topic:a5b0539d-2e56-422b-86bb-cba9b7b8d307
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062200
-id:cd6088d6-046b-4542-b89b-5954c79a1570
+created:1582720021558
+id:3cc75029-63de-484d-85b6-ff328fec2371
 isview:false
-map.base:b97f03e4-f381-4f2e-86f7-c01266819cc6
+map.base:a5b0539d-2e56-422b-86bb-cba9b7b8d307
 map.role:definition
 map.type:neighbor
-modified:1582719062200
+modified:1582720021558
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Respects Your Freedom Certification
-tmap.id:cd6088d6-046b-4542-b89b-5954c79a1570
+tmap.id:3cc75029-63de-484d-85b6-ff328fec2371
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Respects Your Freedom Certification

@@ -1,17 +1,17 @@
-config.central-topic:123e3d91-0d2c-4e22-b182-f254d155645d
+config.central-topic:a49f8956-a841-4d1d-8467-a4388b3b221d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062113
-id:b5fff2b0-7f5b-460d-b265-5b0a7eb33ab1
+created:1582720021468
+id:c69ccc18-73cf-4bb0-ad91-1dc08d3a8887
 isview:false
-map.base:123e3d91-0d2c-4e22-b182-f254d155645d
+map.base:a49f8956-a841-4d1d-8467-a4388b3b221d
 map.role:definition
 map.type:neighbor
-modified:1582719062113
+modified:1582720021468
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Projects by IF
-tmap.id:b5fff2b0-7f5b-460d-b265-5b0a7eb33ab1
+tmap.id:c69ccc18-73cf-4bb0-ad91-1dc08d3a8887
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Projects by IF

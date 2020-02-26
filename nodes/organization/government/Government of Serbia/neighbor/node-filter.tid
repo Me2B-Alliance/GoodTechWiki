@@ -1,12 +1,12 @@
-created:1582719062104
-filter:[field:tmap.id[ee86d25e-3a0c-43ba-9507-e215822b5da8]]
-map.base:ee86d25e-3a0c-43ba-9507-e215822b5da8
+created:1582720021460
+filter:[field:tmap.id[0639c7ae-92b9-4068-88cd-460ffd4802ff]]
+map.base:0639c7ae-92b9-4068-88cd-460ffd4802ff
 map.role:node-filter
 map.type:neighbor
-modified:1582719062104
+modified:1582720021460
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Government of Serbia/filter/nodes
-tmap.id:5b2a5797-0649-4f19-b483-2a321756fa77
+tmap.id:cbff6c3d-b279-4567-958f-d4abbea0421e
 type:text/vnd.tiddlywiki
 
 No body provided

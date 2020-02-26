@@ -1,12 +1,12 @@
-created:1582719062093
+created:1582720021450
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7a148bb2-1b29-45d1-9e76-ad38e1cdafdf
+map.base:0afef8ef-c195-4ede-bdb3-0229fe415aa9
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062093
+modified:1582720021450
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nomura Research Institute/filter/edges
-tmap.id:8c3262f0-7694-424c-ae52-670a6290c130
+tmap.id:1bf275bf-4d15-4ca2-be43-7c3dd5d0b59d
 type:text/vnd.tiddlywiki
 
 No body provided

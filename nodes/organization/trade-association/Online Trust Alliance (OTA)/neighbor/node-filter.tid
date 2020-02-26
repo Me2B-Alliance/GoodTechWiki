@@ -1,12 +1,12 @@
-created:1582719062160
-filter:[field:tmap.id[bea43a62-cf34-406d-bf4d-f1630ebfc44d]]
-map.base:bea43a62-cf34-406d-bf4d-f1630ebfc44d
+created:1582720021518
+filter:[field:tmap.id[0e643bc8-19d2-466d-8c2f-9f0adeff750a]]
+map.base:0e643bc8-19d2-466d-8c2f-9f0adeff750a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062160
+modified:1582720021518
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Online Trust Alliance (OTA)/filter/nodes
-tmap.id:c8b53994-47dc-42e7-8d7e-2c9156a6bf64
+tmap.id:8b4e9f3e-9659-42ba-a616-ba1d509f226a
 type:text/vnd.tiddlywiki
 
 No body provided

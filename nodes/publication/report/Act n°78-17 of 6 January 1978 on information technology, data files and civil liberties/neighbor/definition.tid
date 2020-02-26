@@ -1,17 +1,17 @@
-config.central-topic:81e1c639-d986-4acd-98ef-ebe7764aa888
+config.central-topic:e75e7dce-e0b0-4e99-b06f-cc9b899ee738
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062262
-id:880c1e0a-0ae1-47e7-bc28-007dac182bee
+created:1582720021608
+id:d40a8c39-c128-43f5-997b-a694bc6d5d15
 isview:false
-map.base:81e1c639-d986-4acd-98ef-ebe7764aa888
+map.base:e75e7dce-e0b0-4e99-b06f-cc9b899ee738
 map.role:definition
 map.type:neighbor
-modified:1582719062262
+modified:1582720021608
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Act n°78-17 of 6 January 1978 on information technology, data files and civil liberties
-tmap.id:880c1e0a-0ae1-47e7-bc28-007dac182bee
+tmap.id:d40a8c39-c128-43f5-997b-a694bc6d5d15
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Act n°78-17 of 6 January 1978 on information technology, data files and civil liberties

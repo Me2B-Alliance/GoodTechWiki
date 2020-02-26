@@ -1,17 +1,17 @@
-config.central-topic:b56c20a9-8e9c-4f84-9aa3-740c63104681
+config.central-topic:64af7ba9-9669-4f94-a4cd-2e8d6d48abe4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062182
-id:4237ef28-a681-445d-b649-acadda0db956
+created:1582720021540
+id:593d2a4e-8dc1-4247-9c74-e648356e3669
 isview:false
-map.base:b56c20a9-8e9c-4f84-9aa3-740c63104681
+map.base:64af7ba9-9669-4f94-a4cd-2e8d6d48abe4
 map.role:definition
 map.type:neighbor
-modified:1582719062182
+modified:1582720021540
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ABC4Trust
-tmap.id:4237ef28-a681-445d-b649-acadda0db956
+tmap.id:593d2a4e-8dc1-4247-9c74-e648356e3669
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ABC4Trust

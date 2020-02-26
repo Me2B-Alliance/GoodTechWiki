@@ -1,12 +1,12 @@
-created:1582719062196
+created:1582720021552
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:62557f02-dac2-40ca-8d90-dedd15c354db
+map.base:9517467c-34a9-446c-936c-3843c921061d
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062196
+modified:1582720021552
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Coded Gaze/filter/edges
-tmap.id:05d226d0-e36b-4382-b2d7-ba220825afbe
+tmap.id:d5c2e0d1-27c3-4c1f-96e0-337f19f82312
 type:text/vnd.tiddlywiki
 
 No body provided

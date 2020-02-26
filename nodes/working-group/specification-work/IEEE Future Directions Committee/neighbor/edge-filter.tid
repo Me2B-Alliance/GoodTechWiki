@@ -1,12 +1,12 @@
-created:1582719062359
+created:1582720021698
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:878a68ab-c211-4a33-8613-2cd578853989
+map.base:1464f983-3d3e-4c53-9031-e7cb110d5899
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062359
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Future Directions Committee/filter/edges
-tmap.id:c33d0954-9fb0-4949-a378-45a212d4b572
+tmap.id:5e482598-e0b3-4d2c-a9db-59394055098a
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062142
+created:1582720021494
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:14e51de5-ad17-4739-9811-7256aff1af08
+map.base:fb14a5ef-0f45-437a-934f-3d2a7f77fd30
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062142
+modified:1582720021494
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Oasis (to-be-determined)/filter/edges
-tmap.id:069ee099-0280-48eb-a35e-e9471d52a217
+tmap.id:a335aeea-e2b6-4438-ba0d-9f01c0f738a7
 type:text/vnd.tiddlywiki
 
 No body provided

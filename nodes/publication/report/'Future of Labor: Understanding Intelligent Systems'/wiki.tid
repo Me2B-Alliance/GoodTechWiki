@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[alex rosenblat]] [[tamara kneese]] [[danah boyd]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003602
 name:'Future of Labor: Understanding Intelligent Systems'
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:'Future of Labor: Understanding Intelligent Systems'
 tmap.edges:{}
-tmap.id:f4954512-dbfe-47f4-ab2b-7fc3b3cdae9e
+tmap.id:173173c6-3984-4f77-bd55-618b8a870bea
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/understanding-intelligent-systems/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Science fiction has long imagined a workforce reshaped by robots, but the increasingly common instantiation of intelligent systems in business is much more mundane. Beyond the utopian and dystopian...
-
 

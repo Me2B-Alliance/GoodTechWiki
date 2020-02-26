@@ -1,12 +1,12 @@
-created:1582719062256
-filter:[field:tmap.id[f6d16bf7-31bb-40c9-8023-7f2214d445dc]]
-map.base:f6d16bf7-31bb-40c9-8023-7f2214d445dc
+created:1582720021604
+filter:[field:tmap.id[f6fa7159-9182-48c5-859e-aafaed88e239]]
+map.base:f6fa7159-9182-48c5-859e-aafaed88e239
 map.role:node-filter
 map.type:neighbor
-modified:1582719062256
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Towards Automatic Classification of Privacy Policy Text/filter/nodes
-tmap.id:291d386b-84c0-4956-b004-cd4c069ba230
+tmap.id:9ca5ff71-2f22-4366-8bf8-76c6e68e261d
 type:text/vnd.tiddlywiki
 
 No body provided

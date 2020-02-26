@@ -1,12 +1,12 @@
-created:1582719062222
+created:1582720021578
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d1f3235f-b14f-4471-a6f8-879c99808afe
+map.base:2c6408d6-cc8a-4ee8-a596-5d476b17e7f3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062222
+modified:1582720021578
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Briefing on the Digital Economy Bill Part 5: Digital Government/filter/edges
-tmap.id:4ed7d2c8-8507-4ac8-a573-fe7787776cd4
+tmap.id:4695e6f2-33f1-4551-80c9-8e86bf0e8ac4
 type:text/vnd.tiddlywiki
 
 No body provided

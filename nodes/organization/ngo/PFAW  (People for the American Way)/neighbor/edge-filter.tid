@@ -1,12 +1,12 @@
-created:1582719062112
+created:1582720021467
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4cccf4cb-b376-4ba0-8d3d-ca21c8353094
+map.base:0c31fb3d-a2d4-4bcb-a270-29b32b16a34a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062112
+modified:1582720021467
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PFAW  (People for the American Way)/filter/edges
-tmap.id:fec5e94f-c80f-40fd-ad2b-4ab633bdc155
+tmap.id:1c677153-8289-4b97-b2ec-e5ccd86a8e44
 type:text/vnd.tiddlywiki
 
 No body provided

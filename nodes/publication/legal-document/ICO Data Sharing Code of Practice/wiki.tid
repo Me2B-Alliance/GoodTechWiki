@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:ICO Data Sharing Code of Practice
 publication.type:legal document
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:ICO Data Sharing Code of Practice
 tmap.edges:{}
-tmap.id:e9ae1d51-1ea9-44cb-82c9-da172c0c99b7
+tmap.id:9ba6302e-0403-45ac-bb90-ee260eff7d66
 type:text/vnd.tiddlywiki
 url:https://ico.org.uk/media/about-the-ico/consultations/2615361/data-sharing-code-for-public-consultation.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This is a statutory code of practice made under section 121 of the Data Protection Act 2018. It is a practical guide for organisations about how to share personal data in compliance with data protection legislation. It explains the law and provides good practice recommendations. Following it along with other ICO guidance will help you to: manage risks; meet high standards; clarify any misconceptions your organisation may have about data sharing; and give you confidence to share data appropriately and correctly. •This code covers the sharing of personal data between organisations which are controllers. It includes when you give access to data to a third party, by whatever means. Data sharing can take place in a routine, scheduled way or on a one-off basis. When needed, data can be shared in an urgent or emergency situation.
-
 

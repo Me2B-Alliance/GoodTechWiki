@@ -1,17 +1,17 @@
-config.central-topic:c74e7f3d-6d49-4158-adac-8257a97f3377
+config.central-topic:c58507f4-5261-4985-a872-b7ca6df87ced
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062188
-id:d4ea96cb-ef3d-41be-95b4-d46782210a09
+created:1582720021546
+id:bddfeae5-85ff-4fb5-bd5b-75f0d1a59ec4
 isview:false
-map.base:c74e7f3d-6d49-4158-adac-8257a97f3377
+map.base:c58507f4-5261-4985-a872-b7ca6df87ced
 map.role:definition
 map.type:neighbor
-modified:1582719062188
+modified:1582720021546
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICNRG Information-Centric Networking Research Group
-tmap.id:d4ea96cb-ef3d-41be-95b4-d46782210a09
+tmap.id:bddfeae5-85ff-4fb5-bd5b-75f0d1a59ec4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ICNRG Information-Centric Networking Research Group

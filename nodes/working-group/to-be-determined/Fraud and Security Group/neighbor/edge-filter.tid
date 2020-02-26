@@ -1,12 +1,12 @@
-created:1582719062369
+created:1582720021707
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:db3bca9c-9d9e-4ab4-a7be-885dbadff61f
+map.base:0897254b-b07c-4182-9308-03f40138bba3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062369
+modified:1582720021707
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fraud and Security Group/filter/edges
-tmap.id:ad8a6a5d-5892-4d8a-85e9-f9d89cc422ef
+tmap.id:e2f01b3c-332c-40d2-9877-357f1bd82636
 type:text/vnd.tiddlywiki
 
 No body provided

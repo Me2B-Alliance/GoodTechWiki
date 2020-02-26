@@ -1,12 +1,12 @@
-created:1582719062342
+created:1582720021684
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fded635d-4ef8-4024-9c81-a418327c8667
+map.base:1ed4c1d1-5348-40e1-8ff7-c43b669a1538
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062342
+modified:1582720021684
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Privacy and Aerial Surveillance/filter/edges
-tmap.id:b0e48e1f-bb34-4911-8039-4720f2516c18
+tmap.id:841f8e46-7413-4a12-b4a0-c1c3c317deef
 type:text/vnd.tiddlywiki
 
 No body provided

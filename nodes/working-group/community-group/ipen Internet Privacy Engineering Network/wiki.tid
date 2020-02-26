@@ -1,6 +1,6 @@
 activities:
 category:community group
-created:1582678071706
+created:1582720003323
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071706
+modified:1582720003323
 name:ipen Internet Privacy Engineering Network
 parent.org:European Data Protection Supervisor (Contrôleur européen de la protection des données)
 people:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:ipen Internet Privacy Engineering Network
 tmap.edges:{}
-tmap.id:ffa2572c-2cd1-4bba-baaa-d6c21c2aa19b
+tmap.id:c44c9e2a-0a3d-4bec-af4e-14fcb28dce8f
 type:text/vnd.tiddlywiki
 url:https://secure.edps.europa.eu/edpsweb/edps/edps/ipen
 
@@ -33,5 +33,4 @@ It supports networking between engineer groups and existing initiatives for engi
 IPEN is building a repository of relevant resources, making its findings and knowledge base accessible to all participants, developers and privacy experts.
 
 A core group takes care of collection and distribution of information, liaises with other relevant initiatives, facilitates the dialogue on engineering solutions, and organises online and offline events.
-
 

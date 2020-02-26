@@ -1,17 +1,17 @@
-config.central-topic:6d7b6e92-6e35-4081-972f-5629ba272666
+config.central-topic:768ad8f7-ab26-4e0e-b51b-94c80ffeaf19
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062083
-id:bccea8da-43e7-445c-97f8-df6decba3149
+created:1582720021436
+id:36e4f2c4-9ffe-4a0b-b0d2-56df77b6c50a
 isview:false
-map.base:6d7b6e92-6e35-4081-972f-5629ba272666
+map.base:768ad8f7-ab26-4e0e-b51b-94c80ffeaf19
 map.role:definition
 map.type:neighbor
-modified:1582719062083
+modified:1582720021436
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Callcredit Information Group
-tmap.id:bccea8da-43e7-445c-97f8-df6decba3149
+tmap.id:36e4f2c4-9ffe-4a0b-b0d2-56df77b6c50a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Callcredit Information Group

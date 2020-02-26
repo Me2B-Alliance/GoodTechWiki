@@ -1,17 +1,17 @@
-config.central-topic:1b7a9668-a082-468b-9807-7e85f09283f5
+config.central-topic:46479357-bccc-4808-aa54-57da5ec19ddb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062273
-id:8b1bf235-c6be-415e-bbed-c8c5151e141e
+created:1582720021622
+id:29f82eef-33e1-4511-b39f-6fe92b4da4ad
 isview:false
-map.base:1b7a9668-a082-468b-9807-7e85f09283f5
+map.base:46479357-bccc-4808-aa54-57da5ec19ddb
 map.role:definition
 map.type:neighbor
-modified:1582719062273
+modified:1582720021622
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fairness in Precision Medicine(publication/report) (publication)
-tmap.id:8b1bf235-c6be-415e-bbed-c8c5151e141e
+tmap.id:29f82eef-33e1-4511-b39f-6fe92b4da4ad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Fairness in Precision Medicine(publication/report) (publication)

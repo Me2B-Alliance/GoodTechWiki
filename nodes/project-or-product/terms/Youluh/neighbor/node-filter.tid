@@ -1,12 +1,12 @@
-created:1582719062212
-filter:[field:tmap.id[d7fcabf7-97ea-497c-8d92-6d670700df98]]
-map.base:d7fcabf7-97ea-497c-8d92-6d670700df98
+created:1582720021567
+filter:[field:tmap.id[2cb529fe-c8c7-4d47-9ef5-f18412b04203]]
+map.base:2cb529fe-c8c7-4d47-9ef5-f18412b04203
 map.role:node-filter
 map.type:neighbor
-modified:1582719062212
+modified:1582720021567
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Youluh/filter/nodes
-tmap.id:bbb6761f-8321-4ac2-8e33-93285d546878
+tmap.id:51de2993-30c4-46a3-a57b-0ab268a72491
 type:text/vnd.tiddlywiki
 
 No body provided

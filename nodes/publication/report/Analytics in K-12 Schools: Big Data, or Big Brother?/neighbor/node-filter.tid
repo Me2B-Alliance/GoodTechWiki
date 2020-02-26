@@ -1,12 +1,12 @@
-created:1582719062264
-filter:[field:tmap.id[f8926684-fdf3-4b5c-a6cd-97005a93914b]]
-map.base:f8926684-fdf3-4b5c-a6cd-97005a93914b
+created:1582720021610
+filter:[field:tmap.id[e5c1398f-97e0-413a-9106-8855ae35753d]]
+map.base:e5c1398f-97e0-413a-9106-8855ae35753d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062264
+modified:1582720021610
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Analytics in K-12 Schools: Big Data, or Big Brother?/filter/nodes
-tmap.id:03f05785-9ff8-4b98-9dfc-dea0de962c3c
+tmap.id:0c4ee54e-0ff0-4771-bfdf-57674c69ee68
 type:text/vnd.tiddlywiki
 
 No body provided

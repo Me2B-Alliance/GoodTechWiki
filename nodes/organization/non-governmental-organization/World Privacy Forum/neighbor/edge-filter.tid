@@ -1,12 +1,12 @@
-created:1582719062116
+created:1582720021471
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fc43fdaf-7c77-4ce7-a82b-51388a239b1b
+map.base:77a01b26-0ae3-4e4c-83bb-8953461f0942
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062116
+modified:1582720021471
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/World Privacy Forum/filter/edges
-tmap.id:a4ca5ab6-a800-42f1-bb05-941cc005ec32
+tmap.id:628e80b8-8428-47ae-bc82-f251474b424a
 type:text/vnd.tiddlywiki
 
 No body provided

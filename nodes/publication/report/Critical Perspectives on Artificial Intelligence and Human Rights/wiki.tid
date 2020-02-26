@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[melanie penagos]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Critical Perspectives on Artificial Intelligence and Human Rights
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[data]] [[human rights & human security]]
 tech.focus:
 tiddler.classification:node
 title:Critical Perspectives on Artificial Intelligence and Human Rights
 tmap.edges:{}
-tmap.id:d085ee7b-6623-46ea-ae39-e462cf641bf4
+tmap.id:ad51b591-1452-432d-b152-431c8deb7538
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/critical-perspectives-on-artificial-intelligence-and-human-rights/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Data & Society Research Analyst Melanie Penagos summarizes three blogposts that came as a result of Data & Society’s AI & Human Rights Workshop in April 2018.
 
 “Following Data & Society’s AI & Human Rights Workshop in April, several participants continued to reflect on the convening and comment on the key issues that were discussed. The following is a summary of articles written by workshop attendees Bendert Zevenbergen, Elizabeth Eagen, and Aubra Anthony.”
-
 

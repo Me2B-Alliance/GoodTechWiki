@@ -1,12 +1,12 @@
-created:1582719062147
-filter:[field:tmap.id[0bdc0235-6c6d-403a-a728-d203399a966a]]
-map.base:0bdc0235-6c6d-403a-a728-d203399a966a
+created:1582720021501
+filter:[field:tmap.id[629e998c-3011-4285-a2d2-85827c7113ee]]
+map.base:629e998c-3011-4285-a2d2-85827c7113ee
 map.role:node-filter
 map.type:neighbor
-modified:1582719062147
+modified:1582720021501
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Yellowtail/filter/nodes
-tmap.id:7c696949-8bc6-4656-8631-f07cec889beb
+tmap.id:4daec742-6cea-42e7-aa06-0ec48666ff59
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:f02370c9-a900-4798-884e-15d89f176347
+config.central-topic:8b3f2f87-0cab-44d6-abac-7dabe60c3b2b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062156
-id:4a48ac48-8de7-4971-9393-9804040ba96c
+created:1582720021516
+id:a7fcbead-429a-48d6-b86f-5a888d6ec28a
 isview:false
-map.base:f02370c9-a900-4798-884e-15d89f176347
+map.base:8b3f2f87-0cab-44d6-abac-7dabe60c3b2b
 map.role:definition
 map.type:neighbor
-modified:1582719062156
+modified:1582720021516
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Security Research Groups ISRG
-tmap.id:4a48ac48-8de7-4971-9393-9804040ba96c
+tmap.id:a7fcbead-429a-48d6-b86f-5a888d6ec28a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Internet Security Research Groups ISRG

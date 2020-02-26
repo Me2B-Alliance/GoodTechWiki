@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071760
+created:1582720003378
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071760
+modified:1582720003378
 org.name:EFF
 org.type:non governmental organization
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:EFF
-tmap.edges:{"3d4f1af7-93e5-4272-a9a6-cae7996a9caf":{"to":"69644d31-bd1f-45cb-9679-7313c80cec8b","type":"organization-for-group"}}
-tmap.id:0ed1143d-8667-45ec-8155-a9cf7249ca30
+tmap.edges:{"ec2a1e6f-8c42-430c-b9a2-a4d4b0c760a0":{"to":"352b99e1-8d06-4bf5-83f2-19934c23a627","type":"organization-for-group"}}
+tmap.id:2fdc1a44-34fd-4c6c-8f50-bb7da7b71bc2
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.eff.org
-
 
 
 

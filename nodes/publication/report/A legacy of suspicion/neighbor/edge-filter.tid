@@ -1,12 +1,12 @@
-created:1582719062261
+created:1582720021608
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e5280a89-3761-4b0b-a47c-930acee6cb21
+map.base:697b698c-7067-44e4-aec7-a28f90ac2f23
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062261
+modified:1582720021608
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A legacy of suspicion/filter/edges
-tmap.id:b9618c81-1bc2-4b1e-a76d-2bf8756caa2d
+tmap.id:250febd0-235b-4044-b5b4-8670c3224a30
 type:text/vnd.tiddlywiki
 
 No body provided

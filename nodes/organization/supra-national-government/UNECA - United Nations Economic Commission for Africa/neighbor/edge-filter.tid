@@ -1,12 +1,12 @@
-created:1582719062128
+created:1582720021485
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:500ba400-1049-4936-9721-a59f27599311
+map.base:7d921a2b-0d69-4797-88b7-d7d11b770b38
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062128
+modified:1582720021485
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UNECA - United Nations Economic Commission for Africa/filter/edges
-tmap.id:0d5903fb-17ec-414e-8b8f-e1d6c2411cdf
+tmap.id:5b64a755-76b0-40f2-9b8b-e530ed692f25
 type:text/vnd.tiddlywiki
 
 No body provided

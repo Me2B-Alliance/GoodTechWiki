@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582678071725
+created:1582720003342
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071725
+modified:1582720003342
 name:Identification cards – Machine readable travel documents – Part 1: Machine readable passport
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Machine readable travel documents – Part 1: Machine readable passport
-tmap.edges:{"f901355d-ffa4-4075-ad36-7315c5363528":{"to":"08562622-c5a6-40ab-a0cf-f46ae861853c","type":"specification-of-group"}}
-tmap.id:6720aaa8-e0ac-49a6-ba1f-ddf4c5b06d28
+tmap.edges:{"4079645b-523f-476e-a463-61a96d99b7f3":{"to":"9a22259c-d2d7-40ec-8fd4-acec7ab8c3b6","type":"specification-of-group"}}
+tmap.id:270fd817-5e9a-4299-9f0b-a31e73c8cd05
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -44,5 +44,4 @@ ISO/IEC International Standard 7501-1:2007 is intended for use in all applicatio
 ISO/IEC International Standard 7501-1:2007 is based on a Standard established by the International Civil Aviation Organization; ICAO Doc 9303 Part 1. ICAO Doc 9303 
 
 Part 1 is maintained by a Technical Advisory Group on Machine Readable Travel Documents (TAG/MRTD). ISO/IEC JTC1 has and continues to provide liaison during the TAG/MRTD meetings on ICAO Doc 9303 Part 1 and considered the technical specifications to which the endorsement notice applies.
-
 

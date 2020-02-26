@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003591
 org.name:Data for Black Lives
 org.type:ngo
 parent.org:MIT Media Lab
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[human rights]]
 relevant.publications:
 scope:
 sector:academic
@@ -29,11 +29,10 @@ tech.focus:Data Mobility: Information Sharing Control
 tiddler.classification:node
 title:Data for Black Lives
 tmap.edges:{}
-tmap.id:3a028d80-e9c1-401b-8701-81f5af6db1bb
+tmap.id:71bc8bd1-6455-4b56-87d1-83d973a3c673
 twitter.profile:https://twitter.com/data4blacklives
 type:text/vnd.tiddlywiki
 website:http://d4bl.org/
 
 Data for Black Lives is a group of activists: organizers: and mathematicians committed to the mission of using data science to create concrete and measurable change in the lives of Black people....Data for Black Lives seeks to mobilize scientists around racial justice issues. At our conference in November: we will convene over two hundred data scientists: computer programmers: racial justice activists: and elected officials to discuss the role that data can and should play in Black communities.
-
 

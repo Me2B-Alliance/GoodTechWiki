@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[software development]] [[standard development]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/trustdata
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):[object Set]
+location(s):[[cambridge]] [[ma]]
 me2b.relationship:
-modified:1582678071964
+modified:1582720003591
 org.name:Trust::Data Consortium
 org.type:university department
 parent.org:MIT
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[usability]]
 relevant.publications:
 scope:
 sector:academic
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Trust::Data Consortium
 tmap.edges:{}
-tmap.id:039c9080-77f5-40e4-bdf9-94f0fc817f56
+tmap.id:933f383c-2728-4332-aa48-4533b603e1f7
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://trust.mit.edu
 
 Developing privacy-preserving identity systems and safe distributed computation: enabling an Internet of Trusted Data.
-
 

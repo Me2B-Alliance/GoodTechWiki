@@ -1,12 +1,12 @@
-created:1582719062258
-filter:[field:tmap.id[d7048ef4-f894-4921-aafa-225766f58a30]]
-map.base:d7048ef4-f894-4921-aafa-225766f58a30
+created:1582720021604
+filter:[field:tmap.id[dc9fd9b2-52de-4395-8929-b95db6d203d1]]
+map.base:dc9fd9b2-52de-4395-8929-b95db6d203d1
 map.role:node-filter
 map.type:neighbor
-modified:1582719062258
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Economics of Personal Data and the Economics of Privacy/filter/nodes
-tmap.id:bee14ccb-5b36-4d7c-8fcd-4400985a0502
+tmap.id:f44df504-8874-4fca-bfa8-110e001e52c8
 type:text/vnd.tiddlywiki
 
 No body provided

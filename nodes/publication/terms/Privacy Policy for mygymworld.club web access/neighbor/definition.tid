@@ -1,17 +1,17 @@
-config.central-topic:c1cb039a-9715-40f1-9bbd-328bf7585dfb
+config.central-topic:b57fc5d0-8464-4e81-85f0-6b037bbb72ab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062330
-id:7597075c-dee8-4f38-9242-37c3e3bb66c7
+created:1582720021675
+id:0f692ff3-b189-495d-80f3-07611804d695
 isview:false
-map.base:c1cb039a-9715-40f1-9bbd-328bf7585dfb
+map.base:b57fc5d0-8464-4e81-85f0-6b037bbb72ab
 map.role:definition
 map.type:neighbor
-modified:1582719062330
+modified:1582720021675
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Policy for mygymworld.club web access
-tmap.id:7597075c-dee8-4f38-9242-37c3e3bb66c7
+tmap.id:0f692ff3-b189-495d-80f3-07611804d695
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Policy for mygymworld.club web access

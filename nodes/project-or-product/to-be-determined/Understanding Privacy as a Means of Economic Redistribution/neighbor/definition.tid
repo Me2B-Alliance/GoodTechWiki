@@ -1,17 +1,17 @@
-config.central-topic:a3c27dd2-17ce-45e3-bacd-ce17c5ba3f1a
+config.central-topic:080ee57a-2936-4768-b4a8-938017d8a662
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062217
-id:0e81d7ed-27b7-486b-bae4-918f73682943
+created:1582720021574
+id:2a1dc545-67de-47c0-b2b1-7e79c560a1da
 isview:false
-map.base:a3c27dd2-17ce-45e3-bacd-ce17c5ba3f1a
+map.base:080ee57a-2936-4768-b4a8-938017d8a662
 map.role:definition
 map.type:neighbor
-modified:1582719062217
+modified:1582720021574
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Understanding Privacy as a Means of Economic Redistribution
-tmap.id:0e81d7ed-27b7-486b-bae4-918f73682943
+tmap.id:2a1dc545-67de-47c0-b2b1-7e79c560a1da
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Understanding Privacy as a Means of Economic Redistribution

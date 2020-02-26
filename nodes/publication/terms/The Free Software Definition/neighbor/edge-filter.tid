@@ -1,12 +1,12 @@
-created:1582719062331
+created:1582720021674
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:58a08f7a-c876-4137-8f97-c22f99d00257
+map.base:70c9cefe-1c91-4d3b-b916-f599ef7c7af3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062331
+modified:1582720021674
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Free Software Definition/filter/edges
-tmap.id:3cf983f8-5d20-4f13-80f5-7f30d5ca10aa
+tmap.id:b3497583-0fa8-47bb-8365-60954ec2d079
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ input.source:me2b
 key.people:
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071963
+me2b.relationship:[[content source for me2b interoperability spec]]
+modified:1582720003590
 org.name:Dataportability . org
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]] [[terms]] [[tech interoperability]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Dataportability . org (organization)
 tmap.edges:{}
-tmap.id:d38063c4-b1ef-4a9e-98ac-20261ece7fdc
+tmap.id:f48e270e-d003-470a-909f-c543058be2fa
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://dataportability.org/
 
 Data portability is the ability for people to reuse their data across interoperable applications. The DataPortability Project works to advance this vision by identifying: contextualizing and promoting efforts in the space.
-
 

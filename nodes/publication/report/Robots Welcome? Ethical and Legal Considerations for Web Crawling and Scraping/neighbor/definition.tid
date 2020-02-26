@@ -1,17 +1,17 @@
-config.central-topic:0a2aee7d-e47e-4159-b4d0-ba75f04d6a4e
+config.central-topic:7efd9289-322a-4b1e-99a8-c942a67d6389
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062291
-id:2df05e40-45b3-4e36-90c0-59eb778db593
+created:1582720021636
+id:24459d01-aea9-4de5-b8ba-9e808f0b0ba8
 isview:false
-map.base:0a2aee7d-e47e-4159-b4d0-ba75f04d6a4e
+map.base:7efd9289-322a-4b1e-99a8-c942a67d6389
 map.role:definition
 map.type:neighbor
-modified:1582719062291
+modified:1582720021636
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping
-tmap.id:2df05e40-45b3-4e36-90c0-59eb778db593
+tmap.id:24459d01-aea9-4de5-b8ba-9e808f0b0ba8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping

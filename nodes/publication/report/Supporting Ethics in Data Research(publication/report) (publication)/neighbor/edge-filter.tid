@@ -1,12 +1,12 @@
-created:1582719062295
+created:1582720021639
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ff89295f-b07e-437c-aaff-36c839a4b344
+map.base:74b65580-afd2-4235-a690-4fc8df0c6cba
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062295
+modified:1582720021639
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Supporting Ethics in Data Research(publication/report) (publication)/filter/edges
-tmap.id:b9d5c817-28a4-4975-9bfd-065d70ad12f2
+tmap.id:71cd8301-ff7f-47f9-a738-681f213727a8
 type:text/vnd.tiddlywiki
 
 No body provided

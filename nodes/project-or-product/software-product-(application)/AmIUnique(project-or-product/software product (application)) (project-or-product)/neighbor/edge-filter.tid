@@ -1,12 +1,12 @@
-created:1582719062206
+created:1582720021561
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:910c229d-e654-478f-9c90-cad90fdfff84
+map.base:03817b1e-2e83-48fc-8edc-3cdb05a48f34
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062206
+modified:1582720021561
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AmIUnique(project-or-product/software product (application)) (project-or-product)/filter/edges
-tmap.id:56434f5a-33da-4464-8c24-e03847cbd827
+tmap.id:18edf1b3-fe51-4237-a0bc-8025941e1873
 type:text/vnd.tiddlywiki
 
 No body provided

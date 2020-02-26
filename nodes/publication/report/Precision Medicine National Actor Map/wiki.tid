@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Precision Medicine National Actor Map
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[fairness in precision medicine]] [[health and data]]
 tech.focus:
 tiddler.classification:node
 title:Precision Medicine National Actor Map
 tmap.edges:{}
-tmap.id:c2737e41-8953-4b96-b7db-7f4d5cd85f34
+tmap.id:cbe119c7-b299-4b42-8cb9-3e3cf9dd1eef
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/precision-medicine-national-actor-map/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 The Precision Medicine National Actor Map is the first visualization of the three major national precision medicine projects–All of Us Research Program, My Research Legacy, Project Baseline–and the network of institutions connected to them as grantees and sub-grantees.
-
 

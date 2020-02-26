@@ -1,12 +1,12 @@
-created:1582719062255
-filter:[field:tmap.id[6bd07831-f583-4c18-8d88-1e617fac2c87]]
-map.base:6bd07831-f583-4c18-8d88-1e617fac2c87
+created:1582720021604
+filter:[field:tmap.id[c307dd8a-4a16-496f-bd76-313e05a56184]]
+map.base:c307dd8a-4a16-496f-bd76-313e05a56184
 map.role:node-filter
 map.type:neighbor
-modified:1582719062255
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Issues and Recommendations for Online Social Networks/filter/nodes
-tmap.id:1db755ac-dbde-4e5a-b955-ecaa259f11dd
+tmap.id:bc4d2dcd-9751-4bb8-b5f7-5cf1e758bf21
 type:text/vnd.tiddlywiki
 
 No body provided

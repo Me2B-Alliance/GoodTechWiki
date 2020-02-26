@@ -1,12 +1,12 @@
-created:1582719062345
-filter:[field:tmap.id[a3cb4055-1c4d-43da-8031-e951024296c0]]
-map.base:a3cb4055-1c4d-43da-8031-e951024296c0
+created:1582720021687
+filter:[field:tmap.id[d908cbf5-6456-451e-b95a-e592fcba8c5d]]
+map.base:d908cbf5-6456-451e-b95a-e592fcba8c5d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062345
+modified:1582720021687
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Computer Glossary/filter/nodes
-tmap.id:233dba95-ac1b-4601-bb09-6e62ce76bfb3
+tmap.id:28d118fe-7298-474d-84c2-b9af93a4c018
 type:text/vnd.tiddlywiki
 
 No body provided

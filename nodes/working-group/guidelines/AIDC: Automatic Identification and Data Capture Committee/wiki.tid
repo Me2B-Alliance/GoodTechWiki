@@ -1,6 +1,6 @@
 activities:
 category:guidelines
-created:1582678071713
+created:1582720003330
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071713
+modified:1582720003330
 name:AIDC: Automatic Identification and Data Capture Committee
 parent.org:ATIS   The Alliance for Telecommunications Industry Solutions, USA
 people:
@@ -18,13 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:AIDC: Automatic Identification and Data Capture Committee
-tmap.edges:{"ef533319-de97-4648-8b9b-ab15efdcc427":{"to":"c160863c-2b3c-4f2c-b619-471766e106af","type":"organization-for-group"}}
-tmap.id:93308f42-a163-4663-ac41-683ec44e9a98
+tmap.edges:{"3efad462-7ab0-43b5-9324-ec0008e6efc4":{"to":"a73941e9-8958-45c6-ae00-b302639aa22c","type":"organization-for-group"}}
+tmap.id:9d24439e-894e-42ea-a726-64a531ac1190
 type:text/vnd.tiddlywiki
 url:http://www.atis.org/01_committ_forums/aidc/about.asp
 
 AIDC delivers solutions to simplify receiving, shipping, transportation and tracing processes for telecommunications products. Its work helps the industry achieve greater efficiencies in transactions between companies and throughout the global supply chain.
 
 AIDC delivers essential guidelines for common shipping labels, product marking labels, RFID tagging, product changes and software issuance standards. It also acts as a critical liaison with several groups to ensure integration of U.S. and global standards.
-
 

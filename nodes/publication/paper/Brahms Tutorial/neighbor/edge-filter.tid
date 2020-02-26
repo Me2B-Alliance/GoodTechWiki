@@ -1,12 +1,12 @@
-created:1582719062237
+created:1582720021591
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:98344012-1bc3-49f0-921a-15afde07c984
+map.base:999a552c-7455-4e6d-be5c-e9a64bc9f0de
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062237
+modified:1582720021591
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Brahms Tutorial/filter/edges
-tmap.id:d5087058-1f9e-41ff-8d10-9c52f7cdd789
+tmap.id:8fd7c18a-ee64-4673-b022-42776fc607ca
 type:text/vnd.tiddlywiki
 
 No body provided

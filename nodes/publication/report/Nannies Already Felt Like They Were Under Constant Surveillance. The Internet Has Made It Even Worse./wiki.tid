@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[alexandra mateescu]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003602
 name:Nannies Already Felt Like They Were Under Constant Surveillance. The Internet Has Made It Even Worse.
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[social instabilities in labor futures]] [[mapping inequalities across the on-demand economy]]
 tech.focus:
 tiddler.classification:node
 title:Nannies Already Felt Like They Were Under Constant Surveillance. The Internet Has Made It Even Worse.
 tmap.edges:{}
-tmap.id:5d1aeda5-5394-4960-930a-65b8f5fd0717
+tmap.id:85317365-7aad-423c-805a-146169d97820
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/nannies-already-felt-like-they-were-under-constant-surveillance-the-internet-has-made-it-even-worse/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Drawing on conclusions from the Data & Society report Beyond Disruption, Researcher Alexandra Mateescu discusses surveillance of domestic care workers online.
 
     “Online marketplaces may not be the root cause of individual employers’ biases, but their design is not neutral. They are built with a particular archetype of what an “entrepreneurial” domestic worker looks like—one who feels at home in the world of apps, social media, and online self-branding—and ultimately replicates and can even exacerbate many of the divisions that came with our predigital workplaces. As platform companies gain growing power over the hiring processes of a whole industry, they will need to actively work against the embedded inequalities in the markets they now mediate.”
-
 

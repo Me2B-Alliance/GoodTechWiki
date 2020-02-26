@@ -1,12 +1,12 @@
-created:1582719062167
+created:1582720021526
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6ce2ed59-59d6-49a8-b949-2e082c9479c1
+map.base:1629b246-dc2f-47c7-8fe3-7c769b7f8076
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062167
+modified:1582720021526
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ruhr-University Bochum/filter/edges
-tmap.id:357e3cd6-a0f6-4651-b66f-1f6647c8456f
+tmap.id:07b1af17-470e-4810-9623-821cfe72299d
 type:text/vnd.tiddlywiki
 
 No body provided

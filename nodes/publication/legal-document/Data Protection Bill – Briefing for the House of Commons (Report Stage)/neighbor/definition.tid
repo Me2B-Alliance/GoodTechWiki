@@ -1,17 +1,17 @@
-config.central-topic:45b3da77-f5c0-48de-b9a8-a4d7a5abdec2
+config.central-topic:2b364654-ac30-4e41-a367-ebb44152c6ce
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062223
-id:264e868f-d622-46bc-9ba2-1f8274c28cc2
+created:1582720021579
+id:438f3b6b-2caf-4c2a-bbab-6e3cf9afabc0
 isview:false
-map.base:45b3da77-f5c0-48de-b9a8-a4d7a5abdec2
+map.base:2b364654-ac30-4e41-a367-ebb44152c6ce
 map.role:definition
 map.type:neighbor
-modified:1582719062223
+modified:1582720021579
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing for the House of Commons (Report Stage)
-tmap.id:264e868f-d622-46bc-9ba2-1f8274c28cc2
+tmap.id:438f3b6b-2caf-4c2a-bbab-6e3cf9afabc0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Protection Bill – Briefing for the House of Commons (Report Stage)

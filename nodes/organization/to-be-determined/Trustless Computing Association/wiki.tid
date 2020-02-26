@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Trustless Computing Association
 org.type:to-be-determined
 parent.org:
@@ -28,12 +28,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Trustless Computing Association
-tmap.edges:{"62dd6873-12ca-49db-989b-529a9f56180d":{"to":"e8caf28a-41a7-4437-9312-2a2648e43cd9","type":"Sponsors"}}
-tmap.id:ef621277-1cdf-4db1-a06d-b7a667ced79b
+tmap.edges:{"d9b80d1b-3df1-4166-8077-15d941ef9819":{"to":"ddca3364-478b-447b-88c8-a31547a0a4fb","type":"Sponsors"}}
+tmap.id:469a88a0-3a99-4531-94c8-b7515c11aa7a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.trustlesscomputing.org/tccb-seevik-net
 
 Since 2013: the Trustless Computing Association (“TCA“) has been promoting the creation and wide adoption of new IT security (high-level) standard setting and certification body: Trustless Computing Certification Body (TCCB) and a compliant open computing base: ecosystem and human computing systems: Seevik Net Service: that aim to radically-exceeds the state-of-the-art in trustworthiness of sensitive digital human computing: while concurrently solidly enabling legitimate lawful access.
-
 

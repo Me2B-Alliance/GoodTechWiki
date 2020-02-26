@@ -1,12 +1,12 @@
-created:1582719062349
-filter:[field:tmap.id[4fd6c7fc-a224-47b0-961e-d2e9b77afcac]]
-map.base:4fd6c7fc-a224-47b0-961e-d2e9b77afcac
+created:1582720021691
+filter:[field:tmap.id[2d9b7ff5-f891-4ce3-9490-d0e2f98e697b]]
+map.base:2d9b7ff5-f891-4ce3-9490-d0e2f98e697b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062349
+modified:1582720021691
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Security Interest Group/filter/nodes
-tmap.id:47b6f0dd-160a-4580-b2f7-ab01625dc3a3
+tmap.id:9c41a782-c1d0-47d8-a41f-52dc8d77c314
 type:text/vnd.tiddlywiki
 
 No body provided

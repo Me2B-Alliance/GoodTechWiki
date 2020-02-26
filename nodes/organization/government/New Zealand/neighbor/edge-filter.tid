@@ -1,12 +1,12 @@
-created:1582719062105
+created:1582720021460
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e98dd8e6-59fe-422f-bd79-bc11fd939c38
+map.base:aadc8ff9-6d45-409d-9830-6a6874ba4245
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062105
+modified:1582720021460
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/New Zealand/filter/edges
-tmap.id:b4c9cfac-5968-4aa2-a600-15497a52839a
+tmap.id:6a599452-ec38-45a7-8eac-31e2e227428e
 type:text/vnd.tiddlywiki
 
 No body provided

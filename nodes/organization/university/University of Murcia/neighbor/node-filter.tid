@@ -1,12 +1,12 @@
-created:1582719062168
-filter:[field:tmap.id[f069e6fc-65ca-43ca-b9af-ee62dd5f3df6]]
-map.base:f069e6fc-65ca-43ca-b9af-ee62dd5f3df6
+created:1582720021527
+filter:[field:tmap.id[e69a7e44-d694-46f3-a6db-e7eb15318060]]
+map.base:e69a7e44-d694-46f3-a6db-e7eb15318060
 map.role:node-filter
 map.type:neighbor
-modified:1582719062168
+modified:1582720021527
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Murcia/filter/nodes
-tmap.id:b0223a04-fbcd-465b-9995-74bf23a0c53b
+tmap.id:79947bf1-4236-4fb0-b4e2-3d71e8b76218
 type:text/vnd.tiddlywiki
 
 No body provided

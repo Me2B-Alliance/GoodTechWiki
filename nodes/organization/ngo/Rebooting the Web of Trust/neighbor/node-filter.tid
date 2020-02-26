@@ -1,12 +1,12 @@
-created:1582719062112
-filter:[field:tmap.id[71cd1193-67c0-40cc-b6fa-3eb3bb1ed9e9]]
-map.base:71cd1193-67c0-40cc-b6fa-3eb3bb1ed9e9
+created:1582720021468
+filter:[field:tmap.id[1d69aaac-da2f-4e7a-964a-490f09950216]]
+map.base:1d69aaac-da2f-4e7a-964a-490f09950216
 map.role:node-filter
 map.type:neighbor
-modified:1582719062112
+modified:1582720021468
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rebooting the Web of Trust/filter/nodes
-tmap.id:70ab4561-4424-462c-96ed-b29784066aea
+tmap.id:315c5b00-f55e-409a-8a26-50036f67e0f0
 type:text/vnd.tiddlywiki
 
 No body provided

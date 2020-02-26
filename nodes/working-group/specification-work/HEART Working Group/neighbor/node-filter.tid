@@ -1,12 +1,12 @@
-created:1582719062359
-filter:[field:tmap.id[d1ac68b0-476a-43d8-b3a3-2518a8d709fa]]
-map.base:d1ac68b0-476a-43d8-b3a3-2518a8d709fa
+created:1582720021697
+filter:[field:tmap.id[0f6005ae-1e2a-49c0-b414-69edf47e430b]]
+map.base:0f6005ae-1e2a-49c0-b414-69edf47e430b
 map.role:node-filter
 map.type:neighbor
-modified:1582719062359
+modified:1582720021697
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HEART Working Group/filter/nodes
-tmap.id:1c16bb51-4fdb-473b-95df-08fdad438ecd
+tmap.id:3d0a8651-1776-4daf-9d7b-24991d04c81b
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062215
+created:1582720021574
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f447cddc-4aa2-42a1-90df-402f74eadaf8
+map.base:c9b34b83-f2aa-4615-89e4-1b50e16634f7
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062215
+modified:1582720021574
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Scan Congress/filter/edges
-tmap.id:56b9c807-9250-4ad7-af63-764b7a19aa49
+tmap.id:bffa01fe-36e6-4521-a013-46a400f5d503
 type:text/vnd.tiddlywiki
 
 No body provided

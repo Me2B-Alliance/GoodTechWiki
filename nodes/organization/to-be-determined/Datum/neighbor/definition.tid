@@ -1,17 +1,17 @@
-config.central-topic:308c5cca-dd8c-4f95-bedf-ad1c1dfa3851
+config.central-topic:3f5cc7d5-7f34-4eb4-b853-30700e890795
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062135
-id:cb74e186-dbf1-4f3c-986e-dee926919ca9
+created:1582720021488
+id:65d42510-d8ee-4c33-acb9-46e0d10d3bd9
 isview:false
-map.base:308c5cca-dd8c-4f95-bedf-ad1c1dfa3851
+map.base:3f5cc7d5-7f34-4eb4-b853-30700e890795
 map.role:definition
 map.type:neighbor
-modified:1582719062135
+modified:1582720021488
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Datum
-tmap.id:cb74e186-dbf1-4f3c-986e-dee926919ca9
+tmap.id:65d42510-d8ee-4c33-acb9-46e0d10d3bd9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Datum

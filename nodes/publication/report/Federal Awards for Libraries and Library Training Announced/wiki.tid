@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Federal Awards for Libraries and Library Training Announced
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[libraries and privacy]]
 tech.focus:
 tiddler.classification:node
 title:Federal Awards for Libraries and Library Training Announced
 tmap.edges:{}
-tmap.id:3ace4d99-0f4e-4558-942b-67f1c45ab40a
+tmap.id:aa2f4e9e-2424-48a1-8e81-91442c64e390
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/federal-awards-for-libraries-and-library-training-announced/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 “Brooklyn Public Library, in partnership with the Metropolitan New York Library Council, New America Foundation’s Open Technology Institute, and the Data & Society Research Institute, will promote digital privacy and data literacy among library professionals. This collaboration will bring together librarians, policy advocates, technologists, and the communities they all serve to further advance libraries and librarians as leaders in bridging not just the digital divide but also the privacy digital divide. Individuals with the greatest digital literacy needs are also the most vulnerable to abuses of personal data. Libraries and librarians are uniquely positioned to prepare all patrons for the privacy challenges brought about by the pervasiveness of data sharing, profiling, collection, and surveillance technologies.”
-
 

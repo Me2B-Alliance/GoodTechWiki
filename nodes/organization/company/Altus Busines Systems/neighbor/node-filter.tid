@@ -1,12 +1,12 @@
-created:1582719062082
-filter:[field:tmap.id[f68eb8f6-ed02-49fd-8e3d-1bd17796229d]]
-map.base:f68eb8f6-ed02-49fd-8e3d-1bd17796229d
+created:1582720021435
+filter:[field:tmap.id[3960d3a9-e99b-4a6e-9be8-74219579b9e1]]
+map.base:3960d3a9-e99b-4a6e-9be8-74219579b9e1
 map.role:node-filter
 map.type:neighbor
-modified:1582719062082
+modified:1582720021435
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Altus Busines Systems/filter/nodes
-tmap.id:706c537d-972d-4ebb-866f-8f6244bcd678
+tmap.id:136b333f-6dc5-4dc0-a100-15e96c46bc24
 type:text/vnd.tiddlywiki
 
 No body provided

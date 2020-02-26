@@ -1,12 +1,12 @@
-created:1582719062142
+created:1582720021496
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3b1f2f51-3c6b-41d2-b95d-6310e6b3b844
+map.base:b8d170c5-a919-488a-a635-89502c844217
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062142
+modified:1582720021496
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/New York University | Information Law Institute/filter/edges
-tmap.id:edaae9db-88e6-48ec-87c6-fe258331662f
+tmap.id:75d587a6-b9c1-40b5-bc6d-a422f0cbceb7
 type:text/vnd.tiddlywiki
 
 No body provided

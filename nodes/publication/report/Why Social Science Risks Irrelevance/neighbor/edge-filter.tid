@@ -1,12 +1,12 @@
-created:1582719062307
+created:1582720021648
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:cd0bd684-695b-427f-8264-6add786a96d3
+map.base:dac9effa-7abf-4d5a-bab2-d9aa0a64bc39
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062307
+modified:1582720021648
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why Social Science Risks Irrelevance/filter/edges
-tmap.id:1a0ecaa9-1e0f-40e2-ab09-ae50a82173f0
+tmap.id:32ca9f5b-b63e-4883-b79b-ce758957a46d
 type:text/vnd.tiddlywiki
 
 No body provided

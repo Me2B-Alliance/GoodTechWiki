@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071757
+created:1582720003375
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071757
+modified:1582720003375
 org.name:Secure Identity Alliance
 org.type:trade association
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Secure Identity Alliance
-tmap.edges:{"460ce44c-3787-42a0-8f17-e485255d3bef":{"to":"f6a0c647-2684-4b76-b214-62c3deafcaec","type":"author"},"4c61cb32-0354-473a-a51e-60f4417aadce":{"to":"6cf307e3-dfcb-426d-b11b-f976f7fe5053","type":"author"}}
-tmap.id:441e05bb-d980-4fd7-9728-4585f3a3633c
+tmap.edges:{"a280aa2e-d8e5-4f14-8218-2e7e8f2e4a35":{"to":"d571b43e-c2f6-47de-bccc-513867f20bb2","type":"author"},"36c87b41-7991-456e-8498-6954ef829065":{"to":"970fca4f-730b-4503-ab6f-ea838f031563","type":"author"}}
+tmap.id:6be2158c-9ae0-427e-bffd-13c0a0b432f0
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.secureidentityalliance.org
 
 The Secure Identity Alliance is dedicated to supporting sustainable worldwide economic growth and prosperity through the development of trusted digital identities and the widespread adoption of secure eServices.
-
 

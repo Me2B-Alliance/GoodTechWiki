@@ -1,17 +1,17 @@
-config.central-topic:5fd6608f-48df-4708-8315-39fed419b4af
+config.central-topic:3006aec6-74dc-45a8-9e49-8ee806c27388
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062207
-id:808f8d71-aa9b-43f6-ad8f-35ae08fcb351
+created:1582720021561
+id:3667b998-1057-475e-9a5f-ad18e0f99120
 isview:false
-map.base:5fd6608f-48df-4708-8315-39fed419b4af
+map.base:3006aec6-74dc-45a8-9e49-8ee806c27388
 map.role:definition
 map.type:neighbor
-modified:1582719062207
+modified:1582720021561
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Brave Browser
-tmap.id:808f8d71-aa9b-43f6-ad8f-35ae08fcb351
+tmap.id:3667b998-1057-475e-9a5f-ad18e0f99120
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Brave Browser

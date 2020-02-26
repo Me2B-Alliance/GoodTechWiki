@@ -1,17 +1,17 @@
-config.central-topic:e8fede28-ebaf-4e3d-bbc4-a72949b6b28e
+config.central-topic:b575b963-bc2f-4843-944a-3b68e6eee8fa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062286
-id:bd2b89fc-b6af-4abc-a78e-894a7494eb09
+created:1582720021632
+id:7e399b1e-da97-49ac-a636-733e923c1435
 isview:false
-map.base:e8fede28-ebaf-4e3d-bbc4-a72949b6b28e
+map.base:b575b963-bc2f-4843-944a-3b68e6eee8fa
 map.role:definition
 map.type:neighbor
-modified:1582719062286
+modified:1582720021632
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Need medical help? Sorry, not until you sign away your privacy.
-tmap.id:bd2b89fc-b6af-4abc-a78e-894a7494eb09
+tmap.id:7e399b1e-da97-49ac-a636-733e923c1435
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Need medical help? Sorry, not until you sign away your privacy.

@@ -1,12 +1,12 @@
-created:1582719062088
+created:1582720021439
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:037893fa-0bca-4d00-b20b-bfc9a85f5895
+map.base:2d8dd093-d875-4786-b8af-2ba030d37e04
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062088
+modified:1582720021439
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto/filter/edges
-tmap.id:c481e754-cc9b-4ef6-b0b4-031bb93c486b
+tmap.id:b56c8707-47d7-4711-89f6-c42efb6db272
 type:text/vnd.tiddlywiki
 
 No body provided

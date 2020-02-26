@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071745
+created:1582720003362
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071745
+modified:1582720003362
 org.name:United Nations Commission on International Trade Law
 org.type:part of supra-national government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:United Nations Commission on International Trade Law
-tmap.edges:{"842e89e7-dbdb-4772-8fab-01d3817b7216":{"to":"2e92fcc3-87b3-478a-a7fd-ae5f91e8a127","type":"government-connection"}}
-tmap.id:80722476-8bf1-4906-8496-2278d4689f5e
+tmap.edges:{"fec78524-ab62-4a7e-9817-8537be137fcd":{"to":"a4b45457-27fc-4c70-a946-e40f5fcd3688","type":"government-connection"}}
+tmap.id:fe941a0e-9e9e-4756-9bee-83354e49aeed
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

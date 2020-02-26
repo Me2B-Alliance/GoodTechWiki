@@ -1,17 +1,17 @@
-config.central-topic:08b8cea3-916e-4048-8264-9fa2dfc0e369
+config.central-topic:037938aa-030c-4fa9-a1b5-d93fd904b368
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062128
-id:e084a1cc-e5b6-4086-85b2-56896b755e3c
+created:1582720021493
+id:0d444120-bf42-40d8-9e1c-d33898c46fba
 isview:false
-map.base:08b8cea3-916e-4048-8264-9fa2dfc0e369
+map.base:037938aa-030c-4fa9-a1b5-d93fd904b368
 map.role:definition
 map.type:neighbor
-modified:1582719062128
+modified:1582720021493
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/#MoreThanCode (organization)
-tmap.id:e084a1cc-e5b6-4086-85b2-56896b755e3c
+tmap.id:0d444120-bf42-40d8-9e1c-d33898c46fba
 type:text/vnd.tiddlywiki
 
 Neighbor Map of #MoreThanCode (organization)

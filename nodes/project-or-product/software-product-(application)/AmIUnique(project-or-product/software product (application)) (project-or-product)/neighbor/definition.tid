@@ -1,17 +1,17 @@
-config.central-topic:910c229d-e654-478f-9c90-cad90fdfff84
+config.central-topic:03817b1e-2e83-48fc-8edc-3cdb05a48f34
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062206
-id:d65f7c68-9bcb-42cb-8c97-11a54e66f8d5
+created:1582720021561
+id:7e7f304e-db86-42dc-8538-5c9994bb7e64
 isview:false
-map.base:910c229d-e654-478f-9c90-cad90fdfff84
+map.base:03817b1e-2e83-48fc-8edc-3cdb05a48f34
 map.role:definition
 map.type:neighbor
-modified:1582719062206
+modified:1582720021561
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AmIUnique(project-or-product/software product (application)) (project-or-product)
-tmap.id:d65f7c68-9bcb-42cb-8c97-11a54e66f8d5
+tmap.id:7e7f304e-db86-42dc-8538-5c9994bb7e64
 type:text/vnd.tiddlywiki
 
 Neighbor Map of AmIUnique(project-or-product/software product (application)) (project-or-product)

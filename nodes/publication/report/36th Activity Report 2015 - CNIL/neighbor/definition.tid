@@ -1,17 +1,17 @@
-config.central-topic:9b17c57e-f01c-458b-ad8c-7e3c2bd1961b
+config.central-topic:e0c2611c-f299-4061-91ba-61afe6e20935
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062260
-id:d83b3740-1eda-48ac-9561-33980e01fa13
+created:1582720021607
+id:c2afe2b9-be1a-4736-a408-e4b08b6ae537
 isview:false
-map.base:9b17c57e-f01c-458b-ad8c-7e3c2bd1961b
+map.base:e0c2611c-f299-4061-91ba-61afe6e20935
 map.role:definition
 map.type:neighbor
-modified:1582719062260
+modified:1582720021607
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/36th Activity Report 2015 - CNIL
-tmap.id:d83b3740-1eda-48ac-9561-33980e01fa13
+tmap.id:c2afe2b9-be1a-4736-a408-e4b08b6ae537
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 36th Activity Report 2015 - CNIL

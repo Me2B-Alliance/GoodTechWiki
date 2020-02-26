@@ -1,12 +1,12 @@
-created:1582719062175
-filter:[field:tmap.id[a957640d-a5f5-482e-a066-1a019110822d]]
-map.base:a957640d-a5f5-482e-a066-1a019110822d
+created:1582720021533
+filter:[field:tmap.id[f77a19ed-4a81-4a9e-a6d8-9971c1f31d6c]]
+map.base:f77a19ed-4a81-4a9e-a6d8-9971c1f31d6c
 map.role:node-filter
 map.type:neighbor
-modified:1582719062175
+modified:1582720021533
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/M. Scurtescu/filter/nodes
-tmap.id:61d07508-a340-40d4-8435-10f7213d5cde
+tmap.id:e1046cc0-8eea-497f-96a4-f0211a1b8d02
 type:text/vnd.tiddlywiki
 
 No body provided

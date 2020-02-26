@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003376
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003376
 org.name:IDnext
 org.type:trade association
 parent.org:
@@ -23,12 +23,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:IDnext
-tmap.edges:{"c70106e3-92ed-4d51-98be-58f76f3b2892":{"to":"2dd26b29-3b3c-434b-bb85-7dd9610e131c","type":"convenor"},"2d90b833-a180-4783-a14d-8632de78dbfb":{"to":"e6e7d8b7-b66c-4ee1-ba22-caed69d69222","type":"executive-member"}}
-tmap.id:42ea4868-a984-4f52-9164-5b0cb8728382
+tmap.edges:{"aac070bf-c222-435d-8ad1-eb12b21270e3":{"to":"2ffe8ef9-8f4c-4d65-9ae8-d5e8c11474fe","type":"convenor"},"9c2f4615-0892-4410-b0b3-bec8e72d8969":{"to":"55c14f7d-1890-4a4f-af61-f3a328ec8b4c","type":"executive-member"}}
+tmap.id:f8454b9b-f01e-449e-8cf8-ce3a2c74f1ce
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -44,5 +44,4 @@ IDnext association aims to disseminate knowledge and experience by organizing ev
 
 Membership
 IDnext association is a membership organization. Although you can participate without a paid membership, joining helps us to engage in (innovative) project-programmes, business development and also organize events and workshops to strengthen our mission in the world of Digital Identity.
-
 

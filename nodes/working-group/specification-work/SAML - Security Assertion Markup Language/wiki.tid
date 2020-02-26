@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071711
+created:1582720003328
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071711
+modified:1582720003328
 name:SAML - Security Assertion Markup Language
 parent.org:OASIS
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:SAML - Security Assertion Markup Language
-tmap.edges:{"5f9eeae6-3935-4a59-b838-9d98ef01a58e":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
-tmap.id:cfa57e84-f2ba-4529-a52e-53df67e5e949
+tmap.edges:{"94b847d5-110d-49a5-8216-6c27d5ebd51f":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
+tmap.id:c1fffb0b-8986-4642-b22b-7fee54e55d4e
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security
 
 Defining and maintaining a standard, XML-based framework for creating and exchanging security information between online partners.
-
 

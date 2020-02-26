@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071751
+created:1582720003368
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071751
+modified:1582720003368
 org.name:Ministry of Interior Republic of Serbia
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Ministry of Interior Republic of Serbia
-tmap.edges:{"a3058edf-5370-4431-81d3-904f1b98c4dd":{"to":"ee86d25e-3a0c-43ba-9507-e215822b5da8","type":"government-connection"},"6d63fb88-cfd0-4073-b484-1f62152e94e9":{"to":"c195f082-9f8d-442b-9daa-7d56db09fa80","type":"general-member"}}
-tmap.id:4a7cf7d2-e38d-495d-a0c2-a292630a3c85
+tmap.edges:{"f868d406-86ae-4e42-83af-13416b7b0e7c":{"to":"0639c7ae-92b9-4068-88cd-460ffd4802ff","type":"government-connection"},"ea488896-b1be-4e04-a7ea-7a351d10ede9":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
+tmap.id:9796ab57-23c1-4fa7-a63f-ae7acf296379
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -57,5 +57,4 @@ The Ministry of the Interior of the Republic of Serbia performs state administra
 • identity cards;
 • travel documents;
 • permanent and temporary place of residence;
-
 

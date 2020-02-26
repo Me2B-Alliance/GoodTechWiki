@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071732
+created:1582720003349
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071732
+modified:1582720003349
 name:NWCRG Network Coding Research Group
 parent.org:
 partners:
@@ -22,13 +22,12 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:NWCRG Network Coding Research Group
-tmap.edges:{"d6ddf045-bfe7-4c23-ad24-5bfdaf6f5dd9":{"to":"f613cee6-fd8d-4309-8ac1-bda4e9982c15","type":"organization-for-group"}}
-tmap.id:15f39e39-d724-425f-bff8-9ac67e13d61d
+tmap.edges:{"475fc8c7-2aee-44b9-a470-7627212869ef":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
+tmap.id:2224b1e0-2385-4c11-8c15-916e0c061f92
 type:text/vnd.tiddlywiki
 url:https://irtf.org/nwcrg
 version.or.edition:
 working.group:
 
 The objective of the Network Coding Research Group (NWCRG) is to research Network Coding principles and methods that can benefit Internet communication. One goal of the NWCRG is to gather the research results and posit the open questions related to Network Coding in order to develop practical applications of Network Coding that improve Internet communication. Another goal is to gather information on the existing practical implementations of Network Coding, distill common functionalities and propose a path to standardization of Network Coding-enabled communication.
-
 

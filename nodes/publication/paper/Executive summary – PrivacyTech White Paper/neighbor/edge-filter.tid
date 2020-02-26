@@ -1,12 +1,12 @@
-created:1582719062240
+created:1582720021595
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6f7aa4a5-2333-42cd-b7fd-9cfca9f3af71
+map.base:c81eec41-0185-4b81-a698-08f07db7cdba
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062240
+modified:1582720021595
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Executive summary – PrivacyTech White Paper/filter/edges
-tmap.id:91e6f109-1974-4d97-a9b3-b2e06c180479
+tmap.id:dd052b41-9ab6-48dd-8ee7-0a5f73bd38ab
 type:text/vnd.tiddlywiki
 
 No body provided

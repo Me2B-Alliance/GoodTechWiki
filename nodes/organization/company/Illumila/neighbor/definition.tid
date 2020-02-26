@@ -1,17 +1,17 @@
-config.central-topic:1c44e29b-8253-4b4a-b79d-ac11d0fff18f
+config.central-topic:aa0f8d9d-ea58-43f0-9d05-727fdd46e072
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062089
-id:534ce2ea-c2a3-4e31-b655-42deeb7072ea
+created:1582720021441
+id:a5db03b2-c079-4924-864e-a00e136e41d8
 isview:false
-map.base:1c44e29b-8253-4b4a-b79d-ac11d0fff18f
+map.base:aa0f8d9d-ea58-43f0-9d05-727fdd46e072
 map.role:definition
 map.type:neighbor
-modified:1582719062089
+modified:1582720021441
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Illumila
-tmap.id:534ce2ea-c2a3-4e31-b655-42deeb7072ea
+tmap.id:a5db03b2-c079-4924-864e-a00e136e41d8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Illumila

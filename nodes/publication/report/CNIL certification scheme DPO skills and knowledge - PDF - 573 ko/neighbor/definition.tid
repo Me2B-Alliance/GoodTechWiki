@@ -1,17 +1,17 @@
-config.central-topic:b3226d06-063d-458f-aca2-1e9f77cdca06
+config.central-topic:de76a52e-e8a2-404b-9f67-4d77da3ad4f4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062266
-id:baddd195-4078-4dda-8bb8-038bf6903b43
+created:1582720021613
+id:a49a95e3-e6ab-41fe-baee-4d4ee13e3a12
 isview:false
-map.base:b3226d06-063d-458f-aca2-1e9f77cdca06
+map.base:de76a52e-e8a2-404b-9f67-4d77da3ad4f4
 map.role:definition
 map.type:neighbor
-modified:1582719062266
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CNIL certification scheme DPO skills and knowledge - PDF - 573 ko
-tmap.id:baddd195-4078-4dda-8bb8-038bf6903b43
+tmap.id:a49a95e3-e6ab-41fe-baee-4d4ee13e3a12
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CNIL certification scheme DPO skills and knowledge - PDF - 573 ko

@@ -1,17 +1,17 @@
-config.central-topic:2ddb8bf0-99f8-402e-b91f-5e31d31edced
+config.central-topic:cb7a14a1-2dcd-4546-b287-38b1fe86c518
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534894
-id:570e1a0c-569d-41a5-94ce-dceb8ef7c29e
+created:1582720021568
+id:c6f55f67-df8f-445d-a165-d1a9cc883d59
 isview:false
-map.base:2ddb8bf0-99f8-402e-b91f-5e31d31edced
+map.base:cb7a14a1-2dcd-4546-b287-38b1fe86c518
 map.role:definition
 map.type:neighbor
-modified:1582714534894
+modified:1582720021568
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Simplified-map
-tmap.id:570e1a0c-569d-41a5-94ce-dceb8ef7c29e
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Simplified
+tmap.id:c6f55f67-df8f-445d-a165-d1a9cc883d59
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Simplified

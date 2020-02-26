@@ -1,12 +1,12 @@
-created:1582719062167
+created:1582720021527
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:83133efc-acb1-432b-9697-a68b43f8515e
+map.base:39269fbb-14f8-4b68-9963-60c707556abb
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062167
+modified:1582720021527
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Technische Universität Darmstadt/filter/edges
-tmap.id:9776410a-de05-4ea4-8072-f75c00615283
+tmap.id:8228fb3e-fa5f-4eff-9ee2-18d876856255
 type:text/vnd.tiddlywiki
 
 No body provided

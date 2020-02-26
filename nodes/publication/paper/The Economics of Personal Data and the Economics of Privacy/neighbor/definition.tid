@@ -1,17 +1,17 @@
-config.central-topic:d7048ef4-f894-4921-aafa-225766f58a30
+config.central-topic:dc9fd9b2-52de-4395-8929-b95db6d203d1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062258
-id:aea04af4-a134-425b-8367-4c411d2eb06c
+created:1582720021604
+id:60c68b2d-ccb2-4bd2-9d3f-7625145add48
 isview:false
-map.base:d7048ef4-f894-4921-aafa-225766f58a30
+map.base:dc9fd9b2-52de-4395-8929-b95db6d203d1
 map.role:definition
 map.type:neighbor
-modified:1582719062258
+modified:1582720021604
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Economics of Personal Data and the Economics of Privacy
-tmap.id:aea04af4-a134-425b-8367-4c411d2eb06c
+tmap.id:60c68b2d-ccb2-4bd2-9d3f-7625145add48
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Economics of Personal Data and the Economics of Privacy

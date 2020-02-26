@@ -1,12 +1,12 @@
-created:1582719062360
+created:1582720021698
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:564a47ba-4f57-4abf-b7cc-e601d0a77311
+map.base:6286151f-ab4f-48b1-b769-74e35d100685
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062360
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/INC: Industry Numbering Committee/filter/edges
-tmap.id:848d98b3-0b36-4123-880e-64588ab38df6
+tmap.id:b5e1ec6e-a833-482b-83d7-e7c28e8c6e73
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[service provider]] [[software development]] [[compliance auditing]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/osano/
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003590
 org.name:Osano
 org.type:company
 parent.org:
@@ -28,12 +28,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Osano
-tmap.edges:{"34f86ac9-d5f8-47da-8d7a-b9b8b2c789b2":{"to":"697b766b-f03c-427f-81f4-f7b08e52d960","type":"Organization Supports Project or Product"},"3837737f-9124-448c-886b-fc72281f9850":{"to":"697b766b-f03c-427f-81f4-f7b08e52d960","type":"Organization Supports Project or Product"}}
-tmap.id:f47e2fc9-33af-4d45-8c09-e01ff580b6e0
+tmap.edges:{"c0719f77-b666-43f2-9a48-6e102c5cfdaf":{"to":"a19ed132-5d7c-402f-a544-33891b04412c","type":"Organization Supports Project or Product"},"ff7a03a7-9bc9-4997-acaf-73cc4146d386":{"to":"a19ed132-5d7c-402f-a544-33891b04412c","type":"Organization Supports Project or Product"}}
+tmap.id:0976b7ce-9c00-4d18-a636-9cc519a2b537
 twitter.profile:https://twitter.com/osanoatx
 type:text/vnd.tiddlywiki
 website:https://www.osano.com
 
 Osano is an easy-to-use data privacy platform that instantly helps your website become compliant with laws such as GDPR and CCPA. Osano works to keep you out of trouble and monitors all of the vendors you share data with – so you don’t have to.
-
 

@@ -1,12 +1,12 @@
-created:1582719062156
+created:1582720021516
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f02370c9-a900-4798-884e-15d89f176347
+map.base:8b3f2f87-0cab-44d6-abac-7dabe60c3b2b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062156
+modified:1582720021516
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Security Research Groups ISRG/filter/edges
-tmap.id:81b5b574-ca83-41e9-9944-59a35c341f36
+tmap.id:7c42a002-c97d-4ff9-ae88-2746be72b536
 type:text/vnd.tiddlywiki
 
 No body provided

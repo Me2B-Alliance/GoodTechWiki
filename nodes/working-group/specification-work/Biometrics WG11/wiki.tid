@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071707
+created:1582720003324
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071707
+modified:1582720003324
 name:Biometrics WG11
 parent.org:ISO/IEC JTC1/SC17
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Biometrics WG11
-tmap.edges:{"b7ca59d0-02c1-4369-8bb8-031079e55185":{"to":"d7c11861-87a2-4f8c-bc3e-f566d95a77e2","type":"organization-for-group"}}
-tmap.id:c7160dd9-530c-4481-a4a3-6d07b3fa4ce4
+tmap.edges:{"2dd05a1c-faf6-4820-8b11-46a8e54657ab":{"to":"58b741f7-12aa-4bb6-8db5-8d6ec33af651","type":"organization-for-group"}}
+tmap.id:7cb6e360-6de7-42d1-b653-60f350686aaf
 type:text/vnd.tiddlywiki
 url:
 
 Interoperability for interindustry and government applications using personal identification technologies, e.g. biometrics. Excludes generic biometrics as undertaken by SC37.
-
 

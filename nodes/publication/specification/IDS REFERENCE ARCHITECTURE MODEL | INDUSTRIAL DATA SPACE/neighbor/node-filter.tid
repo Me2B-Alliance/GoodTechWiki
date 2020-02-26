@@ -1,12 +1,12 @@
-created:1582719062312
-filter:[field:tmap.id[0e99447b-d515-4120-9b69-8dcbc833b79c]]
-map.base:0e99447b-d515-4120-9b69-8dcbc833b79c
+created:1582720021654
+filter:[field:tmap.id[650411f6-4782-4df3-a15e-2b1b7dcd0daf]]
+map.base:650411f6-4782-4df3-a15e-2b1b7dcd0daf
 map.role:node-filter
 map.type:neighbor
-modified:1582719062312
+modified:1582720021654
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE/filter/nodes
-tmap.id:ede7f2ab-0c06-4f77-a66d-419ed9db3492
+tmap.id:2a4b3a52-9a69-452d-a045-043ba80f24bc
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062188
-filter:[field:tmap.id[c195f082-9f8d-442b-9daa-7d56db09fa80]]
-map.base:c195f082-9f8d-442b-9daa-7d56db09fa80
+created:1582720021545
+filter:[field:tmap.id[c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12]]
+map.base:c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12
 map.role:node-filter
 map.type:neighbor
-modified:1582719062188
+modified:1582720021545
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future Trust/filter/nodes
-tmap.id:3fe1d384-c0d7-4869-b447-59717992ce98
+tmap.id:aae92e87-816d-42ca-97a1-1fda00e0ad39
 type:text/vnd.tiddlywiki
 
 No body provided

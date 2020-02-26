@@ -1,12 +1,12 @@
-created:1582719062297
+created:1582720021642
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0d97ab2d-25fc-4d22-87a9-00d71b00d1a4
+map.base:a2dc61ae-8279-4034-8952-06d698d53c5a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062297
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The State of Surveillance 2018/filter/edges
-tmap.id:2c7eff9a-4e97-41b3-b3d0-1e478c828735
+tmap.id:c4235d90-5327-4706-a166-67572c61252d
 type:text/vnd.tiddlywiki
 
 No body provided

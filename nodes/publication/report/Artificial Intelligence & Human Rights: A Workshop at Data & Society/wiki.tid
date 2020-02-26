@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[mark latonero]] [[melanie penagos]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Artificial Intelligence & Human Rights: A Workshop at Data & Society
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[data]] [[human rights & human security]]
 tech.focus:
 tiddler.classification:node
 title:Artificial Intelligence & Human Rights: A Workshop at Data & Society
 tmap.edges:{}
-tmap.id:d2ee48ce-3a56-4865-b9e0-f41ccc760b07
+tmap.id:36264e0d-2727-4672-8f82-c3e3bc53f10a
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/artificia-intelligence-human-rights-a-workshop-at-data-society/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 On April 26-27, Data & Society hosted a multidisciplinary workshop on AI and Human Rights. In this Points piece, Data + Human Rights Research Lead Mark Latonero and Research Analyst Melanie Penagos summarize discussions from the day.
 
     “Can the international human rights framework effectively inform, shape, and govern AI research, development, and deployment?”
-
 

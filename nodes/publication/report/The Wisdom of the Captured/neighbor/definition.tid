@@ -1,17 +1,17 @@
-config.central-topic:0c177eac-f07f-440f-ac04-b59fec552ffe
+config.central-topic:9e24d92f-c32c-44af-ab34-700516b1c58d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062298
-id:a7ab65df-efc4-46e8-abdc-5f40c79372c0
+created:1582720021643
+id:2cf558c6-fff2-410b-9044-3ed26c8fd8f2
 isview:false
-map.base:0c177eac-f07f-440f-ac04-b59fec552ffe
+map.base:9e24d92f-c32c-44af-ab34-700516b1c58d
 map.role:definition
 map.type:neighbor
-modified:1582719062298
+modified:1582720021643
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Wisdom of the Captured
-tmap.id:a7ab65df-efc4-46e8-abdc-5f40c79372c0
+tmap.id:2cf558c6-fff2-410b-9044-3ed26c8fd8f2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Wisdom of the Captured

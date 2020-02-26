@@ -1,12 +1,12 @@
-created:1582719062258
+created:1582720021605
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:78a9bcf1-bead-4f45-9cc5-c35881de9e78
+map.base:e55cd7d9-2c59-49fe-b699-8e3d8600c914
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062258
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Use Cases and Proposed Solutions for Verifiable Offline Credentials/filter/edges
-tmap.id:ca4133dd-7cef-40a3-9abe-9527b4d5f4d0
+tmap.id:21466d78-d379-4906-84e0-55f22dfc45f3
 type:text/vnd.tiddlywiki
 
 No body provided

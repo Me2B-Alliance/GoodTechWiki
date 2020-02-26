@@ -1,12 +1,12 @@
-created:1582719062123
+created:1582720021479
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:193ccc3a-3c57-45f8-907a-d86be113e5b2
+map.base:311a402b-80b6-48fe-bf6c-9e5ba45188c5
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062123
+modified:1582720021479
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Data Protection Supervisor (Contrôleur européen de la protection des données)/filter/edges
-tmap.id:28fa6df2-1960-47d5-a0ce-079ab9856485
+tmap.id:e6b92b39-f4bf-4e7a-93d0-589864ffb9f5
 type:text/vnd.tiddlywiki
 
 No body provided

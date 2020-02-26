@@ -1,12 +1,12 @@
-created:1582719062362
+created:1582720021699
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fddcd655-58d2-4546-86df-2cb3276d4698
+map.base:6fdbbafa-c55c-49d4-a7ce-2674daa1c876
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062362
+modified:1582720021699
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Information Security Management Systems WG1/filter/edges
-tmap.id:dc4abbff-f8c9-413f-818a-88ab575cde0b
+tmap.id:37ff2159-fff1-45f5-946a-5113b68c20d4
 type:text/vnd.tiddlywiki
 
 No body provided

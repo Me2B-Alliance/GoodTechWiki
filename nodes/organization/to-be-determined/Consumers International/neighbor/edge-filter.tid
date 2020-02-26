@@ -1,12 +1,12 @@
-created:1582719062133
+created:1582720021487
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ef4f2d9d-4fab-4387-9547-22536fc03367
+map.base:7c443f52-0cbd-4643-85a0-d9b21850dd01
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062133
+modified:1582720021487
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumers International/filter/edges
-tmap.id:e2ae036a-a93f-4043-b238-cb701ce9a2a9
+tmap.id:4d60a429-5ee0-48fd-8eef-ce9a5ab2b2d5
 type:text/vnd.tiddlywiki
 
 No body provided

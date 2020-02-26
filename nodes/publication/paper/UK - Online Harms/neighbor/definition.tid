@@ -1,17 +1,17 @@
-config.central-topic:453d4473-53e3-4d16-bb57-e0140c389775
+config.central-topic:723cc7b6-0e65-4b90-a9ee-0ab8e2de26e9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062257
-id:551f6f9a-fd25-4fc6-b75d-f8e16229cb0a
+created:1582720021605
+id:dbf0a25e-f2d6-4a4d-aae0-ff2d8a5057e4
 isview:false
-map.base:453d4473-53e3-4d16-bb57-e0140c389775
+map.base:723cc7b6-0e65-4b90-a9ee-0ab8e2de26e9
 map.role:definition
 map.type:neighbor
-modified:1582719062257
+modified:1582720021605
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UK - Online Harms
-tmap.id:551f6f9a-fd25-4fc6-b75d-f8e16229cb0a
+tmap.id:dbf0a25e-f2d6-4a4d-aae0-ff2d8a5057e4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of UK - Online Harms

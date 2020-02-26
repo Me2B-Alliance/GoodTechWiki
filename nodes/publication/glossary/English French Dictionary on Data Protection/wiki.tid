@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:English French Dictionary on Data Protection
 publication.type:glossary
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[translation dictionary]]
 tech.focus:
 tiddler.classification:node
 title:English French Dictionary on Data Protection
 tmap.edges:{}
-tmap.id:61f88e0d-4369-4286-b8e9-fb473f568943
+tmap.id:0f95a277-afff-4dfc-869d-f25a28a1627d
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/en/english-french-glossary-data-protection
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 English French glossary on data protection
-
 

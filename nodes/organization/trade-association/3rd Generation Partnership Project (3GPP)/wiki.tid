@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071756
+created:1582720003374
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071756
+modified:1582720003374
 org.name:3rd Generation Partnership Project (3GPP)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:3rd Generation Partnership Project (3GPP)
-tmap.edges:{"20f66589-ba5b-4932-b7d1-e945da1dfa15":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"general-member"}}
-tmap.id:08464ff2-b5ea-4f15-8840-0f8c1c8804c3
+tmap.edges:{"6d283cd3-8a6f-4654-bb4e-f18e3986a32a":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
+tmap.id:8a951c75-f001-48af-ba28-f6c3493052b1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.3gpp.org
@@ -38,5 +38,4 @@ The 3rd Generation Partnership Project (3GPP) unites [Seven] telecommunications 
 The project covers cellular telecommunications network technologies, including radio access, the core transport network, and service capabilities - including work on codecs, security, quality of service - and thus provides complete system specifications. The specifications also provide hooks for non-radio access to the core network, and for interworking with Wi-Fi networks.
 
 3GPP specifications and studies are contribution-driven, by member companies, in Working Groups and at the Technical Specification Group level.
-
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003365
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003365
 org.name:Innovate UK
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Innovate UK
-tmap.edges:{"0767eee9-d0a6-4559-870e-d71eae012106":{"to":"1d79a609-fac6-46b3-adfa-0ecc744e8ac7","type":"government-connection"},"88ba6cc7-ea88-4ddb-8771-0d1ddd7207fe":{"to":"ff414842-7a98-4e8a-8969-a1590d470fae","type":"connection"}}
-tmap.id:0a321463-f18a-44e0-8c0b-4758870b4dcc
+tmap.edges:{"38827a9e-36d0-4cb2-bda9-34bc4b7f57e9":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"},"e0f2853a-c719-4083-bb5b-e73497b894e9":{"to":"f5851ab8-aeff-49ba-bfe9-96a8abede516","type":"connection"}}
+tmap.id:40215ce3-aeb5-457a-8a97-e71797ff5adb
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

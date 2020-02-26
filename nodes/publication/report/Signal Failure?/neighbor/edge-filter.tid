@@ -1,12 +1,12 @@
-created:1582719062292
+created:1582720021638
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4d8454f1-e1d0-4412-8be6-f0da02d22cab
+map.base:1a7a73d8-561a-4026-9187-9856ae8496b0
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062292
+modified:1582720021638
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Signal Failure?/filter/edges
-tmap.id:3310ffe1-1dc4-4f5f-a146-727ad3d1b60d
+tmap.id:9ba6d54c-c438-493a-aca3-89663921852e
 type:text/vnd.tiddlywiki
 
 No body provided

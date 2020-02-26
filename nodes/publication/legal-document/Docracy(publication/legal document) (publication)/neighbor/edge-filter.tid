@@ -1,12 +1,12 @@
-created:1582719062224
+created:1582720021580
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:21ee9533-3c7b-4516-a7fb-c21c04d8e7e1
+map.base:9a3640dd-4d19-488c-b8ac-91460bf37ddd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062224
+modified:1582720021580
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Docracy(publication/legal document) (publication)/filter/edges
-tmap.id:8f4bf6f5-efaa-43ed-be31-db3ac1121bfb
+tmap.id:52f41324-35d8-42e7-85c3-b0c32e16344f
 type:text/vnd.tiddlywiki
 
 No body provided

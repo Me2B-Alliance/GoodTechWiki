@@ -1,12 +1,12 @@
-created:1582719062320
+created:1582720021662
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6fd1af17-1119-4d13-97e1-b0d73183ccb2
+map.base:a2719b53-32fe-4855-b011-bf757cbf58c6
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062320
+modified:1582720021662
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Data Portability Cooperation Specification/filter/edges
-tmap.id:fac69844-7fd0-466d-bef9-1dca8a5cdc1a
+tmap.id:fb541992-164c-4b33-a9c2-344b7bffd707
 type:text/vnd.tiddlywiki
 
 No body provided

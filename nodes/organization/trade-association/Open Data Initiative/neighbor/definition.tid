@@ -1,17 +1,17 @@
-config.central-topic:6ed54250-12d4-4e81-af75-4b0524c6a340
+config.central-topic:ef156acb-d04b-4fdd-9786-6050bda67286
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062159
-id:c84e44be-3007-4cba-988d-7be358116772
+created:1582720021519
+id:789883a6-7e56-453f-8652-cc0a15787130
 isview:false
-map.base:6ed54250-12d4-4e81-af75-4b0524c6a340
+map.base:ef156acb-d04b-4fdd-9786-6050bda67286
 map.role:definition
 map.type:neighbor
-modified:1582719062159
+modified:1582720021519
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Initiative
-tmap.id:c84e44be-3007-4cba-988d-7be358116772
+tmap.id:789883a6-7e56-453f-8652-cc0a15787130
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Data Initiative

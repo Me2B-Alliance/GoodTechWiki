@@ -1,12 +1,12 @@
-created:1582719062076
-filter:[field:tmap.id[06df4507-1054-4842-b664-4cde1454dbba]]
-map.base:06df4507-1054-4842-b664-4cde1454dbba
+created:1582720021430
+filter:[field:tmap.id[d7596f05-c511-46cc-86ef-fa407e0e791a]]
+map.base:d7596f05-c511-46cc-86ef-fa407e0e791a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062076
+modified:1582720021430
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Technology Time Machine/filter/nodes
-tmap.id:59f0a417-59a7-47db-ad43-9a9159bb4c7c
+tmap.id:52612603-b2af-4418-9658-c996d5184a1f
 type:text/vnd.tiddlywiki
 
 No body provided

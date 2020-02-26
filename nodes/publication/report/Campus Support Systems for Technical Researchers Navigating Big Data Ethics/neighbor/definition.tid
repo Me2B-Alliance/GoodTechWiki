@@ -1,17 +1,17 @@
-config.central-topic:ed2a2d76-2254-4547-b0ce-4b8eabcf0f70
+config.central-topic:5babd7b1-5097-46df-bbf6-d577ac2d00fa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062268
-id:d5fae93c-680f-44f1-a285-51ffca34e61b
+created:1582720021613
+id:5b069675-0d12-46c2-8cf7-b5fc66eb89c0
 isview:false
-map.base:ed2a2d76-2254-4547-b0ce-4b8eabcf0f70
+map.base:5babd7b1-5097-46df-bbf6-d577ac2d00fa
 map.role:definition
 map.type:neighbor
-modified:1582719062268
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Campus Support Systems for Technical Researchers Navigating Big Data Ethics
-tmap.id:d5fae93c-680f-44f1-a285-51ffca34e61b
+tmap.id:5b069675-0d12-46c2-8cf7-b5fc66eb89c0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Campus Support Systems for Technical Researchers Navigating Big Data Ethics

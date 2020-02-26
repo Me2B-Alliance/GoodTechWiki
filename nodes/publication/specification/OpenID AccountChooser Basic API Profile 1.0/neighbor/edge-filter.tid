@@ -1,12 +1,12 @@
-created:1582719062317
+created:1582720021659
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:09bf7e0a-fdd5-4427-9eb4-e9f930a4a060
+map.base:8660b405-5b95-4541-b2c5-84d194a05ad1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062317
+modified:1582720021659
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID AccountChooser Basic API Profile 1.0/filter/edges
-tmap.id:bf77188f-0c83-4d83-9134-cf4923947798
+tmap.id:6753e005-0c8d-4099-a62c-a26ec69a5296
 type:text/vnd.tiddlywiki
 
 No body provided

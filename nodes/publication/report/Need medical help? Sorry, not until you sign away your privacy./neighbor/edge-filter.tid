@@ -1,12 +1,12 @@
-created:1582719062286
+created:1582720021632
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e8fede28-ebaf-4e3d-bbc4-a72949b6b28e
+map.base:b575b963-bc2f-4843-944a-3b68e6eee8fa
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062286
+modified:1582720021632
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Need medical help? Sorry, not until you sign away your privacy./filter/edges
-tmap.id:f8b8800d-6e43-4897-bc70-b7017ed7f7f8
+tmap.id:e4c33d11-a46f-4e87-8749-67b285382e1b
 type:text/vnd.tiddlywiki
 
 No body provided

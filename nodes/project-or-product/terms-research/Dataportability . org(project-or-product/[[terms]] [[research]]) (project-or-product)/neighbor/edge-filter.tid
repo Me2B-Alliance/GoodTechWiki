@@ -1,12 +1,12 @@
-created:1582714534878
+created:1582720021554
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9b92a2e4-bd22-4737-b247-bfd19b22b25f
+map.base:162597d9-7639-4c74-a1bc-9c5bae782468
 map.role:edge-filter
 map.type:neighbor
-modified:1582714534878
+modified:1582720021554
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dataportability . org(project-or-product/[[terms]] [[research]]) (project-or-product)/filter/edges
-tmap.id:4567cfc1-160d-4777-a732-8101351aa2f9
+tmap.id:a48abb3a-0cbd-4a8b-834a-5614e62d5b10
 type:text/vnd.tiddlywiki
 
 No body provided

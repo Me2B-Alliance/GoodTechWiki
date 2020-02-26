@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071731
+created:1582720003349
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071731
+modified:1582720003349
 name:Records and Information from DMVs for E-Verify (RIDE)
 parent.org:
 partners:
@@ -22,13 +22,12 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:Records and Information from DMVs for E-Verify (RIDE)
-tmap.edges:{"7d92b567-ccbf-48ae-b967-d8201c5cc43f":{"to":"5827c7bb-8fbf-48d4-a42a-752d36297983","type":"default"},"abf0e9db-55b4-447f-baf8-81aa10a34534":{"to":"5827c7bb-8fbf-48d4-a42a-752d36297983","type":"organization-for-group"}}
-tmap.id:8d0bf04d-d395-464b-bba9-47869ef37057
+tmap.edges:{"36115174-950a-4608-b067-50b2055e8876":{"to":"e626d51c-ad16-4886-b383-14b69013ed5c","type":"default"},"cebad33d-88a3-4359-8f65-8ae177e4fb5b":{"to":"e626d51c-ad16-4886-b383-14b69013ed5c","type":"organization-for-group"}}
+tmap.id:e30d606e-3244-4f2d-9b7b-70809c0332ef
 type:text/vnd.tiddlywiki
 url:http://www.aamva.org/ride/
 version.or.edition:
 working.group:
-
 
 
 

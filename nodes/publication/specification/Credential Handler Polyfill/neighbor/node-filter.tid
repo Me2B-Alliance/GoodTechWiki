@@ -1,12 +1,12 @@
-created:1582719062308
-filter:[field:tmap.id[d97e7b6c-c99f-441a-a512-db88b957025d]]
-map.base:d97e7b6c-c99f-441a-a512-db88b957025d
+created:1582720021650
+filter:[field:tmap.id[c628ae30-7f54-4d57-9e69-dbbbb112ed2a]]
+map.base:c628ae30-7f54-4d57-9e69-dbbbb112ed2a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062308
+modified:1582720021650
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Credential Handler Polyfill/filter/nodes
-tmap.id:684dabe9-a67c-4381-9693-a03fafe1d500
+tmap.id:418a0c23-be26-4f57-8f39-ce72ef2daa42
 type:text/vnd.tiddlywiki
 
 No body provided

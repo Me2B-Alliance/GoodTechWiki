@@ -1,12 +1,12 @@
-created:1582719062332
+created:1582720021676
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6aa684e2-fc6f-4869-a087-0f0b5f5418ab
+map.base:05d5be06-c1b1-410e-b68d-03fccb0363bb
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062332
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumer Data Privacy in a Networked World/filter/edges
-tmap.id:f1d8e205-2afb-421b-8961-cf1a444d4d18
+tmap.id:6992f3df-7990-4c9e-852f-67bc8feac3cb
 type:text/vnd.tiddlywiki
 
 No body provided

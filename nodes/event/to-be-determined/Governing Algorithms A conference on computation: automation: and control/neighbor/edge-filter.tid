@@ -1,12 +1,12 @@
-created:1582719062076
+created:1582720021429
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:86c3fef8-5016-4b4c-8663-b1efc93b835a
+map.base:10a900d3-b8ec-46c3-ba19-8f8eb7058b31
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062076
+modified:1582720021429
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Governing Algorithms A conference on computation: automation: and control/filter/edges
-tmap.id:21602d7c-04bc-463c-9890-32603351daa1
+tmap.id:4a115926-5b67-4591-8d09-ab9490166b6f
 type:text/vnd.tiddlywiki
 
 No body provided

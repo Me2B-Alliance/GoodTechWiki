@@ -1,12 +1,12 @@
-created:1582719062341
+created:1582720021684
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:737ed523-4330-4192-b9ad-769b1541f73d
+map.base:0840d1cd-1e5f-47ed-9302-0e997aae0061
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062341
+modified:1582720021684
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Intelligent Video Analytics/filter/edges
-tmap.id:aa20ae80-7778-4090-b6f9-653f50fbf4e2
+tmap.id:fe679bf7-532a-4a1a-b114-d7da144ce7dc
 type:text/vnd.tiddlywiki
 
 No body provided

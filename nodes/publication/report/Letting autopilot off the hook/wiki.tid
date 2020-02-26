@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[madeleine clare elish]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Letting autopilot off the hook
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:Letting autopilot off the hook
 tmap.edges:{}
-tmap.id:e368c0e2-5452-428a-af04-5cba993646d8
+tmap.id:537cb2f8-c76e-4fc4-a5bd-49bd7405873f
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/letting-autopilot-off-the-hook/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 D&S researcher Madeleine Clare Elish discusses the complexities of error in automated systems. Elish argues that the human role in automated systems has become ‘the weak link, rather than...
-
 

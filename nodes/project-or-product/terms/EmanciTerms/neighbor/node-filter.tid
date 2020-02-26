@@ -1,12 +1,12 @@
-created:1582719062212
-filter:[field:tmap.id[07610c77-510c-43f9-ac4c-3617af080962]]
-map.base:07610c77-510c-43f9-ac4c-3617af080962
+created:1582720021567
+filter:[field:tmap.id[391ae97a-e237-43e2-ad16-535f3cce823a]]
+map.base:391ae97a-e237-43e2-ad16-535f3cce823a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062212
+modified:1582720021567
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EmanciTerms/filter/nodes
-tmap.id:f3053b40-202e-4ce9-b1e2-73251a9d9330
+tmap.id:cdf4f66b-e3e8-40db-9554-755681085065
 type:text/vnd.tiddlywiki
 
 No body provided

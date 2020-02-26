@@ -1,12 +1,12 @@
-created:1582719062296
+created:1582720021641
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a7cae9a2-ce69-46cd-a1f6-29141878b3f0
+map.base:fc4961ad-e534-498b-ad0d-632ae7c26c1f
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062296
+modified:1582720021641
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The CNIL in a nutshell 2015/filter/edges
-tmap.id:5f77a3e5-9427-4b1f-b5e8-9d3ff44862af
+tmap.id:6dd69e27-31ed-44c4-a49d-61cdafd90084
 type:text/vnd.tiddlywiki
 
 No body provided

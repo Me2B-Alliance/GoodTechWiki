@@ -1,12 +1,12 @@
-created:1582719062261
+created:1582720021609
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:19bd7875-3f69-4570-be29-469ddcf040c9
+map.base:739a9e17-b87f-4959-86de-c4afd1150e72
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062261
+modified:1582720021609
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Accountability: Calling Education to A Count/filter/edges
-tmap.id:a6b77702-69ec-4461-a3c8-2056b866b348
+tmap.id:8a86c40e-c955-4587-89df-8bbbea7c1f83
 type:text/vnd.tiddlywiki
 
 No body provided

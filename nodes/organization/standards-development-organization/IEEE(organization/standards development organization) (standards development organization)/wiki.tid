@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071966
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071966
+modified:1582720003592
 org.name:IEEE
 org.type:standards development organization
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IEEE(organization/standards development organization) (standards development organization)
-tmap.edges:{"be421573-a61a-4a6c-b015-7561f0af8065":{"to":"37067873-1abe-406f-b42b-9602ce21f46e","type":"Organization Supports Project or Product"}}
-tmap.id:341f63f3-f590-4760-b7a4-455e090b84a8
+tmap.edges:{"08b461cb-5807-4efe-a780-464ae6553cfd":{"to":"095e5c02-b217-4341-8933-1f24dded17e1","type":"Organization Supports Project or Product"}}
+tmap.id:fc468809-ee0c-43c2-a316-2ecdc724d0b9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.ieee.org/
@@ -41,5 +41,4 @@ IEEE's core purpose is to foster technological innovation and excellence for the
 
 Vision statement
 IEEE will be essential to the global technical community and to technical professionals everywhere, and be universally recognized for the contributions of technology and of technical professionals in improving global conditions.
-
 

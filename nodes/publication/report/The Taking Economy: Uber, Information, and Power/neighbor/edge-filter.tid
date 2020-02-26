@@ -1,12 +1,12 @@
-created:1582719062298
+created:1582720021642
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1c6af812-ed63-4256-b945-28e9e897fc48
+map.base:0ba2d7ba-fb9e-4ef6-8582-f023efa7e8b3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062298
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Taking Economy: Uber, Information, and Power/filter/edges
-tmap.id:62555322-774b-409a-8f23-fcda6287e578
+tmap.id:822e9d51-45f5-4a7d-addd-6c50eb783500
 type:text/vnd.tiddlywiki
 
 No body provided

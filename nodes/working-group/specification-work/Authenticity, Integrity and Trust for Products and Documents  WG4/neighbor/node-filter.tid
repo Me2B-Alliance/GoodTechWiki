@@ -1,12 +1,12 @@
-created:1582719062353
-filter:[field:tmap.id[d9a63bcd-8f86-4de6-9f96-415959708bfc]]
-map.base:d9a63bcd-8f86-4de6-9f96-415959708bfc
+created:1582720021695
+filter:[field:tmap.id[3e1b05fc-10bd-4678-84c9-6ea5aacb92bc]]
+map.base:3e1b05fc-10bd-4678-84c9-6ea5aacb92bc
 map.role:node-filter
 map.type:neighbor
-modified:1582719062353
+modified:1582720021695
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Authenticity, Integrity and Trust for Products and Documents  WG4/filter/nodes
-tmap.id:3ad31f9d-d3ff-47a8-b40d-2b4204c67a32
+tmap.id:e49456c5-ca43-48bc-af77-07ca88c852db
 type:text/vnd.tiddlywiki
 
 No body provided

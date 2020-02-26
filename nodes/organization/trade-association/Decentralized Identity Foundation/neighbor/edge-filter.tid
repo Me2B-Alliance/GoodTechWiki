@@ -1,12 +1,12 @@
-created:1582719062151
+created:1582720021509
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:668ef010-f794-4e65-a591-0a1fb6517c3f
+map.base:6bd7d5f0-f7c0-4746-88fe-89bb468ebe25
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062151
+modified:1582720021509
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identity Foundation/filter/edges
-tmap.id:a6f53a83-cd64-4467-afd7-7f3d0081b38f
+tmap.id:a338b3c2-92e2-4b95-b47e-060565b346d2
 type:text/vnd.tiddlywiki
 
 No body provided

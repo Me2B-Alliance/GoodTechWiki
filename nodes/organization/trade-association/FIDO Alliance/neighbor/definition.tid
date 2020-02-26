@@ -1,17 +1,17 @@
-config.central-topic:55b37d06-ffcf-4e45-a7e4-c28e08b98b97
+config.central-topic:34df587c-8867-42d0-a1d2-80c3a5b0427d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062153
-id:8f7dae8d-214a-4f04-aab6-ca14c787a3c5
+created:1582720021511
+id:d8018caa-f6bd-4b90-b418-23fbf01a8176
 isview:false
-map.base:55b37d06-ffcf-4e45-a7e4-c28e08b98b97
+map.base:34df587c-8867-42d0-a1d2-80c3a5b0427d
 map.role:definition
 map.type:neighbor
-modified:1582719062153
+modified:1582720021511
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FIDO Alliance
-tmap.id:8f7dae8d-214a-4f04-aab6-ca14c787a3c5
+tmap.id:d8018caa-f6bd-4b90-b418-23fbf01a8176
 type:text/vnd.tiddlywiki
 
 Neighbor Map of FIDO Alliance

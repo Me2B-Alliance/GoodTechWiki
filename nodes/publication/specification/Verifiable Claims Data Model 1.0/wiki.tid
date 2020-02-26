@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071977
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Verifiable Claims Data Model 1.0
 publication.type:specification
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[ongoing community drafts]]
 tech.focus:
 tiddler.classification:node
 title:Verifiable Claims Data Model 1.0
 tmap.edges:{}
-tmap.id:69b2c873-1908-4c49-87cf-27087b4574a4
+tmap.id:cf985764-7e1b-43e5-a203-c88a9a6ee689
 type:text/vnd.tiddlywiki
 url:https://w3c.github.io/vc-data-model/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 A standard mechanism for expressing items such as driver’s licenses, employee ID cards, proofs of age, and other sorts of claims in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
-
 

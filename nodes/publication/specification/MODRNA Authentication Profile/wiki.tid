@@ -1,13 +1,13 @@
 audience:
 authors.editors:J. Connotte;John Bradley
-created:1582678071725
+created:1582720003343
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582678071725
+modified:1582720003343
 name:MODRNA Authentication Profile
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:MODRNA Authentication Profile
-tmap.edges:{"6ecc2f56-0efc-496f-b9c9-7a3ceeb13ce3":{"to":"9e89d67e-d917-4f0f-bca4-fafe75a16e52","type":"specification-of-group"}}
-tmap.id:a784e9fb-9ba6-484f-8564-fa75691af332
+tmap.edges:{"47f6dde4-c695-48c3-95a4-67bec3e0b2b4":{"to":"d5b68109-8378-4f93-a16b-f0ee6fd804b8","type":"specification-of-group"}}
+tmap.id:00850044-0e7b-4718-b5ea-549d2623a295
 type:text/vnd.tiddlywiki
 url:https://bitbucket.org/openid/mobile/raw/default/draft-mobile-authentication-01.txt
 version.or.edition:
@@ -32,5 +32,4 @@ The MODRNA Authentication Profile will specify how RP's request a certain level 
 In addition, the profile will specify an encrypted login hint token to allow for the transport of user identifiers to the OP in a privacy preserving fashion.
 
 Lastly, the profile will specify an additional message parameter intended to serve as an interlock between the user's consumption device and authentication device.
-
 

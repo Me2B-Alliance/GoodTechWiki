@@ -1,17 +1,17 @@
-config.central-topic:9b92a2e4-bd22-4737-b247-bfd19b22b25f
+config.central-topic:162597d9-7639-4c74-a1bc-9c5bae782468
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534878
-id:08bfa0af-3283-4462-85df-35d678f92709
+created:1582720021554
+id:e60a5e12-c035-4766-baf2-b8bda3d9b4ab
 isview:false
-map.base:9b92a2e4-bd22-4737-b247-bfd19b22b25f
+map.base:162597d9-7639-4c74-a1bc-9c5bae782468
 map.role:definition
 map.type:neighbor
-modified:1582714534878
+modified:1582720021554
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dataportability . org(project-or-product/[[terms]] [[research]]) (project-or-product)-map
-tmap.id:08bfa0af-3283-4462-85df-35d678f92709
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dataportability . org(project-or-product/[[terms]] [[research]]) (project-or-product)
+tmap.id:e60a5e12-c035-4766-baf2-b8bda3d9b4ab
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Dataportability . org(project-or-product/[[terms]] [[research]]) (project-or-product)

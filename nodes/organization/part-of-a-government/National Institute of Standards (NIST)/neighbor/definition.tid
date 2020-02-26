@@ -1,17 +1,17 @@
-config.central-topic:0b54a118-e8dd-4a36-8604-f749789e9e0a
+config.central-topic:a9994b9e-0264-439a-8923-bc565120dda1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062117
-id:0b4a66c8-ced4-4e0c-b9c4-e5c477b130e1
+created:1582720021474
+id:1a66b8e8-f587-47b6-8e02-85c6cd838e33
 isview:false
-map.base:0b54a118-e8dd-4a36-8604-f749789e9e0a
+map.base:a9994b9e-0264-439a-8923-bc565120dda1
 map.role:definition
 map.type:neighbor
-modified:1582719062117
+modified:1582720021474
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Institute of Standards (NIST)
-tmap.id:0b4a66c8-ced4-4e0c-b9c4-e5c477b130e1
+tmap.id:1a66b8e8-f587-47b6-8e02-85c6cd838e33
 type:text/vnd.tiddlywiki
 
 Neighbor Map of National Institute of Standards (NIST)

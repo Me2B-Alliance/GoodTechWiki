@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[publication]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,27 +13,26 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003590
 org.name:Mozilla Foundation
 org.type:foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[usability]] [[human rights]] [[consumer support]]
 relevant.publications:
 scope:global
 sector:non-profit
 status:
-tags:[object Set]
+tags:[[advocacy]]
 tech.focus:
 tiddler.classification:node
 title:Mozilla Foundation
-tmap.edges:{"aad7d4ee-d055-4608-8f5b-dae408761c86":{"to":"61dd0add-3573-446f-bc41-98b62fb11de9","type":"Organization Supports Project or Product"},"2e6b8428-787a-4416-9fc2-b43f7382bff8":{"to":"f7f8a07d-8c89-4ce8-8a47-0b0651ce8ffa","type":"Organization Supports Project or Product"},"1576c1a7-cb14-498b-896a-7a0235977b84":{"to":"75ba091b-9744-47d3-939e-9b8ee3df2d13","type":"Organization Supports Project or Product"}}
-tmap.id:1f8f9128-e4d4-47f6-ae48-34cfdbee6883
+tmap.edges:{"5ab27220-7773-405a-b22c-d28ae9078234":{"to":"4fc366bb-4264-4563-ba31-7f1c138f3cad","type":"Organization Supports Project or Product"},"208a6b0e-227f-464c-880b-f75929ee2d19":{"to":"22939f07-68e4-4c8f-bad9-163599cd4d44","type":"Organization Supports Project or Product"},"0b96bb64-7311-4962-a8ac-cae321ccc37f":{"to":"1b3358de-e109-408f-ad1c-8f54a50c658e","type":"Organization Supports Project or Product"}}
+tmap.id:b13c15fe-92a2-4f29-b4a6-ef4a916a731d
 twitter.profile:https://twitter.com/mozilla
 type:text/vnd.tiddlywiki
 website:https://foundation.mozilla.org/en/
 
 The direct work of the Mozilla Foundation focuses on fueling the movement for a healthy internet. We do this by supporting a diverse group of fellows working on key internet issues, connecting open Internet leaders at events like MozFest, publishing critical research in the Internet Health Report, and rallying citizens around advocacy issues that connect the wellbeing of the Internet directly to everyday life.
-
 

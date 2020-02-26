@@ -1,17 +1,17 @@
-config.central-topic:e9759226-de42-46cd-baa5-4ee95873e53a
+config.central-topic:de4a8bdc-4af7-42fd-954e-cfec74051754
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062346
-id:1c467df0-2716-4221-a5a1-e5f5d500c435
+created:1582720021687
+id:e41de269-634d-4463-b03b-d2461056dbf5
 isview:false
-map.base:e9759226-de42-46cd-baa5-4ee95873e53a
+map.base:de4a8bdc-4af7-42fd-954e-cfec74051754
 map.role:definition
 map.type:neighbor
-modified:1582719062346
+modified:1582720021687
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Google my Bubul
-tmap.id:1c467df0-2716-4221-a5a1-e5f5d500c435
+tmap.id:e41de269-634d-4463-b03b-d2461056dbf5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Google my Bubul

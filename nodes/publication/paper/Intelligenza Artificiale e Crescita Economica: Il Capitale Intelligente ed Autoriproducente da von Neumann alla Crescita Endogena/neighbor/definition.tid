@@ -1,17 +1,17 @@
-config.central-topic:bd2b9885-ef58-4bb2-92b8-642b1fa4d63a
+config.central-topic:a08c17a8-7862-4fdb-8cd3-595fb3954b34
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062243
-id:0db3db82-86c5-4a6a-80e5-b2e17dd26769
+created:1582720021597
+id:48921de1-33e0-457f-aece-e7798ea64e83
 isview:false
-map.base:bd2b9885-ef58-4bb2-92b8-642b1fa4d63a
+map.base:a08c17a8-7862-4fdb-8cd3-595fb3954b34
 map.role:definition
 map.type:neighbor
-modified:1582719062243
+modified:1582720021597
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intelligenza Artificiale e Crescita Economica: Il Capitale Intelligente ed Autoriproducente da von Neumann alla Crescita Endogena
-tmap.id:0db3db82-86c5-4a6a-80e5-b2e17dd26769
+tmap.id:48921de1-33e0-457f-aece-e7798ea64e83
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Intelligenza Artificiale e Crescita Economica: Il Capitale Intelligente ed Autoriproducente da von Neumann alla Crescita Endogena

@@ -1,6 +1,6 @@
 activities:
 category:policy work
-created:1582678071707
+created:1582720003324
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071707
+modified:1582720003324
 name:OECD Committee on Digital Economy Policy
 parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:OECD Committee on Digital Economy Policy
-tmap.edges:{"e68d5f60-1f97-4fdc-aea3-0b399c0b99d8":{"to":"c0c43a05-07c6-4a50-8d03-112f5e38a7c6","type":"organization-for-group"}}
-tmap.id:358cd0f3-4d3b-44fb-8088-d3060f66adbd
+tmap.edges:{"84b719a3-7d98-4027-97f4-bf6591567bec":{"to":"1ac55eb1-559b-41a0-b792-3c2141e1c0fc","type":"organization-for-group"}}
+tmap.id:e56496ca-2def-4175-9325-a75115be42ae
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

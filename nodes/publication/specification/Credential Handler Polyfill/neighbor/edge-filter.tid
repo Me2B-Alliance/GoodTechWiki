@@ -1,12 +1,12 @@
-created:1582719062308
+created:1582720021650
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d97e7b6c-c99f-441a-a512-db88b957025d
+map.base:c628ae30-7f54-4d57-9e69-dbbbb112ed2a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062308
+modified:1582720021650
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Credential Handler Polyfill/filter/edges
-tmap.id:8e50ffa8-b2b4-446b-abc3-9e0dfbf30dee
+tmap.id:d629ca23-6492-440a-bd71-6cadee575df7
 type:text/vnd.tiddlywiki
 
 No body provided

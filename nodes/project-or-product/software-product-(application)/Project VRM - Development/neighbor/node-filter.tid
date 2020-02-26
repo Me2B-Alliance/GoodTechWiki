@@ -1,12 +1,12 @@
-created:1582719062207
-filter:[field:tmap.id[14fef23a-6f67-4807-b5ee-f1d1a5715999]]
-map.base:14fef23a-6f67-4807-b5ee-f1d1a5715999
+created:1582720021562
+filter:[field:tmap.id[e6bf5b02-5ea5-453a-9943-6282fa2e17f0]]
+map.base:e6bf5b02-5ea5-453a-9943-6282fa2e17f0
 map.role:node-filter
 map.type:neighbor
-modified:1582719062207
+modified:1582720021562
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Project VRM - Development/filter/nodes
-tmap.id:9dc2aad4-1a15-488f-916d-7760f584f28a
+tmap.id:bc1f069c-26bc-4ff4-b9ac-61e059742f19
 type:text/vnd.tiddlywiki
 
 No body provided

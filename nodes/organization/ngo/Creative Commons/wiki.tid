@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[publication]] [[standard development]]
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:https://github.com/creativecommons
 input.source:me2b
-key.people:[object Set]
+key.people:[[lawrence lessig]]
 linkedin.profile:https://www.linkedin.com/company/creative-commons/
-location(s):[object Set]
-me2b.relationship:[object Set]
-modified:1582678071963
+location(s):[[mountainview]] [[ca]]
+me2b.relationship:[[exemplar for customer commons information sharing terms]]
+modified:1582720003590
 org.name:Creative Commons
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[governance]]
 relevant.publications:
 scope:global
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:Information Sharing Control
 tiddler.classification:node
 title:Creative Commons
 tmap.edges:{}
-tmap.id:fcbc0f6c-3a21-497a-974b-861da1918da1
+tmap.id:004d6c8b-cd40-4ef3-bd9c-d5e291852e31
 twitter.profile:https://twitter.com/creativecommons
 type:text/vnd.tiddlywiki
 website:https://creativecommons.org
 
 Creative Commons helps you legally share your knowledge and creativity to build a more equitable: accessible: and innovative world. We unlock the full potential of the internet to drive a new era of development: growth and productivity.
-
 

@@ -1,12 +1,12 @@
-created:1582719062272
+created:1582720021621
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1781ed99-9947-49c2-9d83-7df798bcf6e8
+map.base:1ed3c2cc-7d2e-4d88-9895-7b74c23492b8
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062272
+modified:1582720021621
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Don’t Call AI “Magic”/filter/edges
-tmap.id:cf7543e6-1275-43ac-bf91-ce6ddbead7e6
+tmap.id:a086354e-bfda-4b38-8e5a-a79f626ddfbe
 type:text/vnd.tiddlywiki
 
 No body provided

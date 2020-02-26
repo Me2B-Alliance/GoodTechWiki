@@ -1,12 +1,12 @@
-created:1582719062216
+created:1582720021574
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9dfb0be2-340e-41b2-aa59-76e3c045d1be
+map.base:22315ecc-5d0d-4f17-998c-797b11157479
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062216
+modified:1582720021574
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/You are not alone/filter/edges
-tmap.id:e4fe1464-c1de-42cb-b7d7-4f9bc1eccd33
+tmap.id:254d0d92-06a0-4ad1-a41b-d736e09a3cd9
 type:text/vnd.tiddlywiki
 
 No body provided

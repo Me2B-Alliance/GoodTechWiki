@@ -1,6 +1,6 @@
 activities:
 category:general
-created:1582678071709
+created:1582720003325
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071709
+modified:1582720003325
 name:The Internet Technical Advisory Committee
 parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
@@ -18,13 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:The Internet Technical Advisory Committee
-tmap.edges:{"9b5fc635-e350-422d-a911-52153c7ee2f8":{"to":"c0c43a05-07c6-4a50-8d03-112f5e38a7c6","type":"organization-for-group"},"f8f06163-9868-42eb-b772-c50143b88d4b":{"to":"358cd0f3-4d3b-44fb-8088-d3060f66adbd","type":"connection"},"11851bc1-f852-4b3d-a4f2-4d0e39ddd29e":{"to":"1598a2e4-dde1-4965-a0f4-c2e2685dcf15","type":"author"},"fe06352b-6ada-4680-b102-3906fd1193ca":{"to":"1c12c33c-d608-4648-b488-8172dafd2f8a","type":"convenor"}}
-tmap.id:6b38f451-bbc1-4027-93a5-b80f781f448b
+tmap.edges:{"e05d9a61-63c3-4b47-99f5-9dde3ba9d378":{"to":"1ac55eb1-559b-41a0-b792-3c2141e1c0fc","type":"organization-for-group"},"a0ff62cd-629c-405f-baa0-06c52cfd3100":{"to":"e56496ca-2def-4175-9325-a75115be42ae","type":"connection"},"9fecbda6-129e-46dc-b134-3605c2cb4260":{"to":"945ff00e-e58a-4276-8fe6-2e2280f85a59","type":"author"},"fab2549e-9e43-42b8-8362-2ba604fd80b1":{"to":"bce2654b-1694-43de-bdda-82bf20067926","type":"convenor"}}
+tmap.id:b075da9e-75ca-4256-9c93-708599bc2222
 type:text/vnd.tiddlywiki
 url:http://www.internetac.org
 
 Building together the future economy and society supported by the Internet
 
 The Internet Technical Advisory Committee (ITAC) to the OECD brings together the counsel and technical expertise of technically focused organizations, in a decentralized networked approach to policy formulation for the Internet economy.
-
 

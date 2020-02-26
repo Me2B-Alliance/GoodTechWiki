@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071767
+created:1582720003386
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071767
+modified:1582720003386
 org.name:Royal Mail
 org.type:company
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Royal Mail
-tmap.edges:{"1d652040-22b4-43bf-a137-9a965dc4662c":{"to":"2d160100-9d01-4af3-835f-cb74571169fe","type":"certified-idp"}}
-tmap.id:8cdabc36-8f90-4b1f-8857-b93cef63ee17
+tmap.edges:{"78de8ae6-2fb9-48e7-bcbb-ffb52a720fa6":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"}}
+tmap.id:19c30c78-d0ff-44c1-9f18-4745ce6eda1f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.royalmail.com/personal/identity-verification
-
 
 
 

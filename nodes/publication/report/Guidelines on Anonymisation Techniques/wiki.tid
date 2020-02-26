@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071971
+created:1582720003598
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071971
+modified:1582720003598
 name:Guidelines on Anonymisation Techniques
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Guidelines on Anonymisation Techniques
 tmap.edges:{}
-tmap.id:4f74d28d-5514-4334-9f5b-9ffa82182f7a
+tmap.id:9e1cf0c8-7b90-4dca-b379-cb9f48c2cd07
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/atoms/files/88197.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 In  this  Opinion,  the  WP  analyses  the  effectiveness  and  limits  of  existing  anonymisation techniques against the EU legal background of data protection and provides recommendations to handle these techniques by taking  account of the residual risk of identification inherent in each of them.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:12551380-be5f-4119-aeca-b0b3947ab4bb
+config.central-topic:2872c0c2-2412-45bf-a8fa-5e5f261eb0bb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062351
-id:37aeb152-71a1-4538-b89b-5060773ab3ee
+created:1582720021692
+id:f2615a0e-4bc0-41d5-b0da-35aae055fd8c
 isview:false
-map.base:12551380-be5f-4119-aeca-b0b3947ab4bb
+map.base:2872c0c2-2412-45bf-a8fa-5e5f261eb0bb
 map.role:definition
 map.type:neighbor
-modified:1582719062351
+modified:1582720021692
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Internet of Things
-tmap.id:37aeb152-71a1-4538-b89b-5060773ab3ee
+tmap.id:f2615a0e-4bc0-41d5-b0da-35aae055fd8c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Internet of Things

@@ -1,17 +1,17 @@
-config.central-topic:b8199faa-f2af-4fb5-ab88-c585d98c9e95
+config.central-topic:aeef21dd-32ed-45c3-b983-33bfea0e6360
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062236
-id:f1d9719f-e8b5-4aa2-a424-0fd03d00a3d3
+created:1582720021590
+id:1311829b-8ab5-45e7-967a-7acdc8d74360
 isview:false
-map.base:b8199faa-f2af-4fb5-ab88-c585d98c9e95
+map.base:aeef21dd-32ed-45c3-b983-33bfea0e6360
 map.role:definition
 map.type:neighbor
-modified:1582719062236
+modified:1582720021590
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Empirical Analysis of Website Data Deletion and Opt-Out Choices
-tmap.id:f1d9719f-e8b5-4aa2-a424-0fd03d00a3d3
+tmap.id:1311829b-8ab5-45e7-967a-7acdc8d74360
 type:text/vnd.tiddlywiki
 
 Neighbor Map of An Empirical Analysis of Website Data Deletion and Opt-Out Choices

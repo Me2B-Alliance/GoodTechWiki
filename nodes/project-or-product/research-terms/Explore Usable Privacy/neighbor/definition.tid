@@ -1,17 +1,17 @@
-config.central-topic:9361f4c2-bbe8-4725-8387-d6d806719502
+config.central-topic:ab792e82-aea5-458c-884e-5bc85f88c6b5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714534894
-id:c543445e-6757-482b-93af-5ea15df7307c
+created:1582720021568
+id:f0e2f0b4-ad31-412b-ae85-c4e93449dedf
 isview:false
-map.base:9361f4c2-bbe8-4725-8387-d6d806719502
+map.base:ab792e82-aea5-458c-884e-5bc85f88c6b5
 map.role:definition
 map.type:neighbor
-modified:1582714534894
+modified:1582720021568
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Explore Usable Privacy-map
-tmap.id:c543445e-6757-482b-93af-5ea15df7307c
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Explore Usable Privacy
+tmap.id:f0e2f0b4-ad31-412b-ae85-c4e93449dedf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Explore Usable Privacy

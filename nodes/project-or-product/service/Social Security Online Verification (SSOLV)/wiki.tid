@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071731
+created:1582720003349
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071731
+modified:1582720003349
 name:Social Security Online Verification (SSOLV)
 parent.org:
 partners:
@@ -22,13 +22,12 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:Social Security Online Verification (SSOLV)
-tmap.edges:{"565e85de-9635-439e-8351-0bbe2f1fefcd":{"to":"5827c7bb-8fbf-48d4-a42a-752d36297983","type":"organization-for-group"}}
-tmap.id:8b05bd1d-f98d-4af8-be45-cb5adc2f3480
+tmap.edges:{"9b7dd19c-dd84-4e4a-9c54-0dc903b78a92":{"to":"e626d51c-ad16-4886-b383-14b69013ed5c","type":"organization-for-group"}}
+tmap.id:d973b3ad-14d2-4d41-99d4-00e97de29494
 type:text/vnd.tiddlywiki
 url:http://www.aamva.org/ssolv/
 version.or.edition:
 working.group:
-
 
 
 

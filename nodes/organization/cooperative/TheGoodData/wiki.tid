@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[movement building]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ input.source:me2b
 key.people:
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071965
+me2b.relationship:[[certification candidate]]
+modified:1582720003592
 org.name:TheGoodData
 org.type:cooperative
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[consumer support]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:TheGoodData
 tmap.edges:{}
-tmap.id:c8ff1108-4ca9-457c-b320-1d0babaeec8a
+tmap.id:94334707-104e-4d40-ae73-b366963ecf78
 twitter.profile:https://twitter.com/thegooddata
 type:text/vnd.tiddlywiki
 website:http://www.thegooddata.org
@@ -37,5 +37,4 @@ website:http://www.thegooddata.org
 The worlds first data coop. TheGoodData help people regain ownership of their browsing data. 
 
 "we have decided to get some rest and dissolve TheGoodData Cooperative Ltd. while looking for ways to achieve our vision"
-
 

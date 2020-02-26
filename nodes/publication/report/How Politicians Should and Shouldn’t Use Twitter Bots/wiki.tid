@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[tim hwang]] [[samuel woolley]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:How Politicians Should and Shouldn’t Use Twitter Bots
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[algorithms and publics]] [[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:How Politicians Should and Shouldn’t Use Twitter Bots
 tmap.edges:{}
-tmap.id:3abfb2ef-07dc-4c08-a092-faeb6d3b6183
+tmap.id:106f4334-6165-4c57-b170-546606698708
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/how-politicians-should-and-shouldnt-use-twitter-bots/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 D&S Researcher Tim Hwang and Samuel Woolley consider the larger trend toward automated politics and the likely future sophistication of automated politics and potential impacts on the public sphere...
-
 

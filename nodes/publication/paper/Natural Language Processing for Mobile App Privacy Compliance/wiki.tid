@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[peter story]] [[sebastian zimmeck]] [[abhilasha ravichander]] [[daniel smullen]] [[ziqi wang]] [[joel reidenberg]] [[n. cameron russell]] [[norman sadeh]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003604
 name:Natural Language Processing for Mobile App Privacy Compliance
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:Natural Language Processing for Mobile App Privacy Compliance
 tmap.edges:{}
-tmap.id:08cb52ce-8a27-4b30-912d-c5164a7797a6
+tmap.id:423b7976-4149-4829-b70d-a6f995afe807
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/static/files/story_pal_2019.pdf
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 AAAI Spring Symposium on Privacy Enhancing AI and Language Technologies (PAL 2019), Mar 2019
 
 Many Internet services collect a flurry of data from theirusers. Privacy policies are intended to describe the ser-vices’  privacy  practices.  However,  due  to  their  lengthand complexity, reading privacy policies is a challengefor  end  users,  government  regulators,  and  companies.Natural language processing holds the promise of help-ing  address  this  challenge.  Specifically,  we  focus  oncomparing the practices described in privacy policies tothe practices performed by smartphone apps covered bythose policies. Government regulators are interested incomparing apps to their privacy policies in order to de-tect non-compliance with laws, and companies are in-terested for the same reason.We  frame  the  identification  of  privacy  practice  state-ments  in  privacy  policies  as  a  classification  problem,which we address with a three-tiered approach: a pri-vacy  practice  statement  is  classified  based  on  a  datatype (e.g., location), party (i.e., first or third party), andmodality (i.e., whether a practice is explicitly describedas being performed or not performed). Privacy policiesomit  discussion  of  many  practices.  With  negative  F1scores ranging from 78% to 100%, the performance re-sults of this three-tiered classification methodology sug-gests an improvement over the state-of-the-art.
-
 

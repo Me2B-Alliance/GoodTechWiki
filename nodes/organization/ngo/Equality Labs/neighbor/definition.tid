@@ -1,17 +1,17 @@
-config.central-topic:6150efa3-d427-4f9c-a488-407963713240
+config.central-topic:e7345fa0-4559-4711-a423-c4f1c636462b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062110
-id:ac2deb38-bb3c-41cb-a027-3191fdb9e421
+created:1582720021465
+id:c386b483-82e0-40a4-b104-d0312a958031
 isview:false
-map.base:6150efa3-d427-4f9c-a488-407963713240
+map.base:e7345fa0-4559-4711-a423-c4f1c636462b
 map.role:definition
 map.type:neighbor
-modified:1582719062110
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equality Labs
-tmap.id:ac2deb38-bb3c-41cb-a027-3191fdb9e421
+tmap.id:c386b483-82e0-40a4-b104-d0312a958031
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Equality Labs

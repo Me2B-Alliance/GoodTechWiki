@@ -1,17 +1,17 @@
-config.central-topic:91de7541-d403-45fc-a397-fb412c7f31e6
+config.central-topic:4dfb1f39-9f4d-4bc0-9d89-e9d1f5b149f0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062238
-id:1a1e1e02-dbbd-49cb-9ca4-ef767675801b
+created:1582720021592
+id:374d28c5-2e76-4f37-a72b-527cfaefd1da
 isview:false
-map.base:91de7541-d403-45fc-a397-fb412c7f31e6
+map.base:4dfb1f39-9f4d-4bc0-9d89-e9d1f5b149f0
 map.role:definition
 map.type:neighbor
-modified:1582719062238
+modified:1582720021592
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID Primer
-tmap.id:1a1e1e02-dbbd-49cb-9ca4-ef767675801b
+tmap.id:374d28c5-2e76-4f37-a72b-527cfaefd1da
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DID Primer

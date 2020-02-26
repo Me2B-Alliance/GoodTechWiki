@@ -1,12 +1,12 @@
-created:1582719062223
+created:1582720021578
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3847638d-f784-4dd9-9354-775da72d2e6e
+map.base:1324faa5-7757-4809-8bf7-08f4da6d9def
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062223
+modified:1582720021578
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Briefing for Short Debate on the use of Facial Recognition Technology in Security and Policing/filter/edges
-tmap.id:adb03006-6b05-4d6b-af37-99aafe5320b2
+tmap.id:e629eac2-ffdd-427d-9105-5358b8874cc8
 type:text/vnd.tiddlywiki
 
 No body provided

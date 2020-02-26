@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071969
+created:1582720003596
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,21 +10,21 @@ github.profile:https://github.com/iubenda
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003596
 name:iubenda Online Compliance Solutions
 parent.org:iubenda
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[products_projects]] [[parent]]
 terms.of.service:
 tiddler.classification:node
 title:iubenda Online Compliance Solutions
 tmap.edges:{}
-tmap.id:56e0afda-cc01-45d4-a44a-a9b53947fdc8
+tmap.id:a9bb1749-de38-4981-a978-2d4534a66a50
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/en/overview
 version.or.edition:
@@ -33,5 +33,4 @@ working.group:
 A complete set of solutions to make your website or app compliant with the law, across multiple languages and legislations.
 
 If you’re not a legal professional, getting your website or app to be compliant with international privacy laws can be tedious and difficult. iubenda provides several comprehensive and customizable solutions that you can seamlessly integrate into your website or app.
-
 

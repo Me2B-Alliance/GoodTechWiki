@@ -1,12 +1,12 @@
-created:1582719062240
+created:1582720021594
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:22a748f7-bb8a-4d5d-8cf3-5efa7c7ec469
+map.base:288e5d43-966a-4d2b-9f72-accbb9a94582
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062240
+modified:1582720021594
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions/filter/edges
-tmap.id:425a5215-35eb-4550-8937-2dbe09c439dc
+tmap.id:50553d3c-8e6f-49ca-a127-4920c87dc85b
 type:text/vnd.tiddlywiki
 
 No body provided

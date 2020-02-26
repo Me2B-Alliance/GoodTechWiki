@@ -1,12 +1,12 @@
-created:1582719062194
+created:1582720021550
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:556a38a4-752f-4da3-9847-4754ddac2376
+map.base:3849c6e7-ee5b-4e9e-ba36-537323399423
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062194
+modified:1582720021550
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data ToolKit - Worldbank/filter/edges
-tmap.id:98ce6aaa-42fa-4340-a2b3-afbca274a25a
+tmap.id:ed75d0e0-0747-4aea-88e8-554c1ff0885d
 type:text/vnd.tiddlywiki
 
 No body provided

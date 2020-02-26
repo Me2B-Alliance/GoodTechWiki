@@ -1,12 +1,12 @@
-created:1582719062290
+created:1582720021636
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0183bd58-4cd0-42ea-9279-69f6fc1c08f9
+map.base:ea4bdf10-5101-4f1d-b8db-fd63365e7337
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062290
+modified:1582720021636
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Refugee Connectivity/filter/edges
-tmap.id:ed3468c4-9293-49a1-9428-c54a41a8e8c3
+tmap.id:1ad7042b-6317-4dda-a83a-df5e4601fd49
 type:text/vnd.tiddlywiki
 
 No body provided

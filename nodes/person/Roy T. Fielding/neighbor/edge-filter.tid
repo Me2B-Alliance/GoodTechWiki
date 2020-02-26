@@ -1,12 +1,12 @@
-created:1582719062176
+created:1582720021536
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:68c34a10-2703-4712-adb3-6d09a955776f
+map.base:08772191-a951-49e6-9829-0064e995d4c3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062176
+modified:1582720021536
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Roy T. Fielding/filter/edges
-tmap.id:9ab00ddf-908a-477d-882c-cb9c320d19e6
+tmap.id:49d2d99d-8ab0-4f4b-b14e-8fc7935f2afb
 type:text/vnd.tiddlywiki
 
 No body provided

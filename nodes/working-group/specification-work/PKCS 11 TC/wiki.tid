@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071716
+created:1582720003333
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071716
+modified:1582720003333
 name:PKCS 11 TC
 parent.org:OASIS
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:PKCS 11 TC
-tmap.edges:{"d5640e18-9652-499a-b73e-5c67db817997":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
-tmap.id:8a7d7a81-563b-431e-b8ef-56969f61968f
+tmap.edges:{"1afe60a3-530f-4294-b7b8-fa14cb7d4e44":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
+tmap.id:3e672dfd-0c9a-45ad-87b1-e2480c3af115
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pkcs11
 
@@ -30,5 +30,4 @@ The OASIS PKCS 11 Technical Committee develops enhancements to improve the PKCS 
 The updated standard provides additional support for mobile and cloud computing use cases: for distributed/federated applications involving key management functions (key generation, distribution, translation, escrow, re-keying); session-based models; virtual devices and virtual keystores; evolving wireless/sensor applications using near field communication (NFC), RFID, Bluetooth, and Wi-Fi.
 
 TC members are also designing new mechanisms for API instrumentation, suitable for use in prototyping, profiling, and testing in resource-constrained application environments. These updates enable support for easy integration of PKCS #11 with other cryptographic key management system (CKMS) standards, including a broader range of cryptographic algorithms and CKMS cryptographic service models.
-
 

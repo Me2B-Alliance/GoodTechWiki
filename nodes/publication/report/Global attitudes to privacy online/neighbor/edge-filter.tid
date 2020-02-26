@@ -1,12 +1,12 @@
-created:1582719062275
+created:1582720021623
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3984596c-6ab9-47d2-bd3b-8aef9df172da
+map.base:edb6f1ef-ebd5-4883-bfd2-2ff0c9fcab54
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062275
+modified:1582720021623
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global attitudes to privacy online/filter/edges
-tmap.id:afda0883-476c-474c-b2f7-96428661238e
+tmap.id:c94caebe-831e-4614-83c6-6405062c2ca5
 type:text/vnd.tiddlywiki
 
 No body provided

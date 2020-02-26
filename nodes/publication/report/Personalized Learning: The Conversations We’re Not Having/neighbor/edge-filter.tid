@@ -1,12 +1,12 @@
-created:1582719062287
+created:1582720021633
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:16e8623f-3b67-4192-b36e-02544bc4a246
+map.base:403dd878-8fd4-45e9-ae57-30d6e0376665
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062287
+modified:1582720021633
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Personalized Learning: The Conversations We’re Not Having/filter/edges
-tmap.id:256f899e-9cc5-47d0-b031-070eb33ef7c2
+tmap.id:76d2476e-73c6-47ab-9bee-b19c68da63e1
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071714
+created:1582720003332
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071714
+modified:1582720003332
 name:Cryptography and Security Mechanisms WG2
 parent.org:ISO/IEC JTC 1 / SC27 IT Security Techniques
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Cryptography and Security Mechanisms WG2
-tmap.edges:{"21760875-92ff-41a3-8d97-6d486b6cbef9":{"to":"6db003c3-9539-401b-9dbe-ecd42482558d","type":"organization-for-group"}}
-tmap.id:81b3def8-253a-49bd-ae75-4fe048d91c4d
+tmap.edges:{"9a988a23-b594-40c5-8038-fdafab5de43c":{"to":"1dffc408-db8d-4580-ae04-400a2e5bc81e","type":"organization-for-group"}}
+tmap.id:c453b7fe-8f06-4874-b147-cfb75957163e
 type:text/vnd.tiddlywiki
 url:
 
@@ -37,5 +37,4 @@ The scope covers both cryptographic and non-cryptographic techniques and mechani
 ** hash-functions;
 ** digital signatures.
 The mechanisms in general include several options with respect to the techniques used including symmetric cryptographic, asymmetric cryptographic and non-cryptographic.
-
 

@@ -1,12 +1,12 @@
-created:1582719062268
+created:1582720021615
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:34d80a5c-7284-4c61-83db-b0b878c84819
+map.base:d8182ab4-2479-4b97-81c1-b12453245ff9
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062268
+modified:1582720021615
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DNA Database/filter/edges
-tmap.id:9c384c8f-932d-4765-9573-5341270603c8
+tmap.id:f999cd6d-9e6b-4568-b2eb-156728d32dde
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062263
-filter:[field:tmap.id[c90df36b-095e-4945-a381-e7e4e364fa8e]]
-map.base:c90df36b-095e-4945-a381-e7e4e364fa8e
+created:1582720021609
+filter:[field:tmap.id[a5835df0-c828-4623-b15b-8e78f9b357bb]]
+map.base:a5835df0-c828-4623-b15b-8e78f9b357bb
 map.role:node-filter
 map.type:neighbor
-modified:1582719062263
+modified:1582720021609
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Advertising in Schools/filter/nodes
-tmap.id:8431ea55-247f-4eea-b90f-0e8e8203c965
+tmap.id:f15c5112-b259-4290-964f-f2db9b4f6fe0
 type:text/vnd.tiddlywiki
 
 No body provided

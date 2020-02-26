@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071712
+created:1582720003330
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071712
+modified:1582720003330
 name:ISO/TC 292 Security and Resilience
 parent.org:ISO/IEC
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:ISO/TC 292 Security and Resilience
-tmap.edges:{"b9dea14d-279b-40ec-8faf-4290d518865a":{"to":"f419bff2-0e6e-4380-82a9-3a05d90ee5a6","type":"organization-for-group"},"e3d28a5e-a5db-4067-8bd4-1a58594b7c68":{"to":"d7c11861-87a2-4f8c-bc3e-f566d95a77e2","type":"connection"}}
-tmap.id:76e28c0e-24bd-4ca9-92a0-a91248163a56
+tmap.edges:{"c6a9d8fd-7ab2-48d5-bcc5-0aae6bb5b5c6":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"organization-for-group"},"aad39a3c-a7bd-429b-a160-fee6f0192562":{"to":"58b741f7-12aa-4bb6-8db5-8d6ec33af651","type":"connection"}}
+tmap.id:dfdf459c-ac87-4fb0-896a-cba3eb11485a
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

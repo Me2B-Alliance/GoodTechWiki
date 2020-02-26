@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071748
+created:1582720003365
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071748
+modified:1582720003365
 org.name:National Institute of Standards (NIST)
 org.type:part of a government
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:National Institute of Standards (NIST)
-tmap.edges:{"921792c2-3113-4c4e-9a39-ff5925240d13":{"to":"3fa68ad0-4e2a-48c0-940e-d0d2f0e44fd3","type":"government-connection"}}
-tmap.id:0b54a118-e8dd-4a36-8604-f749789e9e0a
+tmap.edges:{"584b84f3-361f-4718-978c-f1f6ae625ba2":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
+tmap.id:a9994b9e-0264-439a-8923-bc565120dda1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

@@ -1,17 +1,17 @@
-config.central-topic:c7c5dc66-8160-416e-bbf1-027c75f3d305
+config.central-topic:3095adc4-c9c8-4b09-9167-6ed0918d9e5c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062244
-id:e10f7007-3109-40f7-97d7-0e3c6ba99f6e
+created:1582720021598
+id:e5dc7dbe-ad71-40af-b3a2-e945c4657c84
 isview:false
-map.base:c7c5dc66-8160-416e-bbf1-027c75f3d305
+map.base:3095adc4-c9c8-4b09-9167-6ed0918d9e5c
 map.role:definition
 map.type:neighbor
-modified:1582719062244
+modified:1582720021598
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LD Signature Format Alignment
-tmap.id:e10f7007-3109-40f7-97d7-0e3c6ba99f6e
+tmap.id:e5dc7dbe-ad71-40af-b3a2-e945c4657c84
 type:text/vnd.tiddlywiki
 
 Neighbor Map of LD Signature Format Alignment

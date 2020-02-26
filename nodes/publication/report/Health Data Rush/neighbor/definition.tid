@@ -1,17 +1,17 @@
-config.central-topic:956cbb1f-175d-4d88-8d77-cdbaee48076e
+config.central-topic:a3af6cad-f6eb-4e79-a205-b6ecc4195aba
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062278
-id:b3017d64-1cb2-4d26-913c-7eef3014b645
+created:1582720021626
+id:55f15865-623e-494f-aee1-1c402055de70
 isview:false
-map.base:956cbb1f-175d-4d88-8d77-cdbaee48076e
+map.base:a3af6cad-f6eb-4e79-a205-b6ecc4195aba
 map.role:definition
 map.type:neighbor
-modified:1582719062278
+modified:1582720021626
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Data Rush
-tmap.id:b3017d64-1cb2-4d26-913c-7eef3014b645
+tmap.id:55f15865-623e-494f-aee1-1c402055de70
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Health Data Rush

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071975
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Parent Choice: Using Data to Justify Decisions that Perpetuate Segregation?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[enabling connected learning]]
 tech.focus:
 tiddler.classification:node
 title:Parent Choice: Using Data to Justify Decisions that Perpetuate Segregation?
 tmap.edges:{}
-tmap.id:2d33f0d3-339c-49ef-b27d-cdebe5d05ea5
+tmap.id:b9677696-31be-41f6-8964-00e4f7a5a2f6
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/parent-choice-using-data-to-justify-decisions-that-perpetuate-segregation/
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 D&S researcher Claire Fontaine writes a compelling piece analyzing whether or not school performance data reinforces segregation.
 
     Data is great at masking its own embedded bias, and school performance data allows privileged parents to reinforce educational inequality. The best interests of some individuals are optimized at the expense of the society. Accountability programs, particularly when coupled with school choice models, serve to keep middle and upper middle class families invested in public schools, but in an uneven and patterned way, causing segregated school environments to persist despite racial and socioeconomic residential diversity.
-
 

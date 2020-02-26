@@ -1,12 +1,12 @@
-created:1582719062077
+created:1582720021430
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ec013359-191d-4d5c-9d94-13bf12f251eb
+map.base:9acccb76-1e72-4022-9ce1-c2b7b04877f1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062077
+modified:1582720021430
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Law & Policy Workshop Amsterdam/filter/edges
-tmap.id:e9be20cf-52ad-46f5-a718-012535c7f030
+tmap.id:07a94786-2f82-418d-a516-abba140aae48
 type:text/vnd.tiddlywiki
 
 No body provided

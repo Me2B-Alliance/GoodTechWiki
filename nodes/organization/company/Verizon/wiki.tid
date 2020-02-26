@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071768
+created:1582720003386
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071768
+modified:1582720003386
 org.name:Verizon
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Verizon
-tmap.edges:{"52d7c9ed-98c0-4747-9dd9-357d868fe670":{"to":"ec013359-191d-4d5c-9d94-13bf12f251eb","type":"sponsor"},"61705c99-92d9-4300-bd7a-ee1c4b9433fb":{"to":"cec42ec3-191c-4587-a038-84865ff4b651","type":"general-member"},"dafd8aa1-73a8-4b04-bb8b-360c71684f06":{"to":"37ead440-2d20-403a-a913-dac442dfa2c2","type":"executive-member"}}
-tmap.id:9f5adc3a-e277-4969-bc61-0797cea21d99
+tmap.edges:{"5b6de973-2700-4b16-8ac7-f1f8d1eab7a8":{"to":"9acccb76-1e72-4022-9ce1-c2b7b04877f1","type":"sponsor"},"4e86bba0-07ef-4e7f-871b-477ddb3950b4":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"},"1cacf779-c791-4203-90f3-b779c5fdfad2":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
+tmap.id:31c0bfc2-12f9-4676-99b3-8346d8f99cd3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.verizonenterprise.com/
@@ -36,5 +36,4 @@ website:http://www.verizonenterprise.com/
 Powered by investments in security, data centers, 4G/LTE, cloud computing, and its immense global IP network; and built upon powerful, interplaying platforms that bring together networks, applications, information, and environments, Verizon’s portfolio of solutions effortlessly meets the demands and challenges shaping technology and business today. Each of its platforms — mobility, machine-to-machine, cloud and IT, advanced communications, security, and global networks — offers a compelling set of discrete capabilities. But when blended together, those capabilities are amplified, allowing them to create configurable industry solutions to meet the individual demands of our customers.
 
 Verizon believes that businesses and individuals empowered by technology can change the world and so create solutions with that belief in mind, perpetually challenging themselves to enable, advance, and pave the way for new possibilities across a variety of industries.
-
 

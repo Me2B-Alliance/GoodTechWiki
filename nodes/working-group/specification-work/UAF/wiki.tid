@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071710
+created:1582720003328
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071710
+modified:1582720003328
 name:UAF
 parent.org:FIDO Alliance
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:UAF
-tmap.edges:{"3a0ba2c1-8817-45e3-a089-c5cc15b26092":{"to":"55b37d06-ffcf-4e45-a7e4-c28e08b98b97","type":"organization-for-group"}}
-tmap.id:f10e13dd-c519-46b5-ad5c-7377582b70b4
+tmap.edges:{"9941c7bc-84c9-4795-b1f3-63bc9bb1ff14":{"to":"34df587c-8867-42d0-a1d2-80c3a5b0427d","type":"organization-for-group"}}
+tmap.id:525cde85-3cf0-4e5b-b869-2995c8bd4905
 type:text/vnd.tiddlywiki
 url:
 
@@ -31,5 +31,4 @@ Website can choose whether to retain password
 The passwordless FIDO experience is supported by the Universal Authentication Framework (UAF) protocol. In this experience, the user registers their device to the online service by selecting a local authentication mechanism such as swiping a finger, looking at the camera, speaking into the mic, entering a PIN, etc. The UAF protocol allows the service to select which mechanisms are presented to the user.
 
 Once registered, the user simply repeats the local authentication action whenever they need to authenticate to the service. The user no longer needs to enter their password when authenticating from that device. UAF also allows experiences that combine multiple authentication mechanisms such as fingerprint + PIN.
-
 

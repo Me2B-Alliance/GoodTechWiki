@@ -1,12 +1,12 @@
-created:1582719062227
+created:1582720021582
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e5fe959a-9974-44d9-be9c-c303da012706
+map.base:087e0dad-7509-493b-9995-19b6e5a56e2a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062227
+modified:1582720021582
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Right to Privacy & the Digital Revolution Inquiry – Written evidence to the Joint Committee on Human Rights/filter/edges
-tmap.id:0872b64d-2982-4f6c-9f5d-3c36f235ad73
+tmap.id:a1caa905-6a27-4df5-a612-4eb84aaaa41f
 type:text/vnd.tiddlywiki
 
 No body provided

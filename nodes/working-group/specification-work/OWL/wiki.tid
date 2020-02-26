@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071712
+created:1582720003330
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071712
+modified:1582720003330
 name:OWL
 parent.org:W3C
 people:
@@ -18,13 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:OWL
-tmap.edges:{"0d5039a0-3fd0-4510-b4ba-35b3442d7744":{"to":"a83d5782-0887-4288-bbb4-6bb75f065b8f","type":"organization-for-group"}}
-tmap.id:a9713041-e435-49d0-b26c-874584c08776
+tmap.edges:{"723fc10b-ff96-4b47-ac3b-41822a19c211":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
+tmap.id:24b48f43-11f7-45ce-b25c-6521893b8658
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/owl/
 
 The W3C Web Ontology Language (OWL) is a Semantic Web language designed to represent rich and complex knowledge about things, groups of things, and relations between things. OWL is a computational logic-based language such that knowledge expressed in OWL can be exploited by computer programs, e.g., to verify the consistency of that knowledge or to make implicit knowledge explicit. OWL documents, known as ontologies, can be published in the World Wide Web and may refer to or be referred from other OWL ontologies. OWL is part of the W3C’s Semantic Web technology stack, which includes RDF, RDFS, SPARQL, etc.
 
 The current version of OWL, also referred to as “OWL 2”, was developed by the [W3C OWL Working Group] (now closed) and published in 2009, with a Second Edition published in 2012. OWL 2 is an extension and revision of the 2004 version of OWL developed by the [W3C Web Ontology Working Group] (now closed) and published in 2004. The deliverables that make up the OWL 2 specification include a Document Overview, which serves as an introduction to OWL 2, describes the relationship between OWL 1 and OWL 2, and provides an entry point to the remaining deliverables via a Documentation Roadmap.
-
 

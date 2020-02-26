@@ -1,12 +1,12 @@
-created:1582719062083
-filter:[field:tmap.id[a0224795-4eba-47af-92a1-c596de80b3df]]
-map.base:a0224795-4eba-47af-92a1-c596de80b3df
+created:1582720021436
+filter:[field:tmap.id[b9c058ca-8b45-4362-b361-df90ee5cd4a0]]
+map.base:b9c058ca-8b45-4362-b361-df90ee5cd4a0
 map.role:node-filter
 map.type:neighbor
-modified:1582719062083
+modified:1582720021436
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Barclays/filter/nodes
-tmap.id:84041d27-944f-4a88-9696-cff940c11a86
+tmap.id:0bde86a0-d436-4e64-8f02-a0dd3b1a7a17
 type:text/vnd.tiddlywiki
 
 No body provided

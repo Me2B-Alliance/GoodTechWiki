@@ -1,12 +1,12 @@
-created:1582719062089
-filter:[field:tmap.id[7d2863e2-db30-499c-9b08-912cc564a272]]
-map.base:7d2863e2-db30-499c-9b08-912cc564a272
+created:1582720021441
+filter:[field:tmap.id[3e3781a9-849c-43d3-a819-c4bfb98f0237]]
+map.base:3e3781a9-849c-43d3-a819-c4bfb98f0237
 map.role:node-filter
 map.type:neighbor
-modified:1582719062089
+modified:1582720021441
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hu-manity.co/filter/nodes
-tmap.id:5430a95f-f50b-4a2a-878e-0dfa3584fe95
+tmap.id:5fdb5393-bc59-444c-80e8-e683921852ba
 type:text/vnd.tiddlywiki
 
 No body provided

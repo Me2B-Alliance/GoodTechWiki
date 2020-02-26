@@ -1,17 +1,17 @@
-config.central-topic:0c8cd622-3bd2-43ca-a65c-bddc2ba6c5ef
+config.central-topic:cb733955-50f6-4fa6-bcb3-48a5b6b13880
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062311
-id:eedd07b7-b6f0-4bde-a465-4fa318f47fea
+created:1582720021653
+id:21881c0e-da5e-4183-890c-8b2f58f725dc
 isview:false
-map.base:0c8cd622-3bd2-43ca-a65c-bddc2ba6c5ef
+map.base:cb733955-50f6-4fa6-bcb3-48a5b6b13880
 map.role:definition
 map.type:neighbor
-modified:1582719062311
+modified:1582720021653
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fluffy: Simplified Key Exchange for Constrained Environments
-tmap.id:eedd07b7-b6f0-4bde-a465-4fa318f47fea
+tmap.id:21881c0e-da5e-4183-890c-8b2f58f725dc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Fluffy: Simplified Key Exchange for Constrained Environments

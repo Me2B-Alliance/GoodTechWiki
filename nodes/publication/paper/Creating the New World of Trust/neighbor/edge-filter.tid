@@ -1,12 +1,12 @@
-created:1582719062238
+created:1582720021592
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f6428dd1-1e91-46ea-b0b5-a8b82f72e1fd
+map.base:69914639-b7b0-4267-bbb6-5d7ead7ea285
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062238
+modified:1582720021592
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Creating the New World of Trust/filter/edges
-tmap.id:193bdc91-1569-41f7-9fb4-04b2f91034a6
+tmap.id:fd2a5291-902e-4b24-9168-d531f5fedd96
 type:text/vnd.tiddlywiki
 
 No body provided

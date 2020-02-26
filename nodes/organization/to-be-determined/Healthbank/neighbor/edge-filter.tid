@@ -1,12 +1,12 @@
-created:1582719062144
+created:1582720021492
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e46074cc-1490-4276-b822-8f1904850f59
+map.base:70a1a4d1-911f-4050-b995-624617d2585a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062144
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Healthbank/filter/edges
-tmap.id:fbd9e9d9-950a-4102-8d8f-54d6e5493e18
+tmap.id:bdc49bf0-d787-4226-aa2b-880bcb772155
 type:text/vnd.tiddlywiki
 
 No body provided

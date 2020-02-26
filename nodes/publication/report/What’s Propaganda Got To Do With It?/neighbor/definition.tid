@@ -1,17 +1,17 @@
-config.central-topic:9c4a4930-5ae5-42d5-921b-dc8a6ce155fd
+config.central-topic:f2771681-b2f6-46aa-8e89-cbe1643c1960
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062302
-id:713162f6-55e5-4108-b227-7e40bdf1dc37
+created:1582720021646
+id:0a5e208e-3307-44fb-b3df-4525ea5f312b
 isview:false
-map.base:9c4a4930-5ae5-42d5-921b-dc8a6ce155fd
+map.base:f2771681-b2f6-46aa-8e89-cbe1643c1960
 map.role:definition
 map.type:neighbor
-modified:1582719062302
+modified:1582720021646
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What’s Propaganda Got To Do With It?
-tmap.id:713162f6-55e5-4108-b227-7e40bdf1dc37
+tmap.id:0a5e208e-3307-44fb-b3df-4525ea5f312b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of What’s Propaganda Got To Do With It?

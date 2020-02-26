@@ -1,17 +1,17 @@
-config.central-topic:06638557-8e1a-46f4-be0d-6c013e8f0a9c
+config.central-topic:7f8c28ca-ff78-43a3-a401-d2649bca09c0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062140
-id:dc447347-2f73-49f0-a768-e1ad14ae195d
+created:1582720021493
+id:40fe8f1d-ef7d-4874-abf9-500041211be4
 isview:false
-map.base:06638557-8e1a-46f4-be0d-6c013e8f0a9c
+map.base:7f8c28ca-ff78-43a3-a401-d2649bca09c0
 map.role:definition
 map.type:neighbor
-modified:1582719062140
+modified:1582720021493
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MIT Media Lab
-tmap.id:dc447347-2f73-49f0-a768-e1ad14ae195d
+tmap.id:40fe8f1d-ef7d-4874-abf9-500041211be4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MIT Media Lab

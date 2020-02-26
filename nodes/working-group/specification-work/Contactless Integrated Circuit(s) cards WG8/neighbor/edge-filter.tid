@@ -1,12 +1,12 @@
-created:1582719062354
+created:1582720021695
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f2eb4f7f-f612-449d-bce7-80f3fd11af9a
+map.base:962b3bfc-ae5d-4b62-a5d5-b167c6a71390
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062354
+modified:1582720021695
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Contactless Integrated Circuit(s) cards WG8/filter/edges
-tmap.id:975227f0-efb0-4857-9712-20c212900ca7
+tmap.id:b675c556-031b-48b8-a97c-5f261665a32b
 type:text/vnd.tiddlywiki
 
 No body provided

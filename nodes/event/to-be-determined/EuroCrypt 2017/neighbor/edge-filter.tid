@@ -1,12 +1,12 @@
-created:1582719062075
+created:1582720021429
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:39d97bfa-db2f-48d1-bcbd-b9a13f61faa7
+map.base:06cfa4d6-e83b-4830-ba66-e690b1f9ef9b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062075
+modified:1582720021429
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EuroCrypt 2017/filter/edges
-tmap.id:6aa73a8f-5e19-49c8-98c2-6bfe9110fe13
+tmap.id:a20bf6f3-9604-46ed-aa40-5995ba7050f3
 type:text/vnd.tiddlywiki
 
 No body provided

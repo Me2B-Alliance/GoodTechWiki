@@ -1,12 +1,12 @@
-created:1582719062316
-filter:[field:tmap.id[d837dcc0-828d-4e52-84c8-5a2ff6c9afd7]]
-map.base:d837dcc0-828d-4e52-84c8-5a2ff6c9afd7
+created:1582720021657
+filter:[field:tmap.id[7cf5e541-1a83-475f-ab03-2db8c4848d51]]
+map.base:7cf5e541-1a83-475f-ab03-2db8c4848d51
 map.role:node-filter
 map.type:neighbor
-modified:1582719062316
+modified:1582720021657
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Linked Data Cryptographic Suite Registry/filter/nodes
-tmap.id:3f3dc2dd-5a20-46ea-909d-1a77ac2ac7f4
+tmap.id:c9a8beeb-3edf-481f-8482-22eb36a5ae2f
 type:text/vnd.tiddlywiki
 
 No body provided

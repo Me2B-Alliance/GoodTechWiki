@@ -1,12 +1,12 @@
-created:1582719062177
+created:1582720021538
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:52faa09a-92c1-4d48-9ef0-06fa9fecbec2
+map.base:f44f0146-8758-4b14-9428-0f0c627dec78
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062177
+modified:1582720021538
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vyjayanti Desai/filter/edges
-tmap.id:b7160909-7ea5-462f-a5b3-4bac08f27b28
+tmap.id:a1fc5899-5132-4a44-856a-3cf2a22d09ce
 type:text/vnd.tiddlywiki
 
 No body provided

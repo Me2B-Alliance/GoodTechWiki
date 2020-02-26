@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[publication]] [[research]] [[standard development]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -9,17 +9,17 @@ element.type:organization
 funding:
 github.profile:https://github.com/WebOfTrustInfo
 input.source:me2b
-key.people:[object Set]
+key.people:[[christopher allen]] [[joe andrieu]]
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071964
+me2b.relationship:[[no formal relationship.  me2b should write whitepapers]]
+modified:1582720003590
 org.name:Rebooting the Web of Trust
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[ecosystem building]]
 relevant.publications:
 scope:global
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:Identity
 tiddler.classification:node
 title:Rebooting the Web of Trust
 tmap.edges:{}
-tmap.id:71cd1193-67c0-40cc-b6fa-3eb3bb1ed9e9
+tmap.id:1d69aaac-da2f-4e7a-964a-490f09950216
 twitter.profile:https://twitter.com/hashtag/rebootingweboftrust
 type:text/vnd.tiddlywiki
 website:https://www.weboftrust.info/
 
 This facilitated design workshop ("DesignShop"): hosted by Christopher Allen: is focused on the creation of the next generation of decentralized web-of-trust based identity systems. The goal of this event is to generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future: followed by a hackathon early in the new year to implement those ideas.
-
 

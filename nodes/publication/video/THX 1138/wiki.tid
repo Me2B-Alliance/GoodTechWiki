@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[george lucas]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:THX 1138
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[film festival]]
 tech.focus:
 tiddler.classification:node
 title:THX 1138
 tmap.edges:{}
-tmap.id:d53a45d7-09d2-4623-b91f-003cd46f6027
+tmap.id:0c2df718-44a4-495d-ab8f-f9c00a25f31e
 type:text/vnd.tiddlywiki
 url:https://www.youtube.com/watch?v=U0YkPnwoYyE
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 [excerpt: The Confession Scene, Director’s Cut]. Lucas’s directorial debut (originally his student film) depicts computers and robots in a dystopian future. This scene is a reference to the famous 1964 natural language processing program ELIZA.
-
 

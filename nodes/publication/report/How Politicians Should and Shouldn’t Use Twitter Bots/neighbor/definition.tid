@@ -1,17 +1,17 @@
-config.central-topic:3abfb2ef-07dc-4c08-a092-faeb6d3b6183
+config.central-topic:106f4334-6165-4c57-b170-546606698708
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062279
-id:0fb3c037-56ef-48e0-bd4c-c6afa4908cf0
+created:1582720021626
+id:df17b4b6-b825-4521-b2ba-49341b533482
 isview:false
-map.base:3abfb2ef-07dc-4c08-a092-faeb6d3b6183
+map.base:106f4334-6165-4c57-b170-546606698708
 map.role:definition
 map.type:neighbor
-modified:1582719062279
+modified:1582720021626
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Politicians Should and Shouldn’t Use Twitter Bots
-tmap.id:0fb3c037-56ef-48e0-bd4c-c6afa4908cf0
+tmap.id:df17b4b6-b825-4521-b2ba-49341b533482
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How Politicians Should and Shouldn’t Use Twitter Bots

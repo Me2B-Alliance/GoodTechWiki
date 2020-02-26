@@ -1,12 +1,12 @@
-created:1582719062309
+created:1582720021650
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b7037857-f895-4770-a051-0efc421c5745
+map.base:db47286f-9238-4a90-98f7-1a3011ad2d31
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062309
+modified:1582720021650
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Authentication Guideline/filter/edges
-tmap.id:f32901d4-d2a1-4307-b314-ee90ac3f43af
+tmap.id:a52e31b1-d021-4bc5-a1de-925adb0e99bb
 type:text/vnd.tiddlywiki
 
 No body provided

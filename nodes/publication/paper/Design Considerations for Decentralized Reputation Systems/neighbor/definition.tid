@@ -1,17 +1,17 @@
-config.central-topic:7f26e8c8-f48c-49b6-adc7-0078fe7827bf
+config.central-topic:772151f2-0059-4b56-8c6a-f4d99cd81002
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062239
-id:547e7b59-229e-40d6-a675-5a1af9318c0e
+created:1582720021593
+id:66838d12-92b5-477d-8c1d-9e2fc95561ec
 isview:false
-map.base:7f26e8c8-f48c-49b6-adc7-0078fe7827bf
+map.base:772151f2-0059-4b56-8c6a-f4d99cd81002
 map.role:definition
 map.type:neighbor
-modified:1582719062239
+modified:1582720021593
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Considerations for Decentralized Reputation Systems
-tmap.id:547e7b59-229e-40d6-a675-5a1af9318c0e
+tmap.id:66838d12-92b5-477d-8c1d-9e2fc95561ec
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Design Considerations for Decentralized Reputation Systems

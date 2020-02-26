@@ -1,12 +1,12 @@
-created:1582719062367
+created:1582720021703
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1997443b-1286-468f-a565-3fc74ca40ed7
+map.base:a9e8ca91-4328-4479-9b71-03b42679824c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062367
+modified:1582720021703
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Service Function Chaining  (sfc)/filter/edges
-tmap.id:1469a252-d0f3-4bc2-92f5-aed85fd65981
+tmap.id:f37d82bc-42be-47ea-b99f-641758049ffd
 type:text/vnd.tiddlywiki
 
 No body provided

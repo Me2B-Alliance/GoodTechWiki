@@ -1,10 +1,10 @@
-activities:[object Set]
+activities:[[research]] [[publication]] [[standard development]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
-digital.harms.addressed:[object Set]
+digital.harms.addressed:[[insecurity]]
 element.type:organization
 funding:
 github.profile:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/online-trust-alliance
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Online Trust Alliance (OTA)
 org.type:trade association
 parent.org:Internet Society
@@ -29,11 +29,10 @@ tech.focus:Information Sharing Control
 tiddler.classification:node
 title:Online Trust Alliance (OTA)
 tmap.edges:{}
-tmap.id:bea43a62-cf34-406d-bf4d-f1630ebfc44d
+tmap.id:0e643bc8-19d2-466d-8c2f-9f0adeff750a
 twitter.profile:https://twitter.com/ISOC_OTA
 type:text/vnd.tiddlywiki
 website:https://www.internetsociety.org/ota/
 
 The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations: vendors: researchers: and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data.
-
 

@@ -1,7 +1,7 @@
 activities:
 audience:
 category:research
-created:1582678071971
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071971
+modified:1582720003598
 name:Supporting Ethics in Data Research
 parent.org:Data & Society Research Institute
 partners:
@@ -19,12 +19,12 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[data & society research]] [[law & ethics in computational social science]] [[publications]] [[parent]]
 terms.of.service:
 tiddler.classification:node
 title:Supporting Ethics in Data Research (project-or-product)
 tmap.edges:{}
-tmap.id:2b49f3d6-3eb7-4087-b7b8-4db04a4b5c6a
+tmap.id:3ccb55b7-757e-4a72-be30-6709a007b612
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/initiatives/ethics-big-data-research/supporting-ethics-data-research/
 version.or.edition:
@@ -35,5 +35,4 @@ New and complex data sets raise challenging ethical questions about risk to indi
 This exploratory project built upon the emerging support systems, including assistance from the research library, for computer science researchers that has resulted from Data Management Plans required by federal funders. Drawing on their data management skills and knowledge of information ethics, academic librarians may be well poised to act as partners to computer science and engineering researchers throughout the research process, including the use of third-party data.
 
 This project was supported by the Alfred P. Sloan Foundation. Dr. Rachelle Hollander, Director for the Center for Engineering, Ethics, and Society at the National Academy of Engineering, served as a project advisor.
-
 

@@ -1,17 +1,17 @@
-config.central-topic:e3f55f33-d3ec-4aeb-b47f-2104a9b94336
+config.central-topic:99262070-e720-49cc-ab4d-b08ffc3d8916
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062187
-id:6eb69dc7-79ea-4841-9362-18aa3f989337
+created:1582720021546
+id:7bbfeb93-412f-46a4-af94-4772eaa2ca09
 isview:false
-map.base:e3f55f33-d3ec-4aeb-b47f-2104a9b94336
+map.base:99262070-e720-49cc-ab4d-b08ffc3d8916
 map.role:definition
 map.type:neighbor
-modified:1582719062187
+modified:1582720021546
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GAIA Global Access to the Internet for All Research Group
-tmap.id:6eb69dc7-79ea-4841-9362-18aa3f989337
+tmap.id:7bbfeb93-412f-46a4-af94-4772eaa2ca09
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GAIA Global Access to the Internet for All Research Group

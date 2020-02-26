@@ -1,12 +1,12 @@
-created:1582719062165
+created:1582720021525
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:49e587d6-0085-4e66-a383-8f62f68c3204
+map.base:18c2f744-dd73-43cb-bba5-2457b9919e8b
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062165
+modified:1582720021525
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/mobile Ecosystem Forum/filter/edges
-tmap.id:41c06e11-e461-4588-bcd3-ccf4c7b2090c
+tmap.id:74078b56-d394-4c9c-8d06-e430aaf7bbea
 type:text/vnd.tiddlywiki
 
 No body provided

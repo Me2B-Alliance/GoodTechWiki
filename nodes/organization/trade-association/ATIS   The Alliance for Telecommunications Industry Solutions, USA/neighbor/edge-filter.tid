@@ -1,12 +1,12 @@
-created:1582719062149
+created:1582720021502
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c160863c-2b3c-4f2c-b619-471766e106af
+map.base:a73941e9-8958-45c6-ae00-b302639aa22c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062149
+modified:1582720021502
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ATIS   The Alliance for Telecommunications Industry Solutions, USA/filter/edges
-tmap.id:7ed1ab85-c6ff-4c12-8fed-b7cb8d51b2a9
+tmap.id:f5fd47de-a8a5-412a-a535-f50d5ba0a1bd
 type:text/vnd.tiddlywiki
 
 No body provided

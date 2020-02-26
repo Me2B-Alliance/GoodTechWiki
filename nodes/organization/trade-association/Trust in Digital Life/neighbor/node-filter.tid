@@ -1,12 +1,12 @@
-created:1582719062163
-filter:[field:tmap.id[cec42ec3-191c-4587-a038-84865ff4b651]]
-map.base:cec42ec3-191c-4587-a038-84865ff4b651
+created:1582720021524
+filter:[field:tmap.id[1784ad38-f114-4dec-8b13-489aac8450b3]]
+map.base:1784ad38-f114-4dec-8b13-489aac8450b3
 map.role:node-filter
 map.type:neighbor
-modified:1582719062163
+modified:1582720021524
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Digital Life/filter/nodes
-tmap.id:bc3f0818-94b3-4e2e-b7e0-524ed5d1e50c
+tmap.id:fb7634fa-fe16-40e6-b6fe-e721f17bf162
 type:text/vnd.tiddlywiki
 
 No body provided

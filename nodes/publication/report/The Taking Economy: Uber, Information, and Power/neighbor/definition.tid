@@ -1,17 +1,17 @@
-config.central-topic:1c6af812-ed63-4256-b945-28e9e897fc48
+config.central-topic:0ba2d7ba-fb9e-4ef6-8582-f023efa7e8b3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062298
-id:dba075bd-dcf6-4d2a-b022-1d20d896c755
+created:1582720021642
+id:bac1939d-9cf5-421d-92db-fa797366b012
 isview:false
-map.base:1c6af812-ed63-4256-b945-28e9e897fc48
+map.base:0ba2d7ba-fb9e-4ef6-8582-f023efa7e8b3
 map.role:definition
 map.type:neighbor
-modified:1582719062298
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Taking Economy: Uber, Information, and Power
-tmap.id:dba075bd-dcf6-4d2a-b022-1d20d896c755
+tmap.id:bac1939d-9cf5-421d-92db-fa797366b012
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Taking Economy: Uber, Information, and Power

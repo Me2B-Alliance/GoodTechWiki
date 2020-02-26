@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071974
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Embedding Human Wisdom in Our Digital Tomorrow
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[rwot iii]]
 tech.focus:
 tiddler.classification:node
 title:Embedding Human Wisdom in Our Digital Tomorrow
 tmap.edges:{}
-tmap.id:a1c12766-d40c-45cf-9e56-47bce73ddefb
+tmap.id:6034119b-a593-4a86-b747-9d339839c1b9
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/WisdomEmbedding-Human-Wisdom-in-Our-Digital-Tomorrow.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Much  of  what  we  know  as  a  species  has  accreted through experience. We’ve seen things work and fail, and   we’ve   reacted:   we've   created   checks   and balances,    institutions    and    procedures,    making calculated tradeoffs for the net benefit of individuals and communities. This wisdom is embodied in laws, social norms, patterns, proverbs, and traditions.The  digital  landscape,  with  its  turbulent  pace  and its  jockeying  technologies,  is  a  new  dimension  of shared experience. Identity is a central aspect of that new  dimension.  Who  we  are,  how  we  interact,  how we  give  and  receive  value,  and  how  we  hold  one another  accountable  are  all  integral  to  identity —and  they  are  every  bit  as  important  to  the  digital landscape as they were in pre-digital times.
-
 

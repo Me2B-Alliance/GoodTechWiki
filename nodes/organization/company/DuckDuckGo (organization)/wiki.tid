@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[service provider]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,9 +11,9 @@ github.profile:https://github.com/duckduckgo
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/duck-duck-go/
-location(s):[object Set]
-me2b.relationship:[object Set]
-modified:1582678071965
+location(s):[[paoli]] [[pa]]
+me2b.relationship:[[certification candidate]]
+modified:1582720003592
 org.name:DuckDuckGo
 org.type:company
 parent.org:
@@ -29,11 +29,10 @@ tech.focus:search
 tiddler.classification:node
 title:DuckDuckGo (organization)
 tmap.edges:{}
-tmap.id:0b42316a-2276-4fb3-a48b-6823571d1e6b
+tmap.id:e712311c-95f9-483d-af1e-fe6dbdf575f7
 twitter.profile:https://twitter.com/duckduckgo
 type:text/vnd.tiddlywiki
 website:https://duckduckgo.com
 
 No tracking, no ad targeting, just searching.
-
 

@@ -1,12 +1,12 @@
-created:1582719062217
+created:1582720021575
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:26d14ee9-7fb7-4181-b207-d4d47960855d
+map.base:68961dac-6c7f-4d98-860f-27321de61fae
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062217
+modified:1582720021575
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/B Corp Certification/filter/edges
-tmap.id:41ec1044-9476-4387-aa7d-85f96b00593a
+tmap.id:2526e429-18b8-419e-99c3-d420b99f5442
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:72ca0314-8ae1-4447-a837-98383e4233e8
+config.central-topic:97706a03-4526-484e-9b6a-1dc0fd3e1697
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062210
-id:172c0929-d04f-4edc-aca8-a7d5bda15287
+created:1582720021565
+id:e6a10fec-adb7-4395-b7db-cf88e4b51afe
 isview:false
-map.base:72ca0314-8ae1-4447-a837-98383e4233e8
+map.base:97706a03-4526-484e-9b6a-1dc0fd3e1697
 map.role:definition
 map.type:neighbor
-modified:1582719062210
+modified:1582720021565
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/One Trust(project-or-product/software product (service)) (project-or-product)
-tmap.id:172c0929-d04f-4edc-aca8-a7d5bda15287
+tmap.id:e6a10fec-adb7-4395-b7db-cf88e4b51afe
 type:text/vnd.tiddlywiki
 
 Neighbor Map of One Trust(project-or-product/software product (service)) (project-or-product)

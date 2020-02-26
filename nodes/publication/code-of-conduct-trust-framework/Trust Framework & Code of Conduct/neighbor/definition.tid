@@ -1,17 +1,17 @@
-config.central-topic:b8d94095-06fc-434b-9fe8-c2f2bea0d957
+config.central-topic:8c9aaf14-b64d-4fa4-8b61-ab9345543842
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582714535018
-id:6a05e158-6e98-4b6c-b10b-2d6d29cf0df1
+created:1582720021686
+id:f676ed04-d222-49f3-8606-ed94f9212c49
 isview:false
-map.base:b8d94095-06fc-434b-9fe8-c2f2bea0d957
+map.base:8c9aaf14-b64d-4fa4-8b61-ab9345543842
 map.role:definition
 map.type:neighbor
-modified:1582714535018
+modified:1582720021686
 tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust Framework & Code of Conduct-map
-tmap.id:6a05e158-6e98-4b6c-b10b-2d6d29cf0df1
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust Framework & Code of Conduct
+tmap.id:f676ed04-d222-49f3-8606-ed94f9212c49
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trust Framework & Code of Conduct

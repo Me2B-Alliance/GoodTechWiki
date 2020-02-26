@@ -1,17 +1,17 @@
-config.central-topic:6622a87d-afc3-4509-89d0-1632ce61925c
+config.central-topic:b6ef5fd0-9ea7-4d92-bc4a-444ae8c9fc57
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062297
-id:22b5f633-2cac-4dd1-9c91-2410a9efde4a
+created:1582720021642
+id:39a3ba2b-0bfa-4c74-bd72-8b0c21a9de8b
 isview:false
-map.base:6622a87d-afc3-4509-89d0-1632ce61925c
+map.base:b6ef5fd0-9ea7-4d92-bc4a-444ae8c9fc57
 map.role:definition
 map.type:neighbor
-modified:1582719062297
+modified:1582720021642
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Myth of Accountability: How Data (Mis)Use is Reinforcing the Problems of Public Education
-tmap.id:22b5f633-2cac-4dd1-9c91-2410a9efde4a
+tmap.id:39a3ba2b-0bfa-4c74-bd72-8b0c21a9de8b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Myth of Accountability: How Data (Mis)Use is Reinforcing the Problems of Public Education

@@ -1,12 +1,12 @@
-created:1582719062163
+created:1582720021523
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:94cf09c1-0725-4eca-b489-84b726b5f7ee
+map.base:d2bf4a18-450f-4134-ba50-bf89f9746b19
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062163
+modified:1582720021523
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/THE COALITION FOR SENSIBLE PUBLIC RECORDS ACCESS/filter/edges
-tmap.id:3bcfa2af-ffd3-4e24-ab78-3b60932a7706
+tmap.id:2c12347d-ff1f-4ee6-9a8e-9c9290422a82
 type:text/vnd.tiddlywiki
 
 No body provided

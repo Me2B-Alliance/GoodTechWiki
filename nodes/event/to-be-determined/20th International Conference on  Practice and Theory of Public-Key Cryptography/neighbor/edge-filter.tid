@@ -1,12 +1,12 @@
-created:1582719062074
+created:1582720021427
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:904d9498-6d6e-47c4-b6e2-17a4bdc072e6
+map.base:7edc2e96-e18b-497a-940a-5e9cbf7ed49c
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062074
+modified:1582720021427
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/20th International Conference on  Practice and Theory of Public-Key Cryptography/filter/edges
-tmap.id:b0ae8b3c-3833-4560-9f7f-96e4bc2598d6
+tmap.id:e4d9617d-0600-4f44-bf60-f67b6aa963f6
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062176
-filter:[field:tmap.id[d157ff92-8d60-41bc-a7dc-c997116f09f6]]
-map.base:d157ff92-8d60-41bc-a7dc-c997116f09f6
+created:1582720021536
+filter:[field:tmap.id[5c17f860-f657-4bfd-a902-6743f0561f82]]
+map.base:5c17f860-f657-4bfd-a902-6743f0561f82
 map.role:node-filter
 map.type:neighbor
-modified:1582719062176
+modified:1582720021536
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Paul Simmonds/filter/nodes
-tmap.id:fc436cfc-86c2-447d-87a5-689a736818e6
+tmap.id:b10e4914-b34f-44f3-9524-e385f97842fd
 type:text/vnd.tiddlywiki
 
 No body provided

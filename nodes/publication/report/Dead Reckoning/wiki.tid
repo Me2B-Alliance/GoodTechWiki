@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[robyn caplan]] [[lauren hanson]] [[joan donovan]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Dead Reckoning
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[media manipulation]]
 tech.focus:
 tiddler.classification:node
 title:Dead Reckoning
 tmap.edges:{}
-tmap.id:ce56974b-bfb7-48a6-a5e0-426c20ce89b3
+tmap.id:4c8f9b05-a135-4f75-b9ef-76c25e196a08
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/dead-reckoning/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 New Data & Society report clarifies current uses of “fake news” and analyzes four specific strategies for intervention.
-
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071755
+created:1582720003373
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071755
+modified:1582720003373
 org.name:Kantara
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Kantara
-tmap.edges:{"6b0035b0-d84f-4401-a71f-8d61e3da9389":{"to":"6b38f451-bbc1-4027-93a5-b80f781f448b","type":"general-member"}}
-tmap.id:2b301088-bfc2-4cef-adca-6c991cc60353
+tmap.edges:{"aad24704-a5c4-4548-b732-464edee3ac44":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
+tmap.id:a6df14ff-14f9-43b5-8108-3365e23180fb
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -36,5 +36,4 @@ website:
 Our Mission: Foster identity community harmonization, interoperability, innovation, and broad adoption through the development criteria for operational trust frameworks and deployment/usage best practices for privacy-respecting, secure access to trusted online services.
 
 Our Vision: Ensure secure, identity-based, online interactions while preventing misuse of personal information so that networks will become privacy protecting and more trustworthy environments.
-
 

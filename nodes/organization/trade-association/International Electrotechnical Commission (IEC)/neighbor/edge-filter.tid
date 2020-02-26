@@ -1,12 +1,12 @@
-created:1582719062156
+created:1582720021515
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:24bb370e-2d62-4013-b341-2916f774b2c2
+map.base:f8622f74-189e-41ab-8235-3222c367589e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062156
+modified:1582720021515
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Electrotechnical Commission (IEC)/filter/edges
-tmap.id:dc447aac-3ac9-47e6-9dc6-2d5972ba40de
+tmap.id:029d629c-bb45-44a8-a0a1-01ece4e4e553
 type:text/vnd.tiddlywiki
 
 No body provided

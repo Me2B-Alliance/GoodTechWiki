@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[standard development]] [[publication]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:The Ethical Source Movement
 org.type:ngo
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]]
 relevant.publications:
 scope:
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:The Ethical Source Movement
 tmap.edges:{}
-tmap.id:ce540427-ef55-4519-afcb-b64ae040affc
+tmap.id:6145383e-e1f5-4ffa-a86a-c3b313430ab9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ethicalsource.dev/
 
 In recognition of this reality: there is a growing demand from open source developers to take control of how our software is being used. We don’t want our code used to aid those who commit human rights violations or other unethical behavior. We don’t want our software used to support fascist states. We don’t want our labor and our code used to enable global corporations to unfairly generate huge profits off the workers of the world. Yet we lack the tools to enforce fair: ethical: and community-minded terms for those who benefit from our work.
-
 

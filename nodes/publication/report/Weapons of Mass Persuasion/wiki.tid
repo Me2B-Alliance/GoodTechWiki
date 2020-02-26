@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071974
+authors.editors:[[tim hwang]]
+created:1582720003601
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071974
+modified:1582720003601
 name:Weapons of Mass Persuasion
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[intelligence and autonomy]]
 tech.focus:
 tiddler.classification:node
 title:Weapons of Mass Persuasion
 tmap.edges:{}
-tmap.id:0f515232-48d7-436c-b401-8f0667855779
+tmap.id:0cf0ed45-3188-4b9b-8af2-24f8b051d3bb
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/weapons-of-mass-persuasion/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 “Just as the software and hardware of the internet has been militarized by the imperatives of a mostly secret ‘cyberwar,’ so too are online social spaces being weaponized in...
-
 

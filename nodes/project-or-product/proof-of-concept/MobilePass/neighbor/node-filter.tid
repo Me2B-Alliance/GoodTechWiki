@@ -1,12 +1,12 @@
-created:1582719062184
-filter:[field:tmap.id[ce5c616f-237b-4eb6-ac38-4ed2fdc058c3]]
-map.base:ce5c616f-237b-4eb6-ac38-4ed2fdc058c3
+created:1582720021541
+filter:[field:tmap.id[3ed42f28-377a-4aab-aa37-b6f58b329ef8]]
+map.base:3ed42f28-377a-4aab-aa37-b6f58b329ef8
 map.role:node-filter
 map.type:neighbor
-modified:1582719062184
+modified:1582720021541
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MobilePass/filter/nodes
-tmap.id:027f2f1f-9851-4072-9d46-e83bcf7ff6e5
+tmap.id:86761448-169f-4851-a41a-d6ed1c97fbeb
 type:text/vnd.tiddlywiki
 
 No body provided

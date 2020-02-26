@@ -1,12 +1,12 @@
-created:1582719062174
-filter:[field:tmap.id[874b708c-6204-43cc-a710-8e702878e950]]
-map.base:874b708c-6204-43cc-a710-8e702878e950
+created:1582720021533
+filter:[field:tmap.id[d2d4b654-3b65-4c2a-ae5c-69f1432277e8]]
+map.base:d2d4b654-3b65-4c2a-ae5c-69f1432277e8
 map.role:node-filter
 map.type:neighbor
-modified:1582719062174
+modified:1582720021533
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Justin Richer/filter/nodes
-tmap.id:96cce947-203c-4063-b2cc-044752fcfbe1
+tmap.id:6d527afc-1293-461d-b6a0-ba6e75add8b2
 type:text/vnd.tiddlywiki
 
 No body provided

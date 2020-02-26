@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071771
+created:1582720003389
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071771
+modified:1582720003389
 org.name:Intel
 org.type:company
 parent.org:
@@ -27,12 +27,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Intel
-tmap.edges:{"03a31e3f-4517-4a9c-aa2c-7a710872ad26":{"to":"cec42ec3-191c-4587-a038-84865ff4b651","type":"general-member"}}
-tmap.id:99a93bb4-7e87-437f-82f9-a7cdb6fec572
+tmap.edges:{"5da64893-05f1-4aac-be11-a0a6b6da7f3b":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
+tmap.id:ae1e132e-07a9-404a-a1ae-4d7d1aff6ba4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
-
 
 
 

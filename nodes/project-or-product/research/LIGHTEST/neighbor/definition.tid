@@ -1,17 +1,17 @@
-config.central-topic:71d9920c-930f-4f5e-a9e7-95119fe5677d
+config.central-topic:d900fb52-98f1-431a-b531-fe72347874b3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062188
-id:0df5432f-bc85-467a-b67f-b7e821cd2002
+created:1582720021547
+id:fe146da3-e1fb-455f-8c8e-24f790f85715
 isview:false
-map.base:71d9920c-930f-4f5e-a9e7-95119fe5677d
+map.base:d900fb52-98f1-431a-b531-fe72347874b3
 map.role:definition
 map.type:neighbor
-modified:1582719062188
+modified:1582720021547
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LIGHTEST
-tmap.id:0df5432f-bc85-467a-b67f-b7e821cd2002
+tmap.id:fe146da3-e1fb-455f-8c8e-24f790f85715
 type:text/vnd.tiddlywiki
 
 Neighbor Map of LIGHTEST

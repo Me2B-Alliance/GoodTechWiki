@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[outreach]]
 audience:
 category:research
-created:1582678071970
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003597
 name:Detroit Community Technology Project
 parent.org:Detroit Digital Justice Coalition
-partners:[object Set]
+partners:[[allied media projects]]
 people:
-purpose:[object Set]
+purpose:[[consumer education]]
 relevant.publications:https://alliedmedia.org/ddjc/discotech
 status:
 supported.identity.technologies:
@@ -23,8 +23,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:Detroit Community Technology Project(project-or-product/research) (project-or-product)
-tmap.edges:{"39042adf-f9dd-4c23-a14f-2717385abf25":{"to":"b53dd77d-a07b-4f3b-91f2-aa1ba18e752d","type":"Organization Supports Project or Product"}}
-tmap.id:f823063d-ee95-428d-befa-f17e965c2823
+tmap.edges:{"a494696c-1895-442c-8af9-bca0cbd37774":{"to":"eae0af1b-640e-457f-a15e-19230caa92c3","type":"Organization Supports Project or Product"}}
+tmap.id:090b4a8f-1e78-446f-82f2-f717d44b124c
 type:text/vnd.tiddlywiki
 url:https://alliedmedia.org/dctp
 version.or.edition:
@@ -35,5 +35,4 @@ DCTP’s mission is to use and develop technology rooted in community needs that
 DiscoTech:  "DiscoTech" is short for "Discovering Technology." It is is a term coined by the Detroit Digital Justice Coalition which defines a replicable model for a multimedia: mobile neighborhood workshop fair. DiscoTechs are designed so that participants learn more about the impact and possibilities of technology within our communities.
 
 DiscoTechs feature interactive: multimedia workshops designed to demystify: engage: and inform the community about issues of Internet use and ownership: and our communications rights on and offline.
-
 

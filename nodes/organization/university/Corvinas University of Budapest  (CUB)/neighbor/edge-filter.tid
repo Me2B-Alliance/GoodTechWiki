@@ -1,12 +1,12 @@
-created:1582719062166
+created:1582720021525
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8970b805-53cb-4280-924d-d9022e37aa29
+map.base:9017ee0a-b9a4-46a8-b712-0ed3b962acab
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062166
+modified:1582720021525
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Corvinas University of Budapest  (CUB)/filter/edges
-tmap.id:f370477b-a2a9-405e-8ef2-8a2fa16e41ae
+tmap.id:ba60e370-6aef-489f-ba40-87d6c5e53281
 type:text/vnd.tiddlywiki
 
 No body provided

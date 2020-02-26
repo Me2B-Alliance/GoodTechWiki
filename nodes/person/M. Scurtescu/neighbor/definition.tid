@@ -1,17 +1,17 @@
-config.central-topic:a957640d-a5f5-482e-a066-1a019110822d
+config.central-topic:f77a19ed-4a81-4a9e-a6d8-9971c1f31d6c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062175
-id:2393fed0-9907-4b34-afde-b46f4b7b5991
+created:1582720021533
+id:8a185824-ee5d-4efd-acc9-6233a7e6c420
 isview:false
-map.base:a957640d-a5f5-482e-a066-1a019110822d
+map.base:f77a19ed-4a81-4a9e-a6d8-9971c1f31d6c
 map.role:definition
 map.type:neighbor
-modified:1582719062175
+modified:1582720021533
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/M. Scurtescu
-tmap.id:2393fed0-9907-4b34-afde-b46f4b7b5991
+tmap.id:8a185824-ee5d-4efd-acc9-6233a7e6c420
 type:text/vnd.tiddlywiki
 
 Neighbor Map of M. Scurtescu

@@ -1,12 +1,12 @@
-created:1582719062218
+created:1582720021577
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e9e1451a-d9d7-4d3f-9fad-dc8c2245e30b
+map.base:df6b6fe5-b21a-4d86-b857-af6be8c86acb
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062218
+modified:1582720021577
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Tech Pledge/filter/edges
-tmap.id:a668d235-8496-45a1-898a-34605e477321
+tmap.id:d933f4b9-e9c6-4155-9be8-9c3621080073
 type:text/vnd.tiddlywiki
 
 No body provided

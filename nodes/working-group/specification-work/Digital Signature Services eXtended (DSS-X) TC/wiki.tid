@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071709
+created:1582720003326
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071709
+modified:1582720003326
 name:Digital Signature Services eXtended (DSS-X) TC
 parent.org:OASIS
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Digital Signature Services eXtended (DSS-X) TC
-tmap.edges:{"e5120bed-3459-4c2d-ba3e-fff412e2abd7":{"to":"4edf50c7-7750-4b90-8b95-8f61c4272981","type":"organization-for-group"}}
-tmap.id:ff9278b0-d728-465f-8e1a-c7ca421a3f51
+tmap.edges:{"fbd97fef-9c9b-4b93-a2fd-36686a80c20e":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
+tmap.id:aa6e28bb-95ed-4943-acef-36f93293fe7c
 type:text/vnd.tiddlywiki
 url:
-
 
 
 

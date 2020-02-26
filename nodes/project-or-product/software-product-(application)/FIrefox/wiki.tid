@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (application)
-created:1582678071969
+created:1582720003597
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,22 +9,22 @@ element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
-me2b.participation:[object Set]
-modified:1582678071969
+me2b.participation:[[certification candidate]]
+modified:1582720003597
 name:FIrefox
 parent.org:Mozilla (Corporation)
 partners:
 people:
-purpose:[object Set]
+purpose:[[usability]]
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[web-browser]]
 terms.of.service:
 tiddler.classification:node
 title:FIrefox
 tmap.edges:{}
-tmap.id:d156c024-d31d-4445-adee-519ae915fc36
+tmap.id:2e89b9fb-2108-42cf-8f6e-2ffccd2d7d07
 type:text/vnd.tiddlywiki
 url:https://www.mozilla.org/en-US/firefox/
 version.or.edition:
@@ -37,5 +37,4 @@ To even have a seat at the table, our products have to perform as well as everyt
 We help people believe that Firefox is the tech brand that has their best interests at heart, so that they are safer and more empowered online.
 
 Firefox fights for you.
-
 

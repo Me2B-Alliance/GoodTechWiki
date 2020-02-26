@@ -1,12 +1,12 @@
-created:1582719062263
+created:1582720021609
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:615fbb8f-e01e-442e-94cf-4c94db144a7b
+map.base:9c500c71-c5d3-4e7c-a88a-3b526fa0586d
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062263
+modified:1582720021609
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/An App to Save Syria’s Lost Generation?/filter/edges
-tmap.id:1896962a-f2ec-4250-936f-b685c5b19c93
+tmap.id:3c680262-aac9-42c4-b349-7fbbb281f974
 type:text/vnd.tiddlywiki
 
 No body provided

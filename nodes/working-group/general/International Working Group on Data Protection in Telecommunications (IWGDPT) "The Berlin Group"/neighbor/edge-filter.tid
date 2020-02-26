@@ -1,12 +1,12 @@
-created:1582719062351
+created:1582720021694
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:79e1fad8-13e1-4757-a9cb-a387a014cdea
+map.base:b125f232-a527-4be6-9738-d33d5ec5627a
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062351
+modified:1582720021694
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Working Group on Data Protection in Telecommunications (IWGDPT) "The Berlin Group"/filter/edges
-tmap.id:a4cb5a09-9b64-4f6e-922a-108099ca0e48
+tmap.id:40fda6f8-9323-4092-9838-5a04ca30aa47
 type:text/vnd.tiddlywiki
 
 No body provided

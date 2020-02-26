@@ -1,17 +1,17 @@
-config.central-topic:7a0a390d-76d5-4270-94f0-746fb9492443
+config.central-topic:b4a89a6e-f6c7-4727-9c0e-c86a99860024
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062264
-id:603e5ba2-b752-48ee-a6f2-f6b23c812e97
+created:1582720021610
+id:c73fedea-328c-46ba-bd59-d2a0ab186de8
 isview:false
-map.base:7a0a390d-76d5-4270-94f0-746fb9492443
+map.base:b4a89a6e-f6c7-4727-9c0e-c86a99860024
 map.role:definition
 map.type:neighbor
-modified:1582719062264
+modified:1582720021610
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Are We Training Our Students to be Robots?
-tmap.id:603e5ba2-b752-48ee-a6f2-f6b23c812e97
+tmap.id:c73fedea-328c-46ba-bd59-d2a0ab186de8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Are We Training Our Students to be Robots?

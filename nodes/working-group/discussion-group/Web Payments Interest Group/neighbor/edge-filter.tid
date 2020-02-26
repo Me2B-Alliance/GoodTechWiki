@@ -1,12 +1,12 @@
-created:1582719062349
+created:1582720021691
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0a66bbf1-518a-4a15-b332-a1b8e0d3db14
+map.base:5c038a1d-e08a-4e1e-ba0c-758db25f9328
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062349
+modified:1582720021691
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Payments Interest Group/filter/edges
-tmap.id:08af9709-bf04-4814-b188-a13b555ffa04
+tmap.id:51514af1-74ee-4e3a-ba56-10c336b9ad2a
 type:text/vnd.tiddlywiki
 
 No body provided

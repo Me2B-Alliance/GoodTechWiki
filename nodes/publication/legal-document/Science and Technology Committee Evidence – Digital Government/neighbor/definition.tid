@@ -1,17 +1,17 @@
-config.central-topic:fa007d62-6a54-4aa8-b656-bfdce3060a91
+config.central-topic:933e9036-c0fc-48c3-a0ac-64adde9b75cd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062228
-id:036f1a1e-bbc3-406e-8850-2028f16f5174
+created:1582720021582
+id:30c7d6ed-30fa-447d-814f-be2087d1bd51
 isview:false
-map.base:fa007d62-6a54-4aa8-b656-bfdce3060a91
+map.base:933e9036-c0fc-48c3-a0ac-64adde9b75cd
 map.role:definition
 map.type:neighbor
-modified:1582719062228
+modified:1582720021582
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Science and Technology Committee Evidence – Digital Government
-tmap.id:036f1a1e-bbc3-406e-8850-2028f16f5174
+tmap.id:30c7d6ed-30fa-447d-814f-be2087d1bd51
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Science and Technology Committee Evidence – Digital Government

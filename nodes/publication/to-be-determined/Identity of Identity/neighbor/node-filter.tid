@@ -1,12 +1,12 @@
-created:1582719062335
-filter:[field:tmap.id[db69980e-34be-4a63-a57b-b4c158557d0f]]
-map.base:db69980e-34be-4a63-a57b-b4c158557d0f
+created:1582720021679
+filter:[field:tmap.id[8931838c-c2cc-4baa-b72d-da184e1dfa5a]]
+map.base:8931838c-c2cc-4baa-b72d-da184e1dfa5a
 map.role:node-filter
 map.type:neighbor
-modified:1582719062335
+modified:1582720021679
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity of Identity/filter/nodes
-tmap.id:1468ac04-f7fb-44dd-975c-dbf1da0f654c
+tmap.id:357234a1-dfff-438b-ade9-46b2bc6f9f85
 type:text/vnd.tiddlywiki
 
 No body provided

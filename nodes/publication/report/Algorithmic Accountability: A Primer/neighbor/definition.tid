@@ -1,17 +1,17 @@
-config.central-topic:6301d6ce-7d23-4393-b651-5fb481843a96
+config.central-topic:56c02351-cd76-49f1-b8ba-90a64a1803a4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062262
-id:f23d4063-7811-4669-83af-c87a5080bb44
+created:1582720021613
+id:16e0771a-0344-429a-8bf2-37908c8202fd
 isview:false
-map.base:6301d6ce-7d23-4393-b651-5fb481843a96
+map.base:56c02351-cd76-49f1-b8ba-90a64a1803a4
 map.role:definition
 map.type:neighbor
-modified:1582719062262
+modified:1582720021613
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithmic Accountability: A Primer
-tmap.id:f23d4063-7811-4669-83af-c87a5080bb44
+tmap.id:16e0771a-0344-429a-8bf2-37908c8202fd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Algorithmic Accountability: A Primer

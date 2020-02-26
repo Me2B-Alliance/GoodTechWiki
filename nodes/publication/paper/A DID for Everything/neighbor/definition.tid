@@ -1,17 +1,17 @@
-config.central-topic:38f31961-9817-4bd5-a632-ba22cffd8a70
+config.central-topic:9d311bdc-9c46-46ba-8a02-3ec2b03f96f0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062234
-id:dff47937-6218-4cf5-988a-52113b565d05
+created:1582720021589
+id:d5505717-efec-49c6-a442-d99148fed31d
 isview:false
-map.base:38f31961-9817-4bd5-a632-ba22cffd8a70
+map.base:9d311bdc-9c46-46ba-8a02-3ec2b03f96f0
 map.role:definition
 map.type:neighbor
-modified:1582719062234
+modified:1582720021589
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A DID for Everything
-tmap.id:dff47937-6218-4cf5-988a-52113b565d05
+tmap.id:d5505717-efec-49c6-a442-d99148fed31d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of A DID for Everything

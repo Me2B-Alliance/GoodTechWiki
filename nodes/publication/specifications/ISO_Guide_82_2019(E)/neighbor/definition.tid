@@ -1,17 +1,17 @@
-config.central-topic:2769dfa4-e4c1-45be-8fd1-d8e24a956337
+config.central-topic:acda6c8d-e4a3-4a03-b84d-f4b145c58ae9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062324
-id:b7c162c0-d895-4474-8071-eb4b482aa648
+created:1582720021665
+id:e443007b-f1bb-4b24-abf6-06df59fd1252
 isview:false
-map.base:2769dfa4-e4c1-45be-8fd1-d8e24a956337
+map.base:acda6c8d-e4a3-4a03-b84d-f4b145c58ae9
 map.role:definition
 map.type:neighbor
-modified:1582719062324
+modified:1582720021665
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_Guide_82_2019(E)
-tmap.id:b7c162c0-d895-4474-8071-eb4b482aa648
+tmap.id:e443007b-f1bb-4b24-abf6-06df59fd1252
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_Guide_82_2019(E)

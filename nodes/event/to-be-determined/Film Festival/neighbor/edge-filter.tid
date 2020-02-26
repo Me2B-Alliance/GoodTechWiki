@@ -1,12 +1,12 @@
-created:1582719062075
+created:1582720021428
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a6182172-bde0-420c-ae5e-c6d86fd0fd7c
+map.base:d5376746-fbff-45fb-9fc2-7d076ef2dee2
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062075
+modified:1582720021428
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Film Festival/filter/edges
-tmap.id:d2ac7965-9425-4d45-b25a-9bdde0fa027a
+tmap.id:d04e8e41-f7e1-45e4-887a-4c3b3d986347
 type:text/vnd.tiddlywiki
 
 No body provided

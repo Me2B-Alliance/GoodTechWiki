@@ -1,12 +1,12 @@
-created:1582719062337
+created:1582720021680
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:46ae8d35-e499-4b80-9ec8-35581ef6aada
+map.base:2dda1383-121b-403e-b28f-9d4eebfa05dd
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062337
+modified:1582720021680
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy and the legal-social content of identity/filter/edges
-tmap.id:79e9d087-b3eb-496c-b3cd-a810bf60237c
+tmap.id:c86cc634-48ca-4ec0-a47a-aaa6402873bc
 type:text/vnd.tiddlywiki
 
 No body provided

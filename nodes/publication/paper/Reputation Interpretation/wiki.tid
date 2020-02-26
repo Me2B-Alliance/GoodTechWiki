@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Reputation Interpretation
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[rwot ix]]
 tech.focus:
 tiddler.classification:node
 title:Reputation Interpretation
 tmap.edges:{}
-tmap.id:1e427302-7832-4a5d-9d5b-0d72ec39affc
+tmap.id:4f7ede84-bf59-48c9-aa2f-addfccca790a
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/reputation-interpretation.pdf
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 This paper explores how to take a "reputation" trust graph with multiple characteristics and create actionable output. It is not focused on the automation of the process, which could be applied by human processing of information or through a programmed software implementations.We are looking to categorize the types of reputation that people might have into general buckets, such as:•Knowledge•Emotional Intelligence•Generalized Skills•Reviews from othersThe output that we would produce is specifc to each type of community or decision. For example:•Yes/no•Graph or diagram•Report•Derivative reputation assessment. For example, in moving from one sport to another, some skills might betransferable and some not.•Complex adjustment to the terms of engagement. For example, if you are ofering a job to someone, the output might be a change in their job description.The process may also be applicable to business entities and organizations, not just persons
-
 

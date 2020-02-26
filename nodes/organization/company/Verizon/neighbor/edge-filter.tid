@@ -1,12 +1,12 @@
-created:1582719062098
+created:1582720021455
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9f5adc3a-e277-4969-bc61-0797cea21d99
+map.base:31c0bfc2-12f9-4676-99b3-8346d8f99cd3
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062098
+modified:1582720021455
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verizon/filter/edges
-tmap.id:6c0730b4-a465-4481-a9b3-47cde72488f0
+tmap.id:91fe5be3-2fd8-4178-907b-5d90c57281ec
 type:text/vnd.tiddlywiki
 
 No body provided

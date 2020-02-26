@@ -1,17 +1,17 @@
-config.central-topic:44bd98e8-2f65-43b7-b88a-2fe49d4014b2
+config.central-topic:3f4a5d62-f9bd-4b3f-b851-91b733c18a4d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062360
-id:e15e1de5-457a-4209-84e5-1e239440ebbf
+created:1582720021698
+id:8a96b071-e4e9-4ea5-9d5e-cff62bf50a1c
 isview:false
-map.base:44bd98e8-2f65-43b7-b88a-2fe49d4014b2
+map.base:3f4a5d62-f9bd-4b3f-b851-91b733c18a4d
 map.role:definition
 map.type:neighbor
-modified:1582719062360
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE IoT Scenarios
-tmap.id:e15e1de5-457a-4209-84e5-1e239440ebbf
+tmap.id:8a96b071-e4e9-4ea5-9d5e-cff62bf50a1c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE IoT Scenarios

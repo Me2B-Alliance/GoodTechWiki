@@ -1,17 +1,17 @@
-config.central-topic:d157ff92-8d60-41bc-a7dc-c997116f09f6
+config.central-topic:5c17f860-f657-4bfd-a902-6743f0561f82
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062176
-id:60733778-6d49-4683-b742-e2661b581f66
+created:1582720021536
+id:649d8fb9-4559-4767-a015-219122fca92b
 isview:false
-map.base:d157ff92-8d60-41bc-a7dc-c997116f09f6
+map.base:5c17f860-f657-4bfd-a902-6743f0561f82
 map.role:definition
 map.type:neighbor
-modified:1582719062176
+modified:1582720021536
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Paul Simmonds
-tmap.id:60733778-6d49-4683-b742-e2661b581f66
+tmap.id:649d8fb9-4559-4767-a015-219122fca92b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Paul Simmonds

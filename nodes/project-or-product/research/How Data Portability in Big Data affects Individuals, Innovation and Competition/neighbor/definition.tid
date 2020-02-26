@@ -1,17 +1,17 @@
-config.central-topic:61567cbb-dc0c-43c8-ac52-c6ac8707ae06
+config.central-topic:646a4be2-e734-42e1-9ab7-4fabec72ac48
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062188
-id:68e787e7-8e0f-4a84-8887-9eb34aa33b12
+created:1582720021546
+id:c742332b-1bd0-4928-b2d2-a90272268dfc
 isview:false
-map.base:61567cbb-dc0c-43c8-ac52-c6ac8707ae06
+map.base:646a4be2-e734-42e1-9ab7-4fabec72ac48
 map.role:definition
 map.type:neighbor
-modified:1582719062188
+modified:1582720021546
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Data Portability in Big Data affects Individuals, Innovation and Competition
-tmap.id:68e787e7-8e0f-4a84-8887-9eb34aa33b12
+tmap.id:c742332b-1bd0-4928-b2d2-a90272268dfc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How Data Portability in Big Data affects Individuals, Innovation and Competition

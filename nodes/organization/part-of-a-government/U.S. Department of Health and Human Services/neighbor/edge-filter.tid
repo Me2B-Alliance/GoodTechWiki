@@ -1,12 +1,12 @@
-created:1582719062120
+created:1582720021476
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a7623373-6f38-471c-9f12-321a950f5649
+map.base:ba7d45e8-d03f-4e5c-920c-4bba11b36b70
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062120
+modified:1582720021476
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/U.S. Department of Health and Human Services/filter/edges
-tmap.id:f0f70791-63f4-45b4-9a98-c415bc896dce
+tmap.id:18bed814-5034-4592-b31e-2b89d12ff344
 type:text/vnd.tiddlywiki
 
 No body provided

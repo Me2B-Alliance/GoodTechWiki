@@ -1,17 +1,17 @@
-config.central-topic:313f6b99-3ed3-4614-aa6d-7359ee8f2729
+config.central-topic:24f9d8f5-257b-4c43-ae4d-a10c3ffe81a6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062234
-id:5453616d-222d-4a3d-ab14-91a9cd2c8fd0
+created:1582720021588
+id:34d89cb9-6655-4f01-a8e5-79d14e2824ad
 isview:false
-map.base:313f6b99-3ed3-4614-aa6d-7359ee8f2729
+map.base:24f9d8f5-257b-4c43-ae4d-a10c3ffe81a6
 map.role:definition
 map.type:neighbor
-modified:1582719062234
+modified:1582720021588
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Overwhelming Visibility of the Iran Plane Crash
-tmap.id:5453616d-222d-4a3d-ab14-91a9cd2c8fd0
+tmap.id:34d89cb9-6655-4f01-a8e5-79d14e2824ad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Overwhelming Visibility of the Iran Plane Crash

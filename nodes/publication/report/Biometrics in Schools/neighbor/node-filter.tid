@@ -1,12 +1,12 @@
-created:1582719062266
-filter:[field:tmap.id[cc1fa5e7-7c78-499d-93bc-aae33fd3bf40]]
-map.base:cc1fa5e7-7c78-499d-93bc-aae33fd3bf40
+created:1582720021611
+filter:[field:tmap.id[b1542395-83f0-4c9d-b7da-85586c4dbb96]]
+map.base:b1542395-83f0-4c9d-b7da-85586c4dbb96
 map.role:node-filter
 map.type:neighbor
-modified:1582719062266
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Biometrics in Schools/filter/nodes
-tmap.id:e962ba2f-81ab-4388-90df-b0aa8e931b33
+tmap.id:ffc047aa-5e48-4467-88e9-5192049275fa
 type:text/vnd.tiddlywiki
 
 No body provided

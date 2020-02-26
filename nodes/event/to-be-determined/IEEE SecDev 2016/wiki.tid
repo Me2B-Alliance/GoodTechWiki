@@ -1,13 +1,13 @@
 audience:
 category:to be determined
-created:1582678071764
+created:1582720003381
 date:
 element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Computer Society
 location(s):
-modified:1582678071764
+modified:1582720003381
 name:IEEE SecDev 2016
 partners:
 people:
@@ -16,7 +16,7 @@ tags:
 tiddler.classification:node
 title:IEEE SecDev 2016
 tmap.edges:{}
-tmap.id:839b0ba0-7952-4d5f-9a9b-b385a56daf06
+tmap.id:3ebfe462-abda-403a-ac0b-aa8337951d2e
 type:text/vnd.tiddlywiki
 website:http://secdev.ieee.org
 working.group:
@@ -44,5 +44,4 @@ What makes SecDev different than other conferences?
 SecDev is interested in work that has a demonstrated connection to building systems that are more secure. It is not enough to show that an existing system, however prominent, is insecure. Nor is it enough to propose a new cryptosystem or formal security model with nice mathematical properties but no concrete exploration of how it would be used to build systems more securely. Instead, papers should be about (as a few examples) how a development library, tool, or process can produce systems resilient against certain attacks; how a formal foundation could underpin a language, tool, or testing strategy that can help produce stronger systems; and experience, designs, or applications showing how cryptography can be used effectively to secure systems.
 
 A good SecDev paper may resemble an elaborated vision statement, a grant proposal, or a mini-keynote summarizing prior work and directions. We are not interested in complete works that manage to fit in a few pages; rather we want bigger ideas (previously published or not) that will lead to a stimulating, thoughtful, and perhaps (gently) provocative discussion. A good SecDev tutorial will introduce interested practitioners and researchers to technologies (e.g., languages, tools, frameworks) that show promise in aiding the development of secure systems.
-
 

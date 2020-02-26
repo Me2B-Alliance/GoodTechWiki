@@ -1,12 +1,12 @@
-created:1582719062310
+created:1582720021651
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c430fdd1-5009-4342-a640-d160a872512a
+map.base:2165c688-cda2-466c-b99e-0c6701057591
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062310
+modified:1582720021651
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FIDO 2.0: Signature format/filter/edges
-tmap.id:e030962d-411a-4bc5-ad57-82beed17baf7
+tmap.id:577d8d1c-07f3-4eb4-8f9b-ef97d7213ef8
 type:text/vnd.tiddlywiki
 
 No body provided

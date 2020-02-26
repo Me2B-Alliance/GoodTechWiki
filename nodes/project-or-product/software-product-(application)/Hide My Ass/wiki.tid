@@ -1,21 +1,21 @@
 activities:
 audience:
 category:software product (application)
-created:1582678071969
+created:1582720003597
 date.begun:
 date.ended:
-digital.harms.addressed:[object Set]
+digital.harms.addressed:[[exposure]] [[surveillance]]
 element.type:project-or-product
 github.profile:
 input.source:me2b
 license:
-me2b.participation:[object Set]
-modified:1582678071969
+me2b.participation:[[certification candidate]]
+modified:1582720003597
 name:Hide My Ass
 parent.org:Avast.com
 partners:
 people:
-purpose:[object Set]
+purpose:[[consumer support]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Hide My Ass
 tmap.edges:{}
-tmap.id:81582741-108c-4d75-ae96-b0007ceb4128
+tmap.id:d4bbbd4d-ae7e-4dae-af59-77d1ad521460
 type:text/vnd.tiddlywiki
 url:https://www.hidemyass.com/en-us/internet-privacy-tools
 version.or.edition:
@@ -39,5 +39,4 @@ Browsing without a VPN is risky. Websites can target you based on your location 
 A DNS leak happens when you're using a bad VPN. Fact. Once your DNS queries are leaked anyone and everyone can access everything you're browsing. Personal data, private messages, the whole shebang.
 
 Did you know your browser can still betray you even with a VPN on? True story. It’s called a WebRTC leak and it’s one hell of a privacy risk. Luckily, we’ve got the lowdown on prevention within all kinds of browsers.
-
 

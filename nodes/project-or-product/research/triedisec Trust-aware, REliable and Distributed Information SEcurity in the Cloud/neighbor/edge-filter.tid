@@ -1,12 +1,12 @@
-created:1582719062197
+created:1582720021553
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e6bb8933-21fc-4fe2-b836-4e851e771ed3
+map.base:0b367034-7b1a-469d-8655-51b8932b5af4
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062197
+modified:1582720021553
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/triedisec Trust-aware, REliable and Distributed Information SEcurity in the Cloud/filter/edges
-tmap.id:f72acd03-2b43-4ef8-a0c3-4839e50c3391
+tmap.id:49ce059b-ea57-467f-88a4-b21533ddf308
 type:text/vnd.tiddlywiki
 
 No body provided

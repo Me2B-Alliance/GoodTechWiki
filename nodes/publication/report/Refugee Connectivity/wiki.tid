@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071976
+authors.editors:[[mark latonero]] [[danielle poole]] [[jos berens]]
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:Refugee Connectivity
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[human rights]] [[data]] [[and migration]] [[human rights & human security]]
 tech.focus:
 tiddler.classification:node
 title:Refugee Connectivity
 tmap.edges:{}
-tmap.id:0183bd58-4cd0-42ea-9279-69f6fc1c08f9
+tmap.id:ea4bdf10-5101-4f1d-b8db-fd63365e7337
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/refugee-connectivity/
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Data & Society and the Harvard Humanitarian Initiative’s “Refugee Connectivity: A Survey of Mobile Phones, Mental Health, and Privacy at a Syrian Refugee Camp in Greece” provides new evidence of the critical role internet connectivity and mobile devices play in the lives and wellbeing of this population. Findings are based on a survey of 135 Continue...
-
 

@@ -1,12 +1,12 @@
-created:1582719062340
+created:1582720021684
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:44b15143-5f2a-4286-9b14-d3993324d6a1
+map.base:bd36e988-ef58-43a7-8953-738bb2544ef6
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062340
+modified:1582720021684
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Big Data and Privacy Privacy principles under pressure in the age of Big Data analytics/filter/edges
-tmap.id:27ed57f8-e237-4729-bce9-e1ba71814771
+tmap.id:4f0050c2-3089-480e-bcf4-51e5ead34a35
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582719062241
+created:1582720021595
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8d586557-80db-452e-b470-4037030d3e3d
+map.base:9b07376e-70db-4b89-9e53-8d40e40fb05e
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062241
+modified:1582720021595
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IPLD as a general pattern for DID documents and Verifiable Claims/filter/edges
-tmap.id:d90e6ab5-0939-40b3-9c9a-215f1deddcc9
+tmap.id:60cc6b75-8051-4da6-b8e4-870e0d6a3e4b
 type:text/vnd.tiddlywiki
 
 No body provided

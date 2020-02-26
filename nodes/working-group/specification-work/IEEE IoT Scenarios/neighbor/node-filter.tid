@@ -1,12 +1,12 @@
-created:1582719062360
-filter:[field:tmap.id[44bd98e8-2f65-43b7-b88a-2fe49d4014b2]]
-map.base:44bd98e8-2f65-43b7-b88a-2fe49d4014b2
+created:1582720021698
+filter:[field:tmap.id[3f4a5d62-f9bd-4b3f-b851-91b733c18a4d]]
+map.base:3f4a5d62-f9bd-4b3f-b851-91b733c18a4d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062360
+modified:1582720021698
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE IoT Scenarios/filter/nodes
-tmap.id:bee2e050-6a3b-4a24-8250-8de81c1cadcb
+tmap.id:9e9127c4-bfa8-4cd5-9157-c18aa72b0e1a
 type:text/vnd.tiddlywiki
 
 No body provided

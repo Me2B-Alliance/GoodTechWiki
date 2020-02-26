@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071746
+created:1582720003364
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071746
+modified:1582720003364
 org.name:Horizon 2020
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Horizon 2020
-tmap.edges:{"30b3750f-adb2-402d-a6b9-e83cf08d9eab":{"to":"5d25f03d-4980-478e-a639-4d2a86e78158","type":"funding-flow"},"014e1548-f7da-4031-a496-1afe5d7ab1fd":{"to":"71d9920c-930f-4f5e-a9e7-95119fe5677d","type":"funding-flow"},"574b8a3e-75e7-4012-a24e-98431065f529":{"to":"2ab52707-1c7e-41c6-8a6a-674953f81f46","type":"funding-flow"},"ddc6bb2d-2bf0-4c68-b735-080d1c72889c":{"to":"c195f082-9f8d-442b-9daa-7d56db09fa80","type":"funding-flow"},"e1466ece-9378-44c8-914b-b85f42880eea":{"to":"c91e2f3f-6daf-4638-bbe9-24ff05ac0331","type":"funding-flow"},"21492d2f-8361-4b10-9a72-c7dc1cafcd84":{"to":"9c7bf1a0-744d-4051-bb37-7358668ae58d","type":"funding-flow"},"6c9c5b92-e6d8-4fad-b239-c1558e0050c2":{"to":"e6bb8933-21fc-4fe2-b836-4e851e771ed3","type":"funding-flow"},"b4d521eb-0001-42b9-ae76-6c7cb77fcbef":{"to":"bb0b2ac6-6a3d-481d-b263-125c0c412f0b","type":"funding-flow"},"3401e4ef-ec36-492f-b9bb-98ead9e1f27a":{"to":"827e4d1e-4e18-42fb-b649-39b5eb5cab37","type":"funding-flow"}}
-tmap.id:12771dc9-4021-464b-9ff3-232fb21a8507
+tmap.edges:{"6b722911-1329-4da4-a453-6c1a5edba19d":{"to":"9c1a2f36-06c0-42b6-8c88-a89ff6bf4404","type":"funding-flow"},"7d5faf0c-e53f-4839-975c-7ee65e0dbf52":{"to":"d900fb52-98f1-431a-b531-fe72347874b3","type":"funding-flow"},"dd22f676-3da3-410d-83c3-7c3ff2514a20":{"to":"24341576-6a1c-4044-99a1-582c311ade29","type":"funding-flow"},"f537864a-1d49-44ad-a6e6-f3eb80c9c046":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"funding-flow"},"e0d85de4-6cdb-494b-8f48-2eddc04da468":{"to":"dc2116f9-c11b-4090-8cce-7e11af326b30","type":"funding-flow"},"6428a0e9-474b-4d46-a467-c52b92fac710":{"to":"e51e5306-00b7-4bdc-bb36-242020a9b6b8","type":"funding-flow"},"b8beb95a-f12f-4f53-84d7-e10f42a0d780":{"to":"0b367034-7b1a-469d-8655-51b8932b5af4","type":"funding-flow"},"3fb0513a-9137-4cfc-9d86-93c2910c30cf":{"to":"d980dbf3-15b9-4fa3-9fe6-2a8ce84da549","type":"funding-flow"},"787d37a7-7a71-4d12-98a0-14e0db5271f7":{"to":"8b8c1e3f-ac83-48c3-8aa4-1930a327219c","type":"funding-flow"}}
+tmap.id:0d19a1c9-8e7b-4975-9a2f-3f4f3e567b4c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -46,5 +46,4 @@ Smart, Green and Integrated Transport
 Climate Action, Environment, Resource Efficiency and Raw Materials
 Europe in a changing world - Inclusive, innovative and reflective societies
 Secure societies – Protecting freedom and security of Europe and its citizens
-
 

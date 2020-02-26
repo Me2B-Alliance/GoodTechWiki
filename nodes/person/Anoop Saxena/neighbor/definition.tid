@@ -1,17 +1,17 @@
-config.central-topic:65ed23d4-cc22-4f57-b132-0dc822866b68
+config.central-topic:e73be2e7-dae2-42c4-aa3f-1462f0401bce
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062170
-id:7d47ef06-5ebf-45c9-82a3-0375d2d45de3
+created:1582720021530
+id:53146890-f8dc-4ccb-a756-f92f77e29217
 isview:false
-map.base:65ed23d4-cc22-4f57-b132-0dc822866b68
+map.base:e73be2e7-dae2-42c4-aa3f-1462f0401bce
 map.role:definition
 map.type:neighbor
-modified:1582719062170
+modified:1582720021530
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Anoop Saxena
-tmap.id:7d47ef06-5ebf-45c9-82a3-0375d2d45de3
+tmap.id:53146890-f8dc-4ccb-a756-f92f77e29217
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Anoop Saxena

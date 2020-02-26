@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003376
 date.ended:
 date.founded:2005-01-01
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003376
 org.name:mobile Ecosystem Forum
 org.type:trade association
 parent.org:
@@ -27,13 +27,12 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:mobile Ecosystem Forum
-tmap.edges:{"6958627c-daa6-4b6d-a049-5cff040783a5":{"to":"6526e1c8-b5fa-4fd6-bda0-020a55d23817","type":"organization-for-group"}}
-tmap.id:49e587d6-0085-4e66-a383-8f62f68c3204
+tmap.edges:{"03ed6cd3-d970-45c1-92c7-bfbe9014cab3":{"to":"2cf37893-2265-4cbe-88a0-50a58588b8bf","type":"organization-for-group"}}
+tmap.id:18c2f744-dd73-43cb-bba5-2457b9919e8b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://mobileecosystemforum.com/
 
 Accelerating your mobile opportunity
 The Mobile Ecosystem Forum is a global trade body that acts as an impartial and authoritative champion for addressing issues affecting the broadening mobile ecosystem.  We work with our members to accelerate sustainable market growth that drives inclusion for all and delivers trusted services to enrich the lives of consumers worldwide.
-
 

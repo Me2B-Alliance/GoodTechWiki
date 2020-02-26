@@ -1,17 +1,17 @@
-config.central-topic:134674fd-9feb-4c79-8541-cd2a3e89d31b
+config.central-topic:d14ce486-28c1-48a5-875b-50d6e39cae1d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062333
-id:84ff512c-3d56-40fe-bdb5-2bbdd04f16a6
+created:1582720021676
+id:4e437b76-e60a-4714-bc2b-30395a55db21
 isview:false
-map.base:134674fd-9feb-4c79-8541-cd2a3e89d31b
+map.base:d14ce486-28c1-48a5-875b-50d6e39cae1d
 map.role:definition
 map.type:neighbor
-modified:1582719062333
+modified:1582720021676
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Developers
-tmap.id:84ff512c-3d56-40fe-bdb5-2bbdd04f16a6
+tmap.id:4e437b76-e60a-4714-bc2b-30395a55db21
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Developers

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:Irma
 org.type:to-be-determined
 parent.org:Privacy By Design
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Irma
 tmap.edges:{}
-tmap.id:52106c01-bea9-4834-a8a4-9ac80025d52e
+tmap.id:1f528347-9d11-4ba0-8480-8ea4e446c06b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://irma.app/
@@ -41,5 +41,4 @@ With IRMA it is easy to log in and make yourself known, by disclosing only relev
 With IRMA you can also sign documents digitally. You use only relevant attributes of yourselves in a digital stamp. In this way you can sign with IRMA as a medical doctor, or as citizen, or in some other role.
 
 Data in IRMA come from trusted sources and are cryptographically protected. Thus, the attributes that you disclose to make yourself known are genuine and are really about you.
-
 

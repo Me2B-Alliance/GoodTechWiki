@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:MIT Computational Law Report
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:MIT Computational Law Report
 tmap.edges:{}
-tmap.id:2d3fdc05-7d94-4168-a9d4-374dc20f4e42
+tmap.id:2738b16e-5462-49eb-bd72-a4d2d84fdf3f
 type:text/vnd.tiddlywiki
 url:https://law.mit.edu/
 version.or.edition:
@@ -35,5 +35,4 @@ Rich media content (such as videos, podcasts, visualizations, etc); and
 Reproducible software and data projects (such as computational law apps, automated processes, data science projects, games, etc)
 
 The Report is published and edited by law.mit.edu-affiliated academics, researchers, and practitioners. The Report fills a critical need for reputable, responsive, and neutral analysis of emerging computational law applications and thought leadership.
-
 

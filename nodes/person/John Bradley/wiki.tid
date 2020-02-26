@@ -1,21 +1,20 @@
-created:1582678071744
+created:1582720003361
 element.type:person
 github.profile:
 linkedin.profile:
 location:
-modified:1582678071744
+modified:1582720003361
 name:John Bradley
 organization:
 tags:
 tiddler.classification:node
 title:John Bradley
-tmap.edges:{"1daa0bed-8ed1-4fd3-83ef-3e4f011d9ff4":{"to":"cac776b9-8271-4d4e-9aba-cebfca66828c","type":"author"},"e48c0aca-ded3-489a-923d-da91a698f496":{"to":"b698d4e9-0cb9-4d73-9f25-6975dde09420","type":"author"},"4bcef56f-a3a6-46a9-befe-21783f8c64c2":{"to":"15800e41-961a-4bd9-a9f8-81e97090b104","type":"author"},"78afbe59-cbd2-46ae-89eb-dbb911c8b121":{"to":"b00465fd-d6ca-44c7-bc6b-7d95948860bc","type":"author"},"c55077b2-cab8-4469-a90d-1fad3eeafe45":{"to":"a784e9fb-9ba6-484f-8564-fa75691af332","type":"author"},"29bbe651-c496-4fe6-8159-88d4d29169a1":{"to":"57f5acfc-6302-42c8-9ebf-6ffa7438a0e0","type":"author"},"4ef287ea-d0f9-4909-9e70-faad432c0c3c":{"to":"cac776b9-8271-4d4e-9aba-cebfca66828c","type":"default"},"71a89db7-38f5-43af-88bc-5167eb1de047":{"to":"01e2dcfb-df14-47fd-9a49-8ed7e4afc829","type":"vice-chair"},"90bc1637-dd89-4278-9384-e40e563ed173":{"to":"55ea47a6-d2a8-41de-b17b-0e6f00509618","type":"author"},"d8045307-e0e6-451c-8e34-10771c380800":{"to":"f49f02b9-bec2-4661-a877-64a17ce63acc","type":"employee"},"194b2d83-1372-449e-9088-ea702d86f544":{"to":"74672616-5a00-47ee-8942-cbc68493063d","type":"author"},"96dd4f11-5272-461d-be66-6a7ef5dcf2ac":{"to":"5c310aca-215c-40d2-b84e-087f9cddb13d","type":"author"}}
-tmap.id:b4299978-0346-47b3-b66c-c2b49ed5bf9c
+tmap.edges:{"725d3e32-ca0d-44b8-a834-398b8e7e165f":{"to":"03017a0c-fb01-4c20-b761-85acfa985767","type":"author"},"91f40fea-2e8f-40b9-b4b6-b0284413b0a4":{"to":"0f2ba113-679d-466b-99cd-3b987a23f289","type":"author"},"fb61f786-f1df-4f42-8a0b-6facf79d5857":{"to":"bcaa7fb2-a9cf-4739-a732-21248d2b3f48","type":"author"},"a1ca37e5-3016-486b-9a2a-1bfcb14efa40":{"to":"61592ae3-28fb-4b4d-beb5-e93280104b96","type":"author"},"a27c32d9-8f13-409a-8171-cfcec2403860":{"to":"00850044-0e7b-4718-b5ea-549d2623a295","type":"author"},"b67aaa9b-02db-4799-8c8a-8a89b2af5f10":{"to":"2014fa8a-2d0f-4e3c-b786-14bcafc43986","type":"author"},"7935042b-cdfb-42b8-907a-ed100ea6f91a":{"to":"03017a0c-fb01-4c20-b761-85acfa985767","type":"default"},"3be1bded-46f7-4df9-8c2e-3b7ed63eb6a3":{"to":"6877fb5f-0bb9-4c31-a64e-b24354a27894","type":"vice-chair"},"a1ac191b-f7cd-4ff7-b294-8a7efbcef55c":{"to":"15c09999-6ac9-4120-82fe-2fd1de8e9c28","type":"author"},"09d0bd46-76dd-4652-a418-7f37a0b4d367":{"to":"7f99e686-0bbe-4063-ad70-c54a31c3d863","type":"employee"},"8f0bb3cb-6da2-4924-a89a-e2156832ea85":{"to":"da43f62b-c7c7-4c0e-9908-11c7bfb707e9","type":"author"},"dbb16034-4982-41ab-b8ed-4c016b7351f9":{"to":"559fcbf0-f103-4527-ba0e-33a7d6469464","type":"author"}}
+tmap.id:91b408c3-8040-4013-8283-fec822eb22cb
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.thread-safe.com/
 working.group:
 
 John is a Senior Technical Architect in the CTO Office of Ping Identity. He is an experienced IT professional with a diverse background. Most recently, John has been co-authoring the OpenID Connect protocol and JSON Object Signing and Encryption (JOSE) along with OAuth 2, He co-authord the ICAM protocol profiles while at Protiviti Government Services. He has also been coordinating interoperability testing on the profiles with OASIS and Trust Framework partners from industry.  John provides leadership at Kantara as chair of the Leadership Council and as chair Federation Interoperability Work Group.  He has contributed to SAML, openID, Information Card (IMI), XRI and other identity standards.  He is actively working to develop the next version of openID. As the Co-Chair of OSIS he has both developed testing infrastructure and co-coordinated interoperability testing amongst all the major vendors participating in openID and Information Cards.
-
 

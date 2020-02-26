@@ -1,12 +1,12 @@
-created:1582719062113
-filter:[field:tmap.id[d860bf9d-9b43-4239-b476-ee2e8756d560]]
-map.base:d860bf9d-9b43-4239-b476-ee2e8756d560
+created:1582720021468
+filter:[field:tmap.id[0a16add3-9486-42fb-bb36-8109dac1cb9e]]
+map.base:0a16add3-9486-42fb-bb36-8109dac1cb9e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062113
+modified:1582720021468
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ranking Digital Rights/filter/nodes
-tmap.id:a3f3c1e9-896b-4359-b144-725a9cd2d64e
+tmap.id:56b49eb3-cbc3-43cf-8a7a-eada84a04af2
 type:text/vnd.tiddlywiki
 
 No body provided

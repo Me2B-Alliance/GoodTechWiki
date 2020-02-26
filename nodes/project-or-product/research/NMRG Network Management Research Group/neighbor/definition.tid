@@ -1,17 +1,17 @@
-config.central-topic:c6278561-2e0c-40d9-94ae-9a35ffaf87d0
+config.central-topic:220ac4aa-3e9d-4dca-a97b-65faa9b0703f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062190
-id:27868237-38a6-4b02-9fdf-5faf701e02c8
+created:1582720021549
+id:11de2cc0-a7d6-47f2-bac2-665a9bfa7dcd
 isview:false
-map.base:c6278561-2e0c-40d9-94ae-9a35ffaf87d0
+map.base:220ac4aa-3e9d-4dca-a97b-65faa9b0703f
 map.role:definition
 map.type:neighbor
-modified:1582719062190
+modified:1582720021549
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NMRG Network Management Research Group
-tmap.id:27868237-38a6-4b02-9fdf-5faf701e02c8
+tmap.id:11de2cc0-a7d6-47f2-bac2-665a9bfa7dcd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NMRG Network Management Research Group

@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071975
+authors.editors:[[emily keller]] [[bonnie tijerina]] [[danah boyd]]
+created:1582720003602
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071975
+modified:1582720003602
 name:Supporting Ethics in Data Research
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[supporting ethics in data research]]
 tech.focus:
 tiddler.classification:node
 title:Supporting Ethics in Data Research(publication/report) (publication)
 tmap.edges:{}
-tmap.id:ff89295f-b07e-437c-aaff-36c839a4b344
+tmap.id:74b65580-afd2-4235-a690-4fc8df0c6cba
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/supporting-ethics-in-data-research/
 version.or.edition:
@@ -31,5 +31,4 @@ Background:
 University campuses provide an ecosystem of support to technical researchers, including computer scientists, as they navigate emerging issues of privacy, ethics, security, and consent in big data research. These support systems have varying levels of coordination and may be implicit or explicit.
 
 As part of the Supporting Ethics in Data Research project at Data & Society, we held workshops with twelve to sixteen student researchers,professors, information technology leaders, repository managers, and research librarians at a handful of universities. The goal was to tease out the individual components of ethical, technical, and legal support that were available or absent on each campus, and to better understand the interactions between different actors as they encounter common ethical quandaries.
-
 

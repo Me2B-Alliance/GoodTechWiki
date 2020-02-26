@@ -1,12 +1,12 @@
-created:1582719062336
-filter:[field:tmap.id[ffaa760b-f59d-4571-b228-ba8864597f63]]
-map.base:ffaa760b-f59d-4571-b228-ba8864597f63
+created:1582720021679
+filter:[field:tmap.id[8c3d77b1-9382-41ba-92ff-4e93a94f044d]]
+map.base:8c3d77b1-9382-41ba-92ff-4e93a94f044d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062336
+modified:1582720021679
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Patient Privacy Rights Information Governance Label/filter/nodes
-tmap.id:59ab6748-12d5-4ddc-a38c-ff967d56873a
+tmap.id:bfa4bdbe-436e-41d8-8181-23b0fff820db
 type:text/vnd.tiddlywiki
 
 No body provided

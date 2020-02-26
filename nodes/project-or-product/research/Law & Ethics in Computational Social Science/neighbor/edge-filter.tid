@@ -1,12 +1,12 @@
-created:1582719062189
+created:1582720021546
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:50a6d43a-d135-4a2a-8dd6-64b5abcabb20
+map.base:1e02362b-441d-4d4b-b2db-0552d477e2f7
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062189
+modified:1582720021546
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Law & Ethics in Computational Social Science/filter/edges
-tmap.id:7a0fc9d1-8d8c-4d48-bb1d-9460d727134f
+tmap.id:5caeed29-41f7-41db-baa8-71299e697e1b
 type:text/vnd.tiddlywiki
 
 No body provided

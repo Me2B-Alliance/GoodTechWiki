@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[standard development]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/Trusted-IoT-Alliance
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/trusted-iot-alliance/
-location(s):[object Set]
+location(s):[[wakefield]] [[ma]]
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Trusted IoT Alliance
 org.type:trade association
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[tech interoperability]] [[governance]] [[ecosystem building]]
 relevant.publications:https://blog.trusted-iot.org/
 scope:
 sector:
@@ -29,11 +29,10 @@ tech.focus:IOT: Blockchain
 tiddler.classification:node
 title:Trusted IoT Alliance
 tmap.edges:{}
-tmap.id:ea40ef0b-bc38-4f0d-8f47-7094602d982a
+tmap.id:67bba22f-3a9f-4f67-8a57-4e0d7f953cfb
 twitter.profile:https://twitter.com/Trusted_IoT
 type:text/vnd.tiddlywiki
 website:https://www.trusted-iot.org/
 
 Connecting and securing the next generation of smart IoT products with blockchain technology for a more trusted, secure and scaleable internet of all things.
-
 

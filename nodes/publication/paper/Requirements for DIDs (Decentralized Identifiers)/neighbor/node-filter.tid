@@ -1,12 +1,12 @@
-created:1582719062252
-filter:[field:tmap.id[5153e92e-9a52-4c63-b717-04be03ee3ee1]]
-map.base:5153e92e-9a52-4c63-b717-04be03ee3ee1
+created:1582720021602
+filter:[field:tmap.id[b00e0ff1-bab9-4179-aab4-af0140092987]]
+map.base:b00e0ff1-bab9-4179-aab4-af0140092987
 map.role:node-filter
 map.type:neighbor
-modified:1582719062252
+modified:1582720021602
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Requirements for DIDs (Decentralized Identifiers)/filter/nodes
-tmap.id:64ddfeb3-7df7-43dc-b483-a57253994ba2
+tmap.id:e25862e1-1a04-46b4-b241-b83e21b51610
 type:text/vnd.tiddlywiki
 
 No body provided

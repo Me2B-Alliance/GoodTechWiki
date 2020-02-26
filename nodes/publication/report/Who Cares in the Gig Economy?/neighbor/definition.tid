@@ -1,17 +1,17 @@
-config.central-topic:867ddaa1-7ea8-4c67-bcca-ae21a9f07665
+config.central-topic:b0032f9e-dc8a-476a-9e23-a104a5b81c0f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062303
-id:c35d134c-041c-497b-b00a-467409dd2b23
+created:1582720021648
+id:7c5ee8d7-074d-4587-ab97-2985b66d5a6c
 isview:false
-map.base:867ddaa1-7ea8-4c67-bcca-ae21a9f07665
+map.base:b0032f9e-dc8a-476a-9e23-a104a5b81c0f
 map.role:definition
 map.type:neighbor
-modified:1582719062303
+modified:1582720021648
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Who Cares in the Gig Economy?
-tmap.id:c35d134c-041c-497b-b00a-467409dd2b23
+tmap.id:7c5ee8d7-074d-4587-ab97-2985b66d5a6c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Who Cares in the Gig Economy?

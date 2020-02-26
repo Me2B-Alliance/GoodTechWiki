@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[standard development]] [[compliance auditing]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003591
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:
-location(s):[object Set]
+location(s):[[ann arbor]] [[mi]]
 me2b.relationship:
-modified:1582678071965
+modified:1582720003591
 org.name:Auditing Algorithms
 org.type:to-be-determined
 parent.org:University of Michigan
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[transparency and accountability]]
 relevant.publications:
 scope:
 sector:
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Auditing Algorithms
 tmap.edges:{}
-tmap.id:9b7d7252-6f08-46d4-8ce7-58c99f98c369
+tmap.id:3dc871f0-2504-4eec-855b-516fc4601fd1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://auditingalgorithms.science/
 
 Auditing Algorithms: Adding Accountability to Automated Authority is a group of events designed to produce a white paper that will help to define and develop the emerging research community for “algorithm auditing.” Algorithmic Auditing is a research design that has shown promise in diagnosing the unwanted consequences of algorithmic systems.
-
 

@@ -1,12 +1,12 @@
-created:1582719062243
-filter:[field:tmap.id[09e643fb-ee06-430d-85ef-537da9aec3c9]]
-map.base:09e643fb-ee06-430d-85ef-537da9aec3c9
+created:1582720021596
+filter:[field:tmap.id[0019afe6-0d7b-4a43-aae8-5fe723fa3b1e]]
+map.base:0019afe6-0d7b-4a43-aae8-5fe723fa3b1e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062243
+modified:1582720021596
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Hubs Capabilities Perspective/filter/nodes
-tmap.id:6e382c76-1e3f-4f05-b275-451da9f32bf5
+tmap.id:d32b2af3-13ab-4dd3-bb52-d9c72a8cec2c
 type:text/vnd.tiddlywiki
 
 No body provided

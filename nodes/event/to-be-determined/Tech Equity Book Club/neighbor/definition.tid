@@ -1,17 +1,17 @@
-config.central-topic:15c52f16-e38f-417a-9fa7-c448b9be9d3f
+config.central-topic:c6d70e55-d006-421b-bb89-ffa0bef70abb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062080
-id:400e8296-df52-4daf-a362-b66f70c8699e
+created:1582720021432
+id:aa3f189a-b8bd-42fb-a36a-8580b88bc554
 isview:false
-map.base:15c52f16-e38f-417a-9fa7-c448b9be9d3f
+map.base:c6d70e55-d006-421b-bb89-ffa0bef70abb
 map.role:definition
 map.type:neighbor
-modified:1582719062080
+modified:1582720021432
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech Equity Book Club
-tmap.id:400e8296-df52-4daf-a362-b66f70c8699e
+tmap.id:aa3f189a-b8bd-42fb-a36a-8580b88bc554
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tech Equity Book Club

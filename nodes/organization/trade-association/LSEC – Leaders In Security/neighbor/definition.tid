@@ -1,17 +1,17 @@
-config.central-topic:ca27869d-5222-4998-8a50-bd9e238657ec
+config.central-topic:ee78f27f-88ac-42af-873b-20bb963fbe87
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062160
-id:577edfdc-0f65-4adb-ab4f-7057ab2cebbf
+created:1582720021516
+id:f5879e5b-a970-45c9-8fb0-d2a73e0e43f0
 isview:false
-map.base:ca27869d-5222-4998-8a50-bd9e238657ec
+map.base:ee78f27f-88ac-42af-873b-20bb963fbe87
 map.role:definition
 map.type:neighbor
-modified:1582719062160
+modified:1582720021516
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LSEC – Leaders In Security
-tmap.id:577edfdc-0f65-4adb-ab4f-7057ab2cebbf
+tmap.id:f5879e5b-a970-45c9-8fb0-d2a73e0e43f0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of LSEC – Leaders In Security

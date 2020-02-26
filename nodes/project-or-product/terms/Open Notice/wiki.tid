@@ -1,7 +1,7 @@
 activities:
 audience:
 category:terms
-created:1582678071969
+created:1582720003596
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:https://github.com/OpenNotice/ConceptualArchitecture
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071969
+modified:1582720003596
 name:Open Notice
 parent.org:MIT/Law
 partners:
 people:
-purpose:[object Set]
+purpose:[[usability]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Open Notice
 tmap.edges:{}
-tmap.id:4a7817ba-2c98-4a8f-9c28-d8b645bbde9c
+tmap.id:91acd4bd-f9a5-4735-abe0-d2c7352734e8
 type:text/vnd.tiddlywiki
 url:https://github.com/HumanDynamics/law.MIT.edu/tree/master/OpenNotice
 version.or.edition:
@@ -36,5 +36,4 @@ Axioms of the OpenNotice Project:
     Electronic OpenNotice is more effecive than current Legal Notice protocols
     OpenNotice will improve access to justice
     The concept of OpenNotice will be so compelling that a competition for commercialization will generate sufficient interest to drive the project to implementatios
-
 

@@ -1,7 +1,7 @@
 activities:
 audience:
 category:software product (service)
-created:1582678071970
+created:1582720003598
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,12 +10,12 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582678071970
+modified:1582720003598
 name:Cookie Consent and Website Scanning
 parent.org:One Trust
 partners:
 people:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 status:
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Cookie Consent and Website Scanning
 tmap.edges:{}
-tmap.id:0e811d58-65e8-472a-b348-bcf11cf369e0
+tmap.id:92a70c99-b435-4431-bd4e-7939c472dcf5
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/cookies/
 version.or.edition:
@@ -33,5 +33,4 @@ working.group:
 Organizations around the world are assessing their online cookie consent policies to adhere to EU GDPR and ePrivacy standards. Companies must inform visitors about cookies and tracking technologies in use on their websites, as well as provide users with granular choice and control over their consent.
 
 Learn more about EU cookie requirements, compliance, and what to expect from the new ePrivacy Regulation with OneTrust's comprehensive guide.
-
 

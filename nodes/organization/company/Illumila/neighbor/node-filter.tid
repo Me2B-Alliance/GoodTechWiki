@@ -1,12 +1,12 @@
-created:1582719062089
-filter:[field:tmap.id[1c44e29b-8253-4b4a-b79d-ac11d0fff18f]]
-map.base:1c44e29b-8253-4b4a-b79d-ac11d0fff18f
+created:1582720021441
+filter:[field:tmap.id[aa0f8d9d-ea58-43f0-9d05-727fdd46e072]]
+map.base:aa0f8d9d-ea58-43f0-9d05-727fdd46e072
 map.role:node-filter
 map.type:neighbor
-modified:1582719062089
+modified:1582720021441
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Illumila/filter/nodes
-tmap.id:3103a8d9-4cc2-4404-bf0c-090aef968f01
+tmap.id:3f144ae1-2040-490d-8dfb-bb12753e788f
 type:text/vnd.tiddlywiki
 
 No body provided

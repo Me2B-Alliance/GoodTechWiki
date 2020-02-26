@@ -1,12 +1,12 @@
-created:1582719062137
-filter:[field:tmap.id[0b50885a-e539-4f1a-b729-2da4d4480dd8]]
-map.base:0b50885a-e539-4f1a-b729-2da4d4480dd8
+created:1582720021492
+filter:[field:tmap.id[5218ac18-2666-4aff-a314-27abce38112d]]
+map.base:5218ac18-2666-4aff-a314-27abce38112d
 map.role:node-filter
 map.type:neighbor
-modified:1582719062137
+modified:1582720021492
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA EUROPE/filter/nodes
-tmap.id:ea761443-a9ea-4978-8b4c-87e3c5a6d942
+tmap.id:f31be045-2dea-4b66-b532-c13876dcbe2f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:548e165c-7bce-4603-bc1f-8d1808cd5a2f
+config.central-topic:99752387-1b69-402d-b79d-d9d5db724475
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062337
-id:8111d967-fe49-4abc-9d4b-88260860cbba
+created:1582720021681
+id:f604af60-9d96-42a3-9bf7-3d547d2ceb2c
 isview:false
-map.base:548e165c-7bce-4603-bc1f-8d1808cd5a2f
+map.base:99752387-1b69-402d-b79d-d9d5db724475
 map.role:definition
 map.type:neighbor
-modified:1582719062337
+modified:1582720021681
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Report: International Law and Policy Workshop 2
-tmap.id:8111d967-fe49-4abc-9d4b-88260860cbba
+tmap.id:f604af60-9d96-42a3-9bf7-3d547d2ceb2c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Report: International Law and Policy Workshop 2

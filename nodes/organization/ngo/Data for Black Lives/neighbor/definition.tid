@@ -1,17 +1,17 @@
-config.central-topic:3a028d80-e9c1-401b-8701-81f5af6db1bb
+config.central-topic:71bc8bd1-6455-4b56-87d1-83d973a3c673
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062109
-id:ac625607-3faa-427b-976b-904a4225e85d
+created:1582720021464
+id:8fb01130-7323-42ec-83e7-da73d599a957
 isview:false
-map.base:3a028d80-e9c1-401b-8701-81f5af6db1bb
+map.base:71bc8bd1-6455-4b56-87d1-83d973a3c673
 map.role:definition
 map.type:neighbor
-modified:1582719062109
+modified:1582720021464
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data for Black Lives
-tmap.id:ac625607-3faa-427b-976b-904a4225e85d
+tmap.id:8fb01130-7323-42ec-83e7-da73d599a957
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data for Black Lives

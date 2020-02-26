@@ -1,17 +1,17 @@
-config.central-topic:f0c76529-33b1-42ea-83b3-98bcd9fb4f6a
+config.central-topic:27119e90-fce4-43a1-9917-73e627efa366
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062215
-id:40a0079d-b4ee-40b2-a8ce-d5e5b2b96765
+created:1582720021573
+id:e2a1f9d1-56b0-48b2-926e-7067f35a2f24
 isview:false
-map.base:f0c76529-33b1-42ea-83b3-98bcd9fb4f6a
+map.base:27119e90-fce4-43a1-9917-73e627efa366
 map.role:definition
 map.type:neighbor
-modified:1582719062215
+modified:1582720021573
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HATDex
-tmap.id:40a0079d-b4ee-40b2-a8ce-d5e5b2b96765
+tmap.id:e2a1f9d1-56b0-48b2-926e-7067f35a2f24
 type:text/vnd.tiddlywiki
 
 Neighbor Map of HATDex

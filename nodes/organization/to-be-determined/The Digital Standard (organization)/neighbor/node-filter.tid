@@ -1,12 +1,12 @@
-created:1582719062146
-filter:[field:tmap.id[7e4a135c-df97-4593-baa3-76c868120ee2]]
-map.base:7e4a135c-df97-4593-baa3-76c868120ee2
+created:1582720021502
+filter:[field:tmap.id[eb000ca2-2330-4064-86d5-40b4d1944f25]]
+map.base:eb000ca2-2330-4064-86d5-40b4d1944f25
 map.role:node-filter
 map.type:neighbor
-modified:1582719062146
+modified:1582720021502
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Digital Standard (organization)/filter/nodes
-tmap.id:73dd5d82-bb82-4e1a-92cd-8d65fc127921
+tmap.id:9c162bcc-a0e1-4a22-8988-2bef1cea061c
 type:text/vnd.tiddlywiki
 
 No body provided

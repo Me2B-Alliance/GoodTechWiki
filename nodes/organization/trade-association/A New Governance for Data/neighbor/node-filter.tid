@@ -1,12 +1,12 @@
-created:1582719062149
-filter:[field:tmap.id[01ffa9eb-e16e-4acd-9579-aeaea1242e8d]]
-map.base:01ffa9eb-e16e-4acd-9579-aeaea1242e8d
+created:1582720021503
+filter:[field:tmap.id[5e3a60fa-8223-4f87-936e-4f335cca49a5]]
+map.base:5e3a60fa-8223-4f87-936e-4f335cca49a5
 map.role:node-filter
 map.type:neighbor
-modified:1582719062149
+modified:1582720021503
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A New Governance for Data/filter/nodes
-tmap.id:ff6e0bc2-d582-4dbb-a00d-1aa62cd696fe
+tmap.id:71ba8d5f-1251-45f2-bd3e-8d1c3a802439
 type:text/vnd.tiddlywiki
 
 No body provided

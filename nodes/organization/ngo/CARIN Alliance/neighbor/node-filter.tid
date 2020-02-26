@@ -1,12 +1,12 @@
-created:1582719062108
-filter:[field:tmap.id[061202f5-b603-4e7e-a722-beff492980f4]]
-map.base:061202f5-b603-4e7e-a722-beff492980f4
+created:1582720021464
+filter:[field:tmap.id[630c2346-f1fb-4b5d-91ff-c130e762d98e]]
+map.base:630c2346-f1fb-4b5d-91ff-c130e762d98e
 map.role:node-filter
 map.type:neighbor
-modified:1582719062108
+modified:1582720021464
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CARIN Alliance/filter/nodes
-tmap.id:aafb0eda-faf3-4dfb-ae9a-f08283e6cf1e
+tmap.id:bf4c8b53-1325-414d-83a5-627a60a98c39
 type:text/vnd.tiddlywiki
 
 No body provided

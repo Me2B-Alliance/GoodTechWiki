@@ -1,12 +1,12 @@
-created:1582719062298
+created:1582720021643
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:252c9db3-163d-44f9-9800-15a82fb9c794
+map.base:c3da9bf8-492a-4a62-b0bd-1cfcd6cf87cf
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062298
+modified:1582720021643
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Truth About How Uber’s App Manages Drivers/filter/edges
-tmap.id:4e6bce3d-c7e4-427e-a34e-4a3cc324c3df
+tmap.id:b1f0b6c1-79c8-41ed-8ce4-bde6302afe79
 type:text/vnd.tiddlywiki
 
 No body provided

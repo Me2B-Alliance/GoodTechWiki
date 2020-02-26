@@ -1,12 +1,12 @@
-created:1582719062303
+created:1582720021647
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a341b569-7a70-4612-86f3-2602c124a50a
+map.base:66a8d30f-2487-4704-96d7-f475dfd5cdf1
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062303
+modified:1582720021647
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What If Social Media Becomes 16-Plus?/filter/edges
-tmap.id:b64d9c6e-c6f1-4bb4-be0f-8d4d4dc07101
+tmap.id:2627383a-2ee1-47ed-b30d-6af85e52fc38
 type:text/vnd.tiddlywiki
 
 No body provided

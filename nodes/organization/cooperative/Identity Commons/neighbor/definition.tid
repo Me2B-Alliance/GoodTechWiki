@@ -1,17 +1,17 @@
-config.central-topic:693b2217-b41a-4e9c-88ea-88fc96ec4481
+config.central-topic:b611a5d1-ac7a-4c1e-bd22-15e077e5bcfa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062100
-id:a3d5aca3-c5e8-46e9-a5a9-1b618b5de49f
+created:1582720021456
+id:bf3f2009-dabd-4269-a35c-9f5cf027680a
 isview:false
-map.base:693b2217-b41a-4e9c-88ea-88fc96ec4481
+map.base:b611a5d1-ac7a-4c1e-bd22-15e077e5bcfa
 map.role:definition
 map.type:neighbor
-modified:1582719062100
+modified:1582720021456
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Commons
-tmap.id:a3d5aca3-c5e8-46e9-a5a9-1b618b5de49f
+tmap.id:bf3f2009-dabd-4269-a35c-9f5cf027680a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity Commons

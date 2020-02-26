@@ -1,17 +1,17 @@
-config.central-topic:28d9f85d-ff01-4087-8aa8-ac3320e469a4
+config.central-topic:478ee363-3475-4450-bc77-9c51748bf343
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062186
-id:5aa9ada9-24a2-4e60-8bfc-eed4e7f7be97
+created:1582720021545
+id:753721b5-32ee-49d5-8706-78fd6f005dcb
 isview:false
-map.base:28d9f85d-ff01-4087-8aa8-ac3320e469a4
+map.base:478ee363-3475-4450-bc77-9c51748bf343
 map.role:definition
 map.type:neighbor
-modified:1582719062186
+modified:1582720021545
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future of Identity in the Information Society (FIDIS)
-tmap.id:5aa9ada9-24a2-4e60-8bfc-eed4e7f7be97
+tmap.id:753721b5-32ee-49d5-8706-78fd6f005dcb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Future of Identity in the Information Society (FIDIS)

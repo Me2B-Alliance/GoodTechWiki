@@ -1,7 +1,7 @@
 activities:
 audience:
 category:proof of concept
-created:1582678071741
+created:1582720003358
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582678071741
+modified:1582720003358
 name:ABC4Trust
 parent.org:
 partners:
@@ -18,12 +18,12 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[object Set]
+tags:[[europe|over]]
 terms.of.service:
 tiddler.classification:node
 title:ABC4Trust
 tmap.edges:{}
-tmap.id:b56c20a9-8e9c-4f84-9aa3-740c63104681
+tmap.id:64af7ba9-9669-4f94-a4cd-2e8d6d48abe4
 type:text/vnd.tiddlywiki
 url:https://abc4trust.eu
 version.or.edition:
@@ -34,5 +34,4 @@ The goal of ABC4Trust is to address the federation and interchangeability of tec
 The objectives of ABC4Trust are:
 * Defining a common, unified architecture for ABC systems to allow comparing their respective features and combining them on common platforms
 * Delivering open reference implementations of selected ABC systems and deploy them in actual production pilots allowing provably accredited members of restricted communities to provide anonymous feedback on their community or its members.
-
 

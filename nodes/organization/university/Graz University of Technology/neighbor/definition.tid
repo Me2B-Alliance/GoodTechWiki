@@ -1,17 +1,17 @@
-config.central-topic:d8292d53-cf6f-4f07-9959-d3cf2390c977
+config.central-topic:5d699235-9071-4a7d-b9f9-a0a6e40157be
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062166
-id:3cde136a-9223-4308-84fb-105f4516ddfd
+created:1582720021526
+id:31126ffe-1cb7-44c9-b62f-c09d79a5db29
 isview:false
-map.base:d8292d53-cf6f-4f07-9959-d3cf2390c977
+map.base:5d699235-9071-4a7d-b9f9-a0a6e40157be
 map.role:definition
 map.type:neighbor
-modified:1582719062166
+modified:1582720021526
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Graz University of Technology
-tmap.id:3cde136a-9223-4308-84fb-105f4516ddfd
+tmap.id:31126ffe-1cb7-44c9-b62f-c09d79a5db29
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Graz University of Technology

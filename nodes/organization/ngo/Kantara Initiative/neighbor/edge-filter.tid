@@ -1,12 +1,12 @@
-created:1582719062111
+created:1582720021465
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:50608171-b3ac-4f82-b6fd-535086621293
+map.base:5e55ff87-e599-4850-93b8-d64da6f90978
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062111
+modified:1582720021465
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative/filter/edges
-tmap.id:a66dfdfc-1cef-49be-98b9-53525445ef8d
+tmap.id:666c2799-2ceb-4220-8079-d6187a84fd11
 type:text/vnd.tiddlywiki
 
 No body provided

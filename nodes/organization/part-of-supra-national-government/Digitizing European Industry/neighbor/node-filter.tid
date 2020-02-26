@@ -1,12 +1,12 @@
-created:1582719062124
-filter:[field:tmap.id[bb7ee2f9-b509-4aae-9e94-bbb2e25b3723]]
-map.base:bb7ee2f9-b509-4aae-9e94-bbb2e25b3723
+created:1582720021480
+filter:[field:tmap.id[e32ea7d3-485d-4311-8a62-7d135755b7aa]]
+map.base:e32ea7d3-485d-4311-8a62-7d135755b7aa
 map.role:node-filter
 map.type:neighbor
-modified:1582719062124
+modified:1582720021480
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digitizing European Industry/filter/nodes
-tmap.id:fa62d9cd-64d2-457f-9eea-f6dae23df9ac
+tmap.id:9bd83cb9-8097-445f-9add-fd2b1accb50e
 type:text/vnd.tiddlywiki
 
 No body provided

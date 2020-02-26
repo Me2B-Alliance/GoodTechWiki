@@ -1,17 +1,17 @@
-config.central-topic:c7936936-6ab4-4b87-816b-6f4833a2c159
+config.central-topic:b3605472-1830-4006-ba94-2a1b18284acd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062265
-id:369f970c-c394-484a-9531-48ee4d44624e
+created:1582720021612
+id:6392a883-60db-41b8-85be-90694e3b7bde
 isview:false
-map.base:c7936936-6ab4-4b87-816b-6f4833a2c159
+map.base:b3605472-1830-4006-ba94-2a1b18284acd
 map.role:definition
 map.type:neighbor
-modified:1582719062265
+modified:1582720021612
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Data and Human Rights, a New and Sometimes Awkward Relationship
-tmap.id:369f970c-c394-484a-9531-48ee4d44624e
+tmap.id:6392a883-60db-41b8-85be-90694e3b7bde
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Big Data and Human Rights, a New and Sometimes Awkward Relationship

@@ -1,17 +1,17 @@
-config.central-topic:bb0b2ac6-6a3d-481d-b263-125c0c412f0b
+config.central-topic:d980dbf3-15b9-4fa3-9fe6-2a8ce84da549
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062194
-id:7bde392f-cd17-44a7-8401-a9809691d7ec
+created:1582720021551
+id:ca89409d-5ea0-4f6b-8bd9-9157ba10553e
 isview:false
-map.base:bb0b2ac6-6a3d-481d-b263-125c0c412f0b
+map.base:d980dbf3-15b9-4fa3-9fe6-2a8ce84da549
 map.role:definition
 map.type:neighbor
-modified:1582719062194
+modified:1582720021551
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PRISMACLOUD
-tmap.id:7bde392f-cd17-44a7-8401-a9809691d7ec
+tmap.id:ca89409d-5ea0-4f6b-8bd9-9157ba10553e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PRISMACLOUD

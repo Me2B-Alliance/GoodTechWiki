@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:12 ISO/IEC Guides (English)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]]
 tech.focus:
 tiddler.classification:node
 title:12 ISO/IEC Guides (English)
 tmap.edges:{}
-tmap.id:3f5f07fa-0505-4f74-b484-4da052493980
+tmap.id:b66b4e4e-ed81-4a66-bf8f-715231c003d3
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink?func=ll&objId=8389141
 version.or.edition:
@@ -27,5 +27,4 @@ volume.frequency:
 working.group:
 
 Directory of ISO/IEC guides and directives
-
 

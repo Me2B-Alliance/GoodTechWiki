@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[publication]] [[outreach]] [[education]] [[policy development]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/big-brother-watch/
-location(s):[object Set]
+location(s):[[chinaworks]] [[london]]
 me2b.relationship:
-modified:1582678071965
+modified:1582720003592
 org.name:Big Brother Watch
 org.type:government department
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[consumer education]] [[transparency and accountability]]
 relevant.publications:
 scope:regional
 sector:government
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Big Brother Watch
 tmap.edges:{}
-tmap.id:3838f18d-f1ce-4c4e-9e93-42044de44704
+tmap.id:3a1428e5-db85-40fb-bd45-64d644b801c1
 twitter.profile:https://twitter.com/bbw1984/
 type:text/vnd.tiddlywiki
 website:https://bigbrotherwatch.org.uk/about/
@@ -43,5 +43,4 @@ We campaign to protect freedoms in Parliament and through the courts. We produce
 Big Brother Watch is a cross–party: non-party: independent non-profit organisation leading the protection of privacy and civil liberties in the UK.
 
 In our pursuit for change: we use advocacy and campaigns; parliamentary lobbying; public interest litigation; research and investigations that inform policy and public debate; and public education and empowerment.
-
 

@@ -1,12 +1,12 @@
-created:1582719062089
+created:1582720021441
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4eb1f3f1-7a2b-4d19-ae2d-ed0c2695e1b2
+map.base:419cf204-0e71-4a92-9cbc-88f49c6cd1ef
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062089
+modified:1582720021441
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Imprimerie Nationale/filter/edges
-tmap.id:f8fc69b5-3581-4d50-8c22-16982b016b0c
+tmap.id:32bf0553-2556-4dde-8862-5a8fbd177646
 type:text/vnd.tiddlywiki
 
 No body provided

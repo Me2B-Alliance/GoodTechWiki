@@ -1,7 +1,7 @@
 activities:
 audience:
 category:service
-created:1582678071969
+created:1582720003596
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,13 +9,13 @@ element.type:project-or-product
 github.profile:https://github.com/EFForg/onlinecensorship/
 input.source:me2b
 license:
-me2b.participation:[object Set]
-modified:1582678071969
+me2b.participation:[[content source for me2b certification?]]
+modified:1582720003596
 name:OnlineCensorship.org
 parent.org:Electronic Frontier Foundation; Visualizing Impact
 partners:
 people:
-purpose:[object Set]
+purpose:[[consumer support]]
 relevant.publications:
 status:Active
 supported.identity.technologies:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:OnlineCensorship.org
 tmap.edges:{}
-tmap.id:bdfbdcc4-a782-4049-9107-b9e4bc50024f
+tmap.id:f3061187-bb68-47d9-b737-dfa47ae77b62
 type:text/vnd.tiddlywiki
 url:https://onlinecensorship.org/
 version.or.edition:
@@ -32,5 +32,4 @@ working.group:
 
 Onlinecensorship.org seeks to encourage companies to operate with greater transparency and accountability toward their users as they make decisions that regulate speech. We offer resources: information on how to appeal different media platforms: and original research on what content is taken down: why companies make certain decisions about content: and how content takedowns are affecting communities around the world. Has your post: photo: status: video or tweet been blocked or deleted?
 onlinecensorship.org gives social media users a place to report takedown notices and catalog content that has been removed. Simply follow our easy submission process to let us know how a platform has censored your content. 
-
 

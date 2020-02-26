@@ -1,17 +1,17 @@
-config.central-topic:38162733-e2fb-470e-bc27-036811a1de75
+config.central-topic:200004b0-3198-4338-b185-110ec86dbb44
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062101
-id:80118e57-d0f0-4b97-a642-c5d7a463c827
+created:1582720021458
+id:7586b3f3-d0ef-45d2-9348-06771120ad10
 isview:false
-map.base:38162733-e2fb-470e-bc27-036811a1de75
+map.base:200004b0-3198-4338-b185-110ec86dbb44
 map.role:definition
 map.type:neighbor
-modified:1582719062101
+modified:1582720021458
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IOT Security Policy Platform (ISOC)
-tmap.id:80118e57-d0f0-4b97-a642-c5d7a463c827
+tmap.id:7586b3f3-d0ef-45d2-9348-06771120ad10
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IOT Security Policy Platform (ISOC)

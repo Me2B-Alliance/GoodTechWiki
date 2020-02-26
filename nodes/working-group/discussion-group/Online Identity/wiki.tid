@@ -1,6 +1,6 @@
 activities:
 category:discussion group
-created:1582678071764
+created:1582720003382
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071764
+modified:1582720003382
 name:Online Identity
 parent.org:Internet Society ISOC
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Online Identity
-tmap.edges:{"9994b455-4959-4515-b1e5-21c407567b3e":{"to":"354de142-03ed-4f39-9b80-09018c3b4a48","type":"specification-of-group"},"9771c95f-4d42-4deb-a4a7-04e52c168211":{"to":"d89e54b3-081e-46d5-9163-211bb6a7db7b","type":"author"},"965912e7-0de1-42f5-9faa-533d764098ee":{"to":"7967dcfe-6dc5-469a-949c-225d4b4ba5c3","type":"author"},"907c9389-1dcb-4af5-9742-d94f16c3c8c1":{"to":"15b39f40-e223-49cc-8e14-923db13cab19","type":"author"}}
-tmap.id:9dff4628-569f-4831-921b-6a1f93d93923
+tmap.edges:{"6a273ae4-2dd8-475f-aa3b-e26e163bbd92":{"to":"1d106aae-7537-47ad-8982-2fcdecef8734","type":"specification-of-group"},"0d95d5ea-48a8-4a64-b420-f85cf16598da":{"to":"9d6e665e-b28d-4548-b53c-198784e5ad47","type":"author"},"af40be17-2fdc-4307-9a96-6c76e333b839":{"to":"f838b901-e183-4bc7-8904-e54ad786f7a0","type":"author"},"bcee3b92-4b23-461c-bd10-df9511a8076a":{"to":"53231088-99b5-4a82-96f6-1e34b2a19376","type":"author"}}
+tmap.id:338b9ab4-2e3a-44c4-ad14-347d1b837364
 type:text/vnd.tiddlywiki
 url:http://www.internetsociety.org/what-we-do/internet-issues/online-identity
 
 The Internet Society works in both the technical and policy arenas to support the development of tools and policies that empower people to manage their online identities.
-
 

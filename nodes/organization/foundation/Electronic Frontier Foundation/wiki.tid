@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[outreach]] [[policy development]] [[movement building]]
 annual.budget:
 audience:
-created:1582678071964
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,13 +13,13 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/electronic-frontier-foundation/
 location(s):
 me2b.relationship:
-modified:1582678071964
+modified:1582720003590
 org.name:Electronic Frontier Foundation
 org.type:foundation
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[human rights]] [[consumer support]]
 relevant.publications:
 scope:global
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Electronic Frontier Foundation
 tmap.edges:{}
-tmap.id:1c797f8c-ec99-4bb7-bca2-91403818d97e
+tmap.id:9572c8ee-79d8-4400-93c9-fbac91b0c9af
 twitter.profile:https://twitter.com/EFF
 type:text/vnd.tiddlywiki
 website:https://www.eff.org/
 
 The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
-
 

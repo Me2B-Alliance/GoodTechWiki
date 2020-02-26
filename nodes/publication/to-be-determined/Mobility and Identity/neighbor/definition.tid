@@ -1,17 +1,17 @@
-config.central-topic:d1fa65e3-7a42-4f3c-9051-ffa88e7b1aa3
+config.central-topic:7359cf5a-4830-48ea-a605-d462b310ddd6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062335
-id:27025c31-4fa0-4c17-9061-9b09cf1bf737
+created:1582720021679
+id:63fb53b9-9c7f-4d17-b767-20a8135dccad
 isview:false
-map.base:d1fa65e3-7a42-4f3c-9051-ffa88e7b1aa3
+map.base:7359cf5a-4830-48ea-a605-d462b310ddd6
 map.role:definition
 map.type:neighbor
-modified:1582719062335
+modified:1582720021679
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mobility and Identity
-tmap.id:27025c31-4fa0-4c17-9061-9b09cf1bf737
+tmap.id:63fb53b9-9c7f-4d17-b767-20a8135dccad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mobility and Identity

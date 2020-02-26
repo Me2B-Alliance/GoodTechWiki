@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071973
+created:1582720003600
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071973
+modified:1582720003600
 name:Open Data Kit Code of Conduct
 publication.type:code of conduct
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Open Data Kit Code of Conduct
 tmap.edges:{}
-tmap.id:5b1ba1dd-c363-4112-bd76-34bb65f4d8d8
+tmap.id:be57ffa4-1241-4c90-a322-e1aa4033b6f0
 type:text/vnd.tiddlywiki
 url:https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md
 version.or.edition:
@@ -46,5 +46,4 @@ Examples of unacceptable behavior by participants include:
     Other conduct which co
 
     uld reasonably be considered inappropriate in a professional setting
-
 

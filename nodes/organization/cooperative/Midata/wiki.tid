@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[research]] [[movement building]] [[service provider]]
 annual.budget:
 audience:
-created:1582678071965
+created:1582720003592
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -11,15 +11,15 @@ github.profile:https://github.com/MIDATAcooperative
 input.source:me2b
 key.people:
 linkedin.profile:https://www.linkedin.com/company/midata-coop/about/
-location(s):[object Set]
-me2b.relationship:[object Set]
-modified:1582678071965
+location(s):[[zürich]] [[switzerland]]
+me2b.relationship:[[certification candidate]]
+modified:1582720003592
 org.name:Midata
 org.type:cooperative
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[ecosystem building]]
 relevant.publications:https://www.midata.coop/en/media/
 scope:
 sector:non-profit
@@ -29,11 +29,10 @@ tech.focus:
 tiddler.classification:node
 title:Midata
 tmap.edges:{}
-tmap.id:6844da30-846f-4327-8057-28c98c69d231
+tmap.id:e768a012-88b6-492c-8524-7d1bf1171add
 twitter.profile:https://twitter.com/midata_coop
 type:text/vnd.tiddlywiki
 website:https://www.midata.coop
 
 MIDATA shows how data can be used for the common good, while at the same time ensuring the citizens’ control over their personal data.The MIDATA model is designed for international application: MIDATA Switzerland supports the foundation of regional or national MIDATA cooperatives that share the data platform infrastructure.Owners of a data account at MIDATA may actively contribute to medical research and clinical studies by granting selective access to their personal data. They may become members of the cooperative and thereby control the cooperative.
-
 

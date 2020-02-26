@@ -1,6 +1,6 @@
 activities:
 category:specification work
-created:1582678071715
+created:1582720003333
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582678071715
+modified:1582720003333
 name:Account Chooser
 parent.org:OpenID Foundation
 people:
@@ -18,11 +18,10 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Account Chooser
-tmap.edges:{"b08d8215-69a0-4226-8b92-d6ffcc839516":{"to":"5ae49ba8-feea-4934-ac55-1730a84dcb0a","type":"organization-for-group"}}
-tmap.id:306ba9a3-72b2-484c-8eea-aeeb1daed89c
+tmap.edges:{"79deb7cd-060c-4d73-8c1a-ecb7458833c1":{"to":"b96f25c7-de4d-4f8d-a9be-296ff6067335","type":"organization-for-group"}}
+tmap.id:58e27121-48d7-426d-98a5-5a72332c34eb
 type:text/vnd.tiddlywiki
 url:http://accountchooser.net
 
 Account Chooser is an industry effort to standardize that approach on both mobile and the desktop. It also provides a way for applications to start supporting identity providers to improve security without requiring a large user experience change. That security improvement is becoming more important as hackers become more sophisticated.
-
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071758
+created:1582720003376
 date.ended:
 date.founded:13 january 1993
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071758
+modified:1582720003376
 org.name:Asia‑Pacific Network Information Centre (APNIC)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Asia‑Pacific Network Information Centre (APNIC)
-tmap.edges:{"b33adf6e-6974-4993-87d2-627ebe017f24":{"to":"c1104702-197d-413b-83e6-572267446857","type":"general-member"}}
-tmap.id:318f548f-007a-4acc-8a21-5106be4f7512
+tmap.edges:{"3c2de9f2-3d25-45be-bdff-5f4debba7160":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"general-member"}}
+tmap.id:c636c58a-f89a-40f4-94e3-33897e9fb8b6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.apnic.net
@@ -38,5 +38,4 @@ The region served by APNIC covers the entire Asia Pacific, comprising 56 economi
 APNIC (the Asia Pacific Network Information Centre) is the not-for-profit Regional Internet address Registry (RIR) for the Asia Pacific region.
 
 APNIC provides number resource allocation and registration services that support the global operation of the Internet. It is a not-for-profit, membership-based organization whose members include Internet Service Providers, National Internet Registries, and similar organizations.
-
 

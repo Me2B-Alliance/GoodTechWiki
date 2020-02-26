@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582678071968
+created:1582720003595
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582678071968
+modified:1582720003595
 org.name:onecub
 org.type:to-be-determined
 parent.org:
@@ -24,12 +24,12 @@ relevant.publications:
 scope:
 sector:
 status:
-tags:[object Set]
+tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:onecub
 tmap.edges:{}
-tmap.id:0aad834a-4a64-4e47-9bc2-15306e20cd62
+tmap.id:f27b8051-52d5-4ee1-b7fe-a58b67204461
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.onecub.com/
@@ -45,5 +45,4 @@ The individual will be able to transfer its data from one service to a competito
 This individual will also be able to transfer its data from one service to a complementary service. This is the Cooperation Portability .
 
 Data Portability fosters a digital world where there is no need for online forms anymore. Services can import and export data between each other on demand of the user. There is an infinite amount of innovative use cases that would provide a global seamless user experience of digital services. At Onecub we believe that the new right to Data Portability is the most disruptive element of GDPR and can give a central place to the individual if done properly. 
-
 

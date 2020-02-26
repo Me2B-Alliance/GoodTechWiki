@@ -1,6 +1,6 @@
 audience:
-authors.editors:[object Set]
-created:1582678071977
+authors.editors:[[kanthashree mysore sathyendra]] [[shomir wilson]] [[florian schaub]] [[sebastian zimmeck]] [[and norman sadeh]]
+created:1582720003604
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071977
+modified:1582720003604
 name:Identifying the Provision of Choices in Privacy Policy Text
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[usable privacy policy - publications]]
 tech.focus:
 tiddler.classification:node
 title:Identifying the Provision of Choices in Privacy Policy Text
 tmap.edges:{}
-tmap.id:2f81d154-8c58-43b7-a47f-dc65b8a22081
+tmap.id:ad6a62c7-1520-47a3-9886-6a315dcdeda1
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/static/files/ksathyendra_acl_2017.pdf
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Conference on Empirical Methods in Natural Language Processing (EMNLP), Copenhagen, Denmark, Sep 2017
 
 Websites’ and mobile apps’ privacy poli-cies,  written  in  natural  language,  tend  tobe long and difficult to understand.  Infor-mation  privacy  revolves  around  the  fun-damental  principle  ofnotice  and  choice,namely the idea that users should be ableto  make  informed  decisions  about  whatinformation  about  them  can  be  collectedand  how  it  can  be  used.    Internet  userswant  control  over  their  privacy,  but  theirchoices are often hidden in long and con-voluted privacy policy documents.  More-over,  little  (if  any)  prior  work  has  beendone  to  detect  the  provision  of  choicesin text.  We address this challenge of en-abling user choice by automatically iden-tifying and extracting pertinent choice lan-guage in privacy policies. In particular, wepresent a two-stage architecture of classi-fication models to identify opt-out choicesin  privacy  policy  text,  labelling  commonvarieties of choices with a mean F1 scoreof 0.735.  Our techniques enable the cre-ation of systems to help Internet users tolearn about their choices, thereby effectu-ating notice and choice and improving In-ternet privacy.
-
 

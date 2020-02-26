@@ -1,7 +1,7 @@
-activities:[object Set]
+activities:[[service provider]] [[certification]]
 annual.budget:
 audience:
-created:1582678071963
+created:1582720003590
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,14 +12,14 @@ input.source:me2b
 key.people:
 linkedin.profile:
 location(s):
-me2b.relationship:[object Set]
-modified:1582678071963
+me2b.relationship:[[content source for me2b certification?]]
+modified:1582720003590
 org.name:TermSafe
 org.type:company
 parent.org:
 partners:
 products.and.or.services:
-purpose:[object Set]
+purpose:[[certification and compliance]]
 relevant.publications:
 scope:
 sector:for-profit
@@ -28,12 +28,11 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:TermSafe
-tmap.edges:{"68c7a280-4fd3-4390-ad4d-b1532bec06fa":{"to":"16d732c3-425b-4749-89b5-38f5f088e741","type":"Organization Supports Project or Product"}}
-tmap.id:b0f5208a-e7d3-43dc-857f-e2cee879d081
+tmap.edges:{"fd5401d2-0635-4551-be07-8e2179dfcd77":{"to":"703b4e18-3a00-49a4-a0da-29000b544e46","type":"Organization Supports Project or Product"}}
+tmap.id:c23feb35-18d6-4d76-8df2-8c5befcd7fcf
 twitter.profile:https://twitter.com/term_SAFE
 type:text/vnd.tiddlywiki
 website:http://termsafe.com/
 
 TermSAFE™ aids and supports businesses by providing a live TermSAFE™ shield which allows you to show your users that your Terms and Conditions have been reviewed and they do business with you in total confidence and comfort. Once again: TermSAFE™’s mission is to improve the users online experience: improve the business’s customer service while improving the relationship between the two.
-
 

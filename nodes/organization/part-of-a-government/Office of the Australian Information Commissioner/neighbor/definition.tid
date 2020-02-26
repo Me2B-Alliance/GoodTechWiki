@@ -1,17 +1,17 @@
-config.central-topic:cc515fcd-a392-42c3-8036-62e40865aee2
+config.central-topic:d48d98b6-676a-48ad-b7bd-600b23036468
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582719062118
-id:2af22a1e-67ce-463d-b087-d20b67cb1e0a
+created:1582720021474
+id:2cd136dd-2f26-4473-a0ef-719f07a4341a
 isview:false
-map.base:cc515fcd-a392-42c3-8036-62e40865aee2
+map.base:d48d98b6-676a-48ad-b7bd-600b23036468
 map.role:definition
 map.type:neighbor
-modified:1582719062118
+modified:1582720021474
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Office of the Australian Information Commissioner
-tmap.id:2af22a1e-67ce-463d-b087-d20b67cb1e0a
+tmap.id:2cd136dd-2f26-4473-a0ef-719f07a4341a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Office of the Australian Information Commissioner

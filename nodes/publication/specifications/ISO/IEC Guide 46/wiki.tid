@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582678071976
+created:1582720003603
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582678071976
+modified:1582720003603
 name:ISO/IEC Guide 46
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[object Set]
+tags:[[consumer standards resources]]
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC Guide 46
 tmap.edges:{}
-tmap.id:7ac9450a-10c8-4b30-9fe1-57f2afdc5485
+tmap.id:e392093f-f0d7-4f87-8e12-3d6b03a07c14
 type:text/vnd.tiddlywiki
 url:https://www.iso.org/standard/19752.html
 version.or.edition:
@@ -29,5 +29,4 @@ working.group:
 Comparative testing of consumer products and related services — General principles
 
 The principles are applicable to consumer products, services and a combination of both. They may usefully be followed by bodies and associations which conduct comparative testing programmes. The purpose of this Guide is to enable meaningful test results and information to be presented in a way which will help consumers and others to make an informed choice suitable to their own needs. The notes offer some but not all the means of applying the principles.
-
 

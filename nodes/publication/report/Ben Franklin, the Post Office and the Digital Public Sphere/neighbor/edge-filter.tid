@@ -1,12 +1,12 @@
-created:1582719062264
+created:1582720021611
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:070ad6b8-a10c-49af-80a9-a520b6a1b3fc
+map.base:b31ad0fd-0cef-4c9f-99ae-a22e6a396529
 map.role:edge-filter
 map.type:neighbor
-modified:1582719062264
+modified:1582720021611
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ben Franklin, the Post Office and the Digital Public Sphere/filter/edges
-tmap.id:c91c2ec2-6923-44e4-8ae4-6e1405adad8b
+tmap.id:4594e13f-d57b-4b8f-ab92-5cfa231488e4
 type:text/vnd.tiddlywiki
 
 No body provided
