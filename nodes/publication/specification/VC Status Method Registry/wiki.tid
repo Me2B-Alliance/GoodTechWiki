@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071977
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071977
+name:VC Status Method Registry
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:VC Status Method Registry
+tmap.edges:{}
+tmap.id:6e7b0fdb-d4d7-44b8-9239-0af75203dd26
+type:text/vnd.tiddlywiki
+url:https://github.com/w3c-ccg/vc-extension-registry
+version.or.edition:
+volume.frequency:
+working.group:
+
+This repository contains the Verifiable Credentials Status Scheme Registry, which is a list of all known status schemes and their current level of maturity.
+

@@ -1,0 +1,12 @@
+created:1582714534836
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:3f95542c-e19f-425f-914b-53d810f8cd47
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534836
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/InternetNZ/filter/edges
+tmap.id:40695a5d-5a28-4361-bdc1-e555b3cecfb3
+type:text/vnd.tiddlywiki
+
+No body provided

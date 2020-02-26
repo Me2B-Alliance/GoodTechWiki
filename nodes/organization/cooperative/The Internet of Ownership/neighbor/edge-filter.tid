@@ -1,0 +1,12 @@
+created:1582714534778
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:6500d133-3ecc-477c-9396-a175fa35f80b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534778
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet of Ownership/filter/edges
+tmap.id:2984f126-1b38-447f-b3c0-e5a75b31f2b7
+type:text/vnd.tiddlywiki
+
+No body provided

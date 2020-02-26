@@ -1,0 +1,12 @@
+created:1582714534771
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:0c075115-84d3-485a-a2ad-24017438436b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534771
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/PwC/filter/edges
+tmap.id:9c319b4d-b230-40f2-a403-3b2306d6cc99
+type:text/vnd.tiddlywiki
+
+No body provided

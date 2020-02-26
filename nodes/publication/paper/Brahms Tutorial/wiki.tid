@@ -1,0 +1,30 @@
+audience:
+authors.editors:[object Set]
+created:1582678071976
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071976
+name:Brahms Tutorial
+publication.type:paper
+purpose:
+sector:academic
+sponsoring.org:
+tags:
+tech.focus:
+tiddler.classification:node
+title:Brahms Tutorial
+tmap.edges:{}
+tmap.id:98344012-1bc3-49f0-921a-15afde07c984
+type:text/vnd.tiddlywiki
+url:http://brahms.ejenta.com/staticdocs/documentation/tutorial/BrahmsTutorialV1.2.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+This tutorialwill introduce you to the ―Brahms‖ languageand development environment andtheir use foragent-oriented modeling. Brahms can be used to model complex work practice  scenarios.  This  tutorial  will  present  themain  aspects  of  the  language  and discuss the usage of the modeling constructs available. Because  Brahms  is an  agent-orientedlanguage, it requires  a  different  way  of  thinking than  object-oriented  and  procedural  languages.  In  many  books  on  object-oriented  and procedural  languages  the  Atm  (automatic  teller  machine)  scenario  is  used as  an introduction to therespectivelanguage. This tutorial will use theAtm example in order to showcase  many  of  Brahms  modeling  constructs  and to show  how they differ  from traditional object-oriented or procedural languages.
+

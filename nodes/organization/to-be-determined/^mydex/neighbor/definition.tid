@@ -1,0 +1,17 @@
+config.central-topic:78f4e525-2d6a-4995-8f57-9654393208eb
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534826
+id:dd035e63-5efb-4543-a97b-78b235b8a7b7
+isview:false
+map.base:78f4e525-2d6a-4995-8f57-9654393208eb
+map.role:definition
+map.type:neighbor
+modified:1582714534826
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/^mydex-map
+tmap.id:dd035e63-5efb-4543-a97b-78b235b8a7b7
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ^mydex

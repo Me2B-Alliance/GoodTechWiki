@@ -1,0 +1,17 @@
+config.central-topic:f9cbeb6b-9c86-4bbf-8b02-a3f7188fb0e1
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535030
+id:f124d5a5-96fa-4de4-92d4-0c708d9b08c6
+isview:false
+map.base:f9cbeb6b-9c86-4bbf-8b02-a3f7188fb0e1
+map.role:definition
+map.type:neighbor
+modified:1582714535030
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consent and Information Sharing Working  Group-map
+tmap.id:f124d5a5-96fa-4de4-92d4-0c708d9b08c6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Consent and Information Sharing Working  Group

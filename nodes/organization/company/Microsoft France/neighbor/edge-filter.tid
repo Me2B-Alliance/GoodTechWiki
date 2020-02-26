@@ -1,0 +1,12 @@
+created:1582714534768
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:bf15fb87-55b0-45e2-989f-170dd6b315ab
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534768
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft France/filter/edges
+tmap.id:81712981-2da3-48bd-af1e-f01c74d9cc64
+type:text/vnd.tiddlywiki
+
+No body provided

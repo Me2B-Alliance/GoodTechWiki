@@ -1,0 +1,12 @@
+created:1582714534870
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:c195f082-9f8d-442b-9daa-7d56db09fa80
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534870
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future Trust/filter/edges
+tmap.id:ce5417e8-afb9-4bb5-9199-a1dd94ed8381
+type:text/vnd.tiddlywiki
+
+No body provided

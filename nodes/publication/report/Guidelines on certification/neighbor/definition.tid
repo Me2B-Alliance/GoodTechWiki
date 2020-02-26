@@ -1,0 +1,17 @@
+config.central-topic:de796ef2-013a-46cb-9ce1-c2c2e45f1148
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534953
+id:bbbb7710-dbb8-41f1-bb03-821f48d0679a
+isview:false
+map.base:de796ef2-013a-46cb-9ce1-c2c2e45f1148
+map.role:definition
+map.type:neighbor
+modified:1582714534953
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on certification-map
+tmap.id:bbbb7710-dbb8-41f1-bb03-821f48d0679a
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Guidelines on certification

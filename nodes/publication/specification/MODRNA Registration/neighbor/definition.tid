@@ -1,0 +1,17 @@
+config.central-topic:57f5acfc-6302-42c8-9ebf-6ffa7438a0e0
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534989
+id:e972bf6c-626c-4d3b-9ef7-c1a6f5da71d6
+isview:false
+map.base:57f5acfc-6302-42c8-9ebf-6ffa7438a0e0
+map.role:definition
+map.type:neighbor
+modified:1582714534989
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MODRNA Registration-map
+tmap.id:e972bf6c-626c-4d3b-9ef7-c1a6f5da71d6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of MODRNA Registration

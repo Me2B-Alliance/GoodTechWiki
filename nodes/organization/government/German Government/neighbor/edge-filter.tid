@@ -1,0 +1,12 @@
+created:1582714534781
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:7b78c745-e296-403e-a05a-300079e46f0d
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534781
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/German Government/filter/edges
+tmap.id:689e8381-95a4-4360-a3e0-356890ab43fd
+type:text/vnd.tiddlywiki
+
+No body provided

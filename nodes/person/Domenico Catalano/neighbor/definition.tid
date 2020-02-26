@@ -1,0 +1,17 @@
+config.central-topic:55e5df99-492a-4266-8f80-13a7b531c88a
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534858
+id:536a33c3-0570-47ca-960e-8e5e8e606a58
+isview:false
+map.base:55e5df99-492a-4266-8f80-13a7b531c88a
+map.role:definition
+map.type:neighbor
+modified:1582714534858
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Domenico Catalano-map
+tmap.id:536a33c3-0570-47ca-960e-8e5e8e606a58
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Domenico Catalano

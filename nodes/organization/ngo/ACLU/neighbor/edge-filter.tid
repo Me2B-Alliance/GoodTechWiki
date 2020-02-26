@@ -1,0 +1,12 @@
+created:1582714534784
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:b7ab95a8-27c2-467f-8455-3a9b57370021
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534784
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACLU/filter/edges
+tmap.id:83b28071-037c-482e-8ed4-fc3d601f1f6d
+type:text/vnd.tiddlywiki
+
+No body provided

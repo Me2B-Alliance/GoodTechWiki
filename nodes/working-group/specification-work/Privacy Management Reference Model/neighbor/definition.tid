@@ -1,0 +1,17 @@
+config.central-topic:ceb465c4-7160-43fc-8bcc-6c212a69645c
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535038
+id:71a566a7-bf4e-46fa-b0a5-8ecc48ec2d31
+isview:false
+map.base:ceb465c4-7160-43fc-8bcc-6c212a69645c
+map.role:definition
+map.type:neighbor
+modified:1582714535038
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Management Reference Model-map
+tmap.id:71a566a7-bf4e-46fa-b0a5-8ecc48ec2d31
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Privacy Management Reference Model

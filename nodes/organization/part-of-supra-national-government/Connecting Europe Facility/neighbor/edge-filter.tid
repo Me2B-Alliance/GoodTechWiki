@@ -1,0 +1,12 @@
+created:1582714534798
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:23e101a8-502e-407d-81af-8ca79f689dc9
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534798
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Connecting Europe Facility/filter/edges
+tmap.id:b27f945c-9c8e-4087-a01a-38ade843727f
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,12 @@
+created:1582714534871
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:597c49f9-3b2f-431a-8ccc-ab870d058ddd
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534871
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICCRG Internet Congestion Control Research Group/filter/edges
+tmap.id:42609821-e0ac-4f98-8413-7a9b1ebfe2db
+type:text/vnd.tiddlywiki
+
+No body provided

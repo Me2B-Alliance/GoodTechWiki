@@ -1,0 +1,34 @@
+activities:
+audience:
+category:research
+created:1582678071969
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:
+modified:1582678071969
+name:Data Commons Graph (DCG)
+parent.org:Datacommons.org: Google
+partners:
+people:
+purpose:[object Set]
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tiddler.classification:node
+title:Data Commons Graph (DCG)
+tmap.edges:{}
+tmap.id:1d4a1294-0cd2-4953-a391-0015a0780ca2
+type:text/vnd.tiddlywiki
+url:https://browser.datacommons.org/
+version.or.edition:
+working.group:
+
+The Data Commons Graph (DCG) is constructed by synthesizing a single Graph from many different data sources. It currently contains data from Wikipedia, the US Census, NOAA, FBI, etc. The browser can be used both to explore what data is available and to understand the graph structure, to help use the API.
+

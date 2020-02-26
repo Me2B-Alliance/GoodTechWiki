@@ -1,0 +1,17 @@
+config.central-topic:a71fff52-569c-4353-8715-d4c709a185d6
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534859
+id:42e21f49-86f7-45c4-bf88-4f3ccd2f2e64
+isview:false
+map.base:a71fff52-569c-4353-8715-d4c709a185d6
+map.role:definition
+map.type:neighbor
+modified:1582714534859
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thomas J. Smedinghoff-map
+tmap.id:42e21f49-86f7-45c4-bf88-4f3ccd2f2e64
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Thomas J. Smedinghoff

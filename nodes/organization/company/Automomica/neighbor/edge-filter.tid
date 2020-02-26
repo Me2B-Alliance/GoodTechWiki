@@ -1,0 +1,12 @@
+created:1582714534761
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:76a0d747-824a-4e64-a166-95c03e9d3b2c
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534761
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Automomica/filter/edges
+tmap.id:b7e610f6-9c77-4704-aee1-528a2c25db80
+type:text/vnd.tiddlywiki
+
+No body provided

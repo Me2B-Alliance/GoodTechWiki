@@ -1,0 +1,17 @@
+config.central-topic:ff939da5-f71a-437e-9bc6-bdbf1ee957c2
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534949
+id:1133306a-2a16-43c7-b643-f87cf5a9d648
+isview:false
+map.base:ff939da5-f71a-437e-9bc6-bdbf1ee957c2
+map.role:definition
+map.type:neighbor
+modified:1582714534949
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Emerging Responsible Data Questions for Human Rights and Human Security-map
+tmap.id:1133306a-2a16-43c7-b643-f87cf5a9d648
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Emerging Responsible Data Questions for Human Rights and Human Security

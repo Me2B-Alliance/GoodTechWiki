@@ -1,0 +1,12 @@
+created:1582714535030
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:c7762e8b-a7ea-4dcd-a52d-13b171fd8238
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535030
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CBOR Object Signing and Encryption (COSE)/filter/edges
+tmap.id:d75cb854-829b-4f71-ba95-dd4fa6d4fedc
+type:text/vnd.tiddlywiki
+
+No body provided

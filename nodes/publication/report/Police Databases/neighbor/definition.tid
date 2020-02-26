@@ -1,0 +1,17 @@
+config.central-topic:cf1a33f7-0c1b-48ee-a6e0-adb3ea26f9b7
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534962
+id:d7f7df1b-227a-4afc-a156-8517ca99ea65
+isview:false
+map.base:cf1a33f7-0c1b-48ee-a6e0-adb3ea26f9b7
+map.role:definition
+map.type:neighbor
+modified:1582714534962
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police Databases-map
+tmap.id:d7f7df1b-227a-4afc-a156-8517ca99ea65
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Police Databases

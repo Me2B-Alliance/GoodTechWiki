@@ -1,0 +1,17 @@
+config.central-topic:f32f89f9-9565-4059-aa4a-a4ed20be8a9d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534871
+id:2df02414-9dca-42b3-bd95-402dcc872448
+isview:false
+map.base:f32f89f9-9565-4059-aa4a-a4ed20be8a9d
+map.role:definition
+map.type:neighbor
+modified:1582714534871
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MAPRG Measurement and Analysis for Protocols Research Group-map
+tmap.id:2df02414-9dca-42b3-bd95-402dcc872448
+type:text/vnd.tiddlywiki
+
+Neighbor Map of MAPRG Measurement and Analysis for Protocols Research Group

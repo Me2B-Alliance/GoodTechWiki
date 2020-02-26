@@ -1,0 +1,17 @@
+config.central-topic:ad8a7471-fdfd-41d9-ba60-66fd47fc53ad
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534786
+id:a75bc5f8-b194-4002-a0f4-258b4005b7c9
+isview:false
+map.base:ad8a7471-fdfd-41d9-ba60-66fd47fc53ad
+map.role:definition
+map.type:neighbor
+modified:1582714534786
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara Initiative Educational Foundation-map
+tmap.id:a75bc5f8-b194-4002-a0f4-258b4005b7c9
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Kantara Initiative Educational Foundation

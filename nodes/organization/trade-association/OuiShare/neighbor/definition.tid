@@ -1,0 +1,17 @@
+config.central-topic:fdabb73a-6bcc-4f2a-8341-2f2f5364eaff
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534842
+id:f4be035f-2ec4-495b-9dde-d8c61d50884b
+isview:false
+map.base:fdabb73a-6bcc-4f2a-8341-2f2f5364eaff
+map.role:definition
+map.type:neighbor
+modified:1582714534842
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OuiShare-map
+tmap.id:f4be035f-2ec4-495b-9dde-d8c61d50884b
+type:text/vnd.tiddlywiki
+
+Neighbor Map of OuiShare

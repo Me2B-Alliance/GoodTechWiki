@@ -1,0 +1,12 @@
+created:1582714534771
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:949bbb95-a917-4c31-97f0-f21fa3b49203
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534771
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/PayPal/filter/edges
+tmap.id:99b39bc6-e93a-4610-95e8-f45f2e8a4c7c
+type:text/vnd.tiddlywiki
+
+No body provided

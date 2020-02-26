@@ -1,0 +1,17 @@
+config.central-topic:c53c1011-8a73-42c2-9ee6-d504987928a3
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534940
+id:a09c7a34-3991-47bd-a397-56a60ce33130
+isview:false
+map.base:c53c1011-8a73-42c2-9ee6-d504987928a3
+map.role:definition
+map.type:neighbor
+modified:1582714534940
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Beyond Disruption-map
+tmap.id:a09c7a34-3991-47bd-a397-56a60ce33130
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Beyond Disruption

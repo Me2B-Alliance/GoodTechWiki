@@ -1,0 +1,17 @@
+config.central-topic:76e28c0e-24bd-4ca9-92a0-a91248163a56
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535034
+id:535c0aa4-c0b7-4aab-801c-c6d1e79eec4d
+isview:false
+map.base:76e28c0e-24bd-4ca9-92a0-a91248163a56
+map.role:definition
+map.type:neighbor
+modified:1582714535034
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/TC 292 Security and Resilience-map
+tmap.id:535c0aa4-c0b7-4aab-801c-c6d1e79eec4d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ISO/TC 292 Security and Resilience

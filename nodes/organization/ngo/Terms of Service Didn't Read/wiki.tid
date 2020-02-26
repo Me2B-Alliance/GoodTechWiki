@@ -1,0 +1,40 @@
+activities:[object Set]
+annual.budget:
+audience:
+created:1582678071963
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/tosdr
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/company/terms-of-service-didn-t-read/about/
+location(s):[object Set]
+me2b.relationship:[object Set]
+modified:1582678071963
+org.name:Terms of Service Didn't Read
+org.type:ngo
+parent.org:
+partners:
+products.and.or.services:
+purpose:[object Set]
+relevant.publications:
+scope:global
+sector:non-profit
+status:Active
+tags:
+tech.focus:
+tiddler.classification:node
+title:Terms of Service Didn't Read
+tmap.edges:{"4ab1c796-b68b-47d4-a569-a1775d7ccb3d":{"to":"8ce2c594-448c-46ee-8417-45da70e68bb1","type":"Organization Supports Project or Product"}}
+tmap.id:3e6ca009-2e5c-4160-b657-cc1fab48ea12
+twitter.profile:https://twitter.com/tosdr
+type:text/vnd.tiddlywiki
+website:https://tosdr.org/
+
+“I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that.  
+
+We are a user rights initiative to rate and label website terms & privacy policies: from very good Class A to very bad Class E.
+

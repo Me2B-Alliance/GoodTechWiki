@@ -1,0 +1,12 @@
+created:1582714534782
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:3fa68ad0-4e2a-48c0-940e-d0d2f0e44fd3
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534782
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/United States Government/filter/edges
+tmap.id:b5255b90-8646-4356-9018-2b40e110d3a9
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:3463873b-9831-4729-a9ad-8aa6a11d8406
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534999
+id:ec17af12-d30a-4f9b-a5e7-6feea86260cd
+isview:false
+map.base:3463873b-9831-4729-a9ad-8aa6a11d8406
+map.role:definition
+map.type:neighbor
+modified:1582714534999
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_75_2006(E)-map
+tmap.id:ec17af12-d30a-4f9b-a5e7-6feea86260cd
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ISO_IEC_Guide_75_2006(E)

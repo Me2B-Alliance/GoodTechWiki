@@ -1,0 +1,17 @@
+config.central-topic:d289731e-4770-4032-9c53-173e9f1dd3de
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534971
+id:05aec7b2-7af8-4d88-831d-79064c2f67d5
+isview:false
+map.base:d289731e-4770-4032-9c53-173e9f1dd3de
+map.role:definition
+map.type:neighbor
+modified:1582714534971
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Mirage of the Marketplace-map
+tmap.id:05aec7b2-7af8-4d88-831d-79064c2f67d5
+type:text/vnd.tiddlywiki
+
+Neighbor Map of The Mirage of the Marketplace

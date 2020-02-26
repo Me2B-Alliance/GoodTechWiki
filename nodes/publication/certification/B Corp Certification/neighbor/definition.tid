@@ -1,0 +1,17 @@
+config.central-topic:26d14ee9-7fb7-4181-b207-d4d47960855d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534898
+id:3e8e23ea-899f-4c6e-84b0-8014c90f5040
+isview:false
+map.base:26d14ee9-7fb7-4181-b207-d4d47960855d
+map.role:definition
+map.type:neighbor
+modified:1582714534898
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/B Corp Certification-map
+tmap.id:3e8e23ea-899f-4c6e-84b0-8014c90f5040
+type:text/vnd.tiddlywiki
+
+Neighbor Map of B Corp Certification

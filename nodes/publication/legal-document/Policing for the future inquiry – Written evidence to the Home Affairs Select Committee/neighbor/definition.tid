@@ -1,0 +1,17 @@
+config.central-topic:d21482ca-4faf-45f6-b8d0-c3b4b2f5fc58
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534905
+id:af6a36b0-c409-4c5f-af44-a059a95b494d
+isview:false
+map.base:d21482ca-4faf-45f6-b8d0-c3b4b2f5fc58
+map.role:definition
+map.type:neighbor
+modified:1582714534905
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Policing for the future inquiry – Written evidence to the Home Affairs Select Committee-map
+tmap.id:af6a36b0-c409-4c5f-af44-a059a95b494d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Policing for the future inquiry – Written evidence to the Home Affairs Select Committee

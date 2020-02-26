@@ -1,0 +1,17 @@
+config.central-topic:58ae6940-aead-4164-a683-893351140005
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535037
+id:76275bfd-5024-493f-9ce3-1d19bfdfbe47
+isview:false
+map.base:58ae6940-aead-4164-a683-893351140005
+map.role:definition
+map.type:neighbor
+modified:1582714535037
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Physical Characteristics and Test Methods WG1-map
+tmap.id:76275bfd-5024-493f-9ce3-1d19bfdfbe47
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Physical Characteristics and Test Methods WG1

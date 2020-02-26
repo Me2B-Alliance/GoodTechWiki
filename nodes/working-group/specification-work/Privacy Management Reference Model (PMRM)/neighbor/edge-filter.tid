@@ -1,0 +1,12 @@
+created:1582714535038
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:5280610f-31d1-41d5-97bf-5a7964aebeb2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535038
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Management Reference Model (PMRM)/filter/edges
+tmap.id:cd7e9382-aa6c-4d05-b050-7d980f0f37f3
+type:text/vnd.tiddlywiki
+
+No body provided

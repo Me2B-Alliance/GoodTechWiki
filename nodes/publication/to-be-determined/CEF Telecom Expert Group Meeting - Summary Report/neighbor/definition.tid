@@ -1,0 +1,17 @@
+config.central-topic:633be245-81ed-4293-b99c-35caef815b55
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535005
+id:8b8cb9b9-c916-4ac1-82b1-338012adea9a
+isview:false
+map.base:633be245-81ed-4293-b99c-35caef815b55
+map.role:definition
+map.type:neighbor
+modified:1582714535005
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Telecom Expert Group Meeting - Summary Report-map
+tmap.id:8b8cb9b9-c916-4ac1-82b1-338012adea9a
+type:text/vnd.tiddlywiki
+
+Neighbor Map of CEF Telecom Expert Group Meeting - Summary Report

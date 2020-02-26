@@ -1,0 +1,17 @@
+config.central-topic:7ceb6391-bcac-44cb-b12d-e3d8b28ed1e8
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534795
+id:19da5e41-5007-4551-a094-45ca90474afa
+isview:false
+map.base:7ceb6391-bcac-44cb-b12d-e3d8b28ed1e8
+map.role:definition
+map.type:neighbor
+modified:1582714534795
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Commissioner (Te Mana Matapono Matatapu)-map
+tmap.id:19da5e41-5007-4551-a094-45ca90474afa
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Privacy Commissioner (Te Mana Matapono Matatapu)

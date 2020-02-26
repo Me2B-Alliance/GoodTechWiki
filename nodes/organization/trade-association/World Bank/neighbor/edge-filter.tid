@@ -1,0 +1,12 @@
+created:1582714534845
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:5314eae3-3d21-4b20-89cf-89829dad0a65
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534845
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/World Bank/filter/edges
+tmap.id:6964d9c3-5784-4fe5-b206-0cdfde9a7902
+type:text/vnd.tiddlywiki
+
+No body provided

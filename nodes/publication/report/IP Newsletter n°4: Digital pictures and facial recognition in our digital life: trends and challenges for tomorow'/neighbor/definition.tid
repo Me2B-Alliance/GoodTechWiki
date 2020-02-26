@@ -1,0 +1,17 @@
+config.central-topic:b2d4e045-5f33-4a4f-8677-654e411f5d2e
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534956
+id:3bb9e2da-4d34-40d1-a074-28904bee2260
+isview:false
+map.base:b2d4e045-5f33-4a4f-8677-654e411f5d2e
+map.role:definition
+map.type:neighbor
+modified:1582714534956
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP Newsletter n°4: Digital pictures and facial recognition in our digital life: trends and challenges for tomorow'-map
+tmap.id:3bb9e2da-4d34-40d1-a074-28904bee2260
+type:text/vnd.tiddlywiki
+
+Neighbor Map of IP Newsletter n°4: Digital pictures and facial recognition in our digital life: trends and challenges for tomorow'

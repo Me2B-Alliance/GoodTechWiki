@@ -1,0 +1,17 @@
+config.central-topic:62557f02-dac2-40ca-8d90-dedd15c354db
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534878
+id:1b9d6170-49f6-4a25-81d9-dd68471ff365
+isview:false
+map.base:62557f02-dac2-40ca-8d90-dedd15c354db
+map.role:definition
+map.type:neighbor
+modified:1582714534878
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Coded Gaze-map
+tmap.id:1b9d6170-49f6-4a25-81d9-dd68471ff365
+type:text/vnd.tiddlywiki
+
+Neighbor Map of The Coded Gaze

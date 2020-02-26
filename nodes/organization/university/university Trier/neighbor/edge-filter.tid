@@ -1,0 +1,12 @@
+created:1582714534849
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:e3a0902b-7aae-4308-bd89-248fd925778b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534849
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/university Trier/filter/edges
+tmap.id:fe78de75-f415-4348-a185-9a2135208d23
+type:text/vnd.tiddlywiki
+
+No body provided

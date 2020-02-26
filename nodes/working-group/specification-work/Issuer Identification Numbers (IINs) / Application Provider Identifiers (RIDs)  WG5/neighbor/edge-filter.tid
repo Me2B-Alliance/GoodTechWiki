@@ -1,0 +1,12 @@
+created:1582714535035
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:5ce7007a-c78f-4958-bb4c-bc8f3d08a7d1
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535035
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5/filter/edges
+tmap.id:5c59d5f6-ca4d-4b2f-b1a7-1eeef4ac8a75
+type:text/vnd.tiddlywiki
+
+No body provided

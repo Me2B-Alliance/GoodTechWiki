@@ -1,0 +1,17 @@
+config.central-topic:5621e2c0-daa1-4258-847e-b2b1001a185a
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534991
+id:505b66ee-211e-48cd-ae21-325f5f0a6aba
+isview:false
+map.base:5621e2c0-daa1-4258-847e-b2b1001a185a
+map.role:definition
+map.type:neighbor
+modified:1582714534991
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Object Capabilities for Linked Data-map
+tmap.id:505b66ee-211e-48cd-ae21-325f5f0a6aba
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Object Capabilities for Linked Data

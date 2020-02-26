@@ -1,0 +1,17 @@
+config.central-topic:9dcafa30-b511-4759-ac32-0fdcfac016ad
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534839
+id:ac0bda43-3c2b-4563-afde-3bf9ab9cc3f9
+isview:false
+map.base:9dcafa30-b511-4759-ac32-0fdcfac016ad
+map.role:definition
+map.type:neighbor
+modified:1582714534839
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Group-map
+tmap.id:ac0bda43-3c2b-4563-afde-3bf9ab9cc3f9
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Open Group

@@ -1,0 +1,38 @@
+activities:
+audience:
+category:terms
+created:1582678071969
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+input.source:me2b
+license:
+me2b.participation:[object Set]
+modified:1582678071969
+name:I Agree To...
+parent.org:Independent
+partners:[object Set]
+people:[object Set]
+purpose:[object Set]
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:[object Set]
+terms.of.service:
+tiddler.classification:node
+title:I Agree To...
+tmap.edges:{}
+tmap.id:6904bb34-c0cc-4df8-a44e-c33ea3a13b71
+type:text/vnd.tiddlywiki
+url:http://gregg.io/mfa/
+version.or.edition:
+working.group:
+
+We all click “I Agree,” but to what are we agreeing? Nearly every software vendor uses some form of the click-through agreement, or CTA, as part of the installation process. Yet this important and contractually binding information is presented in an unreadable, unusable, and unintuitive format.
+
+As part of my MFA Thesis project at the Savannah College of Art and Design, I explored the state of the CTA, the information it contains, and how it may be presented in a readable, comprehensible manner through the application of graphic design and user experience.
+
+These slides demonstrate a proposed redesign of legal agreements modeled after the Apple iTunes CTA, presented at bottom.
+

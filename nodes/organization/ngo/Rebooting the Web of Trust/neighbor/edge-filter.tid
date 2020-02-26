@@ -1,0 +1,12 @@
+created:1582714534789
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:71cd1193-67c0-40cc-b6fa-3eb3bb1ed9e9
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534789
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rebooting the Web of Trust/filter/edges
+tmap.id:f4370750-98cc-4845-b7cd-4592398e7393
+type:text/vnd.tiddlywiki
+
+No body provided

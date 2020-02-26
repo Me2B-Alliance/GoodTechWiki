@@ -1,0 +1,12 @@
+created:1582714535036
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:08562622-c5a6-40ab-a0cf-f46ae861853c
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535036
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Machine Readable Travel Documents WG3/filter/edges
+tmap.id:08e1e302-e41b-4a1f-8a1e-4d7e3ae8a36d
+type:text/vnd.tiddlywiki
+
+No body provided

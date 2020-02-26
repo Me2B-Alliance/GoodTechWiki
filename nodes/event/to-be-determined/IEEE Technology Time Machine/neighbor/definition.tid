@@ -1,0 +1,17 @@
+config.central-topic:06df4507-1054-4842-b664-4cde1454dbba
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534755
+id:3253a2c1-f337-427e-bd71-9c46be209067
+isview:false
+map.base:06df4507-1054-4842-b664-4cde1454dbba
+map.role:definition
+map.type:neighbor
+modified:1582714534755
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Technology Time Machine-map
+tmap.id:3253a2c1-f337-427e-bd71-9c46be209067
+type:text/vnd.tiddlywiki
+
+Neighbor Map of IEEE Technology Time Machine

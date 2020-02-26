@@ -1,0 +1,17 @@
+config.central-topic:ae8fad09-a121-40cb-86c6-67054e8d1936
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534937
+id:582cee40-34c0-4f1a-a418-b916ca7578ea
+isview:false
+map.base:ae8fad09-a121-40cb-86c6-67054e8d1936
+map.role:definition
+map.type:neighbor
+modified:1582714534937
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ALGORITHMIC ACCOUNTABILITY: A PRIMER'-map
+tmap.id:582cee40-34c0-4f1a-a418-b916ca7578ea
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ALGORITHMIC ACCOUNTABILITY: A PRIMER'

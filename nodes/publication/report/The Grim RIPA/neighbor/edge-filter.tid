@@ -1,0 +1,12 @@
+created:1582714534970
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:7cf1803b-0c18-4659-8875-e5ddc0d6835b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534970
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Grim RIPA/filter/edges
+tmap.id:cdf3ad2d-6d9c-42cc-b7e4-37a57a92a603
+type:text/vnd.tiddlywiki
+
+No body provided

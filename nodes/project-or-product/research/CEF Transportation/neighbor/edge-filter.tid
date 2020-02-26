@@ -1,0 +1,12 @@
+created:1582714534867
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d04b0fe7-6c64-4d15-a143-af505ee906fe
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534867
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Transportation/filter/edges
+tmap.id:a99ab152-85f9-499a-9877-a452f5079e5d
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:e151a262-7248-4d96-9c26-ce4c8943f5f6
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534909
+id:888882e1-e6f9-4847-9bcb-5fd8be766fdf
+isview:false
+map.base:e151a262-7248-4d96-9c26-ce4c8943f5f6
+map.role:definition
+map.type:neighbor
+modified:1582714534909
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Draft Investigatory Powers Bill Response – Joint Committee on Human Rights-map
+tmap.id:888882e1-e6f9-4847-9bcb-5fd8be766fdf
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Draft Investigatory Powers Bill Response – Joint Committee on Human Rights

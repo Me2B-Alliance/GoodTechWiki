@@ -1,0 +1,17 @@
+config.central-topic:a675aa5d-9b0d-4677-9dd9-eb50a7e6d70d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534909
+id:3c4814a9-ceb6-419b-86e8-79dcffb4c908
+isview:false
+map.base:a675aa5d-9b0d-4677-9dd9-eb50a7e6d70d
+map.role:definition
+map.type:neighbor
+modified:1582714534909
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consultation on the Safe Use of Drones in the UK – Big Brother Watch Response-map
+tmap.id:3c4814a9-ceb6-419b-86e8-79dcffb4c908
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Consultation on the Safe Use of Drones in the UK – Big Brother Watch Response

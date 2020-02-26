@@ -1,0 +1,17 @@
+config.central-topic:10f362a3-afc7-415c-9190-c9d3c351ddfe
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535011
+id:dea5c3e1-fd7c-4666-8a26-0927c5d7a457
+isview:false
+map.base:10f362a3-afc7-415c-9190-c9d3c351ddfe
+map.role:definition
+map.type:neighbor
+modified:1582714535011
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Protecting Individual Privacy in the Struggle Against Terrorists: A Framework for Program Assessment-map
+tmap.id:dea5c3e1-fd7c-4666-8a26-0927c5d7a457
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Protecting Individual Privacy in the Struggle Against Terrorists: A Framework for Program Assessment

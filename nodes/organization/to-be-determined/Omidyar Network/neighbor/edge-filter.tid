@@ -1,0 +1,12 @@
+created:1582714534820
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:94b92e48-f7f6-4c86-b7b6-e91e6f70ea6d
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534820
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Omidyar Network/filter/edges
+tmap.id:afef645e-8fa2-49f1-b58e-8dadd72290b8
+type:text/vnd.tiddlywiki
+
+No body provided

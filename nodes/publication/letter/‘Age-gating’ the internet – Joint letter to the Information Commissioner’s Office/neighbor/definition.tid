@@ -1,0 +1,17 @@
+config.central-topic:04df58ea-a8af-460e-97b9-0387ab5cf270
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534908
+id:58387a5b-bea2-4d1b-b23a-eaa0ccbadaea
+isview:false
+map.base:04df58ea-a8af-460e-97b9-0387ab5cf270
+map.role:definition
+map.type:neighbor
+modified:1582714534908
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/‘Age-gating’ the internet – Joint letter to the Information Commissioner’s Office-map
+tmap.id:58387a5b-bea2-4d1b-b23a-eaa0ccbadaea
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ‘Age-gating’ the internet – Joint letter to the Information Commissioner’s Office

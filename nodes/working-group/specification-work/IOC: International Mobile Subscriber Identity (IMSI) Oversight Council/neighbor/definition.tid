@@ -1,0 +1,17 @@
+config.central-topic:293b30de-25e9-435a-9396-9cccd2d8b1f7
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535033
+id:b4b94520-f7af-47f8-9abc-8b0de49b94f6
+isview:false
+map.base:293b30de-25e9-435a-9396-9cccd2d8b1f7
+map.role:definition
+map.type:neighbor
+modified:1582714535033
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IOC: International Mobile Subscriber Identity (IMSI) Oversight Council-map
+tmap.id:b4b94520-f7af-47f8-9abc-8b0de49b94f6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of IOC: International Mobile Subscriber Identity (IMSI) Oversight Council

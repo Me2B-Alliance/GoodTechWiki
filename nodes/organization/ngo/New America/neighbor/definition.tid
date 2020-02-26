@@ -1,0 +1,17 @@
+config.central-topic:331e5129-f8f0-4187-b9d0-138091feac65
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534788
+id:fcad0178-e4ca-407d-89cc-1b6385a387b5
+isview:false
+map.base:331e5129-f8f0-4187-b9d0-138091feac65
+map.role:definition
+map.type:neighbor
+modified:1582714534788
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/New America-map
+tmap.id:fcad0178-e4ca-407d-89cc-1b6385a387b5
+type:text/vnd.tiddlywiki
+
+Neighbor Map of New America

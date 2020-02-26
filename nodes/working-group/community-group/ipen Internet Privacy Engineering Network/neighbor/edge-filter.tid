@@ -1,0 +1,12 @@
+created:1582714535024
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:ffa2572c-2cd1-4bba-baaa-d6c21c2aa19b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535024
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ipen Internet Privacy Engineering Network/filter/edges
+tmap.id:127b2fbd-ea15-48ed-9fb3-a2f9f880c57f
+type:text/vnd.tiddlywiki
+
+No body provided

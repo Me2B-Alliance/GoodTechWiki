@@ -1,0 +1,17 @@
+config.central-topic:908d8be9-d83a-4c53-b960-ff0c2c016ecb
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534925
+id:b16ebbdc-9103-430f-a0c9-9b8f024ce49a
+isview:false
+map.base:908d8be9-d83a-4c53-b960-ff0c2c016ecb
+map.role:definition
+map.type:neighbor
+modified:1582714534925
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Introduction to DID Auth-map
+tmap.id:b16ebbdc-9103-430f-a0c9-9b8f024ce49a
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Introduction to DID Auth

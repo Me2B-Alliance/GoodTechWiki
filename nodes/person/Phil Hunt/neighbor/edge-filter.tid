@@ -1,0 +1,12 @@
+created:1582714534856
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:f07e1127-e7cd-43fa-8619-e24bbd45266f
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534856
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phil Hunt/filter/edges
+tmap.id:5bd41ee5-c581-476f-b659-5cd43589a231
+type:text/vnd.tiddlywiki
+
+No body provided

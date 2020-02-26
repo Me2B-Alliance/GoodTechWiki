@@ -1,0 +1,17 @@
+config.central-topic:9b5cccfa-b5f7-4288-88f6-26dd527c6dc6
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534753
+id:d4737462-56ca-40c7-9873-dd398899951b
+isview:false
+map.base:9b5cccfa-b5f7-4288-88f6-26dd527c6dc6
+map.role:definition
+map.type:neighbor
+modified:1582714534753
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACM Conference on Fairness, Accountability, and Transparency-map
+tmap.id:d4737462-56ca-40c7-9873-dd398899951b
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ACM Conference on Fairness, Accountability, and Transparency

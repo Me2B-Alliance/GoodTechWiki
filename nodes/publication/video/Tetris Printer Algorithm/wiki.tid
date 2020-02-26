@@ -1,0 +1,30 @@
+audience:
+authors.editors:[object Set]
+created:1582678071976
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071976
+name:Tetris Printer Algorithm
+publication.type:video
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:Tetris Printer Algorithm
+tmap.edges:{}
+tmap.id:a14d036d-9ad1-492c-a25c-81768887642c
+type:text/vnd.tiddlywiki
+url:https://www.youtube.com/watch?v=PJkHwulsac4
+version.or.edition:
+volume.frequency:
+working.group:
+
+This algorithm exploits the mechanics of the game Tetris to generate arbitrary images, based on a project to apply artificial intelligence to Tetris.
+

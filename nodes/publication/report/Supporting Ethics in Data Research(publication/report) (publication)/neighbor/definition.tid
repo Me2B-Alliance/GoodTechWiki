@@ -1,0 +1,17 @@
+config.central-topic:ff89295f-b07e-437c-aaff-36c839a4b344
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534968
+id:8887c254-af6f-4484-b110-d037941ad4e9
+isview:false
+map.base:ff89295f-b07e-437c-aaff-36c839a4b344
+map.role:definition
+map.type:neighbor
+modified:1582714534968
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Supporting Ethics in Data Research(publication/report) (publication)-map
+tmap.id:8887c254-af6f-4484-b110-d037941ad4e9
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Supporting Ethics in Data Research(publication/report) (publication)

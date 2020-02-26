@@ -1,0 +1,12 @@
+created:1582714534960
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:019d9a1e-07d2-4101-9c28-cfc35340c9de
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534960
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/NHS Data Breaches/filter/edges
+tmap.id:c22acbd1-325f-4e1e-addd-6b5ac9d0d463
+type:text/vnd.tiddlywiki
+
+No body provided

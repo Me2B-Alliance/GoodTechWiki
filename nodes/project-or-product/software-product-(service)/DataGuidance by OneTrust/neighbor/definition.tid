@@ -1,0 +1,17 @@
+config.central-topic:337ec7ab-173a-4a3c-a366-5ee985f432bb
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534888
+id:28acb35f-63bf-4582-bb16-47509430636c
+isview:false
+map.base:337ec7ab-173a-4a3c-a366-5ee985f432bb
+map.role:definition
+map.type:neighbor
+modified:1582714534888
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/DataGuidance by OneTrust-map
+tmap.id:28acb35f-63bf-4582-bb16-47509430636c
+type:text/vnd.tiddlywiki
+
+Neighbor Map of DataGuidance by OneTrust

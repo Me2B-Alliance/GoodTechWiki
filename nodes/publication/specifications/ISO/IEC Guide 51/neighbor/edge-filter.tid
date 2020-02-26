@@ -1,0 +1,12 @@
+created:1582714534997
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d17b5b7a-e190-4e44-9e5e-6b786ac1aab2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534997
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 51/filter/edges
+tmap.id:0c810231-677c-4044-bab8-cb40b43e5ec3
+type:text/vnd.tiddlywiki
+
+No body provided

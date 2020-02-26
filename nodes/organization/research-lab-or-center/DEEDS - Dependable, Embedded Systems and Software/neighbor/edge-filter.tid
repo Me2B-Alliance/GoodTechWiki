@@ -1,0 +1,12 @@
+created:1582714534806
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:a585999c-c2bf-4ceb-93d1-6529ca85bfee
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534806
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/DEEDS - Dependable, Embedded Systems and Software/filter/edges
+tmap.id:eeb74bb8-1fa7-4889-ad7a-ec04431325e9
+type:text/vnd.tiddlywiki
+
+No body provided

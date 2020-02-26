@@ -1,0 +1,17 @@
+config.central-topic:868961de-04fc-4da5-89c5-dc01a42f7fc0
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534799
+id:dc2f8a7d-232c-4c0f-b40a-3f957ef47585
+isview:false
+map.base:868961de-04fc-4da5-89c5-dc01a42f7fc0
+map.role:definition
+map.type:neighbor
+modified:1582714534799
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Directorate-General for Informatics (DIGIT)-map
+tmap.id:dc2f8a7d-232c-4c0f-b40a-3f957ef47585
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Directorate-General for Informatics (DIGIT)

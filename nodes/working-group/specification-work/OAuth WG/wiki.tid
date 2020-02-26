@@ -1,0 +1,35 @@
+activities:
+category:specification work
+created:1582678071713
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+modified:1582678071713
+name:OAuth WG
+parent.org:IETF
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tiddler.classification:node
+title:OAuth WG
+tmap.edges:{"92f471a2-e8ce-41f3-9b8a-ca1e5670e1c5":{"to":"e9ef5d73-40d4-4b2c-963c-228c95dd4820","type":"organization-for-group"}}
+tmap.id:24bff523-d47f-4907-8654-c5264f5db76a
+type:text/vnd.tiddlywiki
+url:http://oauth.net/
+
+https://datatracker.ietf.org/doc/rfc6749/
+
+The OAuth 2.0 authorization framework enables a third-party
+   application to obtain limited access to an HTTP service, either on
+   behalf of a resource owner by orchestrating an approval interaction
+   between the resource owner and the HTTP service, or by allowing the
+   third-party application to obtain access on its own behalf.  This
+   specification replaces and obsoletes the OAuth 1.0 protocol described
+   in RFC 5849.
+

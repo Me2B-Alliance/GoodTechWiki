@@ -1,0 +1,12 @@
+created:1582714534914
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:3b481e47-4c8b-4c0f-9db9-1b094f1949f5
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534914
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Analyzing Privacy Policies at Scale: From Crowdsourcing to Automated Annotations/filter/edges
+tmap.id:60c8f52f-9542-402a-a921-eba192593c2d
+type:text/vnd.tiddlywiki
+
+No body provided

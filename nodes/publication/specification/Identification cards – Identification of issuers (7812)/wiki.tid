@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071725
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+modified:1582678071725
+name:Identification cards – Identification of issuers (7812)
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
+tags:
+tech.focus:
+tiddler.classification:node
+title:Identification cards – Identification of issuers (7812)
+tmap.edges:{"fcb801f0-2203-439f-9fa4-0600fc9467ca":{"to":"5ce7007a-c78f-4958-bb4c-bc8f3d08a7d1","type":"specification-of-group"}}
+tmap.id:b9788967-9617-49bb-8661-eeb5e779d63d
+type:text/vnd.tiddlywiki
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+7812-1 This part of ISO/IEC 7812 specifies a numbering system for the identification of issuers of identification cards used in international and/or inter-industry interchange.
+7812-2 This part of ISO/IEC 7812 describes the application and registration procedures for numbers issued in accordance with ISO/IEC 7812-1.
+

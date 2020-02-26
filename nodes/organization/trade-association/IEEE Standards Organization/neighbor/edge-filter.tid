@@ -1,0 +1,12 @@
+created:1582714534834
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:cc838467-b6f9-4781-9921-e225893bbce6
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534834
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Standards Organization/filter/edges
+tmap.id:ae7469f0-7de7-4346-b558-31ea92a739a5
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:e50f90d7-3084-4289-9220-0045a090f4b0
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534936
+id:ddab3ffb-576c-4a32-b8d6-838ec9cf5200
+isview:false
+map.base:e50f90d7-3084-4289-9220-0045a090f4b0
+map.role:definition
+map.type:neighbor
+modified:1582714534936
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/2018 Ranking Digital Rights-map
+tmap.id:ddab3ffb-576c-4a32-b8d6-838ec9cf5200
+type:text/vnd.tiddlywiki
+
+Neighbor Map of 2018 Ranking Digital Rights

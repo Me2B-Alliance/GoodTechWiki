@@ -1,0 +1,17 @@
+config.central-topic:552dc070-a603-41db-9e29-e2c8fb307ab9
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534965
+id:4c1d4dca-aff2-4ae1-a647-5ad21e3657c6
+isview:false
+map.base:552dc070-a603-41db-9e29-e2c8fb307ab9
+map.role:definition
+map.type:neighbor
+modified:1582714534965
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security of Personal Data (report)-map
+tmap.id:4c1d4dca-aff2-4ae1-a647-5ad21e3657c6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Security of Personal Data (report)

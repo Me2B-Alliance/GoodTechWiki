@@ -1,0 +1,12 @@
+created:1582714535020
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:7c949d61-1bc2-46e7-9ce1-ab265e0241f6
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535020
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Computer Says No/filter/edges
+tmap.id:d86a198e-15dd-488b-a0ad-0e3f43bd4618
+type:text/vnd.tiddlywiki
+
+No body provided

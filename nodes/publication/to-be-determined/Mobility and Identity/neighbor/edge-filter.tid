@@ -1,0 +1,12 @@
+created:1582714535009
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d1fa65e3-7a42-4f3c-9051-ffa88e7b1aa3
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535009
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mobility and Identity/filter/edges
+tmap.id:36dc68b3-a221-4034-8fd7-32970b06259d
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:01ad34e3-38b6-4890-bc1a-6ac8953025ef
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534758
+id:3670e463-3611-4623-89f2-1a001245b819
+isview:false
+map.base:01ad34e3-38b6-4890-bc1a-6ac8953025ef
+map.role:definition
+map.type:neighbor
+modified:1582714534758
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/VoteID 2015-map
+tmap.id:3670e463-3611-4623-89f2-1a001245b819
+type:text/vnd.tiddlywiki
+
+Neighbor Map of VoteID 2015

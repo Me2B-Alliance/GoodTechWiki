@@ -1,0 +1,12 @@
+created:1582714534899
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:5cf91826-bca4-4fb4-a7a5-ec70baa7062c
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534899
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/NAI Code of Conduct/filter/edges
+tmap.id:d83d9e47-f57e-49af-9672-151e9fe8c219
+type:text/vnd.tiddlywiki
+
+No body provided

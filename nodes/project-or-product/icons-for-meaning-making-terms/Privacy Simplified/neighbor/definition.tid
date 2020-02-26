@@ -1,0 +1,17 @@
+config.central-topic:2ddb8bf0-99f8-402e-b91f-5e31d31edced
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534894
+id:570e1a0c-569d-41a5-94ce-dceb8ef7c29e
+isview:false
+map.base:2ddb8bf0-99f8-402e-b91f-5e31d31edced
+map.role:definition
+map.type:neighbor
+modified:1582714534894
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Simplified-map
+tmap.id:570e1a0c-569d-41a5-94ce-dceb8ef7c29e
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Privacy Simplified

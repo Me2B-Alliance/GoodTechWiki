@@ -1,0 +1,12 @@
+created:1582714534786
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:6b1269b2-4a51-44ec-b709-5e0ffc371df6
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534786
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gov2u/filter/edges
+tmap.id:eeb48f54-109f-429e-bb04-bd9f64e548ff
+type:text/vnd.tiddlywiki
+
+No body provided

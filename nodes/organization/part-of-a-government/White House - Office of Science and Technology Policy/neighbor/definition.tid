@@ -1,0 +1,17 @@
+config.central-topic:e7d2f0a4-7715-4a20-9cf1-0bccac261e2b
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534797
+id:efe71d25-3566-42e3-80e7-5447329fd097
+isview:false
+map.base:e7d2f0a4-7715-4a20-9cf1-0bccac261e2b
+map.role:definition
+map.type:neighbor
+modified:1582714534797
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/White House - Office of Science and Technology Policy-map
+tmap.id:efe71d25-3566-42e3-80e7-5447329fd097
+type:text/vnd.tiddlywiki
+
+Neighbor Map of White House - Office of Science and Technology Policy

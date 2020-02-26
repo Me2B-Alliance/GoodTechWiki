@@ -1,0 +1,17 @@
+config.central-topic:59e8b097-a349-41fc-848e-10920bb0795b
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535041
+id:4090370b-0265-454f-bb3d-c664a3f2f856
+isview:false
+map.base:59e8b097-a349-41fc-848e-10920bb0795b
+map.role:definition
+map.type:neighbor
+modified:1582714535041
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Platform Working Group-map
+tmap.id:4090370b-0265-454f-bb3d-c664a3f2f856
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Web Platform Working Group

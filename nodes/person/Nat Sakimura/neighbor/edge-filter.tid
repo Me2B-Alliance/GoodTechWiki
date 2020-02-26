@@ -1,0 +1,12 @@
+created:1582714534855
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:08421ccc-ef80-40f8-9508-a470715269c2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534855
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nat Sakimura/filter/edges
+tmap.id:05b865c9-eaaf-4000-9c8c-648316335bd9
+type:text/vnd.tiddlywiki
+
+No body provided

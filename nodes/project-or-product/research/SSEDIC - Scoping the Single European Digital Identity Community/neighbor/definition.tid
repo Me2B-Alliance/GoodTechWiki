@@ -1,0 +1,17 @@
+config.central-topic:15794d8f-d706-4b5d-a1ac-03a87a794300
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534875
+id:417ccecd-9088-4c60-99d2-4a82e94c849f
+isview:false
+map.base:15794d8f-d706-4b5d-a1ac-03a87a794300
+map.role:definition
+map.type:neighbor
+modified:1582714534875
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSEDIC - Scoping the Single European Digital Identity Community-map
+tmap.id:417ccecd-9088-4c60-99d2-4a82e94c849f
+type:text/vnd.tiddlywiki
+
+Neighbor Map of SSEDIC - Scoping the Single European Digital Identity Community

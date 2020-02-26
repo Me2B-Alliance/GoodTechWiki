@@ -1,0 +1,17 @@
+config.central-topic:15f39e39-d724-425f-bff8-9ac67e13d61d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534874
+id:01c81596-f18f-4aaa-a5f1-f0c319140de1
+isview:false
+map.base:15f39e39-d724-425f-bff8-9ac67e13d61d
+map.role:definition
+map.type:neighbor
+modified:1582714534874
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/NWCRG Network Coding Research Group-map
+tmap.id:01c81596-f18f-4aaa-a5f1-f0c319140de1
+type:text/vnd.tiddlywiki
+
+Neighbor Map of NWCRG Network Coding Research Group

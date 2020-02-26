@@ -1,0 +1,17 @@
+config.central-topic:a6cf580d-dc82-4efd-a9af-393885236d9f
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534971
+id:408ace51-e610-48f0-9381-91d7ac6b2726
+isview:false
+map.base:a6cf580d-dc82-4efd-a9af-393885236d9f
+map.role:definition
+map.type:neighbor
+modified:1582714534971
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Price of Privacy-map
+tmap.id:408ace51-e610-48f0-9381-91d7ac6b2726
+type:text/vnd.tiddlywiki
+
+Neighbor Map of The Price of Privacy

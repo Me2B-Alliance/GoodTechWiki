@@ -1,0 +1,12 @@
+created:1582714534970
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:83538a7f-0693-46c2-b8f4-ccd2cd7ca0d2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534970
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Network Uber Drivers Built/filter/edges
+tmap.id:cfd82dd0-32df-4aff-943b-5e20ffbf8414
+type:text/vnd.tiddlywiki
+
+No body provided

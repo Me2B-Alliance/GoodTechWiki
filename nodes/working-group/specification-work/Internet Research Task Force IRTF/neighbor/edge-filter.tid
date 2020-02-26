@@ -1,0 +1,12 @@
+created:1582714535036
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:f613cee6-fd8d-4309-8ac1-bda4e9982c15
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535036
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Research Task Force IRTF/filter/edges
+tmap.id:9f7e058a-7822-4347-863e-b8b4e9aafcd2
+type:text/vnd.tiddlywiki
+
+No body provided

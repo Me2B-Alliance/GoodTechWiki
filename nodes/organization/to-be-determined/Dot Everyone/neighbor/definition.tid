@@ -1,0 +1,17 @@
+config.central-topic:f71d49e9-0d0b-4962-a98d-565b663f3da8
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534814
+id:fdffd6aa-e6ca-4cbe-b77d-0525a233dba0
+isview:false
+map.base:f71d49e9-0d0b-4962-a98d-565b663f3da8
+map.role:definition
+map.type:neighbor
+modified:1582714534814
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dot Everyone-map
+tmap.id:fdffd6aa-e6ca-4cbe-b77d-0525a233dba0
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Dot Everyone

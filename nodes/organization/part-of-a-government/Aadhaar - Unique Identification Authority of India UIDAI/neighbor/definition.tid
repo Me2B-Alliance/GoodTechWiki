@@ -1,0 +1,17 @@
+config.central-topic:99a6c41d-c2c8-41c7-b7b4-794bf02d19da
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534793
+id:1612b54d-7273-4991-be37-a634d052a068
+isview:false
+map.base:99a6c41d-c2c8-41c7-b7b4-794bf02d19da
+map.role:definition
+map.type:neighbor
+modified:1582714534793
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Aadhaar - Unique Identification Authority of India UIDAI-map
+tmap.id:1612b54d-7273-4991-be37-a634d052a068
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Aadhaar - Unique Identification Authority of India UIDAI

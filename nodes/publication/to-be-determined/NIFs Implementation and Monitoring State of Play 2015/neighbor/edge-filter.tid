@@ -1,0 +1,12 @@
+created:1582714535010
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:c201aea2-40c0-459d-8ff2-130fa113e7cf
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535010
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/NIFs Implementation and Monitoring State of Play 2015/filter/edges
+tmap.id:23881756-dd36-4780-9439-65fa1bac1cb6
+type:text/vnd.tiddlywiki
+
+No body provided

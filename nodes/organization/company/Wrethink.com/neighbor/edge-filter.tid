@@ -1,0 +1,12 @@
+created:1582714534776
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:874dacc5-0d71-485e-9a29-09cd87ae4539
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534776
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Wrethink.com/filter/edges
+tmap.id:46a26072-7518-4219-88af-34bf457a35ef
+type:text/vnd.tiddlywiki
+
+No body provided

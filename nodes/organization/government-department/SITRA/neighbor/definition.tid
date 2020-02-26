@@ -1,0 +1,17 @@
+config.central-topic:faba690e-c36a-4cb8-a0e2-05b7d41cb525
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534783
+id:1e1dd834-c9c1-4610-976f-64525bf117d6
+isview:false
+map.base:faba690e-c36a-4cb8-a0e2-05b7d41cb525
+map.role:definition
+map.type:neighbor
+modified:1582714534783
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/SITRA-map
+tmap.id:1e1dd834-c9c1-4610-976f-64525bf117d6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of SITRA

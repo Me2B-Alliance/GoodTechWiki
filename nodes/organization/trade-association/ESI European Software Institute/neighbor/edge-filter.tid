@@ -1,0 +1,12 @@
+created:1582714534831
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:ebce1648-634f-4359-99ec-47a91decd56b
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534831
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ESI European Software Institute/filter/edges
+tmap.id:026b63ab-6467-4cdb-8380-ca66e41f940c
+type:text/vnd.tiddlywiki
+
+No body provided

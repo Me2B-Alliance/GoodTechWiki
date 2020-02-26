@@ -1,0 +1,12 @@
+created:1582714534852
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:1de6bc2e-ba35-453f-a50b-6506148e39fd
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534852
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Don Thibeau/filter/edges
+tmap.id:a8188c1a-208a-45fc-adb7-2e25a80ca973
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:4a7cf7d2-e38d-495d-a0c2-a292630a3c85
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534794
+id:613ad250-584b-41c6-879b-1eb47975f6e7
+isview:false
+map.base:4a7cf7d2-e38d-495d-a0c2-a292630a3c85
+map.role:definition
+map.type:neighbor
+modified:1582714534794
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ministry of Interior Republic of Serbia-map
+tmap.id:613ad250-584b-41c6-879b-1eb47975f6e7
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Ministry of Interior Republic of Serbia

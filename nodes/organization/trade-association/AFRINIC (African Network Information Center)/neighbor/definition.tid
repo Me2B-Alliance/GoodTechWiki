@@ -1,0 +1,17 @@
+config.central-topic:1bd66676-3e34-4209-9198-ea34d1062e6e
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534826
+id:a09a405f-c160-4d8a-b8b2-9b061b2aca09
+isview:false
+map.base:1bd66676-3e34-4209-9198-ea34d1062e6e
+map.role:definition
+map.type:neighbor
+modified:1582714534826
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/AFRINIC (African Network Information Center)-map
+tmap.id:a09a405f-c160-4d8a-b8b2-9b061b2aca09
+type:text/vnd.tiddlywiki
+
+Neighbor Map of AFRINIC (African Network Information Center)

@@ -1,0 +1,12 @@
+created:1582714534783
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:faba690e-c36a-4cb8-a0e2-05b7d41cb525
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534783
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/SITRA/filter/edges
+tmap.id:b2132c00-68bd-45c4-be94-33d6f03d5e15
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:910c229d-e654-478f-9c90-cad90fdfff84
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534885
+id:1ec3d782-d8c3-4d35-95cd-360a14e414a0
+isview:false
+map.base:910c229d-e654-478f-9c90-cad90fdfff84
+map.role:definition
+map.type:neighbor
+modified:1582714534885
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/AmIUnique(project-or-product/software product (application)) (project-or-product)-map
+tmap.id:1ec3d782-d8c3-4d35-95cd-360a14e414a0
+type:text/vnd.tiddlywiki
+
+Neighbor Map of AmIUnique(project-or-product/software product (application)) (project-or-product)

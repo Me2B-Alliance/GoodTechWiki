@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071973
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:https://github.com/WebOfTrustInfo/
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071973
+name:A Decentralized Approach to Blockcerts Credential Revocation
+publication.type:paper
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:A Decentralized Approach to Blockcerts Credential Revocation
+tmap.edges:{}
+tmap.id:f8e0864f-ddc3-4c6f-9960-91fa1a7341c4
+type:text/vnd.tiddlywiki
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Blockcerts are blockchain-anchored credentials with a verifcation process designed to be decentralized and trustless. This proposal describes an alternate Ethereum-based method of issuing Blockcerts that addresses knownlimitations in the current reference implementation. This approach allows revocation by issuer, recipient, or pre-defned party (guardian); enables revocation auditing; and is a compatible extension to the Blockcerts standard and verifcation process.
+

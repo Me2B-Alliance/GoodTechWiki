@@ -1,0 +1,17 @@
+config.central-topic:4fd6c7fc-a224-47b0-961e-d2e9b77afcac
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535026
+id:874e7ab5-630d-4786-a558-c789e25093a6
+isview:false
+map.base:4fd6c7fc-a224-47b0-961e-d2e9b77afcac
+map.role:definition
+map.type:neighbor
+modified:1582714535026
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Security Interest Group-map
+tmap.id:874e7ab5-630d-4786-a558-c789e25093a6
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Web Security Interest Group

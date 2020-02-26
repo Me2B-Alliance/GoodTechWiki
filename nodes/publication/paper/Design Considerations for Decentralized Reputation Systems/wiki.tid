@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071974
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:https://github.com/WebOfTrustInfo/
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071974
+name:Design Considerations for Decentralized Reputation Systems
+publication.type:paper
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:Design Considerations for Decentralized Reputation Systems
+tmap.edges:{}
+tmap.id:7f26e8c8-f48c-49b6-adc7-0078fe7827bf
+type:text/vnd.tiddlywiki
+url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/reputation-design.pdf
+version.or.edition:
+volume.frequency:
+working.group:
+
+Reputation systems provide an efective way to builda web of trust on the Internet. They consider the history of interactions between peers to establish a measure for a reputation that can itself be used to support a trust decision. Decentralised reputations systems (DRS) rely on a decentralised computer architecture and a distributed ledger to store and maintain reputation information, so that no single entity has control over that information.While there have been numerous analyses of how reputation may be used, there has to date been no systematic defnition of the various aspects that should be considered when a reputation system is being designed. By defning these design considerations, we can come to a consensus about what is and is not important in a system. We can discuss the diferent ways in which they can be built and we can conduct further research and analysis into specifc factors in a structured way.
+

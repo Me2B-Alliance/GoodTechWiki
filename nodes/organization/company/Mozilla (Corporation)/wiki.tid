@@ -1,0 +1,38 @@
+activities:[object Set]
+annual.budget:
+audience:
+created:1582678071964
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:organization
+funding:
+github.profile:https://github.com/mozilla
+input.source:me2b
+key.people:
+linkedin.profile:https://www.linkedin.com/company/mozilla-corporation/about/
+location(s):[object Set]
+me2b.relationship:
+modified:1582678071964
+org.name:Mozilla (Corporation)
+org.type:company
+parent.org:
+partners:
+products.and.or.services:
+purpose:
+relevant.publications:
+scope:global
+sector:for-profit
+status:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:Mozilla (Corporation)
+tmap.edges:{"fd6697b8-4013-4760-a57f-b98ac0a565cf":{"to":"d156c024-d31d-4445-adee-519ae915fc36","type":"Organization Supports Project or Product"}}
+tmap.id:250dfe87-a672-46e9-a1ee-b343ce72ac2f
+twitter.profile:
+type:text/vnd.tiddlywiki
+website:https://www.mozilla.org/
+
+Mozilla makes browsers, apps, code and tools that put people before profit.
+

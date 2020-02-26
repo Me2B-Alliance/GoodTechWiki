@@ -1,0 +1,17 @@
+config.central-topic:2477212d-57f6-49c1-b314-0178c70c3098
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534762
+id:d79b51c1-2e80-4312-85ce-30e661022839
+isview:false
+map.base:2477212d-57f6-49c1-b314-0178c70c3098
+map.role:definition
+map.type:neighbor
+modified:1582714534762
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Central Bank of Austria-map
+tmap.id:d79b51c1-2e80-4312-85ce-30e661022839
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Central Bank of Austria

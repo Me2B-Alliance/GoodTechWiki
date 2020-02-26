@@ -1,0 +1,17 @@
+config.central-topic:b970356c-c59a-46f3-898e-c506a930366f
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535007
+id:2605fe9b-e3d1-4064-b374-19bbbcbc39db
+isview:false
+map.base:b970356c-c59a-46f3-898e-c506a930366f
+map.role:definition
+map.type:neighbor
+modified:1582714535007
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/EthicalOS(publication/TO BE DETERMINED) (publication)-map
+tmap.id:2605fe9b-e3d1-4064-b374-19bbbcbc39db
+type:text/vnd.tiddlywiki
+
+Neighbor Map of EthicalOS(publication/TO BE DETERMINED) (publication)

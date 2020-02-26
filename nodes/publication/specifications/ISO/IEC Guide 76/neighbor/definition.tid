@@ -1,0 +1,17 @@
+config.central-topic:ef24b585-5473-4085-960b-d1342eb31d6d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534998
+id:f62ca5d6-5710-4b4d-a4b0-18b27ce5c828
+isview:false
+map.base:ef24b585-5473-4085-960b-d1342eb31d6d
+map.role:definition
+map.type:neighbor
+modified:1582714534998
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 76-map
+tmap.id:f62ca5d6-5710-4b4d-a4b0-18b27ce5c828
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ISO/IEC Guide 76

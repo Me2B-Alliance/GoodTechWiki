@@ -1,0 +1,31 @@
+audience:
+authors.editors:
+created:1582678071724
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+jurisdiction:
+license:
+modified:1582678071724
+name:Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:Integrated Circuit Cards with Contacts WG4
+tags:
+tech.focus:
+tiddler.classification:node
+title:Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)
+tmap.edges:{"7cdc25b5-da04-423d-95eb-cd26c39c97b7":{"to":"cbf6552d-1539-4218-823e-7cc26dfd3270","type":"specification-of-group"}}
+tmap.id:0580921c-d21e-4d4d-8616-2889376eaa83
+type:text/vnd.tiddlywiki
+url:
+version.or.edition:
+volume.frequency:
+working.group:
+
+This document is one of several documents containing the Implementation Specification of Europay’s Open Terminal Architecture. Other volumes in this series specify the Forth and C language programming interfaces, as well as the EMV application library and the Terminal Kernal Test Program (see related publications).
+The overall architecture of the Open Terminal Architecture is described in Appendix F, “System Architecture,” and is based on a Virtual Machine (VM) that can be programmed using high-level languages such as Forth or C. For compactness and efficiency a tokenised form has been developed for delivering compiled programs to terminals of all CPU types. This and other Virtual Machine related issues are explained in Section 3.
+This International Standard describes a set of functions to be implemented in terminals in terms of instructions for a Virtual Machine. With these functions the application programmer is able to generate application software that is compact, portable and certifiable on all OTA terminals.
+

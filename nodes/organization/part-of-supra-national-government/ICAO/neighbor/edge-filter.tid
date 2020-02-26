@@ -1,0 +1,12 @@
+created:1582714534804
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d3b99f8d-efcd-4c28-9045-77f1036c79f6
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534804
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICAO/filter/edges
+tmap.id:6a8cab9d-29a2-4296-be66-d874f637cb64
+type:text/vnd.tiddlywiki
+
+No body provided

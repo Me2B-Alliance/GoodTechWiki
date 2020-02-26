@@ -1,0 +1,17 @@
+config.central-topic:7de08c68-6bb7-4d2d-b880-c5c2dabc66f0
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535019
+id:dc20e272-17bd-4640-8ae1-c344f06f7b79
+isview:false
+map.base:7de08c68-6bb7-4d2d-b880-c5c2dabc66f0
+map.role:definition
+map.type:neighbor
+modified:1582714535019
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CAPrice - Collective Awareness Platform for Privacy Concerns and Expectations (with subtitles)-map
+tmap.id:dc20e272-17bd-4640-8ae1-c344f06f7b79
+type:text/vnd.tiddlywiki
+
+Neighbor Map of CAPrice - Collective Awareness Platform for Privacy Concerns and Expectations (with subtitles)

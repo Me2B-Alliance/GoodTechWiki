@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071977
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071977
+name:did:web method
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:did:web method
+tmap.edges:{}
+tmap.id:cc7029c9-4000-4e2b-a950-aba0c2d72b2a
+type:text/vnd.tiddlywiki
+url:https://github.com/w3c-ccg/did-method-web
+version.or.edition:
+volume.frequency:
+working.group:
+
+DIDs that target a distributed ledger face significant practical challenges in bootstrapping enough meaningful trusted data around identities to incentivize mass adoption. We propose using a new DID method in conjunction with blockchain-based DIDs that allows them to bootstrap trust using a web domain’s existing reputation.
+

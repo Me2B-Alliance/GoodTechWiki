@@ -1,0 +1,17 @@
+config.central-topic:c195f082-9f8d-442b-9daa-7d56db09fa80
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534870
+id:e1574ffd-9b90-4d3d-9fac-aae6d644532e
+isview:false
+map.base:c195f082-9f8d-442b-9daa-7d56db09fa80
+map.role:definition
+map.type:neighbor
+modified:1582714534870
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future Trust-map
+tmap.id:e1574ffd-9b90-4d3d-9fac-aae6d644532e
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Future Trust

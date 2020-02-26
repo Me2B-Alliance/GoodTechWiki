@@ -1,0 +1,17 @@
+config.central-topic:1dfbd664-8d6b-4d45-9c7c-7c9215130aec
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534977
+id:692e59da-b4f5-446d-b980-7eed5ffa161d
+isview:false
+map.base:1dfbd664-8d6b-4d45-9c7c-7c9215130aec
+map.role:definition
+map.type:neighbor
+modified:1582714534977
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Uber May Have Imposed 12-Hour Driving Limits, but It’s Still Pushing Drivers in Other Troubling Ways-map
+tmap.id:692e59da-b4f5-446d-b980-7eed5ffa161d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Uber May Have Imposed 12-Hour Driving Limits, but It’s Still Pushing Drivers in Other Troubling Ways

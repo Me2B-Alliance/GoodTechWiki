@@ -1,0 +1,12 @@
+created:1582714534780
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:bde7887e-925d-4c3d-b28e-13e6b15231fd
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534780
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Government/filter/edges
+tmap.id:7b72c7af-eb4f-4a20-91c8-94573743ff70
+type:text/vnd.tiddlywiki
+
+No body provided

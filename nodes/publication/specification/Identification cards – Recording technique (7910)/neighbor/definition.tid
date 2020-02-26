@@ -1,0 +1,17 @@
+config.central-topic:84e4dce8-f5b0-498b-8dc8-2cf63043b64a
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534989
+id:fc1e02a0-5b64-4ff2-97b8-985afb1c12ba
+isview:false
+map.base:84e4dce8-f5b0-498b-8dc8-2cf63043b64a
+map.role:definition
+map.type:neighbor
+modified:1582714534989
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Recording technique (7910)-map
+tmap.id:fc1e02a0-5b64-4ff2-97b8-985afb1c12ba
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Identification cards – Recording technique (7910)

@@ -1,0 +1,12 @@
+created:1582714534767
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:1c44e29b-8253-4b4a-b79d-ac11d0fff18f
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534767
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Illumila/filter/edges
+tmap.id:cd9d6f6a-9714-4b5a-8464-33a1475137fc
+type:text/vnd.tiddlywiki
+
+No body provided

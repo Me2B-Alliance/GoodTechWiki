@@ -1,0 +1,17 @@
+config.central-topic:fde7e817-44ab-4e53-8471-b815e42b8c92
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534883
+id:5410febb-c40e-42c1-be1b-efba7e6fa7db
+isview:false
+map.base:fde7e817-44ab-4e53-8471-b815e42b8c92
+map.role:definition
+map.type:neighbor
+modified:1582714534883
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc GDPR Validation-map
+tmap.id:5410febb-c40e-42c1-be1b-efba7e6fa7db
+type:text/vnd.tiddlywiki
+
+Neighbor Map of TrustArc GDPR Validation

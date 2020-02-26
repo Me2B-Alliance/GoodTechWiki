@@ -1,0 +1,12 @@
+created:1582714534993
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:40834b4f-9215-44c7-8b3b-62ed99aeaac1
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534993
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Payment App API/filter/edges
+tmap.id:99de1bb8-348d-4f6c-a478-bf7608b5d242
+type:text/vnd.tiddlywiki
+
+No body provided

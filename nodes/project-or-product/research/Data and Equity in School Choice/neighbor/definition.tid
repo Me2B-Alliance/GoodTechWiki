@@ -1,0 +1,17 @@
+config.central-topic:28d6f65d-fcca-40ea-bea4-cd03d4909322
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534868
+id:6c4d4ddb-c640-43e4-a99f-d3351899e004
+isview:false
+map.base:28d6f65d-fcca-40ea-bea4-cd03d4909322
+map.role:definition
+map.type:neighbor
+modified:1582714534868
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data and Equity in School Choice-map
+tmap.id:6c4d4ddb-c640-43e4-a99f-d3351899e004
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Data and Equity in School Choice

@@ -1,0 +1,12 @@
+created:1582714534818
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:06638557-8e1a-46f4-be0d-6c013e8f0a9c
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534818
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MIT Media Lab/filter/edges
+tmap.id:6e6849b3-8cb5-4b3d-abd3-744540e3bf82
+type:text/vnd.tiddlywiki
+
+No body provided

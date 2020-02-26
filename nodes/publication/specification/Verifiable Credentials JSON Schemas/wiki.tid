@@ -1,0 +1,30 @@
+audience:
+authors.editors:
+created:1582678071977
+date:
+digital.harms.addressed:
+element.type:publication
+github.profile:
+input.source:me2b
+jurisdiction:
+license:
+modified:1582678071977
+name:Verifiable Credentials JSON Schemas
+publication.type:specification
+purpose:
+sector:
+sponsoring.org:
+tags:[object Set]
+tech.focus:
+tiddler.classification:node
+title:Verifiable Credentials JSON Schemas
+tmap.edges:{}
+tmap.id:90200893-8fd5-488d-b4cf-89221d325cf2
+type:text/vnd.tiddlywiki
+url:https://github.com/w3c-ccg/vc-json-schemas
+version.or.edition:
+volume.frequency:
+working.group:
+
+The [VC_DATA_MODEL] specifies the models used for Verifiable Credentials and Verifiable Presentations, and explains the relationships between three parties: issuer, holder, and verifier. A critical piece of infrastructure out of the scope of those specifications is the Credential Schema. This specification provides a mechanism to express a Credential Schema and the protocols for evolving the schema.
+

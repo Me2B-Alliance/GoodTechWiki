@@ -1,0 +1,12 @@
+created:1582714534980
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:7baf5ca3-5e28-405e-8aa7-1539198d71a5
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534980
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/When Humans Attack/filter/edges
+tmap.id:e2e3f072-e947-4fea-812a-6b3c25cccd8d
+type:text/vnd.tiddlywiki
+
+No body provided

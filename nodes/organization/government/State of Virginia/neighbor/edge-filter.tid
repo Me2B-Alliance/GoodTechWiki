@@ -1,0 +1,12 @@
+created:1582714534781
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:a0594b6d-1c0d-46f8-8061-b27ce38cbb6a
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534781
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/State of Virginia/filter/edges
+tmap.id:ea10ba3a-b543-4bff-9d0f-8e917f62110e
+type:text/vnd.tiddlywiki
+
+No body provided

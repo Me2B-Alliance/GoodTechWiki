@@ -1,0 +1,17 @@
+config.central-topic:4a23ba2c-6b4e-42f2-b4e8-1122d4eb4ad9
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534925
+id:efe8de1e-31cb-415e-b24e-c8326dbe6dc0
+isview:false
+map.base:4a23ba2c-6b4e-42f2-b4e8-1122d4eb4ad9
+map.role:definition
+map.type:neighbor
+modified:1582714534925
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Joram 1.0.0-map
+tmap.id:efe8de1e-31cb-415e-b24e-c8326dbe6dc0
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Joram 1.0.0

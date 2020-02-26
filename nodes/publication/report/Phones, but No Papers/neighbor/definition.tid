@@ -1,0 +1,17 @@
+config.central-topic:fde1aae4-3221-4052-a46c-062dacfdc2df
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534962
+id:05e11046-0855-49c1-beca-1fc1a5dfcdcc
+isview:false
+map.base:fde1aae4-3221-4052-a46c-062dacfdc2df
+map.role:definition
+map.type:neighbor
+modified:1582714534962
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phones, but No Papers-map
+tmap.id:05e11046-0855-49c1-beca-1fc1a5dfcdcc
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Phones, but No Papers

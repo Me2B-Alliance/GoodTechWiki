@@ -1,0 +1,17 @@
+config.central-topic:2677bc3c-962f-44b0-ada9-84d39d3fa131
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534821
+id:e70cd504-1a42-4086-81a8-2e43cd886104
+isview:false
+map.base:2677bc3c-962f-44b0-ada9-84d39d3fa131
+map.role:definition
+map.type:neighbor
+modified:1582714534821
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Principles for Digital Development-map
+tmap.id:e70cd504-1a42-4086-81a8-2e43cd886104
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Principles for Digital Development

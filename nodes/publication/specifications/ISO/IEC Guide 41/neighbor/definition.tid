@@ -1,0 +1,17 @@
+config.central-topic:61dec10d-1d9e-46fb-a339-5eb8b131c975
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534997
+id:08a52277-860f-4b94-aa66-0821d5491753
+isview:false
+map.base:61dec10d-1d9e-46fb-a339-5eb8b131c975
+map.role:definition
+map.type:neighbor
+modified:1582714534997
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 41-map
+tmap.id:08a52277-860f-4b94-aa66-0821d5491753
+type:text/vnd.tiddlywiki
+
+Neighbor Map of ISO/IEC Guide 41

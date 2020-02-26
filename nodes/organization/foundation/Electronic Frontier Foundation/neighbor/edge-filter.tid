@@ -1,0 +1,12 @@
+created:1582714534778
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:1c797f8c-ec99-4bb7-bca2-91403818d97e
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534778
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Frontier Foundation/filter/edges
+tmap.id:f5e0af07-b5c7-4c3c-bd0d-4fb57dfe8fe0
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,17 @@
+config.central-topic:b7619fc0-f28f-4962-a68d-beaadebcf0a3
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534901
+id:99a8ee8e-7ac2-42dd-9571-5dea159b3c19
+isview:false
+map.base:b7619fc0-f28f-4962-a68d-beaadebcf0a3
+map.role:definition
+map.type:neighbor
+modified:1582714534901
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms in decision-making inquiry – Big Brother Watch’s written evidence to the Science and Technology Committee-map
+tmap.id:99a8ee8e-7ac2-42dd-9571-5dea159b3c19
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Algorithms in decision-making inquiry – Big Brother Watch’s written evidence to the Science and Technology Committee

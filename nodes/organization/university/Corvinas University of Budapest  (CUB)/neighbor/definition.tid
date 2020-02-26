@@ -1,0 +1,17 @@
+config.central-topic:8970b805-53cb-4280-924d-d9022e37aa29
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534846
+id:8b5a7ec0-beb1-4393-b9f1-6e4dff210350
+isview:false
+map.base:8970b805-53cb-4280-924d-d9022e37aa29
+map.role:definition
+map.type:neighbor
+modified:1582714534846
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Corvinas University of Budapest  (CUB)-map
+tmap.id:8b5a7ec0-beb1-4393-b9f1-6e4dff210350
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Corvinas University of Budapest  (CUB)

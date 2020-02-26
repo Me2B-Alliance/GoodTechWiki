@@ -1,0 +1,17 @@
+config.central-topic:e587fd4c-28a4-4bfc-b85d-9f00a17bc5e8
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534838
+id:ad3cd5be-ead9-480e-9e5c-1dc6eca49a0d
+isview:false
+map.base:e587fd4c-28a4-4bfc-b85d-9f00a17bc5e8
+map.role:definition
+map.type:neighbor
+modified:1582714534838
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Netnod-map
+tmap.id:ad3cd5be-ead9-480e-9e5c-1dc6eca49a0d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Netnod

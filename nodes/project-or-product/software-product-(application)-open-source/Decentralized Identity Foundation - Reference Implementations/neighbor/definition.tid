@@ -1,0 +1,17 @@
+config.central-topic:c7e0f9c3-1e3c-45e1-8a13-1b9d5c83de69
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534862
+id:f9228980-134f-4f87-b9cf-28df0030f95d
+isview:false
+map.base:c7e0f9c3-1e3c-45e1-8a13-1b9d5c83de69
+map.role:definition
+map.type:neighbor
+modified:1582714534862
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identity Foundation - Reference Implementations-map
+tmap.id:f9228980-134f-4f87-b9cf-28df0030f95d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Decentralized Identity Foundation - Reference Implementations

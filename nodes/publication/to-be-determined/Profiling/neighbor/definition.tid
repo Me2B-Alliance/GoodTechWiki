@@ -1,0 +1,17 @@
+config.central-topic:8f4ad306-91fd-42cf-90f6-8360a31a93b3
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535011
+id:ef20288d-41f3-4ba7-964f-7da48e403640
+isview:false
+map.base:8f4ad306-91fd-42cf-90f6-8360a31a93b3
+map.role:definition
+map.type:neighbor
+modified:1582714535011
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Profiling-map
+tmap.id:ef20288d-41f3-4ba7-964f-7da48e403640
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Profiling

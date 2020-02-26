@@ -1,0 +1,39 @@
+activities:
+audience:
+category:research
+created:1582678071732
+date.begun:
+date.ended:
+digital.harms.addressed:
+element.type:project-or-product
+github.profile:
+license:
+me2b.participation:
+modified:1582678071732
+name:NMRG Network Management Research Group
+parent.org:
+partners:
+people:
+purpose:
+relevant.publications:
+status:
+supported.identity.technologies:
+tags:
+terms.of.service:
+tiddler.classification:node
+title:NMRG Network Management Research Group
+tmap.edges:{"5add1211-9892-4be8-a4fd-c7a59ab3b3a0":{"to":"f613cee6-fd8d-4309-8ac1-bda4e9982c15","type":"organization-for-group"}}
+tmap.id:c6278561-2e0c-40d9-94ae-9a35ffaf87d0
+type:text/vnd.tiddlywiki
+url:https://irtf.org/nmrg
+version.or.edition:
+working.group:
+
+The Network Management Research Group (NMRG) provides a forum for researchers to explore new technologies for the management of the Internet. In particular, the NMRG will work on solutions for problems that are not yet considered well understood enough for engineering work within the IETF.
+
+The initial focus of the NMRG will be on higher-layer management services that interface with the current Internet management framework. This includes communication services between management systems, which may belong to different management domains, as well as customer-oriented management services. The NMRG is expected to identify and document requirements, to survey possible approaches, to provide specifications for proposed solutions, and to prove concepts with prototype implementations that can be tested in large-scale real-world environments.
+
+The IETF Operations and Management Area Directors are members of the NMRG mailing list and invited to NMRG meetings in order to ensure free flow of information in both directions, and to avoid duplication of work with the various IETF working groups.
+
+The group will report its progress through a publicly accessible web site and presentations at IETF meetings. Specifications developed by the NMRG will be submitted for publication as Experimental or Informational RFCs.
+

@@ -1,0 +1,12 @@
+created:1582714535031
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:81b3def8-253a-49bd-ae75-4fe048d91c4d
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535031
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cryptography and Security Mechanisms WG2/filter/edges
+tmap.id:c30268d0-1b03-42d6-95b8-a3ee0961b175
+type:text/vnd.tiddlywiki
+
+No body provided

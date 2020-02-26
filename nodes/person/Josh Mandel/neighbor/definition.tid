@@ -1,0 +1,17 @@
+config.central-topic:4e370218-5dbe-4dcd-ae67-b5db981714bb
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534854
+id:edabaeb2-3c85-4fc3-ae3d-cb13691f9395
+isview:false
+map.base:4e370218-5dbe-4dcd-ae67-b5db981714bb
+map.role:definition
+map.type:neighbor
+modified:1582714534854
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Josh Mandel-map
+tmap.id:edabaeb2-3c85-4fc3-ae3d-cb13691f9395
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Josh Mandel

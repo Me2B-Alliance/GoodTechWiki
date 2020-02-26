@@ -1,0 +1,17 @@
+config.central-topic:8d586557-80db-452e-b470-4037030d3e3d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534923
+id:5201889a-55d3-414d-8d0a-f719d3c4733c
+isview:false
+map.base:8d586557-80db-452e-b470-4037030d3e3d
+map.role:definition
+map.type:neighbor
+modified:1582714534923
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IPLD as a general pattern for DID documents and Verifiable Claims-map
+tmap.id:5201889a-55d3-414d-8d0a-f719d3c4733c
+type:text/vnd.tiddlywiki
+
+Neighbor Map of IPLD as a general pattern for DID documents and Verifiable Claims

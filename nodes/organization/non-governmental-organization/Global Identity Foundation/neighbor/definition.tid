@@ -1,0 +1,17 @@
+config.central-topic:341cfc4b-17ec-4c1b-ac23-556c563df202
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534791
+id:1d289e1a-4654-4f13-8c56-a0be94a50e91
+isview:false
+map.base:341cfc4b-17ec-4c1b-ac23-556c563df202
+map.role:definition
+map.type:neighbor
+modified:1582714534791
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Identity Foundation-map
+tmap.id:1d289e1a-4654-4f13-8c56-a0be94a50e91
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Global Identity Foundation

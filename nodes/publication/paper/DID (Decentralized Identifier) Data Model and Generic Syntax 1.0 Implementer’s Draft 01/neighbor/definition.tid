@@ -1,0 +1,17 @@
+config.central-topic:ce404b28-c2bb-4a48-9df8-0b4dccb888ef
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534916
+id:4a262746-8fe7-4e9f-9cfa-0e67e1287404
+isview:false
+map.base:ce404b28-c2bb-4a48-9df8-0b4dccb888ef
+map.role:definition
+map.type:neighbor
+modified:1582714534916
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01-map
+tmap.id:4a262746-8fe7-4e9f-9cfa-0e67e1287404
+type:text/vnd.tiddlywiki
+
+Neighbor Map of DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01

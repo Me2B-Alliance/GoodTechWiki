@@ -1,0 +1,12 @@
+created:1582714535033
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:878a68ab-c211-4a33-8613-2cd578853989
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535033
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Future Directions Committee/filter/edges
+tmap.id:13b6981c-389d-4735-9803-0d0b90fc4346
+type:text/vnd.tiddlywiki
+
+No body provided

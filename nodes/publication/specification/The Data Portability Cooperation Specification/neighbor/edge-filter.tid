@@ -1,0 +1,12 @@
+created:1582714534994
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:6fd1af17-1119-4d13-97e1-b0d73183ccb2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534994
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Data Portability Cooperation Specification/filter/edges
+tmap.id:44eddadb-81a8-4cbe-80e8-792723e2deb7
+type:text/vnd.tiddlywiki
+
+No body provided

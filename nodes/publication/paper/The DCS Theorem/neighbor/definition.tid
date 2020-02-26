@@ -1,0 +1,17 @@
+config.central-topic:33cd3076-4f90-457c-94af-0134d8cf63b2
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534933
+id:34c9791c-5e12-4aa2-ba25-2f716b534c1c
+isview:false
+map.base:33cd3076-4f90-457c-94af-0134d8cf63b2
+map.role:definition
+map.type:neighbor
+modified:1582714534933
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The DCS Theorem-map
+tmap.id:34c9791c-5e12-4aa2-ba25-2f716b534c1c
+type:text/vnd.tiddlywiki
+
+Neighbor Map of The DCS Theorem

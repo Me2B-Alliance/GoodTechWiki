@@ -1,0 +1,12 @@
+created:1582714534771
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:320bf891-98d5-4fd6-8de6-8db4d01a22ea
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534771
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Post Office/filter/edges
+tmap.id:f30e09f3-345a-4dfc-9894-eef033b724b8
+type:text/vnd.tiddlywiki
+
+No body provided

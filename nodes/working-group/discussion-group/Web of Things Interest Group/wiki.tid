@@ -1,0 +1,29 @@
+activities:
+category:discussion group
+created:1582678071764
+date.ended:
+date.founded:
+digital.harms.addressed:
+element.type:working-group
+github.profile:
+ipr:
+meeting.frequency:
+modified:1582678071764
+name:Web of Things Interest Group
+parent.org:
+people:
+purpose:
+relevant.standards:
+status:
+tech.focus:
+tiddler.classification:node
+title:Web of Things Interest Group
+tmap.edges:{"ccef42ae-0511-4308-a747-4696b43d9811":{"to":"a83d5782-0887-4288-bbb4-6bb75f065b8f","type":"organization-for-group"},"bda6fd95-b118-47b1-9868-24feaa525867":{"to":"b53890cf-b186-43b9-8be0-cca07cc70f30","type":"connection"}}
+tmap.id:f02f7ee5-efc3-4e18-a2fe-f4a299478429
+type:text/vnd.tiddlywiki
+url:https://www.w3.org/wot/ig/
+
+The Internet of Things (IoT) suffers from a lack of interoperability across platforms. As a result developers are faced with data silos, high costs and limited market potential. This can be likened to the situation before the Internet when there were competing non-interoperable networking technologies. The Internet makes it easy to develop networked applications independently of those technologies. W3C is seeking to do the same for the Internet of Things.
+
+To achieve this goal, we need platform independent APIs for application developers, and a means for different platforms to discover how to inter-operate with one another. The approach we are taking is based upon rich metadata that describes the data and interaction models exposed to applications, and the communications and security requirements for platforms to communicate effectively. A further aspect is the need to enable platforms to share the same meaning when they exchange data. We are therefore seeking to enable expression of the semantics of things and the domain constraints associated with them, building upon W3C's extensive work on RDF and Linked Data.
+

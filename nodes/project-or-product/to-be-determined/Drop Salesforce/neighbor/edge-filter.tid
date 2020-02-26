@@ -1,0 +1,12 @@
+created:1582714534895
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d0e0cda2-5179-40b4-97e0-9cb856d57c23
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534895
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Drop Salesforce/filter/edges
+tmap.id:a368b26b-9c79-49d7-acdf-f06500ed3375
+type:text/vnd.tiddlywiki
+
+No body provided

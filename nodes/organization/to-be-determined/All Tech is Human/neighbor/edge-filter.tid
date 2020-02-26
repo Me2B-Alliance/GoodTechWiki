@@ -1,0 +1,12 @@
+created:1582714534810
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:c35c8c20-642c-4ae1-8685-58fc276c286d
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534810
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/All Tech is Human/filter/edges
+tmap.id:b9c814e7-bbd3-4a1e-9bec-77f715c30c9e
+type:text/vnd.tiddlywiki
+
+No body provided

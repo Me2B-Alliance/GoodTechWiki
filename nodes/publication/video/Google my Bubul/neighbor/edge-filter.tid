@@ -1,0 +1,12 @@
+created:1582714535019
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:e9759226-de42-46cd-baa5-4ee95873e53a
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535019
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Google my Bubul/filter/edges
+tmap.id:21fe4745-91d5-4ec1-ab08-5d2f5401cc43
+type:text/vnd.tiddlywiki
+
+No body provided

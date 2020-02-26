@@ -1,0 +1,17 @@
+config.central-topic:0efb9a79-0cdf-4dbc-a1fc-aec6702ba74f
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534779
+id:b8a641af-0450-406e-826c-93381cd78abe
+isview:false
+map.base:0efb9a79-0cdf-4dbc-a1fc-aec6702ba74f
+map.role:definition
+map.type:neighbor
+modified:1582714534779
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Data Foundation-map
+tmap.id:b8a641af-0450-406e-826c-93381cd78abe
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Open Data Foundation

@@ -1,0 +1,17 @@
+config.central-topic:e61c6566-2e84-428f-8879-6c68582843e0
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714535034
+id:9b7c82b0-cd3c-4d76-b2c5-b567b30adcca
+isview:false
+map.base:e61c6566-2e84-428f-8879-6c68582843e0
+map.role:definition
+map.type:neighbor
+modified:1582714535034
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Verification Project-map
+tmap.id:9b7c82b0-cd3c-4d76-b2c5-b567b30adcca
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Identity Verification Project

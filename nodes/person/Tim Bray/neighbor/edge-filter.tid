@@ -1,0 +1,12 @@
+created:1582714534859
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:fffc62c9-1103-4457-816a-2266f04d20a5
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534859
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tim Bray/filter/edges
+tmap.id:e7d83bc1-d5aa-4df4-99f8-50359a6944fc
+type:text/vnd.tiddlywiki
+
+No body provided

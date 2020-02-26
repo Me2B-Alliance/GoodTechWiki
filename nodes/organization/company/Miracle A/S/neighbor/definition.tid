@@ -1,0 +1,17 @@
+config.central-topic:333c6172-9b68-4972-8918-84e55c2de5f3
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534769
+id:4aefaf43-7852-41ac-ad38-f44be5a086b7
+isview:false
+map.base:333c6172-9b68-4972-8918-84e55c2de5f3
+map.role:definition
+map.type:neighbor
+modified:1582714534769
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Miracle A/S-map
+tmap.id:4aefaf43-7852-41ac-ad38-f44be5a086b7
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Miracle A/S

@@ -1,0 +1,12 @@
+created:1582714534916
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:b8199faa-f2af-4fb5-ab88-c585d98c9e95
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534916
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Empirical Analysis of Website Data Deletion and Opt-Out Choices/filter/edges
+tmap.id:cddcda18-7fe4-4667-9d7a-bde1ad469d16
+type:text/vnd.tiddlywiki
+
+No body provided

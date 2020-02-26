@@ -1,0 +1,12 @@
+created:1582714535033
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:db3afbc1-69aa-43e9-b152-a9813b37a839
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535033
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Group Security Research Group/filter/edges
+tmap.id:df576c3c-9eb9-4a1f-9259-24e4a2cf6ea2
+type:text/vnd.tiddlywiki
+
+No body provided

@@ -1,0 +1,12 @@
+created:1582714535013
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:0e120250-507a-46a7-84db-a6b2938d1dae
+map.role:edge-filter
+map.type:neighbor
+modified:1582714535013
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Cyberspace/filter/edges
+tmap.id:d062e6de-6865-4cd5-b322-9a82eec9aead
+type:text/vnd.tiddlywiki
+
+No body provided

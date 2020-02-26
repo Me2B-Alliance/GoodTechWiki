@@ -1,0 +1,17 @@
+config.central-topic:14fef23a-6f67-4807-b5ee-f1d1a5715999
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534886
+id:9bdf134b-5757-4d20-8939-ebe949660f3d
+isview:false
+map.base:14fef23a-6f67-4807-b5ee-f1d1a5715999
+map.role:definition
+map.type:neighbor
+modified:1582714534886
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Project VRM - Development-map
+tmap.id:9bdf134b-5757-4d20-8939-ebe949660f3d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Project VRM - Development

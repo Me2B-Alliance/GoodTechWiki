@@ -1,0 +1,12 @@
+created:1582714534838
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:37ead440-2d20-403a-a913-dac442dfa2c2
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534838
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OIX-UK/filter/edges
+tmap.id:87650b8c-9960-47d4-b415-b76c6bb59329
+type:text/vnd.tiddlywiki
+
+No body provided

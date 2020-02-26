@@ -1,0 +1,17 @@
+config.central-topic:2e7ba137-4a55-456c-9983-bc292e1a9f9e
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534794
+id:ee305b98-2415-4852-92a5-c842500dc405
+isview:false
+map.base:2e7ba137-4a55-456c-9983-bc292e1a9f9e
+map.role:definition
+map.type:neighbor
+modified:1582714534794
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Government Digital Service-map
+tmap.id:ee305b98-2415-4852-92a5-c842500dc405
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Government Digital Service

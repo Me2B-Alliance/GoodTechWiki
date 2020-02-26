@@ -1,0 +1,12 @@
+created:1582714534807
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:fa8cf580-7d08-4989-9ad4-90e91c630460
+map.role:edge-filter
+map.type:neighbor
+modified:1582714534807
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Center for Internet and Society/filter/edges
+tmap.id:ff4dba25-c75a-4227-afc6-af3b3f266f12
+type:text/vnd.tiddlywiki
+
+No body provided

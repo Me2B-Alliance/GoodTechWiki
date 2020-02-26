@@ -1,0 +1,17 @@
+config.central-topic:d1f3235f-b14f-4471-a6f8-879c99808afe
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534901
+id:e875815d-061b-487a-8c31-89afbc47ef8e
+isview:false
+map.base:d1f3235f-b14f-4471-a6f8-879c99808afe
+map.role:definition
+map.type:neighbor
+modified:1582714534901
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Briefing on the Digital Economy Bill Part 5: Digital Government-map
+tmap.id:e875815d-061b-487a-8c31-89afbc47ef8e
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Briefing on the Digital Economy Bill Part 5: Digital Government

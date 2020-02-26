@@ -1,0 +1,17 @@
+config.central-topic:82cadbd1-f8f4-44c3-84de-da95e4985dbd
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534843
+id:adc96036-0751-4ae6-8a6d-5934165a1904
+isview:false
+map.base:82cadbd1-f8f4-44c3-84de-da95e4985dbd
+map.role:definition
+map.type:neighbor
+modified:1582714534843
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/RIPE NCC - The Réseaux IP Européens Network Coordination Centre-map
+tmap.id:adc96036-0751-4ae6-8a6d-5934165a1904
+type:text/vnd.tiddlywiki
+
+Neighbor Map of RIPE NCC - The Réseaux IP Européens Network Coordination Centre

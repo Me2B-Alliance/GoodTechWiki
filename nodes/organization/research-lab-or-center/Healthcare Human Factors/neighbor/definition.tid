@@ -1,0 +1,17 @@
+config.central-topic:073f117d-c52f-4ad7-bdde-6a14aef1e254
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534808
+id:6323287e-0c6a-4ebd-8e95-2efcc10be42d
+isview:false
+map.base:073f117d-c52f-4ad7-bdde-6a14aef1e254
+map.role:definition
+map.type:neighbor
+modified:1582714534808
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Healthcare Human Factors-map
+tmap.id:6323287e-0c6a-4ebd-8e95-2efcc10be42d
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Healthcare Human Factors

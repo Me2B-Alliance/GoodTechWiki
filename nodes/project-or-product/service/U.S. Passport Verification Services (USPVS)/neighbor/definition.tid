@@ -1,0 +1,17 @@
+config.central-topic:f47563cf-9b96-4b29-ac19-60924752b6c7
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534883
+id:dffeab97-6b95-4225-bbd5-d2c7ba8a0fda
+isview:false
+map.base:f47563cf-9b96-4b29-ac19-60924752b6c7
+map.role:definition
+map.type:neighbor
+modified:1582714534883
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/U.S. Passport Verification Services (USPVS)-map
+tmap.id:dffeab97-6b95-4225-bbd5-d2c7ba8a0fda
+type:text/vnd.tiddlywiki
+
+Neighbor Map of U.S. Passport Verification Services (USPVS)

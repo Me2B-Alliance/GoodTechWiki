@@ -1,0 +1,17 @@
+config.central-topic:317349b3-f7bd-4ca2-a7a0-e0967f56e84a
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534959
+id:7056d1aa-8e46-414b-9693-1820e9401933
+isview:false
+map.base:317349b3-f7bd-4ca2-a7a0-e0967f56e84a
+map.role:definition
+map.type:neighbor
+modified:1582714534959
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Media Manipulation and Disinformation Online-map
+tmap.id:7056d1aa-8e46-414b-9693-1820e9401933
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Media Manipulation and Disinformation Online

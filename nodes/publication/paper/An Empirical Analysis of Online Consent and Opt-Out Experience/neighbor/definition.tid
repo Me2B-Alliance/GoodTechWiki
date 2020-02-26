@@ -1,0 +1,17 @@
+config.central-topic:f2a0d5a5-a370-4ab4-bc3c-5063d9b0a25e
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582714534915
+id:99f88d36-e8aa-41a4-b5bb-ec36e0db8279
+isview:false
+map.base:f2a0d5a5-a370-4ab4-bc3c-5063d9b0a25e
+map.role:definition
+map.type:neighbor
+modified:1582714534915
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/An Empirical Analysis of Online Consent and Opt-Out Experience-map
+tmap.id:99f88d36-e8aa-41a4-b5bb-ec36e0db8279
+type:text/vnd.tiddlywiki
+
+Neighbor Map of An Empirical Analysis of Online Consent and Opt-Out Experience
