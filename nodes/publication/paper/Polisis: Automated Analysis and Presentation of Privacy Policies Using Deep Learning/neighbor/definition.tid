@@ -1,17 +1,17 @@
-config.central-topic:7f197cfb-39c7-4b05-917d-626ce9ee3b43
+config.central-topic:1b8616a0-0331-49a3-bd9c-ce9e4d22ccb9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021601
-id:b86f7641-a347-4340-9c85-6b2415400b0a
+created:1582954316300
+id:4aa9a8c4-c75d-4744-8185-3d2a2dd12230
 isview:false
-map.base:7f197cfb-39c7-4b05-917d-626ce9ee3b43
+map.base:1b8616a0-0331-49a3-bd9c-ce9e4d22ccb9
 map.role:definition
 map.type:neighbor
-modified:1582720021601
+modified:1582954316300
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning
-tmap.id:b86f7641-a347-4340-9c85-6b2415400b0a
+tmap.id:4aa9a8c4-c75d-4744-8185-3d2a2dd12230
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning

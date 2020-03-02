@@ -1,17 +1,17 @@
-config.central-topic:805ce4e2-f3a4-4717-8d3d-c5dca346bafa
+config.central-topic:f3e4b863-afa7-4802-a312-956019093b03
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021636
-id:5fe1e27f-8f2c-4f53-a36b-4e48458a9318
+created:1582954316328
+id:12280d7e-8ddb-437c-8f82-f970c6d4a5f9
 isview:false
-map.base:805ce4e2-f3a4-4717-8d3d-c5dca346bafa
+map.base:f3e4b863-afa7-4802-a312-956019093b03
 map.role:definition
 map.type:neighbor
-modified:1582720021636
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Safe in Police Hands (2016)
-tmap.id:5fe1e27f-8f2c-4f53-a36b-4e48458a9318
+tmap.id:12280d7e-8ddb-437c-8f82-f970c6d4a5f9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Safe in Police Hands (2016)

@@ -1,12 +1,12 @@
-created:1582720021596
+created:1582954316296
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad6a62c7-1520-47a3-9886-6a315dcdeda1
+map.base:e7705028-0630-4443-ac42-55ffb5a80c0f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021596
+modified:1582954316296
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identifying the Provision of Choices in Privacy Policy Text/filter/edges
-tmap.id:ee9c655c-76c9-4543-b5cb-e8245235670a
+tmap.id:4a01b483-251d-4ae1-a5a5-c24d32a73f70
 type:text/vnd.tiddlywiki
 
 No body provided

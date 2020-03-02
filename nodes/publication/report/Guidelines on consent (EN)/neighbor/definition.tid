@@ -1,17 +1,17 @@
-config.central-topic:850617d0-38c2-4f81-924a-08c2a7b8e401
+config.central-topic:192020ce-bc71-455a-9e9e-31276d411a2a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021625
-id:e2fc4e9a-9a06-457a-9a36-f6b90e234c67
+created:1582954316318
+id:6e1b2e96-d0bd-4bfb-bc6c-b84a73f167df
 isview:false
-map.base:850617d0-38c2-4f81-924a-08c2a7b8e401
+map.base:192020ce-bc71-455a-9e9e-31276d411a2a
 map.role:definition
 map.type:neighbor
-modified:1582720021625
+modified:1582954316318
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on consent (EN)
-tmap.id:e2fc4e9a-9a06-457a-9a36-f6b90e234c67
+tmap.id:6e1b2e96-d0bd-4bfb-bc6c-b84a73f167df
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on consent (EN)

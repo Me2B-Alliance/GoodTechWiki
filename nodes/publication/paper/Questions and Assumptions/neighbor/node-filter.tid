@@ -1,12 +1,12 @@
-created:1582720021601
-filter:[field:tmap.id[c134e2b4-7155-41a4-af5f-c291ab3b8c4a]]
-map.base:c134e2b4-7155-41a4-af5f-c291ab3b8c4a
+created:1582954316301
+filter:[field:tmap.id[3a680d22-4aee-4fb0-a9a7-f244f93d81f5]]
+map.base:3a680d22-4aee-4fb0-a9a7-f244f93d81f5
 map.role:node-filter
 map.type:neighbor
-modified:1582720021601
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Questions and Assumptions/filter/nodes
-tmap.id:a2c8dfcb-3e6f-46a5-bc3a-7196d4944cb3
+tmap.id:2f3d2ced-eac2-409c-bd9a-f76d2d70ef07
 type:text/vnd.tiddlywiki
 
 No body provided

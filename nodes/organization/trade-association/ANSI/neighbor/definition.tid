@@ -1,17 +1,17 @@
-config.central-topic:8b3689ca-b38c-4e60-89eb-638f38659fcb
+config.central-topic:b4e44d3e-85ff-4ecb-92da-e9f46c0c46c0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021503
-id:32d992e6-0f08-4c16-8f66-a4be53a5c06a
+created:1582954316221
+id:19ef5f31-de5b-4fec-bc9b-2fc00e3a6015
 isview:false
-map.base:8b3689ca-b38c-4e60-89eb-638f38659fcb
+map.base:b4e44d3e-85ff-4ecb-92da-e9f46c0c46c0
 map.role:definition
 map.type:neighbor
-modified:1582720021503
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ANSI
-tmap.id:32d992e6-0f08-4c16-8f66-a4be53a5c06a
+tmap.id:19ef5f31-de5b-4fec-bc9b-2fc00e3a6015
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ANSI

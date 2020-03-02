@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[service]] [[software product (application)]]
-created:1582720003596
+category:[[software product (application)]] [[service]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:Iubenda Internal Privacy Management
 parent.org:iubenda
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Iubenda Internal Privacy Management
 tmap.edges:{}
-tmap.id:140a64c0-53a1-49cf-8842-019ffba1a87a
+tmap.id:6d3a4c36-bfc5-4a8e-9f08-fc94db59dfa7
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/en/internal-privacy-management
 version.or.edition:
 working.group:
 
 The solution to easily document all the data processing activity within your organization
+
+
 

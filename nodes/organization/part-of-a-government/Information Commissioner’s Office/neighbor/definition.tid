@@ -1,17 +1,17 @@
-config.central-topic:5d3d3e23-9651-434c-83a5-32f34d005a5d
+config.central-topic:bc894e9c-3aed-4e43-b0a0-3180aee18288
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021473
-id:0d48ac37-c24c-4c77-85a0-4890680c0163
+created:1582954316197
+id:87fb756b-0b78-4865-aa1a-9dd1bb9b724e
 isview:false
-map.base:5d3d3e23-9651-434c-83a5-32f34d005a5d
+map.base:bc894e9c-3aed-4e43-b0a0-3180aee18288
 map.role:definition
 map.type:neighbor
-modified:1582720021473
+modified:1582954316197
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Information Commissioner’s Office
-tmap.id:0d48ac37-c24c-4c77-85a0-4890680c0163
+tmap.id:87fb756b-0b78-4865-aa1a-9dd1bb9b724e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Information Commissioner’s Office

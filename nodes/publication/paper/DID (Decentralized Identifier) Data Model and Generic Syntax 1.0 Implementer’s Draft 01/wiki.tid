@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01
 tmap.edges:{}
-tmap.id:2ae293df-b14f-467b-a43e-91a822560f6b
+tmap.id:3b4e9555-0a72-4c85-9207-b9a71f977cb8
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/did-implementer-draft-10.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 DIDs(decentralized   identifiers)   are   a   new   type   of identifier  intended  for  verifiable  digital  identity  that  is "self-sovereign",   i.e.,   fully   under   the   control   of   the identity   ownerand   not   dependent   on   a   centralized registry,  identity  provider,  or  certificate  authority.  DIDs resolve to DDOs(DID descriptor objects)—simple JSON documents  that  contain  all  the  metadata  needed  to  prove ownership  and  control  of  a  DID.  Specifically,  a  DDO contains  a  set  of key  descriptions,  which  are  machine-readable descriptions of the identity owner’s public keys, and   a   set   of service   endpoints,   which   are   resource pointers  necessary  to  initiate  trusted  interactions  with  the identity  owner.  Each  DID  uses  a  specific DID  method, defined   in   a   separate DID   method   specification,   to define  how  the  DID  is  registered,  resolved,  updated,  and revoked on a specific distributed ledger or network.
+
+
 

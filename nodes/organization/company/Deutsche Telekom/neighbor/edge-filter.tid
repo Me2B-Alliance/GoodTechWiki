@@ -1,12 +1,12 @@
-created:1582720021437
+created:1582954316175
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b620fd12-2a5a-4c48-a0d8-6ca48afdc525
+map.base:f28533ef-6f1a-48df-9dca-17f89c3725b6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021437
+modified:1582954316175
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Deutsche Telekom/filter/edges
-tmap.id:d6529370-2cf5-4d6d-9939-c8ee3684564f
+tmap.id:1798405f-42d6-4cd8-9c07-8f24e71597b8
 type:text/vnd.tiddlywiki
 
 No body provided

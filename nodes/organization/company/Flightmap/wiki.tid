@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003386
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003386
+modified:1582954204555
 org.name:Flightmap
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:[[projectmanagement|europe]]
 tech.focus:
 tiddler.classification:node
 title:Flightmap
-tmap.edges:{"e72821ec-84fc-4840-b646-d6e97a64fff1":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:b96f6d61-1cb0-45ca-bc23-65736721ce5c
+tmap.edges:{"89ca366a-81bd-4b4a-862f-16fa2451240d":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:6f3d5cfc-af3c-4c56-b60d-a228addf5368
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.bicore.nl/flightmap/
 
 Flightmap, formerly known as Bicore, supports its clients to improve their return on innovation. Its focus is on the high tech industry sectors – ICT, electronic & electrical equipment, automotive, and life sciences, as well as the process industry, in Europe and beyond. The Flightmap product enables better decisions about the innovation portfolio, and leads to more value creation. The powerful analysis capabilities support comprehensive strategic scenario planning, roadmapping, project selection, and resource and budget planning, as well as tracking. The innovative user interface and the web-based deployment options offer fast implementation and adoption. In addition to the solution, Flightmap offers expert consulting to improve innovation portfolios and to develop business plans, as well as the required alliances and ecosystems.
+
+
 

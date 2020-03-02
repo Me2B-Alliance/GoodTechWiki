@@ -1,12 +1,12 @@
-created:1582720021572
-filter:[field:tmap.id[6b19a921-14fb-4a37-8ded-6410137dda91]]
-map.base:6b19a921-14fb-4a37-8ded-6410137dda91
+created:1582954316267
+filter:[field:tmap.id[ae31ff42-37fa-444a-9af2-aed99f974779]]
+map.base:ae31ff42-37fa-444a-9af2-aed99f974779
 map.role:node-filter
 map.type:neighbor
-modified:1582720021572
+modified:1582954316267
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TOSDR - Browser Extensions/filter/nodes
-tmap.id:2924a429-a574-4257-bd4c-40a615bd0279
+tmap.id:a350b051-3c07-46ad-b2f5-e2ed9b190244
 type:text/vnd.tiddlywiki
 
 No body provided

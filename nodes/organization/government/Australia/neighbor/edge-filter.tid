@@ -1,12 +1,12 @@
-created:1582720021460
+created:1582954316189
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad46ae3b-7fce-4b21-b163-da8e1e8bcc8d
+map.base:8f32f6e6-1dc7-41ca-aca3-d8bec01e3ead
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021460
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Australia/filter/edges
-tmap.id:f48b36cd-577c-4c91-b1ce-ce7bd76603f4
+tmap.id:12524e31-5599-4884-a89d-6b3dfd218f31
 type:text/vnd.tiddlywiki
 
 No body provided

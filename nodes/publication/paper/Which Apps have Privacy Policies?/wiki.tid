@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[peter story]] [[sebastian zimmeck]] [[norman sadeh]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:Which Apps have Privacy Policies?
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Which Apps have Privacy Policies?
 tmap.edges:{}
-tmap.id:8a764d39-cf6c-4080-8cfc-7df076e4474f
+tmap.id:d436b532-0342-4c7f-b0da-8188f29f76f5
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/static/files/Which-Apps-have-Privacy-Policies-Poster.pdf
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 FTC PrivacyCon, Feb 2018 Poster
 
 Which  factors  are  associated  with  whether  smartphone  apps link to a privacy policy? We downloaded the metadata of over 1 million  apps  from  the  Google  Play  Store  and  trained  a  logistic regression  model  to  predict  whether  apps  have  privacy  policy links.
+
+
 

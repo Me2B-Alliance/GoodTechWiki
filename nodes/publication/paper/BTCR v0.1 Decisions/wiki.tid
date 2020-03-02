@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:BTCR v0.1 Decisions
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:BTCR v0.1 Decisions
 tmap.edges:{}
-tmap.id:45e7f054-0574-44fd-9972-d1064f27a2a1
+tmap.id:1c685f21-c2a4-4ab1-8d50-addc75744b5b
 type:text/vnd.tiddlywiki
 url:https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The Bitcoin Reference (BTCR) DID method supports DIDs using the Bitcoin blockchain. This method has been under development through Rebooting Web of Trust events and hackathons over the past year. The BTCR method's reliance on the Bitcoin blockchain presents both advantages and design challenges. During RWOT7, the authors made a number of design and implementation decisions -- largely scope-cutting in nature -- in order to lock down a Minimum Viable Product (MVP) version, which we'll refer to as v0.1. This paper documents those decisions, which will apply to the upcoming v0.1 BTCR method specifcation and associated v0.1 BTCR reference implementation.
+
+
 

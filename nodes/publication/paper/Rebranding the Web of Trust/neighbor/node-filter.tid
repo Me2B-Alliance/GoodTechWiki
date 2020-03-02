@@ -1,12 +1,12 @@
-created:1582720021602
-filter:[field:tmap.id[174640cd-58ce-4e62-bc49-8d06f56118ed]]
-map.base:174640cd-58ce-4e62-bc49-8d06f56118ed
+created:1582954316301
+filter:[field:tmap.id[9c6310eb-9f64-4301-a7e2-2297b49731cc]]
+map.base:9c6310eb-9f64-4301-a7e2-2297b49731cc
 map.role:node-filter
 map.type:neighbor
-modified:1582720021602
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rebranding the Web of Trust/filter/nodes
-tmap.id:952fb916-286f-4306-8790-c3f3dd721be1
+tmap.id:643d2e70-fb02-4b50-9271-dd455243d2ec
 type:text/vnd.tiddlywiki
 
 No body provided

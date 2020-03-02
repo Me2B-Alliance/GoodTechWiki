@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[research]] [[service]]
-created:1582720003596
+category:[[service]] [[research]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:Tech We Trust
 parent.org:Digital Life Collective
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Tech We Trust
 tmap.edges:{}
-tmap.id:aaa11b5b-f3a8-4479-a294-4292d4a814b7
+tmap.id:b5354804-ad14-407d-bd34-f9be58be3c7b
 type:text/vnd.tiddlywiki
 url:https://diglife.com/tech-we-trust/
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
 We define Tech We Trust as those technologies that are equitable and accessible, putting our autonomy, privacy and dignity first.
 
 We use ‘tech’ broadly to include hardware and software, networks and devices, storing and retrieving and computing and sending data, sensing and interacting with the physical world.
+
+
 

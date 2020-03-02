@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alessandro acquisti]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:What's It To You? A Survey of Online Privacy Concerns and Risks
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:What's It To You? A Survey of Online Privacy Concerns and Risks
 tmap.edges:{}
-tmap.id:4d965cdd-e23a-4195-a572-fcb7cfaf41aa
+tmap.id:0a3a9d6a-b716-4118-9560-253df489b0aa
 type:text/vnd.tiddlywiki
 url:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=941708
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Finding information about privacy practices can be difficult: privacy policies often do not present this information in an accessible way. People typically do not know how or for what purpose their personal information, gathered online, will be used. When asked, people frequently express concerns about their privacy, but their behavior often does not reflect their concerns. We conducted an online survey to examine participants' online privacy concerns, focusing especially on the online shopping context. We asked participants about several scenarios related to the privacy of personal information. We found that Privacy Finder, a P3P-enhanced search engine, provides information that addresses the scenarios that participants believe are most likely to occur. We also asked participants about a wide range of items for purchase online to evaluate which types of items are more likely to raise privacy concerns.
+
+
 

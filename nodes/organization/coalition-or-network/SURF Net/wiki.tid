@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003378
+created:1582954204546
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003378
+modified:1582954204546
 org.name:SURF Net
 org.type:coalition or network
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:SURF Net
-tmap.edges:{"ead775e8-42a8-4c8d-8bf9-735160858f14":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:9e0a67e6-250a-41da-ae5e-2dec22cf779f
+tmap.edges:{"78408c00-c643-458d-8068-61190a81ec50":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:8468942f-2d1c-44c5-b05d-c0dbac30bddd
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.surf.nl/en
 
 SURF is the collaborative ICT organisation for Dutch higher education and research, facilitating collaboration between professionals within networks and collaborative knowledge sharing projects in the area of ICT innovation. SURF designs, supports, develops and operates the national ICT infrastructure (e-infrastructure) for higher education and research. SURF helps to optimise the potential of ICT by offering access to the latest innovations under favourable conditions, by facilitating connections between technology and people. Thanks to SURF, students, lecturers and scientists in the Netherlands have had access to the best possible internet and ICT facilities for more than 25 years.
+
+
 

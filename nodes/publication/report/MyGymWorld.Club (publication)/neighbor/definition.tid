@@ -1,0 +1,17 @@
+config.central-topic:8dfbe09a-7238-4e47-a876-55e81ded6e5d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316322
+id:30e11cc2-958c-4966-bdd2-bafc9fa8ef56
+isview:false
+map.base:8dfbe09a-7238-4e47-a876-55e81ded6e5d
+map.role:definition
+map.type:neighbor
+modified:1582954316322
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/MyGymWorld.Club (publication)
+tmap.id:30e11cc2-958c-4966-bdd2-bafc9fa8ef56
+type:text/vnd.tiddlywiki
+
+Neighbor Map of MyGymWorld.Club (publication)

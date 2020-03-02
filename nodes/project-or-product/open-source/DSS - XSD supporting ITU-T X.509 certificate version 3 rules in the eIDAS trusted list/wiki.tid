@@ -1,7 +1,7 @@
 activities:
 audience:
-category:open source
-created:1582720003377
+category:[[open source]]
+created:1582954204546
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003377
+modified:1582954204546
 name:DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list
-tmap.edges:{"00dcc911-b3e7-49c1-86d7-0bc359d75ec5":{"to":"75e1cf70-d2ef-4ffc-be42-5795fe95338f","type":"default"}}
-tmap.id:08379716-66cd-4c69-ae0f-cf2123b4ef38
+tmap.edges:{"59eb6d18-6359-4933-a84e-85f363bdb2cf":{"to":"d327a27d-31b8-4f88-8540-e8691d0e4381","type":"default"}}
+tmap.id:5e1a4de7-9192-4555-b72b-f5ffbf2d52e2
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 working.group:
+
+
 
 
 

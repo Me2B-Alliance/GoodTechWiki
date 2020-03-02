@@ -1,17 +1,17 @@
-config.central-topic:6ae34609-bdfc-4c79-9c70-85e437bb856c
+config.central-topic:6ec575c7-f1cf-4d09-be4d-cac580076c5f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021669
-id:7bb4cf4f-f8f5-40f9-a273-250dfe87d614
+created:1582954316354
+id:2f5ebc77-9c75-4a06-8b48-df66d3b402a2
 isview:false
-map.base:6ae34609-bdfc-4c79-9c70-85e437bb856c
+map.base:6ec575c7-f1cf-4d09-be4d-cac580076c5f
 map.role:definition
 map.type:neighbor
-modified:1582720021669
+modified:1582954316354
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_59_2019(E)
-tmap.id:7bb4cf4f-f8f5-40f9-a273-250dfe87d614
+tmap.id:2f5ebc77-9c75-4a06-8b48-df66d3b402a2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_59_2019(E)

@@ -1,12 +1,12 @@
-created:1582720021639
+created:1582954316330
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:afdf5a49-d119-40c3-8f63-e53448fde42d
+map.base:bb05a16c-981b-48f3-b2e4-83ef43c455d6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021639
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data Privacy: An Overview/filter/edges
-tmap.id:16e18052-e5ed-4d44-a2d5-0d1e2e5adead
+tmap.id:3f40d8ca-b9eb-4ba6-a9ec-39dfa8d79fbb
 type:text/vnd.tiddlywiki
 
 No body provided

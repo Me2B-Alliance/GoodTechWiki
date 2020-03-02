@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003388
+created:1582954204557
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003388
+modified:1582954204557
 org.name:confyrm
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:confyrm
-tmap.edges:{"240aec5a-bb86-421f-bed8-cd4106427ac5":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:b13cd620-2a2d-4b03-8a19-d969392e0998
+tmap.edges:{"540d0b47-471a-4336-98b9-e9996fab9fcf":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:39dd30a2-9dfd-4295-bc53-6172c422bdf5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

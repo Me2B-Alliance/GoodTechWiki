@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204537
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204537
 org.name:US National Information Exchange Model
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:US National Information Exchange Model
-tmap.edges:{"1429bcd4-99b9-4440-ba5f-702e5859c8b9":{"to":"df47bcb5-854f-4875-8272-5eab5b54042f","type":"connection"}}
-tmap.id:fd2f1de8-9929-406e-b861-109d53548cd1
+tmap.edges:{"94da50d3-6d66-4cdf-907c-2afc0a5ca82b":{"to":"ed66f720-637a-4e8f-92b1-dea081524547","type":"connection"}}
+tmap.id:de44603e-5dcc-4ad2-b003-c6c832d61733
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.niem.gov/pages/default.aspx
@@ -40,4 +40,6 @@ It was started by a handful of organizations supporting state and local governme
 This grassroots effort, called the Global Justice Information Sharing Initiative, set into motion the creation of a seamless, interoperable model for data exchange that could solve a range of information-sharing challenges across a variety of government agencies. After a two-year effort, the first pre-release of the Global Justice XML Data Model (GJXDM) was announced in April 2003.
 
 The NIEM Executive Steering Council (ESC) serves as NIEM’s decision-making body regarding membership, funding requirements, program or technical direction, Com
+
+
 

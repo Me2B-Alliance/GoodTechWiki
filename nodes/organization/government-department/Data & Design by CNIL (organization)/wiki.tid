@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003592
+created:1582954204768
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003592
+modified:1582954204768
 org.name:Data & Design by CNIL
 org.type:government department
 parent.org:French Data Protection Authority
@@ -29,10 +29,12 @@ tech.focus:
 tiddler.classification:node
 title:Data & Design by CNIL (organization)
 tmap.edges:{}
-tmap.id:ebef4dfd-bc03-43fd-9170-d459a80b99c6
+tmap.id:7f28ec0d-2e5f-4e70-886d-5d8bdafd37e6
 twitter.profile:http://twitter.com/LINCnil
 type:text/vnd.tiddlywiki
 website:https://design.cnil.fr/
 
 Part of CNIL: French Data Protection Agency focusing on gdpr friendly/supportive design.
+
+
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:Detroit Digital Justice Coalition
 org.type:to-be-determined
 parent.org:Allied Media Projects
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Detroit Digital Justice Coalition
-tmap.edges:{"78cd7c52-9b72-4108-8a76-b6b579a28707":{"to":"090b4a8f-1e78-446f-82f2-f717d44b124c","type":"Organization Supports Project or Product"}}
-tmap.id:54d29f06-e7b5-4fc9-ab5a-80c0dda36a9c
+tmap.edges:{"0bf03771-c9f4-4ee0-b340-64da8d9e0659":{"to":"a2830b8f-5a70-436e-95f9-cde821c463dc","type":"Organization Supports Project or Product"}}
+tmap.id:f2ac0148-e29b-4228-90f0-281f0422b348
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.alliedmedia.org/ddjc
 
 The Detroit Digital Justice Coalition (DDJC) is comprised of people and organizations in Detroit who believe that communication is a fundamental human right. We are securing that right through activities that are grounded in the digital justice principles of: access, participation, common ownership, and healthy communities.
+
+
 

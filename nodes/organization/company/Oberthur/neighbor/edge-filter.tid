@@ -1,12 +1,12 @@
-created:1582720021450
+created:1582954316181
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7584b3db-fe53-4124-9146-f0bbc7328c2c
+map.base:ca2bfd2c-a789-4959-9607-04b162973cad
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021450
+modified:1582954316181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Oberthur/filter/edges
-tmap.id:058cba13-3b6f-4e21-8956-8592a1c77a96
+tmap.id:6b720816-f786-4420-856c-3e52d5527f1f
 type:text/vnd.tiddlywiki
 
 No body provided

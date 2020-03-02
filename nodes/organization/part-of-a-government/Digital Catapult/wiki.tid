@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:Digital Catapult
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Catapult
-tmap.edges:{"c6e73770-bb8c-4396-a910-c6aed1404c0f":{"to":"29acd6b1-3e8d-4f4a-9e67-51cc12f10fe5","type":"connection"},"ef7baf71-09a1-4a5b-bebc-c70cfb76b8b1":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"},"047e4fe2-5996-429c-b25c-f5415306dcae":{"to":"b7406fb7-a7c8-4974-85a8-971d3e30fa97","type":"government-connection"}}
-tmap.id:f5851ab8-aeff-49ba-bfe9-96a8abede516
+tmap.edges:{"b2ed516a-e669-4eb3-bda6-55d6e4b9560d":{"to":"69c0070c-83e7-4f82-be92-789cb0585b51","type":"connection"},"c89233a9-ef44-47b0-9ff7-93f6326fd12d":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"},"177ad0a0-e0cd-404b-a7e5-edfbae8973a7":{"to":"1cba013f-1708-4c18-807e-36f1e7a9b205","type":"government-connection"}}
+tmap.id:de2958ae-042b-4770-aa35-1f96a382af16
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,17 +1,17 @@
-config.central-topic:c8887f5f-3957-49ce-b1fe-504c61a66a19
+config.central-topic:0f579826-b654-4d77-9f19-a9ae4b321aa9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021503
-id:ed666c84-462d-4bda-a085-96330b99846a
+created:1582954316221
+id:4eb7801c-5e7f-4d1f-aef1-96f1ee4b1316
 isview:false
-map.base:c8887f5f-3957-49ce-b1fe-504c61a66a19
+map.base:0f579826-b654-4d77-9f19-a9ae4b321aa9
 map.role:definition
 map.type:neighbor
-modified:1582720021503
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/American Bar Association: Identity Management Legal Taskforce
-tmap.id:ed666c84-462d-4bda-a085-96330b99846a
+tmap.id:4eb7801c-5e7f-4d1f-aef1-96f1ee4b1316
 type:text/vnd.tiddlywiki
 
 Neighbor Map of American Bar Association: Identity Management Legal Taskforce

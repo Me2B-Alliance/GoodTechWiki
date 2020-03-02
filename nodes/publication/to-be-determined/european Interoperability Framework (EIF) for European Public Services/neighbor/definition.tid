@@ -1,17 +1,17 @@
-config.central-topic:dd12116e-5a24-44b6-bac9-c9267bacd61f
+config.central-topic:e843108e-a22e-40a6-b67f-da5d488d808b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021687
-id:bec2dd11-68c5-4c74-bc55-046af15f17c2
+created:1582954316366
+id:8e618f53-7941-40dd-b768-b180f8531060
 isview:false
-map.base:dd12116e-5a24-44b6-bac9-c9267bacd61f
+map.base:e843108e-a22e-40a6-b67f-da5d488d808b
 map.role:definition
 map.type:neighbor
-modified:1582720021687
+modified:1582954316366
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/european Interoperability Framework (EIF) for European Public Services
-tmap.id:bec2dd11-68c5-4c74-bc55-046af15f17c2
+tmap.id:8e618f53-7941-40dd-b768-b180f8531060
 type:text/vnd.tiddlywiki
 
 Neighbor Map of european Interoperability Framework (EIF) for European Public Services

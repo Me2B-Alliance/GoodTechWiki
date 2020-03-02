@@ -1,17 +1,17 @@
-config.central-topic:4aaa4ba8-a462-4191-9ccb-56827b226b29
+config.central-topic:3f96ee71-2fdb-4cab-bcfd-18c7a5de09bc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021532
-id:028f15ed-026c-4d15-a322-4e64ca8f3a26
+created:1582954316240
+id:c2cf0e6c-e132-4786-9b4c-dc0f66dd22af
 isview:false
-map.base:4aaa4ba8-a462-4191-9ccb-56827b226b29
+map.base:3f96ee71-2fdb-4cab-bcfd-18c7a5de09bc
 map.role:definition
 map.type:neighbor
-modified:1582720021532
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Edmund Jay
-tmap.id:028f15ed-026c-4d15-a322-4e64ca8f3a26
+tmap.id:c2cf0e6c-e132-4786-9b4c-dc0f66dd22af
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Edmund Jay

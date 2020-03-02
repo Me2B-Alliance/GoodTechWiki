@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003334
+created:1582954204501
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003334
+modified:1582954204501
 org.name:Goethe University: Frankfurt
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Goethe University: Frankfurt
-tmap.edges:{"407169ba-140d-4c54-bae3-2d1874d9d40a":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"},"6e1df693-109c-4c23-a3e3-e8b3dfb9fff5":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"convenor"}}
-tmap.id:9cf6e41d-8c11-451d-8d21-ba964c9a91e5
+tmap.edges:{"f78884bd-d456-4009-bd07-3735811dbab5":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"},"d4c88ce9-e172-4013-811d-35f04f56dddf":{"to":"b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8","type":"convenor"}}
+tmap.id:0f7df827-8a42-4c78-9021-9ed8ff18280a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.goethe-university-frankfurt.de/en
 
 Frankfurt University is one of the leading research universities in Germany. Around 2,500 professors and academic staff carry out research in 16 departments. The university is at the forefront of research in areas such as law and finance, life sciences (especially membrane proteomics, RNA-ligands interaction, biomolecular nuclear magnetic resonance), drug research, cognitive neuroscience, heavy ions physics and interdisciplinary research on Africa. Research in the humanities at Frankfurt University ranked second in a survey of all German universities carried out by the Deutsche Forschungsgemeinschaft (German Research Foundation). Research activities in the areas of finance, money and law were brought together in the House of Finance, which was established in 2008.
+
+
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003388
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003388
+modified:1582954204556
 org.name:Trustseed
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:Trustseed
-tmap.edges:{"541c8a2e-44eb-4275-986a-ec5fcb8c9527":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:daeec858-a5d1-4572-982c-291277653fa8
+tmap.edges:{"b4171d46-73b4-41e3-bd8b-8446d9d2ee60":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:7a2ec7a8-598e-45f1-a189-6e487be68810
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
 
 TrustSeed, a French software publishing company based in Paris, was established in 2002 as a leading provider of Internet security, able to guarantee the legal value of identities, signatures, and exchanges of digital documents. TrustSeed’s technology is based on 10 worldwide patents – relating to legal online signatures, extended traceability of transactions, and validation of legal issues- that apply to the new solutions of online services such as SaaS and Cloud computing. TrustSeed Package Software Publisher overcomes the four barriers of the Internet: (1) identity privacy and access management, (2) document content compliancy and legal online signature, (3) data transfer archiving and commuting, and (4) evidence value guarantee and interoperability. This reduces 70% operational costs and risks associated with online transactions. TrustSeed has built the first trustworthy ecosystem in SaaS and Cloud computing compliant with eTrust Services regulation (eIDAS) and NIS Directive.
+
+
 

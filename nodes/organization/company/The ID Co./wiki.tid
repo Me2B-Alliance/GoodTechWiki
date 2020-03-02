@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003386
+created:1582954204554
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003386
+modified:1582954204554
 org.name:The ID Co.
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The ID Co.
-tmap.edges:{"5ea18c87-232a-42f2-bdf6-55b6a39514df":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:4836618f-77d3-4814-979c-bc21c9026527
+tmap.edges:{"9d55f624-3269-4c1c-9a05-bb17327a0fa2":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:ddab7241-7064-4f85-9171-39f57140514c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.miicard.com/
@@ -38,4 +38,6 @@ miiCard (My Internet Identity) is a global “Identity as a Service” solution 
 Combining online identity proofing with strong authentication, miiCard provides the trust and security required for people and businesses to meet and transact with confidence in a purely digital environment. As a single, trusted digital ID founded on the principles of bring your own identity, miiCard is convenient and flexible providing members complete control over their online identity and personal information. With coverage across five continents and over 350 million people, miiCard is creating trust online across a range of industries including finance, commerce, trading, gaming, healthcare, recruitment, dating, social and professional networking.
 
 See how miiCard’s online identity verification is used across a range of industries here.
+
+
 

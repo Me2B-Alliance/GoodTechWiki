@@ -1,12 +1,12 @@
-created:1582720021690
-filter:[field:tmap.id[597b1f21-a80d-4109-b35e-7b48ffbd1034]]
-map.base:597b1f21-a80d-4109-b35e-7b48ffbd1034
+created:1582954316372
+filter:[field:tmap.id[fe4085ab-50b7-4b6e-80cc-4f9b91cef85c]]
+map.base:fe4085ab-50b7-4b6e-80cc-4f9b91cef85c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021690
+modified:1582954316372
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain and Smart Contracts Discussion Group/filter/nodes
-tmap.id:a64af6ff-6ff0-4349-a392-a09eb2df550c
+tmap.id:ae44d93f-06ad-4e5d-8c7b-31bcfe20c5c7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 activities:
-category:general
-created:1582720003331
+category:[[general]]
+created:1582954204498
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003331
+modified:1582954204498
 name:Personal Data
 parent.org:GSMA
 people:
@@ -18,11 +18,13 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Personal Data
-tmap.edges:{"e10571db-b521-423c-aef1-30623f65bd1e":{"to":"bdfb3b59-870b-403f-b2dd-12578c7d4705","type":"organization-for-group"}}
-tmap.id:e176197a-aacd-4657-9f55-65684027889e
+tmap.edges:{"e251f598-18b0-41a8-bcbd-f819b8f84ed6":{"to":"8c67e0f1-ad22-4574-8868-2d5435ccaeaa","type":"organization-for-group"}}
+tmap.id:50456768-915e-4ef0-91fd-5185eb4fe882
 type:text/vnd.tiddlywiki
 url:http://www.gsma.com/personaldata/
 
 As the digital economy expands, both individuals and businesses are looking for ways to interact easily online without compromising security and privacy. Building on the successes and strategic insights delivered by the GSMA Mobile Identity programme, the GSMA Personal Data programme aims to help digital service providers and consumers find the optimum balance between privacy, security and convenience.
 In line with the objectives of the GSMA Board, the programme and its operator partners have prioritised the development of digital identity services. Working together, they aim to bring to market digital identity solutions that provide a safe, seamless and convenient consumer experience, a consistent user interface and low barriers to entry across the digital identity ecosystem.
+
+
 

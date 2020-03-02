@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204541
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204541
 org.name:Association Française pour le Nommage Internet en Coopération (AFNIC)
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Association Française pour le Nommage Internet en Coopération (AFNIC)
-tmap.edges:{"4fce938e-0c8e-483b-9e96-11af723f0319":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:b0c7fde4-7128-43cc-962f-2ca16d1675f4
+tmap.edges:{"d93eecd2-e771-4059-9ef2-b24099985895":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:215e2467-6321-4a1b-b630-fb2f17ab14e9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

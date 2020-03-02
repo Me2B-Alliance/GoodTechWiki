@@ -1,12 +1,12 @@
-created:1582720021435
+created:1582954316173
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3960d3a9-e99b-4a6e-9be8-74219579b9e1
+map.base:160ae1bb-f2ad-4e96-8aea-fb09bea3335f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021435
+modified:1582954316173
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Altus Busines Systems/filter/edges
-tmap.id:d1bdd278-50b0-466d-a438-bd5d50a31f72
+tmap.id:e073d48e-6632-4390-aa48-f18ab5da898d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:fe872027-236a-4c30-8daf-5d1efb9a5d03
+config.central-topic:867df90f-e201-4849-8335-20234b5c8cb4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021450
-id:11736b84-4eba-4c5d-b6a5-f332dbb74fd9
+created:1582954316180
+id:ef44a482-aebe-4d96-8ca7-e470834af096
 isview:false
-map.base:fe872027-236a-4c30-8daf-5d1efb9a5d03
+map.base:867df90f-e201-4849-8335-20234b5c8cb4
 map.role:definition
 map.type:neighbor
-modified:1582720021450
+modified:1582954316180
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NXP Semiconductors
-tmap.id:11736b84-4eba-4c5d-b6a5-f332dbb74fd9
+tmap.id:ef44a482-aebe-4d96-8ca7-e470834af096
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NXP Semiconductors

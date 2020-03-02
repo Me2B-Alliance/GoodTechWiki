@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204515
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204515
 name:EU Trusted List Scheme Operators
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:EU Trusted List Scheme Operators
 tmap.edges:{}
-tmap.id:e42b57ca-51a3-402e-b4b9-22faf8a12f80
+tmap.id:798905dd-6a2e-46e6-9b0e-f56355d1a8ea
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/eu+trusted+list+scheme+operators
 version.or.edition:
@@ -31,4 +31,6 @@ working.group:
 
 The Trusted List Scheme Operator (TLSO) of an EU MS is the body responsible for the operation and/or management of the assessment scheme of that Member State.
 Following the operation/management of that scheme, the Scheme Operator maintains and publishes the corresponding Member State Trusted List (CD 2009/767/EC and amendments, part of the legal framework).
+
+
 

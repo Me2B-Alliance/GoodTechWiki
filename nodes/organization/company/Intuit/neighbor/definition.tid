@@ -1,17 +1,17 @@
-config.central-topic:6fdb61a5-5c2d-45f9-b09f-3de5eb5b39fd
+config.central-topic:451bc0a5-ebc5-43b4-a1bb-f964be9846f5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021442
-id:09ac5a20-3a25-4a91-8820-ea1ec44c2cf6
+created:1582954316179
+id:2d2979c4-c490-4411-9652-873087182180
 isview:false
-map.base:6fdb61a5-5c2d-45f9-b09f-3de5eb5b39fd
+map.base:451bc0a5-ebc5-43b4-a1bb-f964be9846f5
 map.role:definition
 map.type:neighbor
-modified:1582720021442
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intuit
-tmap.id:09ac5a20-3a25-4a91-8820-ea1ec44c2cf6
+tmap.id:2d2979c4-c490-4411-9652-873087182180
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Intuit

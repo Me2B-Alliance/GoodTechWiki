@@ -1,17 +1,17 @@
-config.central-topic:8c910eb0-a0e0-4a78-ad2f-f175b3e2f11d
+config.central-topic:df2de5d1-db2a-4dde-bade-23718915ad64
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021584
-id:10505c73-9175-4004-a642-5a1a81dfd424
+created:1582954316281
+id:9937104b-63f3-406f-bd09-800133c94e25
 isview:false
-map.base:8c910eb0-a0e0-4a78-ad2f-f175b3e2f11d
+map.base:df2de5d1-db2a-4dde-bade-23718915ad64
 map.role:definition
 map.type:neighbor
-modified:1582720021584
+modified:1582954316281
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/General Data Protection Regulation
-tmap.id:10505c73-9175-4004-a642-5a1a81dfd424
+tmap.id:9937104b-63f3-406f-bd09-800133c94e25
 type:text/vnd.tiddlywiki
 
 Neighbor Map of General Data Protection Regulation

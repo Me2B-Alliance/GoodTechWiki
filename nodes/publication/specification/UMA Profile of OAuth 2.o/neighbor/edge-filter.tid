@@ -1,12 +1,12 @@
-created:1582720021662
+created:1582954316350
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:cf040d5b-250b-47ca-bfd3-795536027cac
+map.base:2e3b0bb3-2a2c-40dc-8f75-dd5e7fda866d
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021662
+modified:1582954316350
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UMA Profile of OAuth 2.o/filter/edges
-tmap.id:5ae00003-b385-4153-bd01-877354247a35
+tmap.id:510e0dc9-6f08-4ddd-883b-3cc35291e536
 type:text/vnd.tiddlywiki
 
 No body provided

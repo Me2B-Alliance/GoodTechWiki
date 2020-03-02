@@ -1,12 +1,12 @@
-created:1582720021465
-filter:[field:tmap.id[54b8b80e-d005-417b-8fff-15c68ee5324f]]
-map.base:54b8b80e-d005-417b-8fff-15c68ee5324f
+created:1582954316192
+filter:[field:tmap.id[61a5d8e8-7477-4f08-b41b-75e4ee109b03]]
+map.base:61a5d8e8-7477-4f08-b41b-75e4ee109b03
 map.role:node-filter
 map.type:neighbor
-modified:1582720021465
+modified:1582954316192
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GliaNet/filter/nodes
-tmap.id:0b6ef185-acd1-4921-9086-f146c804860a
+tmap.id:9e370498-e23a-4051-a1ac-90e034a82138
 type:text/vnd.tiddlywiki
 
 No body provided

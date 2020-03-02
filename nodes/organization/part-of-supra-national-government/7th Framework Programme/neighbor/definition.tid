@@ -1,17 +1,17 @@
-config.central-topic:d8269171-8eb3-419b-80a4-9852b33506a3
+config.central-topic:46e869be-9b7e-4984-8dcb-824fd3109b8c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021478
-id:a0eadf63-5ed3-430c-8fbe-244b611874ac
+created:1582954316203
+id:794c404a-5001-4076-a0cc-bccc7a74e0d5
 isview:false
-map.base:d8269171-8eb3-419b-80a4-9852b33506a3
+map.base:46e869be-9b7e-4984-8dcb-824fd3109b8c
 map.role:definition
 map.type:neighbor
-modified:1582720021478
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/7th Framework Programme
-tmap.id:a0eadf63-5ed3-430c-8fbe-244b611874ac
+tmap.id:794c404a-5001-4076-a0cc-bccc7a74e0d5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 7th Framework Programme

@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[kadija ferryman]] [[mikaela pitcan]]
-created:1582720003602
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204779
 name:What is Precision Medicine?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[fairness in precision medicine]] [[health and data]]
+tags:[[fairness in precision medicine]] [[fairness in precision medicine (publication) (tag)]] [[health and data (tag)]]
 tech.focus:
 tiddler.classification:node
 title:What is Precision Medicine?
 tmap.edges:{}
-tmap.id:4ca498ab-e62a-4736-8b3d-f417c61d5759
+tmap.id:59379109-0217-4446-84f4-ee05da16227e
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/what-is-precision-medicine/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 What is Precision Medicine? is a general audience white paper by Dr. Kadija Ferryman and Mikaela Pitcan that introduces and outlines the emerging field of precision medicine; the effort...
+
+
 

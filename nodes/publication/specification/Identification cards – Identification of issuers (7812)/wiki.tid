@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003343
+created:1582954204510
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003343
+modified:1582954204510
 name:Identification cards – Identification of issuers (7812)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Identification of issuers (7812)
-tmap.edges:{"e50cbd28-3f27-489d-b687-ef5a64714126":{"to":"5be7bd37-5848-4113-91e6-a324cd000472","type":"specification-of-group"}}
-tmap.id:191b6b54-3569-4c00-af21-07732699c3a5
+tmap.edges:{"b2b4a12b-670a-4123-8bbc-8ba060e17874":{"to":"700e3903-84d3-40e1-8270-5d44dd02a2cd","type":"specification-of-group"}}
+tmap.id:d57cad45-1116-4385-89ff-25ac127895bb
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -27,4 +27,6 @@ working.group:
 
 7812-1 This part of ISO/IEC 7812 specifies a numbering system for the identification of issuers of identification cards used in international and/or inter-industry interchange.
 7812-2 This part of ISO/IEC 7812 describes the application and registration procedures for numbers issued in accordance with ISO/IEC 7812-1.
+
+
 

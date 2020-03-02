@@ -1,12 +1,12 @@
-created:1582720021598
-filter:[field:tmap.id[3095adc4-c9c8-4b09-9167-6ed0918d9e5c]]
-map.base:3095adc4-c9c8-4b09-9167-6ed0918d9e5c
+created:1582954316298
+filter:[field:tmap.id[bca381ec-4cd9-4782-89b1-cc19e6fd963b]]
+map.base:bca381ec-4cd9-4782-89b1-cc19e6fd963b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021598
+modified:1582954316298
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LD Signature Format Alignment/filter/nodes
-tmap.id:6f345717-f53b-4c30-834b-f4fdf33bdf33
+tmap.id:3c38112f-3610-459d-be0d-cc8ca7e05905
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Inrupt
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Inrupt
-tmap.edges:{"2e6cd009-51ce-4846-8db8-02e0e15fd38c":{"to":"312d2468-0a92-4742-b48b-3338d9390602","type":"Organization Supports Project or Product"}}
-tmap.id:ab32425a-2964-479b-b1be-148bd8d4f630
+tmap.edges:{"a4e3fe8c-4729-43e4-8ffe-0ca5a4a813ab":{"to":"71c09a62-e64c-4acc-9caa-93d681bda12b","type":"Organization Supports Project or Product"}}
+tmap.id:a457fc38-54d0-44cc-a472-8321c5d109cf
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://inrupt.com/
@@ -46,4 +46,6 @@ Solid works across all data formats neutralizing data silos and incompatibility 
 A world of new business opportunities
 
 Inrupt creates a new ecosystem for commerce, a place where entrepreneurial developers can innovate and generate revenue, and trusted businesses provide ancillary products and services.
+
+
 

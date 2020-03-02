@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:[[christina bowen]] [[philip sheldrake]]
 linkedin.profile:https://www.linkedin.com/company/diglife/
 location(s):
 me2b.relationship:[[tbd]]
-modified:1582720003590
+modified:1582954204766
 org.name:Digital Life Collective
 org.type:cooperative
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Life Collective
-tmap.edges:{"5b9580d9-21f1-4898-bdb4-87a9f5c3345c":{"to":"aaa11b5b-f3a8-4479-a294-4292d4a814b7","type":"Organization Supports Project or Product"},"a1c3e196-82c3-489c-b58f-04157fdd18bd":{"to":"c49b56c0-572a-4512-94e3-db7e7d954e10","type":"Organization Supports Project or Product"}}
-tmap.id:712bc60f-bbd0-48c1-b8c0-ee7c0bb2037c
+tmap.edges:{"78e87e06-7a29-4027-924d-5056494d2bdb":{"to":"b5354804-ad14-407d-bd34-f9be58be3c7b","type":"Organization Supports Project or Product"},"bcf614b6-907b-4b4e-ae1f-2fc8f05327e4":{"to":"9daf9d1b-8e25-4a04-9393-a07a2ef3ad16","type":"Organization Supports Project or Product"}}
+tmap.id:a0729e9d-5042-4a58-acb3-5f84d78e3917
 twitter.profile:https://twitter.com/tech_we_trust
 type:text/vnd.tiddlywiki
 website:https://diglife.com/
@@ -37,4 +37,6 @@ website:https://diglife.com/
 The Digital Life Collective researches: develops: funds and supports Tech We Trust: technologies that prioritize our autonomy: privacy and dignity. Our tech: not their tech.
 
 Forming a co-operative of like-minded people is the best and perhaps only way to nurture Tech We Trust.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:66e0088f-d2c0-446d-bc1f-3edc6436ce8b
+config.central-topic:07e4a1bd-1d53-4967-ad52-0a4fb71c76a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021511
-id:f158d645-706f-4162-8847-1c174315293a
+created:1582954316224
+id:7486fa9d-a2e4-4309-929d-5dcd1bddbc89
 isview:false
-map.base:66e0088f-d2c0-446d-bc1f-3edc6436ce8b
+map.base:07e4a1bd-1d53-4967-ad52-0a4fb71c76a2
 map.role:definition
 map.type:neighbor
-modified:1582720021511
+modified:1582954316224
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GEANT (GEANT)
-tmap.id:f158d645-706f-4162-8847-1c174315293a
+tmap.id:7486fa9d-a2e4-4309-929d-5dcd1bddbc89
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GEANT (GEANT)

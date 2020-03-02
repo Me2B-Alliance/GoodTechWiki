@@ -1,12 +1,12 @@
-created:1582720021700
-filter:[field:tmap.id[5b943bee-c709-4611-83f9-f1e4e470688e]]
-map.base:5b943bee-c709-4611-83f9-f1e4e470688e
+created:1582954316380
+filter:[field:tmap.id[7a003842-ab2a-422d-b974-3b3d755ccd3a]]
+map.base:7a003842-ab2a-422d-b974-3b3d755ccd3a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021700
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Research Task Force IRTF/filter/nodes
-tmap.id:e47deee0-a9c6-4888-b802-47f3e6526f86
+tmap.id:b8eca6c5-3db5-4b07-ba74-266d9397019e
 type:text/vnd.tiddlywiki
 
 No body provided

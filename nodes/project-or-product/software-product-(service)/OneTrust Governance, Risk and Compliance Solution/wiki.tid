@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:OneTrust Governance, Risk and Compliance Solution
 parent.org:One Trust
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:OneTrust Governance, Risk and Compliance Solution
 tmap.edges:{}
-tmap.id:2d58ae32-582e-417e-a60f-b46c576cc8e2
+tmap.id:d432eab2-32f2-4606-b5a8-7245c150695a
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/solutions/governance-risk-compliance/
 version.or.edition:
@@ -35,4 +35,6 @@ OneTrust Governance, Risk and Compliance Solution (GRC) offers an integrated ris
     Expedite to your time to value and ease the ongoing maintenance of incorporating risk management
 
     Deliver the appropriate visibility and plan of action for a proactive risk management approach
+
+
 

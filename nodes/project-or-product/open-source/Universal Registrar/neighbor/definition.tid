@@ -1,17 +1,17 @@
-config.central-topic:19f21adf-9726-47da-ad2d-6d3e321b20f3
+config.central-topic:018fddb2-e4cc-4b91-8131-a6a0d6452fe8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021539
-id:876434aa-2302-4677-af2f-f35fb0c5ba8a
+created:1582954316244
+id:e97d1913-1f51-4a90-9125-25b51af70fe9
 isview:false
-map.base:19f21adf-9726-47da-ad2d-6d3e321b20f3
+map.base:018fddb2-e4cc-4b91-8131-a6a0d6452fe8
 map.role:definition
 map.type:neighbor
-modified:1582720021539
+modified:1582954316244
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Universal Registrar
-tmap.id:876434aa-2302-4677-af2f-f35fb0c5ba8a
+tmap.id:e97d1913-1f51-4a90-9125-25b51af70fe9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Universal Registrar

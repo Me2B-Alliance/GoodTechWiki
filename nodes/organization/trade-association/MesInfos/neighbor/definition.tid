@@ -1,17 +1,17 @@
-config.central-topic:298f4b75-99d7-477c-8d45-3bdb077913d2
+config.central-topic:ef5232fc-8af2-467c-b13f-d4e64471f5e1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021517
-id:6b28eb4a-74f4-4f8e-85e1-e0472804b660
+created:1582954316228
+id:ca6a8033-d9d4-4f83-94ea-9fc5d59553dd
 isview:false
-map.base:298f4b75-99d7-477c-8d45-3bdb077913d2
+map.base:ef5232fc-8af2-467c-b13f-d4e64471f5e1
 map.role:definition
 map.type:neighbor
-modified:1582720021517
+modified:1582954316228
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MesInfos
-tmap.id:6b28eb4a-74f4-4f8e-85e1-e0472804b660
+tmap.id:ca6a8033-d9d4-4f83-94ea-9fc5d59553dd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MesInfos

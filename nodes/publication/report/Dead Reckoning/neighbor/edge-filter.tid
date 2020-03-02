@@ -1,12 +1,12 @@
-created:1582720021616
+created:1582954316312
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4c8f9b05-a135-4f75-b9ef-76c25e196a08
+map.base:8dbdf17a-e2d3-41e1-8da8-b8f27d6efbd3
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021616
+modified:1582954316312
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dead Reckoning/filter/edges
-tmap.id:ee7f3834-2d4f-4afb-be41-37118234fba9
+tmap.id:f58c4b6a-823c-4e59-ae47-53131a097179
 type:text/vnd.tiddlywiki
 
 No body provided

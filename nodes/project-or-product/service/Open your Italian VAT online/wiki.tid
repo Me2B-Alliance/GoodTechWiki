@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003596
+category:[[service]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:Open your Italian VAT online
 parent.org:iubenda
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Open your Italian VAT online
 tmap.edges:{}
-tmap.id:020de534-b15d-4bc7-8919-cfbdaaf930ef
+tmap.id:f6812aa3-c3eb-47ae-9fc3-c427c2e72343
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/it/fide/partita-iva
 version.or.edition:
 working.group:
 
 With iubenda you can open your VAT in Italy, the easiest and safest way. Learn how you can access to tax benefits, pick your sector of choice, start invoicing today.
+
+
 

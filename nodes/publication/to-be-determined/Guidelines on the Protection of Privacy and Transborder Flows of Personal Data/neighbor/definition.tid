@@ -1,17 +1,17 @@
-config.central-topic:945ff00e-e58a-4276-8fe6-2e2280f85a59
+config.central-topic:6028fe1c-59cd-4d77-a1b2-99712d7b58ae
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021678
-id:92dc466b-6719-45fa-b92f-f32fc2c603c1
+created:1582954316359
+id:952ca466-7dd6-404d-b9ab-d251e74bb254
 isview:false
-map.base:945ff00e-e58a-4276-8fe6-2e2280f85a59
+map.base:6028fe1c-59cd-4d77-a1b2-99712d7b58ae
 map.role:definition
 map.type:neighbor
-modified:1582720021678
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on the Protection of Privacy and Transborder Flows of Personal Data
-tmap.id:92dc466b-6719-45fa-b92f-f32fc2c603c1
+tmap.id:952ca466-7dd6-404d-b9ab-d251e74bb254
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on the Protection of Privacy and Transborder Flows of Personal Data

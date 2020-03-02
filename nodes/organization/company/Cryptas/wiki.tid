@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003386
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003386
+modified:1582954204555
 org.name:Cryptas
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:Cryptas
-tmap.edges:{"63b856f8-f055-4dc4-9ced-08f0eec97544":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:40ca5114-336f-489c-980a-4bf3003d8474
+tmap.edges:{"a1167914-5330-4b58-b78f-b36938bd4d1f":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:ac7334e6-50ac-4f95-a3c9-ae7b3a4cbe5a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.cryptas.com/en.html
 
 Cryptas has many years of practical expertise in providing and implementing systems for protected electronic identities in large scale enterprise environments. To highlight this in context is the holistic approach developed to get the requirements of technical, security, operational, legal cost side issues solved as well as talking care of usability (user acceptance) and change (stakeholder) management issues. Cryptas develops and sells its own enabling technology to enhance strong authentication in large scale applications, but also partners with well-known industry members. Cryptas is purely focused on this topic and has been successful in business for over nine years.
+
+
 

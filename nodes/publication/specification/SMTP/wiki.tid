@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003341
+created:1582954204508
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003341
+modified:1582954204508
 name:SMTP
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:SMTP
-tmap.edges:{"fa16699f-8cf6-4766-aae3-ac73d69b9383":{"to":"dd3ec96b-a3d0-4376-94e4-0c7eed8e395f","type":"organization-for-group"}}
-tmap.id:6e22e899-3032-4ebd-a54a-b1ef42483b25
+tmap.edges:{"de3efebc-8b10-4cf2-a5c7-1666f92b3aa0":{"to":"0907cf3a-cfe2-4f5d-a304-a6c8c8c52f56","type":"organization-for-group"}}
+tmap.id:80cd4288-9172-439d-b4fb-5698769a19f6
 type:text/vnd.tiddlywiki
 url:https://tools.ietf.org/html/rfc5321
 version.or.edition:
@@ -35,4 +35,6 @@ This document is a specification of the basic protocol for Internet
    information that is important to its use as a "mail submission"
    protocol for "split-UA" (User Agent) mail reading systems and mobile
    environments.
+
+
 

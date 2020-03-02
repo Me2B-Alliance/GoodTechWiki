@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003368
+created:1582954204537
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003368
+modified:1582954204537
 org.name:US Customs and Boarder Protection
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:US Customs and Boarder Protection
-tmap.edges:{"116e867a-1706-48ec-8471-9e4ec0d18662":{"to":"32c68df0-ecd2-42b2-b355-f65e93e4eb40","type":"government-connection"}}
-tmap.id:4b1d159a-98d9-4842-a676-80d6a645d4a1
+tmap.edges:{"e348b257-a9b4-4a78-a145-13036addfc2b":{"to":"039b839b-1f2f-4516-89b4-657b4619fe9d","type":"government-connection"}}
+tmap.id:08f762c0-7b65-4c75-a406-664bc80df1f0
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,12 +1,12 @@
-created:1582720021494
-filter:[field:tmap.id[043e5576-6837-4a5f-bc35-9622e591e16b]]
-map.base:043e5576-6837-4a5f-bc35-9622e591e16b
+created:1582954316215
+filter:[field:tmap.id[386bc654-14b8-462f-bab7-8f0697955091]]
+map.base:386bc654-14b8-462f-bab7-8f0697955091
 map.role:node-filter
 map.type:neighbor
-modified:1582720021494
+modified:1582954316215
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Metamatrix AB/filter/nodes
-tmap.id:fb3aae9d-2049-47a1-bb40-42acc93f7ff3
+tmap.id:ae97dc01-6c13-42cb-b6fc-cf7e0cd29691
 type:text/vnd.tiddlywiki
 
 No body provided

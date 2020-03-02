@@ -1,17 +1,17 @@
-config.central-topic:78dc6884-44e5-49e4-9d3f-041a1232a623
+config.central-topic:4ab83098-27e8-4ea1-b6e0-29913ebc91f5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021649
-id:967e5246-03e6-4343-9096-fd56c40318ad
+created:1582954316341
+id:25cd579c-e219-4591-beef-31a6cec31381
 isview:false
-map.base:78dc6884-44e5-49e4-9d3f-041a1232a623
+map.base:4ab83098-27e8-4ea1-b6e0-29913ebc91f5
 map.role:definition
 map.type:neighbor
-modified:1582720021649
+modified:1582954316341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Credential Handler API
-tmap.id:967e5246-03e6-4343-9096-fd56c40318ad
+tmap.id:25cd579c-e219-4591-beef-31a6cec31381
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Credential Handler API

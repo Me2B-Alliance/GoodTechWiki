@@ -1,12 +1,12 @@
-created:1582720021594
+created:1582954316290
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:563eedef-38e4-4d55-b1d0-df84bff6da39
+map.base:41f69ecd-3847-4119-bff0-0d6cc6ea8253
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021594
+modified:1582954316290
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Enlightenment Forum Yearbook/filter/edges
-tmap.id:b3622f71-9651-4a77-ab0b-4fa7d470ab95
+tmap.id:947ee18a-1bd2-4c93-a706-0992c4a6fa34
 type:text/vnd.tiddlywiki
 
 No body provided

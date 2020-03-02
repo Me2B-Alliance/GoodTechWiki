@@ -1,17 +1,17 @@
-config.central-topic:812075f7-49ff-40bc-9938-994907252481
+config.central-topic:39c92b88-7544-4602-87f0-22e2d5cb93d7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021597
-id:def6c1f0-18b6-41e9-a3c1-c20e564c91f7
+created:1582954316295
+id:d331424a-096c-47aa-b718-b3292339ce0e
 isview:false
-map.base:812075f7-49ff-40bc-9938-994907252481
+map.base:39c92b88-7544-4602-87f0-22e2d5cb93d7
 map.role:definition
 map.type:neighbor
-modified:1582720021597
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How SSI Will Survive Capitalism
-tmap.id:def6c1f0-18b6-41e9-a3c1-c20e564c91f7
+tmap.id:d331424a-096c-47aa-b718-b3292339ce0e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How SSI Will Survive Capitalism

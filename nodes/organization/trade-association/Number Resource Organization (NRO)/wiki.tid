@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003377
+created:1582954204545
 date.ended:
 date.founded:2005-01-04
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003377
+modified:1582954204545
 org.name:Number Resource Organization (NRO)
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Number Resource Organization (NRO)
-tmap.edges:{"16098f56-4fd6-4099-8ab3-c5543441d7fd":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:4ca1c3c6-9f6b-4ad7-a387-49850e446e21
+tmap.edges:{"2ff954dd-b284-46cf-8bdd-99bcdbbfd210":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:ad19671f-3022-4169-b1ab-07a594efeb1e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.nro.net
@@ -39,4 +39,6 @@ To actively contribute to an open, stable and secure Internet, through:
 • Providing and promoting a coordinated Internet number registry system
 • Being an authoritative voice on the multi-stakeholder model and bottom-up policy process in Internet governance
 • Coordinating and supporting joint activities of the RIRs
+
+
 

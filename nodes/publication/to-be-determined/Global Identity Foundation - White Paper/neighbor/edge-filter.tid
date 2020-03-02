@@ -1,12 +1,12 @@
-created:1582720021678
+created:1582954316360
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9f8a27bc-ef25-4f9c-b438-fafb5943bd6f
+map.base:ca900031-4a99-4d84-8593-53ff1e6c8a51
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021678
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Identity Foundation - White Paper/filter/edges
-tmap.id:3403763d-b44a-442e-9f03-a90bd1bf0099
+tmap.id:9743c57b-6a83-4a16-9be3-3600d8b7bb64
 type:text/vnd.tiddlywiki
 
 No body provided

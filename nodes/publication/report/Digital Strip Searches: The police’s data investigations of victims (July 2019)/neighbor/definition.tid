@@ -1,17 +1,17 @@
-config.central-topic:40e928cf-6aa5-459d-bd6c-5fc787ec5c9e
+config.central-topic:6d1171a0-6736-4598-a12e-8f3fcbd8bc31
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021617
-id:662f2864-80dd-4de3-90f2-6851485459fd
+created:1582954316314
+id:32408a41-0720-471f-aa9b-17949a445c4f
 isview:false
-map.base:40e928cf-6aa5-459d-bd6c-5fc787ec5c9e
+map.base:6d1171a0-6736-4598-a12e-8f3fcbd8bc31
 map.role:definition
 map.type:neighbor
-modified:1582720021617
+modified:1582954316314
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Strip Searches: The police’s data investigations of victims (July 2019)
-tmap.id:662f2864-80dd-4de3-90f2-6851485459fd
+tmap.id:32408a41-0720-471f-aa9b-17949a445c4f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Strip Searches: The police’s data investigations of victims (July 2019)

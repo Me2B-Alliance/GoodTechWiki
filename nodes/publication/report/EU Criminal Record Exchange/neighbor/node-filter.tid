@@ -1,12 +1,12 @@
-created:1582720021622
-filter:[field:tmap.id[bf3e426a-8d1f-4484-98fe-9e2a73ba8259]]
-map.base:bf3e426a-8d1f-4484-98fe-9e2a73ba8259
+created:1582954316315
+filter:[field:tmap.id[ff23688f-12e6-4b1f-aff2-67a8a0b823e2]]
+map.base:ff23688f-12e6-4b1f-aff2-67a8a0b823e2
 map.role:node-filter
 map.type:neighbor
-modified:1582720021622
+modified:1582954316315
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EU Criminal Record Exchange/filter/nodes
-tmap.id:71712ca4-1a20-4524-a619-4b4de1e1b8eb
+tmap.id:b2b04901-4cad-4eca-a602-340d33a0ec30
 type:text/vnd.tiddlywiki
 
 No body provided

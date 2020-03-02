@@ -1,17 +1,17 @@
-config.central-topic:9c1a2f36-06c0-42b6-8c88-a89ff6bf4404
+config.central-topic:d2bfab1e-032c-4b47-ac19-4c06f8fdabac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021552
-id:d690d77a-d06e-4635-87e9-c6c502876fa9
+created:1582954316262
+id:e8730a4f-f76f-4ffd-9816-5f07bea3ffee
 isview:false
-map.base:9c1a2f36-06c0-42b6-8c88-a89ff6bf4404
+map.base:d2bfab1e-032c-4b47-ac19-4c06f8fdabac
 map.role:definition
 map.type:neighbor
-modified:1582720021552
+modified:1582954316262
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/WISER Wide-Impact cyber Security Risk framework
-tmap.id:d690d77a-d06e-4635-87e9-c6c502876fa9
+tmap.id:e8730a4f-f76f-4ffd-9816-5f07bea3ffee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of WISER Wide-Impact cyber Security Risk framework

@@ -1,17 +1,17 @@
-config.central-topic:2b3014af-8ed7-4751-a2ab-e8605f0f86df
+config.central-topic:bef9cb59-1362-4f01-9d47-feeec8d73f17
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021468
-id:3711b065-2a04-4181-9c11-e2c7e4d9ad7e
+created:1582954316194
+id:69224645-0267-4931-bf7a-f076fef14c81
 isview:false
-map.base:2b3014af-8ed7-4751-a2ab-e8605f0f86df
+map.base:bef9cb59-1362-4f01-9d47-feeec8d73f17
 map.role:definition
 map.type:neighbor
-modified:1582720021468
+modified:1582954316194
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Terms of Service Didn't Read
-tmap.id:3711b065-2a04-4181-9c11-e2c7e4d9ad7e
+tmap.id:69224645-0267-4931-bf7a-f076fef14c81
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Terms of Service Didn't Read

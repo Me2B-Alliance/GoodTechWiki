@@ -1,12 +1,12 @@
-created:1582720021562
+created:1582954316268
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e6bf5b02-5ea5-453a-9943-6282fa2e17f0
+map.base:1df04121-3261-4ee7-8db9-305e783fe1d9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021562
+modified:1582954316268
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Project VRM - Development/filter/edges
-tmap.id:6eae78cb-7245-413d-8a2c-ad06312a6527
+tmap.id:d464c35a-b484-49f1-8c2e-9b188901999a
 type:text/vnd.tiddlywiki
 
 No body provided

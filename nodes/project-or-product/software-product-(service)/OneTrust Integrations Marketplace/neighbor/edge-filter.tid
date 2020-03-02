@@ -1,12 +1,12 @@
-created:1582720021566
+created:1582954316270
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:69f3ffc6-f7db-48f2-b213-6114da5c244f
+map.base:14ad0cd0-a8a7-4929-b73b-be605f47dde5
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021566
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Integrations Marketplace/filter/edges
-tmap.id:3f3a6d2c-5339-47e6-a97b-35dcff13cb3b
+tmap.id:e0d2da47-129d-439e-8f18-1c477b8c663a
 type:text/vnd.tiddlywiki
 
 No body provided

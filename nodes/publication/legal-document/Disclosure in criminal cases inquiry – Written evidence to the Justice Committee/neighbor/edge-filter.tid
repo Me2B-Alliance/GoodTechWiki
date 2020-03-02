@@ -1,12 +1,12 @@
-created:1582720021580
+created:1582954316280
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:60021c93-ce26-40ea-87d5-fed170b0870e
+map.base:fc464e4d-e956-4b17-a342-0d195d657210
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021580
+modified:1582954316280
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Disclosure in criminal cases inquiry – Written evidence to the Justice Committee/filter/edges
-tmap.id:77588e79-eb60-475a-aaca-0815716f48a8
+tmap.id:ed8a7642-9530-40ca-8430-1e97a1929fb9
 type:text/vnd.tiddlywiki
 
 No body provided

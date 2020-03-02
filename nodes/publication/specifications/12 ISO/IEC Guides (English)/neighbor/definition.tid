@@ -1,17 +1,17 @@
-config.central-topic:b66b4e4e-ed81-4a66-bf8f-715231c003d3
+config.central-topic:f74cee03-f9d7-4a8b-b6a6-95dc238b1637
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021664
-id:7ef485f3-a8cf-4e31-8a5e-ab6e80c217da
+created:1582954316352
+id:6684e7c6-f50c-4e0f-87bd-161f6a37663a
 isview:false
-map.base:b66b4e4e-ed81-4a66-bf8f-715231c003d3
+map.base:f74cee03-f9d7-4a8b-b6a6-95dc238b1637
 map.role:definition
 map.type:neighbor
-modified:1582720021664
+modified:1582954316352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/12 ISO/IEC Guides (English)
-tmap.id:7ef485f3-a8cf-4e31-8a5e-ab6e80c217da
+tmap.id:6684e7c6-f50c-4e0f-87bd-161f6a37663a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 12 ISO/IEC Guides (English)

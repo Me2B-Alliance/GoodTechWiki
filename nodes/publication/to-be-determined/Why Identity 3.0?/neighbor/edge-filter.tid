@@ -1,12 +1,12 @@
-created:1582720021683
+created:1582954316364
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7b9ee2ee-7cfc-45e8-a1a8-23f3ef1377d5
+map.base:43091871-ed0c-4056-8347-41011f907578
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021683
+modified:1582954316364
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why Identity 3.0?/filter/edges
-tmap.id:30e8f620-ae7a-48de-aae1-91e8c68a5839
+tmap.id:04fe6e5d-db87-4b07-94fc-f4cb995247dc
 type:text/vnd.tiddlywiki
 
 No body provided

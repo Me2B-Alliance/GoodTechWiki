@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204555
 org.name:Cogito Group
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Cogito Group
-tmap.edges:{"e8132ad1-72be-4f3f-8964-3463f8dcef24":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:73195939-46c1-4cee-86dc-d1ac5e1bbf29
+tmap.edges:{"ad2e3fc0-927a-42be-8eb7-25b16488e5c4":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:2662d41e-8050-4368-a8bf-e9c9e9b18f12
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://cogitogroup.com.au
@@ -36,4 +36,6 @@ website:https://cogitogroup.com.au
 Cogito Group is an Australian owned ICT company dedicated to providing organisations with digital security solutions.
 
 Cogito Group assists organisations with their digital security and authentication requirements. We take the ‘trust’ conventions that work in the physical market place, that protect organisations from fraud, such as photo identification; hand written signatures, – and make them work online.
+
+
 

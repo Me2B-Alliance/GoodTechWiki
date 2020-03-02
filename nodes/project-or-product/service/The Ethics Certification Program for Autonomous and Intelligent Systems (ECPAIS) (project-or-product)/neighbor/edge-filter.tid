@@ -1,12 +1,12 @@
-created:1582720021557
+created:1582954316264
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:32d64c50-634e-43d9-b98d-6e9e889a9e4e
+map.base:3efa7cbf-2d04-44bd-9af9-af0e266aaef7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021557
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (project-or-product)/filter/edges
-tmap.id:e166f33e-82f0-45c3-b50a-db4af62cd305
+tmap.id:a19b9d25-f6de-448d-831e-02510fc25b77
 type:text/vnd.tiddlywiki
 
 No body provided

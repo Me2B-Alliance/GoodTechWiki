@@ -1,17 +1,17 @@
-config.central-topic:4fc366bb-4264-4563-ba31-7f1c138f3cad
+config.central-topic:a5a13ad4-057c-484e-82ae-b26e4f578f69
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021538
-id:8aeb3d7f-bd3a-4975-a0be-fe1cd1ff0c2d
+created:1582954316271
+id:8f6551a4-407c-4d94-92db-a8dba5b97801
 isview:false
-map.base:4fc366bb-4264-4563-ba31-7f1c138f3cad
+map.base:a5a13ad4-057c-484e-82ae-b26e4f578f69
 map.role:definition
 map.type:neighbor
-modified:1582720021538
+modified:1582954316271
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Icons
-tmap.id:8aeb3d7f-bd3a-4975-a0be-fe1cd1ff0c2d
+tmap.id:8f6551a4-407c-4d94-92db-a8dba5b97801
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Icons

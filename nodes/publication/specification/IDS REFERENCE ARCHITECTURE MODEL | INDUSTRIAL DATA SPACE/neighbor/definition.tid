@@ -1,17 +1,17 @@
-config.central-topic:650411f6-4782-4df3-a15e-2b1b7dcd0daf
+config.central-topic:4e5c7e26-489a-4f4d-aa8a-90d3c6de1231
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021654
-id:5ef6b7e3-35ce-4a5e-876a-cb5adec67baf
+created:1582954316344
+id:d63156dc-5384-4fac-a14a-d96848815dd7
 isview:false
-map.base:650411f6-4782-4df3-a15e-2b1b7dcd0daf
+map.base:4e5c7e26-489a-4f4d-aa8a-90d3c6de1231
 map.role:definition
 map.type:neighbor
-modified:1582720021654
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE
-tmap.id:5ef6b7e3-35ce-4a5e-876a-cb5adec67baf
+tmap.id:d63156dc-5384-4fac-a14a-d96848815dd7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE

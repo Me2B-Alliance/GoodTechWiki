@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003593
+created:1582954204769
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003593
+modified:1582954204769
 org.name:Southampton University
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Southampton University
-tmap.edges:{"70c73a9a-7fb0-4455-b7ce-c85a5842ddb2":{"to":"e5592a04-dca4-401a-94cc-c2254ae14062","type":"Organization Supports Project or Product"}}
-tmap.id:07793eb4-00d7-4a92-946b-5a489a1b4526
+tmap.edges:{"e4d990dd-0fd1-47b8-be1c-39fa6ae93381":{"to":"29f1ff23-d4ae-4e01-b631-264988ea6bd1","type":"Organization Supports Project or Product"}}
+tmap.id:8050e3bd-62e7-4528-a6c5-a8a3dd21c160
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.southampton.ac.uk/
@@ -37,4 +37,6 @@ website:https://www.southampton.ac.uk/
 The University of Southampton is an exceptional place whose people achieve remarkable things. We are a world-leading, research-intensive university, with a strong educational offering, renowned for our innovation and enterprise. This is a great platform from which to sharpen our focus with our new strategy.
 
 It’s a very simple strategy. It’s about our aspirations. It’s about building our reputation. It’s about being simply better than our competitors at what we do.
+
+
 

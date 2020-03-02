@@ -1,12 +1,12 @@
-created:1582720021480
-filter:[field:tmap.id[45e4d5d0-940c-4e01-8ef0-f9716f7b493f]]
-map.base:45e4d5d0-940c-4e01-8ef0-f9716f7b493f
+created:1582954316205
+filter:[field:tmap.id[91a0ce13-6c10-401e-adb5-ee215c3c4e64]]
+map.base:91a0ce13-6c10-401e-adb5-ee215c3c4e64
 map.role:node-filter
 map.type:neighbor
-modified:1582720021480
+modified:1582954316205
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Interoperability Framework Observatory (NIFO)/filter/nodes
-tmap.id:4e1f0217-e978-491b-911a-a5874cd5b04c
+tmap.id:c56627f9-d665-4840-9aa3-1021ca71c2a7
 type:text/vnd.tiddlywiki
 
 No body provided

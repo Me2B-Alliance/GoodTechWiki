@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:DEEDS - Dependable, Embedded Systems and Software
 org.type:research lab or center
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:DEEDS - Dependable, Embedded Systems and Software
-tmap.edges:{"8b702799-6fd8-46a4-8f98-c469a855cef1":{"to":"39269fbb-14f8-4b68-9963-60c707556abb","type":"organization-for-group"},"da199f3c-1c11-48ea-b74f-1869d6021d05":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:bc19eb90-4a75-4534-a4a7-67907a07da7e
+tmap.edges:{"94be63a0-0520-4df8-afe9-5a2dc463fe3f":{"to":"dd8c8f99-ccfe-4741-a1c1-790b0e38a1a2","type":"organization-for-group"},"ab18665e-4d61-4a0f-b20d-85712f6ff51b":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:4dc89c82-0fcd-467a-97ef-325be4447b45
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.deeds.informatik.tu-darmstadt.de/deeds/
@@ -37,4 +37,6 @@ The DEEDS group conducts systems research focusing on "Trustworthiness" i.e., Th
 
 Design & Analysis: Exploration of Middleware (Software/OS/Protocols) issues in distributed and networked systems such as Data Centers, Storage and the Cloud infrastructure.
 Assessment: Quantification of Trust (Security Metrics, Threat Profiling, SLAs) and Verification/Validation (experimental FI and formal model checking)
+
+
 

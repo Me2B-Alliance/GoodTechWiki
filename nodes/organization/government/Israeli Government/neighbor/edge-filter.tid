@@ -1,12 +1,12 @@
-created:1582720021460
+created:1582954316189
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:35046ba7-9e28-482e-ae6e-929bcaf608f5
+map.base:8a00a3a5-d4c7-4696-9bbe-87203d1e65a4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021460
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Israeli Government/filter/edges
-tmap.id:af8fe373-abf8-4ef6-a3a4-5b00df5da30a
+tmap.id:1c305154-f406-4e4d-b3fa-2fbd0b5069dd
 type:text/vnd.tiddlywiki
 
 No body provided

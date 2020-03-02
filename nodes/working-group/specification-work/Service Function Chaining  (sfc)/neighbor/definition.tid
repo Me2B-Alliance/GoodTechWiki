@@ -1,17 +1,17 @@
-config.central-topic:a9e8ca91-4328-4479-9b71-03b42679824c
+config.central-topic:4c416c97-44f4-4a68-a14a-066238708fa6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021703
-id:38a8a39e-7e10-45b8-850b-434a0b5fec59
+created:1582954316383
+id:6e2f17ff-8d91-4fea-9db6-b5e97cd3bfbe
 isview:false
-map.base:a9e8ca91-4328-4479-9b71-03b42679824c
+map.base:4c416c97-44f4-4a68-a14a-066238708fa6
 map.role:definition
 map.type:neighbor
-modified:1582720021703
+modified:1582954316383
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Service Function Chaining  (sfc)
-tmap.id:38a8a39e-7e10-45b8-850b-434a0b5fec59
+tmap.id:6e2f17ff-8d91-4fea-9db6-b5e97cd3bfbe
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Service Function Chaining  (sfc)

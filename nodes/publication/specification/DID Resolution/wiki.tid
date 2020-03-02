@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:DID Resolution
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DID Resolution
 tmap.edges:{}
-tmap.id:dbdd8f12-e160-4342-b6f8-9da2a555eb83
+tmap.id:16f4b7d9-d260-4a2b-871a-49d95b098a6b
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/did-resolution
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
  Decentralized Identifiers (DIDs) are a new type of identifier for verifiable, "self-sovereign" digital identity. DIDs are fully under the control of the DID subject, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID.
 
 This document specifies the algorithms and guidelines for resolving DIDs and dereferencing DID URLs.
+
+
 

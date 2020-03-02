@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[robyn caplan]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Questions about Google autocompl
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[algorithms and publics]]
+tags:[[algorithms and publics (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Questions about Google autocompl
 tmap.edges:{}
-tmap.id:cc6a8a53-1171-4519-8796-590880339d4e
+tmap.id:25202c44-d7b9-4583-9b00-7c8b3afef363
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/questions-about-google-autocompl/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
     What the journalists from SourceFed may have stumbled upon was not an instance in which search results were intentionally being manipulated in favor of a candidate, but how algorithms can reflect complex jurisdictional issues and international policies that can, in turn, govern content.
 
 Points/spheres: D&S researcher Robyn Caplan asks: What drives Google’s policy of “not show[ing] a predicted query that is offensive or disparaging when displayed in conjunction with a person’s name?”
+
+
 

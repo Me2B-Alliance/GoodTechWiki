@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003388
+created:1582954204557
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003388
+modified:1582954204557
 org.name:CryptoExperts SAS
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CryptoExperts SAS
-tmap.edges:{"d2d3975f-ec2b-4b5b-ab99-9ca2c67feb6c":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:3248d581-9649-40f3-ad3c-3d5a8b487a25
+tmap.edges:{"bec63efc-7800-491d-ab8b-a2f89d3e5fca":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:1f9c4d1f-4aeb-4f79-98bf-7680025042c8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.cryptoexperts.com
+
+
 
 
 

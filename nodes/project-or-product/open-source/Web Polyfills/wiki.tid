@@ -1,7 +1,7 @@
 activities:
 audience:
-category:open source
-created:1582720003596
+category:[[open source]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:Web Polyfills
 parent.org:Decentralized Identity Foundation
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Web Polyfills
 tmap.edges:{}
-tmap.id:e981c199-1c94-4d9e-92c4-149a6042ad02
+tmap.id:ee80a43d-e105-407f-b997-b5cc6136572a
 type:text/vnd.tiddlywiki
 url:https://github.com/decentralized-identity/web-polyfills
 version.or.edition:
 working.group:
 
 Polyfills for proposed or emerging DID-centric Web APIs
+
+
 

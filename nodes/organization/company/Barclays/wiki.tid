@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204556
 org.name:Barclays
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Barclays
-tmap.edges:{"90d501a5-6ded-448c-bbfe-892f71d58fea":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"},"d3e79abf-e21a-4fd5-bc27-015bb685b579":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:b9c058ca-8b45-4362-b361-df90ee5cd4a0
+tmap.edges:{"97f1c8d2-c3cb-4ee2-9bfb-8982bc02455d":{"to":"0eb79291-2a2a-4d18-bd85-8e627af01f5f","type":"certified-idp"},"7493838a-8842-4df5-b173-783fa43bf4c3":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:dd34ae8f-ef66-4e8e-b0d0-acc169e9e6a1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.barclays.co.uk/identity
+
+
 
 
 

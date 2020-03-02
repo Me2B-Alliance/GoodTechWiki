@@ -1,12 +1,12 @@
-created:1582720021574
+created:1582954316274
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6b6861d6-9b5b-4525-a116-1b98a269a740
+map.base:07d34ea8-9e12-4ad8-bcac-4fb53c938c11
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021574
+modified:1582954316274
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Declaration of Digital Independence/filter/edges
-tmap.id:e8d97e58-5b76-449a-b261-1bd65606534e
+tmap.id:4fb31272-4174-471b-b301-58652130dff8
 type:text/vnd.tiddlywiki
 
 No body provided

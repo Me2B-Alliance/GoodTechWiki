@@ -1,12 +1,12 @@
-created:1582720021583
+created:1582954316280
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:39f8dc17-e185-4c91-a745-969f1bf5d6cc
+map.base:ae67386b-c811-45b3-b81a-80213ace2a90
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021583
+modified:1582954316280
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Oversight Committee – Live facial recognition impact on rights and liberties (22 May 2019)/filter/edges
-tmap.id:b433f6a5-5bb1-4009-b36f-14797c487dc4
+tmap.id:ea3d29b8-48dd-4a18-9a20-6336f58c1d32
 type:text/vnd.tiddlywiki
 
 No body provided

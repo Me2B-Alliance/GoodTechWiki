@@ -1,17 +1,17 @@
-config.central-topic:80451c2b-560a-433b-a3b8-6ea3adcfcc16
+config.central-topic:1a5160e8-2519-4afe-99df-bc04f78e7d62
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021478
-id:0e90c380-13ae-4b2a-b2a5-f22838644194
+created:1582954316204
+id:77fc6f2e-ea9f-42d3-af90-cce66128975a
 isview:false
-map.base:80451c2b-560a-433b-a3b8-6ea3adcfcc16
+map.base:1a5160e8-2519-4afe-99df-bc04f78e7d62
 map.role:definition
 map.type:neighbor
-modified:1582720021478
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Building Blocks / CEF Digital Portal
-tmap.id:0e90c380-13ae-4b2a-b2a5-f22838644194
+tmap.id:77fc6f2e-ea9f-42d3-af90-cce66128975a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CEF Building Blocks / CEF Digital Portal

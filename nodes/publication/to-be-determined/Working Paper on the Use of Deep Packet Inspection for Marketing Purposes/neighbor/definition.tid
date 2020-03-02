@@ -1,17 +1,17 @@
-config.central-topic:94ebb9d0-a352-4ce4-a806-1a2110a83db0
+config.central-topic:49d2c38d-3f82-4178-9aa4-7b4c951024df
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021685
-id:77651975-e8e0-47ac-b7a1-1da3fa6c8e12
+created:1582954316365
+id:b4841056-9e39-40b3-a365-f119cac67ca2
 isview:false
-map.base:94ebb9d0-a352-4ce4-a806-1a2110a83db0
+map.base:49d2c38d-3f82-4178-9aa4-7b4c951024df
 map.role:definition
 map.type:neighbor
-modified:1582720021685
+modified:1582954316365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on the Use of Deep Packet Inspection for Marketing Purposes
-tmap.id:77651975-e8e0-47ac-b7a1-1da3fa6c8e12
+tmap.id:b4841056-9e39-40b3-a365-f119cac67ca2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on the Use of Deep Packet Inspection for Marketing Purposes

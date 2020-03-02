@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Vastuu Group
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Vastuu Group
-tmap.edges:{"fb5a34d6-d080-40db-9795-0e0783a94e12":{"to":"7b91fc3f-cfea-4054-bf7f-0fa8cdffd9e2","type":"Sponsors"}}
-tmap.id:54a80ab5-68c2-4b5a-90ab-3d95f8ff4447
+tmap.edges:{"5bdd617d-db38-41de-b01a-6cb6319470b9":{"to":"aabd2c17-9c9a-4b87-8752-c4c50c5c2492","type":"Sponsors"}}
+tmap.id:18bd6429-8515-4cd0-a7cf-db42ddec4f6e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.vastuugroup.fi/fi-fi/
@@ -43,4 +43,6 @@ Imagine a future where statutory requirements can be managed by a single click, 
 We believe that a more sustainable built-up environment means better living conditions for us all.
 
 Are you interested in creating a better future? Contact us, so we can do this together!
+
+
 

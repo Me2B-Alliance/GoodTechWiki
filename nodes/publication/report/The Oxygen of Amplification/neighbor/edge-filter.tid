@@ -1,12 +1,12 @@
-created:1582720021641
+created:1582954316331
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:016f4b24-5986-4188-89ac-8bc50cd10c49
+map.base:4af72946-4284-4d96-b0e5-a87c20cfb6a2
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021641
+modified:1582954316331
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Oxygen of Amplification/filter/edges
-tmap.id:5b5412f0-a8aa-4520-af21-70e0c0b23310
+tmap.id:0f69d528-ee9b-42ef-9c43-14b7c93942e2
 type:text/vnd.tiddlywiki
 
 No body provided

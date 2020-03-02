@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:The Coded Gaze
 parent.org:Algorithmic Justice League
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:The Coded Gaze
 tmap.edges:{}
-tmap.id:9517467c-34a9-446c-936c-3843c921061d
+tmap.id:f65ef006-6aee-448f-8681-8f7c17dc436a
 type:text/vnd.tiddlywiki
 url:https://www.ajlunited.org/resources
 version.or.edition:
 working.group:
 
 Algorithmic bias like human bias can result in exclusionary experiences and discriminatory practices.
+
+
 

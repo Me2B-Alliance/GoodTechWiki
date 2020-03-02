@@ -1,12 +1,12 @@
-created:1582720021450
+created:1582954316181
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0976b7ce-9c00-4d18-a636-9cc519a2b537
+map.base:48453bd8-05d7-4dcd-9e1e-3813344bd87c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021450
+modified:1582954316181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Osano/filter/edges
-tmap.id:a85e2e33-5ab5-43c0-98a7-ce751fd7baa6
+tmap.id:83b17b4e-6f31-4b05-83f7-eb3969cb4b3c
 type:text/vnd.tiddlywiki
 
 No body provided

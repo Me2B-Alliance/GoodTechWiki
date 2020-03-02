@@ -1,24 +1,11 @@
-created: 15871130214301000
-map.base: 7dc95d78-e3b7-4aa0-96e8-e1b2b9380559
-map.role: layout
-map.type: neighbor
-modified: 20200226124856972
-tiddler.classification: map
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Security Workshop 2016/map
-tmap.id: e80004b2-7a8f-4e55-8242-b9e2dced7ec0
-type: text/vnd.tiddlywiki
+created:1582954316170
+map.base:dc090d1f-2bbc-461a-98b7-46f044775f16
+map.role:layout
+map.type:neighbor
+modified:1582954316170
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Security Workshop 2016/map
+tmap.id:f0016b4e-660c-4e17-9e13-f0b8a9482f18
+type:text/vnd.tiddlywiki
 
-{
- "7dc95d78-e3b7-4aa0-96e8-e1b2b9380559": {
-  "x": -96,
-  "y": -39
- },
- "d0ba9e49-3c4c-4611-b2b8-523350f0eb93": {
-  "x": 46,
-  "y": 70
- },
- "256c59dd-0849-4bed-b405-2e43d5a036c4": {
-  "x": 199,
-  "y": -25
- }
-}
+{}

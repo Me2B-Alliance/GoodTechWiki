@@ -1,12 +1,12 @@
-created:1582720021468
+created:1582954316195
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6145383e-e1f5-4ffa-a86a-c3b313430ab9
+map.base:bbaeaa80-e60b-47e1-99e7-eaef925b8f1e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021468
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Ethical Source Movement/filter/edges
-tmap.id:c747b1b2-d214-451c-b031-49ef610c969d
+tmap.id:a7d4176a-a9cc-4acc-89d4-00b5a3aa60c5
 type:text/vnd.tiddlywiki
 
 No body provided

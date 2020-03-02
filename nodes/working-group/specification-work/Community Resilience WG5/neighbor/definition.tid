@@ -1,17 +1,17 @@
-config.central-topic:7e07f83f-ab00-4cb9-b7f3-858a542c4642
+config.central-topic:391fd910-7460-47c1-ae8b-748d60ec74a0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021695
-id:08166044-7310-4c49-8434-09d530f89400
+created:1582954316377
+id:83115bba-ffc3-401c-b1fe-f411bb0c68d0
 isview:false
-map.base:7e07f83f-ab00-4cb9-b7f3-858a542c4642
+map.base:391fd910-7460-47c1-ae8b-748d60ec74a0
 map.role:definition
 map.type:neighbor
-modified:1582720021695
+modified:1582954316377
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Community Resilience WG5
-tmap.id:08166044-7310-4c49-8434-09d530f89400
+tmap.id:83115bba-ffc3-401c-b1fe-f411bb0c68d0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Community Resilience WG5

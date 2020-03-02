@@ -1,12 +1,12 @@
-created:1582720021674
-filter:[field:tmap.id[70c9cefe-1c91-4d3b-b916-f599ef7c7af3]]
-map.base:70c9cefe-1c91-4d3b-b916-f599ef7c7af3
+created:1582954316357
+filter:[field:tmap.id[27f62f83-11a1-4b8e-aeb5-0bea76780a85]]
+map.base:27f62f83-11a1-4b8e-aeb5-0bea76780a85
 map.role:node-filter
 map.type:neighbor
-modified:1582720021674
+modified:1582954316357
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Free Software Definition/filter/nodes
-tmap.id:d81bdc19-beb5-4aa3-8e9d-69268b65d97e
+tmap.id:6e2ff702-bb74-4e4e-83d0-0620fba8590d
 type:text/vnd.tiddlywiki
 
 No body provided

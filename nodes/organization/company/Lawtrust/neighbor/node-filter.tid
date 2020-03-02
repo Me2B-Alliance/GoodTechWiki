@@ -1,12 +1,12 @@
-created:1582720021442
-filter:[field:tmap.id[86ed8965-f7a7-4f83-ac0a-8a1bd7f47c1b]]
-map.base:86ed8965-f7a7-4f83-ac0a-8a1bd7f47c1b
+created:1582954316179
+filter:[field:tmap.id[ac4d44ac-5375-494a-9799-f7df9d667465]]
+map.base:ac4d44ac-5375-494a-9799-f7df9d667465
 map.role:node-filter
 map.type:neighbor
-modified:1582720021442
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lawtrust/filter/nodes
-tmap.id:900ccbb2-fb3f-4d80-951f-b689c8ce9ab3
+tmap.id:321daa69-4a50-4c14-9fb0-7a9f1f7c4149
 type:text/vnd.tiddlywiki
 
 No body provided

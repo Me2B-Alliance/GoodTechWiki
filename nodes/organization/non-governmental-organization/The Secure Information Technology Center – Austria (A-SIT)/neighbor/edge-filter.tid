@@ -1,12 +1,12 @@
-created:1582720021471
+created:1582954316196
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7ed098e0-66f0-4199-b147-d8d352738344
+map.base:2a0a43ea-d17f-4529-884a-5114d15a301f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021471
+modified:1582954316196
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Secure Information Technology Center – Austria (A-SIT)/filter/edges
-tmap.id:e404e938-d962-45c9-976e-1b28ab07bf17
+tmap.id:8f6156a6-ed13-4eff-a12a-30f364bc2153
 type:text/vnd.tiddlywiki
 
 No body provided

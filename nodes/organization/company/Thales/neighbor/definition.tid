@@ -1,17 +1,17 @@
-config.central-topic:4d50c7d5-5282-41d1-895d-c3ec8ae492a3
+config.central-topic:7168f982-f14b-4e76-ae04-89973e344d4d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021453
-id:49e7cd5a-a164-4d93-97b2-e08145a17f1e
+created:1582954316184
+id:177f0279-9737-4097-adba-b33a9f8ae950
 isview:false
-map.base:4d50c7d5-5282-41d1-895d-c3ec8ae492a3
+map.base:7168f982-f14b-4e76-ae04-89973e344d4d
 map.role:definition
 map.type:neighbor
-modified:1582720021453
+modified:1582954316184
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thales
-tmap.id:49e7cd5a-a164-4d93-97b2-e08145a17f1e
+tmap.id:177f0279-9737-4097-adba-b33a9f8ae950
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Thales

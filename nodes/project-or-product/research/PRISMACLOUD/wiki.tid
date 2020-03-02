@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003352
+category:[[research]]
+created:1582954204519
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003352
+modified:1582954204519
 name:PRISMACLOUD
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:PRISMACLOUD
 tmap.edges:{}
-tmap.id:d980dbf3-15b9-4fa3-9fe6-2a8ce84da549
+tmap.id:47a5716e-4f28-43b0-be89-997d3d858e0a
 type:text/vnd.tiddlywiki
 url:https://prismacloud.eu
 version.or.edition:
@@ -33,4 +33,6 @@ PRISMACLOUD is a EU funded research project developing the next generation of cl
 The main idea and ambition of PRISMACLOUD is to enable end-to-end security for cloud users and provide tools to protect their privacy with the best technical means possible - by cryptography.
 
 The PRISMACLOUD consortium is composed of a balanced team of 6 industrial partners, 2 industrial research centres, 2 institutional research organisations and 6 universities, which are complementary in their expertise and have strong experience in their respective fields, i.e. cryptography, information security and cloud computing. It is equally weighted between industry and research and was selected to cover the complete value chain from theory to practice for maximum impact and exploitation potential.
+
+
 

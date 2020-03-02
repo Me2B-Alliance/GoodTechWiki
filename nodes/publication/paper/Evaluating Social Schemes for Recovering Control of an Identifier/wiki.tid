@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Evaluating Social Schemes for Recovering Control of an Identifier
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Evaluating Social Schemes for Recovering Control of an Identifier
 tmap.edges:{}
-tmap.id:82c30680-b9ed-40cf-a1c7-ddacff3ecbcd
+tmap.id:0df72a3d-d0bc-4112-bca5-7a0a1364577f
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/evaluating-social-recovery.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 As systems where people are required to manage their own cryptographic keys become more popular, social recovery or reissuance of keys increases in importance. Such systems are inherently empowering to users but safeguarding keys is a hard problem.We focus on the social recovery of control of an identifer. There are several techniques to re-assert control over identifers including key recovery and issuance of a new key. In many situations it is preferrable to establish a newkey than recover the old one.We propose a rubrik for evaluating such schemes, and give a brief overview of possible schemes to consider.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021470
-filter:[field:tmap.id[2ddff495-3068-4973-aa1c-4ed3c63cad0f]]
-map.base:2ddff495-3068-4973-aa1c-4ed3c63cad0f
+created:1582954316195
+filter:[field:tmap.id[711d1fb2-fede-4355-a8cb-1a52904d2f0d]]
+map.base:711d1fb2-fede-4355-a8cb-1a52904d2f0d
 map.role:node-filter
 map.type:neighbor
-modified:1582720021470
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TechEquity/filter/nodes
-tmap.id:8235fecc-1cc4-4873-81f5-18ad0ba33cc0
+tmap.id:2bba944f-91a6-464a-9a2c-9f613271b90f
 type:text/vnd.tiddlywiki
 
 No body provided

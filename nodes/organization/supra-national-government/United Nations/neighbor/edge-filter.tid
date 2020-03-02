@@ -1,12 +1,12 @@
-created:1582720021485
+created:1582954316209
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a4b45457-27fc-4c70-a946-e40f5fcd3688
+map.base:ae40e730-b2c3-4e36-9252-adc21df851a6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021485
+modified:1582954316209
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations/filter/edges
-tmap.id:dc667df2-2d79-48e5-9f7a-bff0bd58b6be
+tmap.id:525ba5c0-5c1b-4f0b-b964-ce3a54033d05
 type:text/vnd.tiddlywiki
 
 No body provided

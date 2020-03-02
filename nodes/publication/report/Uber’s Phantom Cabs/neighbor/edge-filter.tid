@@ -1,12 +1,12 @@
-created:1582720021644
+created:1582954316337
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c5f83e91-0e26-46fd-8f97-05ceac451ec9
+map.base:d827119c-8132-43c1-b27f-a0f264dc086c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021644
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Uber’s Phantom Cabs/filter/edges
-tmap.id:155e97a9-5f53-4a2a-b019-2019a3d1ae1c
+tmap.id:4053ab79-fcc5-4d22-8f1a-9484f63a0c46
 type:text/vnd.tiddlywiki
 
 No body provided

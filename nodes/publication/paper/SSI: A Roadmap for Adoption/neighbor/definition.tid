@@ -1,17 +1,17 @@
-config.central-topic:d5fa4c26-fa7a-486e-9445-9220e77f0265
+config.central-topic:292cc472-1f35-4378-bb1d-59e18d602c86
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021604
-id:c4af38ff-c40f-4370-9d17-2142c7c8c004
+created:1582954316302
+id:2a4ecb06-019d-4a20-ab37-09c3bb6cc432
 isview:false
-map.base:d5fa4c26-fa7a-486e-9445-9220e77f0265
+map.base:292cc472-1f35-4378-bb1d-59e18d602c86
 map.role:definition
 map.type:neighbor
-modified:1582720021604
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSI: A Roadmap for Adoption
-tmap.id:c4af38ff-c40f-4370-9d17-2142c7c8c004
+tmap.id:2a4ecb06-019d-4a20-ab37-09c3bb6cc432
 type:text/vnd.tiddlywiki
 
 Neighbor Map of SSI: A Roadmap for Adoption

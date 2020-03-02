@@ -1,12 +1,12 @@
-created:1582720021451
-filter:[field:tmap.id[19c30c78-d0ff-44c1-9f18-4745ce6eda1f]]
-map.base:19c30c78-d0ff-44c1-9f18-4745ce6eda1f
+created:1582954316182
+filter:[field:tmap.id[a1326fda-c524-4d52-93f0-c53f33d02104]]
+map.base:a1326fda-c524-4d52-93f0-c53f33d02104
 map.role:node-filter
 map.type:neighbor
-modified:1582720021451
+modified:1582954316182
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Royal Mail/filter/nodes
-tmap.id:be24893e-de24-41bf-ac09-7b5148ac3fa2
+tmap.id:d646dcc8-0a07-4323-9861-e47398e02b0e
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021510
+created:1582954316224
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:405b453e-90f1-48cb-b5e8-d79a65d0313c
+map.base:f106364a-6a5a-44ca-aba5-368603b907bc
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021510
+modified:1582954316224
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fundamentals of Collective Adaptive Systems FoCAS/filter/edges
-tmap.id:56878579-95cf-453b-bfeb-f9f8b1bf62f9
+tmap.id:2b22e6de-2e2f-4def-bffa-8789c5ce6d67
 type:text/vnd.tiddlywiki
 
 No body provided

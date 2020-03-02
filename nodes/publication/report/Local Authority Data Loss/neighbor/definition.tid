@@ -1,17 +1,17 @@
-config.central-topic:d3547849-a90c-4847-bdfa-8fea69e61163
+config.central-topic:90fc72d2-9673-4a12-8f6d-646fdd71ae3b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021630
-id:fa2802f8-f1ae-412d-ae43-1cc9290a0588
+created:1582954316322
+id:44f5313f-569e-4f3e-95ab-cd2633d2b564
 isview:false
-map.base:d3547849-a90c-4847-bdfa-8fea69e61163
+map.base:90fc72d2-9673-4a12-8f6d-646fdd71ae3b
 map.role:definition
 map.type:neighbor
-modified:1582720021630
+modified:1582954316322
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Local Authority Data Loss
-tmap.id:fa2802f8-f1ae-412d-ae43-1cc9290a0588
+tmap.id:44f5313f-569e-4f3e-95ab-cd2633d2b564
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Local Authority Data Loss

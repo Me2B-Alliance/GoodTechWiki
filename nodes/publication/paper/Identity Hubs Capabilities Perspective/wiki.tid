@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Identity Hubs Capabilities Perspective
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Identity Hubs Capabilities Perspective
 tmap.edges:{}
-tmap.id:0019afe6-0d7b-4a43-aae8-5fe723fa3b1e
+tmap.id:85b5c5f2-a576-45fb-beed-faea71ccce56
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Identity Hubs as currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifer (DID) based user-controlled agent, based on ACLs rather than an object-capabilities (ocap) architecture. The current approach has both security and scalability issues. Transitioning the Hubs design to an ocap model can be achieved by introducing an UMA authorization server as the control endpoint. This avoids creating confused-deputy security issues and expands scale by enabling the hub to delegate accessto resources not stored in the hub itself.
+
+
 

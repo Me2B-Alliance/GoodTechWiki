@@ -1,12 +1,12 @@
-created:1582720021655
+created:1582954316345
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6543c925-8e96-4ac6-81e2-3cc613f5190e
+map.base:d8ec08ad-341b-42f3-996b-691654fdaec9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021655
+modified:1582954316345
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards-Integrated circuit cards-Programming interfaces (24727)/filter/edges
-tmap.id:3498d4d1-87db-426f-9f0c-ea3ffb113940
+tmap.id:bdf7a9ea-e26b-4d17-b89d-c58385464946
 type:text/vnd.tiddlywiki
 
 No body provided

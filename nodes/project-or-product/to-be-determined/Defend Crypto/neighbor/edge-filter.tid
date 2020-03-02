@@ -1,12 +1,12 @@
-created:1582720021573
+created:1582954316272
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8e4b48d6-d69d-4b21-9674-eb17e41179c8
+map.base:6a0bed65-fedb-4eb3-87e2-64be8588fc32
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021573
+modified:1582954316272
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Defend Crypto/filter/edges
-tmap.id:dd089b1c-a0a5-4f46-8c5f-42152c995520
+tmap.id:2256eefa-695c-4b89-a034-06a661718557
 type:text/vnd.tiddlywiki
 
 No body provided

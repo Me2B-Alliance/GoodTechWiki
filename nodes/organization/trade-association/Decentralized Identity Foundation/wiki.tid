@@ -1,7 +1,7 @@
 activities:[[software development]] [[standard development]] [[outreach]]
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:[[input to interoperability specification]]
-modified:1582720003590
+modified:1582954204766
 org.name:Decentralized Identity Foundation
 org.type:trade association
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:Identity: Information Sharing Control
 tiddler.classification:node
 title:Decentralized Identity Foundation
-tmap.edges:{"97762f41-c0bb-408c-a469-2bdd27b1f9c1":{"to":"9ba8067b-dd95-4286-818d-d05a2b831376","type":"Organization Supports Project or Product"},"e1c19733-67b4-4240-9080-def830ebbbcd":{"to":"0bfe983d-6cc0-45aa-8827-675d77606817","type":"Organization Supports Project or Product"},"40e156c6-4af5-482e-a683-becc1e3ae629":{"to":"19f21adf-9726-47da-ad2d-6d3e321b20f3","type":"Organization Supports Project or Product"},"47ce5773-55ae-4cd2-a025-8ece460ee30e":{"to":"e981c199-1c94-4d9e-92c4-149a6042ad02","type":"Organization Supports Project or Product"},"3360bccd-640d-4aab-9d44-2fc5549aab2f":{"to":"23c30514-7865-429b-b3df-6c34e108bb31","type":"Organization Supports Project or Product"},"d35c45f0-6094-41bd-bb31-992755a14c0c":{"to":"d60eb0b0-4fdb-488d-ad99-9cce2500b7ca","type":"Organization Supports Project or Product"}}
-tmap.id:6bd7d5f0-f7c0-4746-88fe-89bb468ebe25
+tmap.edges:{"48c4301b-1332-412d-aa22-544e1d4898e6":{"to":"e087275f-a6b1-4cdc-8cd0-5be3fee0cc90","type":"Organization Supports Project or Product"},"32a45038-dbb8-4fc4-8c14-c82c7a8aaa36":{"to":"82d8f9dd-0889-49df-b562-25f13bd5a978","type":"Organization Supports Project or Product"},"d1cce94a-427e-4055-96af-7478ddcf7fc9":{"to":"018fddb2-e4cc-4b91-8131-a6a0d6452fe8","type":"Organization Supports Project or Product"},"7d366480-640e-44a4-8a98-1861c04a4615":{"to":"ee80a43d-e105-407f-b997-b5cc6136572a","type":"Organization Supports Project or Product"},"267746ec-edcc-470b-9971-f544f4b08dae":{"to":"ae635396-ab5c-4c76-8df8-14908a0b65e8","type":"Organization Supports Project or Product"},"e02626e2-3c40-420e-9716-a17aa9bd3aeb":{"to":"14f5ef11-8928-474c-9377-c22055436028","type":"Organization Supports Project or Product"}}
+tmap.id:f2bac736-5da0-46ac-8871-b7f7561bb073
 twitter.profile:https://twitter.com/DecentralizedID
 type:text/vnd.tiddlywiki
 website:https://identity.foundation/
@@ -37,4 +37,6 @@ website:https://identity.foundation/
 DIF is an engineering-driven organization focused on developing the foundational elements necessary to establish an open ecosystem for decentralized identity and ensure interop between all participants.
 
 DIF is a registered 501(c)(6) membership organization. All code is licensed under Apache 2: W3C terms govern IPR: and content is available via Creative Commons 4 Attribution.
+
+
 

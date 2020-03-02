@@ -1,17 +1,17 @@
-config.central-topic:c7ea7b64-f120-4283-a3a0-a7024514aa39
+config.central-topic:0e19c3ef-2dd5-42a0-9b31-e58a6cae1292
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021638
-id:688a8cba-9606-4f7f-8bf9-437111fa0ccc
+created:1582954316329
+id:1d677961-68f7-4369-8f3d-64c98d09652a
 isview:false
-map.base:c7ea7b64-f120-4283-a3a0-a7024514aa39
+map.base:0e19c3ef-2dd5-42a0-9b31-e58a6cae1292
 map.role:definition
 map.type:neighbor
-modified:1582720021638
+modified:1582954316329
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data Privacy News Round-up
-tmap.id:688a8cba-9606-4f7f-8bf9-437111fa0ccc
+tmap.id:1d677961-68f7-4369-8f3d-64c98d09652a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Student Data Privacy News Round-up

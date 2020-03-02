@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003341
+created:1582954204508
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003341
+modified:1582954204508
 name:DNSSEC
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:DNSSEC
-tmap.edges:{"01875cee-856c-4a97-8455-df54068d02f3":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:0bb0f2a5-e983-40be-a3fd-93330e93d3cd
+tmap.edges:{"87a94d29-a6dd-4594-8fa4-d7f11fb9eecc":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:5f1e65d1-8ddf-4d02-be33-062fbddacb0a
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

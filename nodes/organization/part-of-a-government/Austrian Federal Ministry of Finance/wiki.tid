@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204537
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204537
 org.name:Austrian Federal Ministry of Finance
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Austrian Federal Ministry of Finance
-tmap.edges:{"d4c005d3-1a79-4961-9af8-8455587cc4da":{"to":"7ed098e0-66f0-4199-b147-d8d352738344","type":"funding-flow"},"f2da8938-6a2b-403d-a24c-f4c4e6966233":{"to":"e34df583-731d-43f0-a14a-60d427447ae0","type":"government-connection"}}
-tmap.id:857e7b1b-ab44-4c64-b043-de0479ac92b0
+tmap.edges:{"8c59f427-1ad2-40de-96c0-b7e4ada4489b":{"to":"2a0a43ea-d17f-4529-884a-5114d15a301f","type":"funding-flow"},"9b67ee19-d6c9-4336-8d62-fa9385d4f480":{"to":"c1c08cb8-41e5-468a-87d7-5e718fafad21","type":"government-connection"}}
+tmap.id:5b0650a1-d8fc-493e-8aaf-7d7ba610aa51
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

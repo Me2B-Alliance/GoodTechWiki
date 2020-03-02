@@ -1,0 +1,12 @@
+created:1582965000935
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:4ab257dd-d568-4310-a635-5ed352a7dba3
+map.role:edge-filter
+map.type:tagmap
+modified:1582965000935
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/acm conference on fairness/filter/edges
+tmap.id:8566ca62-39d7-41d3-9674-0e70c86f8e81
+type:text/vnd.tiddlywiki
+
+No body provided

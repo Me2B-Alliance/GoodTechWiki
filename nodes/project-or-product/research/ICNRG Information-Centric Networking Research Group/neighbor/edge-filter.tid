@@ -1,12 +1,12 @@
-created:1582720021546
+created:1582954316257
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c58507f4-5261-4985-a872-b7ca6df87ced
+map.base:c09a8845-a2d1-4cc8-a0b6-6a39a1a80c21
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021546
+modified:1582954316257
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICNRG Information-Centric Networking Research Group/filter/edges
-tmap.id:9eb8bb94-2f84-47b4-aa34-9600e1f83ead
+tmap.id:caa8960a-47ac-430d-8f9e-c508d2da82c3
 type:text/vnd.tiddlywiki
 
 No body provided

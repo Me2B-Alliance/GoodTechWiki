@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204537
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204537
 org.name:The Scientific & Technological Research Council of Turkey (TUBITAK)
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The Scientific & Technological Research Council of Turkey (TUBITAK)
-tmap.edges:{"2f711f67-1eff-4db6-b154-322f34d85e8b":{"to":"8aaa9093-ce7c-4aa0-8b59-a3d8728ac543","type":"government-connection"},"dd18eeb6-38ab-4f79-a47e-6c271a37bc1d":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
-tmap.id:ea55d88e-286f-4fa1-b19b-560747c3c68b
+tmap.edges:{"03eea16b-154d-429b-9122-684ce4feb947":{"to":"47a916c1-f05a-42c3-80bb-94c1e10884f6","type":"government-connection"},"4fd1a97b-21f3-42fc-b3bd-38d8fc925043":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"}}
+tmap.id:fbd4f8a9-a129-4f4d-a37b-94d656a3f8c3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.tubitak.gov.tr/en
@@ -40,4 +40,6 @@ The employees of BILGEM, 76% of which consists of researchers, have all adopted 
 
 Government services are becoming much easier to obtain at your home or office with just a tiny little token that is made by The Government Certification Authority. Owing to the perfection of BILGEM on data security and the technology of electronic signature, the Government Certification Authority known as “KAMU SM” which is the unique government CA, serves accordingly The Electronic Signature Law No.5070 within B?LGEM. KAMU SM was established in 2005 and now performs operations like electronic signature services that make authentication of the person electronically, PKI works and applications of e-signature where crucial security requirements are satisfied professionally.
 In accordance with the relevant law, KAMU SM produces professional electronic signature with the tools, which help with the signing, and importing of all the staff into the safe electronic signature tokens and then consigns them to the users. Besides, KAMU SM uses secure systems and takes all necessary precautions during the gathering of users confidential information, issuing and consigning certificate processes to avoid certificate counterfeiting and falsification.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021676
+created:1582954316357
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:970fca4f-730b-4503-ab6f-ea838f031563
+map.base:31d2edec-6271-4170-85ba-da8a594048b6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021676
+modified:1582954316357
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Civil Registry Consolidation through Digital Identity Management/filter/edges
-tmap.id:bbc9a36b-741a-42da-8cc2-0e1f7e6e457b
+tmap.id:ef800c04-9fe8-4fa9-b9d1-b5511c69b326
 type:text/vnd.tiddlywiki
 
 No body provided

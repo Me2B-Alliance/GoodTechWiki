@@ -1,0 +1,12 @@
+created:1582965000945
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:9a20c0d7-5215-409d-95b3-f7625d39ab2b
+map.role:edge-filter
+map.type:tagmap
+modified:1582965000945
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/philanthropy/filter/edges
+tmap.id:066f0310-9890-462d-96db-93d381f14092
+type:text/vnd.tiddlywiki
+
+No body provided

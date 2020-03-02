@@ -1,12 +1,12 @@
-created:1582720021463
-filter:[field:tmap.id[ca4d95b5-2eaa-400f-aba9-cb33c4172c7f]]
-map.base:ca4d95b5-2eaa-400f-aba9-cb33c4172c7f
+created:1582954316190
+filter:[field:tmap.id[e07ed26f-8d9e-467a-be31-993a26ff9eec]]
+map.base:e07ed26f-8d9e-467a-be31-993a26ff9eec
 map.role:node-filter
 map.type:neighbor
-modified:1582720021463
+modified:1582954316190
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACLU/filter/nodes
-tmap.id:8120479f-7abd-47e2-a78d-e2bf6160a846
+tmap.id:575a6a00-fe1f-4c36-99f5-604489bbfdb0
 type:text/vnd.tiddlywiki
 
 No body provided

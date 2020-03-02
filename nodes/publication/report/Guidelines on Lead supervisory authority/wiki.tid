@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003599
+created:1582954204775
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003599
+modified:1582954204775
 name:Guidelines on Lead supervisory authority
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Guidelines on Lead supervisory authority
 tmap.edges:{}
-tmap.id:27e7063c-965c-47d3-8e26-3a6aec9361cd
+tmap.id:db7ee89a-32f9-409b-926a-3377aa0253e2
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/atoms/files/wp244_rev01_en-lead-supervisory-authority.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Identifying a lead supervisory authority is only relevant where acontrolleror processoris carrying out the cross-border processingof personal data. Article 4(23) of the General Data Protection Regulation (GDPR)defines ‘cross-border processing’ aseitherthe: -processing of personal data which takes place in the context of the activities of establishments in more than one Member State of a controller or processor in the Union where the controller or processor is established in more than one Member State; or the-processing of personal data which takes place in the context of the activities of a single establishment of a controller or processor in the Union but which substantially affects or is likely to substantially affect data subjects in more than one Member State.This means that where an organisation has establishments inFrance and Romania, for example,and the processing of personal data takesplace in the context of their activities, then this will constitutecross-border processing. Alternatively,  the  organisation  may  only  carry  out  processing  activity  in  the  context  of  its establishment  in  France.  However,if  the  activity  substantially  affects –or  is  likely  to substantiallyaffect -data subjects in Franceand Romania then this will also constitute cross-border processing.
+
+
 

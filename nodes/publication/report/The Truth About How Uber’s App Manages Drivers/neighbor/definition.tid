@@ -1,17 +1,17 @@
-config.central-topic:c3da9bf8-492a-4a62-b0bd-1cfcd6cf87cf
+config.central-topic:aabb78ff-c82b-4bff-aa40-1121357f73d7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021642
-id:bb0b2a90-0a08-44e5-9e6f-c66cb2a4712c
+created:1582954316336
+id:77479bf0-ffb3-458f-a78a-052f212290a0
 isview:false
-map.base:c3da9bf8-492a-4a62-b0bd-1cfcd6cf87cf
+map.base:aabb78ff-c82b-4bff-aa40-1121357f73d7
 map.role:definition
 map.type:neighbor
-modified:1582720021642
+modified:1582954316336
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Truth About How Uber’s App Manages Drivers
-tmap.id:bb0b2a90-0a08-44e5-9e6f-c66cb2a4712c
+tmap.id:77479bf0-ffb3-458f-a78a-052f212290a0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Truth About How Uber’s App Manages Drivers

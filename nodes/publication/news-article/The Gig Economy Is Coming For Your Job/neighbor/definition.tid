@@ -1,17 +1,17 @@
-config.central-topic:8c17dfb4-12cd-4edd-a17d-fda0c0210e11
+config.central-topic:f5300247-48da-4755-be5e-68435a4923bc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021588
-id:4de6e03d-4aca-4dcc-89be-2a9e1e1e4a68
+created:1582954316286
+id:1e0fbd6b-3139-44dc-b53f-eb9d8ff710c5
 isview:false
-map.base:8c17dfb4-12cd-4edd-a17d-fda0c0210e11
+map.base:f5300247-48da-4755-be5e-68435a4923bc
 map.role:definition
 map.type:neighbor
-modified:1582720021588
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Gig Economy Is Coming For Your Job
-tmap.id:4de6e03d-4aca-4dcc-89be-2a9e1e1e4a68
+tmap.id:1e0fbd6b-3139-44dc-b53f-eb9d8ff710c5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Gig Economy Is Coming For Your Job

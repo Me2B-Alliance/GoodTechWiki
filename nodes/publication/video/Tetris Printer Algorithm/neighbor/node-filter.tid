@@ -1,12 +1,12 @@
-created:1582720021689
-filter:[field:tmap.id[5a193283-8ddb-41d6-9c13-5baf92bb2939]]
-map.base:5a193283-8ddb-41d6-9c13-5baf92bb2939
+created:1582954316369
+filter:[field:tmap.id[0e8a004c-9447-479a-9edb-d3f7876168bc]]
+map.base:0e8a004c-9447-479a-9edb-d3f7876168bc
 map.role:node-filter
 map.type:neighbor
-modified:1582720021689
+modified:1582954316369
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tetris Printer Algorithm/filter/nodes
-tmap.id:4dfa9b9f-c536-4ddd-be98-e4b3a674e6ac
+tmap.id:253b0ac5-d2f7-4e32-a799-1cf98337de18
 type:text/vnd.tiddlywiki
 
 No body provided

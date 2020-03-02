@@ -1,17 +1,17 @@
-config.central-topic:559fcbf0-f103-4527-ba0e-33a7d6469464
+config.central-topic:1602a60f-d7e3-4941-994f-3a1d7c34193a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021661
-id:269f5e47-ce1b-43fa-9204-d5e7a4d685ca
+created:1582954316348
+id:b71169ef-4eaf-488b-b369-7e1e73fb298e
 isview:false
-map.base:559fcbf0-f103-4527-ba0e-33a7d6469464
+map.base:1602a60f-d7e3-4941-994f-3a1d7c34193a
 map.role:definition
 map.type:neighbor
-modified:1582720021661
+modified:1582954316348
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Session Management 1.0
-tmap.id:269f5e47-ce1b-43fa-9204-d5e7a4d685ca
+tmap.id:b71169ef-4eaf-488b-b369-7e1e73fb298e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OpenID Connect Session Management 1.0

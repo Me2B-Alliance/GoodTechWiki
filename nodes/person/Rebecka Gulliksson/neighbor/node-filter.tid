@@ -1,12 +1,12 @@
-created:1582720021537
-filter:[field:tmap.id[e388c0a6-253d-4763-b822-b89f32fe2f65]]
-map.base:e388c0a6-253d-4763-b822-b89f32fe2f65
+created:1582954316244
+filter:[field:tmap.id[0e6922b7-ce88-4e4d-b3f7-3dc35812154b]]
+map.base:0e6922b7-ce88-4e4d-b3f7-3dc35812154b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021537
+modified:1582954316244
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rebecka Gulliksson/filter/nodes
-tmap.id:8fd6faf8-1584-49be-9585-065bc24f0197
+tmap.id:016d3aef-9032-41e4-b91d-4bca5a627326
 type:text/vnd.tiddlywiki
 
 No body provided

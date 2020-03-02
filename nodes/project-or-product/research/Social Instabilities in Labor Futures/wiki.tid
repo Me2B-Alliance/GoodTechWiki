@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Social Instabilities in Labor Futures
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Social Instabilities in Labor Futures
 tmap.edges:{}
-tmap.id:bcd83b90-2c5a-4c55-ba05-88518568566f
+tmap.id:c4a08bb5-6ce3-493b-b35e-8491400efc75
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/labor_futures/
 version.or.edition:
 working.group:
 
 Technology is disrupting, destabilizing, and transforming many aspects of the labor force. The Social Instabilities in Labor Futures initiative seeks to better understand emergent disruptions in the labor force as a result of data-centric technological development, with a special focus on structural inequalities.
+
+
 

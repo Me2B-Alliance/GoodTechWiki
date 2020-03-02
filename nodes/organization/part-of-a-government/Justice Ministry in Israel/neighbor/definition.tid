@@ -1,17 +1,17 @@
-config.central-topic:b2d9e6e7-38ee-44aa-9180-d28e117f4900
+config.central-topic:bd98e11b-dbbf-42fa-a516-8221e8b4785a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021474
-id:81fbcf80-28cf-45cc-9f99-2b94d156fa19
+created:1582954316201
+id:a4011f86-c805-45ee-bef7-c1d1ab705999
 isview:false
-map.base:b2d9e6e7-38ee-44aa-9180-d28e117f4900
+map.base:bd98e11b-dbbf-42fa-a516-8221e8b4785a
 map.role:definition
 map.type:neighbor
-modified:1582720021474
+modified:1582954316201
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Justice Ministry in Israel
-tmap.id:81fbcf80-28cf-45cc-9f99-2b94d156fa19
+tmap.id:a4011f86-c805-45ee-bef7-c1d1ab705999
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Justice Ministry in Israel

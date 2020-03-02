@@ -1,17 +1,17 @@
-config.central-topic:bc1500cb-782e-4fe5-9ae5-9b687678fbdd
+config.central-topic:0ca17df6-c4dc-4cef-b7f0-2eca8000742a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021518
-id:f055ae6d-cbcb-4a99-bc66-c8543e71d4f8
+created:1582954316228
+id:d80fc6b5-c7a6-427a-a886-c9d49484bd30
 isview:false
-map.base:bc1500cb-782e-4fe5-9ae5-9b687678fbdd
+map.base:0ca17df6-c4dc-4cef-b7f0-2eca8000742a
 map.role:definition
 map.type:neighbor
-modified:1582720021518
+modified:1582954316228
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OIX-UK
-tmap.id:f055ae6d-cbcb-4a99-bc66-c8543e71d4f8
+tmap.id:d80fc6b5-c7a6-427a-a886-c9d49484bd30
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OIX-UK

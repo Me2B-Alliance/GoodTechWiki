@@ -1,12 +1,12 @@
-created:1582720021579
+created:1582954316277
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2a10d16d-c2b5-4b11-8cc3-302fc54181b1
+map.base:2481b8aa-982f-44c1-a2c2-2ee7772a27ae
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021579
+modified:1582954316277
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing for the House of Commons (Second Reading)/filter/edges
-tmap.id:8b915c41-f6ed-4135-bfc5-60c6f3f2d356
+tmap.id:f0e0f786-a7fc-4108-bf6a-b6bda13d70c9
 type:text/vnd.tiddlywiki
 
 No body provided

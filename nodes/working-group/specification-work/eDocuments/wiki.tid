@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003332
+category:[[specification work]]
+created:1582954204499
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003332
+modified:1582954204499
 name:eDocuments
 parent.org:Secure Identity Alliance
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:eDocuments
-tmap.edges:{"d4c63f2f-3e67-44b2-914d-711f903254c5":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"organization-for-group"}}
-tmap.id:0ef243ef-f805-4314-a98b-2405d54c92bc
+tmap.edges:{"fbe8c6ed-aa22-4e0a-853c-cb3296293986":{"to":"b7f9666c-d936-4f82-9eb8-a74adb1f0493","type":"organization-for-group"}}
+tmap.id:324e5834-22cf-4048-8999-d8683efeba7a
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

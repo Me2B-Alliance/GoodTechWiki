@@ -1,12 +1,12 @@
-created:1582720021476
-filter:[field:tmap.id[4b1d159a-98d9-4842-a676-80d6a645d4a1]]
-map.base:4b1d159a-98d9-4842-a676-80d6a645d4a1
+created:1582954316203
+filter:[field:tmap.id[08f762c0-7b65-4c75-a406-664bc80df1f0]]
+map.base:08f762c0-7b65-4c75-a406-664bc80df1f0
 map.role:node-filter
 map.type:neighbor
-modified:1582720021476
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Customs and Boarder Protection/filter/nodes
-tmap.id:e4260bf7-88d9-4d0d-b19d-cf137662dd0b
+tmap.id:046fb625-01ce-4d9e-b9f6-d6b6f7f9ed01
 type:text/vnd.tiddlywiki
 
 No body provided

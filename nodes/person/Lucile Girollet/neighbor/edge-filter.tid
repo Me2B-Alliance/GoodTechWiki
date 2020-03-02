@@ -1,12 +1,12 @@
-created:1582720021535
+created:1582954316240
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:300ad351-4422-49b9-b397-a850ef20e4ce
+map.base:0066002b-1973-4e39-8bf2-e12b22219071
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021535
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lucile Girollet/filter/edges
-tmap.id:5a633a3b-5013-4d1e-9819-de596a415c63
+tmap.id:a0d2981b-0327-4537-940c-ea8fbcc30663
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:df24bd6a-bd53-4a77-8634-9aed8fab6c77
+config.central-topic:3d062b28-e296-4c79-9fcb-9c6ac91b974a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021580
-id:dd8f6a9d-3c5d-4ca1-9be7-a80b0c1e872c
+created:1582954316278
+id:aaa34f03-28ca-469a-89c4-3cfc0b15973b
 isview:false
-map.base:df24bd6a-bd53-4a77-8634-9aed8fab6c77
+map.base:3d062b28-e296-4c79-9fcb-9c6ac91b974a
 map.role:definition
 map.type:neighbor
-modified:1582720021580
+modified:1582954316278
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facial Recognition: how policing in Scotland makes use of this technology inquiry – Big Brother Watch and Open Rights Group joint submission to the Scottish Parliament Justice Sub-Committee on Policing
-tmap.id:dd8f6a9d-3c5d-4ca1-9be7-a80b0c1e872c
+tmap.id:aaa34f03-28ca-469a-89c4-3cfc0b15973b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Facial Recognition: how policing in Scotland makes use of this technology inquiry – Big Brother Watch and Open Rights Group joint submission to the Scottish Parliament Justice Sub-Committee on Policing

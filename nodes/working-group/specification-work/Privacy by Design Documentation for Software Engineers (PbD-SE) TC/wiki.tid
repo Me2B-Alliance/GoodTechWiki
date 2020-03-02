@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003324
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003324
+modified:1582954204491
 name:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
 parent.org:OASIS
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Privacy by Design Documentation for Software Engineers (PbD-SE) TC
-tmap.edges:{"be7470b0-b2c4-4723-a6bb-6643033fb74e":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
-tmap.id:8049c3e3-9728-4c65-a4bb-4f5e0cce39c4
+tmap.edges:{"2de3ce25-08b7-4aa5-80c8-f7e247424089":{"to":"4be18dba-56ed-4888-a70c-10b45c5a70b9","type":"organization-for-group"}}
+tmap.id:74ef8c79-2e97-443f-aef6-7f6328adb107
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/pbd-se/
 
@@ -35,4 +35,6 @@ End-to-End Security - Full Lifecycle Protection
 Visibility and Transparency - Keep It Open
 Respect for User Privacy - Keep It User-Centric
 PbD-SE offers a privacy extension/complement to OMG’s Unified Modeling Language (UML) and serves as a complement to OASIS’ eXtensible Access Control Mark-up Language (XACML) and Privacy Management Reference Model (PMRM).
+
+
 

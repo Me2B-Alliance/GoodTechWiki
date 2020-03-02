@@ -1,12 +1,12 @@
-created:1582720021563
+created:1582954316266
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d9a7a3e4-ccfc-4536-ae18-a9a0a2a3f647
+map.base:f0e65615-7d3f-4d1d-9d2d-7631a64161ad
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021563
+modified:1582954316266
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IUBENDA COOKIE SOLUTION/filter/edges
-tmap.id:9e314b3f-9e48-4517-87d1-bbb321281803
+tmap.id:8cf24574-e8c8-4a50-a143-38bdb4eedb96
 type:text/vnd.tiddlywiki
 
 No body provided

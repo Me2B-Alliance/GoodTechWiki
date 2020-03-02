@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Engineering Privacy for Verified Credentials
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Engineering Privacy for Verified Credentials
 tmap.edges:{}
-tmap.id:9f35681e-047e-4fc2-9163-67fcf7f6dae6
+tmap.id:eaee116d-84fd-4557-b0fa-14da0c13f33b
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/data-minimization-sd.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 We often share information on the World Wide Web, though some of it is private. The W3C Credentials Community Group focuses on how privacy can be enhanced when attributes are shared electronically. In the course of our work, we have identified three related but distinct privacy enhancing strategies: "data minimization," "selective disclosure," and "progressivetrust." These enhancements are enabled with cryptography. The goal of this paper is to enable decision makers, particularly non-technical ones, to gain a nuanced grasp of these enhancements along with some idea of how their enablers work. We describe them below in plain English, but with some rigor. This knowledge will enable readers of this paper to be better able to know when they need privacy enhancements, to select the type of enhancement needed, to assess techniques that enable those enhancements, and to adopt the correct enhancement for the correct use case.
+
+
 

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:Multibase
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Multibase
 tmap.edges:{}
-tmap.id:5abfd5df-1d65-4d7c-9d8c-9d2b1acc9b64
+tmap.id:6466b5d5-535a-4640-8310-57a6c39d22b3
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-dvcg/multibase
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 This specification describes a forward-compatible data model for expressing raw binary data in a variety of base-encoding formats such as base32, base58. and base64.
 
 Raw binary data is often encoded using a mechanism that enables the data to be included in human-readable text-based formats. This mechanism is often referred to as "base-encoding the data". Base-encoding is often used when expressing binary data in hyperlinks, cryptographic keys in web pages, or security tokens in application software. There are a variety of base-encodings, such as base32, base58, and base64. It is not always possible to differentiate one base-encoding from another. The purpose of this specification is to provide a mechanism to be able to deterministically identify the base-encoding for a particular string of data.
+
+
 

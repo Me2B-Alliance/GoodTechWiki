@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[terms]] [[service]]
-created:1582720003597
+category:[[service]] [[terms]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:IoT Trust Framework
 parent.org:Internet Society: Online Trust Alliance
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:IoT Trust Framework
 tmap.edges:{}
-tmap.id:40d6d399-29b2-41e3-8c60-d0abb0a90bb6
+tmap.id:1e0db333-c663-4db4-9a0c-8267ad133941
 type:text/vnd.tiddlywiki
 url:https://www.internetsociety.org/iot/trust-framework/
 version.or.edition:
@@ -35,4 +35,6 @@ The IoT Trust Framework® includes a set of strategic principles necessary to he
 Core to addressing the inherent security risks and privacy issues is the application of the principles to the entire device solution or ecosystem. These include the device or sensor, the supporting applications, and the backend / cloud services. As many products coming to market rely on third-party or open source components and software, it is incumbent on developers to apply these principles and conduct supply chain security and privacy risk assessments.
 
 Serving as a risk assessment guide for developers, purchasers and retailers, the Framework is the foundation for future IoT certification programs. It is the goal of OTA to highlight devices which meet these standards to help consumers, as well as the public and private sectors, make informed purchasing decisions. The Framework and related resources are available at https://otalliance.org/IoT.
+
+
 

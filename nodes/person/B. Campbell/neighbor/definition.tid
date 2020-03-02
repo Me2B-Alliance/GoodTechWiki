@@ -1,17 +1,17 @@
-config.central-topic:07527e49-dd1d-43ca-a00f-466f74b45942
+config.central-topic:de2e191d-a103-4d31-9269-6302fdb4f6c1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021530
-id:933729ff-ef37-4431-9756-c237474b3251
+created:1582954316237
+id:8a520a62-aef0-4c9c-a728-87e85f95c4d5
 isview:false
-map.base:07527e49-dd1d-43ca-a00f-466f74b45942
+map.base:de2e191d-a103-4d31-9269-6302fdb4f6c1
 map.role:definition
 map.type:neighbor
-modified:1582720021530
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/B. Campbell
-tmap.id:933729ff-ef37-4431-9756-c237474b3251
+tmap.id:8a520a62-aef0-4c9c-a728-87e85f95c4d5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of B. Campbell

@@ -1,12 +1,12 @@
-created:1582720021663
+created:1582954316350
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f9c8e132-8320-441d-a658-c342b369cb22
+map.base:76bad5ad-c156-4e72-9b47-1cd60a7850de
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021663
+modified:1582954316350
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/VC Status Method Registry/filter/edges
-tmap.id:cde4f8de-bccd-4d02-8490-238e2c990301
+tmap.id:634cecaa-3364-4265-af2e-be5308b499e8
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:3b545ad3-df4c-4201-ab51-e9f696eca0e0
+config.central-topic:723d6479-59a7-42aa-b066-34499e3a8cdb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021615
-id:30e9b6a6-abab-4f80-8b3a-5c5ba470633a
+created:1582954316308
+id:f4820f5c-6405-4933-96d2-dd4cafdf0539
 isview:false
-map.base:3b545ad3-df4c-4201-ab51-e9f696eca0e0
+map.base:723d6479-59a7-42aa-b066-34499e3a8cdb
 map.role:definition
 map.type:neighbor
-modified:1582720021615
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Data Ethics Support Systems and Networks
-tmap.id:30e9b6a6-abab-4f80-8b3a-5c5ba470633a
+tmap.id:f4820f5c-6405-4933-96d2-dd4cafdf0539
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Big Data Ethics Support Systems and Networks

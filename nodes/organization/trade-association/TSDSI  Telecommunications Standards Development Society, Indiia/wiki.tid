@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003371
+created:1582954204539
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003371
+modified:1582954204539
 org.name:TSDSI  Telecommunications Standards Development Society, Indiia
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:TSDSI  Telecommunications Standards Development Society, Indiia
-tmap.edges:{"24e6c3dc-67c1-43ca-b6c2-c0523ae9e8fa":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"},"360c23c7-f36b-4c4c-ac76-5b173e5148bb":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"}}
-tmap.id:a0eb2b9a-7f92-4767-9dfc-bc5a6ed03025
+tmap.edges:{"12777a2f-1a3f-4443-b0e8-09689005f0d9":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"},"f81b89f7-2831-4c03-ad6a-faeeac6ad37a":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"}}
+tmap.id:da211626-bd2b-4935-bfa8-96fbaa90aec4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://tsdsi.org
 
 "Telecommunications Standards Development Society, India" aims at developing and promoting India-specific requirements, standardizing solutions for meeting these requirements and contributing these to international standards, contributing to global standardization in the field of telecommunications, maintaining the technical standards and other deliverables of the organization, safe-guarding the related IPR, helping create manufacturing expertise in the country, providing leadership to the developing countries (such as in South Asia, South East Asia, Africa, Middle East, etc.) in terms of their telecommunications-related standardization needs.
+
+
 

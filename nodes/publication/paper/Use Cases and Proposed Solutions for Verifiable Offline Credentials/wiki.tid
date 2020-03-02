@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Use Cases and Proposed Solutions for Verifiable Offline Credentials
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Use Cases and Proposed Solutions for Verifiable Offline Credentials
 tmap.edges:{}
-tmap.id:e55cd7d9-2c59-49fe-b699-8e3d8600c914
+tmap.id:1564c505-46ac-4347-80c1-c799787b49f1
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Self-Sovereign Identity is now a widely discussed topic, especially in the context of verifable credentials/attributesattested by third-parties about an individual or entity that can be used as proof about them, such as a digital driver’s license or passport. This has enabled new systems to be developed to address security and privacy issues.In this paper we cover various scenarios where some or all parties have intermittent, unreliable, untrusted, insecure, or no network access, but require cryptographic verifcation (message protection and/or proofs). Furthermore, communications between the parties may be only via legacy voice channels. Applicable situations include marine, subterranean, remote expeditions, disaster areas, refugee camps, and high-security installations. This paper then recommends solutions for addressing ofine deployments.
+
+
 

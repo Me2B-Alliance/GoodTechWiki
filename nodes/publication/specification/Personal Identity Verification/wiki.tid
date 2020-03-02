@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003340
+created:1582954204507
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003340
+modified:1582954204507
 name:Personal Identity Verification
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Personal Identity Verification
-tmap.edges:{"f7038e12-72cd-4497-9088-08719c830f40":{"to":"a9994b9e-0264-439a-8923-bc565120dda1","type":"organization-for-group"}}
-tmap.id:804b25b3-60df-43b5-96ec-7f4f6929ac80
+tmap.edges:{"f31a2ce6-95c4-4569-bbc9-a80be124e93c":{"to":"9790fb16-a3f4-4bf5-a50f-711f68e58d51","type":"organization-for-group"}}
+tmap.id:e9b2f4c9-83b2-400a-974e-0d461aafe570
 type:text/vnd.tiddlywiki
 url:http://csrc.nist.gov/groups/sns/piv/
 version.or.edition:
@@ -32,4 +32,6 @@ FIPS 201 incorporates three technical publications specifying several aspects of
 In addition, a number of guidelines, reference implementations, and conformance tests has been developed to: implement and use the PIV system; protect the personal privacy of all subscribers of the PIV system; create a PIV "card" that is "personalized" with data needed by the PIV system to later grant access to the subscriber to Federal facilities and information systems; assure appropriate levels of security for all applicable Federal applications; and provide interoperability among Federal organizations using the standards.
 
 The release of FIPS 201 marked the beginning of a learn-design-develop-test-validate phase for both the private sector and federal departments and agencies. By 2009, more than 300 standard-conformant products had been developed, validated, and brought to market in support of the PIV card and its infrastructure. Departments and agencies also developed and refined their PIV card issuance processes. PIV card issuance systems are have been operating, and close to 5 million PIV cards have been issued to federal employees and contractors, according to the Office of Management and Budget (OMB). Today, the emphasis has shifted from PIV card issuance to its deployment and use in logical and physical access applications.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:ef1a0111-4d2f-487e-b8bc-fa9f9e98c110
+config.central-topic:022b0b28-0a70-4ffc-bb75-817b50a6ff32
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021536
-id:8896b684-31d9-47ca-8a7e-c35d9f751380
+created:1582954316242
+id:886029e1-62c2-4358-9368-e019c3584be6
 isview:false
-map.base:ef1a0111-4d2f-487e-b8bc-fa9f9e98c110
+map.base:022b0b28-0a70-4ffc-bb75-817b50a6ff32
 map.role:definition
 map.type:neighbor
-modified:1582720021536
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/R. Hedberg
-tmap.id:8896b684-31d9-47ca-8a7e-c35d9f751380
+tmap.id:886029e1-62c2-4358-9368-e019c3584be6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of R. Hedberg

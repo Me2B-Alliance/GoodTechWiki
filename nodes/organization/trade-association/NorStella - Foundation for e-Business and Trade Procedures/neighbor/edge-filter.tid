@@ -1,12 +1,12 @@
-created:1582720021518
+created:1582954316228
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8e62e951-2c68-495e-9867-434de99f56b5
+map.base:c9ac9a5a-0703-4411-a118-ca422442d638
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021518
+modified:1582954316228
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NorStella - Foundation for e-Business and Trade Procedures/filter/edges
-tmap.id:59cdac8f-a731-4abb-a229-1a8c5cf768aa
+tmap.id:c38b44f8-f8b3-4e23-a88b-0aa2e61473c3
 type:text/vnd.tiddlywiki
 
 No body provided

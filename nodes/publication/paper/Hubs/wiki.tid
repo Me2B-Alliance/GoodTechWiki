@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:Hubs
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Hubs
 tmap.edges:{}
-tmap.id:1a91cb55-61b9-4906-99c5-0d697dddeb75
+tmap.id:9baabfa6-1959-4dd6-a5e8-aeeed58ec054
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/hubs.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Hubs let you securely store and share data. A Hub is a datastore containing semantic data objects at well-known locations. Each object in a Hub is signed by an identity and accessible via a globally recognized API format that explicitlymaps to semantic data objects. Hubs are addressable via unique identifiers maintained in a global namespace.SINGLE ADDRESS FOR MULTIPLE HUB INSTANCESA single entity may have one or more instances of a Hub, all of which are addressable via a URI-routing mechanism linked to the entity’s identifier. Hub instances sync state changes, ensuring the owner can access data and attestations from anywhere, even when offline.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021516
+created:1582954316226
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:934918f2-265d-4b33-a1b4-724bf46ad77c
+map.base:495b308a-1601-4009-aa86-d82ccc4b8d6d
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021516
+modified:1582954316226
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Corporation for Assigned Names and Numbers (ICANN)/filter/edges
-tmap.id:9576e68d-38f7-42da-8cbb-214a9cbddff2
+tmap.id:33a1e3ce-04c5-41e8-b909-4a62de1a53d6
 type:text/vnd.tiddlywiki
 
 No body provided

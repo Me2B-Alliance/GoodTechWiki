@@ -1,17 +1,17 @@
-config.central-topic:dcc27f56-b091-4501-a220-245a66da6edb
+config.central-topic:a50b20c9-1494-4be2-811c-89a7c36202eb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021459
-id:64bb31b8-4d07-4795-8478-777a9c8c0b77
+created:1582954316188
+id:8d41472b-1a1b-44e8-9722-5be55b249b67
 isview:false
-map.base:dcc27f56-b091-4501-a220-245a66da6edb
+map.base:a50b20c9-1494-4be2-811c-89a7c36202eb
 map.role:definition
 map.type:neighbor
-modified:1582720021459
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy By Design
-tmap.id:64bb31b8-4d07-4795-8478-777a9c8c0b77
+tmap.id:8d41472b-1a1b-44e8-9722-5be55b249b67
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy By Design

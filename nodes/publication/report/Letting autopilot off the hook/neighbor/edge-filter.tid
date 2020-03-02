@@ -1,12 +1,12 @@
-created:1582720021630
+created:1582954316321
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:537cb2f8-c76e-4fc4-a5bd-49bd7405873f
+map.base:0a4cc9b5-74a5-44a3-9768-5b9cd0cdcd66
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021630
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Letting autopilot off the hook/filter/edges
-tmap.id:fcfaad02-bb69-4e3c-a702-de2c9adfe9ff
+tmap.id:20321fa6-f907-4d5c-8b87-4ae07be415f6
 type:text/vnd.tiddlywiki
 
 No body provided

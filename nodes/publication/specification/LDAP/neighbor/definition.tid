@@ -1,17 +1,17 @@
-config.central-topic:24a923f3-a54a-40ba-a5f6-20756fff7bae
+config.central-topic:f359a664-ceef-4317-b8fb-791a0b1ee3b7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021656
-id:858e6580-b35c-4347-8122-ae922bc60019
+created:1582954316346
+id:23326513-36f6-46d2-a319-92a98fd9df50
 isview:false
-map.base:24a923f3-a54a-40ba-a5f6-20756fff7bae
+map.base:f359a664-ceef-4317-b8fb-791a0b1ee3b7
 map.role:definition
 map.type:neighbor
-modified:1582720021656
+modified:1582954316346
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LDAP
-tmap.id:858e6580-b35c-4347-8122-ae922bc60019
+tmap.id:23326513-36f6-46d2-a319-92a98fd9df50
 type:text/vnd.tiddlywiki
 
 Neighbor Map of LDAP

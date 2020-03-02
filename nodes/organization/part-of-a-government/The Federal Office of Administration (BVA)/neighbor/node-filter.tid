@@ -1,12 +1,12 @@
-created:1582720021476
-filter:[field:tmap.id[af6f1188-9a22-437b-ac8c-ea5fbd3c116c]]
-map.base:af6f1188-9a22-437b-ac8c-ea5fbd3c116c
+created:1582954316202
+filter:[field:tmap.id[5d1f8570-5efc-45fb-a32b-243e6abe5657]]
+map.base:5d1f8570-5efc-45fb-a32b-243e6abe5657
 map.role:node-filter
 map.type:neighbor
-modified:1582720021476
+modified:1582954316202
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Federal Office of Administration (BVA)/filter/nodes
-tmap.id:776f1106-2fed-444c-ac94-33100bd812e2
+tmap.id:1c3be755-0ad7-4f15-937e-998c3af6bda2
 type:text/vnd.tiddlywiki
 
 No body provided

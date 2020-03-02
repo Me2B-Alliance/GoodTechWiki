@@ -1,17 +1,17 @@
-config.central-topic:712bc60f-bbd0-48c1-b8c0-ee7c0bb2037c
+config.central-topic:a0729e9d-5042-4a58-acb3-5f84d78e3917
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021458
-id:ea00e731-63ed-4808-88e4-c3bd085e739d
+created:1582954316185
+id:063ba793-a4fc-4833-8bb7-8fc87c8638b7
 isview:false
-map.base:712bc60f-bbd0-48c1-b8c0-ee7c0bb2037c
+map.base:a0729e9d-5042-4a58-acb3-5f84d78e3917
 map.role:definition
 map.type:neighbor
-modified:1582720021458
+modified:1582954316185
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Life Collective
-tmap.id:ea00e731-63ed-4808-88e4-c3bd085e739d
+tmap.id:063ba793-a4fc-4833-8bb7-8fc87c8638b7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Life Collective

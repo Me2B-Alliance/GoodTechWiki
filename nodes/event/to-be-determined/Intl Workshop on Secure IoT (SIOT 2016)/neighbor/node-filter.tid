@@ -1,12 +1,12 @@
-created:1582720021431
-filter:[field:tmap.id[eafa8c53-e57e-4210-9e8e-5f8186e41da5]]
-map.base:eafa8c53-e57e-4210-9e8e-5f8186e41da5
+created:1582954316169
+filter:[field:tmap.id[60aa5d86-0370-4af2-a864-3b1ee3296821]]
+map.base:60aa5d86-0370-4af2-a864-3b1ee3296821
 map.role:node-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intl Workshop on Secure IoT (SIOT 2016)/filter/nodes
-tmap.id:9763ee26-df07-4ab5-8b92-0ca2d0e1fc15
+tmap.id:53bb2e98-e337-4273-b2bf-d5f49ac11039
 type:text/vnd.tiddlywiki
 
 No body provided

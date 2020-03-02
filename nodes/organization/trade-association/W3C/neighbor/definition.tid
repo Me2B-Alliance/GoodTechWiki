@@ -1,17 +1,17 @@
-config.central-topic:4ff3599a-833e-4e3c-8f60-cfa636d45e71
+config.central-topic:bc0d418c-0bab-41d4-b1f4-d8b360942f7b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021524
-id:792e4673-b225-4aa5-8a85-81892b99f72d
+created:1582954316237
+id:5d0cdddb-5cef-47d6-8800-469ec17ad216
 isview:false
-map.base:4ff3599a-833e-4e3c-8f60-cfa636d45e71
+map.base:bc0d418c-0bab-41d4-b1f4-d8b360942f7b
 map.role:definition
 map.type:neighbor
-modified:1582720021524
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/W3C
-tmap.id:792e4673-b225-4aa5-8a85-81892b99f72d
+tmap.id:5d0cdddb-5cef-47d6-8800-469ec17ad216
 type:text/vnd.tiddlywiki
 
 Neighbor Map of W3C

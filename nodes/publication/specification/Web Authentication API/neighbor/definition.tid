@@ -1,17 +1,17 @@
-config.central-topic:ebd5bf08-16d8-482f-863c-f7fea8d5b51c
+config.central-topic:bc71ac4d-6246-4e8a-9dc8-3beaa32ab2a4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021664
-id:f3510d2c-e7fc-452d-9e30-e080c8358bda
+created:1582954316351
+id:e6de01d4-6ada-4b81-925c-99a5efb1a53e
 isview:false
-map.base:ebd5bf08-16d8-482f-863c-f7fea8d5b51c
+map.base:bc71ac4d-6246-4e8a-9dc8-3beaa32ab2a4
 map.role:definition
 map.type:neighbor
-modified:1582720021664
+modified:1582954316351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Authentication API
-tmap.id:f3510d2c-e7fc-452d-9e30-e080c8358bda
+tmap.id:e6de01d4-6ada-4b81-925c-99a5efb1a53e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Web Authentication API

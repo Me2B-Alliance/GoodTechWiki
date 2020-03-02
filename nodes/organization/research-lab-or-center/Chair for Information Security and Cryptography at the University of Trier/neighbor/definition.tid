@@ -1,17 +1,17 @@
-config.central-topic:d0ba9e49-3c4c-4611-b2b8-523350f0eb93
+config.central-topic:a617de5a-92e5-445a-ae75-e76ad4f3cb7e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021481
-id:ca50cffd-838d-4d39-a998-4ccdd625ed0a
+created:1582954316206
+id:7fa291c4-2de8-4291-a512-8b10db2412f1
 isview:false
-map.base:d0ba9e49-3c4c-4611-b2b8-523350f0eb93
+map.base:a617de5a-92e5-445a-ae75-e76ad4f3cb7e
 map.role:definition
 map.type:neighbor
-modified:1582720021481
+modified:1582954316206
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chair for Information Security and Cryptography at the University of Trier
-tmap.id:ca50cffd-838d-4d39-a998-4ccdd625ed0a
+tmap.id:7fa291c4-2de8-4291-a512-8b10db2412f1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Chair for Information Security and Cryptography at the University of Trier

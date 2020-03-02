@@ -1,12 +1,12 @@
-created:1582720021430
-filter:[field:tmap.id[3ebfe462-abda-403a-ac0b-aa8337951d2e]]
-map.base:3ebfe462-abda-403a-ac0b-aa8337951d2e
+created:1582954316168
+filter:[field:tmap.id[09b6dd90-2447-43d2-80d1-c0fd7ca54473]]
+map.base:09b6dd90-2447-43d2-80d1-c0fd7ca54473
 map.role:node-filter
 map.type:neighbor
-modified:1582720021430
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE SecDev 2016/filter/nodes
-tmap.id:45fe116b-7177-4883-9d44-23621455c79c
+tmap.id:e10c287f-6c02-4688-a82e-4384842323d7
 type:text/vnd.tiddlywiki
 
 No body provided

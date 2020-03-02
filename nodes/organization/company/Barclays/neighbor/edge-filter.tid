@@ -1,12 +1,12 @@
-created:1582720021436
+created:1582954316174
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b9c058ca-8b45-4362-b361-df90ee5cd4a0
+map.base:dd34ae8f-ef66-4e8e-b0d0-acc169e9e6a1
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021436
+modified:1582954316174
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Barclays/filter/edges
-tmap.id:740b0fca-b612-4303-8f1b-c078ca1c43c4
+tmap.id:54e88b2f-a54c-4636-8a2a-f3dfa1821162
 type:text/vnd.tiddlywiki
 
 No body provided

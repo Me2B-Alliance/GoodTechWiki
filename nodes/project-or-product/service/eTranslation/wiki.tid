@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204514
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204514
 name:eTranslation
 parent.org:
 partners:
@@ -23,11 +23,13 @@ terms.of.service:
 tiddler.classification:node
 title:eTranslation
 tmap.edges:{}
-tmap.id:cfdc8d17-546d-4b9e-b208-cfaaf2185890
+tmap.id:f3ea3128-62c9-441d-963b-728285ac3bf7
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 working.group:
+
+
 
 
 

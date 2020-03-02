@@ -1,12 +1,12 @@
-created:1582720021638
-filter:[field:tmap.id[c7ea7b64-f120-4283-a3a0-a7024514aa39]]
-map.base:c7ea7b64-f120-4283-a3a0-a7024514aa39
+created:1582954316329
+filter:[field:tmap.id[0e19c3ef-2dd5-42a0-9b31-e58a6cae1292]]
+map.base:0e19c3ef-2dd5-42a0-9b31-e58a6cae1292
 map.role:node-filter
 map.type:neighbor
-modified:1582720021638
+modified:1582954316329
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data Privacy News Round-up/filter/nodes
-tmap.id:4d08afc8-4c41-4820-bbc9-c08009bb0eca
+tmap.id:4c3f76d5-bf14-40b5-a4dd-b0bed629992b
 type:text/vnd.tiddlywiki
 
 No body provided

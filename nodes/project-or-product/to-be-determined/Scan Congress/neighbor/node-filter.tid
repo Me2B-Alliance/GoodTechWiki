@@ -1,12 +1,12 @@
-created:1582720021574
-filter:[field:tmap.id[c9b34b83-f2aa-4615-89e4-1b50e16634f7]]
-map.base:c9b34b83-f2aa-4615-89e4-1b50e16634f7
+created:1582954316273
+filter:[field:tmap.id[86a79ee7-e447-49dd-a6d0-a8e3340bf019]]
+map.base:86a79ee7-e447-49dd-a6d0-a8e3340bf019
 map.role:node-filter
 map.type:neighbor
-modified:1582720021574
+modified:1582954316273
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Scan Congress/filter/nodes
-tmap.id:7e08066c-b0f3-43aa-9e08-3c20d92f20b0
+tmap.id:01f4e284-75bc-423e-ac60-088d928259c0
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:GSMA
 org.type:to-be-determined
 parent.org:
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:GSMA (to-be-determined)
-tmap.edges:{"eca868ac-d5c5-4c07-8889-b6ae4705d04a":{"to":"e2964d9b-3938-421c-b603-ab022bad1e81","type":"Organization Supports Project or Product"},"24a62653-186b-4d64-9711-706a3a390c79":{"to":"a97b9aa7-e6ae-461a-bfc2-ba2d1d492690","type":"Sponsors"},"04fb689f-a0d9-45ed-9a29-50fc59da5a26":{"to":"0897254b-b07c-4182-9308-03f40138bba3","type":"Sponsors"},"470c81bc-5cc4-48b9-8154-7a16d16862fa":{"to":"f0f2bbf1-65e5-4472-82e0-003334131dbd","type":"Sponsors"},"9c4cb0ee-7582-4d9a-9b9d-e406e366e042":{"to":"3e938047-eade-4273-b6e6-221159526544","type":"Sponsors"},"92e6ee84-6f18-4c2e-bf6b-1f174e44b709":{"to":"96f86bb8-e447-45ee-a45c-5f7cded7f67a","type":"Sponsors"},"cba2c1a9-2483-497e-849a-3c22ca1db331":{"to":"c6ba4938-d57e-4619-ba81-44076afcdfbb","type":"Sponsors"},"4b683859-46ac-4bf0-9f73-46cdddfabb0a":{"to":"0faf5ed5-8c32-4927-ac77-b88894953589","type":"Sponsors"}}
-tmap.id:171584df-33fd-45cb-9529-efbf1a44ba87
+tmap.edges:{"50c535b5-38f2-4213-992f-88ca6c568897":{"to":"d2cc23f7-0218-44b8-9098-f70c4100826f","type":"Organization Supports Project or Product"},"7d79d8e6-24a4-419f-8509-1152cec45aaf":{"to":"79e783e3-1ff3-49d3-827a-37c0c3e7e4d4","type":"Sponsors"},"47d75d24-b6b9-4101-8efc-74b9efa16ec8":{"to":"b94c7f2c-779a-4e02-995f-2d2568384d09","type":"Sponsors"},"b20cfcad-25f7-49f1-a1fa-39b5cb5f7c47":{"to":"c450ea79-a736-4583-a99b-c8325ec1de7c","type":"Sponsors"},"d9c041b6-55cc-42ac-ac3b-2b2dc1e368b3":{"to":"fceb7393-6f33-4268-a411-b91e3398502c","type":"Sponsors"},"7908ab75-67c2-4f9c-8e35-726f54e6748a":{"to":"1c21bc7a-5884-4fee-979c-33448e9987d3","type":"Sponsors"},"f1782a8c-cf64-4fd5-bc8a-6d13c6157fc2":{"to":"6827b70b-aa02-4b8a-9dd7-ca3bf20421db","type":"Sponsors"},"d07dc0c1-464d-47d3-8911-33a07669d698":{"to":"e112ee53-e4e3-4757-9ccc-c08f311c4d70","type":"Sponsors"}}
+tmap.id:c28fef68-19e9-4294-870f-4477f4cd0ad3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.gsma.com/
 
 The GSMA represents the interests of mobile operators worldwide, uniting more than 750 operators with almost 400 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and internet companies, as well as organisations in adjacent industry sectors. The GSMA also produces the industry-leading MWC events held annually in Barcelona, Los Angeles and Shanghai, as well as the Mobile 360 Series of regional conferences.
+
+
 

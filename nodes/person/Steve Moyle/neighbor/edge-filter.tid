@@ -1,12 +1,12 @@
-created:1582720021537
+created:1582954316243
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ae8a685d-1639-4a00-ad4e-7cc043c89bdc
+map.base:e6bda179-13d3-455c-ae02-5f97cf359d2c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021537
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Steve Moyle/filter/edges
-tmap.id:3cae5918-b6dd-42e4-8310-b2f7f14bb99f
+tmap.id:b7f68861-fc0b-4efa-8b9a-797ba5a1ef04
 type:text/vnd.tiddlywiki
 
 No body provided

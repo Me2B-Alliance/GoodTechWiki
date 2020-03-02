@@ -1,17 +1,17 @@
-config.central-topic:24b48f43-11f7-45ce-b25c-6521893b8658
+config.central-topic:8cb39ef5-a10e-49d0-87bd-b6a639c36b82
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021701
-id:b526e6f7-a32c-494a-b16b-0b02badbd5e8
+created:1582954316382
+id:06bbcaf5-cac1-4ab6-8c4f-61163e6fbfdc
 isview:false
-map.base:24b48f43-11f7-45ce-b25c-6521893b8658
+map.base:8cb39ef5-a10e-49d0-87bd-b6a639c36b82
 map.role:definition
 map.type:neighbor
-modified:1582720021701
+modified:1582954316382
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OWL
-tmap.id:b526e6f7-a32c-494a-b16b-0b02badbd5e8
+tmap.id:06bbcaf5-cac1-4ab6-8c4f-61163e6fbfdc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OWL

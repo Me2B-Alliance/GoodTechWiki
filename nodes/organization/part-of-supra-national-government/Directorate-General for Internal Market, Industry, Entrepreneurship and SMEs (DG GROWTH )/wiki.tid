@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003363
+created:1582954204530
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003363
+modified:1582954204530
 org.name:Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs (DG GROWTH )
 org.type:part of supra-national government
 parent.org:
@@ -27,12 +27,14 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs (DG GROWTH )
-tmap.edges:{"83b769be-4737-493f-bf5b-d4ba63a0a1b5":{"to":"bbb08210-2cf6-462c-8348-300ce4251867","type":"government-connection"}}
-tmap.id:a708bc27-175a-44a4-b1ac-243c42230dc0
+tmap.edges:{"a122ce5f-c95a-423b-a5d9-253cfe83ca64":{"to":"d79bc5b7-5e43-4939-a89a-2aeaf6ddbadb","type":"government-connection"}}
+tmap.id:6069ec01-7bd2-4d66-959c-3918f78f338a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://ec.europa.eu/growth/
 
 he Single Market Strategy is the European Commission’s plan to unlock the full potential of the Single Market. The Single Market is at the heart of the European project, enabling people, services, goods and capital to move more freely, offering opportunities for European businesses and greater choice and lower prices for consumers. It enables citizens to travel, live, work or study wherever they wish.
 But sometimes, these benefits do not materialise because Single Market rules are not known or implemented or they are undermined by other barriers. And in a rapidly changing environment, the Single Market needs to adapt to new ideas and business models.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021684
-filter:[field:tmap.id[d415fbd3-ccae-4b0c-8717-bfc3234354b4]]
-map.base:d415fbd3-ccae-4b0c-8717-bfc3234354b4
+created:1582954316365
+filter:[field:tmap.id[cb00cc08-6953-4203-b8fc-8f8e424a9f34]]
+map.base:cb00cc08-6953-4203-b8fc-8f8e424a9f34
 map.role:node-filter
 map.type:neighbor
-modified:1582720021684
+modified:1582954316365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Privacy and Wearable Computing Devices/filter/nodes
-tmap.id:14676932-bfcc-452f-89ab-e0b4d4acb086
+tmap.id:57ae64f0-f512-498b-b618-4c5e788756b5
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:0f6005ae-1e2a-49c0-b414-69edf47e430b
+config.central-topic:3ec55377-2ffc-42a4-a181-b3ee5157e2ef
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021697
-id:c834b812-e141-4130-8d18-55cc90ae9982
+created:1582954316379
+id:2fff7c99-72c1-47aa-bf0a-068039aa1289
 isview:false
-map.base:0f6005ae-1e2a-49c0-b414-69edf47e430b
+map.base:3ec55377-2ffc-42a4-a181-b3ee5157e2ef
 map.role:definition
 map.type:neighbor
-modified:1582720021697
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HEART Working Group
-tmap.id:c834b812-e141-4130-8d18-55cc90ae9982
+tmap.id:2fff7c99-72c1-47aa-bf0a-068039aa1289
 type:text/vnd.tiddlywiki
 
 Neighbor Map of HEART Working Group

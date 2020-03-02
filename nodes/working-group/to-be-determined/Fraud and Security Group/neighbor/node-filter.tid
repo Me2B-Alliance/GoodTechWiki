@@ -1,12 +1,12 @@
-created:1582720021707
-filter:[field:tmap.id[0897254b-b07c-4182-9308-03f40138bba3]]
-map.base:0897254b-b07c-4182-9308-03f40138bba3
+created:1582954316386
+filter:[field:tmap.id[b94c7f2c-779a-4e02-995f-2d2568384d09]]
+map.base:b94c7f2c-779a-4e02-995f-2d2568384d09
 map.role:node-filter
 map.type:neighbor
-modified:1582720021707
+modified:1582954316386
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fraud and Security Group/filter/nodes
-tmap.id:1246ee97-adf3-4f1e-a8a1-910c6c276651
+tmap.id:adabdf2a-90ec-40a7-b127-9315b2749e6b
 type:text/vnd.tiddlywiki
 
 No body provided

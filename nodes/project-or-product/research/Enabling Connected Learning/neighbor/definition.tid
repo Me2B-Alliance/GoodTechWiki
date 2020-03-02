@@ -1,17 +1,17 @@
-config.central-topic:7f5a6121-b5a0-4bca-b81d-1ee6c0212556
+config.central-topic:b4f4abbc-08cc-4a8b-b761-b50b84b7f477
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021544
-id:5401fb83-5b12-4c4c-989b-474cf1f1e435
+created:1582954316255
+id:9e466449-b9ed-468b-93b8-4227cfdba3e5
 isview:false
-map.base:7f5a6121-b5a0-4bca-b81d-1ee6c0212556
+map.base:b4f4abbc-08cc-4a8b-b761-b50b84b7f477
 map.role:definition
 map.type:neighbor
-modified:1582720021544
+modified:1582954316255
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Enabling Connected Learning
-tmap.id:5401fb83-5b12-4c4c-989b-474cf1f1e435
+tmap.id:9e466449-b9ed-468b-93b8-4227cfdba3e5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Enabling Connected Learning

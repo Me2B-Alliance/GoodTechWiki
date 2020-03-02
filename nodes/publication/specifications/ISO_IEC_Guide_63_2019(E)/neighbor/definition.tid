@@ -1,17 +1,17 @@
-config.central-topic:0200861b-c616-459b-82b2-57079165b67d
+config.central-topic:946d559a-a45e-4f60-a5ed-233393f18ace
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021670
-id:820b7a7f-7805-45f6-94b3-2031bc59e3d1
+created:1582954316353
+id:22f0adbd-842e-4868-b1f2-56685171f022
 isview:false
-map.base:0200861b-c616-459b-82b2-57079165b67d
+map.base:946d559a-a45e-4f60-a5ed-233393f18ace
 map.role:definition
 map.type:neighbor
-modified:1582720021670
+modified:1582954316353
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_63_2019(E)
-tmap.id:820b7a7f-7805-45f6-94b3-2031bc59e3d1
+tmap.id:22f0adbd-842e-4868-b1f2-56685171f022
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_63_2019(E)

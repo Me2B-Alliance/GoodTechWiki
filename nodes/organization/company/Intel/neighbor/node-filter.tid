@@ -1,12 +1,12 @@
-created:1582720021441
-filter:[field:tmap.id[ae1e132e-07a9-404a-a1ae-4d7d1aff6ba4]]
-map.base:ae1e132e-07a9-404a-a1ae-4d7d1aff6ba4
+created:1582954316178
+filter:[field:tmap.id[f80e8375-0414-45ec-8f0a-4a2b5bfb2d01]]
+map.base:f80e8375-0414-45ec-8f0a-4a2b5bfb2d01
 map.role:node-filter
 map.type:neighbor
-modified:1582720021441
+modified:1582954316178
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intel/filter/nodes
-tmap.id:005c7700-718b-43d1-a298-50b427b68032
+tmap.id:978a2db4-9895-4d70-b43b-0df205c902e7
 type:text/vnd.tiddlywiki
 
 No body provided

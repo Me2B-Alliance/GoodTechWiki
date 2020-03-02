@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003323
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003323
+modified:1582954204491
 name:Study Group 17
 parent.org:ITU-T  International Telecommunication Union
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Study Group 17
-tmap.edges:{"8d864841-e130-4eae-b85b-435c7f3ce59b":{"to":"3d2b9d5a-d98e-4b79-b0ce-79c257eef29a","type":"organization-for-group"},"5fdb244d-efbf-462b-888c-2b6973d112ac":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"connection"}}
-tmap.id:3d01ff3a-0ab4-4eb0-888d-6ba749d81c78
+tmap.edges:{"65e32724-01e9-4d1d-bcdd-28cdd4f855f6":{"to":"ab7ba005-a5a3-45cb-8c3f-4e43e28331f4","type":"organization-for-group"},"e207c3a2-77b1-4076-a630-6cc6f8378049":{"to":"45bcab16-cdd5-48a1-aa50-3a569257c25f","type":"connection"}}
+tmap.id:7b160f7b-2063-4782-9202-462459c969ae
 type:text/vnd.tiddlywiki
 url:http://www.itu.int/en/itu-t/studygroups/2013-2016/17/pages/default.aspx
 
@@ -32,4 +32,6 @@ To give a few examples, SG17 is currently working on cybersecurity; security man
 One key reference for security standards in use today is Recommendation ITU-T X.509 for electronic authentication over public networks. ITU-T X.509, a cornerstone in designing applications relating to public key infrastructure (PKI), is used in a wide range of applications; from securing the connection between a browser and a server on the web, to providing digital signatures that enable e-commerce transactions to be conducted with the same confidence as in a traditional system. Without wide acceptance of the standard, the rise of e-business would have been impossible.
 
 Cybersecurity remains high on SG17’s agenda. Additionally, SG17 is coordinating standardization work covering e-health, open identity trust framework, Near Field Communication (NFC) security, and Child Online Protection.
+
+
 

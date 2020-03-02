@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003363
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003363
+modified:1582954204531
 org.name:ICAO
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ICAO
-tmap.edges:{"f47e4de3-7234-4cef-a388-f78a66446c1d":{"to":"9a22259c-d2d7-40ec-8fd4-acec7ab8c3b6","type":"organization-for-group"},"b5aa6a6c-76b5-416c-b52e-9ef6b03a6548":{"to":"a4b45457-27fc-4c70-a946-e40f5fcd3688","type":"default"}}
-tmap.id:6afd53df-e616-417d-b900-ae1763860309
+tmap.edges:{"964d36c1-1a8a-4175-81d7-4ce88ee89c89":{"to":"2b2a15e1-c0c8-4491-b888-da45aca198b9","type":"organization-for-group"},"147c0ea4-9b20-483f-8aac-0dd9d896965d":{"to":"ae40e730-b2c3-4e36-9252-adc21df851a6","type":"default"}}
+tmap.id:df9342ba-5a44-4e55-9c6f-d3f3065e1f64
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.icao.int
@@ -38,4 +38,6 @@ The International Civil Aviation Organization (ICAO) is a UN specialized agency,
 ICAO works with the Convention’s 191 Member States and industry groups to reach consensus on international civil aviation Standards and Recommended Practices (SARPs) and policies in support of a safe, efficient, secure, economically sustainable and environmentally responsible civil aviation sector. These SARPs and policies are used by ICAO Member States to ensure that their local civil aviation operations and regulations conform to global norms, which in turn permits more than 100,000 daily flights in aviation’s global network to operate safely and reliably in every region of the world.
  
 In addition to its core work resolving consensus-driven international SARPs and policies among its Member States and industry, and among many other priorities and programmes, ICAO also coordinates assistance and capacity building for States in support of numerous aviation development objectives; produces global plans to coordinate multilateral strategic progress for safety and air navigation; monitors and reports on numerous air transport sector performance metrics; and audits States’ civil aviation oversight capabilities in the areas of safety and security.
+
+
 

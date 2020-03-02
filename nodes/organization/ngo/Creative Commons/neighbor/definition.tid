@@ -1,17 +1,17 @@
-config.central-topic:004d6c8b-cd40-4ef3-bd9c-d5e291852e31
+config.central-topic:5587efab-173d-409f-bcaa-8f06c5671b88
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021464
-id:3e202dfb-f5f4-43e1-85e6-2d1781bcaab6
+created:1582954316192
+id:b29d29b6-89b0-49b3-8659-0aea7db08d90
 isview:false
-map.base:004d6c8b-cd40-4ef3-bd9c-d5e291852e31
+map.base:5587efab-173d-409f-bcaa-8f06c5671b88
 map.role:definition
 map.type:neighbor
-modified:1582720021464
+modified:1582954316192
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Creative Commons
-tmap.id:3e202dfb-f5f4-43e1-85e6-2d1781bcaab6
+tmap.id:b29d29b6-89b0-49b3-8659-0aea7db08d90
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Creative Commons

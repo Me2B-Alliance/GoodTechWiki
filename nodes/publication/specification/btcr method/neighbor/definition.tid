@@ -1,17 +1,17 @@
-config.central-topic:a7c2227a-03e1-445c-93e1-d94ff15f951a
+config.central-topic:78ed3ed0-2e9f-449b-875c-b684d22e1543
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021664
-id:e42bcaa1-29ec-4655-ab58-ba3fb25d4cb2
+created:1582954316351
+id:d43564b0-6457-4599-9002-d8b9c51533e1
 isview:false
-map.base:a7c2227a-03e1-445c-93e1-d94ff15f951a
+map.base:78ed3ed0-2e9f-449b-875c-b684d22e1543
 map.role:definition
 map.type:neighbor
-modified:1582720021664
+modified:1582954316351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/btcr method
-tmap.id:e42bcaa1-29ec-4655-ab58-ba3fb25d4cb2
+tmap.id:d43564b0-6457-4599-9002-d8b9c51533e1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of btcr method

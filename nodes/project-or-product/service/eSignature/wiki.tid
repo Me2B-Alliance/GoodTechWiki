@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204515
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204515
 name:eSignature
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:eSignature
-tmap.edges:{"e7dd9eda-6992-4088-bc67-188d66579785":{"to":"e42b57ca-51a3-402e-b4b9-22faf8a12f80","type":"connection"},"062e8097-9d50-4321-b5e9-7da4fe751005":{"to":"1f91d30b-13be-4a70-b33e-a6bf91f902aa","type":"author"}}
-tmap.id:066d6642-11e7-444f-bd37-273250ad2221
+tmap.edges:{"246afc6c-8dc8-4fbf-a351-dd6392656cec":{"to":"798905dd-6a2e-46e6-9b0e-f56355d1a8ea","type":"connection"},"02600a6b-fff1-4d8b-b34d-5ae62cc2ccd4":{"to":"7fffed6f-6585-4de4-ae61-17079b99526e","type":"author"}}
+tmap.id:5a5fa64a-2a13-4494-8914-e5efe90aeed8
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/esignature
 version.or.edition:
 working.group:
 
 CEF eSignature helps public administrations and businesses to accelerate the creation and verification of electronic signatures. The deployment of solutions based on this building block in a Member State facilitates the mutual recognition and cross-border interoperability of eSignatures, so that their legal value can be recognised in countries other than the country of origin of the signer.
+
+
 

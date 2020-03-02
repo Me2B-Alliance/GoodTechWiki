@@ -1,12 +1,12 @@
-created:1582720021497
-filter:[field:tmap.id[3e95eddc-a671-4d41-8030-407abdb28e7d]]
-map.base:3e95eddc-a671-4d41-8030-407abdb28e7d
+created:1582954316216
+filter:[field:tmap.id[eb6f1873-3638-4425-86f7-91308e1f216f]]
+map.base:eb6f1873-3638-4425-86f7-91308e1f216f
 map.role:node-filter
 map.type:neighbor
-modified:1582720021497
+modified:1582954316216
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Omidyar Network/filter/nodes
-tmap.id:d637d04f-12b6-40c3-be86-ad170d43342c
+tmap.id:eebad26d-276f-453e-ba2f-40008bf788ec
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003355
+created:1582954204522
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003355
+modified:1582954204522
 name:Working Paper on Location Tracking from Communications of Mobile Devices
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Working Paper on Location Tracking from Communications of Mobile Devices
 tmap.edges:{}
-tmap.id:311c9c4b-fbab-404c-b170-80af8997f2d4
+tmap.id:924d309b-2e8e-406f-8e13-57b547de9665
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/1161/wp_location_tracking_675.51.12.pdf?1452763989
 version.or.edition:
@@ -28,4 +28,6 @@ working.group:
 The Working Group has previously identified risks related to “the capture of location and other personal data about the network user”. The Working Group has also adopted a common position on privacy and location information in mobile communications services and discussed the use of deep packet inspection for marketing purposes.
 
 This Working Paper specifically examines the data protection and privacy risks associated with the collection of device-related information and deriving location data from communications data. An example would be the use of Wi-Fi probe requests originating from devices such as smart phones for the analysis of footfall and traffic routes within a retail environment.
+
+
 

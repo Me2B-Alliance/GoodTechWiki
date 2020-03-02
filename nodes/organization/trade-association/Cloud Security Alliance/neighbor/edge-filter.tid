@@ -1,12 +1,12 @@
-created:1582720021504
+created:1582954316222
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3c34e493-ff62-429a-bf70-0349f63888ef
+map.base:7cc1716e-7921-487e-b204-c913a01343f7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021504
+modified:1582954316222
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cloud Security Alliance/filter/edges
-tmap.id:677a0c15-7c02-4127-b78c-fb142a957df7
+tmap.id:d161e8c6-a0e4-48fc-a686-47ec70e62f42
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (application)
-created:1582720003597
+category:[[software product (application)]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:I Shared What?!
 parent.org:Independent
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[facebook]]
+tags:[[facebook (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:I Shared What?!
 tmap.edges:{}
-tmap.id:0a5cf58f-f47e-4dda-8102-d12e1e50529b
+tmap.id:4b5c0b05-3ced-44e5-9d2f-3b17f1568ac3
 type:text/vnd.tiddlywiki
 url:https://web.archive.org/web/20190809094343/http://isharedwhat.com/
 version.or.edition:
 working.group:
 
 Shows Facebook information you shared by default.
+
+
 

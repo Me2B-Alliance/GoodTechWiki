@@ -1,12 +1,12 @@
-created:1582720021479
-filter:[field:tmap.id[f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d]]
-map.base:f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d
+created:1582954316204
+filter:[field:tmap.id[fa8ac564-0840-40d4-bd7f-0016ea9e9aea]]
+map.base:fa8ac564-0840-40d4-bd7f-0016ea9e9aea
 map.role:node-filter
 map.type:neighbor
-modified:1582720021479
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Economy & Society/filter/nodes
-tmap.id:e2e0f847-970c-4894-9cb4-a554bf635bfb
+tmap.id:ec1a8e1f-908e-49a2-919d-d54daa2e6d3d
 type:text/vnd.tiddlywiki
 
 No body provided

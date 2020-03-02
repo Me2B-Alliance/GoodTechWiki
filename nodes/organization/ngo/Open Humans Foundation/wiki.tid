@@ -1,7 +1,7 @@
 activities:[[research]]
 annual.budget:
 audience:
-created:1582720003591
+created:1582954204767
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003591
+modified:1582954204767
 org.name:Open Humans Foundation
 org.type:ngo
 parent.org:
@@ -28,11 +28,13 @@ tags:
 tech.focus:Information Sharing Control: Data Mobility
 tiddler.classification:node
 title:Open Humans Foundation
-tmap.edges:{"a7e45f76-dea0-4fb9-8aa0-180898602c8d":{"to":"0657776d-86f2-4639-8651-aaf9b0423770","type":"Organization Supports Project or Product"}}
-tmap.id:2a5cb353-5d9b-46fc-94cf-6e84f55b674e
+tmap.edges:{"4c10b045-e5a0-4d5c-adf4-aac629e06fe9":{"to":"d218a599-3ccb-4872-9fa7-f72f699d85c5","type":"Organization Supports Project or Product"}}
+tmap.id:96cbe6d3-e174-4016-b105-0bc9cddecf78
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://openhumansfoundation.org
 
  The Open Humans Foundation is a 501(c)(3) nonprofit organization dedicated to empowering individuals around their personal data, to explore and share for the purposes of education, health, and research. The organization operates and manages Open Humans, a project and community that enables individuals to connect their data with research and citizen science.
+
+
 

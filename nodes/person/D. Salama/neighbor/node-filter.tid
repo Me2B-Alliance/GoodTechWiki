@@ -1,12 +1,12 @@
-created:1582720021531
-filter:[field:tmap.id[055f500c-b8c2-49e3-9135-e7a8c2b5fbee]]
-map.base:055f500c-b8c2-49e3-9135-e7a8c2b5fbee
+created:1582954316238
+filter:[field:tmap.id[860c3232-aeee-47b9-8a1b-361c67bb8a4d]]
+map.base:860c3232-aeee-47b9-8a1b-361c67bb8a4d
 map.role:node-filter
 map.type:neighbor
-modified:1582720021531
+modified:1582954316238
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/D. Salama/filter/nodes
-tmap.id:90da0f15-01e8-4d60-a604-1a32e9314344
+tmap.id:a6d58365-3223-4c27-a566-ee2cfb96db5b
 type:text/vnd.tiddlywiki
 
 No body provided

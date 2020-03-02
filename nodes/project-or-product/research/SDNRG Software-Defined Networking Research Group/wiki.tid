@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003350
+category:[[research]]
+created:1582954204517
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003350
+modified:1582954204517
 name:SDNRG Software-Defined Networking Research Group
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:SDNRG Software-Defined Networking Research Group
-tmap.edges:{"cc3e44b3-2a75-4ecc-98ec-f967adbb2d4b":{"to":"3d2b9d5a-d98e-4b79-b0ce-79c257eef29a","type":"connection"},"7e752feb-ad8c-49a0-b0bc-0f00d7f510b5":{"to":"3cad3f08-5eb5-44f6-ba9c-23cbdeafa898","type":"connection"},"9d13b79f-cd55-41e2-8fd8-7ed3f621dd0b":{"to":"a73941e9-8958-45c6-ae00-b302639aa22c","type":"connection"},"501a80cf-626a-4202-a0c8-6de968f76889":{"to":"54f131ba-c991-440c-aa67-7f78d0b3b5b8","type":"connection"},"4703b4a0-7b6c-4fc0-8934-7754fde8a028":{"to":"bfcd1c6e-021b-4946-944d-b2e58e9d444f","type":"connection"},"c7398851-a000-4478-8173-adb37bca2dfc":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"connection"},"a3fd47eb-6171-403a-8a61-d45b39df7822":{"to":"aa0ebccd-b209-4d52-a864-d7cf84b320e6","type":"connection"},"d9422aaf-0f36-4fcf-a11d-67cd4234bb71":{"to":"62c1de60-47ba-4ac7-8c75-1e0c586758d6","type":"connection"}}
-tmap.id:ace6fb70-095e-4ef7-aa4b-6829f616dd3c
+tmap.edges:{"c5518bd6-46f6-4e9c-8f5e-912de09a333d":{"to":"ab7ba005-a5a3-45cb-8c3f-4e43e28331f4","type":"connection"},"35df0dc3-463c-439a-ba87-c3cfb0fc620f":{"to":"074d1d79-3844-4a0a-b63f-e31cd20a2f1d","type":"connection"},"c62bcd58-195f-4e70-a97c-17a61c8e0523":{"to":"0d1d42c6-32c5-4828-9ec8-f524bcf74167","type":"connection"},"06f02932-9c38-4b9b-8c7f-8d8a61a9a498":{"to":"97f570d3-7bee-4f84-8ded-9faa82b6a2e7","type":"connection"},"a75f236b-1970-436a-b8ae-39beba160817":{"to":"f3f3cf92-bdde-4690-8ee6-d96486cbc303","type":"connection"},"1b228622-64fb-43e4-ae21-e8460d393f05":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"connection"},"e576ea32-8134-4ac3-bb88-b9ce46a4302d":{"to":"c180bf0d-a023-4ed2-99e8-f0770a4b6aac","type":"connection"},"458c3464-942c-40e4-a638-301cddb7c5b9":{"to":"e58b3a59-0b0e-4b30-83a8-c6b176257822","type":"connection"}}
+tmap.id:b461e7eb-7ad9-44b3-ae07-a22b06ccced8
 type:text/vnd.tiddlywiki
 url:https://irtf.org/sdnrg
 version.or.edition:
 working.group:
+
+
 
 
 

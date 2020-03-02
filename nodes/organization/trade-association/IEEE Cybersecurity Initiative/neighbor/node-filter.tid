@@ -1,12 +1,12 @@
-created:1582720021512
-filter:[field:tmap.id[81de0666-99b6-465b-ac16-12b4f67b4c53]]
-map.base:81de0666-99b6-465b-ac16-12b4f67b4c53
+created:1582954316225
+filter:[field:tmap.id[ce315402-32c1-43ce-8108-1156e82ecd95]]
+map.base:ce315402-32c1-43ce-8108-1156e82ecd95
 map.role:node-filter
 map.type:neighbor
-modified:1582720021512
+modified:1582954316225
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Cybersecurity Initiative/filter/nodes
-tmap.id:7ee6867d-0ace-43a1-93f1-f689e681fc07
+tmap.id:542d62fe-3a92-44b4-821d-0d47f281ba73
 type:text/vnd.tiddlywiki
 
 No body provided

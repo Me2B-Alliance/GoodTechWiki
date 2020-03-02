@@ -1,17 +1,17 @@
-config.central-topic:e9940f15-a061-4b72-b73a-ece83d0b24ec
+config.central-topic:d77452f3-1e7f-4a38-b851-e34f495972aa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021617
-id:553c974c-6333-4fe4-8870-66f46138f938
+created:1582954316311
+id:ff5e9e29-6a1d-4813-8ae7-b77d496a69ee
 isview:false
-map.base:e9940f15-a061-4b72-b73a-ece83d0b24ec
+map.base:d77452f3-1e7f-4a38-b851-e34f495972aa
 map.role:definition
 map.type:neighbor
-modified:1582720021617
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Civil Rights: Health Primer'
-tmap.id:553c974c-6333-4fe4-8870-66f46138f938
+tmap.id:ff5e9e29-6a1d-4813-8ae7-b77d496a69ee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data & Civil Rights: Health Primer'

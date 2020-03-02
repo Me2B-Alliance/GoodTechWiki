@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:Re-Imagining What Users Really Want
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Re-Imagining What Users Really Want
 tmap.edges:{}
-tmap.id:3f493573-8e99-4abb-bb62-e0c3595b04a9
+tmap.id:841d6f4b-da8c-413f-8b14-63375412792d
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 We consider fve fctional personas to explore the obstacles and opportunities for self-sovereign identity. For one, Rutu Shah, we describe an illustrative day in her life.FIVE PERSONAS, FIVE OPPORTUNITIESThe following fve individuals represent a diverse sampling of normal, everyday people whose lives could be improved by self-sovereign identity. Today, these fve aren’t using enhanced digital identity. For each, we describe their current lack of engagement and provide at least one opportunity that could reframe self-sovereign identity as a clear win for them.
+
+
 

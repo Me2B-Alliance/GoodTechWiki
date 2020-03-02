@@ -1,12 +1,12 @@
-created:1582720021516
-filter:[field:tmap.id[c1ae3d7d-82fb-4cfd-b729-f88007f4f304]]
-map.base:c1ae3d7d-82fb-4cfd-b729-f88007f4f304
+created:1582954316227
+filter:[field:tmap.id[a44d96b9-0237-478a-9458-9758b55a57c9]]
+map.base:a44d96b9-0237-478a-9458-9758b55a57c9
 map.role:node-filter
 map.type:neighbor
-modified:1582720021516
+modified:1582954316227
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keith Institute/filter/nodes
-tmap.id:aa2f8c01-062e-41ce-b939-5f4fcdb65a05
+tmap.id:8f6ab18e-cdd8-4eb9-9ec8-a80ea02974b4
 type:text/vnd.tiddlywiki
 
 No body provided

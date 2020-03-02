@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003391
+created:1582954204559
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003391
+modified:1582954204559
 org.name:ISO/IEC JTC 1/SC 37 Biometrics
 org.type:standards development organization
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC JTC 1/SC 37 Biometrics
-tmap.edges:{"82eaf33e-30b3-4a7d-b426-b14fb55f2ee5":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"organization-for-group"}}
-tmap.id:7ff38ad8-fba0-41ab-903d-0025211d5011
+tmap.edges:{"da66a5a6-ef06-4b15-8007-79b399b416eb":{"to":"45bcab16-cdd5-48a1-aa50-3a569257c25f","type":"organization-for-group"}}
+tmap.id:67272a61-c618-42a4-917b-18fe6440822f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

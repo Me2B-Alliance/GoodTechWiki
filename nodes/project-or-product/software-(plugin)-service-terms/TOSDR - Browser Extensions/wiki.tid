@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[software (plugin)]] [[service]] [[terms]]
-created:1582720003596
+category:[[terms]] [[service]] [[software (plugin)]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:https://github.com/tosdr/browser-extensions
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:TOSDR - Browser Extensions
 parent.org:Terms of Service Didn't Read
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:TOSDR - Browser Extensions
 tmap.edges:{}
-tmap.id:6b19a921-14fb-4a37-8ded-6410137dda91
+tmap.id:ae31ff42-37fa-444a-9af2-aed99f974779
 type:text/vnd.tiddlywiki
 url:https://tosdr.org/downloads.html
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
  Install the browser extensions to get instant information about the terms and privacy policies of websites you browse!
 
 Please select your web browser: Mozilla Firefox - Google Chrome - Opera - Safari - Internet Explorer.
+
+
 

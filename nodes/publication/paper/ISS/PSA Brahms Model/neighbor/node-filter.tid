@@ -1,12 +1,12 @@
-created:1582720021596
-filter:[field:tmap.id[9e83869d-f807-415a-9269-294284b9c7b4]]
-map.base:9e83869d-f807-415a-9269-294284b9c7b4
+created:1582954316296
+filter:[field:tmap.id[c11a163a-38e2-4f94-807a-6817edbbce97]]
+map.base:c11a163a-38e2-4f94-807a-6817edbbce97
 map.role:node-filter
 map.type:neighbor
-modified:1582720021596
+modified:1582954316296
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISS/PSA Brahms Model/filter/nodes
-tmap.id:16b03853-c05c-4743-a612-2fd7d2424826
+tmap.id:2d3498c6-a1a0-4532-b76d-0f93298955c6
 type:text/vnd.tiddlywiki
 
 No body provided

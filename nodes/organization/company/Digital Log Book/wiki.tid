@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003385
+created:1582954204552
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003385
+modified:1582954204552
 org.name:Digital Log Book
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Log Book
-tmap.edges:{"bc1c6de7-27c3-438a-8177-792af7745e5b":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:5f051782-8c2f-4722-b507-0efd41f35d78
+tmap.edges:{"5579db67-a532-429a-b830-9b0e25cc8b9b":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:085f0b17-de5c-4318-8b3c-a5a96a3d792e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.digitallogbook.org
 
 The Digital Log Book will support your digital transformation strategy further by capturing key customer insight data enabling you to better support your customers. This will enable you to improve service delivery, increase self serve and set up a digital identity for your customers.
+
+
 

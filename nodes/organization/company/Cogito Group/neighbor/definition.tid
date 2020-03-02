@@ -1,17 +1,17 @@
-config.central-topic:73195939-46c1-4cee-86dc-d1ac5e1bbf29
+config.central-topic:2662d41e-8050-4368-a8bf-e9c9e9b18f12
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021437
-id:fa3e2991-e4a2-4b65-8efb-95be3fea1a14
+created:1582954316175
+id:dd8afdde-c345-44ca-9fb5-85a866d7a2fb
 isview:false
-map.base:73195939-46c1-4cee-86dc-d1ac5e1bbf29
+map.base:2662d41e-8050-4368-a8bf-e9c9e9b18f12
 map.role:definition
 map.type:neighbor
-modified:1582720021437
+modified:1582954316175
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cogito Group
-tmap.id:fa3e2991-e4a2-4b65-8efb-95be3fea1a14
+tmap.id:dd8afdde-c345-44ca-9fb5-85a866d7a2fb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Cogito Group

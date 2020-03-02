@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[terms]] [[icons for meaning making]]
-created:1582720003597
+category:[[icons for meaning making]] [[terms]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Privacy Icons
 parent.org:Mozilla Foundation
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Privacy Icons
 tmap.edges:{}
-tmap.id:4fc366bb-4264-4563-ba31-7f1c138f3cad
+tmap.id:a5a13ad4-057c-484e-82ae-b26e4f578f69
 type:text/vnd.tiddlywiki
 url:https://wiki.mozilla.org/Privacy_Icons
 version.or.edition:
@@ -37,4 +37,6 @@ The solution: a set of Privacy Icons to “bolt on to” your existing privacy p
 Each Privacy Icon makes an iron-clad guarantee about what a company will do with a user’s data. Now, people can understand how their personal data will be transacted, with just a glance. At the same time, companies retain the flexibility needed to create comprehensive, detailed, and meaningful policies.
 
 Privacy Icons are legal declarations, written in cooperation with privacy experts and a coalition of industry stakeholders. And soon, they will be machine readable—enabling users to communicate their preferences through trusted agents (like web browsers).
+
+
 

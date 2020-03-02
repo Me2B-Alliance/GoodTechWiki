@@ -1,12 +1,12 @@
-created:1582720021525
-filter:[field:tmap.id[64d58158-f538-42c6-90f1-3a2c8e3779ec]]
-map.base:64d58158-f538-42c6-90f1-3a2c8e3779ec
+created:1582954316232
+filter:[field:tmap.id[a6e23951-7a79-4fc8-af89-a8a155302f77]]
+map.base:a6e23951-7a79-4fc8-af89-a8a155302f77
 map.role:node-filter
 map.type:neighbor
-modified:1582720021525
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bern University of Applied Sciences/filter/nodes
-tmap.id:6f5d5906-afd4-46d3-8c41-d6344a92b7c7
+tmap.id:444ef9b3-972b-411c-a8eb-7e88a5da6329
 type:text/vnd.tiddlywiki
 
 No body provided

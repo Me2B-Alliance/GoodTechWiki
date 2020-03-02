@@ -1,12 +1,12 @@
-created:1582720021439
-filter:[field:tmap.id[2d8dd093-d875-4786-b8af-2ba030d37e04]]
-map.base:2d8dd093-d875-4786-b8af-2ba030d37e04
+created:1582954316177
+filter:[field:tmap.id[ddaba559-9673-4b50-acf8-070c8bb92bed]]
+map.base:ddaba559-9673-4b50-acf8-070c8bb92bed
 map.role:node-filter
 map.type:neighbor
-modified:1582720021439
+modified:1582954316177
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto/filter/nodes
-tmap.id:2cf5da00-f17b-47e6-acdd-aaffe8c67381
+tmap.id:bb7d7d7d-a025-4096-81eb-14d425fdf1c1
 type:text/vnd.tiddlywiki
 
 No body provided

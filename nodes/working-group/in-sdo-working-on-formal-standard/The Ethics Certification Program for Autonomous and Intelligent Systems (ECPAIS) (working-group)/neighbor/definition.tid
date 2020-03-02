@@ -1,0 +1,17 @@
+config.central-topic:8fdba9d3-9140-4a03-aefc-498c2fbf5a67
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316376
+id:60966e5b-bbd6-4440-afbd-0dcc83593f61
+isview:false
+map.base:8fdba9d3-9140-4a03-aefc-498c2fbf5a67
+map.role:definition
+map.type:neighbor
+modified:1582954316376
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (working-group)
+tmap.id:60966e5b-bbd6-4440-afbd-0dcc83593f61
+type:text/vnd.tiddlywiki
+
+Neighbor Map of The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (working-group)

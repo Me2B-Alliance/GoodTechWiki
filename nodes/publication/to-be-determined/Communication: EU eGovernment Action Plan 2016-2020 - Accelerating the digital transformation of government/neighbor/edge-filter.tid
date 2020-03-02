@@ -1,12 +1,12 @@
-created:1582720021676
+created:1582954316358
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d430eb18-4e71-45c1-a8a3-19c1f9751f28
+map.base:0a75f600-4133-41cf-986c-7c185e562795
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021676
+modified:1582954316358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Communication: EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government/filter/edges
-tmap.id:13980e9b-80ed-442d-9325-73556282a065
+tmap.id:408ff78f-bd87-43e5-8d1b-0148014bbeef
 type:text/vnd.tiddlywiki
 
 No body provided

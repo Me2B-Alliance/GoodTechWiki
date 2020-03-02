@@ -1,12 +1,12 @@
-created:1582720021460
-filter:[field:tmap.id[ad46ae3b-7fce-4b21-b163-da8e1e8bcc8d]]
-map.base:ad46ae3b-7fce-4b21-b163-da8e1e8bcc8d
+created:1582954316189
+filter:[field:tmap.id[8f32f6e6-1dc7-41ca-aca3-d8bec01e3ead]]
+map.base:8f32f6e6-1dc7-41ca-aca3-d8bec01e3ead
 map.role:node-filter
 map.type:neighbor
-modified:1582720021460
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Australia/filter/nodes
-tmap.id:4e5f4bf0-8858-48ff-8c75-8bf178b74110
+tmap.id:b2be0d64-4aef-4bc5-abe0-e1022a05839c
 type:text/vnd.tiddlywiki
 
 No body provided

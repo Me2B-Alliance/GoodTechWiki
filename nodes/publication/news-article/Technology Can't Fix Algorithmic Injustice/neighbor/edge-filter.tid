@@ -1,12 +1,12 @@
-created:1582720021587
+created:1582954316285
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:eae2c454-5583-4c4f-a112-946cb3ad0c54
+map.base:4ea0c70c-4699-4ea6-a673-69531e154671
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021587
+modified:1582954316285
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Technology Can't Fix Algorithmic Injustice/filter/edges
-tmap.id:0cea7727-f5d0-4749-89b3-543491b7a4cf
+tmap.id:d1448c40-9644-4078-b0cb-2a6c89c759bb
 type:text/vnd.tiddlywiki
 
 No body provided

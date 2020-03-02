@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TrustArc GDPR Validation
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:TrustArc GDPR Validation
 tmap.edges:{}
-tmap.id:45417ec6-d207-4644-b477-35dabc4217bd
+tmap.id:ee38a9ab-a4f2-4f6f-8410-8a7bed4d56d1
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/gdpr-certification-validation/
 version.or.edition:
 working.group:
 
 TrustArc GDPR Validation provides an independent way to demonstrate GDPR compliance to customers and partners.
+
+
 

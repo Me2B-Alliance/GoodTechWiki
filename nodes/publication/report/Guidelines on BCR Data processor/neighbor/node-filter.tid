@@ -1,12 +1,12 @@
-created:1582720021625
-filter:[field:tmap.id[8df97140-e1d9-4552-bb92-d58e82193fb2]]
-map.base:8df97140-e1d9-4552-bb92-d58e82193fb2
+created:1582954316317
+filter:[field:tmap.id[2a858d8e-1a76-4b8d-a158-844671548c19]]
+map.base:2a858d8e-1a76-4b8d-a158-844671548c19
 map.role:node-filter
 map.type:neighbor
-modified:1582720021625
+modified:1582954316317
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on BCR Data processor/filter/nodes
-tmap.id:815bc437-15ad-4b80-9e85-471683ad4e3c
+tmap.id:c410c294-0ade-45d9-a08c-0970210e74a3
 type:text/vnd.tiddlywiki
 
 No body provided

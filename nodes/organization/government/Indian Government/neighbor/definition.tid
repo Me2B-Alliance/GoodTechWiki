@@ -1,17 +1,17 @@
-config.central-topic:f883d63c-fbf3-42f5-b7fb-fb111400a95e
+config.central-topic:c06ddac8-ba42-4d17-be62-fb0ace910d5c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021460
-id:b083d94e-19c9-4d6d-8d34-e2779ae84edc
+created:1582954316188
+id:65a6aab6-e772-4701-83e9-1243c81196be
 isview:false
-map.base:f883d63c-fbf3-42f5-b7fb-fb111400a95e
+map.base:c06ddac8-ba42-4d17-be62-fb0ace910d5c
 map.role:definition
 map.type:neighbor
-modified:1582720021460
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Indian Government
-tmap.id:b083d94e-19c9-4d6d-8d34-e2779ae84edc
+tmap.id:65a6aab6-e772-4701-83e9-1243c81196be
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Indian Government

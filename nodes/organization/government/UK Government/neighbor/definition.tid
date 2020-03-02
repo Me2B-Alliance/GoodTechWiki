@@ -1,17 +1,17 @@
-config.central-topic:b7406fb7-a7c8-4974-85a8-971d3e30fa97
+config.central-topic:1cba013f-1708-4c18-807e-36f1e7a9b205
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021461
-id:bcfa5bcb-f7dd-4e93-97e0-318ccdebbc64
+created:1582954316189
+id:4deeee1e-cd36-4536-be80-170e227aace2
 isview:false
-map.base:b7406fb7-a7c8-4974-85a8-971d3e30fa97
+map.base:1cba013f-1708-4c18-807e-36f1e7a9b205
 map.role:definition
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UK Government
-tmap.id:bcfa5bcb-f7dd-4e93-97e0-318ccdebbc64
+tmap.id:4deeee1e-cd36-4536-be80-170e227aace2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of UK Government

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,9 +8,9 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Developers
-publication.type:TO BE DETERMINED
+publication.type:to-be-determined
 purpose:
 sector:
 sponsoring.org:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Developers
 tmap.edges:{}
-tmap.id:d14ce486-28c1-48a5-875b-50d6e39cae1d
+tmap.id:50efb4bf-9e22-4403-9a34-aab9a66e4f64
 type:text/vnd.tiddlywiki
 url:https://coelition.org/business/resources/developers/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 These developer resources explain the sequence and details of the operations that are required to interact within the Coelition ecosystem.
 
 The SDK download provides code samples for .NET, Java, Python, iOS and Android that cover the key systems interactions. The rest of this page describes these interactions and example embodiments can be found in the case studies. Hash tags are used to link the description below with the code in the SDK.
+
+
 

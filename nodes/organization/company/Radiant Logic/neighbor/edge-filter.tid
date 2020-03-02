@@ -1,12 +1,12 @@
-created:1582720021451
+created:1582954316182
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8c741cd3-13b3-4029-9b24-891a9c915e05
+map.base:2af7c163-2860-4f70-a8d9-72bb899bd2d2
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021451
+modified:1582954316182
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radiant Logic/filter/edges
-tmap.id:b79fd8a1-daf5-4c09-894d-1c2cfb3bfc08
+tmap.id:605ba638-b337-4f92-9fdf-2825263431a3
 type:text/vnd.tiddlywiki
 
 No body provided

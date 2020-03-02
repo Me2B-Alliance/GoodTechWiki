@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003596
+category:[[service]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS)
 parent.org:IEEE
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (project-or-product)
 tmap.edges:{}
-tmap.id:32d64c50-634e-43d9-b98d-6e9e889a9e4e
+tmap.id:3efa7cbf-2d04-44bd-9af9-af0e266aaef7
 type:text/vnd.tiddlywiki
 url:https://standards.ieee.org/industry-connections/ecpais.html
 version.or.edition:
@@ -37,4 +37,6 @@ The value of this certification process in the marketplace and society at large 
 “Implement” standards for designing and/or engineering effective privacy and data governance controls into organizational processes products and technologies and maintain or enhance those controls throughout the lifecycle for the product, process or technology
 
 Conduct privacy impact assessments (D/PIAs) presents a high inherent risk of harm to individuals and remediate identified risks
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:3f493573-8e99-4abb-bb62-e0c3595b04a9
+config.central-topic:841d6f4b-da8c-413f-8b14-63375412792d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021602
-id:93424094-98c4-425d-b205-4ce8120b136d
+created:1582954316301
+id:ab44af31-4aac-4a6d-8c61-e6df9040a955
 isview:false
-map.base:3f493573-8e99-4abb-bb62-e0c3595b04a9
+map.base:841d6f4b-da8c-413f-8b14-63375412792d
 map.role:definition
 map.type:neighbor
-modified:1582720021602
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Re-Imagining What Users Really Want
-tmap.id:93424094-98c4-425d-b205-4ce8120b136d
+tmap.id:ab44af31-4aac-4a6d-8c61-e6df9040a955
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Re-Imagining What Users Really Want

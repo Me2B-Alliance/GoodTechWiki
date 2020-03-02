@@ -1,12 +1,12 @@
-created:1582720021537
+created:1582954316243
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5e2e8c72-f984-4663-b53e-f436742b105a
+map.base:d2156032-b336-41cd-b25f-36553abab331
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021537
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/T. Lodderstedt/filter/edges
-tmap.id:e7dfcd75-090d-409b-b4cc-f8ab8a6bbd3b
+tmap.id:94a9e2af-f405-43a8-aad4-0fbdc836c8d2
 type:text/vnd.tiddlywiki
 
 No body provided

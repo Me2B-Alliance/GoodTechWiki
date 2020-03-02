@@ -1,17 +1,17 @@
-config.central-topic:ec63f718-0c66-4cb4-a9ec-716bdb6d69e9
+config.central-topic:e21086bc-81de-41e1-869f-03b9d5f3d105
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021588
-id:c06b6a6c-b094-4435-ba6d-d17422d8d8d5
+created:1582954316284
+id:7090c083-e962-4c00-9441-0434ecf33ee8
 isview:false
-map.base:ec63f718-0c66-4cb4-a9ec-716bdb6d69e9
+map.base:e21086bc-81de-41e1-869f-03b9d5f3d105
 map.role:definition
 map.type:neighbor
-modified:1582720021588
+modified:1582954316284
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GNU General Public License
-tmap.id:c06b6a6c-b094-4435-ba6d-d17422d8d8d5
+tmap.id:7090c083-e962-4c00-9441-0434ecf33ee8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GNU General Public License

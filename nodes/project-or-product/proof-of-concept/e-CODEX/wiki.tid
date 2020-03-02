@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003358
+category:[[proof of concept]]
+created:1582954204525
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003358
+modified:1582954204525
 name:e-CODEX
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe|over]]
 terms.of.service:
 tiddler.classification:node
 title:e-CODEX
-tmap.edges:{"ad553341-0ade-4b3a-8d1f-f1a3beab1a5d":{"to":"80451c2b-560a-433b-a3b8-6ea3adcfcc16","type":"connection"}}
-tmap.id:bf4aaceb-b4e3-47a8-92ce-cf30621a3291
+tmap.edges:{"98a859ff-39ab-4027-9dfc-3432b2ffa6ab":{"to":"1a5160e8-2519-4afe-99df-bc04f78e7d62","type":"connection"}}
+tmap.id:cfc93913-16d0-411b-8fc1-1eb822b79360
 type:text/vnd.tiddlywiki
 url:http://www.e-codex.eu/home.html
 version.or.edition:
@@ -60,4 +60,6 @@ Costs
 Total cost: €24m (EU contribution: €12m)
 
 Programme	ICT Policy Support Programme under the Competitiveness and Innovation Framework Programme (CIP)
+
+
 

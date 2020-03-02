@@ -1,12 +1,12 @@
-created:1582720021605
+created:1582954316304
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:640d7ae3-1487-4d73-a4c7-3ba74b7fb735
+map.base:37a5e61f-fc75-435d-af7a-74af7715aaf7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021605
+modified:1582954316304
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Von Neumann's Legacy: 'Intelligent' Capital in a Weightless Economy/filter/edges
-tmap.id:9f49ba11-ca5f-419e-80ed-354b43d5b0d1
+tmap.id:4bd13bb1-68c8-4927-8bcc-9fae9984f838
 type:text/vnd.tiddlywiki
 
 No body provided

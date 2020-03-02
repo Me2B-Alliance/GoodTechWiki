@@ -1,12 +1,12 @@
-created:1582720021643
+created:1582954316336
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9e24d92f-c32c-44af-ab34-700516b1c58d
+map.base:b2ad755d-384a-474c-9afa-6519c8b2586e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021643
+modified:1582954316336
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Wisdom of the Captured/filter/edges
-tmap.id:5674c80a-5cba-4577-a6c3-889b83a215b4
+tmap.id:a35c3d7b-ab60-4b0f-9324-a906ba9e4588
 type:text/vnd.tiddlywiki
 
 No body provided

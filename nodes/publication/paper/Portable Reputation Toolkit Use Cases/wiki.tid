@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:Portable Reputation Toolkit Use Cases
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Portable Reputation Toolkit Use Cases
 tmap.edges:{}
-tmap.id:dc81b1b5-be6a-496a-81f2-a79abd445261
+tmap.id:515eb422-0e1b-4e21-8212-1bd9124a16a6
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/reputation-toolkit.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 In social networks and markets and on value chains we  have  a  hard  time  determining  what  is  true  and who  to  trust.  Verified  information  is  critical  for  the functioning  of  a  networked  democratic  society.  The portable  reputation  toolkit  is  intended  to  address these  issues  by  using cryptographic  signatures  and decentralized   technology   such   as   decentralized identifiers, blockchain, and distributed data storage.This white paper outlines several concrete use cases. These   include   decentralized   fact   checking   for political journalism, decentralized Fair Trade supply chain     certification,     and     decentralized     skill certification without a centralized institution.
+
+
 

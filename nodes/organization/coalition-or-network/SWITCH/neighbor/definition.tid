@@ -1,17 +1,17 @@
-config.central-topic:81189bb2-b027-4594-836c-994e9ca77d03
+config.central-topic:94daa082-38b0-4c71-b2c7-64c31111d29a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021434
-id:cc9c978b-1f8d-4671-a4a0-a985641ca29f
+created:1582954316173
+id:28965453-3560-4938-b751-b754a11e70cb
 isview:false
-map.base:81189bb2-b027-4594-836c-994e9ca77d03
+map.base:94daa082-38b0-4c71-b2c7-64c31111d29a
 map.role:definition
 map.type:neighbor
-modified:1582720021434
+modified:1582954316173
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SWITCH
-tmap.id:cc9c978b-1f8d-4671-a4a0-a985641ca29f
+tmap.id:28965453-3560-4938-b751-b754a11e70cb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of SWITCH

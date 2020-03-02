@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003597
+category:[[research]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:[[certification candidate]]
-modified:1582720003597
+modified:1582954204773
 name:Meaningful Consent
 parent.org:Southampton University
 partners:
@@ -19,12 +19,12 @@ purpose:[[education]] [[human rights]]
 relevant.publications:
 status:Active
 supported.identity.technologies:
-tags:[[workshop]]
+tags:[[workshop (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Meaningful Consent
 tmap.edges:{}
-tmap.id:e5592a04-dca4-401a-94cc-c2254ae14062
+tmap.id:29f1ff23-d4ae-4e01-b631-264988ea6bd1
 type:text/vnd.tiddlywiki
 url:http://www.meaningfulconsent.org/
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
 Despite being asked to "agree" constantly to terms of service, we do not currently have "meaningful consent." It is unclear whether having simple and meaningful consent mechanisms would change business fundamentally or enhance new kinds of economics around personal data sharing. Since consent is deemed necessary and part of a social contract for fairness, however, without meaningful consent, that social contract is effectively broken and the best intent of our laws undermined.
 
 Our research challenges to address this gap are interdisciplinary: meaningful consent has implications for transforming current digital economy data practices; change will require potentially new business models, and certainly new forms of interaction to highlight policy without over burdening citizens as we go about our business. We have set out a vision to achieve an understanding of meaningful consent through a combination of interdisciplinary expert and citizen activities to deliver useful policy, business and technology guidelines.
+
+
 

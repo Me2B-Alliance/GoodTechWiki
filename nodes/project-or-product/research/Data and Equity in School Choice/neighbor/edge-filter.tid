@@ -1,12 +1,12 @@
-created:1582720021543
+created:1582954316255
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8e1139b6-0ab4-48c2-8fd4-25df8f739c15
+map.base:f8883107-4201-43fc-b9d0-1ff8dc2d934a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021543
+modified:1582954316255
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data and Equity in School Choice/filter/edges
-tmap.id:fbb12e23-5045-4811-9cd4-32e87382e548
+tmap.id:47dedcce-02cc-412e-8263-60dfd12d8b4e
 type:text/vnd.tiddlywiki
 
 No body provided

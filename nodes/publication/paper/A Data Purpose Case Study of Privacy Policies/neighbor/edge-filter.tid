@@ -1,12 +1,12 @@
-created:1582720021590
+created:1582954316286
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:65909f7c-22b3-432b-a95f-3643242b1c43
+map.base:7d5f22ef-80a9-4d5d-9812-99ecd6e9dd22
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021590
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Data Purpose Case Study of Privacy Policies/filter/edges
-tmap.id:6fbc44a2-b30d-4506-8793-135279e1fefa
+tmap.id:f2522216-6fd0-4eae-afba-97ec32c11f27
 type:text/vnd.tiddlywiki
 
 No body provided

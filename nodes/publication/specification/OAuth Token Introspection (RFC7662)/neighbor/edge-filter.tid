@@ -1,12 +1,12 @@
-created:1582720021659
+created:1582954316347
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fc42127f-37b6-4ab7-b649-21ce2b8421bd
+map.base:ea87ce19-b496-4535-aa82-2bf67c8bb2e0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021659
+modified:1582954316347
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Token Introspection (RFC7662)/filter/edges
-tmap.id:8858cc57-a670-42b7-9cc2-c45cfb018b7c
+tmap.id:316403f3-febd-4b1f-878a-68148cabf90c
 type:text/vnd.tiddlywiki
 
 No body provided

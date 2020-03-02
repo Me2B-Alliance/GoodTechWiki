@@ -1,12 +1,12 @@
-created:1582720021547
-filter:[field:tmap.id[664607af-43dc-415c-913e-69e79a2e8a83]]
-map.base:664607af-43dc-415c-913e-69e79a2e8a83
+created:1582954316257
+filter:[field:tmap.id[baf73659-3525-4c15-8e05-883b411c92f7]]
+map.base:baf73659-3525-4c15-8e05-883b411c92f7
 map.role:node-filter
 map.type:neighbor
-modified:1582720021547
+modified:1582954316257
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MAPRG Measurement and Analysis for Protocols Research Group/filter/nodes
-tmap.id:8709371b-957b-44f2-8f76-360dbd6d4187
+tmap.id:a398611c-9bd9-4839-85d7-6195715f80f0
 type:text/vnd.tiddlywiki
 
 No body provided

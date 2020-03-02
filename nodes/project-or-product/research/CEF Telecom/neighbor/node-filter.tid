@@ -1,12 +1,12 @@
-created:1582720021542
-filter:[field:tmap.id[68c59e7d-2484-4661-916b-94bb6c1c8bac]]
-map.base:68c59e7d-2484-4661-916b-94bb6c1c8bac
+created:1582954316253
+filter:[field:tmap.id[550c7a5f-d61a-48f6-bb52-ab0e8358542a]]
+map.base:550c7a5f-d61a-48f6-bb52-ab0e8358542a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021542
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Telecom/filter/nodes
-tmap.id:669b2b41-6f89-4e6f-82c2-bf5c4399cbe9
+tmap.id:d1d6bc4d-b452-4b29-8fc2-04514409023c
 type:text/vnd.tiddlywiki
 
 No body provided

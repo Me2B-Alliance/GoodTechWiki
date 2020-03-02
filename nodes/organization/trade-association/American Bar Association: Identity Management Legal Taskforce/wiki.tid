@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003374
+created:1582954204542
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003374
+modified:1582954204542
 org.name:American Bar Association: Identity Management Legal Taskforce
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:American Bar Association: Identity Management Legal Taskforce
-tmap.edges:{"ad2cca8e-1522-4d5f-9cd8-9a2fed968848":{"to":"5bd836be-9532-47c4-858a-7f49567d9c45","type":"sponsor"}}
-tmap.id:c8887f5f-3957-49ce-b1fe-504c61a66a19
+tmap.edges:{"65588bbe-84eb-4d25-822a-f5597e353123":{"to":"d1a3833f-548b-4f18-a62c-2c31ae30ec83","type":"sponsor"}}
+tmap.id:0f579826-b654-4d77-9f19-a9ae4b321aa9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

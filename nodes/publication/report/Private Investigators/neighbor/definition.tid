@@ -1,17 +1,17 @@
-config.central-topic:f4f4ae56-7b9a-40eb-bee9-475705336904
+config.central-topic:caf9d431-4ab1-4d84-ba46-43fac9f9dc0d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021635
-id:b3635335-d96f-4575-b734-08bf4c5d8a80
+created:1582954316327
+id:4ab897ac-1faf-42e4-a69e-74c44a95d210
 isview:false
-map.base:f4f4ae56-7b9a-40eb-bee9-475705336904
+map.base:caf9d431-4ab1-4d84-ba46-43fac9f9dc0d
 map.role:definition
 map.type:neighbor
-modified:1582720021635
+modified:1582954316327
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Private Investigators
-tmap.id:b3635335-d96f-4575-b734-08bf4c5d8a80
+tmap.id:4ab897ac-1faf-42e4-a69e-74c44a95d210
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Private Investigators

@@ -1,17 +1,17 @@
-config.central-topic:597b1f21-a80d-4109-b35e-7b48ffbd1034
+config.central-topic:fe4085ab-50b7-4b6e-80cc-4f9b91cef85c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021690
-id:6594c07d-c95b-4f7a-b5b1-ea2763b69e3e
+created:1582954316372
+id:ac397438-2745-4906-b160-6f85ef7f494f
 isview:false
-map.base:597b1f21-a80d-4109-b35e-7b48ffbd1034
+map.base:fe4085ab-50b7-4b6e-80cc-4f9b91cef85c
 map.role:definition
 map.type:neighbor
-modified:1582720021690
+modified:1582954316372
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain and Smart Contracts Discussion Group
-tmap.id:6594c07d-c95b-4f7a-b5b1-ea2763b69e3e
+tmap.id:ac397438-2745-4906-b160-6f85ef7f494f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Blockchain and Smart Contracts Discussion Group

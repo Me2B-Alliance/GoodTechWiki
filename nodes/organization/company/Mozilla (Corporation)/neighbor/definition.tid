@@ -1,17 +1,17 @@
-config.central-topic:099f3561-aef9-4ce7-8c05-25f40e185484
+config.central-topic:a51b7565-26b9-4da5-b612-a6b77b7c4741
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021449
-id:a4085ae2-19ed-4b5e-af0e-1b64865d93d0
+created:1582954316180
+id:7cc8ec9b-f8c7-46e6-a7c2-0c010636dd2d
 isview:false
-map.base:099f3561-aef9-4ce7-8c05-25f40e185484
+map.base:a51b7565-26b9-4da5-b612-a6b77b7c4741
 map.role:definition
 map.type:neighbor
-modified:1582720021449
+modified:1582954316180
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mozilla (Corporation)
-tmap.id:a4085ae2-19ed-4b5e-af0e-1b64865d93d0
+tmap.id:7cc8ec9b-f8c7-46e6-a7c2-0c010636dd2d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mozilla (Corporation)

@@ -1,12 +1,12 @@
-created:1582720021431
-filter:[field:tmap.id[21c73a83-34a9-4809-8b8e-ebd16df5387d]]
-map.base:21c73a83-34a9-4809-8b8e-ebd16df5387d
+created:1582954316169
+filter:[field:tmap.id[e6712801-8237-44b2-b4c7-3692c02d9228]]
+map.base:e6712801-8237-44b2-b4c7-3692c02d9228
 map.role:node-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISSE Information Security Solutions Europe/filter/nodes
-tmap.id:e9dc1697-c28d-4d79-94a2-3e819c169613
+tmap.id:76a7374a-e2a5-4d48-b72f-5791cd6ed4c7
 type:text/vnd.tiddlywiki
 
 No body provided

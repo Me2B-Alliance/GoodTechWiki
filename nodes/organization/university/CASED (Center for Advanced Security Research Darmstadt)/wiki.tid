@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003335
+created:1582954204503
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003335
+modified:1582954204503
 org.name:CASED (Center for Advanced Security Research Darmstadt)
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:CASED (Center for Advanced Security Research Darmstadt)
-tmap.edges:{"89f5e612-3a3a-459a-9e62-9db4b19c3f93":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:ee52b7d1-d22e-440f-ac2d-bb78adccce66
+tmap.edges:{"ab511a02-57a5-4435-b645-85dbbee6d171":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:7dda0877-c7b9-494a-9a7a-7b29c00498da
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.cased.de/en.html
 
 Security is the focal point for the development of information technology which is the most important driving force for global innovation. However, current technical expertise does not guarantee security of computer which in future will be ubiquitous in the world of IT. An internationally important cluster for IT security research and development is found at Darmstadt. It is here where computer scientists, engineers, physicist, legal experts and experts in business administration of TU Darmstadt, Fraunhofer SIT and Hochschule Darmstadt (University of Applied Sciences) develop trend-setting IT security solutions and prepare them in order to be commercially useful.
+
+
 

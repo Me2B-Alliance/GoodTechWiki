@@ -1,12 +1,12 @@
-created:1582720021640
+created:1582954316330
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5e9afde2-c3f5-4b21-a8d7-cd979cd50d53
+map.base:f5d067ed-ba0a-4f52-a1e4-aeff24e1f78e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021640
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech folk: ‘Move fast and break things’ doesn’t work when lives are at stake/filter/edges
-tmap.id:62486a07-f2e3-43ee-90af-0ef5cfde850d
+tmap.id:df76226b-2f7e-4fe4-9924-93f8699eca46
 type:text/vnd.tiddlywiki
 
 No body provided

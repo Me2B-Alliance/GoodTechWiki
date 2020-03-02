@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003382
+category:[[discussion group]]
+created:1582954204551
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003382
+modified:1582954204551
 name:Web Payments Interest Group
 parent.org:
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Web Payments Interest Group
-tmap.edges:{"d98f72ca-0b92-49a5-aeae-59b4419e6742":{"to":"bf633d4b-c648-4714-a327-72abf7315648","type":"organization-for-group"}}
-tmap.id:5c038a1d-e08a-4e1e-ba0c-758db25f9328
+tmap.edges:{"4b1a3f8f-0dee-4c65-a906-b6cb9fa2e99b":{"to":"5d0cae44-8fb4-4f63-81f9-4167fa2e1cf9","type":"organization-for-group"}}
+tmap.id:0c76051f-8158-48b2-b4ff-cd630dc0c9e2
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/payments/ig/
 
@@ -51,4 +51,6 @@ The tasks that the Interest Group will undertake include:
 Note:
 * Development of technical standards is not in scope for the Interest Group. However, this group will encourage the development or adaption of technical standards to bridge the gaps that are identified. This includes the provisions of requirements and liaisons with relevant W3C and external groups and organizations. See the Dependencies and Liaison section.
 * The Group will consider the security, privacy and accessibility implications of its use cases and requirements, and seek appropriate review.
+
+
 

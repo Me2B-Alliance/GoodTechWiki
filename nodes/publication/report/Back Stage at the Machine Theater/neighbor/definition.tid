@@ -1,17 +1,17 @@
-config.central-topic:e66567bb-1b18-4340-b1b1-1ec41d97fc32
+config.central-topic:c443a4cd-42fa-4488-b371-d791c9caee22
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021611
-id:e1552359-2391-4a49-85e5-cfd67e8a3e97
+created:1582954316308
+id:d1207170-50c1-4bad-b8b8-9b929e0ced19
 isview:false
-map.base:e66567bb-1b18-4340-b1b1-1ec41d97fc32
+map.base:c443a4cd-42fa-4488-b371-d791c9caee22
 map.role:definition
 map.type:neighbor
-modified:1582720021611
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Back Stage at the Machine Theater
-tmap.id:e1552359-2391-4a49-85e5-cfd67e8a3e97
+tmap.id:d1207170-50c1-4bad-b8b8-9b929e0ced19
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Back Stage at the Machine Theater

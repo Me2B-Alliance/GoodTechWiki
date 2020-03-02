@@ -1,12 +1,12 @@
-created:1582720021429
-filter:[field:tmap.id[072249a3-dcf8-45cb-bccf-4e9147059be4]]
-map.base:072249a3-dcf8-45cb-bccf-4e9147059be4
+created:1582954316167
+filter:[field:tmap.id[6ca86cd9-a681-488b-b824-250487404cd1]]
+map.base:6ca86cd9-a681-488b-b824-250487404cd1
 map.role:node-filter
 map.type:neighbor
-modified:1582720021429
+modified:1582954316167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Governance Design Conference/filter/nodes
-tmap.id:eb86d028-3bc8-4c92-a9c1-4b98b8ca4707
+tmap.id:4d9b4a89-1b3c-440b-855d-3873777eacb7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021526
-filter:[field:tmap.id[5d699235-9071-4a7d-b9f9-a0a6e40157be]]
-map.base:5d699235-9071-4a7d-b9f9-a0a6e40157be
+created:1582954316235
+filter:[field:tmap.id[ec0fd53e-786d-4ec0-800d-99e428838ab3]]
+map.base:ec0fd53e-786d-4ec0-800d-99e428838ab3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021526
+modified:1582954316235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Graz University of Technology/filter/nodes
-tmap.id:674bda08-ea88-4d6e-83b6-5818071308ce
+tmap.id:e92d2ef2-3a7d-47ac-968a-006935905df0
 type:text/vnd.tiddlywiki
 
 No body provided

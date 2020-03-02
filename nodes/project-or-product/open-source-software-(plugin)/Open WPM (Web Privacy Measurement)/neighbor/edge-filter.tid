@@ -1,12 +1,12 @@
-created:1582720021560
+created:1582954316249
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:22939f07-68e4-4c8f-bad9-163599cd4d44
+map.base:b641bfe7-df4e-4862-a1f7-cdaecc19b4a8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021560
+modified:1582954316249
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open WPM (Web Privacy Measurement)/filter/edges
-tmap.id:96f0f225-64be-4573-bbd4-5a6bc02c28ba
+tmap.id:047fbb9a-56b7-45a9-aad5-ad13368a47bd
 type:text/vnd.tiddlywiki
 
 No body provided

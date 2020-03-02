@@ -1,17 +1,17 @@
-config.central-topic:da43f62b-c7c7-4c0e-9908-11c7bfb707e9
+config.central-topic:88a2f881-1de3-483b-b8f4-87a92cf9892d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021660
-id:8fa6ba87-abac-451e-ad42-d122771bc8ea
+created:1582954316349
+id:d55ed8da-9ccd-4b39-a4bb-91dc3556ab95
 isview:false
-map.base:da43f62b-c7c7-4c0e-9908-11c7bfb707e9
+map.base:88a2f881-1de3-483b-b8f4-87a92cf9892d
 map.role:definition
 map.type:neighbor
-modified:1582720021660
+modified:1582954316349
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Core 1.0
-tmap.id:8fa6ba87-abac-451e-ad42-d122771bc8ea
+tmap.id:d55ed8da-9ccd-4b39-a4bb-91dc3556ab95
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OpenID Connect Core 1.0

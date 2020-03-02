@@ -1,12 +1,12 @@
-created:1582720021458
+created:1582954316187
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:200004b0-3198-4338-b185-110ec86dbb44
+map.base:1b69f50d-0637-4c69-9c77-e0aff94b7ada
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021458
+modified:1582954316187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IOT Security Policy Platform (ISOC)/filter/edges
-tmap.id:cda07dbb-eda4-4a2e-b475-893714267747
+tmap.id:2fcd25a5-dfab-4f67-8507-6604f181d604
 type:text/vnd.tiddlywiki
 
 No body provided

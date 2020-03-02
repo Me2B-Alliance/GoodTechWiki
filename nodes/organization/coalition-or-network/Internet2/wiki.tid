@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003378
+created:1582954204546
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003378
+modified:1582954204546
 org.name:Internet2
 org.type:coalition or network
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Internet2
-tmap.edges:{"a2ce8119-37f0-467a-8c35-fd0e3b114e27":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:84857ac6-1517-426f-87f4-e63660792b36
+tmap.edges:{"0df2dd45-cab5-4f6d-9e7d-74c9c1628a25":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:3918e0fc-22cb-4894-9ce4-8d865c6d189f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

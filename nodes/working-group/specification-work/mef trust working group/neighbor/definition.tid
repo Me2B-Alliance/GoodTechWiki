@@ -1,17 +1,17 @@
-config.central-topic:2cf37893-2265-4cbe-88a0-50a58588b8bf
+config.central-topic:6a6d1ba0-b5d0-4234-b8d7-09399e57a7fb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021707
-id:aa144f13-13f6-42ef-be9c-8bfd2503bacd
+created:1582954316386
+id:ec54e98d-bcd0-477d-a2c5-071784e01db3
 isview:false
-map.base:2cf37893-2265-4cbe-88a0-50a58588b8bf
+map.base:6a6d1ba0-b5d0-4234-b8d7-09399e57a7fb
 map.role:definition
 map.type:neighbor
-modified:1582720021707
+modified:1582954316386
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/mef trust working group
-tmap.id:aa144f13-13f6-42ef-be9c-8bfd2503bacd
+tmap.id:ec54e98d-bcd0-477d-a2c5-071784e01db3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of mef trust working group

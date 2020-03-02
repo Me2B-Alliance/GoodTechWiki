@@ -1,12 +1,12 @@
-created:1582720021465
-filter:[field:tmap.id[e7345fa0-4559-4711-a423-c4f1c636462b]]
-map.base:e7345fa0-4559-4711-a423-c4f1c636462b
+created:1582954316192
+filter:[field:tmap.id[3f387456-a171-4bc9-a8ea-9762942b5c30]]
+map.base:3f387456-a171-4bc9-a8ea-9762942b5c30
 map.role:node-filter
 map.type:neighbor
-modified:1582720021465
+modified:1582954316192
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equality Labs/filter/nodes
-tmap.id:444211cc-0b4d-42ba-87a7-8a0382ba1af2
+tmap.id:aead70ad-473f-4a7f-80fc-90f0705a252f
 type:text/vnd.tiddlywiki
 
 No body provided

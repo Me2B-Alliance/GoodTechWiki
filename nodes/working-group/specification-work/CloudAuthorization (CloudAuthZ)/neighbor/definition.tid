@@ -1,17 +1,17 @@
-config.central-topic:af1f7165-dfcb-4957-8210-41fefe43d514
+config.central-topic:2c01d2ec-75b5-4375-be40-9f60349f6ccf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021695
-id:cce4ff85-59e2-4e58-9a55-6ed28a5ab17e
+created:1582954316377
+id:8bdd710b-56a0-47a6-b9f6-9f6b28088c1a
 isview:false
-map.base:af1f7165-dfcb-4957-8210-41fefe43d514
+map.base:2c01d2ec-75b5-4375-be40-9f60349f6ccf
 map.role:definition
 map.type:neighbor
-modified:1582720021695
+modified:1582954316377
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CloudAuthorization (CloudAuthZ)
-tmap.id:cce4ff85-59e2-4e58-9a55-6ed28a5ab17e
+tmap.id:8bdd710b-56a0-47a6-b9f6-9f6b28088c1a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CloudAuthorization (CloudAuthZ)

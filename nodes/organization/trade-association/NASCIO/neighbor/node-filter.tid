@@ -1,12 +1,12 @@
-created:1582720021517
-filter:[field:tmap.id[7cd0401e-8c96-46e5-9461-5b02cf565ac6]]
-map.base:7cd0401e-8c96-46e5-9461-5b02cf565ac6
+created:1582954316228
+filter:[field:tmap.id[ed776d47-12af-4f57-9b97-b32b94ba1571]]
+map.base:ed776d47-12af-4f57-9b97-b32b94ba1571
 map.role:node-filter
 map.type:neighbor
-modified:1582720021517
+modified:1582954316228
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NASCIO/filter/nodes
-tmap.id:6fb384fa-1d0e-4d8a-a424-bf4fc914f3b5
+tmap.id:44288f82-5c92-4be2-a180-83fe942b45e9
 type:text/vnd.tiddlywiki
 
 No body provided

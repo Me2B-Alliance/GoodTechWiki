@@ -1,17 +1,17 @@
-config.central-topic:99203f04-14c6-4b25-860f-080aa22e05dc
+config.central-topic:bacea8a5-264c-4a96-862b-42c4c4434b70
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021438
-id:aea802d3-206d-4eb8-95c4-3df9dc124751
+created:1582954316177
+id:57566f98-4d98-4da8-aee6-4b5ec8f5f33f
 isview:false
-map.base:99203f04-14c6-4b25-860f-080aa22e05dc
+map.base:bacea8a5-264c-4a96-862b-42c4c4434b70
 map.role:definition
 map.type:neighbor
-modified:1582720021438
+modified:1582954316177
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equifax
-tmap.id:aea802d3-206d-4eb8-95c4-3df9dc124751
+tmap.id:57566f98-4d98-4da8-aee6-4b5ec8f5f33f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Equifax

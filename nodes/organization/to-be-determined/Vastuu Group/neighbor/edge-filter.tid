@@ -1,12 +1,12 @@
-created:1582720021500
+created:1582954316219
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:54a80ab5-68c2-4b5a-90ab-3d95f8ff4447
+map.base:18bd6429-8515-4cd0-a7cf-db42ddec4f6e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021500
+modified:1582954316219
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vastuu Group/filter/edges
-tmap.id:034ce8da-651f-4fe8-a260-9c2d36713a5a
+tmap.id:8abf71cc-a700-49b4-970e-bf471bb197c0
 type:text/vnd.tiddlywiki
 
 No body provided

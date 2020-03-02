@@ -1,12 +1,12 @@
-created:1582720021450
+created:1582954316180
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c17d54f8-8e58-43f8-b6d8-b8c836e18ae4
+map.base:4a3de826-c57b-41f5-a9fc-b64427638dfc
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021450
+modified:1582954316180
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NEC Laboratories Europe/filter/edges
-tmap.id:8d52d5b4-d970-4a2e-82e2-e86b70b55bde
+tmap.id:1488dc4d-ef30-4162-9f03-db18a892e1a6
 type:text/vnd.tiddlywiki
 
 No body provided

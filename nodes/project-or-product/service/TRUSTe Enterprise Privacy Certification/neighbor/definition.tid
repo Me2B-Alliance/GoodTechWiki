@@ -1,17 +1,17 @@
-config.central-topic:1eecfcf4-1c9f-472d-981c-2b76a43a82bc
+config.central-topic:9796b9ea-c330-498e-ab9c-8755054e28be
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021557
-id:1f1dee57-3af8-45f7-8713-27da6e46009c
+created:1582954316264
+id:e7775fd9-39ac-4409-b5b3-db6bb4531344
 isview:false
-map.base:1eecfcf4-1c9f-472d-981c-2b76a43a82bc
+map.base:9796b9ea-c330-498e-ab9c-8755054e28be
 map.role:definition
 map.type:neighbor
-modified:1582720021557
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe Enterprise Privacy Certification
-tmap.id:1f1dee57-3af8-45f7-8713-27da6e46009c
+tmap.id:e7775fd9-39ac-4409-b5b3-db6bb4531344
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TRUSTe Enterprise Privacy Certification

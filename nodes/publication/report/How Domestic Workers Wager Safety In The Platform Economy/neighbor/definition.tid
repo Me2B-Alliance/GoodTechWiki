@@ -1,17 +1,17 @@
-config.central-topic:ce6f29bc-063f-4950-9c4b-7a707d6a0147
+config.central-topic:2b7473f0-3d08-454f-add0-0ef73385f730
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021626
-id:a7a64a49-90d3-4b64-956a-b6b9d66ea8dc
+created:1582954316319
+id:024d85af-42a1-4ba2-9704-8735be618232
 isview:false
-map.base:ce6f29bc-063f-4950-9c4b-7a707d6a0147
+map.base:2b7473f0-3d08-454f-add0-0ef73385f730
 map.role:definition
 map.type:neighbor
-modified:1582720021626
+modified:1582954316319
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How Domestic Workers Wager Safety In The Platform Economy
-tmap.id:a7a64a49-90d3-4b64-956a-b6b9d66ea8dc
+tmap.id:024d85af-42a1-4ba2-9704-8735be618232
 type:text/vnd.tiddlywiki
 
 Neighbor Map of How Domestic Workers Wager Safety In The Platform Economy

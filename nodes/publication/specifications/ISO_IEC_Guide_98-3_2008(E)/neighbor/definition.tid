@@ -1,17 +1,17 @@
-config.central-topic:a2aaede6-3eee-4cb2-be77-f578994445e0
+config.central-topic:cc486d58-274e-47df-83e6-339db430c6cc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021670
-id:581e1080-2756-4d2c-88be-2cfb55455fdc
+created:1582954316354
+id:83c493d4-25eb-4986-bdc1-c98d715085e0
 isview:false
-map.base:a2aaede6-3eee-4cb2-be77-f578994445e0
+map.base:cc486d58-274e-47df-83e6-339db430c6cc
 map.role:definition
 map.type:neighbor
-modified:1582720021670
+modified:1582954316354
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_98-3_2008(E)
-tmap.id:581e1080-2756-4d2c-88be-2cfb55455fdc
+tmap.id:83c493d4-25eb-4986-bdc1-c98d715085e0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_98-3_2008(E)

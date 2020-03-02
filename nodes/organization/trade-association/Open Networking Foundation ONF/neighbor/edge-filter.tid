@@ -1,12 +1,12 @@
-created:1582720021523
+created:1582954316230
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:aa0ebccd-b209-4d52-a864-d7cf84b320e6
+map.base:c180bf0d-a023-4ed2-99e8-f0770a4b6aac
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021523
+modified:1582954316230
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Networking Foundation ONF/filter/edges
-tmap.id:b7b75285-c49a-4cd3-a596-7410e65a88c0
+tmap.id:af5965b8-f682-4fbc-9ea6-c6469331a2e5
 type:text/vnd.tiddlywiki
 
 No body provided

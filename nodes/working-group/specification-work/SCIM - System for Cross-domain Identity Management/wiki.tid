@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003327
+category:[[specification work]]
+created:1582954204494
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003327
+modified:1582954204494
 name:SCIM - System for Cross-domain Identity Management
 parent.org:IETF
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:SCIM - System for Cross-domain Identity Management
-tmap.edges:{"b6026d08-a145-4c7f-872d-8c9b872b0586":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:cca10200-f081-4e6d-93b6-70f13f6525af
+tmap.edges:{"00890e5d-dfc9-4439-bdd4-eb243bb3caab":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:b6950251-ade4-475d-8c1a-dd15cc7d9dc2
 type:text/vnd.tiddlywiki
 url:https://tools.ietf.org/html/rfc7643
 
@@ -37,4 +37,6 @@ The System for Cross-domain Identity Management (SCIM) specifications
    for representing users and groups and other resource types in JSON
    format.  This schema is intended for exchange and use with cloud
    service providers.
+
+
 

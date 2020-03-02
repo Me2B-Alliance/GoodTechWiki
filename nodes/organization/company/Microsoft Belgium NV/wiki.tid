@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204538
 org.name:Microsoft Belgium NV
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Microsoft Belgium NV
-tmap.edges:{"d194a114-5282-42b0-bb98-cf415860ce33":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"},"b13f9df5-55a8-4f48-afb3-44e3c2f797a4":{"to":"50f72687-d993-4a46-936c-4e21ea2d8862","type":"organization-for-group"}}
-tmap.id:2a586ea7-4148-4c73-a15d-a989b9919fca
+tmap.edges:{"e66abff5-26d0-43cf-b7ac-c1d086e728f0":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"},"64ae4674-3047-49ea-b1c5-6ea3f4f9d7fa":{"to":"8983a9a8-8526-4941-b35b-f0cebc0cf6fe","type":"organization-for-group"}}
+tmap.id:49de08a5-8825-4218-ae66-b11a9015acac
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.microsoft.com/nl-be/default.aspx
+
+
 
 
 

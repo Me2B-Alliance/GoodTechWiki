@@ -1,17 +1,17 @@
-config.central-topic:f63119bb-2659-4bac-8af7-3d7f0bd35412
+config.central-topic:e063d159-7498-4387-b405-f4708ffd8791
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021678
-id:2bf7c1ad-0700-495c-b119-8d97571837cb
+created:1582954316359
+id:ae9211f6-8b65-4df2-ab11-05fe6ca69d1f
 isview:false
-map.base:f63119bb-2659-4bac-8af7-3d7f0bd35412
+map.base:e063d159-7498-4387-b405-f4708ffd8791
 map.role:definition
 map.type:neighbor
-modified:1582720021678
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Handbook for using the Core Vocabularies
-tmap.id:2bf7c1ad-0700-495c-b119-8d97571837cb
+tmap.id:ae9211f6-8b65-4df2-ab11-05fe6ca69d1f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Handbook for using the Core Vocabularies

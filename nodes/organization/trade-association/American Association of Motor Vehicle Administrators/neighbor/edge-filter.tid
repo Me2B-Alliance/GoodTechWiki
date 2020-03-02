@@ -1,12 +1,12 @@
-created:1582720021508
+created:1582954316221
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e626d51c-ad16-4886-b383-14b69013ed5c
+map.base:7b94dd7a-aab1-4e7c-a186-e837b00ff809
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021508
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/American Association of Motor Vehicle Administrators/filter/edges
-tmap.id:af08d497-cf15-47e0-89ad-ec95c6aa6585
+tmap.id:bcb2899f-34d5-4e58-ba24-63d01fe423cc
 type:text/vnd.tiddlywiki
 
 No body provided

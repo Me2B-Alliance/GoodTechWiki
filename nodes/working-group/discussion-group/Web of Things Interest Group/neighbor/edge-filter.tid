@@ -1,12 +1,12 @@
-created:1582720021691
+created:1582954316374
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5afa64de-d0aa-47d2-95fd-39c08f48ddf2
+map.base:e47b0f2c-9e2a-4754-89f0-2b3901cda209
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021691
+modified:1582954316374
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web of Things Interest Group/filter/edges
-tmap.id:c3d6157f-841b-46ad-b299-d848d13c0cba
+tmap.id:657f6795-3207-49d1-9580-3ff1e5b8ab25
 type:text/vnd.tiddlywiki
 
 No body provided

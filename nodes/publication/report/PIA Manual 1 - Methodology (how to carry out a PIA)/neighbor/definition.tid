@@ -1,17 +1,17 @@
-config.central-topic:16ad1ba8-3782-40c2-8478-3c133d956248
+config.central-topic:8ce90a70-e079-4825-a68c-f94d614a871f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021632
-id:ae142e2f-76b5-47de-843a-1f84ef67863c
+created:1582954316324
+id:15c84b46-7191-469b-beb3-fd89c710f544
 isview:false
-map.base:16ad1ba8-3782-40c2-8478-3c133d956248
+map.base:8ce90a70-e079-4825-a68c-f94d614a871f
 map.role:definition
 map.type:neighbor
-modified:1582720021632
+modified:1582954316324
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PIA Manual 1 - Methodology (how to carry out a PIA)
-tmap.id:ae142e2f-76b5-47de-843a-1f84ef67863c
+tmap.id:15c84b46-7191-469b-beb3-fd89c710f544
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PIA Manual 1 - Methodology (how to carry out a PIA)

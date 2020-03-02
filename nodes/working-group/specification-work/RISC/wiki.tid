@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003324
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003324
+modified:1582954204491
 name:RISC
 parent.org:OpenID Foundation
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:RISC
-tmap.edges:{"58da5821-c0a2-451f-964e-aae419c794ff":{"to":"b96f25c7-de4d-4f8d-a9be-296ff6067335","type":"organization-for-group"}}
-tmap.id:be635545-7427-486e-9e12-e89652dec239
+tmap.edges:{"e8d7bae5-6e6d-4bb7-95c7-b7c732f299f9":{"to":"d68e839d-d172-4c8b-9f17-8b981df00915","type":"organization-for-group"}}
+tmap.id:ea62c737-71d1-40f5-a3d3-cc7f0db40bb9
 type:text/vnd.tiddlywiki
 url:http://openid.net/wg/risc/
 
@@ -28,4 +28,6 @@ The goal of RISC is to provide data sharing schemas, privacy recommendations and
 * Enable users and providers to coordinate in order to securely restore accounts following a compromise.
 
 Internet accounts that use email addresses or phone numbers as the primary identifier for the account will be the initial focus.
+
+
 

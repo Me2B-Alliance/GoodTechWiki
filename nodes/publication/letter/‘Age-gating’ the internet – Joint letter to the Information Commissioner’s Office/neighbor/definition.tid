@@ -1,17 +1,17 @@
-config.central-topic:ce9fb341-67be-4d0e-942d-4a4c538f5d1a
+config.central-topic:411dfc20-a8b8-473e-9240-ebd1b7ed6855
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021584
-id:c0b1bff3-5e67-4679-a2a0-6407a4871e5c
+created:1582954316284
+id:fae8f474-e7db-4e34-a262-c0c334c989aa
 isview:false
-map.base:ce9fb341-67be-4d0e-942d-4a4c538f5d1a
+map.base:411dfc20-a8b8-473e-9240-ebd1b7ed6855
 map.role:definition
 map.type:neighbor
-modified:1582720021584
+modified:1582954316284
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/‘Age-gating’ the internet – Joint letter to the Information Commissioner’s Office
-tmap.id:c0b1bff3-5e67-4679-a2a0-6407a4871e5c
+tmap.id:fae8f474-e7db-4e34-a262-c0c334c989aa
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ‘Age-gating’ the internet – Joint letter to the Information Commissioner’s Office

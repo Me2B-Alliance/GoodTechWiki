@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Fairness in Precision Medicine
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[health and data]]
+tags:[[health and data (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Fairness in Precision Medicine (project-or-product)
 tmap.edges:{}
-tmap.id:c8b6ea82-3229-4c16-8a70-bd798a9f83d1
+tmap.id:0a42fda9-88de-4e3a-95cb-4d8744dedc25
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/fairness-precision-medicine/
 version.or.edition:
 working.group:
 
 Fairness in Precision Medicine is the first report to deeply examine the potential for biased and discriminatory outcomes in the emerging field of precision medicine; “the effort to collect,...
+
+
 

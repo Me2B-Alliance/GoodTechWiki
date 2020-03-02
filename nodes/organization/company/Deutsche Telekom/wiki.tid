@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003383
+created:1582954204551
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003383
+modified:1582954204551
 org.name:Deutsche Telekom
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Deutsche Telekom
-tmap.edges:{"9bc55938-e82e-43b7-825c-a2157bedf985":{"to":"9593d62b-1c96-4236-81c8-4ad5127e0ac4","type":"sponsor"}}
-tmap.id:b620fd12-2a5a-4c48-a0d8-6ca48afdc525
+tmap.edges:{"1827b135-311c-4af7-ba6e-045edcfbe2b5":{"to":"95c882eb-b0dd-4d37-8465-20005f165b4a","type":"sponsor"}}
+tmap.id:f28533ef-6f1a-48df-9dca-17f89c3725b6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

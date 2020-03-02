@@ -1,17 +1,17 @@
-config.central-topic:3db74269-d1bd-4ae2-960c-b2ce3b98654a
+config.central-topic:78981b80-5027-4188-a352-1cb8b83a78bb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021678
-id:fa5b6bbe-175c-4091-b829-71c30626c69b
+created:1582954316360
+id:0b58e31a-31b0-406e-8fdb-0b587a221f29
 isview:false
-map.base:3db74269-d1bd-4ae2-960c-b2ce3b98654a
+map.base:78981b80-5027-4188-a352-1cb8b83a78bb
 map.role:definition
 map.type:neighbor
-modified:1582720021678
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDs -- Not That Easy:  Questions About Nationwide Identity Systems
-tmap.id:fa5b6bbe-175c-4091-b829-71c30626c69b
+tmap.id:0b58e31a-31b0-406e-8fdb-0b587a221f29
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IDs -- Not That Easy:  Questions About Nationwide Identity Systems

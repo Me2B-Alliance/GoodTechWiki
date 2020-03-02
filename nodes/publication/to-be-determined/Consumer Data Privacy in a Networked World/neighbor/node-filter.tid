@@ -1,12 +1,12 @@
-created:1582720021676
-filter:[field:tmap.id[05d5be06-c1b1-410e-b68d-03fccb0363bb]]
-map.base:05d5be06-c1b1-410e-b68d-03fccb0363bb
+created:1582954316358
+filter:[field:tmap.id[a77a9d20-3063-40f2-8694-e0cad1b8e08c]]
+map.base:a77a9d20-3063-40f2-8694-e0cad1b8e08c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021676
+modified:1582954316358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumer Data Privacy in a Networked World/filter/nodes
-tmap.id:08459c1c-9c1b-4a83-97a1-7c4f0fe7869f
+tmap.id:e1ae7be0-8df7-4f35-95eb-91a00fc9bc79
 type:text/vnd.tiddlywiki
 
 No body provided

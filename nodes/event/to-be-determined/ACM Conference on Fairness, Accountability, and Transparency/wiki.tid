@@ -1,6 +1,6 @@
 audience:
-category:TO BE DETERMINED
-created:1582720003595
+category:[[to be determined]]
+created:1582954204772
 date:
 element.type:event
 frequency:
@@ -8,7 +8,7 @@ github.profile:
 host.organization:ACM
 input.source:me2b
 location(s):
-modified:1582720003595
+modified:1582954204772
 name:ACM Conference on Fairness, Accountability, and Transparency
 partners:
 people:
@@ -17,10 +17,12 @@ tags:[[acm fat*]]
 tiddler.classification:node
 title:ACM Conference on Fairness, Accountability, and Transparency
 tmap.edges:{}
-tmap.id:abd2578b-872c-49f4-b613-2b7732e71a6c
+tmap.id:64a9e0c8-1ec5-4f75-b501-8fd8f390c29d
 type:text/vnd.tiddlywiki
 website:https://fatconference.org/
 working.group:
 
 A computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness: accountability: and transparency in socio-technical systems.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:f3dd7e95-4c83-4b01-be0e-2a29bc633ec7
+config.central-topic:f44b8cd6-1cf9-43fa-8895-81e66d8a91da
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021461
-id:e535f949-634b-4f49-9c25-b3b1df69a5da
+created:1582954316189
+id:db49c0f6-c5e2-463f-a99d-39b7cf80d8b1
 isview:false
-map.base:f3dd7e95-4c83-4b01-be0e-2a29bc633ec7
+map.base:f44b8cd6-1cf9-43fa-8895-81e66d8a91da
 map.role:definition
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Alliance for Internet of Things Innovation
-tmap.id:e535f949-634b-4f49-9c25-b3b1df69a5da
+tmap.id:db49c0f6-c5e2-463f-a99d-39b7cf80d8b1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Alliance for Internet of Things Innovation

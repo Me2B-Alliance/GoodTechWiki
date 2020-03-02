@@ -1,17 +1,17 @@
-config.central-topic:31469c05-3787-4ba9-936f-b7de7f0b723c
+config.central-topic:c29b9096-04ef-41d4-a8bd-6f75a46d8862
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021675
-id:a37f1fbf-35a0-4489-bd0c-788285126c8e
+created:1582954316357
+id:b749a2dd-d097-44cd-b5b5-6b73665c82ab
 isview:false
-map.base:31469c05-3787-4ba9-936f-b7de7f0b723c
+map.base:c29b9096-04ef-41d4-a8bd-6f75a46d8862
 map.role:definition
 map.type:neighbor
-modified:1582720021675
+modified:1582954316357
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Biometric Recognition: Challenges and Opportunities
-tmap.id:a37f1fbf-35a0-4489-bd0c-788285126c8e
+tmap.id:b749a2dd-d097-44cd-b5b5-6b73665c82ab
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Biometric Recognition: Challenges and Opportunities

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003335
+created:1582954204503
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003335
+modified:1582954204503
 org.name:Alexandra Institute
 org.type:research lab or center
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Alexandra Institute
-tmap.edges:{"f1338a9c-e982-40c0-bb17-8daacfee89c9":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"},"085c4e82-c769-4f24-8367-1adfd1dcbe0a":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:72b7cf4a-a805-4100-a16f-3fae37194356
+tmap.edges:{"3fc04c68-391d-4319-8a12-889440dcd1c4":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"},"b1674edf-c374-46c0-9dd7-ec1e397baaf8":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:d44a3ab7-ae37-481d-b568-375d7a037a8f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://alexandra.dk/uk
@@ -40,4 +40,6 @@ IT research, technology and user involvement.
 As one of Denmark’s nine GTS institutes (Advanced Technology Group)
 we offer the strongest and most versatile skills within IT consulting, development
 and application to both public and private businesses.
+
+
 

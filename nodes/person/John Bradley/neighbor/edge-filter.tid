@@ -1,12 +1,12 @@
-created:1582720021534
+created:1582954316239
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:91b408c3-8040-4013-8283-fec822eb22cb
+map.base:cf164694-4a8a-4056-8426-57e9af3c02be
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021534
+modified:1582954316239
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/John Bradley/filter/edges
-tmap.id:427d367a-472c-46df-93e5-38d47af59099
+tmap.id:1a642018-4af2-4b9b-8404-4386e1d95f39
 type:text/vnd.tiddlywiki
 
 No body provided

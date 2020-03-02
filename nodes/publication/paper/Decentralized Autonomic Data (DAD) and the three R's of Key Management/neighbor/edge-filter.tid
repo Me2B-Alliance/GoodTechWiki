@@ -1,12 +1,12 @@
-created:1582720021592
+created:1582954316289
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3e6f0a3a-4bca-4ae7-a2a3-2a7f1973d7aa
+map.base:66dfa7b7-1e3b-46bd-bd0c-af5fe8f122f0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021592
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Autonomic Data (DAD) and the three R's of Key Management/filter/edges
-tmap.id:461abba7-311a-45f4-ba65-8dd7f6b3a0f2
+tmap.id:7f215c6b-d3c5-467a-a70c-eeb922911360
 type:text/vnd.tiddlywiki
 
 No body provided

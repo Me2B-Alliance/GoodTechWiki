@@ -1,0 +1,16 @@
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582965000918
+id:c17f0709-e399-4885-ab6e-0896545b072c
+isview:false
+map.base:4bf0864b-b27a-4b07-9c6d-aa0ae3f184f3
+map.role:definition
+map.type:tagmap
+modified:1582965000918
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/breach of confidentiality
+tmap.id:c17f0709-e399-4885-ab6e-0896545b072c
+type:text/vnd.tiddlywiki
+
+Tag Map of breach of confidentiality

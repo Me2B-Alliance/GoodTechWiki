@@ -1,12 +1,12 @@
-created:1582720021577
-filter:[field:tmap.id[0f95a277-afff-4dfc-869d-f25a28a1627d]]
-map.base:0f95a277-afff-4dfc-869d-f25a28a1627d
+created:1582954316276
+filter:[field:tmap.id[6ed281d4-a427-43bb-91b3-abccae802e19]]
+map.base:6ed281d4-a427-43bb-91b3-abccae802e19
 map.role:node-filter
 map.type:neighbor
-modified:1582720021577
+modified:1582954316276
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/English French Dictionary on Data Protection/filter/nodes
-tmap.id:a3958a06-df70-4db8-b317-e218612db3e1
+tmap.id:1bdf73f8-20fb-4cd2-a385-ca150d64fd8b
 type:text/vnd.tiddlywiki
 
 No body provided

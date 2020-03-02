@@ -1,12 +1,12 @@
-created:1582720021614
+created:1582954316311
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8c6b1ddc-595f-4a41-823d-6729ffc4bde6
+map.base:62896d34-f859-4101-9816-bd1769f3189f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021614
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DISCRIMINATING SYSTEMS - Gender, Race, and Power in AI/filter/edges
-tmap.id:3f97d45c-55ef-4cdf-9551-69bd9b5f96fd
+tmap.id:e68736b2-7ca9-4a8c-a146-6595866d5b0c
 type:text/vnd.tiddlywiki
 
 No body provided

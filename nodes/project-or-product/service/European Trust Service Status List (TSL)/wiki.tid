@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003349
+category:[[service]]
+created:1582954204516
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003349
+modified:1582954204516
 name:European Trust Service Status List (TSL)
 parent.org:
 partners:
@@ -23,11 +23,13 @@ terms.of.service:
 tiddler.classification:node
 title:European Trust Service Status List (TSL)
 tmap.edges:{}
-tmap.id:1c99946f-5163-4002-88fb-55cf23b0713c
+tmap.id:862365da-3558-4506-ba88-9e691ddd8fcc
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/digital-single-market/en/eu-trusted-list-certificate-providers-further-info-and-policy
 version.or.edition:
 working.group:
 
 The EU Trusted Lists benefits above all to the verification of advanced e-signatures supported by qualified certificates in the meaning of the e-signature directive (1999/93/EC) as far as they have to include at least certification service providers issuing qualified certificates. Member States can however include in their Trusted Lists also other certification service providers.
+
+
 

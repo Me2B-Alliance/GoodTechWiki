@@ -1,12 +1,12 @@
-created:1582720021671
-filter:[field:tmap.id[a6db85a8-0cc2-4cc7-ba00-ab012c3f9f8d]]
-map.base:a6db85a8-0cc2-4cc7-ba00-ab012c3f9f8d
+created:1582954316355
+filter:[field:tmap.id[5ececdbe-8696-4ba0-8b3b-290b82e20c36]]
+map.base:5ececdbe-8696-4ba0-8b3b-290b82e20c36
 map.role:node-filter
 map.type:neighbor
-modified:1582720021671
+modified:1582954316355
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters/filter/nodes
-tmap.id:98bcd775-5a67-4ad6-9801-d9147a6f0896
+tmap.id:5c48f8c2-848c-431d-87b8-17d54b64cbff
 type:text/vnd.tiddlywiki
 
 No body provided

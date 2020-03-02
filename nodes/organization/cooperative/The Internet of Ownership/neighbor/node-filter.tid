@@ -1,12 +1,12 @@
-created:1582720021457
-filter:[field:tmap.id[3a048ed6-c576-44d7-8067-e2da57886a55]]
-map.base:3a048ed6-c576-44d7-8067-e2da57886a55
+created:1582954316187
+filter:[field:tmap.id[a6d8e735-8544-4f16-8e41-a9b314c203d3]]
+map.base:a6d8e735-8544-4f16-8e41-a9b314c203d3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021457
+modified:1582954316187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet of Ownership/filter/nodes
-tmap.id:214ab894-d9ae-4bf1-8bb3-c6fd099e3497
+tmap.id:dd8eaf27-c8b4-4d0b-a745-122e9d56fc5b
 type:text/vnd.tiddlywiki
 
 No body provided

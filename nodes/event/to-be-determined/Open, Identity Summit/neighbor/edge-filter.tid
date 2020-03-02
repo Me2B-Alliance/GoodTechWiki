@@ -1,12 +1,12 @@
-created:1582720021431
+created:1582954316170
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a83c8231-5abd-441c-b9f9-08a46c251b43
+map.base:88f9d20a-5b78-464e-9819-f59da1829aa0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open, Identity Summit/filter/edges
-tmap.id:3f96ba63-50f5-476f-bb61-44da27e4f397
+tmap.id:0622b721-15d9-456b-bf0d-e5efe41a15f8
 type:text/vnd.tiddlywiki
 
 No body provided

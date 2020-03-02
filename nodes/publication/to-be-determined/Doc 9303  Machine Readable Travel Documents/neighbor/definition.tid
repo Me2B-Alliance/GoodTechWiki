@@ -1,17 +1,17 @@
-config.central-topic:3ff70a63-515c-46f8-bcc5-ebc0cdc18405
+config.central-topic:05be8919-46fd-4afe-85e6-75c7c1cc8cf3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021676
-id:71ae0064-4ebc-4a28-acdf-2a9692a62fc8
+created:1582954316358
+id:f68e8065-56a4-4396-a6c7-0c900fb5cda6
 isview:false
-map.base:3ff70a63-515c-46f8-bcc5-ebc0cdc18405
+map.base:05be8919-46fd-4afe-85e6-75c7c1cc8cf3
 map.role:definition
 map.type:neighbor
-modified:1582720021676
+modified:1582954316358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doc 9303  Machine Readable Travel Documents
-tmap.id:71ae0064-4ebc-4a28-acdf-2a9692a62fc8
+tmap.id:f68e8065-56a4-4396-a6c7-0c900fb5cda6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Doc 9303  Machine Readable Travel Documents

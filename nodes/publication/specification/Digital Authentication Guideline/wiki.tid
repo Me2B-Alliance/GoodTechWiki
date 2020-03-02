@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003345
+created:1582954204512
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003345
+modified:1582954204512
 name:Digital Authentication Guideline
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Authentication Guideline
-tmap.edges:{"02011b45-3ef7-4aae-b69f-42594a91ed72":{"to":"a9994b9e-0264-439a-8923-bc565120dda1","type":"organization-for-group"}}
-tmap.id:db47286f-9238-4a90-98f7-1a3011ad2d31
+tmap.edges:{"ce8c7079-8a53-4a9d-85f2-2c2d050f9957":{"to":"9790fb16-a3f4-4bf5-a50f-711f68e58d51","type":"organization-for-group"}}
+tmap.id:dfaa3976-669a-492e-959a-80e74c334472
 type:text/vnd.tiddlywiki
 url:https://pages.nist.gov/800-63-3/
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

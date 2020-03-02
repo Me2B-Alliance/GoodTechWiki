@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:When GDPR becomes real, and Blockchain is no longer Fairy Dust
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:When GDPR becomes real, and Blockchain is no longer Fairy Dust
 tmap.edges:{}
-tmap.id:288e9b62-6057-4143-946f-5a9e2adcdf50
+tmap.id:d0d9db9d-6d23-4bbe-a9be-46b5ed01fcf4
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The General Data Protection Regulation (GDPR), enacted by the European Parliament in 2016, was designed to give users more control and rights over their personal data. Companies and governments will find it increasingly difficult to be GDPR compliant with current industry practices. Following the implementation date of May 25, 2018, managing data will be both toxic and expensive. Many precious resources will be required for improving and maintaining the security, privacy, and governance of personal data. Methods for storing less personal data will ease the burden of GDPR compliance. This document describes the GDPR requirements and the different approaches to digital identity solutions and finally explains why distributed ledger technology may offer an opportunity for enterprises to simplify data management solutions that are GDPR compliant.
+
+
 

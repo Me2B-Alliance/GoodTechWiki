@@ -1,12 +1,12 @@
-created:1582720021481
+created:1582954316206
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2077e7ba-15bb-4d48-9feb-35765c8038b0
+map.base:b977aa7f-dd88-411a-bc28-41763afc9be9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021481
+modified:1582954316206
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/enisa European Network and Information Security Agency/filter/edges
-tmap.id:6853f402-fc06-4480-b8b6-0546f9d13ea1
+tmap.id:121b77b8-ae87-47d7-9158-e4e058c07e52
 type:text/vnd.tiddlywiki
 
 No body provided

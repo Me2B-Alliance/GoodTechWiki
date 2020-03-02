@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[hardware product]] [[software product (service)]]
-created:1582720003597
+category:[[software product (service)]] [[hardware product]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:https://github.com/HelmSecure
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Helm Personal Server
 parent.org:Helm
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Helm Personal Server
 tmap.edges:{}
-tmap.id:f4b7958a-d797-4b2c-a57a-89bd08392e77
+tmap.id:bbbc96a7-d970-4cd9-8a37-978432ef4f81
 type:text/vnd.tiddlywiki
 url:https://www.thehelm.com/technology
 version.or.edition:
@@ -43,4 +43,6 @@ Helm is engineered to dissipate heat through its aluminum base without using a f
 Each device comes with 120 GB of durable SSD storage and a slide-in tray designed for a 2.5" hard drive, increasing storage up to 5 TB.
 
 The Helm personal server connects with your existing home network. Network configuration is not required for email services.
+
+
 

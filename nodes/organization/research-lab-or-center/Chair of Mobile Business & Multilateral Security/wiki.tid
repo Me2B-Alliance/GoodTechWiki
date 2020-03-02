@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:Chair of Mobile Business & Multilateral Security
 org.type:research lab or center
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Chair of Mobile Business & Multilateral Security
-tmap.edges:{"ac04e7de-cf2d-4dc1-a44b-c6bb08a2ac78":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"},"c0fb7061-844c-48f7-b2f1-dc6a47f8e201":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"convenor"},"8d1ce757-9a3c-446c-8b1e-7e5a9a9b1ff8":{"to":"9cf6e41d-8c11-451d-8d21-ba964c9a91e5","type":"organization-for-group"},"4b89c169-f67f-4930-ae06-22ce7211ba5a":{"to":"9cf6e41d-8c11-451d-8d21-ba964c9a91e5","type":"default"}}
-tmap.id:9593d62b-1c96-4236-81c8-4ad5127e0ac4
+tmap.edges:{"51cc6591-984a-4f71-a631-ddca55573a9d":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"},"6de5b801-dc04-4c31-b84b-e57eba31cdd0":{"to":"b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8","type":"convenor"},"1163886b-de9d-4e12-98ae-83d489417dbe":{"to":"0f7df827-8a42-4c78-9021-9ed8ff18280a","type":"organization-for-group"},"1557bbb5-ba50-46ba-acc6-79f7ce02a7b8":{"to":"0f7df827-8a42-4c78-9021-9ed8ff18280a","type":"default"}}
+tmap.id:95c882eb-b0dd-4d37-8465-20005f165b4a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.m-chair.net
@@ -36,4 +36,6 @@ website:https://www.m-chair.net
 Mobility is a key element in today’s global markets. Mobile networks and devices provide a broad variety of services and applications, that are ubiquitous, context aware and personalized. This opens new business opportunities for individuals and organisations but it also leads to new challenges regarding e.g. business models, marketing, privacy, identity management and security.
 
 The M-Chair is concerned with these fields of Mobile Business and Multilateral Security, in research, teaching and practice.
+
+
 

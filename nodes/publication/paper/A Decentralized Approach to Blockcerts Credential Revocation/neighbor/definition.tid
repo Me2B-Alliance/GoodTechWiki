@@ -1,17 +1,17 @@
-config.central-topic:80a4701c-c641-4cda-bf3b-f03d1c33d77a
+config.central-topic:d8ae90c4-0d47-497d-ad69-cc3b20baf261
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021588
-id:abcde5d3-8d4e-489d-a25b-667cb46c4694
+created:1582954316286
+id:33242cc4-2823-4996-918c-c88e329f326e
 isview:false
-map.base:80a4701c-c641-4cda-bf3b-f03d1c33d77a
+map.base:d8ae90c4-0d47-497d-ad69-cc3b20baf261
 map.role:definition
 map.type:neighbor
-modified:1582720021588
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Decentralized Approach to Blockcerts Credential Revocation
-tmap.id:abcde5d3-8d4e-489d-a25b-667cb46c4694
+tmap.id:33242cc4-2823-4996-918c-c88e329f326e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of A Decentralized Approach to Blockcerts Credential Revocation

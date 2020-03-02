@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[michael birkin]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:Tetris Printer Algorithm
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[[film festival]]
+tags:[[film festival (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Tetris Printer Algorithm
 tmap.edges:{}
-tmap.id:5a193283-8ddb-41d6-9c13-5baf92bb2939
+tmap.id:0e8a004c-9447-479a-9edb-d3f7876168bc
 type:text/vnd.tiddlywiki
 url:https://www.youtube.com/watch?v=PJkHwulsac4
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 This algorithm exploits the mechanics of the game Tetris to generate arbitrary images, based on a project to apply artificial intelligence to Tetris.
+
+
 

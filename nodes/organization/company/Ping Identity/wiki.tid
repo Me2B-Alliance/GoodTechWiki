@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003391
+created:1582954204559
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003391
+modified:1582954204559
 org.name:Ping Identity
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Ping Identity
-tmap.edges:{"9dc15e77-643d-492a-b325-aa0a5c7a4f42":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:7f99e686-0bbe-4063-ad70-c54a31c3d863
+tmap.edges:{"f1d8a222-2a8d-4ca0-8889-3ea988ce6857":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:64b4a70f-73b5-4f7b-8b86-ffd63469ce07
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.pingidentity.com/en.html
 
 We provide a unified Identity Defined Security platform that's built to the highest standards of scalability, security and performance. Able to be deployed as software, in the cloud or both, our comprehensive capabilities work together to solve the most complex challenges of modern enterprise security, from sign-on to sign-off and everything in between.
+
+
 

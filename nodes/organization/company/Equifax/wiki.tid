@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003389
+created:1582954204558
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003389
+modified:1582954204558
 org.name:Equifax
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Equifax
-tmap.edges:{"f44dacd3-2334-4fcd-adc9-6b7a5d441755":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:99203f04-14c6-4b25-860f-080aa22e05dc
+tmap.edges:{"b7b8d2bd-75eb-4c70-9925-b158737d4dc8":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:bacea8a5-264c-4a96-862b-42c4c4434b70
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

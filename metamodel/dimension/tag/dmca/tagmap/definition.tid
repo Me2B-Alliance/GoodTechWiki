@@ -1,0 +1,16 @@
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582965000938
+id:b95aafa6-8415-44ac-9fc2-e21e32445855
+isview:false
+map.base:331c2cb8-66e1-46f7-9cf5-4cd12593613b
+map.role:definition
+map.type:tagmap
+modified:1582965000938
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/dmca
+tmap.id:b95aafa6-8415-44ac-9fc2-e21e32445855
+type:text/vnd.tiddlywiki
+
+Tag Map of dmca

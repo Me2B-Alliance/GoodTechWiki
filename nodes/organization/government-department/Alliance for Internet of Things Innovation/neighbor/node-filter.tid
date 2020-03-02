@@ -1,12 +1,12 @@
-created:1582720021461
-filter:[field:tmap.id[f3dd7e95-4c83-4b01-be0e-2a29bc633ec7]]
-map.base:f3dd7e95-4c83-4b01-be0e-2a29bc633ec7
+created:1582954316189
+filter:[field:tmap.id[f44b8cd6-1cf9-43fa-8895-81e66d8a91da]]
+map.base:f44b8cd6-1cf9-43fa-8895-81e66d8a91da
 map.role:node-filter
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Alliance for Internet of Things Innovation/filter/nodes
-tmap.id:a0ac48e1-1f9f-4252-ba48-36b7720432c1
+tmap.id:22a14bcc-fc34-45ab-b588-e2186dc31745
 type:text/vnd.tiddlywiki
 
 No body provided

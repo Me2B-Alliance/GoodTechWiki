@@ -1,17 +1,17 @@
-config.central-topic:d024b042-f727-4789-b33e-1676e9bfc7ff
+config.central-topic:d5bb210d-2b22-43f1-a8d7-6ba35adc3d20
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021542
-id:84167236-6b8e-4bac-8751-d56d225dd152
+created:1582954316253
+id:bd42cf53-e716-4766-847c-4ca386f07112
 isview:false
-map.base:d024b042-f727-4789-b33e-1676e9bfc7ff
+map.base:d5bb210d-2b22-43f1-a8d7-6ba35adc3d20
 map.role:definition
 map.type:neighbor
-modified:1582720021542
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Energy
-tmap.id:84167236-6b8e-4bac-8751-d56d225dd152
+tmap.id:bd42cf53-e716-4766-847c-4ca386f07112
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CEF Energy

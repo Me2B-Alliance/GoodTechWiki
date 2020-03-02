@@ -1,17 +1,17 @@
-config.central-topic:f9df8874-a724-448a-86d0-edd439acebf3
+config.central-topic:f17978cb-c0ff-475e-9713-fd8228e0a6d7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021656
-id:6c548f6a-eaac-4676-953f-3fada85b1af3
+created:1582954316346
+id:6bf57e05-b19c-47b5-a0f9-8a36d037af48
 isview:false
-map.base:f9df8874-a724-448a-86d0-edd439acebf3
+map.base:f17978cb-c0ff-475e-9713-fd8228e0a6d7
 map.role:definition
 map.type:neighbor
-modified:1582720021656
+modified:1582954316346
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Information technology — Identification cards — On-Card matching (24787)
-tmap.id:6c548f6a-eaac-4676-953f-3fada85b1af3
+tmap.id:6bf57e05-b19c-47b5-a0f9-8a36d037af48
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Information technology — Identification cards — On-Card matching (24787)

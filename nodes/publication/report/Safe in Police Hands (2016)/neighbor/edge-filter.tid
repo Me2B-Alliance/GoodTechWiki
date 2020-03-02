@@ -1,12 +1,12 @@
-created:1582720021636
+created:1582954316328
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:805ce4e2-f3a4-4717-8d3d-c5dca346bafa
+map.base:f3e4b863-afa7-4802-a312-956019093b03
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021636
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Safe in Police Hands (2016)/filter/edges
-tmap.id:515ac145-07f9-4066-b136-958643bd293e
+tmap.id:6ffc9114-b886-4b7c-af92-be56c551ef77
 type:text/vnd.tiddlywiki
 
 No body provided

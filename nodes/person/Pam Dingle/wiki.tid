@@ -1,20 +1,22 @@
-created:1582720003361
+created:1582954204529
 element.type:person
 github.profile:
 linkedin.profile:
 location:
-modified:1582720003361
+modified:1582954204529
 name:Pam Dingle
 organization:
 tags:
 tiddler.classification:node
 title:Pam Dingle
-tmap.edges:{"5b87dafc-475f-4cc7-818d-274640ef5b3b":{"to":"7f99e686-0bbe-4063-ad70-c54a31c3d863","type":"employee"},"6506ef7c-94d1-4836-be24-ea3b137b4a00":{"to":"c473639f-c594-4197-90fc-d5064de5c24f","type":"author"},"d276489c-79bd-485e-95d3-ed38d085a0c7":{"to":"8660b405-5b95-4541-b2c5-84d194a05ad1","type":"author"}}
-tmap.id:e3c8c7c9-6598-4315-9495-7fdd59d53620
+tmap.edges:{"d7654784-0ad1-4114-a690-82ba6fe990a0":{"to":"64b4a70f-73b5-4f7b-8b86-ffd63469ce07","type":"employee"},"4ddf0fdd-7823-4f2d-a481-3506ff96dc95":{"to":"d803e7ee-193b-4190-8e39-120ae06f40a5","type":"author"},"c5eac145-26b1-4279-a099-507b73ed5a61":{"to":"f5929a57-1c1f-4e58-9a10-614fe0c0aa80","type":"author"}}
+tmap.id:f0551cdf-7f91-41f9-a875-0b09cf63881e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://eternallyoptimistic.com
 working.group:
 
 I am a Senior Technical Architect at Ping Identity.  I work in the office of the CTO and I get paid to learn and know about existing and emerging trends and technologies, to understand customer concerns, to speak and blog and to geek out on SAML, OAuth, OpenID Connect, and other cool things.  It’s the best job ever.
+
+
 

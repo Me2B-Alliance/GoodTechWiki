@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003592
+created:1582954204768
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003592
+modified:1582954204768
 org.name:Berkman Klein Center for Internet and Society at Harvard University
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Berkman Klein Center for Internet and Society at Harvard University
-tmap.edges:{"0a29c520-4962-4fea-9667-576b5addb46c":{"to":"4bfd367e-b23f-4ae6-bd1c-5789ac86c38e","type":"Organization Supports Project or Product"},"625df478-d846-4c70-b8b7-2413925e1e4e":{"to":"3fdbfebd-f4b2-4d59-b700-d05c7ac83b67","type":"Sponsors"},"98728944-55b0-4714-8e26-6b74ca1cdc14":{"to":"5f21455a-5d81-4f79-a3e7-77eb265bc9c6","type":"Sponsors"},"cacafbad-c831-42c3-bb9d-f0bcb91b2085":{"to":"c9837fd9-3264-4624-8b3d-d00359b0b080","type":"Sponsors"}}
-tmap.id:e4513e23-2e5d-4047-95e5-bba40209a204
+tmap.edges:{"d1b6bf6f-719a-46b5-8ee1-3c1677a02249":{"to":"0f6d981b-e8af-4917-8b21-fde73cc54a24","type":"Organization Supports Project or Product"},"c631a65c-9c2c-4436-8139-87b8e06fc7a7":{"to":"3dab9d7e-3891-4d3b-b49f-e2cb6cfceeb1","type":"Sponsors"},"dbb252d3-c01e-4755-930c-d334cef5dd90":{"to":"bb5b8b75-2459-4e89-831c-5b785dd5164e","type":"Sponsors"},"b95d85cf-c31b-4ff7-a843-38544a16a661":{"to":"215a4eca-b8d0-4042-8b5d-597e460d02d5","type":"Sponsors"}}
+tmap.id:603a4daa-08f1-4219-918b-dd8990cb4d18
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://cyber.harvard.edu/
@@ -37,4 +37,6 @@ website:https://cyber.harvard.edu/
 The Berkman Klein Center's mission is to explore and understand cyberspace; to study its development, dynamics, norms, and standards; and to assess the need or lack thereof for laws and sanctions.
 
 We are a research center, premised on the observation that what we seek to learn is not already recorded. Our method is to build out into cyberspace, record data as we go, self-study, and share. Our mode is entrepreneurial nonprofit.
+
+
 

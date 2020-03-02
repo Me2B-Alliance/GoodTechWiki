@@ -1,7 +1,7 @@
 activities:[[service provider]]
 annual.budget:
 audience:
-created:1582720003592
+created:1582954204768
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:[[certification candidate]]
-modified:1582720003592
+modified:1582954204768
 org.name:Commodify Inc
 org.type:company
 parent.org:
@@ -28,11 +28,13 @@ tags:
 tech.focus:Information Sharing Control: analytics
 tiddler.classification:node
 title:Commodify Inc
-tmap.edges:{"81f87e47-54a2-4831-aa1e-a12c74b1692f":{"to":"60dd81d3-4e96-4c65-8307-bb32b0fc1821","type":"Organization Supports Project or Product"}}
-tmap.id:161b6b3d-2783-4858-afae-c557b66cb9bf
+tmap.edges:{"55d2c632-8214-4120-b92f-168d11cc066d":{"to":"012f3e59-7dfe-40e6-ade6-803813031179","type":"Organization Supports Project or Product"}}
+tmap.id:848cb546-b26c-4f5c-9630-484a640184c3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://commodify.us
 
 Commodify Inc. is an internet startup which produces projects to help individuals capitalize on their online monetary potential. We are intent on imagining new markets where users have control over the transactions made with their personal data. Our highly secure server platform provided by partner R-IV ensures the safety and integrity of your data.
+
+
 

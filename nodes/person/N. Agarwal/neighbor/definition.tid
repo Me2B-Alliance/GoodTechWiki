@@ -1,17 +1,17 @@
-config.central-topic:d7db1fd1-5f32-42ab-ad9e-5afaf6a10b23
+config.central-topic:ae43d2d7-1dd8-4547-a7e3-136f2cd87877
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021534
-id:05cc0c81-c3e0-421a-aab7-053697be1f07
+created:1582954316241
+id:10399b37-f971-47c5-aa1b-e5f2ae35b97e
 isview:false
-map.base:d7db1fd1-5f32-42ab-ad9e-5afaf6a10b23
+map.base:ae43d2d7-1dd8-4547-a7e3-136f2cd87877
 map.role:definition
 map.type:neighbor
-modified:1582720021534
+modified:1582954316241
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/N. Agarwal
-tmap.id:05cc0c81-c3e0-421a-aab7-053697be1f07
+tmap.id:10399b37-f971-47c5-aa1b-e5f2ae35b97e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of N. Agarwal

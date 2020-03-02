@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[robyn caplan]] [[joan donovan]] [[lauren hanson]] [[jeanna matthews]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Algorithmic Accountability: A Primer
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[media manipulation]]
+tags:[[media manipulation (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Algorithmic Accountability: A Primer
 tmap.edges:{}
-tmap.id:56c02351-cd76-49f1-b8ba-90a64a1803a4
+tmap.id:89ca60b6-25d0-4964-bd16-bc143204d5f9
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/algorithmic-accountability-a-primer/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Algorithmic Accountability examines the process of assigning responsibility for harm when algorithmic decision-making results in discriminatory and inequitable outcomes. The primer–originally prepared for the Progressive Congressional Caucus’ Tech Algorithm...
+
+
 

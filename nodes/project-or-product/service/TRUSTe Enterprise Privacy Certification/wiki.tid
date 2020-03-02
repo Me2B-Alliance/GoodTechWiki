@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TRUSTe Enterprise Privacy Certification
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:TRUSTe Enterprise Privacy Certification
 tmap.edges:{}
-tmap.id:1eecfcf4-1c9f-472d-981c-2b76a43a82bc
+tmap.id:9796b9ea-c330-498e-ab9c-8755054e28be
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/enterprise-privacy-certification/
 version.or.edition:
 working.group:
 
 Ensure your business: products: and services demonstrate responsible data collection: processing and privacy management practices.
+
+
 

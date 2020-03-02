@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003378
+created:1582954204546
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003378
+modified:1582954204546
 org.name:SWITCH
 org.type:coalition or network
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:SWITCH
-tmap.edges:{"f8c455a5-f18f-4178-955e-e00403b09ea5":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:81189bb2-b027-4594-836c-994e9ca77d03
+tmap.edges:{"df85ed88-ddf5-4e2f-a4e9-39a52db9a5d9":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:94daa082-38b0-4c71-b2c7-64c31111d29a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

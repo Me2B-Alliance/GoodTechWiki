@@ -1,17 +1,17 @@
-config.central-topic:ea97fba2-6e40-4831-b1c0-cd0090da1248
+config.central-topic:c3a83ca4-9729-4293-9594-f1b83ceae6bb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021630
-id:901c3b34-f4c4-474c-9e76-ace1c7af6040
+created:1582954316322
+id:1343a77b-a2b8-49a5-857d-1e584cdef795
 isview:false
-map.base:ea97fba2-6e40-4831-b1c0-cd0090da1248
+map.base:c3a83ca4-9729-4293-9594-f1b83ceae6bb
 map.role:definition
 map.type:neighbor
-modified:1582720021630
+modified:1582954316322
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Keynote speech IAPP
-tmap.id:901c3b34-f4c4-474c-9e76-ace1c7af6040
+tmap.id:1343a77b-a2b8-49a5-857d-1e584cdef795
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Keynote speech IAPP

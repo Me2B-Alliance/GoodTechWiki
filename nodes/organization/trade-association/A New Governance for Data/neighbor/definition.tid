@@ -1,17 +1,17 @@
-config.central-topic:5e3a60fa-8223-4f87-936e-4f335cca49a5
+config.central-topic:c2c2b4c0-cef1-4a45-af8c-ca8fdbdeb56e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021503
-id:46a55bf7-8270-4bdf-8411-8254b238ceab
+created:1582954316220
+id:9aee9846-cda0-478b-8add-2032d1fbd881
 isview:false
-map.base:5e3a60fa-8223-4f87-936e-4f335cca49a5
+map.base:c2c2b4c0-cef1-4a45-af8c-ca8fdbdeb56e
 map.role:definition
 map.type:neighbor
-modified:1582720021503
+modified:1582954316220
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A New Governance for Data
-tmap.id:46a55bf7-8270-4bdf-8411-8254b238ceab
+tmap.id:9aee9846-cda0-478b-8add-2032d1fbd881
 type:text/vnd.tiddlywiki
 
 Neighbor Map of A New Governance for Data

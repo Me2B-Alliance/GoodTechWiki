@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003331
+category:[[specification work]]
+created:1582954204498
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003331
+modified:1582954204498
 name:IESG -  Internet Engineering Steering Group
 parent.org:IETF
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:IESG -  Internet Engineering Steering Group
-tmap.edges:{"966d5f49-49a6-46e5-a4b4-7e0430c009f3":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"connection"},"801fbc09-8383-4a58-af73-722feb69ae52":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:138f237c-1bb9-40cf-b6d6-55cb16e59465
+tmap.edges:{"97832684-252e-4e6e-a26b-08b4ae603d24":{"to":"7a003842-ab2a-422d-b974-3b3d755ccd3a","type":"connection"},"5380327e-df6a-4cc4-8457-9e087986758c":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:6d002ca3-6e57-4917-bea8-d67aa7b686c3
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

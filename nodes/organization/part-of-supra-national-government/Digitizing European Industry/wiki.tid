@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204531
 org.name:Digitizing European Industry
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digitizing European Industry
-tmap.edges:{"855342c8-5b9c-47ab-8f7b-a63a45b7e756":{"to":"16ae9929-3df4-4c40-8085-6632c9773328","type":"government-connection"},"e25dad9d-82dc-4c78-9328-4eea7d61058d":{"to":"a9449a3c-e1e7-44df-b65a-09132235c3ad","type":"author"},"bb001dbf-1e1a-4df9-bbe3-351f03b23a34":{"to":"d430eb18-4e71-45c1-a8a3-19c1f9751f28","type":"author"}}
-tmap.id:e32ea7d3-485d-4311-8a62-7d135755b7aa
+tmap.edges:{"6cf532b8-82a1-4704-ac3b-8023a086d9f4":{"to":"c931014c-2a73-4434-a91c-f44ff67fa7b0","type":"government-connection"},"859ede38-0a55-4536-87d9-c62e28c608d4":{"to":"d6743d06-be68-41a5-974d-d81081cd90d1","type":"author"},"0b019bf4-1cc3-4fdf-8ebd-40b90eed611b":{"to":"0a75f600-4133-41cf-986c-7c185e562795","type":"author"}}
+tmap.id:895d2160-32c7-447e-81da-6044beed28ba
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ec.europa.eu/digital-single-market/en/fourth-industrial-revolution
@@ -38,4 +38,6 @@ The measures to Digitise European Industry will help companies large and small, 
 Industry is one of the pillars of the European economy – the manufacturing sector in the European Union accounts for 2 million enterprises, 33 million jobs and 60% of productivity growth. We stand on the brink of a new industrial revolution, driven by new-generation information technologies such as the Internet of Things (IoT), cloud computing, big data and data analytics, robotics and 3D printing. They open new horizons for industry to become more adventurous, more efficient, to improve processes and to develop innovative products and services. Recent studies estimate that digitisation of products and services can add more than €110 billion of annual revenue in Europe in the next five years.
 
 European industry is strong in digital sectors such as electronics for automotive, security and energy markets, telecom equipment, business software, and laser and sensor technologies. Europe also hosts world-class research and technology institutes. However, high-tech sectors face severe competition from other parts of the world and many traditional sectors and small and medium enterprises (SMEs) are lagging behind. There are also large disparities in digitisation between regions.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021436
+created:1582954316174
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:768ad8f7-ab26-4e0e-b51b-94c80ffeaf19
+map.base:ac6bb310-daef-4b78-844a-aed77b01b7a3
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021436
+modified:1582954316174
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Callcredit Information Group/filter/edges
-tmap.id:dbf46c39-2111-4f68-9633-ea89b6642082
+tmap.id:379ce037-da5d-44f4-8d62-dc2f200e00dd
 type:text/vnd.tiddlywiki
 
 No body provided

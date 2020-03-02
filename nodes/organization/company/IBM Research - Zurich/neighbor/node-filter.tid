@@ -1,12 +1,12 @@
-created:1582720021440
-filter:[field:tmap.id[f12f5e5f-d9e6-4bf6-98e1-234b1df662c1]]
-map.base:f12f5e5f-d9e6-4bf6-98e1-234b1df662c1
+created:1582954316179
+filter:[field:tmap.id[f3a96721-9d91-431c-bcc2-5054cc9944b8]]
+map.base:f3a96721-9d91-431c-bcc2-5054cc9944b8
 map.role:node-filter
 map.type:neighbor
-modified:1582720021440
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IBM Research - Zurich/filter/nodes
-tmap.id:abd3cae5-f17e-42f8-a74d-5ff672b05f73
+tmap.id:743df2b2-0602-4b17-9466-899ccb8f719f
 type:text/vnd.tiddlywiki
 
 No body provided

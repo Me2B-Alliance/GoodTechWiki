@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003334
+category:[[specification work]]
+created:1582954204501
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003334
+modified:1582954204501
 name:ISO/IEC JTC1/SC17
 parent.org:ISO/IEC
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC JTC1/SC17
-tmap.edges:{"084bb585-ecc2-4220-b08e-890db82ab220":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"organization-for-group"}}
-tmap.id:58b741f7-12aa-4bb6-8db5-8d6ec33af651
+tmap.edges:{"f94dfc9b-7552-41a3-ad36-f9041054812b":{"to":"45bcab16-cdd5-48a1-aa50-3a569257c25f","type":"organization-for-group"}}
+tmap.id:217fa241-fbba-4b13-af08-0eaca260997c
 type:text/vnd.tiddlywiki
 url:http://www.sc17.com/
 
@@ -30,4 +30,6 @@ Standardization in the area of:
 a) identification and related documents,
 b) cards, and
 c) devices associated with their use in inter-industry applications and international interchange.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:7c443f52-0cbd-4643-85a0-d9b21850dd01
+config.central-topic:58d83fa8-b66b-4c27-8765-d041e741d20b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021487
-id:8582c955-d06f-404b-9c3a-dfa494559c09
+created:1582954316210
+id:f0a56567-6b13-4f61-90c5-a9d8cc5736e9
 isview:false
-map.base:7c443f52-0cbd-4643-85a0-d9b21850dd01
+map.base:58d83fa8-b66b-4c27-8765-d041e741d20b
 map.role:definition
 map.type:neighbor
-modified:1582720021487
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consumers International
-tmap.id:8582c955-d06f-404b-9c3a-dfa494559c09
+tmap.id:f0a56567-6b13-4f61-90c5-a9d8cc5736e9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Consumers International

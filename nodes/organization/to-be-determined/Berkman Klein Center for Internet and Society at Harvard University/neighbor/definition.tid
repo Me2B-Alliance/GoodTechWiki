@@ -1,17 +1,17 @@
-config.central-topic:e4513e23-2e5d-4047-95e5-bba40209a204
+config.central-topic:603a4daa-08f1-4219-918b-dd8990cb4d18
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021487
-id:e3f261d6-d14b-4917-acf6-47656200df45
+created:1582954316210
+id:4bff2dac-7693-4b6c-b563-a5dd793a59c6
 isview:false
-map.base:e4513e23-2e5d-4047-95e5-bba40209a204
+map.base:603a4daa-08f1-4219-918b-dd8990cb4d18
 map.role:definition
 map.type:neighbor
-modified:1582720021487
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Berkman Klein Center for Internet and Society at Harvard University
-tmap.id:e3f261d6-d14b-4917-acf6-47656200df45
+tmap.id:4bff2dac-7693-4b6c-b563-a5dd793a59c6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Berkman Klein Center for Internet and Society at Harvard University

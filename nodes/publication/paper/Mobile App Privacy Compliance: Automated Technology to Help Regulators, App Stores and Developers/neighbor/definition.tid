@@ -1,17 +1,17 @@
-config.central-topic:7d711ce2-87cd-4abf-8eb4-09adb0973c79
+config.central-topic:00d833f9-8d97-48ce-9b06-b6d182100de5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021598
-id:3691f4f3-102e-453b-a714-0016e701082e
+created:1582954316299
+id:315196cc-4dfd-4738-a70f-dead0fad6fbc
 isview:false
-map.base:7d711ce2-87cd-4abf-8eb4-09adb0973c79
+map.base:00d833f9-8d97-48ce-9b06-b6d182100de5
 map.role:definition
 map.type:neighbor
-modified:1582720021598
+modified:1582954316299
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mobile App Privacy Compliance: Automated Technology to Help Regulators, App Stores and Developers
-tmap.id:3691f4f3-102e-453b-a714-0016e701082e
+tmap.id:315196cc-4dfd-4738-a70f-dead0fad6fbc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mobile App Privacy Compliance: Automated Technology to Help Regulators, App Stores and Developers

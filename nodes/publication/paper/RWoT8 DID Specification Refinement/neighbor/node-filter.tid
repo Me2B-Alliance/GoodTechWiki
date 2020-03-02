@@ -1,12 +1,12 @@
-created:1582720021602
-filter:[field:tmap.id[0b35c940-4d84-42b8-9ace-3c1d86d16c98]]
-map.base:0b35c940-4d84-42b8-9ace-3c1d86d16c98
+created:1582954316302
+filter:[field:tmap.id[3022eebc-3a3f-4a97-b682-48ac4ea735e1]]
+map.base:3022eebc-3a3f-4a97-b682-48ac4ea735e1
 map.role:node-filter
 map.type:neighbor
-modified:1582720021602
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/RWoT8 DID Specification Refinement/filter/nodes
-tmap.id:dd519f13-f008-467a-9bb2-808d5687969b
+tmap.id:c8e14316-52bc-4aa9-894d-fde5cb3b9719
 type:text/vnd.tiddlywiki
 
 No body provided

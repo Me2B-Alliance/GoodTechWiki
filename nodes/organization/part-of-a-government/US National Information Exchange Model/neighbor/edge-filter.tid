@@ -1,12 +1,12 @@
-created:1582720021477
+created:1582954316204
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fd2f1de8-9929-406e-b861-109d53548cd1
+map.base:de44603e-5dcc-4ad2-b003-c6c832d61733
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021477
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US National Information Exchange Model/filter/edges
-tmap.id:703c2e6a-ae19-4aa1-9642-a75cc4be7b19
+tmap.id:ef5b3558-1cf7-4222-bd28-f9e8388517a6
 type:text/vnd.tiddlywiki
 
 No body provided

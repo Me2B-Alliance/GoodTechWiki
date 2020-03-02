@@ -1,17 +1,17 @@
-config.central-topic:088269eb-b683-4f19-89b1-d5f245b56de3
+config.central-topic:a22f77f4-c14f-488a-b727-e10061afed4b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021515
-id:88f2c838-a310-4e1b-ab27-6db3d753846e
+created:1582954316226
+id:2765e4c9-c55f-4e05-b252-cf0cc9bf6f75
 isview:false
-map.base:088269eb-b683-4f19-89b1-d5f245b56de3
+map.base:a22f77f4-c14f-488a-b727-e10061afed4b
 map.role:definition
 map.type:neighbor
-modified:1582720021515
+modified:1582954316226
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Federation for Information Processing
-tmap.id:88f2c838-a310-4e1b-ab27-6db3d753846e
+tmap.id:2765e4c9-c55f-4e05-b252-cf0cc9bf6f75
 type:text/vnd.tiddlywiki
 
 Neighbor Map of International Federation for Information Processing

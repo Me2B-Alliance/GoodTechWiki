@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003327
+category:[[specification work]]
+created:1582954204494
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003327
+modified:1582954204494
 name:Authenticity, Integrity and Trust for Products and Documents  WG4
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Authenticity, Integrity and Trust for Products and Documents  WG4
-tmap.edges:{"23f7923f-42b4-418e-8e2b-bfdd2f49fff3":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:3e1b05fc-10bd-4678-84c9-6ea5aacb92bc
+tmap.edges:{"462ceb86-a740-437d-bb2b-125f89f64a27":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:9c7fb7c8-8622-400d-ba30-b2b5f394cf90
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

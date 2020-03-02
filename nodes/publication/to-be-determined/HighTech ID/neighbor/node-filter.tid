@@ -1,12 +1,12 @@
-created:1582720021678
-filter:[field:tmap.id[a3d26539-3f04-49eb-bc4b-c79dcddaf5f2]]
-map.base:a3d26539-3f04-49eb-bc4b-c79dcddaf5f2
+created:1582954316359
+filter:[field:tmap.id[0e14364f-2720-4ccc-a9de-f90e8c84d879]]
+map.base:0e14364f-2720-4ccc-a9de-f90e8c84d879
 map.role:node-filter
 map.type:neighbor
-modified:1582720021678
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/HighTech ID/filter/nodes
-tmap.id:27a4109c-32d3-44b3-96b8-2661fdd80956
+tmap.id:95efcfa3-11d3-4fa7-8a30-4fc716661c22
 type:text/vnd.tiddlywiki
 
 No body provided

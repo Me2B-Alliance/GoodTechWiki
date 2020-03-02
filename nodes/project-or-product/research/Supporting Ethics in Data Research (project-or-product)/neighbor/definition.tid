@@ -1,17 +1,17 @@
-config.central-topic:3ccb55b7-757e-4a72-be30-6709a007b612
+config.central-topic:f2ce74de-484b-48f8-b18e-d2900a4917ad
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021552
-id:82d58dd9-6797-4ec6-a798-371687ccc18f
+created:1582954316261
+id:10414079-3c9d-4053-b1a0-3a8dc701162e
 isview:false
-map.base:3ccb55b7-757e-4a72-be30-6709a007b612
+map.base:f2ce74de-484b-48f8-b18e-d2900a4917ad
 map.role:definition
 map.type:neighbor
-modified:1582720021552
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Supporting Ethics in Data Research (project-or-product)
-tmap.id:82d58dd9-6797-4ec6-a798-371687ccc18f
+tmap.id:10414079-3c9d-4053-b1a0-3a8dc701162e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Supporting Ethics in Data Research (project-or-product)

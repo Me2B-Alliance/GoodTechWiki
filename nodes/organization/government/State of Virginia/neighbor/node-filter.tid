@@ -1,12 +1,12 @@
-created:1582720021462
-filter:[field:tmap.id[28c59803-d05b-46fd-8813-f141b96951b7]]
-map.base:28c59803-d05b-46fd-8813-f141b96951b7
+created:1582954316189
+filter:[field:tmap.id[0c70ddd0-4021-444d-88f0-b22305d8ec5e]]
+map.base:0c70ddd0-4021-444d-88f0-b22305d8ec5e
 map.role:node-filter
 map.type:neighbor
-modified:1582720021462
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/State of Virginia/filter/nodes
-tmap.id:4f69fdd2-b1e5-4992-9e93-0c3c79567a93
+tmap.id:7e0b1dda-bc8f-47d3-bc9f-720cff12b63c
 type:text/vnd.tiddlywiki
 
 No body provided

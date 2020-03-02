@@ -1,17 +1,17 @@
-config.central-topic:3570a3ae-733b-4b02-84f6-2d7d7089ff83
+config.central-topic:1665ff6b-652b-45a5-8be2-1f1a68a19f8f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021685
-id:9088a8a8-8440-4ebf-bb91-df3853e90bb0
+created:1582954316365
+id:6bd38e88-ce2f-4638-ae91-064cc3b8f6fb
 isview:false
-map.base:3570a3ae-733b-4b02-84f6-2d7d7089ff83
+map.base:1665ff6b-652b-45a5-8be2-1f1a68a19f8f
 map.role:definition
 map.type:neighbor
-modified:1582720021685
+modified:1582954316365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/e-Voting and Identity
-tmap.id:9088a8a8-8440-4ebf-bb91-df3853e90bb0
+tmap.id:6bd38e88-ce2f-4638-ae91-064cc3b8f6fb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of e-Voting and Identity

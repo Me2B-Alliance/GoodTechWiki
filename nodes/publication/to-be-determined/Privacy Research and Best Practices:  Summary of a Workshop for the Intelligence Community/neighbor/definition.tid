@@ -1,17 +1,17 @@
-config.central-topic:68b0548c-6c30-436f-a2ca-113cad9d6381
+config.central-topic:2c384b87-2e4a-4b7d-9800-792b23637cab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021680
-id:ce47c9b1-0cb1-4a73-973e-b9d239eb9824
+created:1582954316361
+id:a5aaacd7-c9b0-4a2e-b479-507bdda15097
 isview:false
-map.base:68b0548c-6c30-436f-a2ca-113cad9d6381
+map.base:2c384b87-2e4a-4b7d-9800-792b23637cab
 map.role:definition
 map.type:neighbor
-modified:1582720021680
+modified:1582954316361
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Research and Best Practices:  Summary of a Workshop for the Intelligence Community
-tmap.id:ce47c9b1-0cb1-4a73-973e-b9d239eb9824
+tmap.id:a5aaacd7-c9b0-4a2e-b479-507bdda15097
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Research and Best Practices:  Summary of a Workshop for the Intelligence Community

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003342
+created:1582954204509
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003342
+modified:1582954204509
 name:Identification cards – Contactless integrated circuit(s) cards – Proximity integrated circuit(s) cards (14443)
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Contactless integrated circuit(s) cards – Proximity integrated circuit(s) cards (14443)
-tmap.edges:{"b20ff663-5b0e-4965-becb-ff3a19614243":{"to":"962b3bfc-ae5d-4b62-a5d5-b167c6a71390","type":"specification-of-group"}}
-tmap.id:a5189b2e-94a9-49d0-ac66-d43097ef6b98
+tmap.edges:{"3e79b46a-1f3a-475f-9ecf-525b71817333":{"to":"1803e09e-eaf2-41f7-b061-1e8344361dd6","type":"specification-of-group"}}
+tmap.id:d4d59e42-d6c8-438b-8a4b-6fdf91b8a16a
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

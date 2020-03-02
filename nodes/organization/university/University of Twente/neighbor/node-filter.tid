@@ -1,12 +1,12 @@
-created:1582720021528
-filter:[field:tmap.id[cc66a39e-c553-4862-8b3f-5e70f9a465db]]
-map.base:cc66a39e-c553-4862-8b3f-5e70f9a465db
+created:1582954316235
+filter:[field:tmap.id[f5944c40-6964-4b8e-b8ac-8d26e279b4d7]]
+map.base:f5944c40-6964-4b8e-b8ac-8d26e279b4d7
 map.role:node-filter
 map.type:neighbor
-modified:1582720021528
+modified:1582954316235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Twente/filter/nodes
-tmap.id:189d2788-1ee9-41ec-af7d-b16c45f4f722
+tmap.id:ac0c743b-f343-44ac-8e7e-be5de021d0c3
 type:text/vnd.tiddlywiki
 
 No body provided

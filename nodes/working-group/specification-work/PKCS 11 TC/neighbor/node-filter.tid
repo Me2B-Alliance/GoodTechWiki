@@ -1,12 +1,12 @@
-created:1582720021702
-filter:[field:tmap.id[3e672dfd-0c9a-45ad-87b1-e2480c3af115]]
-map.base:3e672dfd-0c9a-45ad-87b1-e2480c3af115
+created:1582954316382
+filter:[field:tmap.id[e47ba1c7-2271-4f41-bc8a-3a0dc261775c]]
+map.base:e47ba1c7-2271-4f41-bc8a-3a0dc261775c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021702
+modified:1582954316382
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PKCS 11 TC/filter/nodes
-tmap.id:9a571ef3-5755-4b79-9950-79b130f426fb
+tmap.id:5d61a620-8d62-4dd5-9206-65589ec17669
 type:text/vnd.tiddlywiki
 
 No body provided

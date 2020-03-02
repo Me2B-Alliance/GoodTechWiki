@@ -1,12 +1,12 @@
-created:1582720021545
+created:1582954316256
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e076701d-3224-4784-9ad7-6ea7040a84a0
+map.base:7f360554-cf25-4cc7-9c9c-8a8f4b85a6d1
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021545
+modified:1582954316256
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FutureID/filter/edges
-tmap.id:56c4ce71-aaa8-4d94-a5f1-c74ccce2b2bb
+tmap.id:bd30ab2e-dcde-4069-9927-1fa0b6b7b81b
 type:text/vnd.tiddlywiki
 
 No body provided

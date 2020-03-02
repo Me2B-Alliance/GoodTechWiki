@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003375
+created:1582954204544
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003375
+modified:1582954204544
 org.name:TTA  Telecommunications Technology Association, Korea
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:TTA  Telecommunications Technology Association, Korea
-tmap.edges:{"77d4baa3-f840-4f32-903e-cbc35980476f":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"},"e01b9ad6-d496-44ee-bfb0-24a91206d128":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"}}
-tmap.id:b5d11e1b-a192-44ff-9c51-5619beee8ff3
+tmap.edges:{"4619e635-bf40-4c8c-bb0d-7f7a4c0f4cf7":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"},"63096cfe-0fe9-45fc-b698-08dfe40d5d05":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"}}
+tmap.id:60d7aaa4-1120-476f-a628-61a0e3d2e652
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.tta.or.kr/english/
 
 The purpose of TTA is to contribute to the advancement of technology and the promotion of information and telecommunications services and industry as well as the development of national economy, by effectively establishing and providing technical standards that reflect the latest domestic and international technological advances, needed for the planning, design and operation of global end-to-end telecommunications and related information services, in close collaboration with companies, organizations and groups concerned with information and telecommunications such as network operators, service providers, equipment manufacturers, academia, R&D institutes, etc.
+
+
 

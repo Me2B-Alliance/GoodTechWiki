@@ -1,12 +1,12 @@
-created:1582720021690
-filter:[field:tmap.id[dc59f2c1-c0f5-4d45-9ba2-a47b3a485609]]
-map.base:dc59f2c1-c0f5-4d45-9ba2-a47b3a485609
+created:1582954316373
+filter:[field:tmap.id[6437095f-3bd4-42b0-a7d6-85f68c54e5c2]]
+map.base:6437095f-3bd4-42b0-a7d6-85f68c54e5c2
 map.role:node-filter
 map.type:neighbor
-modified:1582720021690
+modified:1582954316373
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Electronic Identity Credential Trust Elevation Methods (Trust Elevation) TC/filter/nodes
-tmap.id:ca656228-43ac-46cb-8ccc-c27c4134aac5
+tmap.id:0ac57998-6a28-4a99-890b-6a92b8660cb3
 type:text/vnd.tiddlywiki
 
 No body provided

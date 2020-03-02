@@ -1,13 +1,13 @@
 audience:
 authors.editors:Hannes Tschofenig
-created:1582720003345
+created:1582954204512
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003345
+modified:1582954204512
 name:Privacy Considerations for Web Protocols
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Privacy Considerations for Web Protocols
-tmap.edges:{"7b63696a-d264-4cae-83c1-9f3d6eac1264":{"to":"fa4da004-8c2b-4dfb-abec-58ba05a02c91","type":"connection"},"25d54977-1e36-4014-8324-a2e036e27b70":{"to":"4dee3692-1e5b-4405-9621-31c79f299238","type":"specification-of-group"}}
-tmap.id:9983cc7a-0ad3-4543-97fa-6cb0a452fe58
+tmap.edges:{"4c32846b-9fa2-4733-b54c-dd37d1eb38ab":{"to":"ded3e6b2-bca4-474a-a7e9-a941598e77d7","type":"connection"},"fc111da1-1510-4020-801f-8037f54b4e30":{"to":"550e89c8-f654-4000-8fa7-f96053c65617","type":"specification-of-group"}}
+tmap.id:99f4ead3-3a58-4e0e-830b-590e1d835129
 type:text/vnd.tiddlywiki
 url:https://w3c.github.io/privacy-considerations/
 version.or.edition:
@@ -26,4 +26,6 @@ volume.frequency:
 working.group:
 
 This document offers guidance for writing privacy considerations test in W3C specifications. It aims to make designers, implementers, and those who deploy W3C specifications aware of privacy- related design choices.
+
+
 

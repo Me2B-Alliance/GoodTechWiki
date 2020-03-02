@@ -1,17 +1,17 @@
-config.central-topic:e4eb59b5-51d2-45a1-93bf-273ccdf68219
+config.central-topic:edf1eaea-6292-4aa0-97fe-28e881e3bbae
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021453
-id:48de1b60-10c0-4abc-90d0-1351b623e9d3
+created:1582954316183
+id:61d0bd4d-50d7-4e9d-9944-a381ebe676b7
 isview:false
-map.base:e4eb59b5-51d2-45a1-93bf-273ccdf68219
+map.base:edf1eaea-6292-4aa0-97fe-28e881e3bbae
 map.role:definition
 map.type:neighbor
-modified:1582720021453
+modified:1582954316183
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Synergetics
-tmap.id:48de1b60-10c0-4abc-90d0-1351b623e9d3
+tmap.id:61d0bd4d-50d7-4e9d-9944-a381ebe676b7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Synergetics

@@ -1,17 +1,17 @@
-config.central-topic:32d64c50-634e-43d9-b98d-6e9e889a9e4e
+config.central-topic:3efa7cbf-2d04-44bd-9af9-af0e266aaef7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021557
-id:68a33eb0-b75a-43e9-9398-bd5b79c586cb
+created:1582954316264
+id:821277dd-9b06-4de3-8bbe-ee8772febb56
 isview:false
-map.base:32d64c50-634e-43d9-b98d-6e9e889a9e4e
+map.base:3efa7cbf-2d04-44bd-9af9-af0e266aaef7
 map.role:definition
 map.type:neighbor
-modified:1582720021557
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (project-or-product)
-tmap.id:68a33eb0-b75a-43e9-9398-bd5b79c586cb
+tmap.id:821277dd-9b06-4de3-8bbe-ee8772febb56
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Ethics Certification Program for Autonomous and Intelligent Systems (ECPAIS) (project-or-product)

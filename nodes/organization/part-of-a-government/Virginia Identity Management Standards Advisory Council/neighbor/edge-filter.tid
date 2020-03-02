@@ -1,12 +1,12 @@
-created:1582720021477
+created:1582954316203
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d878764e-44cd-4d63-a1cb-769b5ce3ea7f
+map.base:243ecff5-4eb9-4ef2-8550-460112a9b05f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021477
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Virginia Identity Management Standards Advisory Council/filter/edges
-tmap.id:18197f68-b64c-4b22-a57e-875306b9837a
+tmap.id:361ae525-4e78-4f2c-8c91-540d7a6a5895
 type:text/vnd.tiddlywiki
 
 No body provided

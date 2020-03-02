@@ -1,17 +1,17 @@
-config.central-topic:ff7cc882-445d-41e8-92c3-8d7da982971b
+config.central-topic:3034475f-dac1-460e-88dc-fb5932a9de4e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021566
-id:ba0b0216-4904-4060-9d82-b43f8534fc16
+created:1582954316270
+id:28070c35-3c1d-4c18-8664-edbe2b2a593e
 isview:false
-map.base:ff7cc882-445d-41e8-92c3-8d7da982971b
+map.base:3034475f-dac1-460e-88dc-fb5932a9de4e
 map.role:definition
 map.type:neighbor
-modified:1582720021566
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Targeted Data Discovery™ Solution
-tmap.id:ba0b0216-4904-4060-9d82-b43f8534fc16
+tmap.id:28070c35-3c1d-4c18-8664-edbe2b2a593e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust Targeted Data Discovery™ Solution

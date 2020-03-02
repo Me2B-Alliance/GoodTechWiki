@@ -1,12 +1,12 @@
-created:1582720021698
+created:1582954316379
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0cecfc38-1ca1-4b36-a076-dce3b364d185
+map.base:d0afea23-90d9-496e-a17d-39e51fe8ad9c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021698
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial Transaction Cards WG7/filter/edges
-tmap.id:868ebc88-63ea-4297-acfe-b56018c4ebf4
+tmap.id:35b508bc-a3e8-45b8-a425-91dfc34e3684
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:6e72dc35-1f1e-4eed-a6ff-47f262cd46e9
+config.central-topic:3dbf99d4-0278-438e-a00e-26b346579483
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021431
-id:30e669a9-adc3-4a5b-8a98-67668c005c14
+created:1582954316170
+id:44318c07-fa24-4796-bbd8-dc958ccacf29
 isview:false
-map.base:6e72dc35-1f1e-4eed-a6ff-47f262cd46e9
+map.base:3dbf99d4-0278-438e-a00e-26b346579483
 map.role:definition
 map.type:neighbor
-modified:1582720021431
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NDSS Symposium Network and Distributed System Security Symposium 2017
-tmap.id:30e669a9-adc3-4a5b-8a98-67668c005c14
+tmap.id:44318c07-fa24-4796-bbd8-dc958ccacf29
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NDSS Symposium Network and Distributed System Security Symposium 2017

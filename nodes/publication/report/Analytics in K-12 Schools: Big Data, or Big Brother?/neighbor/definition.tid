@@ -1,17 +1,17 @@
-config.central-topic:e5c1398f-97e0-413a-9106-8855ae35753d
+config.central-topic:cb6a509a-2c4b-4758-a83e-034c4b4d80a6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021610
-id:0d4f326d-943c-411f-81a1-e62a1d8c003c
+created:1582954316308
+id:3ecf7108-3970-4dcb-8ad1-7a5ee1c6757d
 isview:false
-map.base:e5c1398f-97e0-413a-9106-8855ae35753d
+map.base:cb6a509a-2c4b-4758-a83e-034c4b4d80a6
 map.role:definition
 map.type:neighbor
-modified:1582720021610
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Analytics in K-12 Schools: Big Data, or Big Brother?
-tmap.id:0d4f326d-943c-411f-81a1-e62a1d8c003c
+tmap.id:3ecf7108-3970-4dcb-8ad1-7a5ee1c6757d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Analytics in K-12 Schools: Big Data, or Big Brother?

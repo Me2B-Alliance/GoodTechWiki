@@ -1,12 +1,12 @@
-created:1582720021695
+created:1582954316376
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3e1b05fc-10bd-4678-84c9-6ea5aacb92bc
+map.base:9c7fb7c8-8622-400d-ba30-b2b5f394cf90
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021695
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Authenticity, Integrity and Trust for Products and Documents  WG4/filter/edges
-tmap.id:37c484fb-1b14-4bec-8abc-b5305cf4311e
+tmap.id:3b925e28-8610-49a9-b582-5f8091480e70
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003382
+created:1582954204550
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003382
+modified:1582954204550
 name:Online Identity Tutorials
 publication.type:video
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Online Identity Tutorials
-tmap.edges:{"126043b2-5115-4a94-97b8-c4c642f27944":{"to":"1d106aae-7537-47ad-8982-2fcdecef8734","type":"specification-of-group"}}
-tmap.id:fb806c40-3042-4f3d-ac78-c2f830f9547d
+tmap.edges:{"040bd296-f349-4ceb-b4f1-dd55d88d8a25":{"to":"3671b447-ac9b-4f0f-bb05-7fe225d7e9aa","type":"specification-of-group"}}
+tmap.id:0978a428-0b28-4f96-87b5-16949fb0fe8d
 type:text/vnd.tiddlywiki
 url:http://www.internetsociety.org/manage-your-identity
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

@@ -1,12 +1,12 @@
-created:1582720021597
+created:1582954316296
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b8947e08-fc8e-4a55-a9e2-f11cb98461d9
+map.base:3e9bd6c7-0555-4428-8691-3d53f1d3b1f9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021597
+modified:1582954316296
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Information Fiduciary Consortium: A United Front/filter/edges
-tmap.id:4351e142-a134-439a-bf02-2bb09b2335e6
+tmap.id:3ec60c9b-4b4c-476d-bda8-920c2ff925e3
 type:text/vnd.tiddlywiki
 
 No body provided

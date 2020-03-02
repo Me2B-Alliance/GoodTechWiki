@@ -1,17 +1,17 @@
-config.central-topic:daee041c-8993-40a3-87b1-4c803a16a3b7
+config.central-topic:fe20635f-660f-4683-bb83-760520711af3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021604
-id:a9296a2c-0e44-440e-a002-fc8e4728f42a
+created:1582954316303
+id:e2393eae-dfdc-4958-851d-649025909992
 isview:false
-map.base:daee041c-8993-40a3-87b1-4c803a16a3b7
+map.base:fe20635f-660f-4683-bb83-760520711af3
 map.role:definition
 map.type:neighbor
-modified:1582720021604
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smarter Signatures: Experiments in Verifications
-tmap.id:a9296a2c-0e44-440e-a002-fc8e4728f42a
+tmap.id:e2393eae-dfdc-4958-851d-649025909992
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Smarter Signatures: Experiments in Verifications

@@ -1,17 +1,17 @@
-config.central-topic:177cb268-61f4-41e6-94a3-4ed50ad52d30
+config.central-topic:6ab1fcfa-2df1-4afb-a8d2-2315fe2e6258
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021433
-id:c60fc4be-4a18-46c0-9fb7-e240124394be
+created:1582954316172
+id:b1650de1-265b-45b5-8422-34178b54fc65
 isview:false
-map.base:177cb268-61f4-41e6-94a3-4ed50ad52d30
+map.base:6ab1fcfa-2df1-4afb-a8d2-2315fe2e6258
 map.role:definition
 map.type:neighbor
-modified:1582720021433
+modified:1582954316172
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Platform Cooperativism Consortium (organization)
-tmap.id:c60fc4be-4a18-46c0-9fb7-e240124394be
+tmap.id:b1650de1-265b-45b5-8422-34178b54fc65
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Platform Cooperativism Consortium (organization)

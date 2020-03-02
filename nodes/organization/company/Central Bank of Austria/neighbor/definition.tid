@@ -1,17 +1,17 @@
-config.central-topic:a49d5ffd-4d37-41b8-8cb7-2f4b17f9c542
+config.central-topic:3b89b31f-8a32-4928-82a0-0776eeae541c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021436
-id:782082e7-3f43-40ac-9067-60b07b8c7480
+created:1582954316175
+id:48c58639-085a-4b7f-8c0b-ca13d224ebbb
 isview:false
-map.base:a49d5ffd-4d37-41b8-8cb7-2f4b17f9c542
+map.base:3b89b31f-8a32-4928-82a0-0776eeae541c
 map.role:definition
 map.type:neighbor
-modified:1582720021436
+modified:1582954316175
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Central Bank of Austria
-tmap.id:782082e7-3f43-40ac-9067-60b07b8c7480
+tmap.id:48c58639-085a-4b7f-8c0b-ca13d224ebbb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Central Bank of Austria

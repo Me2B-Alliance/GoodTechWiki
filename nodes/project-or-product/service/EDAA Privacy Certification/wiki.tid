@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:EDAA Privacy Certification
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:EDAA Privacy Certification
 tmap.edges:{}
-tmap.id:238021f2-0d51-48ad-9bcc-5884af7a60d6
+tmap.id:05936c4f-4656-4ac6-b064-c8d5441a2f8a
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/edaa-certification/
 version.or.edition:
 working.group:
 
 Demonstrate privacy compliance for EDAA requirements with an independent third party review and certification from TRUSTe.
+
+
 

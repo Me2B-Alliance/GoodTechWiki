@@ -1,12 +1,12 @@
-created:1582720021461
+created:1582954316188
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8aaa9093-ce7c-4aa0-8b59-a3d8728ac543
+map.base:47a916c1-f05a-42c3-80bb-94c1e10884f6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021461
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Turkish Government/filter/edges
-tmap.id:eab7eb81-82a7-4e41-8eb2-34227c76b311
+tmap.id:ee61c8c4-1c65-4dc7-81dc-8fe9b1034a33
 type:text/vnd.tiddlywiki
 
 No body provided

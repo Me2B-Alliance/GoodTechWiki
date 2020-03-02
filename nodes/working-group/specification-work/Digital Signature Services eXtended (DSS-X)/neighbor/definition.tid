@@ -1,17 +1,17 @@
-config.central-topic:4748fc3e-17a4-4f18-a424-71bb2c26bafc
+config.central-topic:d1908e0f-0609-4098-8e6d-4ad6fa712ae0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021697
-id:c008c90d-8c46-4786-a6e8-ee17d62da04a
+created:1582954316378
+id:900857b1-9a67-4279-abdc-c4dd3c942b32
 isview:false
-map.base:4748fc3e-17a4-4f18-a424-71bb2c26bafc
+map.base:d1908e0f-0609-4098-8e6d-4ad6fa712ae0
 map.role:definition
 map.type:neighbor
-modified:1582720021697
+modified:1582954316378
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Signature Services eXtended (DSS-X)
-tmap.id:c008c90d-8c46-4786-a6e8-ee17d62da04a
+tmap.id:900857b1-9a67-4279-abdc-c4dd3c942b32
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Signature Services eXtended (DSS-X)

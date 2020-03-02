@@ -1,12 +1,12 @@
-created:1582720021543
-filter:[field:tmap.id[84583c34-67cb-4f95-af90-555256df8e6b]]
-map.base:84583c34-67cb-4f95-af90-555256df8e6b
+created:1582954316254
+filter:[field:tmap.id[9d171e5a-9fa1-4bb0-ba4a-4642eb9c380b]]
+map.base:9d171e5a-9fa1-4bb0-ba4a-4642eb9c380b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021543
+modified:1582954316254
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Commons Graph (DCG)/filter/nodes
-tmap.id:6f496e68-65ea-4852-b537-639d8757ce4d
+tmap.id:b3f44a31-1641-420f-abed-f06790a3aa80
 type:text/vnd.tiddlywiki
 
 No body provided

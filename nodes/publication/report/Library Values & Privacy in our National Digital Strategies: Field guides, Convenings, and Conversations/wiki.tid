@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[bonnie tijerina]] [[michael zimmer]]
-created:1582720003602
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204779
 name:Library Values & Privacy in our National Digital Strategies: Field guides, Convenings, and Conversations
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[libraries and privacy]]
+tags:[[libraries and privacy (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Library Values & Privacy in our National Digital Strategies: Field guides, Convenings, and Conversations
 tmap.edges:{}
-tmap.id:0f247583-343f-4580-aa2b-325f25ca6876
+tmap.id:0eb91122-76dc-44e1-a227-8be20a466a67
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/library-values-privacy-in-our-national-digital-strategies-field-guides-convenings-and-conversations/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 This report by Data & Society Researcher Bonnie Tijerina and Michael Zimmer is the culmination of gatherings that brought together different privacy practitioners to discuss digital privacy for libraries.
 
     “While the recent surge in privacy-related activities within the library community is welcome, we see a gap in the conversations we are having about privacy and our digital presence – a knowledge gap, a lack of shared vocabulary, disparate skill sets, and varied understanding. This gap prevents inclusion across the profession and lacks clarity for those responsible for building tools and licensing products.”
+
+
 

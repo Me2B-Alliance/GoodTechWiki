@@ -1,12 +1,12 @@
-created:1582720021530
-filter:[field:tmap.id[5007cf5e-2e8b-4c56-82eb-3111f8d10be3]]
-map.base:5007cf5e-2e8b-4c56-82eb-3111f8d10be3
+created:1582954316237
+filter:[field:tmap.id[f2a27a11-824b-4a64-a993-6af860782207]]
+map.base:f2a27a11-824b-4a64-a993-6af860782207
 map.role:node-filter
 map.type:neighbor
-modified:1582720021530
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bob West/filter/nodes
-tmap.id:502bac14-cb0c-4ae8-8eec-9c49ccdb0984
+tmap.id:5ae9ccd7-920f-48a1-b67a-b95392a6aac0
 type:text/vnd.tiddlywiki
 
 No body provided

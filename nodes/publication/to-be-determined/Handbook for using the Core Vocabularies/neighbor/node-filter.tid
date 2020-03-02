@@ -1,12 +1,12 @@
-created:1582720021678
-filter:[field:tmap.id[f63119bb-2659-4bac-8af7-3d7f0bd35412]]
-map.base:f63119bb-2659-4bac-8af7-3d7f0bd35412
+created:1582954316359
+filter:[field:tmap.id[e063d159-7498-4387-b405-f4708ffd8791]]
+map.base:e063d159-7498-4387-b405-f4708ffd8791
 map.role:node-filter
 map.type:neighbor
-modified:1582720021678
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Handbook for using the Core Vocabularies/filter/nodes
-tmap.id:78e1f07b-6d16-4d22-93a3-218e51c09de3
+tmap.id:3e1bfe87-068b-47cc-8445-6872203519ed
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021708
+created:1582954316387
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c6ba4938-d57e-4619-ba81-44076afcdfbb
+map.base:6827b70b-aa02-4b8a-9dd7-ca3bf20421db
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021708
+modified:1582954316387
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SIM Working Group/filter/edges
-tmap.id:a4bc4981-af25-4763-8d02-5af69034956a
+tmap.id:5df9f828-d219-4c4b-baf3-32db90b43d17
 type:text/vnd.tiddlywiki
 
 No body provided

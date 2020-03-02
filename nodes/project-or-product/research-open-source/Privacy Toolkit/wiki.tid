@@ -1,7 +1,7 @@
 activities:[[publication]] [[software development]]
 audience:
-category:[[research]] [[open source]]
-created:1582720003596
+category:[[open source]] [[research]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:https://github.com/Sage-Bionetworks/DesignSystem
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204773
 name:Privacy Toolkit
 parent.org:Sage Bionetworks
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Privacy Toolkit
 tmap.edges:{}
-tmap.id:bae008bb-0cbb-4dcc-b1c5-5bf9556b557c
+tmap.id:17a8289f-d5ed-40ca-872f-d3303b33647d
 type:text/vnd.tiddlywiki
 url:https://designmanual.sagebionetworks.org/privacy_toolkit.html
 version.or.edition:
 working.group:
 
 The Privacy Toolkit provides biomedical researchers with a catalog of design tools and patterns to use throughout the user journey of their mHealth studies and allow users to learn more about data privacy and management. The toolkit also provides accompanying use cases to help researchers decide on which patterns are most appropriate for their mHealth applications. By using privacy patterns, study participants can better understand the types of data that are being collected by the research study app and that they have the ability to change their data sharing permissions at any time. Having multiple touchpoints helps build a trusted partnership between the research team and the study participants.
+
+
 

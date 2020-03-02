@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[danah boyd]] [[emily f. keller]] [[bonnie tijerina]]
-created:1582720003602
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204779
 name:Supporting Ethical Data Research: An Exploratory Study of Emerging Issues in Big Data and Technical Research
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[supporting ethics in data research]]
+tags:[[supporting ethics in data research]] [[supporting ethics in data research (publication) (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Supporting Ethical Data Research: An Exploratory Study of Emerging Issues in Big Data and Technical Research
 tmap.edges:{}
-tmap.id:31479b9f-05ce-449c-8a3b-9ed4a43414f8
+tmap.id:32e6f8bf-cf9c-4be4-ace2-5a6048d0621c
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/supporting-ethical-data-research-an-exploratory-study-of-emerging-issues-in-big-data-and-technical-research/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 In the era of big data, how do researchers ethically collect, analyze, and store data? danah boyd, Emily F. Keller, and Bonnie Tijerina explore this question and examine issues from how to achieve informed consent from research subjects in big data research to how to store data securely in case of breaches. The primer evolves into a discussion on how libraries can collaborate with computer scientists to examine ethical big data research issues.
+
+
 

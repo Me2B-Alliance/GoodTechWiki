@@ -1,12 +1,12 @@
-created:1582720021658
-filter:[field:tmap.id[fd66ee6e-cce4-426c-a409-551a6398385f]]
-map.base:fd66ee6e-cce4-426c-a409-551a6398385f
+created:1582954316347
+filter:[field:tmap.id[88a63ada-cd43-4e64-90ea-c631546569dd]]
+map.base:88a63ada-cd43-4e64-90ea-c631546569dd
 map.role:node-filter
 map.type:neighbor
-modified:1582720021658
+modified:1582954316347
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NIST Privacy Framework/filter/nodes
-tmap.id:0f893e6d-c471-4b6b-ae5d-bad312312207
+tmap.id:59034e5f-af0d-413c-8f17-24d01f84f049
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alice marwick]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Are There Limits to Online Free Speech?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[algorithms and publics]]
+tags:[[algorithms and publics (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Are There Limits to Online Free Speech?
 tmap.edges:{}
-tmap.id:5ec144a4-de86-471c-bccc-b17e63bba24b
+tmap.id:be771877-11a2-4027-8a32-8a6401a5845b
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/are-there-limits-to-online-free-speech/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 In “Are There Limits to Online Free Speech?” D&S fellow Alice Marwick argues against simplistic binaries pitting free speech against censorship, looking at how the tech industry’s historic commitment to freedom of speech falls short in the face of organized harassment.
+
+
 

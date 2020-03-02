@@ -1,12 +1,12 @@
-created:1582720021435
+created:1582954316173
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bd52c251-03a4-4c2c-95b5-abcdf1dbe9f6
+map.base:7217e570-c57d-48ee-9341-53cd9d118bf4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021435
+modified:1582954316173
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Arhs Spikeseed/filter/edges
-tmap.id:998e9972-9872-4474-bb0e-e3a6730a98ca
+tmap.id:8a91a490-447b-4cf2-8c15-13ac2d436344
 type:text/vnd.tiddlywiki
 
 No body provided

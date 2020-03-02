@@ -1,12 +1,12 @@
-created:1582720021430
+created:1582954316170
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8a652a04-7b6e-49ca-b9b6-79a4da3bf8fa
+map.base:24af604b-0b8f-4677-b45f-318290c5acef
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021430
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Multiple Views on Blockchain: Technology, Use Cases, Economics and Policies/filter/edges
-tmap.id:78e6e7ca-1970-438f-b5e9-a9e5183f202c
+tmap.id:03f50c64-6240-4842-8be8-fda33448045c
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003345
+created:1582954204511
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003345
+modified:1582954204511
 name:Identification cards – Recording technique (7811)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Recording technique (7811)
-tmap.edges:{"7c8df5c9-8be3-43da-838b-1a586ce0c3d6":{"to":"333a2663-73ee-4d9e-af49-350a3f2d1e64","type":"specification-of-group"}}
-tmap.id:c18c92e0-9a0d-4669-b9ba-f7c833faf982
+tmap.edges:{"96964d49-870a-4918-a4d9-d49dcf2d1728":{"to":"2d1b400e-a16c-484b-9611-33303752d1cf","type":"specification-of-group"}}
+tmap.id:cab2d2f1-6530-415f-8f2d-88b9b06f1aaf
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -26,4 +26,6 @@ volume.frequency:
 working.group:
 
 This International standard is one of a series of standards describing the parameters for identification cards as defined in the definitions clause and the use of such cards for international interchange.
+
+
 

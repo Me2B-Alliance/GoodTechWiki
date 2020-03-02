@@ -1,17 +1,17 @@
-config.central-topic:7b9ee2ee-7cfc-45e8-a1a8-23f3ef1377d5
+config.central-topic:43091871-ed0c-4056-8347-41011f907578
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021683
-id:03af742b-864c-4097-b32c-b8ece0f83510
+created:1582954316364
+id:c022b854-c2f2-4706-afe0-98e1ddc51dfb
 isview:false
-map.base:7b9ee2ee-7cfc-45e8-a1a8-23f3ef1377d5
+map.base:43091871-ed0c-4056-8347-41011f907578
 map.role:definition
 map.type:neighbor
-modified:1582720021683
+modified:1582954316364
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Why Identity 3.0?
-tmap.id:03af742b-864c-4097-b32c-b8ece0f83510
+tmap.id:c022b854-c2f2-4706-afe0-98e1ddc51dfb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Why Identity 3.0?

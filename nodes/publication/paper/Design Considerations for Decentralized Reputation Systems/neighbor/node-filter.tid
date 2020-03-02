@@ -1,12 +1,12 @@
-created:1582720021593
-filter:[field:tmap.id[772151f2-0059-4b56-8c6a-f4d99cd81002]]
-map.base:772151f2-0059-4b56-8c6a-f4d99cd81002
+created:1582954316289
+filter:[field:tmap.id[69ad5116-bed7-4f47-b8a6-34502b47cdda]]
+map.base:69ad5116-bed7-4f47-b8a6-34502b47cdda
 map.role:node-filter
 map.type:neighbor
-modified:1582720021593
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Considerations for Decentralized Reputation Systems/filter/nodes
-tmap.id:30fc74d9-1879-40b3-b643-998b3d61dba3
+tmap.id:f39a73c4-5c99-4282-b899-7431a635c4b6
 type:text/vnd.tiddlywiki
 
 No body provided

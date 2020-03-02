@@ -1,17 +1,17 @@
-config.central-topic:8e14db56-61a3-40cf-91c4-f3393c112297
+config.central-topic:52db19d1-22f1-434c-a1ec-1975261298b7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021565
-id:30f0fd06-aa5d-4afb-b06a-63a86b3fa132
+created:1582954316269
+id:86618d55-4a69-455e-b0d0-cce4e3a11ef0
 isview:false
-map.base:8e14db56-61a3-40cf-91c4-f3393c112297
+map.base:52db19d1-22f1-434c-a1ec-1975261298b7
 map.role:definition
 map.type:neighbor
-modified:1582720021565
+modified:1582954316269
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Consumer & Data Subject Rights Management
-tmap.id:30f0fd06-aa5d-4afb-b06a-63a86b3fa132
+tmap.id:86618d55-4a69-455e-b0d0-cce4e3a11ef0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust Consumer & Data Subject Rights Management

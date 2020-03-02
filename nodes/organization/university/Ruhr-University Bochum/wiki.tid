@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003336
+created:1582954204503
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003336
+modified:1582954204503
 org.name:Ruhr-University Bochum
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Ruhr-University Bochum
-tmap.edges:{"febaba91-59d3-43ec-a05b-b2ed7cb0ea26":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
-tmap.id:1629b246-dc2f-47c7-8fe3-7c769b7f8076
+tmap.edges:{"c9524a4d-de6e-4918-888b-81ff95f1e888":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"}}
+tmap.id:ac8dada5-de05-43d5-99b5-fcd7e701cd47
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.ruhr-uni-bochum.de/index_en.htm
 
 Ruhr - Universität Bochum (RUB) is Germany’s sixth largest university with a strong track record in cutting - edge research. The chair for Network and Data Security (NDS), held by Prof. Dr. Jörg Schwenk, is embedded in the Horst Görtz Institute for IT -Security (HGI). The HGI consists of ten groups and is among Europe’s leading research institutions in IT security. Among the HGI’s many accomplishments are one ERC Consolidator Grant (Prof. Eike Kiltz), one ERC Starting Grant (Prof. Thorsten Holz), co-founding of the ECRYPT Network of Excellence I and II (2003- 2012) and Germany’s only DFG research training group (“Graduiertenkolleg”) in cryptography, Challenges for Cryptography in Ubiquitous Computing, headed by Christof Paar. The HGI has organized a large variety of conferences, including Eurocrypt 2009 and CHES 2003. The HGI offers one B.Sc. and three M.Sc. programs in IT security. With more than 150 incoming students annually and over 700 enrolled students, RUB has by far the largest academic programs in security in Germany. RUB strives to provide the best possible environment for research and innovation. RUB and regional partners have thus founded the Project Management Network for Innovation (PMNI) to free its researchers from the requirement of financial and administrative management and create long-standing, stable working relationships with funding authorities. With a strong network of industry partners, RUB is currently in the process of forming the Bochum Institute of Technology (boIT) to effectively address the gap between advanced research results and usable technology on the one hand , and to provide technical project management, as well as, administrative and structural support for research projects on the other hand. PMNI and boIT personnel will symbiotically interact to establish a frictionless environment, where researchers and project partners can focus on their core competencies and projects stay on track.
+
+
 

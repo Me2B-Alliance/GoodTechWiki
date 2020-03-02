@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:US Citizenship and Immigration Services
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:US Citizenship and Immigration Services
-tmap.edges:{"76fc8473-1e26-46f0-be65-578dd21e12d9":{"to":"32c68df0-ecd2-42b2-b355-f65e93e4eb40","type":"government-connection"}}
-tmap.id:fceb8eea-6f63-4635-a8ab-e298991ffe18
+tmap.edges:{"9a35dc37-4f77-40d0-bd8f-97ddb2994345":{"to":"039b839b-1f2f-4516-89b4-657b4619fe9d","type":"government-connection"}}
+tmap.id:fe823f6c-e1cd-44e1-9c53-268ead281008
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

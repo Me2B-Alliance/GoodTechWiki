@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003385
+created:1582954204552
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003385
+modified:1582954204552
 org.name:Imprimerie Nationale
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Imprimerie Nationale
-tmap.edges:{"40da16d6-8b55-4b35-b59f-8274f09272c3":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"executive-member"}}
-tmap.id:419cf204-0e71-4a92-9cbc-88f49c6cd1ef
+tmap.edges:{"20ee675c-f371-40e3-9a41-eb2a8cb69ae6":{"to":"b7f9666c-d936-4f82-9eb8-a74adb1f0493","type":"executive-member"}}
+tmap.id:d8cdebca-dd6c-4df3-9d85-0579162ea155
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.imprimerienationale.fr/en/home.html
 
 The Imprimerie Nationale Group supplies high added value services to French and international public and private operators with global management and engineering of identities and credentials, protection of sensitive data and control of flows and complex printing.
+
+
 

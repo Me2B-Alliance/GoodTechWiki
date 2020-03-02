@@ -1,17 +1,17 @@
-config.central-topic:b09556a2-6e9d-4bbd-90ef-96ada71791df
+config.central-topic:02e9ae53-13d3-4eef-a9cb-b24742de2db1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021704
-id:b3e562b3-b15c-4e6e-9fcd-31d534157f3d
+created:1582954316383
+id:a1155dc5-59ac-4a3e-8268-35a42a5a242d
 isview:false
-map.base:b09556a2-6e9d-4bbd-90ef-96ada71791df
+map.base:02e9ae53-13d3-4eef-a9cb-b24742de2db1
 map.role:definition
 map.type:neighbor
-modified:1582720021704
+modified:1582954316383
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Controls and Services WG4
-tmap.id:b3e562b3-b15c-4e6e-9fcd-31d534157f3d
+tmap.id:a1155dc5-59ac-4a3e-8268-35a42a5a242d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Security Controls and Services WG4

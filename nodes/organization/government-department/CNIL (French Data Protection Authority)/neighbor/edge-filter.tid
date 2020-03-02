@@ -1,12 +1,12 @@
-created:1582720021461
+created:1582954316189
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0ea5f5a1-a9ea-4310-ad24-c68b62462074
+map.base:1492b28c-2eb5-48cf-846d-d9f8e0123427
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CNIL (French Data Protection Authority)/filter/edges
-tmap.id:a885f7c3-0e4b-400b-a6e4-25b75a333c3c
+tmap.id:507cf1e5-c9f3-4ad8-b8bb-c24f1e5ce997
 type:text/vnd.tiddlywiki
 
 No body provided

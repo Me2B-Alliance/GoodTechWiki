@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:Public Service Development Agency
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Public Service Development Agency
-tmap.edges:{"ac29d4fb-3a0d-4eae-87a5-0f026b06fd6d":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"},"2556da71-0c96-4137-a009-db52b371aaa1":{"to":"0c4f8942-422d-486e-81c0-9d40a02a4286","type":"government-connection"}}
-tmap.id:a923b0b7-2d04-4d5c-8ba2-69c22abc358a
+tmap.edges:{"5da08f17-a073-4c67-9d46-2ce5d9f80013":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"},"c1658797-cf08-4ec3-aa39-5a367bc85831":{"to":"adb6db54-b1b7-4bb8-9420-8d8063089953","type":"government-connection"}}
+tmap.id:db5213b0-df81-467c-a1c2-3f4abebe6ec8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.sda.gov.ge/?lang=en
 
 The Public Service Development Agency (PSDA) is a Legal Entity of Public Law of the Ministry of Justice of Georgia, created in July 2012 on the basis of the Civil Registry Agency (CRA). The PSDA gained new functions including the development of public services using innovative approaches. The agency has around 1400 employees, 72 territorial offices around Georgia, 25 Community Centers offering more than 200 public services to the rural population. PSDA services are also delivered through 13 Public Service Halls (larger one-stop-shop service points in major cities) and 70 Express Community Centers (mobile service platforms), planned to cover over 1000 villages by the end of 2015. Nowadays PSDA is increasingly focusing on innovative product and service development with an eye on service quality and expediency. This capacity of PSDA is at the disposal of all public institutions in Georgia, which either have no capacity or find it less feasible to maintain an in-house research and development team. In the context of e-Governance, PSDA can be regarded as one of the core agencies to which well developed egovernance solutions are essential as they underpin the core mission of the organization - to develop improved public services for people and organizations. As part of the broader e-Governance agenda, development of trust services plays an important role. PSDA, as the sole provider of these services in Georgia is thus tasked to introduce necessary measures to ensure continuous advancements of the technology and respective legal base.
+
+
 

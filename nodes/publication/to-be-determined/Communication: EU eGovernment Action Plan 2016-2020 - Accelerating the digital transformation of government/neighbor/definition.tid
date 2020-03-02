@@ -1,17 +1,17 @@
-config.central-topic:d430eb18-4e71-45c1-a8a3-19c1f9751f28
+config.central-topic:0a75f600-4133-41cf-986c-7c185e562795
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021676
-id:015a6b72-e762-4dfb-92fd-c0d9bd972fed
+created:1582954316358
+id:e4b7a330-1b77-4f19-9d51-1fcb1905baee
 isview:false
-map.base:d430eb18-4e71-45c1-a8a3-19c1f9751f28
+map.base:0a75f600-4133-41cf-986c-7c185e562795
 map.role:definition
 map.type:neighbor
-modified:1582720021676
+modified:1582954316358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Communication: EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government
-tmap.id:015a6b72-e762-4dfb-92fd-c0d9bd972fed
+tmap.id:e4b7a330-1b77-4f19-9d51-1fcb1905baee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Communication: EU eGovernment Action Plan 2016-2020 - Accelerating the digital transformation of government

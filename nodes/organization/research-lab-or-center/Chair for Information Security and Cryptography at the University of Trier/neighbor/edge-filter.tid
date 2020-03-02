@@ -1,12 +1,12 @@
-created:1582720021481
+created:1582954316206
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d0ba9e49-3c4c-4611-b2b8-523350f0eb93
+map.base:a617de5a-92e5-445a-ae75-e76ad4f3cb7e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021481
+modified:1582954316206
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chair for Information Security and Cryptography at the University of Trier/filter/edges
-tmap.id:9295ecc2-37fc-4197-bb55-7d07b5feb174
+tmap.id:7ba8cbf6-2412-4c6a-8bcb-bccb087877d3
 type:text/vnd.tiddlywiki
 
 No body provided

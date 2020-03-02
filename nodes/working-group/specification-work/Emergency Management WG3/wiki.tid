@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003326
+category:[[specification work]]
+created:1582954204493
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003326
+modified:1582954204493
 name:Emergency Management WG3
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Emergency Management WG3
-tmap.edges:{"e8ef1f23-d46d-47e7-b3f8-587e84b62e57":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:c3f73a11-98fe-40af-95dc-cd18434cf58e
+tmap.edges:{"4f1d4f74-ce13-4e85-abb5-21250eac7c4f":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:fd628ef7-7822-477e-8e52-40820d6be9cd
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

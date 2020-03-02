@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204531
 org.name:Directorate-General for Informatics (DIGIT)
 org.type:part of supra-national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Directorate-General for Informatics (DIGIT)
-tmap.edges:{"887cf524-d44b-4834-aade-e3ed6196e45f":{"to":"b000093b-cc25-43cc-a77f-1647ed80c658","type":"author"},"fcee634a-5cd0-44f2-bbd3-5ca4d281c923":{"to":"bbb08210-2cf6-462c-8348-300ce4251867","type":"government-connection"},"928510bb-12b4-4258-8e2e-09594cbc8011":{"to":"58d1aeb3-3678-43a8-a9b8-b5dae7cf091e","type":"government-connection"}}
-tmap.id:8f161ba9-3e69-45ca-8afc-c5b6c7098919
+tmap.edges:{"75232263-358e-4338-9871-d796aa0c3265":{"to":"c9e88faa-f330-4df1-8484-1221f7f7cff6","type":"author"},"f0a3496e-78d3-47e9-9d1b-a901ebe9de2b":{"to":"d79bc5b7-5e43-4939-a89a-2aeaf6ddbadb","type":"government-connection"},"4d817245-9d55-47d4-b712-ff89c93f04fb":{"to":"361c3451-9942-4abc-8064-96cd61277d88","type":"government-connection"}}
+tmap.id:acd99b1f-425a-4dca-9477-96c204e91de3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

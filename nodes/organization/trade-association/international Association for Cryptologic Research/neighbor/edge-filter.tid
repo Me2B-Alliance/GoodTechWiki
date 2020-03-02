@@ -1,12 +1,12 @@
-created:1582720021525
+created:1582954316232
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0d7bfdee-b458-4bce-a135-48880f4d548b
+map.base:34894300-e64a-411e-851d-d13ec4525a25
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021525
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/international Association for Cryptologic Research/filter/edges
-tmap.id:4bb18fec-62c9-4c0a-8745-c06ca045802d
+tmap.id:ea603ed8-9117-4721-b85c-ca41be7c1364
 type:text/vnd.tiddlywiki
 
 No body provided

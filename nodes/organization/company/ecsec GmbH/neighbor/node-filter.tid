@@ -1,12 +1,12 @@
-created:1582720021455
-filter:[field:tmap.id[46a3ff34-4015-4ac8-b16c-5541260f3484]]
-map.base:46a3ff34-4015-4ac8-b16c-5541260f3484
+created:1582954316185
+filter:[field:tmap.id[9163a045-6b22-433c-8c72-a4e63703dfd0]]
+map.base:9163a045-6b22-433c-8c72-a4e63703dfd0
 map.role:node-filter
 map.type:neighbor
-modified:1582720021455
+modified:1582954316185
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ecsec GmbH/filter/nodes
-tmap.id:a5cdb616-8986-40d3-83bd-7e626cf1a61c
+tmap.id:c7ea3d75-2334-450e-b823-44184204cbc7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,0 +1,17 @@
+config.central-topic:b5912c1a-747f-4064-ad54-ba31003df6a4
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316266
+id:94cb5331-5069-48f2-b96e-23ddb0b5074b
+isview:false
+map.base:b5912c1a-747f-4064-ad54-ba31003df6a4
+map.role:definition
+map.type:neighbor
+modified:1582954316266
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privicons (project-or-product)
+tmap.id:94cb5331-5069-48f2-b96e-23ddb0b5074b
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Privicons (project-or-product)

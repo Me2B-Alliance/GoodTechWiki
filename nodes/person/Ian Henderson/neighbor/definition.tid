@@ -1,17 +1,17 @@
-config.central-topic:c9bce3c5-ae6c-4fe4-a47a-650ad1850ff1
+config.central-topic:fd1367da-f866-46d7-8196-ba8fd992fef3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021532
-id:4fd4db8b-2053-4745-8396-87c0bbbdf14e
+created:1582954316239
+id:10385d8a-d6ed-4b1e-86d4-bde7f56819ac
 isview:false
-map.base:c9bce3c5-ae6c-4fe4-a47a-650ad1850ff1
+map.base:fd1367da-f866-46d7-8196-ba8fd992fef3
 map.role:definition
 map.type:neighbor
-modified:1582720021532
+modified:1582954316239
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ian Henderson
-tmap.id:4fd4db8b-2053-4745-8396-87c0bbbdf14e
+tmap.id:10385d8a-d6ed-4b1e-86d4-bde7f56819ac
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Ian Henderson

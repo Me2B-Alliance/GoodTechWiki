@@ -1,12 +1,12 @@
-created:1582720021595
+created:1582954316295
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:378efde8-d867-49fc-af5d-8e56a0ec9b11
+map.base:653e954d-c2c4-4b24-81f5-0746b20b5ca7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021595
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Helping Users Understand Privacy Notices with Automated Question Answering Functionality: An Exploratory Study/filter/edges
-tmap.id:e94d9857-ee58-4834-a9d3-fc3022905bcf
+tmap.id:5287e5ec-81e5-4ea7-add3-f207c669d83f
 type:text/vnd.tiddlywiki
 
 No body provided

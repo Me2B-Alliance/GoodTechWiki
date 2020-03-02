@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204541
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204541
 org.name:EEMA
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:EEMA
-tmap.edges:{"ba45907e-7d41-4401-bc60-36f09156b4ca":{"to":"fad79e8e-3a1f-4a87-b593-046489e7828d","type":"affiliate"},"37ed7e75-0ebe-4c9c-a4cf-70009add2ed5":{"to":"2ffe8ef9-8f4c-4d65-9ae8-d5e8c11474fe","type":"convenor"},"528385ca-a5e5-4818-943c-bef6271867e3":{"to":"1ac55eb1-559b-41a0-b792-3c2141e1c0fc","type":"affiliate"},"9e109b61-24de-4ad4-b035-5dd74026e765":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"default"},"a94fad24-e165-4b9c-bba7-67b2cf7b5945":{"to":"55c14f7d-1890-4a4f-af61-f3a328ec8b4c","type":"founder"},"dc428387-cb6b-47c1-9d1c-91f455fd01bb":{"to":"ade16d2a-8e19-4de3-a290-b8510ffb3117","type":"affiliate"},"f08ddcdf-53d6-43da-90e0-3f48ba86bb95":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"},"fd7dc09c-81cf-43eb-aaff-1719a4d2fa6e":{"to":"2077e7ba-15bb-4d48-9feb-35765c8038b0","type":"affiliate"},"fe0a94d1-d614-4e14-a7db-ea3f63336a72":{"to":"21c73a83-34a9-4809-8b8e-ebd16df5387d","type":"convenor"}}
-tmap.id:8083a802-4ad4-40c9-974d-f70d5ce11834
+tmap.edges:{"540248d5-84dd-4efe-8bdd-8e7700b8663f":{"to":"04a51f7a-7e4a-4f49-952e-970d7b089cb0","type":"affiliate"},"98821342-3cf0-4069-8130-76850d0bf16e":{"to":"2b3de8b7-3f8a-4624-9278-b94c3bcbe0b4","type":"convenor"},"32ebfe4a-1325-49cc-a40a-2aa643cc8b2d":{"to":"6e30f3fe-b515-4ca9-816d-5f5084f8dc85","type":"affiliate"},"7893c3d2-7e33-4cdb-a5d8-f1b0df93a04b":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"default"},"b8dbe123-512d-4da1-bae2-bcd79dca90f1":{"to":"bd830828-0f85-438f-8c65-ce386d89c661","type":"founder"},"a78aa435-b770-4150-b3a1-7ea43f54c6a2":{"to":"5597cb83-fa04-49e6-9201-f5c36d816462","type":"affiliate"},"092f1692-c89f-4418-bfba-5363c6a38a6c":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"},"cc8391a0-abf2-48a0-938f-50325a83fe74":{"to":"b977aa7f-dd88-411a-bc28-41763afc9be9","type":"affiliate"},"89a495a1-2373-41a9-bece-1101e6ad0f80":{"to":"e6712801-8237-44b2-b4c7-3692c02d9228","type":"convenor"}}
+tmap.id:8d5ed3c3-54ad-4d5c-a3ad-51893a08b602
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.eema.org/
@@ -42,4 +42,6 @@ EEMA collaborates with EU & Global Partners, has an established and growing netw
 EEMA is an established EU Project Partner for dissemination throughout Europe
 EEMA educates and informs our network of members of latest developments, technologies and innovations in an independent environment.
 EEMA identifies expertise and knowledge very area and can be the enabler for members to meet the most appropriate person to discuss resolving issues and challenges members to the 'right' person to talk to solving similar 'problems', or simply developing business relationships.
+
+
 

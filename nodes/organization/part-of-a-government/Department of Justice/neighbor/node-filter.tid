@@ -1,12 +1,12 @@
-created:1582720021473
-filter:[field:tmap.id[f39ca009-587f-41dc-ad0e-0c25b032fc14]]
-map.base:f39ca009-587f-41dc-ad0e-0c25b032fc14
+created:1582954316197
+filter:[field:tmap.id[c1330191-fd25-4917-adc2-5a66343fc8cf]]
+map.base:c1330191-fd25-4917-adc2-5a66343fc8cf
 map.role:node-filter
 map.type:neighbor
-modified:1582720021473
+modified:1582954316197
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Department of Justice/filter/nodes
-tmap.id:078f2090-723d-4592-8e62-065bf903e27e
+tmap.id:af0b1e8e-b62d-49c0-9b40-3e0f652f6cdc
 type:text/vnd.tiddlywiki
 
 No body provided

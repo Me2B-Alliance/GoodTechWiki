@@ -1,12 +1,12 @@
-created:1582720021568
-filter:[field:tmap.id[bfba345e-3ed4-4fe8-9e3a-e4161aaacfaf]]
-map.base:bfba345e-3ed4-4fe8-9e3a-e4161aaacfaf
+created:1582954316253
+filter:[field:tmap.id[e4f2182a-62a4-4472-9146-7acb6f997bfc]]
+map.base:e4f2182a-62a4-4472-9146-7acb6f997bfc
 map.role:node-filter
 map.type:neighbor
-modified:1582720021568
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Zynga's Privacyville/filter/nodes
-tmap.id:b9f93013-7c6f-4b43-a643-8502d99ec54d
+tmap.id:69962ce2-045a-4627-9149-1bc37cec1fde
 type:text/vnd.tiddlywiki
 
 No body provided

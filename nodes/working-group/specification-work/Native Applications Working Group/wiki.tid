@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003330
+category:[[specification work]]
+created:1582954204497
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003330
+modified:1582954204497
 name:Native Applications Working Group
 parent.org:OpenID Foundation
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Native Applications Working Group
-tmap.edges:{"a66c89be-13fd-4ccc-93d1-5d44f38909d4":{"to":"b96f25c7-de4d-4f8d-a9be-296ff6067335","type":"organization-for-group"}}
-tmap.id:0d8797a6-4205-4ee6-84d5-bdb6a45e558e
+tmap.edges:{"3d9b1f62-1a86-4df5-b13c-d96198e2481b":{"to":"d68e839d-d172-4c8b-9f17-8b981df00915","type":"organization-for-group"}}
+tmap.id:db562160-6894-4845-ba40-6c6aa189b19f
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

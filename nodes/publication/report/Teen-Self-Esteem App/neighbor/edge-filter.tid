@@ -1,12 +1,12 @@
-created:1582720021640
+created:1582954316332
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:791eb038-272e-495f-bd1e-c8b2463ac496
+map.base:4abe68d1-644e-4617-ae96-6c176e9bd68e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021640
+modified:1582954316332
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Teen-Self-Esteem App/filter/edges
-tmap.id:87520f5d-9e03-4974-ba4a-918ba5fa2205
+tmap.id:422879ab-6684-4ec8-95d4-114cebb4e28d
 type:text/vnd.tiddlywiki
 
 No body provided

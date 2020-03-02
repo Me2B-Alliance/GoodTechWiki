@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003327
+category:[[specification work]]
+created:1582954204494
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003327
+modified:1582954204494
 name:eGov Working Group
 parent.org:Kantara
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:eGov Working Group
-tmap.edges:{"6851e3b0-a4af-4e2e-bd7d-dd5fe7acf73e":{"to":"6877fb5f-0bb9-4c31-a64e-b24354a27894","type":"connection"},"fdebb097-9040-41fa-9af4-b9dce9110ac3":{"to":"a6df14ff-14f9-43b5-8108-3365e23180fb","type":"organization-for-group"}}
-tmap.id:740687b4-11e2-439b-9cdc-4e3eada229b8
+tmap.edges:{"cba925fa-7c46-4681-934d-8dd16cfe31d4":{"to":"f12663c3-a45d-4f0c-b95f-a235393c1202","type":"connection"},"f19dae25-6172-4d0e-8874-3f4cf99efa98":{"to":"2648f44e-5ca9-4959-8646-8d89cb6b79a2","type":"organization-for-group"}}
+tmap.id:ea4f668f-e3c4-4d0f-a43f-b3494867f909
 type:text/vnd.tiddlywiki
 url:https://kantarainitiative.org/confluence/display/egov/home
 
@@ -28,4 +28,6 @@ The eGovernment Work Group (eGov WG) will be responsible for:
 * Acting as a forum to discuss best practices by government organizations on national, regional and municipal levels
 * Presenting "a government view" into other Kantara Initiative Work Groups so that these views may be taken into account in the development of Kantara Initiative * Policy Recommendations and Specifications for future contribution to an appropriate Standards Setting Organization
 * Promoting the development, adoption and support for eGovernment deployment profiles of open specifications
+
+
 

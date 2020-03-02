@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003334
+created:1582954204501
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003334
+modified:1582954204501
 org.name:Computer Technology Institute & Press - DIOPHANTUS
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Computer Technology Institute & Press - DIOPHANTUS
-tmap.edges:{"f0e72177-d3e0-4f36-9514-be576aa89c16":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:f0803200-7408-4549-9a3e-b91e8f0355ed
+tmap.edges:{"f17d28a9-338c-4b7f-842a-38cb7e68ed34":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:6862f2fa-8b11-46b3-bb4b-57ac143ab11d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.cti.gr/el/
+
+
 
 
 

@@ -1,12 +1,12 @@
-created:1582720021657
+created:1582954316346
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0f2ba113-679d-466b-99cd-3b987a23f289
+map.base:169e4d2c-29f3-4c56-8d25-4d7f82a08cec
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021657
+modified:1582954316346
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MODRNA Discovery/filter/edges
-tmap.id:1392ff7d-d583-41c7-9525-9a2685a9cc9b
+tmap.id:25b7d078-700c-4685-b19c-a41c164b90c5
 type:text/vnd.tiddlywiki
 
 No body provided

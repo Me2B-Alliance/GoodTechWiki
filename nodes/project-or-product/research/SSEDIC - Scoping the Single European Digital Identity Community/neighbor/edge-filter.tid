@@ -1,12 +1,12 @@
-created:1582720021551
+created:1582954316260
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b33e970d-0136-4955-b51e-489e83f7e264
+map.base:10c403d6-6a00-4438-aee2-aedb09801ffe
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021551
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSEDIC - Scoping the Single European Digital Identity Community/filter/edges
-tmap.id:c903382f-b6cc-4583-b39d-40e6217175cd
+tmap.id:607e8e4d-45dd-4266-acef-ae1ba09fc209
 type:text/vnd.tiddlywiki
 
 No body provided

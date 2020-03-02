@@ -1,12 +1,12 @@
-created:1582720021466
-filter:[field:tmap.id[58c4218d-3343-4c08-92ed-0a202665e51f]]
-map.base:58c4218d-3343-4c08-92ed-0a202665e51f
+created:1582954316193
+filter:[field:tmap.id[9daae7a4-6a54-4bab-9b1b-adef334c154b]]
+map.base:9daae7a4-6a54-4bab-9b1b-adef334c154b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021466
+modified:1582954316193
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/New America/filter/nodes
-tmap.id:0d97be81-1caf-4f5b-b3f9-d5a2cc386db0
+tmap.id:58f7b560-47cd-47d8-8cb5-ba968be4ba72
 type:text/vnd.tiddlywiki
 
 No body provided

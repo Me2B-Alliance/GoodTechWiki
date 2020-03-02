@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Mobile App Consent
 parent.org:One Trust
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Mobile App Consent
 tmap.edges:{}
-tmap.id:4dc54359-48d3-45e7-abdd-68af544ac25c
+tmap.id:5eaf7d87-36b5-49d1-a0a7-0f9eb0e1a9f4
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/mobile-app-consent/
 version.or.edition:
 working.group:
 
 Global privacy regulations like the California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR) have put a brighter spotlight on mobile app technologies and how apps collect data and share it with third-parties. Companies developing mobile solutions and delivering upon mobile-first strategies are seeking solutions to build intelligent, data-driven applications that respect user’s privacy and build brand loyalty. OneTrust’s technical privacy by design solution enables businesses to collect consent, scan for tracking technologies and unknown SDKs, and give both privacy and mobile app development teams visibility into how their app is sharing data with other third-parties.
+
+
 

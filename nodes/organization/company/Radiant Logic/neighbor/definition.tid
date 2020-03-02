@@ -1,17 +1,17 @@
-config.central-topic:8c741cd3-13b3-4029-9b24-891a9c915e05
+config.central-topic:2af7c163-2860-4f70-a8d9-72bb899bd2d2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021451
-id:55b8980c-a320-4288-b969-5f03d59558da
+created:1582954316182
+id:713b5790-e5f9-4b4a-84c1-1b8583496287
 isview:false
-map.base:8c741cd3-13b3-4029-9b24-891a9c915e05
+map.base:2af7c163-2860-4f70-a8d9-72bb899bd2d2
 map.role:definition
 map.type:neighbor
-modified:1582720021451
+modified:1582954316182
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radiant Logic
-tmap.id:55b8980c-a320-4288-b969-5f03d59558da
+tmap.id:713b5790-e5f9-4b4a-84c1-1b8583496287
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Radiant Logic

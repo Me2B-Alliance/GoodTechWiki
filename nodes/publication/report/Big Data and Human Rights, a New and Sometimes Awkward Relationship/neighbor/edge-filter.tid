@@ -1,12 +1,12 @@
-created:1582720021612
+created:1582954316313
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b3605472-1830-4006-ba94-2a1b18284acd
+map.base:b3bc35c8-1df3-41b5-8ba4-d617ac957aa8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021612
+modified:1582954316313
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Data and Human Rights, a New and Sometimes Awkward Relationship/filter/edges
-tmap.id:cd94115c-ac52-4258-8e3b-a39c83f7c9c5
+tmap.id:1daf0037-a251-45c4-acc6-c899fde1b83a
 type:text/vnd.tiddlywiki
 
 No body provided

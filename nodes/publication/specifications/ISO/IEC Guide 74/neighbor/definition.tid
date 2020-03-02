@@ -1,17 +1,17 @@
-config.central-topic:a00d18a2-abe0-44e4-972e-9f450131a4b9
+config.central-topic:8ba1e81f-8308-4d1d-a3ce-f7ac9e0d66aa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021668
-id:e024cc82-9d4d-4420-abbf-627417eeb12c
+created:1582954316352
+id:3b44c0d6-4a85-4da0-b726-c33c3efbef9a
 isview:false
-map.base:a00d18a2-abe0-44e4-972e-9f450131a4b9
+map.base:8ba1e81f-8308-4d1d-a3ce-f7ac9e0d66aa
 map.role:definition
 map.type:neighbor
-modified:1582720021668
+modified:1582954316352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 74
-tmap.id:e024cc82-9d4d-4420-abbf-627417eeb12c
+tmap.id:3b44c0d6-4a85-4da0-b726-c33c3efbef9a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO/IEC Guide 74

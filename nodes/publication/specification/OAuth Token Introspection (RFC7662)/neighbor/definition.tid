@@ -1,17 +1,17 @@
-config.central-topic:fc42127f-37b6-4ab7-b649-21ce2b8421bd
+config.central-topic:ea87ce19-b496-4535-aa82-2bf67c8bb2e0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021659
-id:e1c95bdd-a67a-418e-b197-2d9ca0d7f879
+created:1582954316347
+id:054e52c9-3ba0-4b74-a6ea-72303f675cc6
 isview:false
-map.base:fc42127f-37b6-4ab7-b649-21ce2b8421bd
+map.base:ea87ce19-b496-4535-aa82-2bf67c8bb2e0
 map.role:definition
 map.type:neighbor
-modified:1582720021659
+modified:1582954316347
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Token Introspection (RFC7662)
-tmap.id:e1c95bdd-a67a-418e-b197-2d9ca0d7f879
+tmap.id:054e52c9-3ba0-4b74-a6ea-72303f675cc6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OAuth Token Introspection (RFC7662)

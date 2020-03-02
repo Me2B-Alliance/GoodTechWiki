@@ -1,12 +1,12 @@
-created:1582720021558
+created:1582954316264
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3ee54699-b8a2-4401-92cd-e6562bb24407
+map.base:593add9c-1501-4cb4-a3ec-a71614c9f157
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021558
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe Privacy Certification Services/filter/edges
-tmap.id:b82cba08-720d-4140-8470-fc7fef316eb5
+tmap.id:ca7f6668-1bd7-4261-9d58-9eabfa6fb47b
 type:text/vnd.tiddlywiki
 
 No body provided

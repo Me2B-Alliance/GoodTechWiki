@@ -1,17 +1,17 @@
-config.central-topic:1ca70500-d089-4280-86b0-f03872246894
+config.central-topic:832604c4-3367-441c-b20e-2dfe2c76f4b9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021627
-id:a7290156-f399-4e4a-a88d-52e5360b37cf
+created:1582954316320
+id:298c7315-b7bc-4651-a12e-2fd7b53b87b8
 isview:false
-map.base:1ca70500-d089-4280-86b0-f03872246894
+map.base:832604c4-3367-441c-b20e-2dfe2c76f4b9
 map.role:definition
 map.type:neighbor
-modified:1582720021627
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human rights data used the wrong way can be misleading
-tmap.id:a7290156-f399-4e4a-a88d-52e5360b37cf
+tmap.id:298c7315-b7bc-4651-a12e-2fd7b53b87b8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Human rights data used the wrong way can be misleading

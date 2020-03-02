@@ -1,12 +1,12 @@
-created:1582720021606
+created:1582954316304
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4d965cdd-e23a-4195-a572-fcb7cfaf41aa
+map.base:0a3a9d6a-b716-4118-9560-253df489b0aa
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021606
+modified:1582954316304
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What's It To You? A Survey of Online Privacy Concerns and Risks/filter/edges
-tmap.id:a9128651-91a3-4bce-bb2d-20bacffc7836
+tmap.id:7f4387ad-f635-4e26-a589-71116da9f337
 type:text/vnd.tiddlywiki
 
 No body provided

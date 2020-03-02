@@ -1,17 +1,17 @@
-config.central-topic:afdf5a49-d119-40c3-8f63-e53448fde42d
+config.central-topic:bb05a16c-981b-48f3-b2e4-83ef43c455d6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021639
-id:9d1a75d6-7892-4b84-b800-562f5f50cc15
+created:1582954316330
+id:91d6ff48-024f-4392-99cf-975990999e8d
 isview:false
-map.base:afdf5a49-d119-40c3-8f63-e53448fde42d
+map.base:bb05a16c-981b-48f3-b2e4-83ef43c455d6
 map.role:definition
 map.type:neighbor
-modified:1582720021639
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Student Data Privacy: An Overview
-tmap.id:9d1a75d6-7892-4b84-b800-562f5f50cc15
+tmap.id:91d6ff48-024f-4392-99cf-975990999e8d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Student Data Privacy: An Overview

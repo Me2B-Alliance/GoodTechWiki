@@ -1,12 +1,12 @@
-created:1582720021530
+created:1582954316237
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e73be2e7-dae2-42c4-aa3f-1462f0401bce
+map.base:acf01caf-a6d4-4d8f-a946-a217b40c15ee
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021530
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Anoop Saxena/filter/edges
-tmap.id:3876bbb0-1a59-4d33-9edb-7bf6e91b69ee
+tmap.id:2a3655d1-1c75-42cf-a939-32200cd303cb
 type:text/vnd.tiddlywiki
 
 No body provided

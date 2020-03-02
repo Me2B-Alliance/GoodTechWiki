@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204514
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204514
 name:eDelivery
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:eDelivery
-tmap.edges:{"a3005fe6-fb83-42c6-8844-41f4e467438f":{"to":"52c9968c-98fa-4a5b-bea9-52c86442167d","type":"author"}}
-tmap.id:f25fcbbf-5f97-4dcb-9e53-56eef899707b
+tmap.edges:{"38799384-a48b-4b59-aff6-b24501967149":{"to":"821d327d-d52f-49aa-bbf4-65ae52a760ad","type":"author"}}
+tmap.id:b9c69529-8038-48a3-8744-8fd12a6a8bf5
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/edelivery
 version.or.edition:
 working.group:
 
 CEF eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. Through the use of this building block, every participant becomes a node in the network using standard transport protocols and security policies.
+
+
 

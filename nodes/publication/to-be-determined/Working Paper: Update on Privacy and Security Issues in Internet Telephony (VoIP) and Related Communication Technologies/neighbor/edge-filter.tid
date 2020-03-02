@@ -1,12 +1,12 @@
-created:1582720021685
+created:1582954316365
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:913b6ca2-1c4d-427a-9386-d09c6ca8eb94
+map.base:f828b987-cbf0-4d9a-ac9f-1473d05b9ac3
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021685
+modified:1582954316365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper: Update on Privacy and Security Issues in Internet Telephony (VoIP) and Related Communication Technologies/filter/edges
-tmap.id:3792dbc4-e210-4748-b94a-27e94daf4b60
+tmap.id:95075c9b-01ef-4f55-aed3-534fd590c3bc
 type:text/vnd.tiddlywiki
 
 No body provided

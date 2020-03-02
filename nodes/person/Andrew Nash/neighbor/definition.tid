@@ -1,17 +1,17 @@
-config.central-topic:6eeb42af-bdcc-418b-9a1b-1201c9c0a065
+config.central-topic:f7e447cb-01e3-4333-9396-44991131c2ab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021529
-id:5a7fca45-a6fc-40bf-ae4f-77c7e30283d0
+created:1582954316236
+id:bba5a6f1-d6c8-4de0-8550-5dcd8c64d77e
 isview:false
-map.base:6eeb42af-bdcc-418b-9a1b-1201c9c0a065
+map.base:f7e447cb-01e3-4333-9396-44991131c2ab
 map.role:definition
 map.type:neighbor
-modified:1582720021529
+modified:1582954316236
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Andrew Nash
-tmap.id:5a7fca45-a6fc-40bf-ae4f-77c7e30283d0
+tmap.id:bba5a6f1-d6c8-4de0-8550-5dcd8c64d77e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Andrew Nash

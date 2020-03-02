@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003363
+created:1582954204530
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003363
+modified:1582954204530
 org.name:European Data Protection Supervisor (Contrôleur européen de la protection des données)
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:European Data Protection Supervisor (Contrôleur européen de la protection des données)
-tmap.edges:{"f7fa498e-422a-4440-bb0f-d99a554034a0":{"to":"c44c9e2a-0a3d-4bec-af4e-14fcb28dce8f","type":"default"},"76365e75-1ac1-4162-8592-f4ecddad4397":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"},"3004c40c-73ad-443f-b57e-584a289ac058":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"sponsor"},"e011408f-c40e-4338-b6aa-117a67a4bc8b":{"to":"311dfdcd-72bd-4e76-8579-c6e8e6c03231","type":"government-connection"}}
-tmap.id:311a402b-80b6-48fe-bf6c-9e5ba45188c5
+tmap.edges:{"2347d4a2-dd79-4bd7-85b8-5604c9677cdd":{"to":"899c1e96-74cc-4496-8761-0caec12dfbd6","type":"default"},"4027eda1-e7c5-4f5d-9f0e-6dd2d2c36b7b":{"to":"4d0d3601-80e2-4f21-b9f6-a7997aaa067c","type":"general-member"},"ccb45608-206b-4679-b4aa-78736e4812cf":{"to":"b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8","type":"sponsor"},"22f78c75-fb0d-4e61-b303-acd96e92ab33":{"to":"62f2039d-e667-4e1b-8e28-e46d4f742801","type":"government-connection"}}
+tmap.id:8e3be1ed-3b2f-4a66-ba62-6633a3785048
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://secure.edps.europa.eu/edpsweb/edps/edps
@@ -45,4 +45,6 @@ The central forum for cooperation in the EU is the Article 29 Working Party . Th
 The EDPS also participates in the work to ensure good data protection in the EU's third pillar, which covers police and judicial cooperation (formerly "EU's third pillar"). This includes attending a number of meetings of the Joint Supervisory Bodies with deal with information systems in the area of police and justice. He is also a member of the Working Party on Police and Justice set up by the European Conference to provide advice in the area of law enforcement.
 
 One of the most important cooperative tasks relates to the large scale IT system Eurodac , where the responsibilities for data protection supervision are shared. The system consists of national units (subject to national law), and a central unit (subject to the EU Data Protection Regulation). It therefore requires a coordinated approach that is developed through biannual coordination meetings organised by the EDPS.
+
+
 

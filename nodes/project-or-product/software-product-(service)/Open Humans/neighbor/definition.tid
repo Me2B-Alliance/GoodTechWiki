@@ -1,17 +1,17 @@
-config.central-topic:0657776d-86f2-4639-8651-aaf9b0423770
+config.central-topic:d218a599-3ccb-4872-9fa7-f72f699d85c5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021565
-id:dcb8ef9f-4f9a-4ec9-9fec-c237d41a5072
+created:1582954316270
+id:7c4e3a59-eb2e-45dc-911f-3fc919186cd4
 isview:false
-map.base:0657776d-86f2-4639-8651-aaf9b0423770
+map.base:d218a599-3ccb-4872-9fa7-f72f699d85c5
 map.role:definition
 map.type:neighbor
-modified:1582720021565
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Humans
-tmap.id:dcb8ef9f-4f9a-4ec9-9fec-c237d41a5072
+tmap.id:7c4e3a59-eb2e-45dc-911f-3fc919186cd4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Humans

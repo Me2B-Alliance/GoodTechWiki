@@ -1,17 +1,17 @@
-config.central-topic:d0d49c72-10a9-42a2-a3b4-e842af58b0f3
+config.central-topic:99ec17eb-ee54-4ed7-adb2-ff6c2a543ee1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021611
-id:125920d0-ca83-47f8-bf95-d039273512fd
+created:1582954316308
+id:46fd83e2-3625-46e7-9827-97db8a6344a9
 isview:false
-map.base:d0d49c72-10a9-42a2-a3b4-e842af58b0f3
+map.base:99ec17eb-ee54-4ed7-adb2-ff6c2a543ee1
 map.role:definition
 map.type:neighbor
-modified:1582720021611
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bring on the Bots
-tmap.id:125920d0-ca83-47f8-bf95-d039273512fd
+tmap.id:46fd83e2-3625-46e7-9827-97db8a6344a9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Bring on the Bots

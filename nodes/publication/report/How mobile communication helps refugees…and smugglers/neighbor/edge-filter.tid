@@ -1,12 +1,12 @@
-created:1582720021627
+created:1582954316319
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d5149eb5-54e6-429a-8f11-bfd3e0f2afdd
+map.base:58dd8f02-960e-4b3f-951c-5594e7521893
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021627
+modified:1582954316319
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/How mobile communication helps refugees…and smugglers/filter/edges
-tmap.id:140862c9-f5d8-4088-babb-ab4448ba3cdd
+tmap.id:5bd3244e-4af1-42e5-81f4-10d198ea9d54
 type:text/vnd.tiddlywiki
 
 No body provided

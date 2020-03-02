@@ -1,12 +1,12 @@
-created:1582720021616
-filter:[field:tmap.id[4c8f9b05-a135-4f75-b9ef-76c25e196a08]]
-map.base:4c8f9b05-a135-4f75-b9ef-76c25e196a08
+created:1582954316312
+filter:[field:tmap.id[8dbdf17a-e2d3-41e1-8da8-b8f27d6efbd3]]
+map.base:8dbdf17a-e2d3-41e1-8da8-b8f27d6efbd3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021616
+modified:1582954316312
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dead Reckoning/filter/nodes
-tmap.id:969cbd1e-b82a-4d1f-a608-e9dd51c3651e
+tmap.id:e41b766e-6cfb-491a-931d-371a20a269cc
 type:text/vnd.tiddlywiki
 
 No body provided

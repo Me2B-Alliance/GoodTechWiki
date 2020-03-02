@@ -1,17 +1,17 @@
-config.central-topic:404a066c-2e70-48f2-a7e0-d8d17cd0565b
+config.central-topic:07831d4b-2e8f-4bd5-a6aa-89ecfaf5778c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021552
-id:bcdf6619-26b5-4d0e-aa1f-9f2184a2aa86
+created:1582954316260
+id:d13a755f-891b-4e0a-8439-622cf29ed0b5
 isview:false
-map.base:404a066c-2e70-48f2-a7e0-d8d17cd0565b
+map.base:07831d4b-2e8f-4bd5-a6aa-89ecfaf5778c
 map.role:definition
 map.type:neighbor
-modified:1582720021552
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/T2TRG Thing-to-Thing Research Group
-tmap.id:bcdf6619-26b5-4d0e-aa1f-9f2184a2aa86
+tmap.id:d13a755f-891b-4e0a-8439-622cf29ed0b5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of T2TRG Thing-to-Thing Research Group

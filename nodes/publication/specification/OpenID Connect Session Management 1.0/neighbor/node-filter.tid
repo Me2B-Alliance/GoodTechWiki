@@ -1,12 +1,12 @@
-created:1582720021661
-filter:[field:tmap.id[559fcbf0-f103-4527-ba0e-33a7d6469464]]
-map.base:559fcbf0-f103-4527-ba0e-33a7d6469464
+created:1582954316348
+filter:[field:tmap.id[1602a60f-d7e3-4941-994f-3a1d7c34193a]]
+map.base:1602a60f-d7e3-4941-994f-3a1d7c34193a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021661
+modified:1582954316348
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Session Management 1.0/filter/nodes
-tmap.id:74e85226-8dd4-4566-8657-4223c3df729f
+tmap.id:589d3c69-de46-47c6-86e2-97f988e5e2e7
 type:text/vnd.tiddlywiki
 
 No body provided

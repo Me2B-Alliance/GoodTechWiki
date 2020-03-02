@@ -1,12 +1,12 @@
-created:1582720021464
+created:1582954316191
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:71bc8bd1-6455-4b56-87d1-83d973a3c673
+map.base:fa50e9ec-3dfe-4d2c-9df2-50d8464be03f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021464
+modified:1582954316191
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data for Black Lives/filter/edges
-tmap.id:21067311-0592-4bf5-9e00-3adc04a5132d
+tmap.id:fa29a0f3-d72b-443e-8949-91bf7010c6f6
 type:text/vnd.tiddlywiki
 
 No body provided

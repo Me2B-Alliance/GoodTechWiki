@@ -1,12 +1,12 @@
-created:1582720021691
+created:1582954316373
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bf633d4b-c648-4714-a327-72abf7315648
+map.base:5d0cae44-8fb4-4f63-81f9-4167fa2e1cf9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021691
+modified:1582954316373
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Payment Activity/filter/edges
-tmap.id:3051f9d1-acc3-43d6-af31-883a8b114d97
+tmap.id:bff57693-65ca-45c1-b0dd-d7820002ba72
 type:text/vnd.tiddlywiki
 
 No body provided

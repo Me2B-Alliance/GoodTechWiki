@@ -1,11 +1,16 @@
-created:1582720021454
-map.base:c23feb35-18d6-4d76-8df2-8c5befcd7fcf
-map.role:layout
-map.type:neighbor
-modified:1582720021454
-tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/TermSafe/map
-tmap.id:c8b0809a-bb1f-402c-8b7e-dbac72fb21fc
-type:text/vnd.tiddlywiki
+created: 15891213161803000
+map.base: 97276c0d-e90c-4bac-a139-dbe95a7e10e0
+map.role: layout
+map.type: neighbor
+modified: 20200229071317616
+tiddler.classification: map
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/TermSafe/map
+tmap.id: 6cffe40c-5758-45fa-bad6-3a7297f0cf99
+type: text/vnd.tiddlywiki
 
-{}
+{
+ "97276c0d-e90c-4bac-a139-dbe95a7e10e0": {
+  "x": -12,
+  "y": 1
+ }
+}

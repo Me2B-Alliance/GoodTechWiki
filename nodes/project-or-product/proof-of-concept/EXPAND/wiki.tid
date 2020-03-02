@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003359
+category:[[proof of concept]]
+created:1582954204526
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003359
+modified:1582954204526
 name:EXPAND
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe|health|over]]
 terms.of.service:
 tiddler.classification:node
 title:EXPAND
-tmap.edges:{"34e463e6-dbe6-4308-b7c0-942629d0d581":{"to":"864b5453-5a78-42c9-b97b-27d266dc1b29","type":"connection"}}
-tmap.id:71b1886a-8e5f-4299-a02b-5eff28488e04
+tmap.edges:{"c2f3140a-8f91-4bdd-9f48-b750f36272cc":{"to":"33d525d2-1278-4a44-862d-53a27a4b5853","type":"connection"}}
+tmap.id:ead9ac75-aa38-4c73-b5c9-f72f7ad8e6d7
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -35,4 +35,6 @@ EXPAND is supporting both the eHealth Network subgroups consolidating needed inf
 
 Co-funded by the European Commission Competitiveness and Innovation Programme (CIP) within the ICT Policy Support Programme, EXPAND started its activities in January 2014 and foresees its closure at the end of 2015.
 Currently, 16 EU member states, plus Switzerland, are represented in the Thematic Network and 24 beneficiaries are actively collaborating to achieve EXPAND key results.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:31cdd443-2995-45fb-9352-d3145da6381a
+config.central-topic:d2ed428c-74af-4e34-9c46-2305f2d5120f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021490
-id:5e1d1566-7d4a-4333-b97d-62be166d5291
+created:1582954316213
+id:f43f00a3-20b5-40f7-95f3-dc6ca65f0d5a
 isview:false
-map.base:31cdd443-2995-45fb-9352-d3145da6381a
+map.base:d2ed428c-74af-4e34-9c46-2305f2d5120f
 map.role:definition
 map.type:neighbor
-modified:1582720021490
+modified:1582954316213
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EthicalOS (organization)
-tmap.id:5e1d1566-7d4a-4333-b97d-62be166d5291
+tmap.id:f43f00a3-20b5-40f7-95f3-dc6ca65f0d5a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EthicalOS (organization)

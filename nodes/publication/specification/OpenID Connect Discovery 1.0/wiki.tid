@@ -1,13 +1,13 @@
 audience:
 authors.editors:Edmund Jay;John Bradley;Mike Jones;Nat Sakimura
-created:1582720003338
+created:1582954204506
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003338
+modified:1582954204506
 name:OpenID Connect Discovery 1.0
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OpenID Connect Discovery 1.0
-tmap.edges:{"b92e0477-e54f-45e3-b943-cc93120eff62":{"to":"82639463-00a0-47d3-b613-2b61004ef3c7","type":"specification-of-group"}}
-tmap.id:03017a0c-fb01-4c20-b761-85acfa985767
+tmap.edges:{"7f4093b6-a310-44e6-9c34-f7e731e77f37":{"to":"4329ac9d-6fa7-4df2-bab2-c1a9f6ef6f45","type":"specification-of-group"}}
+tmap.id:986b1d4c-4553-4705-b971-2637b52136d6
 type:text/vnd.tiddlywiki
 url:http://openid.net/specs/openid-connect-discovery-1_0.html
 version.or.edition:
@@ -28,4 +28,6 @@ working.group:
 OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
 
 This specification defines a mechanism for an OpenID Connect Relying Party to discover the End-User's OpenID Provider and obtain information needed to interact with it, including its OAuth 2.0 endpoint locations.
+
+
 

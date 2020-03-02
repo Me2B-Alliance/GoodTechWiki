@@ -1,17 +1,17 @@
-config.central-topic:0f0d02e2-4452-4fb5-9727-b20a23d4e3ad
+config.central-topic:864b887f-3f2e-4e4c-b8c1-96cb297cfc40
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021589
-id:2c0aa319-ee57-44f7-8cc7-4da76a8d31fd
+created:1582954316287
+id:053fe147-6c3b-4bf2-8de6-4e34eb284ed0
 isview:false
-map.base:0f0d02e2-4452-4fb5-9727-b20a23d4e3ad
+map.base:864b887f-3f2e-4e4c-b8c1-96cb297cfc40
 map.role:definition
 map.type:neighbor
-modified:1582720021589
+modified:1582954316287
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Amira 1.0.0
-tmap.id:2c0aa319-ee57-44f7-8cc7-4da76a8d31fd
+tmap.id:053fe147-6c3b-4bf2-8de6-4e34eb284ed0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Amira 1.0.0

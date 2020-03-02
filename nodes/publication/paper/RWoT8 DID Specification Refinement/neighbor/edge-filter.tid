@@ -1,12 +1,12 @@
-created:1582720021602
+created:1582954316302
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0b35c940-4d84-42b8-9ace-3c1d86d16c98
+map.base:3022eebc-3a3f-4a97-b682-48ac4ea735e1
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021602
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/RWoT8 DID Specification Refinement/filter/edges
-tmap.id:0e9f435c-aba5-47fb-9e7e-537c98297c71
+tmap.id:385aaa05-5b51-4636-9516-1df36f5f1e91
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,9 +8,9 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:Visualizing Life
-publication.type:TO BE DETERMINED
+publication.type:to-be-determined
 purpose:
 sector:
 sponsoring.org:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Visualizing Life
 tmap.edges:{}
-tmap.id:598b564f-6541-45fa-9150-e12d154b6fce
+tmap.id:ff287d74-ba74-4835-b658-01e640537689
 type:text/vnd.tiddlywiki
 url:https://coelition.org/business/resources/visualising-life/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Digital technologies can help us to understand the complexities of our daily lives.
 
 The Classification of Everyday Living is a holistic, hierarchical taxonomy that sits at the heart of the COEL Standard. This intuitive tool allows you to explore the machine readable data structures (JSON).
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021593
+created:1582954316290
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6034119b-a593-4a86-b747-9d339839c1b9
+map.base:2fc980f8-8751-43b4-8f09-0547df1a4978
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021593
+modified:1582954316290
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Embedding Human Wisdom in Our Digital Tomorrow/filter/edges
-tmap.id:d35440ce-005e-487e-a057-20980a993c5e
+tmap.id:33d38f67-8ea6-4853-b965-f14460724339
 type:text/vnd.tiddlywiki
 
 No body provided

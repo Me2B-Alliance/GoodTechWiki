@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003378
+created:1582954204546
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003378
+modified:1582954204546
 org.name:Global Identity Foundation
 org.type:non governmental organization
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Global Identity Foundation
-tmap.edges:{"b60098d8-c2ed-4a30-875a-28ee72302ef4":{"to":"befcd239-9d73-4f8f-9720-8fa21f916f84","type":"author"},"eaeeb201-3107-450b-8664-f25be5dcf732":{"to":"9f8a27bc-ef25-4f9c-b438-fafb5943bd6f","type":"author"},"372f6e9c-15c5-4270-9386-0a9d50edce5c":{"to":"7b9ee2ee-7cfc-45e8-a1a8-23f3ef1377d5","type":"author"},"9f257342-5a6f-4ca2-a895-e6c03157a413":{"to":"5c17f860-f657-4bfd-a902-6743f0561f82","type":"employee"},"1ddaa961-220f-412b-a2df-5c5c558cef08":{"to":"3b5ab814-1804-4f3b-b89e-e042870a1c1d","type":"author"},"fa46ab17-1337-4565-89a4-79d5f12e256b":{"to":"ae8a685d-1639-4a00-ad4e-7cc043c89bdc","type":"employee"}}
-tmap.id:83e85544-b3b8-439d-ba7b-8aa363df1324
+tmap.edges:{"1f1d9115-92fc-4f70-8ae3-bfcafd086b62":{"to":"53125e9c-7451-414d-8599-a68b820f16f0","type":"author"},"c12a7978-73f6-41af-8df3-45d0a835d8f1":{"to":"ca900031-4a99-4d84-8593-53ff1e6c8a51","type":"author"},"b6518e5c-312f-4cee-a407-2df24a1169d7":{"to":"43091871-ed0c-4056-8347-41011f907578","type":"author"},"501d3a60-7d46-47e2-9075-57490e218fd9":{"to":"1a66ed4c-9874-4161-a2ff-e8e702ff6226","type":"employee"},"e65217d4-6f86-4946-9819-50f8be49be7e":{"to":"7c16cbe1-4c23-4a87-98b9-e850825cbf10","type":"author"},"5d23eea2-6ae9-4a09-94ec-e09c1b746b9c":{"to":"e6bda179-13d3-455c-ae02-5f97cf359d2c","type":"employee"}}
+tmap.id:bbade2c7-04da-4dae-aaa7-051aded4bcaa
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.globalidentityfoundation.org/index.html
@@ -44,4 +44,6 @@ Our aim is to get all the right people, the key global players, academics and ot
 For this to be successful this needs to be a global initiative, not constrained by the aspirations of national governments, or the aspirations of any one corporation.
  
 Anyone should be able to implement the solution, or leverage the Identity from the solution within their products thus prohibiting monopolization of the technology.
+
+
 

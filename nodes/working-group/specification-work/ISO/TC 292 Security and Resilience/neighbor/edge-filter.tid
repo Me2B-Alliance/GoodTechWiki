@@ -1,12 +1,12 @@
-created:1582720021699
+created:1582954316380
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dfdf459c-ac87-4fb0-896a-cba3eb11485a
+map.base:5f65f930-ca55-41c4-99b9-fe751f6fa50f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021699
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/TC 292 Security and Resilience/filter/edges
-tmap.id:bb014ad1-cb1e-4c58-88b0-f94e10978f52
+tmap.id:01d74ec0-f8d2-495a-9c22-ee57636fb955
 type:text/vnd.tiddlywiki
 
 No body provided

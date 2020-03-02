@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003363
+created:1582954204530
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003363
+modified:1582954204530
 org.name:DG Connect European Commission's Directorate General for Communications Networks, Content & Technology
 org.type:part of supra-national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:DG Connect European Commission's Directorate General for Communications Networks, Content & Technology
-tmap.edges:{"35ce64ea-8e0e-447a-a438-b4f48e43d256":{"to":"58d1aeb3-3678-43a8-a9b8-b5dae7cf091e","type":"government-connection"},"2afa91c9-71da-4389-92f6-4a9c2a40b15c":{"to":"e2a86d1e-e812-4a31-9430-9df167a4cd41","type":"government-connection"},"7f6887e7-e199-47f4-83d3-e0c9f8e350e9":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"convenor"}}
-tmap.id:d12a09ce-4bca-44e1-8b71-5bad2aebbc3e
+tmap.edges:{"58f87bb2-a6a0-4ce8-bc84-c423aad74a6a":{"to":"361c3451-9942-4abc-8064-96cd61277d88","type":"government-connection"},"9bd89951-a73e-4501-b1cd-0485e028febf":{"to":"adc794ed-95bc-41ca-8a2a-2b4b2a18e2f8","type":"government-connection"},"ee2a2130-ebe2-47a5-aa52-52272107c47e":{"to":"b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8","type":"convenor"}}
+tmap.id:2a724bf5-8965-47eb-b797-348210ee687d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ec.europa.eu/digital-single-market/dg-connect
 
 DG CONNECT works to develop a Digital Single Market in order to generate smart, sustainable and inclusive growth in Europe.
+
+
 

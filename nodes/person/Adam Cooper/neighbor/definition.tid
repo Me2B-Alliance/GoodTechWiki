@@ -1,17 +1,17 @@
-config.central-topic:ea97a2ce-1441-4db8-932d-d0a0d6866565
+config.central-topic:2d68835f-0359-4f14-8efb-7cff4bb9b542
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021531
-id:34ac3d8e-22e9-4222-9211-49de7ba9b3f7
+created:1582954316236
+id:2c8fb9be-338c-491c-965e-cb8708b70180
 isview:false
-map.base:ea97a2ce-1441-4db8-932d-d0a0d6866565
+map.base:2d68835f-0359-4f14-8efb-7cff4bb9b542
 map.role:definition
 map.type:neighbor
-modified:1582720021531
+modified:1582954316236
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Adam Cooper
-tmap.id:34ac3d8e-22e9-4222-9211-49de7ba9b3f7
+tmap.id:2c8fb9be-338c-491c-965e-cb8708b70180
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Adam Cooper

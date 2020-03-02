@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003386
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003386
+modified:1582954204555
 org.name:Gemalto
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Gemalto
-tmap.edges:{"37f4b01d-bad0-4e02-8ee9-2afb09d2fc6c":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"},"ca2210fe-00b8-442f-894e-c212d6bbc687":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"executive-member"}}
-tmap.id:2d8dd093-d875-4786-b8af-2ba030d37e04
+tmap.edges:{"78e81068-2f1a-41cb-85a9-b7cf1bc21062":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"},"c5bc1670-d166-4f1b-90cd-2f64a1477504":{"to":"b7f9666c-d936-4f82-9eb8-a74adb1f0493","type":"executive-member"}}
+tmap.id:ddaba559-9673-4b50-acf8-070c8bb92bed
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.gemalto.com
 
 In a world where the digital revolution is increasingly transforming our lives, Gemalto’s end-to-end security solutions are designed to make personal digital interactions more convenient, safe and enjoyable. Gemalto’s activities range from the development of software applications through the design and production of secure personal devices such as smart cards, SIMs, e-passports and tokens, to the deployment of managed services for their customers. As the use of Gemalto’s software and secure devices increases with the number of people interacting in the digital and wireless world over the coming years, the company is poised to thrive.
+
+
 

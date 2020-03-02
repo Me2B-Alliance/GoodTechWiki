@@ -1,17 +1,17 @@
-config.central-topic:36efe5a8-2062-4282-93ae-203d1321f7b9
+config.central-topic:5bd25f4f-403b-4fe2-90fd-69645d3b1d45
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021630
-id:ed5c361f-ba91-4427-8c19-fc467686f6f9
+created:1582954316320
+id:b3386455-10d1-40fd-bfcb-d82570125b60
 isview:false
-map.base:36efe5a8-2062-4282-93ae-203d1321f7b9
+map.base:5bd25f4f-403b-4fe2-90fd-69645d3b1d45
 map.role:definition
 map.type:neighbor
-modified:1582720021630
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP Report : Innovation & Foresight #3 Data muses and borders of creative arts : Reading, listening, watching and gaming in the age of personalisation
-tmap.id:ed5c361f-ba91-4427-8c19-fc467686f6f9
+tmap.id:b3386455-10d1-40fd-bfcb-d82570125b60
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IP Report : Innovation & Foresight #3 Data muses and borders of creative arts : Reading, listening, watching and gaming in the age of personalisation

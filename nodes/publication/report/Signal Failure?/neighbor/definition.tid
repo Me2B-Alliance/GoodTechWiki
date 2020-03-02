@@ -1,17 +1,17 @@
-config.central-topic:1a7a73d8-561a-4026-9187-9856ae8496b0
+config.central-topic:80092cb6-a0ff-4f82-b146-d651324547db
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021638
-id:86f4d33a-a9a7-4f12-a608-5cedafca6e53
+created:1582954316328
+id:5a1e6194-de3f-46c9-a1c9-e43627ed310b
 isview:false
-map.base:1a7a73d8-561a-4026-9187-9856ae8496b0
+map.base:80092cb6-a0ff-4f82-b146-d651324547db
 map.role:definition
 map.type:neighbor
-modified:1582720021638
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Signal Failure?
-tmap.id:86f4d33a-a9a7-4f12-a608-5cedafca6e53
+tmap.id:5a1e6194-de3f-46c9-a1c9-e43627ed310b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Signal Failure?

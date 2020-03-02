@@ -1,12 +1,12 @@
-created:1582720021524
-filter:[field:tmap.id[6fcf9086-9fdd-424a-8859-5c7c3e9ec6fd]]
-map.base:6fcf9086-9fdd-424a-8859-5c7c3e9ec6fd
+created:1582954316233
+filter:[field:tmap.id[2d2ac9db-ac90-46ae-9e75-264e9a4f3f61]]
+map.base:2d2ac9db-ac90-46ae-9e75-264e9a4f3f61
 map.role:node-filter
 map.type:neighbor
-modified:1582720021524
+modified:1582954316233
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/World Bank/filter/nodes
-tmap.id:60bc4c1b-a25e-4046-8a48-3ab1d2d7ac39
+tmap.id:9024b531-eea5-41b3-920c-855bed0aa688
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021555
-filter:[field:tmap.id[1c99946f-5163-4002-88fb-55cf23b0713c]]
-map.base:1c99946f-5163-4002-88fb-55cf23b0713c
+created:1582954316263
+filter:[field:tmap.id[862365da-3558-4506-ba88-9e691ddd8fcc]]
+map.base:862365da-3558-4506-ba88-9e691ddd8fcc
 map.role:node-filter
 map.type:neighbor
-modified:1582720021555
+modified:1582954316263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Trust Service Status List (TSL)/filter/nodes
-tmap.id:0e0b46cd-8a08-431b-a057-04eb4c508ce7
+tmap.id:e207c308-6127-4c72-8f33-24070d5c3be3
 type:text/vnd.tiddlywiki
 
 No body provided

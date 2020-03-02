@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Enabling Connected Learning
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Enabling Connected Learning
 tmap.edges:{}
-tmap.id:7f5a6121-b5a0-4bca-b81d-1ee6c0212556
+tmap.id:b4f4abbc-08cc-4a8b-b761-b50b84b7f477
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/initiatives/enabling-connected-learning/
 version.or.edition:
 working.group:
 
 What is the value of data in education and learning? The Enabling Connected Learning (ECL) initiative assesses how existing and proposed policies affect connected learning initiatives, and where and when education-related data can and should be used.
+
+
 

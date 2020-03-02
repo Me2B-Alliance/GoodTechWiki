@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003602
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204779
 name:How to Socially Engineer Voluntary Integration
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[enabling connected learning]]
+tags:[[enabling connected learning (tag)]]
 tech.focus:
 tiddler.classification:node
 title:How to Socially Engineer Voluntary Integration
 tmap.edges:{}
-tmap.id:8c7b4db3-2d61-4a84-b308-e1d8fc6118e7
+tmap.id:14d015b3-8c44-43fc-9a3e-96a77470ab64
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/how-to-socially-engineer-voluntary-integration/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 D&S researcher Claire Fontaine looks at how school performance data can lead to segregation.
 
     In our technocratic society, we are predisposed toward privileging the quantitative. So, we need to find ways to highlight what is truly helpful in the data, but also insert an element of creative distrust. We need to encourage data consumers to think deeply about their values, rather than using data to reify knee-jerk prejudicial attitudes. Data scientists and engineers are in the position to help shift the conversation around data as truth.
+
+
 

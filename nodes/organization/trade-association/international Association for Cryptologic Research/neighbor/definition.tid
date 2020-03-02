@@ -1,17 +1,17 @@
-config.central-topic:0d7bfdee-b458-4bce-a135-48880f4d548b
+config.central-topic:34894300-e64a-411e-851d-d13ec4525a25
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021525
-id:5335ad4e-1f61-4345-8b17-0e19db86d59b
+created:1582954316232
+id:cbd1c05f-36bb-4dd5-b1b3-b871b300a091
 isview:false
-map.base:0d7bfdee-b458-4bce-a135-48880f4d548b
+map.base:34894300-e64a-411e-851d-d13ec4525a25
 map.role:definition
 map.type:neighbor
-modified:1582720021525
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/international Association for Cryptologic Research
-tmap.id:5335ad4e-1f61-4345-8b17-0e19db86d59b
+tmap.id:cbd1c05f-36bb-4dd5-b1b3-b871b300a091
 type:text/vnd.tiddlywiki
 
 Neighbor Map of international Association for Cryptologic Research

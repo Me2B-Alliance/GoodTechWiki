@@ -1,12 +1,12 @@
-created:1582720021551
-filter:[field:tmap.id[e3125792-a5e8-4c5f-a095-d87417eff69e]]
-map.base:e3125792-a5e8-4c5f-a095-d87417eff69e
+created:1582954316261
+filter:[field:tmap.id[0d2ab5eb-0c76-4fbc-8f35-f69eb858e21a]]
+map.base:0d2ab5eb-0c76-4fbc-8f35-f69eb858e21a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021551
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smart Society Project/filter/nodes
-tmap.id:29fe6c59-d74b-44e6-a72b-5cc275a321df
+tmap.id:1d39f983-ed03-4348-8ce6-8b526408ec6a
 type:text/vnd.tiddlywiki
 
 No body provided

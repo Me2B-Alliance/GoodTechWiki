@@ -1,12 +1,12 @@
-created:1582720021486
+created:1582954316210
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e4ea2963-5a8e-4aa1-bafc-6ad8ba3d63c2
+map.base:6f58ed0d-982d-4f95-8f64-6ea25d91c0ed
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021486
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Avast.com/filter/edges
-tmap.id:c6654b1b-95f5-4ede-9619-ac7289ad73c4
+tmap.id:f606424a-9ac9-4484-8fec-ea7f103c675d
 type:text/vnd.tiddlywiki
 
 No body provided

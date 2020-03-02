@@ -1,17 +1,17 @@
-config.central-topic:9a70bbeb-3694-4681-b59b-607047392c50
+config.central-topic:555d3ded-0ac4-4302-9487-fe4881df8d2d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021428
-id:179bc8e5-b4ed-4920-ad7a-81624995020b
+created:1582954316167
+id:fd7c21d5-ba08-49e7-bd2c-7b5ed34c3d17
 isview:false
-map.base:9a70bbeb-3694-4681-b59b-607047392c50
+map.base:555d3ded-0ac4-4302-9487-fe4881df8d2d
 map.role:definition
 map.type:neighbor
-modified:1582720021428
+modified:1582954316167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Auditing Algorithms From the Outside: Methods and Implications
-tmap.id:179bc8e5-b4ed-4920-ad7a-81624995020b
+tmap.id:fd7c21d5-ba08-49e7-bd2c-7b5ed34c3d17
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Auditing Algorithms From the Outside: Methods and Implications

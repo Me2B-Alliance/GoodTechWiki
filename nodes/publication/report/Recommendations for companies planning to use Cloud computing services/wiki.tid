@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:Recommendations for companies planning to use Cloud computing services
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Recommendations for companies planning to use Cloud computing services
 tmap.edges:{}
-tmap.id:e001a125-481f-443a-a05f-df25be782b01
+tmap.id:5a91cbce-f486-4a9e-befa-cf38dcff9066
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 From a legal standpoint, CNIL finds that Cloud computing raises a number of difficulties with regard  to  compliance  with  the  legislation  on  the  protection  of  personal  data,  in  particular  in the  case  of  public  Cloud.  These  difficulties  are  amplified  in  the  case  of  standard  offers  with standard  contracts  thatcustomers are  not  able  to  negotiate.  In  general,  it  is  found  that customers suffer from a lack of transparency on the part of Cloud service providers regarding the  conditions  for  provision  of  the  services,  particularly in  terms  ofsecurity  and knowing whether their data are transferred abroad, and more precisely, to which country.Consequently,  it  is  essential  that  any  French  company  planning  to  use  a  Cloud  computing service  conducts  a  risk  analysis  and  is  very  strict  in  the  choice  of  its  service  provider.  In particular,  the  company  must  take  into  consideration  the  guarantees  offered  by  a  service provider  regarding  the  protection  of  personal  data  and  must  make  sure  that  the  service provider  will  give itall  the  necessary  guarantees  to  fulfil  its  obligations  under  the  Data Protection  Act,  particularly  in  terms  of  information todata  subjects, regulationof  transfers and data security. Note that if it is impossible to negotiate a contract, it is essential to compare the contractual conditions proposed by the different service providers. This allows a choice to be made based on both economicand legal and technical considerations
+
+
 

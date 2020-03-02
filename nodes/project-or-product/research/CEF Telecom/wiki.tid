@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003349
+category:[[research]]
+created:1582954204516
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003349
+modified:1582954204516
 name:CEF Telecom
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:CEF Telecom
-tmap.edges:{"5cde1b8d-ec8e-4c35-a372-7dc15457e6c6":{"to":"80451c2b-560a-433b-a3b8-6ea3adcfcc16","type":"government-connection"},"5fb04309-05ec-4719-9629-242fc3384e95":{"to":"416f67cf-074f-491f-9bf6-e8893c84a82e","type":"author"}}
-tmap.id:68c59e7d-2484-4661-916b-94bb6c1c8bac
+tmap.edges:{"db61794f-255a-4454-b5ff-edf469bfa61e":{"to":"1a5160e8-2519-4afe-99df-bc04f78e7d62","type":"government-connection"},"76784c74-7b62-49a5-93f5-1a1a9bf32621":{"to":"ea70db3f-6ed8-4841-aedc-20995885e2fa","type":"author"}}
+tmap.id:550c7a5f-d61a-48f6-bb52-ab0e8358542a
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -40,4 +40,6 @@ https://ec.europa.eu/inea/sites/inea/files/cef-tc-2015-2.pdf
 
 list of all the funded projects 2015 Part 2
 https://ec.europa.eu/inea/sites/inea/files/2015-1-selected_proposals.pdf
+
+
 

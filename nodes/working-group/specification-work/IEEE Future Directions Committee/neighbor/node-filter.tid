@@ -1,12 +1,12 @@
-created:1582720021698
-filter:[field:tmap.id[1464f983-3d3e-4c53-9031-e7cb110d5899]]
-map.base:1464f983-3d3e-4c53-9031-e7cb110d5899
+created:1582954316379
+filter:[field:tmap.id[5a98e69b-972b-44ef-9280-19d7b8234574]]
+map.base:5a98e69b-972b-44ef-9280-19d7b8234574
 map.role:node-filter
 map.type:neighbor
-modified:1582720021698
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Future Directions Committee/filter/nodes
-tmap.id:9fef018f-f78a-4990-99a1-d18893e118d7
+tmap.id:07a0b1bf-ac50-4932-8f1b-30d56ea61d72
 type:text/vnd.tiddlywiki
 
 No body provided

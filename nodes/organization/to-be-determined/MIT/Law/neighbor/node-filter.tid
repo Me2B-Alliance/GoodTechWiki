@@ -1,12 +1,12 @@
-created:1582720021494
-filter:[field:tmap.id[45181a50-cc27-48b6-95bc-e81a3972c0aa]]
-map.base:45181a50-cc27-48b6-95bc-e81a3972c0aa
+created:1582954316215
+filter:[field:tmap.id[9ca9bdf2-15d4-4b88-84e4-c22c08568427]]
+map.base:9ca9bdf2-15d4-4b88-84e4-c22c08568427
 map.role:node-filter
 map.type:neighbor
-modified:1582720021494
+modified:1582954316215
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MIT/Law/filter/nodes
-tmap.id:a3a0e6a1-5670-420d-8942-77a406d47039
+tmap.id:d2757322-205c-451d-bc80-cdd82fc801cb
 type:text/vnd.tiddlywiki
 
 No body provided

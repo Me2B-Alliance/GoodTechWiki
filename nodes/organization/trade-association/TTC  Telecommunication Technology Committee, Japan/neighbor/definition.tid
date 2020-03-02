@@ -1,17 +1,17 @@
-config.central-topic:00754c38-6554-47f2-b314-33f01dd92cd7
+config.central-topic:92c7d796-af61-4be1-9b7c-f09ef5983c4b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021523
-id:9d01e020-eefc-4d52-9b54-0a229837d530
+created:1582954316231
+id:b01f0fdc-a92c-4c38-b013-c298548420ee
 isview:false
-map.base:00754c38-6554-47f2-b314-33f01dd92cd7
+map.base:92c7d796-af61-4be1-9b7c-f09ef5983c4b
 map.role:definition
 map.type:neighbor
-modified:1582720021523
+modified:1582954316231
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TTC  Telecommunication Technology Committee, Japan
-tmap.id:9d01e020-eefc-4d52-9b54-0a229837d530
+tmap.id:b01f0fdc-a92c-4c38-b013-c298548420ee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TTC  Telecommunication Technology Committee, Japan

@@ -1,17 +1,17 @@
-config.central-topic:ab32425a-2964-479b-b1be-148bd8d4f630
+config.central-topic:a457fc38-54d0-44cc-a472-8321c5d109cf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021493
-id:74c6ba50-a3c8-4a6f-9aed-a8e44f75c037
+created:1582954316214
+id:ba8502f4-df5c-4c93-9e40-5eb8a93b5ef5
 isview:false
-map.base:ab32425a-2964-479b-b1be-148bd8d4f630
+map.base:a457fc38-54d0-44cc-a472-8321c5d109cf
 map.role:definition
 map.type:neighbor
-modified:1582720021493
+modified:1582954316214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Inrupt
-tmap.id:74c6ba50-a3c8-4a6f-9aed-a8e44f75c037
+tmap.id:ba8502f4-df5c-4c93-9e40-5eb8a93b5ef5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Inrupt

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Libraries and Privacy
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Libraries and Privacy
 tmap.edges:{}
-tmap.id:3bfbca11-d5bb-4a05-85e3-24fbb5246519
+tmap.id:199952e0-abf4-4d3f-a467-7598f3ecbd20
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/initiatives/privacy/digital-privacy-data-literacy/
 version.or.edition:
 working.group:
 
 Libraries and Privacy is a suite of projects exploring the roles of libraries in supporting their communities with regard to data-centric technological development. Topics include privacy in libraries, facilitating safe research data sharing worldwide, and new roles for librarians as data scientists.
+
+
 

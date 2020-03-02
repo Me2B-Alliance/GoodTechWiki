@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204541
 date.ended:
 date.founded:2002-12-18
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204541
 org.name:CCSA  China Communications Standards Association
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CCSA  China Communications Standards Association
-tmap.edges:{"533c4d18-2ea7-4f0b-a851-bbd07b10f2df":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"},"0a1d36e8-a6f1-417e-8708-97078d1f49ad":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
-tmap.id:6310bc07-bb79-44a7-9bcc-60b6067ade9e
+tmap.edges:{"4f4d5e2a-6d8e-4d5d-88de-6daa4106ffdb":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"},"f9e4d1a3-d0e4-4d8d-b7aa-bba01cbeb181":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"}}
+tmap.id:306a720a-a529-4ce7-9f51-6d7da321a397
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.ccsa.org.cn/english/
@@ -53,4 +53,6 @@ CCSA is committed to conducting standardization activities in the field of ICT u
 4. To organize domestic and international exchange and cooperation in ICT and standardization; to collect and analyze information relating to domestic and international communications standards to support R&D activities in communications standards.
 
 5. To undertake work related to standardization commissioned by the authority, members of CCSA or other organizations.
+
+
 

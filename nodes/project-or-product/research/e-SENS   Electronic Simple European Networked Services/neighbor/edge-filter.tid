@@ -1,12 +1,12 @@
-created:1582720021553
+created:1582954316261
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0b975138-f2e1-444a-9bfa-fc8816e6b4fe
+map.base:dcce6699-284e-4315-b3ad-9b1116221084
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021553
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/e-SENS   Electronic Simple European Networked Services/filter/edges
-tmap.id:70e76b2b-9ec9-4576-88e3-fe1b064b0d3b
+tmap.id:6421cf92-8f00-487d-a4d2-93ba296a3e5a
 type:text/vnd.tiddlywiki
 
 No body provided

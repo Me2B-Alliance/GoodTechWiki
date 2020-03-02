@@ -1,12 +1,12 @@
-created:1582720021660
-filter:[field:tmap.id[379a65ed-1a45-4e7d-89f3-2ab891b2101a]]
-map.base:379a65ed-1a45-4e7d-89f3-2ab891b2101a
+created:1582954316348
+filter:[field:tmap.id[5e0b6765-ea9c-4ec6-9851-c0ce36773ec6]]
+map.base:5e0b6765-ea9c-4ec6-9851-c0ce36773ec6
 map.role:node-filter
 map.type:neighbor
-modified:1582720021660
+modified:1582954316348
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OpenID Connect Back-Channel Logout 1.0/filter/nodes
-tmap.id:addfc4a1-4f73-4e23-9ddc-3de41cb0ded3
+tmap.id:b4ed361d-aca4-4087-8350-073a021c976e
 type:text/vnd.tiddlywiki
 
 No body provided

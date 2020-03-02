@@ -1,12 +1,12 @@
-created:1582720021432
-filter:[field:tmap.id[c6d70e55-d006-421b-bb89-ffa0bef70abb]]
-map.base:c6d70e55-d006-421b-bb89-ffa0bef70abb
+created:1582954316170
+filter:[field:tmap.id[5ae35a10-2125-48b4-b145-5bde15280711]]
+map.base:5ae35a10-2125-48b4-b145-5bde15280711
 map.role:node-filter
 map.type:neighbor
-modified:1582720021432
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech Equity Book Club/filter/nodes
-tmap.id:7e1f58c2-8b1c-4950-b72f-c69325f6d491
+tmap.id:08b3a351-c056-4322-aa74-18c604b0a198
 type:text/vnd.tiddlywiki
 
 No body provided

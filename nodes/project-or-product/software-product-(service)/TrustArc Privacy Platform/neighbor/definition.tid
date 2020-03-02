@@ -1,17 +1,17 @@
-config.central-topic:3cce3376-35ea-4977-a7f4-31574cea27c8
+config.central-topic:43d0df1c-e3b0-4b22-8845-37292ff50dfb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021566
-id:f123d20a-e891-463a-a5c0-a5b6d3d98aa4
+created:1582954316270
+id:17f5f272-90a5-420a-9aba-01f25058c638
 isview:false
-map.base:3cce3376-35ea-4977-a7f4-31574cea27c8
+map.base:43d0df1c-e3b0-4b22-8845-37292ff50dfb
 map.role:definition
 map.type:neighbor
-modified:1582720021566
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc Privacy Platform
-tmap.id:f123d20a-e891-463a-a5c0-a5b6d3d98aa4
+tmap.id:17f5f272-90a5-420a-9aba-01f25058c638
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TrustArc Privacy Platform

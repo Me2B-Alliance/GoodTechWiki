@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003331
+category:[[specification work]]
+created:1582954204498
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003331
+modified:1582954204498
 name:Terminology WG1
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Terminology WG1
-tmap.edges:{"646dbc58-2e93-4a1a-b4c2-4067e16c7aee":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:3b2aa4cb-460a-4a84-b307-aade111318e8
+tmap.edges:{"9238abf8-cc21-45df-89f6-a33b50b3c736":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:2c759368-54ed-4421-8fc2-63b418757310
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

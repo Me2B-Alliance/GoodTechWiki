@@ -1,12 +1,12 @@
-created:1582720021558
+created:1582954316264
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a5b0539d-2e56-422b-86bb-cba9b7b8d307
+map.base:2ac87239-b239-4d9d-8853-77c08b74e6a2
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021558
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Respects Your Freedom Certification/filter/edges
-tmap.id:54f1b33e-4ecf-4059-b283-9da0bca69ac2
+tmap.id:71a97317-4c69-4ef4-b04a-db0ee103dd25
 type:text/vnd.tiddlywiki
 
 No body provided

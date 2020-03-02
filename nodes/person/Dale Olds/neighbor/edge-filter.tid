@@ -1,12 +1,12 @@
-created:1582720021531
+created:1582954316238
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d426f03f-22ca-4ef2-acd1-ae396a7facf1
+map.base:16877ded-4555-4791-964c-072bcdac1c55
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021531
+modified:1582954316238
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dale Olds/filter/edges
-tmap.id:43a449cc-2a6a-42a3-9988-953a743bcd5e
+tmap.id:681d4de4-8be6-44fb-aa59-3f677f862316
 type:text/vnd.tiddlywiki
 
 No body provided

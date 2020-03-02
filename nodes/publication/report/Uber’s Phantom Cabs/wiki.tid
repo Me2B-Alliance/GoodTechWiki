@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alex rosenblat]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Uber’s Phantom Cabs
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[intelligence and autonomy]]
+tags:[[intelligence and autonomy (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Uber’s Phantom Cabs
 tmap.edges:{}
-tmap.id:c5f83e91-0e26-46fd-8f97-05ceac451ec9
+tmap.id:d827119c-8132-43c1-b27f-a0f264dc086c
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/ubers-phantom-cabs/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 “Uber’s access to real-time information about where passengers and drivers are has helped make it one of the most efficient and useful apps produced by Silicon Valley in recent...
+
+
 

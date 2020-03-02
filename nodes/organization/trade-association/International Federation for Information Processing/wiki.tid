@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003376
+created:1582954204544
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003376
+modified:1582954204544
 org.name:International Federation for Information Processing
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:International Federation for Information Processing
-tmap.edges:{"dbfc2d43-4d6f-49bc-908f-e045a7e73568":{"to":"507b261a-fc30-400f-b275-6889b4a75822","type":"convenor"}}
-tmap.id:088269eb-b683-4f19-89b1-d5f245b56de3
+tmap.edges:{"b1819f14-e919-4abe-8bfb-19e9849056d7":{"to":"82d3a3e6-6aee-45c2-8135-21db41712953","type":"convenor"}}
+tmap.id:a22f77f4-c14f-488a-b727-e10061afed4b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

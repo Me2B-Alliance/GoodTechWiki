@@ -1,17 +1,17 @@
-config.central-topic:5a193283-8ddb-41d6-9c13-5baf92bb2939
+config.central-topic:0e8a004c-9447-479a-9edb-d3f7876168bc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021689
-id:5f2bfd74-acfe-496f-af39-222478e0901d
+created:1582954316369
+id:6571bb32-55b5-4a6a-8c3d-69f43c1ef32f
 isview:false
-map.base:5a193283-8ddb-41d6-9c13-5baf92bb2939
+map.base:0e8a004c-9447-479a-9edb-d3f7876168bc
 map.role:definition
 map.type:neighbor
-modified:1582720021689
+modified:1582954316369
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tetris Printer Algorithm
-tmap.id:5f2bfd74-acfe-496f-af39-222478e0901d
+tmap.id:6571bb32-55b5-4a6a-8c3d-69f43c1ef32f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tetris Printer Algorithm

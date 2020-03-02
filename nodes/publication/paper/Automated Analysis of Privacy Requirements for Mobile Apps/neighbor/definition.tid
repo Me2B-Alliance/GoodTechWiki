@@ -1,17 +1,17 @@
-config.central-topic:1d3c0cfa-f098-4715-9200-5b9e43d00eb7
+config.central-topic:481df661-2d58-4494-b9ec-abfdc4bca73f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021591
-id:ea85654b-74cf-4469-8062-8e308d2c5f61
+created:1582954316288
+id:719d6207-de4f-4de6-92d4-211c76ac0c9d
 isview:false
-map.base:1d3c0cfa-f098-4715-9200-5b9e43d00eb7
+map.base:481df661-2d58-4494-b9ec-abfdc4bca73f
 map.role:definition
 map.type:neighbor
-modified:1582720021591
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Automated Analysis of Privacy Requirements for Mobile Apps
-tmap.id:ea85654b-74cf-4469-8062-8e308d2c5f61
+tmap.id:719d6207-de4f-4de6-92d4-211c76ac0c9d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Automated Analysis of Privacy Requirements for Mobile Apps

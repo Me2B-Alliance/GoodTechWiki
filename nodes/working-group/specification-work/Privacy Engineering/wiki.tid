@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003332
+category:[[specification work]]
+created:1582954204499
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003332
+modified:1582954204499
 name:Privacy Engineering
 parent.org:National Institute of Standards (NIST)
 people:
@@ -18,12 +18,14 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Privacy Engineering
-tmap.edges:{"95d39ef7-9f05-4e54-9fc2-864215908e6e":{"to":"a9994b9e-0264-439a-8923-bc565120dda1","type":"organization-for-group"}}
-tmap.id:87808b3d-8a0f-446b-81be-3349ad97e6c0
+tmap.edges:{"3c5d8b89-93f8-4f1e-b9b1-80ee268acd15":{"to":"9790fb16-a3f4-4bf5-a50f-711f68e58d51","type":"organization-for-group"}}
+tmap.id:27b08679-12fb-485c-b2e1-02e062b80a77
 type:text/vnd.tiddlywiki
 url:http://csrc.nist.gov/projects/privacy_engineering/
 
 Privacy is a challenging subject that spans a number of domains, including law, policy and technology. Unlike other fields such as safety risk management and cybersecurity, system designers and engineers currently lack well-characterized, reusable, standards-based tools and practices to understand and mitigate privacy risks and integrate appropriate privacy controls into information systems.
 
 NIST’s work on Privacy Engineering focuses on providing guidance that can be used to decrease privacy risks, and enable organizations to make purposeful decisions about resource allocation and effective implementation of controls in information systems.
+
+
 

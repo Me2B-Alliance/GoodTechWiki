@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:Chair for Information Security and Cryptography at the University of Trier
 org.type:research lab or center
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Chair for Information Security and Cryptography at the University of Trier
-tmap.edges:{"56266cfa-9ba8-4c81-92d1-24f343dc333d":{"to":"7dc95d78-e3b7-4aa0-96e8-e1b2b9380559","type":"convenor"}}
-tmap.id:d0ba9e49-3c4c-4611-b2b8-523350f0eb93
+tmap.edges:{"b67e63b4-afdb-4821-93e0-1813d2f0bcca":{"to":"dc090d1f-2bbc-461a-98b7-46f044775f16","type":"convenor"}}
+tmap.id:a617de5a-92e5-445a-ae75-e76ad4f3cb7e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://infsec.uni-trier.de/start
+
+
 
 
 

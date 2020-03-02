@@ -1,12 +1,12 @@
-created:1582720021700
-filter:[field:tmap.id[d5b68109-8378-4f93-a16b-f0ee6fd804b8]]
-map.base:d5b68109-8378-4f93-a16b-f0ee6fd804b8
+created:1582954316381
+filter:[field:tmap.id[2a94be01-b957-4c94-a4bd-50042b8209ef]]
+map.base:2a94be01-b957-4c94-a4bd-50042b8209ef
 map.role:node-filter
 map.type:neighbor
-modified:1582720021700
+modified:1582954316381
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MONDRNA/filter/nodes
-tmap.id:30abb51c-5270-427d-9670-047ccf8967d6
+tmap.id:c0165111-0bd1-4a2b-bff6-decf1c82c678
 type:text/vnd.tiddlywiki
 
 No body provided

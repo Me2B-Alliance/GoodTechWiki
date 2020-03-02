@@ -1,12 +1,12 @@
-created:1582720021648
-filter:[field:tmap.id[f10410b6-fbdc-4677-a0bc-d38850c4e597]]
-map.base:f10410b6-fbdc-4677-a0bc-d38850c4e597
+created:1582954316340
+filter:[field:tmap.id[00437f62-9823-4bad-85ac-1da62c5aab09]]
+map.base:00437f62-9823-4bad-85ac-1da62c5aab09
 map.role:node-filter
 map.type:neighbor
-modified:1582720021648
+modified:1582954316340
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Who’s Knocking At Your Door?/filter/nodes
-tmap.id:05a7871d-6730-4836-8346-7e86d9f2f5d9
+tmap.id:fead651e-9d7c-4fdc-af0b-999da7b0a68c
 type:text/vnd.tiddlywiki
 
 No body provided

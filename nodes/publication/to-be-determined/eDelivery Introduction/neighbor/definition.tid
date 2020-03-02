@@ -1,17 +1,17 @@
-config.central-topic:52c9968c-98fa-4a5b-bea9-52c86442167d
+config.central-topic:821d327d-d52f-49aa-bbf4-65ae52a760ad
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021686
-id:faf6bdfe-a32e-4d88-83ff-6b9216e59f34
+created:1582954316366
+id:a12cd978-9f12-4d98-a3cd-6638d3dec084
 isview:false
-map.base:52c9968c-98fa-4a5b-bea9-52c86442167d
+map.base:821d327d-d52f-49aa-bbf4-65ae52a760ad
 map.role:definition
 map.type:neighbor
-modified:1582720021686
+modified:1582954316366
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eDelivery Introduction
-tmap.id:faf6bdfe-a32e-4d88-83ff-6b9216e59f34
+tmap.id:a12cd978-9f12-4d98-a3cd-6638d3dec084
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eDelivery Introduction

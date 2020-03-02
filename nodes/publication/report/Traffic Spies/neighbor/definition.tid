@@ -1,17 +1,17 @@
-config.central-topic:f5e14eb8-37aa-4f9d-b12f-4a1256943853
+config.central-topic:965960ba-9ea7-4ba2-bd42-7c2c6344ddf8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021644
-id:5d596b10-cd71-41ad-b194-7c22c15c31c6
+created:1582954316337
+id:f7d23674-ee6b-4b9a-9f5c-a0d12726fc3a
 isview:false
-map.base:f5e14eb8-37aa-4f9d-b12f-4a1256943853
+map.base:965960ba-9ea7-4ba2-bd42-7c2c6344ddf8
 map.role:definition
 map.type:neighbor
-modified:1582720021644
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Traffic Spies
-tmap.id:5d596b10-cd71-41ad-b194-7c22c15c31c6
+tmap.id:f7d23674-ee6b-4b9a-9f5c-a0d12726fc3a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Traffic Spies

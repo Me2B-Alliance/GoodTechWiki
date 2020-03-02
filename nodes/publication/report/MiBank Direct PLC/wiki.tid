@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:MiBank Direct PLC
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:MiBank Direct PLC
 tmap.edges:{}
-tmap.id:2cb3eeda-4e73-46a2-a3bb-ddfa7c4f2945
+tmap.id:d53f5e8c-0a7f-4bc6-94e6-29a278d87201
 type:text/vnd.tiddlywiki
 url:https://coelition.org/case-studies/mibank-direct-plc/
 version.or.edition:
@@ -33,4 +33,6 @@ We all create distinct patterns when we interact with large service infrastructu
 A hypothetical financial institution, MiBank Direct PLC, has deep understanding of how current spending behaviour maps to future financial status for their internal risk management processes. They decide to generate new data structures that show customers’ interactions without the financial details.
 
 These are used to provide innovative consumer-centric services, developing a dialogue where customers can see how their behaviours compare to others and contribute to different financial outcomes.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021561
-filter:[field:tmap.id[d4bbbd4d-ae7e-4dae-af59-77d1ad521460]]
-map.base:d4bbbd4d-ae7e-4dae-af59-77d1ad521460
+created:1582954316268
+filter:[field:tmap.id[7b96cd16-3bb8-41b2-9246-642064410538]]
+map.base:7b96cd16-3bb8-41b2-9246-642064410538
 map.role:node-filter
 map.type:neighbor
-modified:1582720021561
+modified:1582954316268
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hide My Ass/filter/nodes
-tmap.id:fd55ae8e-95e2-44bc-9f95-2b384e0db247
+tmap.id:12748a96-565e-4629-8ea2-2e5bc762e466
 type:text/vnd.tiddlywiki
 
 No body provided

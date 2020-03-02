@@ -1,17 +1,17 @@
-config.central-topic:537cb2f8-c76e-4fc4-a5bd-49bd7405873f
+config.central-topic:0a4cc9b5-74a5-44a3-9768-5b9cd0cdcd66
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021630
-id:3cfd84c6-fcad-4990-a695-92635eaaf40a
+created:1582954316321
+id:efb31889-a698-41ca-a0b0-6afa246df76a
 isview:false
-map.base:537cb2f8-c76e-4fc4-a5bd-49bd7405873f
+map.base:0a4cc9b5-74a5-44a3-9768-5b9cd0cdcd66
 map.role:definition
 map.type:neighbor
-modified:1582720021630
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Letting autopilot off the hook
-tmap.id:3cfd84c6-fcad-4990-a695-92635eaaf40a
+tmap.id:efb31889-a698-41ca-a0b0-6afa246df76a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Letting autopilot off the hook

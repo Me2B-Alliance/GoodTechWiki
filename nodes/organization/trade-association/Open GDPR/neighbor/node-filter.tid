@@ -1,12 +1,12 @@
-created:1582720021519
-filter:[field:tmap.id[1a1e47f8-fdc8-446b-8878-f43e6a599916]]
-map.base:1a1e47f8-fdc8-446b-8878-f43e6a599916
+created:1582954316229
+filter:[field:tmap.id[40ffbcdd-c4d6-4ae1-9330-2ba87d037023]]
+map.base:40ffbcdd-c4d6-4ae1-9330-2ba87d037023
 map.role:node-filter
 map.type:neighbor
-modified:1582720021519
+modified:1582954316229
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open GDPR/filter/nodes
-tmap.id:a766bcaa-a99a-46fe-aa13-6c6632a5bade
+tmap.id:42b75516-d2d1-4c74-8be7-33d8184031ec
 type:text/vnd.tiddlywiki
 
 No body provided

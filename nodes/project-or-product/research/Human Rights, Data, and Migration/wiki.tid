@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Human Rights, Data, and Migration
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]] [[data]] [[human rights and human security]]
+tags:[[publications]] [[parent]] [[data]] [[human rights and human security]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Human Rights, Data, and Migration
 tmap.edges:{}
-tmap.id:5a01bf93-8b4d-464f-9a41-8c3e10581892
+tmap.id:12c0dee7-4287-4b59-b7e7-61eb3f621e44
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/human-rights-data-and-migration/
 version.or.edition:
 working.group:
 
 As data-driven technologies and digital ecosystems increasingly intersect with migrants, refugees, and the displaced, what are the social impacts, consequences, and tradeoffs? This project bridges the knowledge gap surrounding technological interventions, and addresses a diverse set of themes–movement, economic inclusion, integration, asylum, identification, information seeking, rights, health, and social support.
+
+
 

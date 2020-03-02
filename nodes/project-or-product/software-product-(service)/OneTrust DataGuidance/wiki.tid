@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:OneTrust DataGuidance
 parent.org:One Trust
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:OneTrust DataGuidance
 tmap.edges:{}
-tmap.id:6d1e5aee-85de-435e-8aa3-820e98423b66
+tmap.id:163e0955-f97d-4dc7-9a99-dcb758d2a561
 type:text/vnd.tiddlywiki
 url:https://free.dataguidance.com/
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
 DataGuidance global regulatory research helps third-party risk teams manage vendor relationships with confidence, from onboarding to offboarding.
 
 Search for laws and frameworks to help you achieve global compliance within your specific industry, and monitor regulatory developments to identify and control risks in your portfolio of vendors.
+
+
 

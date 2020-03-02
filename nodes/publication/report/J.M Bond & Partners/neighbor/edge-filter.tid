@@ -1,12 +1,12 @@
-created:1582720021629
+created:1582954316321
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f7fdd946-08ca-4164-a644-4737f51c8a0c
+map.base:628e5a62-8ecf-4e9d-8ea2-b97f34183b55
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021629
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/J.M Bond & Partners/filter/edges
-tmap.id:b9eab081-22dd-48a8-9a76-c73136a5e198
+tmap.id:e8e61072-634c-4f8c-85ce-106c9987f3ed
 type:text/vnd.tiddlywiki
 
 No body provided

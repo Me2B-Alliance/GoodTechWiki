@@ -1,12 +1,12 @@
-created:1582720021645
+created:1582954316337
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c83df3f7-4fd1-4935-bb69-c9b7b4d8bea8
+map.base:96aac99c-f787-4e16-b920-d25229a589c5
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021645
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/WP256 - Réferentiel d'approbation des BCR "Responsables de traitements" (EN)/filter/edges
-tmap.id:17c8c35b-0cee-4cb0-b2e1-69615bac7414
+tmap.id:18499e9c-7c2c-4061-9dce-c32f3bdc1804
 type:text/vnd.tiddlywiki
 
 No body provided

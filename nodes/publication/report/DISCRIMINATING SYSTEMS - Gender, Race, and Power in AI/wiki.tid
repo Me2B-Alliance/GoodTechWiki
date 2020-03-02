@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[sarah myers west]] [[meredith whittaker]] [[kate crawford]]
-created:1582720003598
+created:1582954204775
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003598
+modified:1582954204775
 name:DISCRIMINATING SYSTEMS - Gender, Race, and Power in AI
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DISCRIMINATING SYSTEMS - Gender, Race, and Power in AI
 tmap.edges:{}
-tmap.id:8c6b1ddc-595f-4a41-823d-6729ffc4bde6
+tmap.id:62896d34-f859-4101-9816-bd1769f3189f
 type:text/vnd.tiddlywiki
 url:https://ainowinstitute.org/discriminatingsystems.pdf
 version.or.edition:
@@ -28,4 +28,6 @@ working.group:West:
 
 The diversity problems of the AI industry and the issues of bias in AI systems tend to be considered separately. In this report we suggest that they are two sides of the same problem: issues of discrimination in the workforce and in system building are deeply related. Moreover: tackling the challenges of bias within technical systems requires addressing workforce diversity: and vice versa. Our research points to new ways of understanding the relationships between these complex problems: which can open up new pathways to redressing the current imbalances and harms.
 Drawing on a thorough review of existing literature and current research working on issues of gender: race: class: and artificial intelligence: this pilot study examines the scale of AI’s current diversity crisis and possible paths forward. It represents the first stage of a multi-year project examining the intersection of gender: race and power in AI.
+
+
 

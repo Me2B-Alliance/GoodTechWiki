@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:ActivityPub: From Decentralized to Distributed Social Cetworks
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:ActivityPub: From Decentralized to Distributed Social Cetworks
 tmap.edges:{}
-tmap.id:a3ce4e13-ce80-4090-8edf-35486b5dbe9b
+tmap.id:f512c30a-70b9-497c-8225-303814e78830
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 ActivityPub is a protocol being developed at the W3C for the purpose of building federated social systems. Users can use implementations of ActivityPub like Mastodon and MediaGoblin as libre alternatives to large siloed socialnetworking systems such as Facebook, Twitter, YouTube, and Instagram1.In general ActivityPub follows the client-server paradigm that has been popular on the World Wide Web, while restoring some level of decentralization. Current implementations of ActivityPub go as far as to bring a level of decentralization akin to email2, but there are many opportunities to go further.By attaching public keys to the profles of actors (users) on the network and using Linked Data Signatures, we can add a web of trust to the federated social web and use it to enhance user privacy and to assert the integrity ofmessages sent over the network.By using a decentralized identifer system such as Decentralized Identifers (DIDs) we can move fully from a decentralized to a distributed system3, by escaping the core centralization mechanisms of DNS and SSL certifcate authorities.At this point, users could even optionally transition from a client-server model system to a fully peer-to-peer system
+
+
 

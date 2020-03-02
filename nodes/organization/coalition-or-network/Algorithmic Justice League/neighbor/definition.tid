@@ -1,17 +1,17 @@
-config.central-topic:1248baa5-f36b-44dc-aca1-66b727a3b04b
+config.central-topic:d156e5ff-c140-48b3-8526-168fd0df8aa9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021433
-id:11d24bff-174f-4859-8799-95b772fcb6d5
+created:1582954316172
+id:ce29c763-4d8b-46ff-9743-94da1783677f
 isview:false
-map.base:1248baa5-f36b-44dc-aca1-66b727a3b04b
+map.base:d156e5ff-c140-48b3-8526-168fd0df8aa9
 map.role:definition
 map.type:neighbor
-modified:1582720021433
+modified:1582954316172
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithmic Justice League
-tmap.id:11d24bff-174f-4859-8799-95b772fcb6d5
+tmap.id:ce29c763-4d8b-46ff-9743-94da1783677f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Algorithmic Justice League

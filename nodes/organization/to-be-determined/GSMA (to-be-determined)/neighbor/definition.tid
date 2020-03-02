@@ -1,17 +1,17 @@
-config.central-topic:171584df-33fd-45cb-9529-efbf1a44ba87
+config.central-topic:c28fef68-19e9-4294-870f-4477f4cd0ad3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021491
-id:9e72394b-f314-45eb-9dde-39ff1aae9765
+created:1582954316213
+id:d689f5b6-d4c9-46af-9545-ab9ef8330944
 isview:false
-map.base:171584df-33fd-45cb-9529-efbf1a44ba87
+map.base:c28fef68-19e9-4294-870f-4477f4cd0ad3
 map.role:definition
 map.type:neighbor
-modified:1582720021491
+modified:1582954316213
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA (to-be-determined)
-tmap.id:9e72394b-f314-45eb-9dde-39ff1aae9765
+tmap.id:d689f5b6-d4c9-46af-9545-ab9ef8330944
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GSMA (to-be-determined)

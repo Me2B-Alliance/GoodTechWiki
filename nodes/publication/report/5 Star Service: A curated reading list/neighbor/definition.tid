@@ -1,17 +1,17 @@
-config.central-topic:77dc258f-535d-4b48-9f0e-f758b7ccfdcc
+config.central-topic:2b6f2dc8-e206-47f2-990b-13e089ad9ce7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021607
-id:5d6d00df-e7d9-4d73-97cf-ff50af159216
+created:1582954316305
+id:edda3325-3a0e-418a-95f7-3182bad94263
 isview:false
-map.base:77dc258f-535d-4b48-9f0e-f758b7ccfdcc
+map.base:2b6f2dc8-e206-47f2-990b-13e089ad9ce7
 map.role:definition
 map.type:neighbor
-modified:1582720021607
+modified:1582954316305
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/5 Star Service: A curated reading list
-tmap.id:5d6d00df-e7d9-4d73-97cf-ff50af159216
+tmap.id:edda3325-3a0e-418a-95f7-3182bad94263
 type:text/vnd.tiddlywiki
 
 Neighbor Map of 5 Star Service: A curated reading list

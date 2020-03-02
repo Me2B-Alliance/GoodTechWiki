@@ -1,12 +1,12 @@
-created:1582720021590
-filter:[field:tmap.id[bc0a50d6-f7a1-4f25-a979-14f11439f24a]]
-map.base:bc0a50d6-f7a1-4f25-a979-14f11439f24a
+created:1582954316288
+filter:[field:tmap.id[4c86cec2-f8f7-488f-a9c4-d5e0839bd2a1]]
+map.base:4c86cec2-f8f7-488f-a9c4-d5e0839bd2a1
 map.role:node-filter
 map.type:neighbor
-modified:1582720021590
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Analyzing Privacy Policies at Scale: From Crowdsourcing to Automated Annotations/filter/nodes
-tmap.id:1ca8eb6b-5e5b-4dc9-9eb8-d1e9955cfdb1
+tmap.id:4eafa451-2d3d-4cd1-9a93-f4f2514e1d13
 type:text/vnd.tiddlywiki
 
 No body provided

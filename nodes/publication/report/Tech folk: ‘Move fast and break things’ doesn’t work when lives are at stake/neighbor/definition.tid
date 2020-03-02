@@ -1,17 +1,17 @@
-config.central-topic:5e9afde2-c3f5-4b21-a8d7-cd979cd50d53
+config.central-topic:f5d067ed-ba0a-4f52-a1e4-aeff24e1f78e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021640
-id:a7116512-53e7-41e5-9c89-ae4360d5c27b
+created:1582954316330
+id:9e942e87-b956-4114-90a7-41c56546884a
 isview:false
-map.base:5e9afde2-c3f5-4b21-a8d7-cd979cd50d53
+map.base:f5d067ed-ba0a-4f52-a1e4-aeff24e1f78e
 map.role:definition
 map.type:neighbor
-modified:1582720021640
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech folk: ‘Move fast and break things’ doesn’t work when lives are at stake
-tmap.id:a7116512-53e7-41e5-9c89-ae4360d5c27b
+tmap.id:9e942e87-b956-4114-90a7-41c56546884a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tech folk: ‘Move fast and break things’ doesn’t work when lives are at stake

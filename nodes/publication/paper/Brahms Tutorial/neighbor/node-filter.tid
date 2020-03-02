@@ -1,12 +1,12 @@
-created:1582720021591
-filter:[field:tmap.id[999a552c-7455-4e6d-be5c-e9a64bc9f0de]]
-map.base:999a552c-7455-4e6d-be5c-e9a64bc9f0de
+created:1582954316295
+filter:[field:tmap.id[8713eabf-4b79-4059-a34a-8f89a9c80a3a]]
+map.base:8713eabf-4b79-4059-a34a-8f89a9c80a3a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021591
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Brahms Tutorial/filter/nodes
-tmap.id:a1167a10-da02-4163-b56c-f9306db50a54
+tmap.id:a689b0f6-865f-4c9e-8367-ab62f656855f
 type:text/vnd.tiddlywiki
 
 No body provided

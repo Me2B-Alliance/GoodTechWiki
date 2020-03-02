@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003344
+created:1582954204511
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003344
+modified:1582954204511
 name:Web Authentication API
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Web Authentication API
-tmap.edges:{"854bfba3-20e5-46e3-9dbc-2013e881c84c":{"to":"e062a5a7-322b-45a5-ba54-2fa66e64c7ac","type":"organization-for-group"}}
-tmap.id:ebd5bf08-16d8-482f-863c-f7fea8d5b51c
+tmap.edges:{"12ab49cd-b8e5-49bf-8375-0ad3abed8546":{"to":"39a7440f-080c-4ef2-9576-0b28536cc72f","type":"organization-for-group"}}
+tmap.id:bc71ac4d-6246-4e8a-9dc8-3beaa32ab2a4
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/tr/2016/wd-webauthn-20160902/
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

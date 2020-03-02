@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003343
+created:1582954204510
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003343
+modified:1582954204510
 name:Identification cards – Thin flexible cards (15457)
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Thin flexible cards (15457)
-tmap.edges:{"2d0dc8d7-c384-4974-8b4b-462dd503a3d1":{"to":"333a2663-73ee-4d9e-af49-350a3f2d1e64","type":"specification-of-group"}}
-tmap.id:f50f9c4c-3658-46a6-9b8f-1fb417e0c010
+tmap.edges:{"ef41565f-57b9-44b2-aa09-86303ed44b53":{"to":"2d1b400e-a16c-484b-9611-33303752d1cf","type":"specification-of-group"}}
+tmap.id:0ba3b23b-e71b-4a63-b126-d7953126ac5f
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -26,4 +26,6 @@ volume.frequency:
 working.group:
 
 Thin flexible cards, the subject of this International Standard, are used to automate the controls for access to goods or services such as mass transit, highway toll systems, car parks vouchers, stored value, etc.
+
+
 

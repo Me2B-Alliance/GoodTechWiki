@@ -1,12 +1,12 @@
-created:1582720021687
+created:1582954316368
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:de4a8bdc-4af7-42fd-954e-cfec74051754
+map.base:5308360e-7736-4959-a017-16944139dbff
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021687
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Google my Bubul/filter/edges
-tmap.id:13145364-1640-4ceb-92dd-259db1675e0a
+tmap.id:f56d0a0f-586a-4fb4-a13e-e7df3269775d
 type:text/vnd.tiddlywiki
 
 No body provided

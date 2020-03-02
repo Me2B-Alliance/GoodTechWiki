@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[joan donovan]] [[brian friedberg]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Source Hacking: Media Manipulation in Practice
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[media manipulation]]
+tags:[[media manipulation (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Source Hacking: Media Manipulation in Practice
 tmap.edges:{}
-tmap.id:5de981b1-24da-46fd-a2c0-37d1659ff84c
+tmap.id:991fc228-f7bf-46f3-bd35-318b247dcf57
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/source-hacking-media-manipulation-in-practice/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Source Hacking details the techniques used by media manipulators to target journalists and other influential public figures to pick up falsehoods and unknowingly amplify them to the public.
+
+
 

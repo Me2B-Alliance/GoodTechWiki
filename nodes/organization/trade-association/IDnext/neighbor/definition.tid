@@ -1,17 +1,17 @@
-config.central-topic:f8454b9b-f01e-449e-8cf8-ce3a2c74f1ce
+config.central-topic:e58269f6-8e06-4022-bba8-53fdfa1c9364
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021515
-id:0a74785b-3de0-4ad3-ae4a-64e19fd6e7d3
+created:1582954316225
+id:cf0448d8-9249-4678-bd3d-891abd4e74e5
 isview:false
-map.base:f8454b9b-f01e-449e-8cf8-ce3a2c74f1ce
+map.base:e58269f6-8e06-4022-bba8-53fdfa1c9364
 map.role:definition
 map.type:neighbor
-modified:1582720021515
+modified:1582954316225
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDnext
-tmap.id:0a74785b-3de0-4ad3-ae4a-64e19fd6e7d3
+tmap.id:cf0448d8-9249-4678-bd3d-891abd4e74e5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IDnext

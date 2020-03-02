@@ -1,12 +1,12 @@
-created:1582720021437
+created:1582954316175
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b848c536-11de-4397-b0e3-972d1a5106c6
+map.base:685189f3-4fd7-4f3c-9931-9c3fdf63a6e8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021437
+modified:1582954316175
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consult Hyperion/filter/edges
-tmap.id:e66a8966-8cc1-4bcd-8fcb-a462d96951f4
+tmap.id:e6672cef-54ef-432b-8f43-afd3522783d8
 type:text/vnd.tiddlywiki
 
 No body provided

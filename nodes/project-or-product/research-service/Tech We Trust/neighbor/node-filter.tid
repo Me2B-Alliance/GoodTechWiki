@@ -1,12 +1,12 @@
-created:1582720021561
-filter:[field:tmap.id[aaa11b5b-f3a8-4479-a294-4292d4a814b7]]
-map.base:aaa11b5b-f3a8-4479-a294-4292d4a814b7
+created:1582954316261
+filter:[field:tmap.id[b5354804-ad14-407d-bd34-f9be58be3c7b]]
+map.base:b5354804-ad14-407d-bd34-f9be58be3c7b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021561
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech We Trust/filter/nodes
-tmap.id:1575d08b-71ea-4a56-94a4-e84f21beaf02
+tmap.id:74851448-58a1-4e61-a63e-d64e797469ce
 type:text/vnd.tiddlywiki
 
 No body provided

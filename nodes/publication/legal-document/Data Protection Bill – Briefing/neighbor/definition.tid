@@ -1,17 +1,17 @@
-config.central-topic:02ca9191-4223-4f43-8a36-8968a1c50a2f
+config.central-topic:54ffb4fe-d326-4a97-845b-79d4cbe2553e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021579
-id:6b8a5b63-7338-4852-8d59-fb73985d0745
+created:1582954316277
+id:05400574-21aa-4a73-beb5-cf97e4a002f8
 isview:false
-map.base:02ca9191-4223-4f43-8a36-8968a1c50a2f
+map.base:54ffb4fe-d326-4a97-845b-79d4cbe2553e
 map.role:definition
 map.type:neighbor
-modified:1582720021579
+modified:1582954316277
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing
-tmap.id:6b8a5b63-7338-4852-8d59-fb73985d0745
+tmap.id:05400574-21aa-4a73-beb5-cf97e4a002f8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Protection Bill – Briefing

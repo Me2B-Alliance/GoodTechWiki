@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204540
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204540
 org.name:Platform Identity Management Nederland (PIMN)
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Platform Identity Management Nederland (PIMN)
-tmap.edges:{"1b7f1884-4285-4313-a9a7-d35a56c50450":{"to":"9acccb76-1e72-4022-9ce1-c2b7b04877f1","type":"sponsor"},"60136bbe-7a82-43af-bc4e-b04d11e409a0":{"to":"55c14f7d-1890-4a4f-af61-f3a328ec8b4c","type":"executive-member"}}
-tmap.id:d7f979c4-1fe4-410e-b690-bb445261e33e
+tmap.edges:{"715f867a-bc9f-49ff-a8b1-57c1d1b6e952":{"to":"dd41e857-f10a-442e-ac78-116afe8d7a85","type":"sponsor"},"be951c6d-cf4d-4ea9-8566-bc36c11cd787":{"to":"bd830828-0f85-438f-8c65-ce386d89c661","type":"executive-member"}}
+tmap.id:da95c345-76f9-4190-8796-ed6a18a10cf5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

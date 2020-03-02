@@ -1,17 +1,17 @@
-config.central-topic:d6a24bda-1307-4744-87e3-479c90c826cc
+config.central-topic:78bc7cfb-7a80-43c2-9e3e-c56b4c83bff9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021535
-id:e4148b38-cb79-4191-a6b9-01f742c8f4b5
+created:1582954316240
+id:72e2ba28-3245-49ef-8ee7-b5cfc555a534
 isview:false
-map.base:d6a24bda-1307-4744-87e3-479c90c826cc
+map.base:78bc7cfb-7a80-43c2-9e3e-c56b4c83bff9
 map.role:definition
 map.type:neighbor
-modified:1582720021535
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mike Jones
-tmap.id:e4148b38-cb79-4191-a6b9-01f742c8f4b5
+tmap.id:72e2ba28-3245-49ef-8ee7-b5cfc555a534
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mike Jones

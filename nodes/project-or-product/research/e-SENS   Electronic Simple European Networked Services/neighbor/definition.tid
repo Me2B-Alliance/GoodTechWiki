@@ -1,17 +1,17 @@
-config.central-topic:0b975138-f2e1-444a-9bfa-fc8816e6b4fe
+config.central-topic:dcce6699-284e-4315-b3ad-9b1116221084
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021553
-id:cbcebd64-f4b2-448d-95b1-4c951457c181
+created:1582954316261
+id:68cbe3eb-9dc4-48e5-8891-14b0c2894a69
 isview:false
-map.base:0b975138-f2e1-444a-9bfa-fc8816e6b4fe
+map.base:dcce6699-284e-4315-b3ad-9b1116221084
 map.role:definition
 map.type:neighbor
-modified:1582720021553
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/e-SENS   Electronic Simple European Networked Services
-tmap.id:cbcebd64-f4b2-448d-95b1-4c951457c181
+tmap.id:68cbe3eb-9dc4-48e5-8891-14b0c2894a69
 type:text/vnd.tiddlywiki
 
 Neighbor Map of e-SENS   Electronic Simple European Networked Services

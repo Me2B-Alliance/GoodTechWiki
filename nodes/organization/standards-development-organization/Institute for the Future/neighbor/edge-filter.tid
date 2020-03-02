@@ -1,12 +1,12 @@
-created:1582720021484
+created:1582954316208
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a44778ee-9c80-4fa7-a956-e6c6cda81654
+map.base:ea8874ad-e7d9-4b00-922f-f4261ea5bfaf
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021484
+modified:1582954316208
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Institute for the Future/filter/edges
-tmap.id:f453fe4c-419d-493e-a120-fde3fb85b3af
+tmap.id:769f05b3-7401-4d26-bb73-fa0bbf622ad8
 type:text/vnd.tiddlywiki
 
 No body provided

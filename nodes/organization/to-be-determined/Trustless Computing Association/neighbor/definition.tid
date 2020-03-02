@@ -1,17 +1,17 @@
-config.central-topic:469a88a0-3a99-4531-94c8-b7515c11aa7a
+config.central-topic:fce68e3e-7e8b-47ef-9b3a-17bd2d85fe4c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021500
-id:537aeaee-a451-4358-8e10-897490e1da58
+created:1582954316219
+id:366a5eb4-41a7-41ac-8365-d7bac353c9e6
 isview:false
-map.base:469a88a0-3a99-4531-94c8-b7515c11aa7a
+map.base:fce68e3e-7e8b-47ef-9b3a-17bd2d85fe4c
 map.role:definition
 map.type:neighbor
-modified:1582720021500
+modified:1582954316219
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Association
-tmap.id:537aeaee-a451-4358-8e10-897490e1da58
+tmap.id:366a5eb4-41a7-41ac-8365-d7bac353c9e6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trustless Computing Association

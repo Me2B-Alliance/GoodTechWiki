@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003352
+category:[[research]]
+created:1582954204518
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003352
+modified:1582954204518
 name:SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe]]
 terms.of.service:
 tiddler.classification:node
 title:SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade
-tmap.edges:{"82782a92-b97d-4000-847f-d0e1adbad1dc":{"to":"55c14f7d-1890-4a4f-af61-f3a328ec8b4c","type":"executive-member"},"301cfa63-554e-4841-8b02-0a1fc19b069d":{"to":"a83c8231-5abd-441c-b9f9-08a46c251b43","type":"convenor"}}
-tmap.id:e51e5306-00b7-4bdc-bb36-242020a9b6b8
+tmap.edges:{"380d296a-bf56-4365-8ec4-1d5e586ad6ec":{"to":"bd830828-0f85-438f-8c65-ce386d89c661","type":"executive-member"},"eef733e4-b70b-40ea-abb0-60532efd4d1d":{"to":"88f9d20a-5b78-464e-9819-f59da1829aa0","type":"convenor"}}
+tmap.id:c9119330-495d-4252-855d-b606654e42a2
 type:text/vnd.tiddlywiki
 url:http://www.ssedic2020.eu
 version.or.edition:
@@ -44,4 +44,6 @@ SSEDIC.2020 will develop strategic actions plans responding to eIDAS and the SSE
 * private sector adoption
 * harmonizing mobile authentication mechanisms suitable for eID use
 * coordinated approach to education in the mobile identity domains
+
+
 

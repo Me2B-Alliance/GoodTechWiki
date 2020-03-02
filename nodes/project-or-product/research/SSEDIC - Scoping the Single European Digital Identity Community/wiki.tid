@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003350
+category:[[research]]
+created:1582954204517
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003350
+modified:1582954204517
 name:SSEDIC - Scoping the Single European Digital Identity Community
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe|over]]
 terms.of.service:
 tiddler.classification:node
 title:SSEDIC - Scoping the Single European Digital Identity Community
-tmap.edges:{"aa75a93c-4b73-4cf2-b8ae-e8d0d225bd1a":{"to":"e51e5306-00b7-4bdc-bb36-242020a9b6b8","type":"connection"}}
-tmap.id:b33e970d-0136-4955-b51e-489e83f7e264
+tmap.edges:{"eccaea0d-0289-41f1-b23b-76cd8e765cf4":{"to":"c9119330-495d-4252-855d-b606654e42a2","type":"connection"}}
+tmap.id:10c403d6-6a00-4438-aee2-aedb09801ffe
 type:text/vnd.tiddlywiki
 url:http://www.eid-ssedic.eu
 version.or.edition:
@@ -32,4 +32,6 @@ working.group:
 SSEDIC (“Scoping the Single European Digital Identity Community”) has concluded intensive 3‐year consultation period together with over 200 European and international eID experts and many stakeholder organizations to establish recommendations that address key issues regarding the usability and interoperability of electronic identity management solutions. The resulting recommendations and associated roadmap shall support the European Commission to set priorities for the path towards a Single European Digital Identity Community and the Horizon 2020.
 The key areas that need to be addressed as a priority are: Mobile Identity; Attribute Usage; Authentication; and Liability (see figure below). The Impact of the recommendation has been assessed for the areas of Public and Private Cooperation, eID governance, Standards, and Education.
 [SEDDIC Memorandum](http://www.ssedic2020.eu/images/stories/pdf/presentation/SSEDIC%20Memorandum.pdf)
+
+
 

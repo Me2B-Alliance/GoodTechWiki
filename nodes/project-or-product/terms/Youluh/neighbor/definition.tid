@@ -1,17 +1,17 @@
-config.central-topic:2cb529fe-c8c7-4d47-9ef5-f18412b04203
+config.central-topic:ce3ede1a-8643-48f1-85fe-a7ddf2174011
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021567
-id:6b938e70-9fca-4414-99f8-7468cda08d80
+created:1582954316271
+id:95c5cda6-aea7-4146-9500-c4365bd6273d
 isview:false
-map.base:2cb529fe-c8c7-4d47-9ef5-f18412b04203
+map.base:ce3ede1a-8643-48f1-85fe-a7ddf2174011
 map.role:definition
 map.type:neighbor
-modified:1582720021567
+modified:1582954316271
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Youluh
-tmap.id:6b938e70-9fca-4414-99f8-7468cda08d80
+tmap.id:95c5cda6-aea7-4146-9500-c4365bd6273d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Youluh

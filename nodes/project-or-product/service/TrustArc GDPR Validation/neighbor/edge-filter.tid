@@ -1,12 +1,12 @@
-created:1582720021558
+created:1582954316265
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:45417ec6-d207-4644-b477-35dabc4217bd
+map.base:ee38a9ab-a4f2-4f6f-8410-8a7bed4d56d1
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021558
+modified:1582954316265
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc GDPR Validation/filter/edges
-tmap.id:62a2c5b2-0083-46a6-865a-6199be4746d4
+tmap.id:4d40a658-cd1d-4368-9a9b-4bb4341359fc
 type:text/vnd.tiddlywiki
 
 No body provided

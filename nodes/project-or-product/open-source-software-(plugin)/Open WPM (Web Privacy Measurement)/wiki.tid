@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[open source]] [[software (plugin)]]
-created:1582720003597
+category:[[software (plugin)]] [[open source]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:https://github.com/mozilla/OpenWPM
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Open WPM (Web Privacy Measurement)
 parent.org:Mozilla Foundation
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Open WPM (Web Privacy Measurement)
 tmap.edges:{}
-tmap.id:22939f07-68e4-4c8f-bad9-163599cd4d44
+tmap.id:b641bfe7-df4e-4862-a1f7-cdaecc19b4a8
 type:text/vnd.tiddlywiki
 url:https://github.com/mozilla/OpenWPM
 version.or.edition:
 working.group:
 
 OpenWPM is a web privacy measurement framework which makes it easy to collect data for privacy studies on a scale of thousands to millions of websites. OpenWPM is built on top of Firefox: with automation provided by Selenium. It includes several hooks for data collection. Check out the instrumentation section below for more details.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:a3ce4e13-ce80-4090-8edf-35486b5dbe9b
+config.central-topic:f512c30a-70b9-497c-8225-303814e78830
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021589
-id:bceb2d4d-6459-4363-9435-e7564555d9cf
+created:1582954316286
+id:0691c2e3-be76-4e4f-ad9b-cea7509ab79f
 isview:false
-map.base:a3ce4e13-ce80-4090-8edf-35486b5dbe9b
+map.base:f512c30a-70b9-497c-8225-303814e78830
 map.role:definition
 map.type:neighbor
-modified:1582720021589
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ActivityPub: From Decentralized to Distributed Social Cetworks
-tmap.id:bceb2d4d-6459-4363-9435-e7564555d9cf
+tmap.id:0691c2e3-be76-4e4f-ad9b-cea7509ab79f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ActivityPub: From Decentralized to Distributed Social Cetworks

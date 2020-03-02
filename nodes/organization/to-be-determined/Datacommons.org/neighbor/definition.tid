@@ -1,17 +1,17 @@
-config.central-topic:6ecb317c-1f1b-47b0-8710-82e435610402
+config.central-topic:a3b8cf67-354c-48e5-b610-7f92cb0329ce
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021488
-id:f231f685-6255-4e37-b7aa-b59a79f71f0c
+created:1582954316211
+id:0e8fb6dc-c501-4355-8198-8d31f3d772a1
 isview:false
-map.base:6ecb317c-1f1b-47b0-8710-82e435610402
+map.base:a3b8cf67-354c-48e5-b610-7f92cb0329ce
 map.role:definition
 map.type:neighbor
-modified:1582720021488
+modified:1582954316211
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Datacommons.org
-tmap.id:f231f685-6255-4e37-b7aa-b59a79f71f0c
+tmap.id:0e8fb6dc-c501-4355-8198-8d31f3d772a1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Datacommons.org

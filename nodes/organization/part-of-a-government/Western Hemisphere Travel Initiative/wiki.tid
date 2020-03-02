@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003368
+created:1582954204536
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003368
+modified:1582954204536
 org.name:Western Hemisphere Travel Initiative
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Western Hemisphere Travel Initiative
-tmap.edges:{"c7ae9a66-dd9d-48e6-b3e4-754a68502d91":{"to":"a82057ae-b79a-42c0-b727-74aa690121a9","type":"government-connection"},"a9d4908e-7b7e-4195-ac6d-ae949b5faf22":{"to":"4b1d159a-98d9-4842-a676-80d6a645d4a1","type":"government-connection"}}
-tmap.id:13f24441-3f6a-465e-9fc3-30b7f3a5ed5a
+tmap.edges:{"bf416701-96e7-4f76-b8a5-3634c21f2aab":{"to":"9f89d36b-4d29-44e0-b9d6-d9961b765612","type":"government-connection"},"1bfe4d65-1673-4170-8911-838a98785885":{"to":"08f762c0-7b65-4c75-a406-664bc80df1f0","type":"government-connection"}}
+tmap.id:21db4ba5-ac7d-46c6-8cd9-9feec3bcdf62
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative
+
+
 
 
 

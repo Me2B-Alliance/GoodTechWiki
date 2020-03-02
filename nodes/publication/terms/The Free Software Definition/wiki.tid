@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[richard stallman]]
-created:1582720003598
+created:1582954204775
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003598
+modified:1582954204775
 name:The Free Software Definition
 publication.type:terms
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:The Free Software Definition
 tmap.edges:{}
-tmap.id:70c9cefe-1c91-4d3b-b916-f599ef7c7af3
+tmap.id:27f62f83-11a1-4b8e-aeb5-0bea76780a85
 type:text/vnd.tiddlywiki
 url:https://www.gnu.org/philosophy/free-sw.html
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 The free software definition presents the criteria for whether a particular software program qualifies as free software. From time to time we revise this definition, to clarify it or to resolve questions about subtle issues. See the History section below for a list of changes that affect the definition of free software.
 
 “Open source” is something different: it has a very different philosophy based on different values. Its practical definition is different too, but nearly all open source programs are in fact free. We explain the difference in Why “Open Source” misses the point of Free Software.
+
+
 

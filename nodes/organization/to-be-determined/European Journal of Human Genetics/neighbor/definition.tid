@@ -1,17 +1,17 @@
-config.central-topic:1516dbd0-30ac-4e38-bbbc-5ba0f45aeba4
+config.central-topic:1cd8932d-44ee-4d8f-8192-d7f1f5565b45
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021490
-id:68236cc1-1915-40ec-8854-7e1dcf38df20
+created:1582954316212
+id:684c4919-0fdb-4a7f-8a02-5526239af671
 isview:false
-map.base:1516dbd0-30ac-4e38-bbbc-5ba0f45aeba4
+map.base:1cd8932d-44ee-4d8f-8192-d7f1f5565b45
 map.role:definition
 map.type:neighbor
-modified:1582720021490
+modified:1582954316212
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Journal of Human Genetics
-tmap.id:68236cc1-1915-40ec-8854-7e1dcf38df20
+tmap.id:684c4919-0fdb-4a7f-8a02-5526239af671
 type:text/vnd.tiddlywiki
 
 Neighbor Map of European Journal of Human Genetics

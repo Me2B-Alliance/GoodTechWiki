@@ -1,17 +1,17 @@
-config.central-topic:9b10215b-b868-4e3c-9895-70511678d2cb
+config.central-topic:f19b5227-e7d1-4ece-bc26-12e7cb6d5547
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021682
-id:26aef97c-478d-45bd-9ed7-f11832e570c5
+created:1582954316363
+id:0849a575-8956-4c71-8012-05ce80b8ecdc
 isview:false
-map.base:9b10215b-b868-4e3c-9895-70511678d2cb
+map.base:f19b5227-e7d1-4ece-bc26-12e7cb6d5547
 map.role:definition
 map.type:neighbor
-modified:1582720021682
+modified:1582954316363
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt
-tmap.id:26aef97c-478d-45bd-9ed7-f11832e570c5
+tmap.id:0849a575-8956-4c71-8012-05ce80b8ecdc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt

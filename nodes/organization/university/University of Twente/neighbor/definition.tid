@@ -1,17 +1,17 @@
-config.central-topic:cc66a39e-c553-4862-8b3f-5e70f9a465db
+config.central-topic:f5944c40-6964-4b8e-b8ac-8d26e279b4d7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021528
-id:7000636b-bb16-40fe-aa79-386139cc2939
+created:1582954316235
+id:8c13f61d-7fbc-4f24-8c8a-29b7cf761117
 isview:false
-map.base:cc66a39e-c553-4862-8b3f-5e70f9a465db
+map.base:f5944c40-6964-4b8e-b8ac-8d26e279b4d7
 map.role:definition
 map.type:neighbor
-modified:1582720021528
+modified:1582954316235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Twente
-tmap.id:7000636b-bb16-40fe-aa79-386139cc2939
+tmap.id:8c13f61d-7fbc-4f24-8c8a-29b7cf761117
 type:text/vnd.tiddlywiki
 
 Neighbor Map of University of Twente

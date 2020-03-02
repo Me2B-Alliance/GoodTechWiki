@@ -1,17 +1,17 @@
-config.central-topic:f263f568-9c80-435c-b522-3046499a7565
+config.central-topic:7b5ec5c1-d304-438a-b68b-c5d8feb717ae
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021550
-id:ea2e32d5-fea9-4138-99ac-80e3ce2be8f6
+created:1582954316258
+id:c2aad30f-1462-4ca9-8bd1-cb757e8cd53f
 isview:false
-map.base:f263f568-9c80-435c-b522-3046499a7565
+map.base:7b5ec5c1-d304-438a-b68b-c5d8feb717ae
 map.role:definition
 map.type:neighbor
-modified:1582720021550
+modified:1582954316258
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Meaningful Consent in the Digital Economy (MCDE)
-tmap.id:ea2e32d5-fea9-4138-99ac-80e3ce2be8f6
+tmap.id:c2aad30f-1462-4ca9-8bd1-cb757e8cd53f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Meaningful Consent in the Digital Economy (MCDE)

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003371
+created:1582954204539
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003371
+modified:1582954204539
 org.name:Internet Security Research Groups ISRG
 org.type:trade association
 parent.org:
@@ -28,7 +28,7 @@ tech.focus:
 tiddler.classification:node
 title:Internet Security Research Groups ISRG
 tmap.edges:{}
-tmap.id:8b3f2f87-0cab-44d6-abac-7dabe60c3b2b
+tmap.id:18ef6ce1-74c5-4677-aae9-0090220ce6f7
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://letsencrypt.org/isrg/
@@ -36,4 +36,6 @@ website:https://letsencrypt.org/isrg/
 ISRG is a California public benefit corporation, and is recognized by the IRS as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. ISRG’s mission is to reduce financial, technological, and education barriers to secure communication over the Internet.
 
 ISRG is proudly sponsored by a diverse group of organizations, from non-profits to Fortune 100 companies. We believe we can set an example for how everyone interested in a more secure Internet can work together to provide digital infrastructure for the public’s benefit. See this page for more on our sponsors.
+
+
 

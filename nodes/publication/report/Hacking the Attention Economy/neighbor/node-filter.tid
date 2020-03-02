@@ -1,12 +1,12 @@
-created:1582720021626
-filter:[field:tmap.id[23c99d8a-7d21-42af-83d9-7cef029361ee]]
-map.base:23c99d8a-7d21-42af-83d9-7cef029361ee
+created:1582954316319
+filter:[field:tmap.id[7e6901f0-082b-4edd-a525-b76483767681]]
+map.base:7e6901f0-082b-4edd-a525-b76483767681
 map.role:node-filter
 map.type:neighbor
-modified:1582720021626
+modified:1582954316319
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hacking the Attention Economy/filter/nodes
-tmap.id:a220815c-1876-4af4-ac1d-4ed97be807b5
+tmap.id:80c0cb5b-37b2-4c02-b806-66d57166f045
 type:text/vnd.tiddlywiki
 
 No body provided

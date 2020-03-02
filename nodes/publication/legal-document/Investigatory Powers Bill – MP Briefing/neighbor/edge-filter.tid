@@ -1,12 +1,12 @@
-created:1582720021581
+created:1582954316279
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dff1eac7-b041-4e7c-9e01-9797527b5e3e
+map.base:561ae480-6a97-413c-ab87-67e003c2950d
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021581
+modified:1582954316279
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Investigatory Powers Bill – MP Briefing/filter/edges
-tmap.id:f19fd4a7-13d9-4603-a295-ac30575b6ce7
+tmap.id:368593fb-2d96-4ef9-8fe0-fffaaa0ccbd3
 type:text/vnd.tiddlywiki
 
 No body provided

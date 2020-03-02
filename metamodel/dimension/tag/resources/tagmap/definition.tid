@@ -1,0 +1,16 @@
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582965000947
+id:09b431fc-a41d-49ce-ac11-fd17505f73f1
+isview:false
+map.base:0ffd95b7-e42a-4094-b649-05cfbf84d9d1
+map.role:definition
+map.type:tagmap
+modified:1582965000947
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/resources
+tmap.id:09b431fc-a41d-49ce-ac11-fd17505f73f1
+type:text/vnd.tiddlywiki
+
+Tag Map of resources

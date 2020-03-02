@@ -1,6 +1,6 @@
 activities:
-category:w/in a working group
-created:1582720003328
+category:[[w/in a working group]]
+created:1582954204495
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003328
+modified:1582954204495
 name:Security Evaluation, Testing and Specification WG3
 parent.org:ISO/IEC JTC1/SC17
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Security Evaluation, Testing and Specification WG3
-tmap.edges:{"cd08aab8-9997-484c-8cd3-7633e0d55b48":{"to":"1dffc408-db8d-4580-ae04-400a2e5bc81e","type":"organization-for-group"}}
-tmap.id:de22b4cf-1d84-4c09-aaa5-b91e82fcc59c
+tmap.edges:{"d763376e-c687-40f0-9985-cbe58b78d740":{"to":"b5f5fa7e-2e8e-46b7-896b-d79f5ea7ee27","type":"organization-for-group"}}
+tmap.id:47379ded-6397-4d7f-84c9-6f78197390e4
 type:text/vnd.tiddlywiki
 url:
 
@@ -35,4 +35,6 @@ The following aspects may be distinguished:
 
 This work will reflect the needs of relevant sectors in society, as represented through ISO/IEC National Bodies and other organizations in liaison, expressed in standards for security functionality and assurance.
 Account will be taken of related ISO/IEC and ISO standards for quality management and testing so as not to duplicate these efforts.
+
+
 

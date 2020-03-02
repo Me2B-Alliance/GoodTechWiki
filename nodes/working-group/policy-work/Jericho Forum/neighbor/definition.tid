@@ -1,17 +1,17 @@
-config.central-topic:d9727810-37ed-44f8-b626-0d99e9ac1c05
+config.central-topic:b58c77ed-1304-40ef-8d6b-6baa3ef02a54
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021694
-id:810a8f7b-7d7b-4c81-966e-8b673a376d32
+created:1582954316376
+id:d446b2e3-f2f1-45a4-bbc5-a828bcf418c8
 isview:false
-map.base:d9727810-37ed-44f8-b626-0d99e9ac1c05
+map.base:b58c77ed-1304-40ef-8d6b-6baa3ef02a54
 map.role:definition
 map.type:neighbor
-modified:1582720021694
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Jericho Forum
-tmap.id:810a8f7b-7d7b-4c81-966e-8b673a376d32
+tmap.id:d446b2e3-f2f1-45a4-bbc5-a828bcf418c8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Jericho Forum

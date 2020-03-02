@@ -1,0 +1,12 @@
+created:1582965000923
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:d3af1dac-fe82-45f2-bc14-2b79827b447b
+map.role:edge-filter
+map.type:tagmap
+modified:1582965000923
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/health care/filter/edges
+tmap.id:42e8fdd3-6328-49d3-86a7-0ccbba664906
+type:text/vnd.tiddlywiki
+
+No body provided

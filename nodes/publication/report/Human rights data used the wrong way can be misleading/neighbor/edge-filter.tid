@@ -1,12 +1,12 @@
-created:1582720021627
+created:1582954316320
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1ca70500-d089-4280-86b0-f03872246894
+map.base:832604c4-3367-441c-b20e-2dfe2c76f4b9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021627
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human rights data used the wrong way can be misleading/filter/edges
-tmap.id:ea2b6f4a-16f8-4460-b8ee-907390c35324
+tmap.id:e3238bc3-90e2-4855-872c-2c3735be1d39
 type:text/vnd.tiddlywiki
 
 No body provided

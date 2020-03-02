@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:IPLD as a general pattern for DID documents and Verifiable Claims
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:IPLD as a general pattern for DID documents and Verifiable Claims
 tmap.edges:{}
-tmap.id:9b07376e-70db-4b89-9e53-8d40e40fb05e
+tmap.id:368692e8-415d-4cfb-92df-318aba2393eb
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Since the emergence of the Decentralized Identifer (DID) specifcation at the Fall 2016 Rebooting the Web of Trust[1], numerous DID method specifcations have appeared. Each DID method specifcation defnes how to resolve a cryptographically-tied DID document given a method-specifc identifer. In this paper, we describe a wayto represent the DID document as a content-addressed Merkle Directed Acyclic Graph (DAG) using Interplanetary Linked Data (IPLD). This technique enables more cost-efcient, scaleable creation of DIDs and canbe applied across diferent DID method specifcations.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:bce2654b-1694-43de-bdda-82bf20067926
+config.central-topic:d8d91b74-958f-46a4-9295-617dd7c1f643
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021432
-id:fef4e659-b2b5-4693-a3e1-1a171f76d860
+created:1582954316171
+id:ae3f1f72-2731-4621-b59d-0018c0be5644
 isview:false
-map.base:bce2654b-1694-43de-bdda-82bf20067926
+map.base:d8d91b74-958f-46a4-9295-617dd7c1f643
 map.role:definition
 map.type:neighbor
-modified:1582720021432
+modified:1582954316171
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines
-tmap.id:fef4e659-b2b5-4693-a3e1-1a171f76d860
+tmap.id:ae3f1f72-2731-4621-b59d-0018c0be5644
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines

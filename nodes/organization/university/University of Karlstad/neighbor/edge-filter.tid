@@ -1,12 +1,12 @@
-created:1582720021528
+created:1582954316237
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:57740b5e-acff-4a73-9a75-cb3ca55e1cff
+map.base:cac8fc83-fb46-48fd-a3ec-eaf12a7cd410
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021528
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Karlstad/filter/edges
-tmap.id:c4ded515-9fd2-4ad1-94a1-84a8d7e465cd
+tmap.id:aab4889f-a64a-4909-a4da-d0ede6162693
 type:text/vnd.tiddlywiki
 
 No body provided

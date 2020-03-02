@@ -1,7 +1,7 @@
 activities:[[outreach]]
 audience:
-category:research
-created:1582720003597
+category:[[research]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Expedite Project
 parent.org:EXPEDiTE
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Expedite Project
 tmap.edges:{}
-tmap.id:0223a5f5-715f-4656-b44e-7a40216abe53
+tmap.id:d5fff437-240d-4632-a4c9-3421e273fe39
 type:text/vnd.tiddlywiki
 url:https://www.expedite-project.eu/
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
 The full title of the project is “EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems: Empowering humans in the age of the GDPR – A Roadmap for Austria“. The Vienna University of Economics and Business (WU Wien), the Vienna University of Technology (TU Wien) and OwnYourData are the project  partners in this project which is funded by the Austrian Research Promotion Agency (FFG). Here is a short description of the project:
 
 In our increasingly digital societies, data is perceived as a key resource for economic growth. Among the highest-valued corporations today, many have business models that are essentially based on data of or about their users. This development has raised serious concerns about individuals’ right to privacy and their ability to exercise control over their own data, as well as about the broader shifts of power between data subjects and data controllers that this development entails. Consequently, European policy makers have passed the General Data Protection Regulation (GDPR), which has imposed stricter regulations on personal data handling practices within the EU.
+
+
 

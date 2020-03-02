@@ -1,12 +1,12 @@
-created:1582720021705
-filter:[field:tmap.id[740687b4-11e2-439b-9cdc-4e3eada229b8]]
-map.base:740687b4-11e2-439b-9cdc-4e3eada229b8
+created:1582954316386
+filter:[field:tmap.id[ea4f668f-e3c4-4d0f-a43f-b3494867f909]]
+map.base:ea4f668f-e3c4-4d0f-a43f-b3494867f909
 map.role:node-filter
 map.type:neighbor
-modified:1582720021705
+modified:1582954316386
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eGov Working Group/filter/nodes
-tmap.id:92640410-c4df-416d-99cc-996200a14c6a
+tmap.id:1e8a92c3-72ef-4105-a92d-29528f3a5a6f
 type:text/vnd.tiddlywiki
 
 No body provided

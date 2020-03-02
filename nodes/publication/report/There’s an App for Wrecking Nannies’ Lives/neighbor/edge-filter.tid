@@ -1,12 +1,12 @@
-created:1582720021644
+created:1582954316336
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b6d79eac-fdf4-4dab-a84d-9466c4e43d49
+map.base:2f37b887-2200-4bfc-94a6-a4b7747a5a48
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021644
+modified:1582954316336
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/There’s an App for Wrecking Nannies’ Lives/filter/edges
-tmap.id:91dda6e8-4561-4193-898d-5591d1cf9c30
+tmap.id:0ebddb4e-a91e-4032-bc97-02765dc81651
 type:text/vnd.tiddlywiki
 
 No body provided

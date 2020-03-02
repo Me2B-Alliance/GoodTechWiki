@@ -1,17 +1,17 @@
-config.central-topic:020de534-b15d-4bc7-8919-cfbdaaf930ef
+config.central-topic:f6812aa3-c3eb-47ae-9fc3-c427c2e72343
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021556
-id:c9413560-7d8f-463b-9c5a-5e21bf4e5f51
+created:1582954316263
+id:3d18acfa-1ca7-4ae0-ac04-a729158e2413
 isview:false
-map.base:020de534-b15d-4bc7-8919-cfbdaaf930ef
+map.base:f6812aa3-c3eb-47ae-9fc3-c427c2e72343
 map.role:definition
 map.type:neighbor
-modified:1582720021556
+modified:1582954316263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open your Italian VAT online
-tmap.id:c9413560-7d8f-463b-9c5a-5e21bf4e5f51
+tmap.id:3d18acfa-1ca7-4ae0-ac04-a729158e2413
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open your Italian VAT online

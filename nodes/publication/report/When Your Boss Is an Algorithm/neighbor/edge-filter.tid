@@ -1,12 +1,12 @@
-created:1582720021647
+created:1582954316339
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f76bfa3e-ea6d-4d5e-8b3e-e32b6d65e228
+map.base:374e0578-4753-4920-86e2-53c4cbcbdf48
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021647
+modified:1582954316339
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/When Your Boss Is an Algorithm/filter/edges
-tmap.id:98d63b70-f374-42d3-b7d9-b3e2c339447f
+tmap.id:97d0b267-28fd-4845-a9e0-a06ed94bebdb
 type:text/vnd.tiddlywiki
 
 No body provided

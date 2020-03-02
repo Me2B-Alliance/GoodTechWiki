@@ -1,12 +1,12 @@
-created:1582720021703
-filter:[field:tmap.id[6769925c-e10d-4f1c-8dc8-3371ab829120]]
-map.base:6769925c-e10d-4f1c-8dc8-3371ab829120
+created:1582954316384
+filter:[field:tmap.id[e3c9dd96-06eb-46b8-b47d-150536ba562a]]
+map.base:e3c9dd96-06eb-46b8-b47d-150536ba562a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021703
+modified:1582954316384
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust Elevation TC/filter/nodes
-tmap.id:cad1c1d4-0f34-4020-bd3c-c5648b4ea865
+tmap.id:a28ce2c9-66e0-414f-a586-68a3cfc287da
 type:text/vnd.tiddlywiki
 
 No body provided

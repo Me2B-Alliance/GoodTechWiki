@@ -1,17 +1,17 @@
-config.central-topic:22345452-d65a-4619-8ccf-3c9eeec2ce0e
+config.central-topic:d7a3ff43-55ae-4334-bd70-fc0cc471d593
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021581
-id:3dd872f4-f345-416b-8a06-81716ed110a1
+created:1582954316279
+id:ac15a65c-ae9a-491f-9612-e82a48afb163
 isview:false
-map.base:22345452-d65a-4619-8ccf-3c9eeec2ce0e
+map.base:d7a3ff43-55ae-4334-bd70-fc0cc471d593
 map.role:definition
 map.type:neighbor
-modified:1582720021581
+modified:1582954316279
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Implications of AI in the UK – Big Brother Watch’s written evidence to the Lords Select Committee on Artificial Intelligence
-tmap.id:3dd872f4-f345-416b-8a06-81716ed110a1
+tmap.id:ac15a65c-ae9a-491f-9612-e82a48afb163
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Implications of AI in the UK – Big Brother Watch’s written evidence to the Lords Select Committee on Artificial Intelligence

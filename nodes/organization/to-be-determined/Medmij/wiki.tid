@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Medmij
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Medmij
 tmap.edges:{}
-tmap.id:5e2b123d-905c-4a33-87c3-f3bf33f37096
+tmap.id:3a9ef8f4-3689-44cf-8dc9-9b1cb90776d4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.medmij.nl/en/
@@ -40,4 +40,6 @@ MedMij is the standard in the Netherlands for the secure exchange of health data
 
 The MedMij label stands for the secure and reliable exchange of health data within MedMij’s stringent parameters.
 This label is available for apps, websites or personal health environments (PHE) that demonstrably meet MedMij’s criteria. The label is also visible to health care providers or other healthcare professionals who exchange details through MedMij.
+
+
 

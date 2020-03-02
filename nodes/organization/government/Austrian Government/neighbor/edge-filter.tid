@@ -1,12 +1,12 @@
-created:1582720021459
+created:1582954316188
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e34df583-731d-43f0-a14a-60d427447ae0
+map.base:c1c08cb8-41e5-468a-87d7-5e718fafad21
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021459
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Austrian Government/filter/edges
-tmap.id:ca7cd2cc-0d43-4bc2-ab0d-5a4f75750450
+tmap.id:14ca6e58-712b-487d-a6a7-733f90de4a4f
 type:text/vnd.tiddlywiki
 
 No body provided

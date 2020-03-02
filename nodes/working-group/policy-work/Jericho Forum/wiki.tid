@@ -1,6 +1,6 @@
 activities:
-category:policy work
-created:1582720003329
+category:[[policy work]]
+created:1582954204496
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003329
+modified:1582954204496
 name:Jericho Forum
 parent.org:Global Identity Foundation
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Jericho Forum
-tmap.edges:{"49459127-725d-47f2-9ce0-c191ac486f90":{"to":"f674b714-c297-431c-b81d-7ff3222a6728","type":"organization-for-group"},"450dffdd-4f67-458a-817d-fb18a1a92de8":{"to":"83e85544-b3b8-439d-ba7b-8aa363df1324","type":"connection"},"1e97345b-98d4-4a53-addf-21eb0d36012a":{"to":"73936de7-44dc-4ab3-8bb5-402fcba434f2","type":"author"}}
-tmap.id:d9727810-37ed-44f8-b626-0d99e9ac1c05
+tmap.edges:{"03467e9a-1919-4460-8c15-ae1ec5cee9ad":{"to":"95d4065d-daf6-4767-8f58-5b436aa5bd90","type":"organization-for-group"},"c2a7a87a-2594-42c4-a9eb-b8355abcd5ca":{"to":"bbade2c7-04da-4dae-aaa7-051aded4bcaa","type":"connection"},"fc27b7bb-310d-4bc1-b622-6704de28bb47":{"to":"df036fc9-d52f-48de-996b-072396bab7c5","type":"author"}}
+tmap.id:b58c77ed-1304-40ef-8d6b-6baa3ef02a54
 type:text/vnd.tiddlywiki
 url:
 
 Jericho Forum is the leading international IT security thought-leadership association dedicated to advancing secure business in a global open-network environment. Members include top IT security officers from multi-national Fortune 500s & entrepreneurial user companies, major security vendors, government, & academics. Working together, members drive approaches and standards for a secure, collaborative online business world.
+
+
 

@@ -1,0 +1,17 @@
+config.central-topic:58e21941-a000-4029-abec-8877ca2a34b7
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316213
+id:664a6e14-2707-4f70-b6a7-d3ab45e447ed
+isview:false
+map.base:58e21941-a000-4029-abec-8877ca2a34b7
+map.role:definition
+map.type:neighbor
+modified:1582954316213
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Google (to-be-determined)
+tmap.id:664a6e14-2707-4f70-b6a7-d3ab45e447ed
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Google (to-be-determined)

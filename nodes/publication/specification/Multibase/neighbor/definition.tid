@@ -1,17 +1,17 @@
-config.central-topic:5abfd5df-1d65-4d7c-9d8c-9d2b1acc9b64
+config.central-topic:6466b5d5-535a-4640-8310-57a6c39d22b3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021658
-id:11f9eefc-18b7-4160-a978-64f2770e1031
+created:1582954316347
+id:5c41a9f9-5d0f-491e-ae1f-30b292215078
 isview:false
-map.base:5abfd5df-1d65-4d7c-9d8c-9d2b1acc9b64
+map.base:6466b5d5-535a-4640-8310-57a6c39d22b3
 map.role:definition
 map.type:neighbor
-modified:1582720021658
+modified:1582954316347
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Multibase
-tmap.id:11f9eefc-18b7-4160-a978-64f2770e1031
+tmap.id:5c41a9f9-5d0f-491e-ae1f-30b292215078
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Multibase

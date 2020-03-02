@@ -1,12 +1,12 @@
-created:1582720021520
-filter:[field:tmap.id[e4989877-b239-49d9-8f69-5810945b1373]]
-map.base:e4989877-b239-49d9-8f69-5810945b1373
+created:1582954316235
+filter:[field:tmap.id[a51ac316-ab92-446e-9a59-1bb7a0fcbb50]]
+map.base:a51ac316-ab92-446e-9a59-1bb7a0fcbb50
 map.role:node-filter
 map.type:neighbor
-modified:1582720021520
+modified:1582954316235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Signature Initiative/filter/nodes
-tmap.id:a72a7d64-978d-4813-91c6-a9d5ce957f3a
+tmap.id:bc5a2da2-f8ff-4ee5-ac34-5d77d093725a
 type:text/vnd.tiddlywiki
 
 No body provided

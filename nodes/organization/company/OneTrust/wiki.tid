@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003389
+created:1582954204558
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003389
+modified:1582954204558
 org.name:OneTrust
 org.type:company
 parent.org:
@@ -27,12 +27,14 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OneTrust
-tmap.edges:{"05d9a643-2c87-4980-819b-37ec1e60f0ea":{"to":"48affdce-dfa2-4b66-b513-73b775c3c4c2","type":"sponsor"}}
-tmap.id:18523689-84d1-4ebf-ab69-b47c52a04515
+tmap.edges:{"a558b8d1-745b-4b71-b4a8-e12c3c4a594c":{"to":"b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8","type":"sponsor"}}
+tmap.id:c103028a-0d55-4749-8885-6ccb55c4c770
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://onetrust.com
 
 The Leading Software Platform to Operationalize Data Privacy Compliance and Privacy by Design
 OneTrust is an enterprise software platform for data privacy compliance. We help organizations make sure their people are doing what their privacy policies say they do.
+
+
 

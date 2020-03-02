@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:White Papers
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:White Papers
 tmap.edges:{}
-tmap.id:86105f49-a453-49b0-af18-d5bbaddae4bf
+tmap.id:859bfde4-bfe0-4e8d-873d-288b3317bf43
 type:text/vnd.tiddlywiki
 url:https://www.weboftrust.info/papers.html
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 This is categorized list of papers produced by the Rebooting the Web of Trust design workshops is complete through RWOT-VII. For more recent papers, see our past events page.
+
+
 

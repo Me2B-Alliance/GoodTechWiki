@@ -1,12 +1,12 @@
-created:1582720021469
+created:1582954316196
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2446dddc-0c07-43d3-adff-8a9117fbd841
+map.base:e55d73b5-9d06-47de-a148-a2130e7e58d5
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021469
+modified:1582954316196
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The IO Foundation/filter/edges
-tmap.id:5ae2f2fb-50f9-44ff-8804-c9890ec86041
+tmap.id:b4dec485-30b4-4620-a695-3cdf4759a2ac
 type:text/vnd.tiddlywiki
 
 No body provided

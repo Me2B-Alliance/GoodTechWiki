@@ -1,17 +1,17 @@
-config.central-topic:9c8695be-2d2f-4d5e-a226-d3ec30cef920
+config.central-topic:d212106d-73af-4b43-88d6-d215531d30cd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021595
-id:22ed77b0-cc6c-4e6a-a7ed-526e713e73d9
+created:1582954316295
+id:70549876-6bfc-4b42-bd13-d1860c45e64e
 isview:false
-map.base:9c8695be-2d2f-4d5e-a226-d3ec30cef920
+map.base:d212106d-73af-4b43-88d6-d215531d30cd
 map.role:definition
 map.type:neighbor
-modified:1582720021595
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Grime and Punishment: Job Insecurity and Wage Arrears in the Russian Federation
-tmap.id:22ed77b0-cc6c-4e6a-a7ed-526e713e73d9
+tmap.id:70549876-6bfc-4b42-bd13-d1860c45e64e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Grime and Punishment: Job Insecurity and Wage Arrears in the Russian Federation

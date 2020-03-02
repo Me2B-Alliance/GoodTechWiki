@@ -1,17 +1,17 @@
-config.central-topic:6748b788-ea2a-46ae-826a-3663eae1400d
+config.central-topic:d87f7b00-40fe-484d-99b8-f6d808242d8c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021603
-id:34fe6cb8-88cd-44d4-9e64-60b1e42d9582
+created:1582954316302
+id:2e489b0d-10f0-43f6-971d-c96de59d3a54
 isview:false
-map.base:6748b788-ea2a-46ae-826a-3663eae1400d
+map.base:d87f7b00-40fe-484d-99b8-f6d808242d8c
 map.role:definition
 map.type:neighbor
-modified:1582720021603
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Resource Integrity Proofs
-tmap.id:34fe6cb8-88cd-44d4-9e64-60b1e42d9582
+tmap.id:2e489b0d-10f0-43f6-971d-c96de59d3a54
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Resource Integrity Proofs

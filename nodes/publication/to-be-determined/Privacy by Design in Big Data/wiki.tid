@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003356
+created:1582954204523
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003356
+modified:1582954204523
 name:Privacy by Design in Big Data
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Privacy by Design in Big Data
 tmap.edges:{}
-tmap.id:9e560f21-7131-404c-ad80-805bc0ac8f68
+tmap.id:bd2179b8-6606-415e-b61e-43a9fee6c0d7
 type:text/vnd.tiddlywiki
 url:https://www.enisa.europa.eu/publications/big-data-protection
 version.or.edition:
@@ -26,4 +26,6 @@ volume.frequency:
 working.group:
 
 The extensive collection and further processing of personal information in the context of big data analytics has given rise to serious privacy concerns, especially relating to wide scale electronic surveillance, profiling, and disclosure of private data. In order to allow for all the benefits of analytics without invading individuals’ private sphere, it is of utmost importance to draw the limits of big data processing and integrate the appropriate data protection safeguards in the core of the analytics value chain. ENISA, with the current report, aims at supporting this approach, taking the position that, with respect to the underlying legal obligations, the challenges of technology (for big data) should be addressed by the opportunities of technology (for privacy).
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021487
+created:1582954316210
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e4513e23-2e5d-4047-95e5-bba40209a204
+map.base:603a4daa-08f1-4219-918b-dd8990cb4d18
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021487
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Berkman Klein Center for Internet and Society at Harvard University/filter/edges
-tmap.id:4fedec65-7cb2-4ca5-b0d6-983a0ce06234
+tmap.id:35308e41-c82b-436c-a19c-f198a6587a6e
 type:text/vnd.tiddlywiki
 
 No body provided

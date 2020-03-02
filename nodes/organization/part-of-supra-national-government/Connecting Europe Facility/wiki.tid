@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204531
 org.name:Connecting Europe Facility
 org.type:part of supra-national government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Connecting Europe Facility
-tmap.edges:{"9894e9bf-9e6f-495d-99d9-2af45179ea25":{"to":"d024b042-f727-4789-b33e-1676e9bfc7ff","type":"government-connection"},"87ea42da-4585-482c-a00a-d7e22a01314b":{"to":"4bdbc77f-9ae5-452d-b3ed-8c682ae91f05","type":"government-connection"},"25c3ec8d-81ae-4916-b347-6f25c40abd68":{"to":"68c59e7d-2484-4661-916b-94bb6c1c8bac","type":"government-connection"},"44d093e9-e22f-4921-b039-c093494aadb9":{"to":"4e82b8a3-9bed-4e82-bb38-9be5b7b23e94","type":"funding-flow"}}
-tmap.id:34e1e197-d99d-4079-b9fc-c331552fb8e1
+tmap.edges:{"8700ccac-d05b-40cb-b92f-de52977e470d":{"to":"d5bb210d-2b22-43f1-a8d7-6ba35adc3d20","type":"government-connection"},"88b659ed-26ca-4e05-a183-e986397e6916":{"to":"9b55c085-e8d7-414d-8c2d-52849920495d","type":"government-connection"},"4bb33209-7866-4d38-82b8-fa6bb7ae26a0":{"to":"550c7a5f-d61a-48f6-bb52-ab0e8358542a","type":"government-connection"},"fc619e7c-9f87-4789-a50e-c6217df3278f":{"to":"9a83d46f-e528-429f-96c8-329876be975c","type":"funding-flow"}}
+tmap.id:bdf0ac24-4e1c-4c01-b628-5a85dd0156d7
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ec.europa.eu/digital-single-market/en/connecting-europe-facility
@@ -36,4 +36,6 @@ website:https://ec.europa.eu/digital-single-market/en/connecting-europe-facility
 The digital economy can expand markets and foster more and better services, offer more choice and create new employment. Bringing down the barriers that are holding the EU digital single market back could contribute an additional EUR 415 billion to EU GDP.
 
 The Connecting Europe Facility (CEF) supports trans- European networks and infrastructures in the sectors of transport, telecommunications and energy. In this context the European Commission has proposed for the first time a series of guidelines covering the objectives and priorities for broadband networks and digital service infrastructures in the field of telecommunications.
+
+
 

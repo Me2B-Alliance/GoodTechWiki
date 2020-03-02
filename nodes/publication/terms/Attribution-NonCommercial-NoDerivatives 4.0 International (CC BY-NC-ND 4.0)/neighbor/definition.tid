@@ -1,17 +1,17 @@
-config.central-topic:1e01eb8c-b635-4413-9a84-46fdf527d785
+config.central-topic:c70acadc-32b5-4512-9f62-8232733cf21f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021673
-id:c0df416a-170e-45d3-a79a-3fd4a47f0490
+created:1582954316356
+id:fe4e4e73-36c9-4335-89e5-78b4d765a4af
 isview:false
-map.base:1e01eb8c-b635-4413-9a84-46fdf527d785
+map.base:c70acadc-32b5-4512-9f62-8232733cf21f
 map.role:definition
 map.type:neighbor
-modified:1582720021673
+modified:1582954316356
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-tmap.id:c0df416a-170e-45d3-a79a-3fd4a47f0490
+tmap.id:fe4e4e73-36c9-4335-89e5-78b4d765a4af
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)

@@ -1,17 +1,17 @@
-config.central-topic:c04153ef-b9cd-420c-b895-0dd0903b9a98
+config.central-topic:ea241c6f-a0af-4492-9fa0-945258a3abda
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021576
-id:db2a75f6-6b40-40c5-8eea-8ba74d992e6c
+created:1582954316275
+id:34c5a86c-daf8-4a33-8992-24edb4ec6aa3
 isview:false
-map.base:c04153ef-b9cd-420c-b895-0dd0903b9a98
+map.base:ea241c6f-a0af-4492-9fa0-945258a3abda
 map.role:definition
 map.type:neighbor
-modified:1582720021576
+modified:1582954316275
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Justice Principles
-tmap.id:db2a75f6-6b40-40c5-8eea-8ba74d992e6c
+tmap.id:34c5a86c-daf8-4a33-8992-24edb4ec6aa3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Design Justice Principles

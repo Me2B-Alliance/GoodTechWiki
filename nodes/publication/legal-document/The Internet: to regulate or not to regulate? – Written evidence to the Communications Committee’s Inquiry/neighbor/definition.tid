@@ -1,17 +1,17 @@
-config.central-topic:9cf3cf9a-2f5c-4d89-ae9f-f1700f9fa233
+config.central-topic:99b09916-3bba-4da9-8d04-0825953ff3a3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021583
-id:85f341c0-4f3b-4e27-bbd9-23c2b71d313e
+created:1582954316280
+id:6acf6fdf-3747-4e13-8930-11b70f7247ee
 isview:false
-map.base:9cf3cf9a-2f5c-4d89-ae9f-f1700f9fa233
+map.base:99b09916-3bba-4da9-8d04-0825953ff3a3
 map.role:definition
 map.type:neighbor
-modified:1582720021583
+modified:1582954316280
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet: to regulate or not to regulate? – Written evidence to the Communications Committee’s Inquiry
-tmap.id:85f341c0-4f3b-4e27-bbd9-23c2b71d313e
+tmap.id:6acf6fdf-3747-4e13-8930-11b70f7247ee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Internet: to regulate or not to regulate? – Written evidence to the Communications Committee’s Inquiry

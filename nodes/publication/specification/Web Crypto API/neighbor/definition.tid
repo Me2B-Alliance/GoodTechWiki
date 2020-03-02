@@ -1,17 +1,17 @@
-config.central-topic:a1b4af18-51e6-4b71-ad2f-86b9db7dfe3c
+config.central-topic:888c0541-7e6c-462e-82bd-4a4395d46958
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021663
-id:a748acad-085c-4fb7-9b11-87d095fd51c0
+created:1582954316352
+id:7c142e34-1ef0-4e82-9a1e-1563f3e72a46
 isview:false
-map.base:a1b4af18-51e6-4b71-ad2f-86b9db7dfe3c
+map.base:888c0541-7e6c-462e-82bd-4a4395d46958
 map.role:definition
 map.type:neighbor
-modified:1582720021663
+modified:1582954316352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Web Crypto API
-tmap.id:a748acad-085c-4fb7-9b11-87d095fd51c0
+tmap.id:7c142e34-1ef0-4e82-9a1e-1563f3e72a46
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Web Crypto API

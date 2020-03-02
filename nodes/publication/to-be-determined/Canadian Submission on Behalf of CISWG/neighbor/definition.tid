@@ -1,17 +1,17 @@
-config.central-topic:5c889dfa-8c92-4991-b1b4-02a0e3dd277e
+config.central-topic:9fd99c7c-2cd3-4a15-bcb4-263b6b169988
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021675
-id:b9fe947a-6cce-4978-8232-2296be02402b
+created:1582954316359
+id:a461e313-c1b2-4adf-9b5f-22095419978c
 isview:false
-map.base:5c889dfa-8c92-4991-b1b4-02a0e3dd277e
+map.base:9fd99c7c-2cd3-4a15-bcb4-263b6b169988
 map.role:definition
 map.type:neighbor
-modified:1582720021675
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Submission on Behalf of CISWG
-tmap.id:b9fe947a-6cce-4978-8232-2296be02402b
+tmap.id:a461e313-c1b2-4adf-9b5f-22095419978c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Canadian Submission on Behalf of CISWG

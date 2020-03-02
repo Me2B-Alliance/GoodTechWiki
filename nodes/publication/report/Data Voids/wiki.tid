@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[michael golebiewski]] [[danah boyd]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Data Voids
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[media manipulation]]
+tags:[[media manipulation (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Data Voids
 tmap.edges:{}
-tmap.id:2213343a-8fdc-479f-a5c1-9195621bc347
+tmap.id:cca0041b-9af8-498e-a31f-b1f7b6030c77
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/data-voids/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Data Voids demonstrates how manipulators expose people to problematic content by exploiting search engine results.
+
+
 

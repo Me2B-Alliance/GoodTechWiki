@@ -1,12 +1,12 @@
-created:1582720021544
+created:1582954316255
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:50ada2d3-ecee-4ad4-ae91-f9ea23032f06
+map.base:1e6a2104-d41b-485d-a84d-801eb3327e91
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021544
+modified:1582954316255
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fairness in Algorithmic Machine Translation/filter/edges
-tmap.id:4d763333-9199-4a3d-a280-ffcead952934
+tmap.id:a3838db1-57d7-4073-855a-4e2691399894
 type:text/vnd.tiddlywiki
 
 No body provided

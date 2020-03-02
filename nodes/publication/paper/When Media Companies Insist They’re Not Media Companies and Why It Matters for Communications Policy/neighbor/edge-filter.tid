@@ -1,12 +1,12 @@
-created:1582720021606
+created:1582954316304
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:999fcd25-0701-4af8-bad3-5222bcb15ab5
+map.base:4f3345ac-6e7b-450b-a380-068662711875
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021606
+modified:1582954316304
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/When Media Companies Insist They’re Not Media Companies and Why It Matters for Communications Policy/filter/edges
-tmap.id:bece430c-c2af-4587-99e4-8c7f974d8983
+tmap.id:224e1196-d5b3-45da-ac62-71d0dfdbd78d
 type:text/vnd.tiddlywiki
 
 No body provided

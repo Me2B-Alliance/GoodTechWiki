@@ -1,12 +1,12 @@
-created:1582720021550
+created:1582954316258
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f263f568-9c80-435c-b522-3046499a7565
+map.base:7b5ec5c1-d304-438a-b68b-c5d8feb717ae
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021550
+modified:1582954316258
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Meaningful Consent in the Digital Economy (MCDE)/filter/edges
-tmap.id:dda7b408-474b-466a-9461-b43c998aca08
+tmap.id:f0894fa8-e762-4193-a2ac-8ecd88fbfa44
 type:text/vnd.tiddlywiki
 
 No body provided

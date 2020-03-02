@@ -1,13 +1,13 @@
 audience:
-category:to be determined
-created:1582720003380
+category:[[to be determined]]
+created:1582954204549
 date:
 element.type:event
 frequency:
 github.profile:
 host.organization:Open Identity Exchange
 location(s):
-modified:1582720003380
+modified:1582954204549
 name:International Identity Law and Policy Workshop
 partners:
 people:
@@ -15,8 +15,8 @@ relevant.publications:
 tags:
 tiddler.classification:node
 title:International Identity Law and Policy Workshop
-tmap.edges:{"fc5abf9e-7647-4c45-98e4-638ed19bd27b":{"to":"3af10ad0-a77e-4145-a2db-21d99cd6cec9","type":"author"}}
-tmap.id:5bd836be-9532-47c4-858a-7f49567d9c45
+tmap.edges:{"9fa68f97-a6ba-44f8-aab2-855d3f3524d4":{"to":"caa00e47-1a6b-4221-9e61-7299ff697afa","type":"author"}}
+tmap.id:d1a3833f-548b-4f18-a62c-2c31ae30ec83
 type:text/vnd.tiddlywiki
 website:http://openidentityexchange.org/2016/01/international-identity-law-policy-workshop/
 working.group:
@@ -33,4 +33,6 @@ and the following planned or proposed projects to develop new identity managemen
 The goal of the meeting was to discuss the direction that such new identity management legislation should take, the issues it should address, and desired approaches.
 A key theme reiterated throughout the event was the importance of focusing on outcome-based legislation. Participants voiced concern that legislation prescribing a specific technical process to implement identity standards would hinder innovation and ultimately prevent the success of a new legal regime.
 This Report summarizes at a high-level the robust, thought-provoking and productive discussion in which the participants engaged.
+
+
 

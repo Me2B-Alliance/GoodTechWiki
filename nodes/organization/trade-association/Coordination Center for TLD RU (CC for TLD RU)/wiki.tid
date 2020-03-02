@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003375
+created:1582954204543
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003375
+modified:1582954204543
 org.name:Coordination Center for TLD RU (CC for TLD RU)
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Coordination Center for TLD RU (CC for TLD RU)
-tmap.edges:{"6d1dd2bf-b4b6-45fc-81f8-8ae7f3df25fa":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:f3eca9c4-5cc5-40d9-9563-4705f1c8d0d3
+tmap.edges:{"bd49273a-00db-410c-bec1-4935dac8230b":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:330c9377-a3ff-49a4-969f-9b50d5969e28
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

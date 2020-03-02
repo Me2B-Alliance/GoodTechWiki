@@ -1,12 +1,12 @@
-created:1582720021695
-filter:[field:tmap.id[8bc54891-c80d-4618-87f8-d42f5f2ca4c9]]
-map.base:8bc54891-c80d-4618-87f8-d42f5f2ca4c9
+created:1582954316377
+filter:[field:tmap.id[2a682d47-153e-4d44-91c4-72a282870b91]]
+map.base:2a682d47-153e-4d44-91c4-72a282870b91
 map.role:node-filter
 map.type:neighbor
-modified:1582720021695
+modified:1582954316377
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CBOR Object Signing and Encryption (COSE)/filter/nodes
-tmap.id:fd38596a-93c7-4096-92b1-2bc20485c4b2
+tmap.id:45afe528-d36d-427b-99c1-6fa435f42ddc
 type:text/vnd.tiddlywiki
 
 No body provided

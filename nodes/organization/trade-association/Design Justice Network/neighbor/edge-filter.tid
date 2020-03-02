@@ -1,12 +1,12 @@
-created:1582720021509
+created:1582954316224
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:318877c2-dd9c-4082-bed6-184f46eb18d5
+map.base:57dce14b-b86d-4d26-8dcc-153576be1b71
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021509
+modified:1582954316224
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Design Justice Network/filter/edges
-tmap.id:94e10b86-77db-4cd6-9ebe-be585846215e
+tmap.id:b1a724b6-0863-409d-9e22-ec3a0e1527ba
 type:text/vnd.tiddlywiki
 
 No body provided

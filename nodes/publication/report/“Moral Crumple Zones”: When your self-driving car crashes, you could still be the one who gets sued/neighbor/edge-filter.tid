@@ -1,12 +1,12 @@
-created:1582720021606
+created:1582954316340
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f6268959-d313-40aa-995d-e5d29483a190
+map.base:9c72f1f5-6eea-4c59-a075-9946da6e3f74
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021606
+modified:1582954316340
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/“Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued/filter/edges
-tmap.id:ebe4df93-82c6-4ae3-9d69-7b0ac2a00a70
+tmap.id:62a6bbc8-a369-42e9-b3c9-470ff644469d
 type:text/vnd.tiddlywiki
 
 No body provided

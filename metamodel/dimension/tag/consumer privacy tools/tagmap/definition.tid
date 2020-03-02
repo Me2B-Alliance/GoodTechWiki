@@ -1,0 +1,16 @@
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582965000937
+id:50c8a5f7-fc59-4a15-85d8-92f3120b7c4e
+isview:false
+map.base:5d09dcd8-4006-4143-97c0-24bb203cf387
+map.role:definition
+map.type:tagmap
+modified:1582965000937
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/consumer privacy tools
+tmap.id:50c8a5f7-fc59-4a15-85d8-92f3120b7c4e
+type:text/vnd.tiddlywiki
+
+Tag Map of consumer privacy tools

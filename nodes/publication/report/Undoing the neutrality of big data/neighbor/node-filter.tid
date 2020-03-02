@@ -1,12 +1,12 @@
-created:1582720021645
-filter:[field:tmap.id[455742a6-d403-412d-8e46-d05bc92879ea]]
-map.base:455742a6-d403-412d-8e46-d05bc92879ea
+created:1582954316337
+filter:[field:tmap.id[e9626c09-a43b-4f22-8c88-6862b7c75c5c]]
+map.base:e9626c09-a43b-4f22-8c88-6862b7c75c5c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021645
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Undoing the neutrality of big data/filter/nodes
-tmap.id:c14b388c-d4cb-42fb-b91a-61b0406f8420
+tmap.id:fc5b79b6-95de-424f-9ab5-bd157de9fa84
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021428
+created:1582954316170
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:abd2578b-872c-49f4-b613-2b7732e71a6c
+map.base:64a9e0c8-1ec5-4f75-b501-8fd8f390c29d
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021428
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACM Conference on Fairness, Accountability, and Transparency/filter/edges
-tmap.id:63b4ccc9-3398-46cd-b9ac-f9f04431c419
+tmap.id:96d52f80-4578-4e72-acdf-7381f9a25826
 type:text/vnd.tiddlywiki
 
 No body provided

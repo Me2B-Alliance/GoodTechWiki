@@ -1,12 +1,12 @@
-created:1582720021577
+created:1582954316276
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0f95a277-afff-4dfc-869d-f25a28a1627d
+map.base:6ed281d4-a427-43bb-91b3-abccae802e19
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021577
+modified:1582954316276
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/English French Dictionary on Data Protection/filter/edges
-tmap.id:66cc70cb-3e97-4eb6-b45d-c8a729e37de5
+tmap.id:d81489ff-9568-44fe-aefc-b19834e0bda7
 type:text/vnd.tiddlywiki
 
 No body provided

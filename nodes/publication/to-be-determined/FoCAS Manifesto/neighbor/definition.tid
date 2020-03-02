@@ -1,17 +1,17 @@
-config.central-topic:43c615ed-885b-48e7-9449-4e2fc7c0145f
+config.central-topic:56db6fc6-280c-4055-a586-a18439996fdb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021676
-id:0932d1c4-258c-4f56-a1cb-a2c8e77c6803
+created:1582954316359
+id:6ff86e45-cd61-498b-8ffc-0b4132dbea58
 isview:false
-map.base:43c615ed-885b-48e7-9449-4e2fc7c0145f
+map.base:56db6fc6-280c-4055-a586-a18439996fdb
 map.role:definition
 map.type:neighbor
-modified:1582720021676
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FoCAS Manifesto
-tmap.id:0932d1c4-258c-4f56-a1cb-a2c8e77c6803
+tmap.id:6ff86e45-cd61-498b-8ffc-0b4132dbea58
 type:text/vnd.tiddlywiki
 
 Neighbor Map of FoCAS Manifesto

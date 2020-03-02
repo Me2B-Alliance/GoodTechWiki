@@ -1,17 +1,17 @@
-config.central-topic:3cad3f08-5eb5-44f6-ba9c-23cbdeafa898
+config.central-topic:074d1d79-3844-4a0a-b63f-e31cd20a2f1d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021510
-id:ccb07f3c-bb6e-4c78-8ce5-d2e9075f2bde
+created:1582954316223
+id:2a3a2113-8d59-45ea-a1fb-a9b2a165f843
 isview:false
-map.base:3cad3f08-5eb5-44f6-ba9c-23cbdeafa898
+map.base:074d1d79-3844-4a0a-b63f-e31cd20a2f1d
 map.role:definition
 map.type:neighbor
-modified:1582720021510
+modified:1582954316223
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ETSI  The European Telecommunications Standards Institute
-tmap.id:ccb07f3c-bb6e-4c78-8ce5-d2e9075f2bde
+tmap.id:2a3a2113-8d59-45ea-a1fb-a9b2a165f843
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ETSI  The European Telecommunications Standards Institute

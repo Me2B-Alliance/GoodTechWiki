@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[kanthashree mysore sathyendra]] [[abhilasha ravichander]] [[peter garth story]] [[alan w black]] [[norman sadeh]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:Helping Users Understand Privacy Notices with Automated Question Answering Functionality: An Exploratory Study
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Helping Users Understand Privacy Notices with Automated Question Answering Functionality: An Exploratory Study
 tmap.edges:{}
-tmap.id:378efde8-d867-49fc-af5d-8e56a0ec9b11
+tmap.id:653e954d-c2c4-4b24-81f5-0746b20b5ca7
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/static/files/CMU-ISR-17-114R.pdf
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Carnegie Mellon University Technical Report CMU-ISR-17-114R and CMU-LTI-17-005, Institute for Software Research and Language Technologies Institute, School of Computer Science, Dec 2017
 
 Privacy  notices  are  the  default  mechanism  used  to  inform  users  about  the  datacollection and use practices of technologies (e.g., websites, mobile apps, Internet ofThings devices) and processes with which they interact.  The length of these policiesand their often convoluted language have been shown to discourage most users fromreading them.  Recent progress in natural language processing and machine learninghas opened the door to the development of technologies that are capable of automati-cally extracting statements (or “annotations”) from the text of privacy policies.  Thesetechnologies could help users quickly identify those elements of a privacy notice theycare about - without requiring them to read the full text of the notice.In  this  article,  we  review  the  requirements  associated  with  the  development  ofQuery Answering functionality that would enable users to ask questions about spe-cific aspects of privacy notices (e.g. Does this app share my location with third parties?Am I able to review the information this website collects about me?  Can I delete myaccount?   For how long is my information going to be retained by this company?).We  discuss  different  possible  approaches  to  supporting  such  functionality  and  howthey relate to recent advances in automatically annotating privacy notices.  Initial re-sults obtained with different machine learning/natural language processing techniquesare presented, suggesting that Query Answering functionality could be a particularlypromising approach to informing users about privacy practices.  In particular, in con-trast to automated annotation techniques that aim to extract detailed statements fromthe text of privacy notices, Query Answering functionality could be configured to re-turn short text fragments extracted from privacy notices and rely on the user (ratherthan the computer) to interpret some of the finer nuances of the text found in thesefragments. Such an approach could potentially prove more robust than fully automatedannotation techniques,  which at least at this time struggle with the interpretation offiner nuances.
+
+
 

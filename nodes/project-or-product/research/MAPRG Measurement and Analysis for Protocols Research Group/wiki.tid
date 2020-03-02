@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003350
+category:[[research]]
+created:1582954204517
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003350
+modified:1582954204517
 name:MAPRG Measurement and Analysis for Protocols Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:MAPRG Measurement and Analysis for Protocols Research Group
-tmap.edges:{"fbef70b6-6ffb-4612-a464-76a2afee2adf":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
-tmap.id:664607af-43dc-415c-913e-69e79a2e8a83
+tmap.edges:{"0a85266d-01f2-4d2c-8f52-f63c767ae485":{"to":"7a003842-ab2a-422d-b974-3b3d755ccd3a","type":"organization-for-group"}}
+tmap.id:baf73659-3525-4c15-8e05-883b411c92f7
 type:text/vnd.tiddlywiki
 url:https://irtf.org/maprg
 version.or.edition:
@@ -36,4 +36,6 @@ Many protocol engineering efforts in a standards development context, as well as
 * discussion of techniques and best practices for measurement relevant to protocol engineering and network operations;
 * collaborations to share data supporting these measurements; and
 * a “landing pad” for the Internet measurement community to introduce its efforts to the IETF.
+
+
 

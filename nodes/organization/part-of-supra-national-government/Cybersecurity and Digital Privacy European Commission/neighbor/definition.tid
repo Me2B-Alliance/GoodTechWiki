@@ -1,17 +1,17 @@
-config.central-topic:510b80e2-ddb2-4b6b-8324-0c07f34fe41a
+config.central-topic:b43d809b-ef6b-4ab7-89f0-f870ff3581c8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021478
-id:cfdc4023-064e-4bed-813f-8297bc169f5c
+created:1582954316204
+id:2c87e3a9-db6a-4cc3-8d19-6c06aedbb733
 isview:false
-map.base:510b80e2-ddb2-4b6b-8324-0c07f34fe41a
+map.base:b43d809b-ef6b-4ab7-89f0-f870ff3581c8
 map.role:definition
 map.type:neighbor
-modified:1582720021478
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cybersecurity and Digital Privacy European Commission
-tmap.id:cfdc4023-064e-4bed-813f-8297bc169f5c
+tmap.id:2c87e3a9-db6a-4cc3-8d19-6c06aedbb733
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Cybersecurity and Digital Privacy European Commission

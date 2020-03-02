@@ -1,12 +1,12 @@
-created:1582720021708
-filter:[field:tmap.id[96f86bb8-e447-45ee-a45c-5f7cded7f67a]]
-map.base:96f86bb8-e447-45ee-a45c-5f7cded7f67a
+created:1582954316387
+filter:[field:tmap.id[1c21bc7a-5884-4fee-979c-33448e9987d3]]
+map.base:1c21bc7a-5884-4fee-979c-33448e9987d3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021708
+modified:1582954316387
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Terminal Steering Group/filter/nodes
-tmap.id:c2ca0bdd-0626-41dd-a49f-ab81b18aad36
+tmap.id:a4a09c20-7ab2-4b53-baec-d5acf66b1565
 type:text/vnd.tiddlywiki
 
 No body provided

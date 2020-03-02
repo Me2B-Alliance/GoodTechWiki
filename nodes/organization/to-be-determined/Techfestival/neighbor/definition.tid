@@ -1,17 +1,17 @@
-config.central-topic:51180195-7a68-4aa4-82c4-6e3454768807
+config.central-topic:e02d9e1f-270f-40d1-82ce-bf52d3b545cb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021499
-id:74f83b90-d942-4637-982e-0230eb575e42
+created:1582954316218
+id:6449c94d-1c18-4c55-a073-305073a4adc2
 isview:false
-map.base:51180195-7a68-4aa4-82c4-6e3454768807
+map.base:e02d9e1f-270f-40d1-82ce-bf52d3b545cb
 map.role:definition
 map.type:neighbor
-modified:1582720021499
+modified:1582954316218
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Techfestival
-tmap.id:74f83b90-d942-4637-982e-0230eb575e42
+tmap.id:6449c94d-1c18-4c55-a073-305073a4adc2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Techfestival

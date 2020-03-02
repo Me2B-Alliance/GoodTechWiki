@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:WebKMS
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:WebKMS
 tmap.edges:{}
-tmap.id:9a5f840c-93c5-4f88-9323-43b4f2bca62f
+tmap.id:a042b285-8756-4bfd-afae-fa7faf58c756
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/webkms
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 We encourage contributions meeting the Contribution Guidelines. While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the public-credentials mailing list as well.
+
+
 

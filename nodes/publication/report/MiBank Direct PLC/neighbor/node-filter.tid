@@ -1,12 +1,12 @@
-created:1582720021631
-filter:[field:tmap.id[2cb3eeda-4e73-46a2-a3bb-ddfa7c4f2945]]
-map.base:2cb3eeda-4e73-46a2-a3bb-ddfa7c4f2945
+created:1582954316323
+filter:[field:tmap.id[d53f5e8c-0a7f-4bc6-94e6-29a278d87201]]
+map.base:d53f5e8c-0a7f-4bc6-94e6-29a278d87201
 map.role:node-filter
 map.type:neighbor
-modified:1582720021631
+modified:1582954316323
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MiBank Direct PLC/filter/nodes
-tmap.id:eac3bfa3-b1c4-4057-b320-dfd04980947b
+tmap.id:acd30e65-8a16-45cd-bf51-d4d1635d0d38
 type:text/vnd.tiddlywiki
 
 No body provided

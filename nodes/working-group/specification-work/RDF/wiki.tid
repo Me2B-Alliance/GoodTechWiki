@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003333
+category:[[specification work]]
+created:1582954204500
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003333
+modified:1582954204500
 name:RDF
 parent.org:W3C
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:RDF
-tmap.edges:{"42f8462a-ef77-4b67-8d06-969f494b133f":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
-tmap.id:e21a1e50-99ea-404a-851e-6b3e5cde150c
+tmap.edges:{"71e23c3a-3728-4c38-a5a0-7160e3d2949b":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"}}
+tmap.id:22c626ff-45e0-49e3-8f12-914b2b7edbf3
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/2001/sw/wiki/rdf
 
@@ -28,4 +28,6 @@ RDF is a standard model for data interchange on the Web. RDF has features that f
 RDF extends the linking structure of the Web to use URIs to name the relationship between things as well as the two ends of the link (this is usually referred to as a “triple”). Using this simple model, it allows structured and semi-structured data to be mixed, exposed, and shared across different applications.
 
 This linking structure forms a directed, labeled graph, where the edges represent the named link between two resources, represented by the graph nodes. This graph view is the easiest possible mental model for RDF and is often used in easy-to-understand visual explanations.
+
+
 

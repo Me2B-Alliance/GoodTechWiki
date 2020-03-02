@@ -1,17 +1,17 @@
-config.central-topic:bfadac48-3441-40ec-97ba-92091978f4a5
+config.central-topic:4f35df59-ffb7-4e8a-aa73-be3795cdbeab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021497
-id:faac7e91-5b92-496b-9f40-c0989244943c
+created:1582954316217
+id:46631be8-23cb-483e-92d6-739a6c2ffa52
 isview:false
-map.base:bfadac48-3441-40ec-97ba-92091978f4a5
+map.base:4f35df59-ffb7-4e8a-aa73-be3795cdbeab
 map.role:definition
 map.type:neighbor
-modified:1582720021497
+modified:1582954316217
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Powr of you
-tmap.id:faac7e91-5b92-496b-9f40-c0989244943c
+tmap.id:46631be8-23cb-483e-92d6-739a6c2ffa52
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Powr of you

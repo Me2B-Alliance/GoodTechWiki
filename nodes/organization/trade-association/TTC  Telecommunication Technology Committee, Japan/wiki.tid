@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204541
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204541
 org.name:TTC  Telecommunication Technology Committee, Japan
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:TTC  Telecommunication Technology Committee, Japan
-tmap.edges:{"7fda022a-e649-4232-bbf0-337e39434541":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"},"f30e8446-1e84-461b-923b-3320d946c469":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
-tmap.id:00754c38-6554-47f2-b314-33f01dd92cd7
+tmap.edges:{"26cedb32-06a0-47de-9d93-22ee88eabd63":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"},"b8e905e6-d991-4be2-9bfa-9f28a4848192":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"}}
+tmap.id:92c7d796-af61-4be1-9b7c-f09ef5983c4b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.ttc.or.jp/e/
 
 TTC is an incorporated association that contributes to standardization activities in the field of information and communication technology (ICT) by developing and disseminating standards for information and communications networks. It thus participates in the creation of a safe and comfortable society supported by the rapid development of ICTs.
+
+
 

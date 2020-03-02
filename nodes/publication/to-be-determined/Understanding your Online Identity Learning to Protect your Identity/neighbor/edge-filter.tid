@@ -1,12 +1,12 @@
-created:1582720021682
+created:1582954316363
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f838b901-e183-4bc7-8904-e54ad786f7a0
+map.base:b2bbc3d3-cb48-4e07-8601-827df218eade
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021682
+modified:1582954316363
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Understanding your Online Identity Learning to Protect your Identity/filter/edges
-tmap.id:6cce77b6-f71f-4c76-941c-3a022924e322
+tmap.id:a7d1fa9e-d2ba-40a1-9731-b375b82be8b2
 type:text/vnd.tiddlywiki
 
 No body provided

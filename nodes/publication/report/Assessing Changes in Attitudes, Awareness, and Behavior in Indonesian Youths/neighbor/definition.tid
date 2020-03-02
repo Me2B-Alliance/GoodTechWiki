@@ -1,17 +1,17 @@
-config.central-topic:485716c7-bef6-4574-85a9-b3daeb6e52b9
+config.central-topic:afcef338-3476-4f59-bafc-6cfeee46d1fe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021610
-id:ed22e685-76fe-418a-847c-7b93df6075d9
+created:1582954316308
+id:3d3e0ba0-90ca-4910-a762-db5ed9777059
 isview:false
-map.base:485716c7-bef6-4574-85a9-b3daeb6e52b9
+map.base:afcef338-3476-4f59-bafc-6cfeee46d1fe
 map.role:definition
 map.type:neighbor
-modified:1582720021610
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Assessing Changes in Attitudes, Awareness, and Behavior in Indonesian Youths
-tmap.id:ed22e685-76fe-418a-847c-7b93df6075d9
+tmap.id:3d3e0ba0-90ca-4910-a762-db5ed9777059
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Assessing Changes in Attitudes, Awareness, and Behavior in Indonesian Youths

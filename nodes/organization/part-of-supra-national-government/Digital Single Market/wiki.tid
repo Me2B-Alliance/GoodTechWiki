@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003363
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003363
+modified:1582954204531
 org.name:Digital Single Market
 org.type:part of supra-national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Single Market
-tmap.edges:{"9c4aa369-75e6-415b-96c3-3f6fcfd48a56":{"to":"f4ae2824-d0b7-42e6-b9b2-5e4a24e5da8d","type":"government-connection"}}
-tmap.id:7ed1ba84-9b2f-46fe-895d-9cc098dcf818
+tmap.edges:{"c6ec61d0-ada6-4f1a-bb1a-7217c4be9117":{"to":"fa8ac564-0840-40d4-bd7f-0016ea9e9aea","type":"government-connection"}}
+tmap.id:9dc0027a-1dc9-4039-ad08-34da1c722035
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

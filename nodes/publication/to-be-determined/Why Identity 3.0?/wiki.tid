@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003358
+created:1582954204525
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003358
+modified:1582954204525
 name:Why Identity 3.0?
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Why Identity 3.0?
 tmap.edges:{}
-tmap.id:7b9ee2ee-7cfc-45e8-a1a8-23f3ef1377d5
+tmap.id:43091871-ed0c-4056-8347-41011f907578
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -47,4 +47,6 @@ The Identity ecosystem will operate without the need for identity brokers, CA of
 Identity will be simply expandable to encompass the security of data; E-mail (for example) can be encrypted simply by having an entities e-mail attributes shared with them.
 Identity shall be (as much as possible) invisible to the end user; identity and attribute verification and exchange should be a background operation until such time that increased levels of user verification is required.
 Everyone plays their part – no more!
+
+
 

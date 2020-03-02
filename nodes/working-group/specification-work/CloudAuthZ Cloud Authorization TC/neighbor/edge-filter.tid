@@ -1,12 +1,12 @@
-created:1582720021695
+created:1582954316377
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8e956332-c051-474f-9dad-883bd1054fc8
+map.base:ada21bc1-801f-4988-bcfe-7909f7f2f96b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021695
+modified:1582954316377
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CloudAuthZ Cloud Authorization TC/filter/edges
-tmap.id:26ae3d0c-160f-4de9-8ad6-30d695780bf9
+tmap.id:c01fb158-9e6b-483b-9ba2-00d356757bb0
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:daeec858-a5d1-4572-982c-291277653fa8
+config.central-topic:7a2ec7a8-598e-45f1-a189-6e487be68810
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021454
-id:488b09b0-18b1-4483-8d48-a680a510359e
+created:1582954316184
+id:3784781e-cd80-45fb-93dc-466d5146d962
 isview:false
-map.base:daeec858-a5d1-4572-982c-291277653fa8
+map.base:7a2ec7a8-598e-45f1-a189-6e487be68810
 map.role:definition
 map.type:neighbor
-modified:1582720021454
+modified:1582954316184
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustseed
-tmap.id:488b09b0-18b1-4483-8d48-a680a510359e
+tmap.id:3784781e-cd80-45fb-93dc-466d5146d962
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trustseed

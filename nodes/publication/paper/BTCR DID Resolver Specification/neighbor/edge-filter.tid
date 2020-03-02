@@ -1,12 +1,12 @@
-created:1582720021591
+created:1582954316288
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6abd8410-a55c-4dd8-b4de-eb435f6b0efc
+map.base:a915ea5a-13c7-4191-b65d-4ddad679ece4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021591
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/BTCR DID Resolver Specification/filter/edges
-tmap.id:fd083a35-26ab-44f6-b7cd-b5d90b210e18
+tmap.id:48e520f8-6150-489a-a1fa-8a517b8e0dfb
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021697
+created:1582954316379
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7b41aea4-419f-4107-9d20-779aa7f9445b
+map.base:18e1ed02-2fdf-4ce7-a66e-81cf81ca7855
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021697
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial API Working Group/filter/edges
-tmap.id:7b17daf0-c459-43f6-8461-f28f15b3b035
+tmap.id:9abe6a25-580f-4a90-8b42-72fa3c628bd6
 type:text/vnd.tiddlywiki
 
 No body provided

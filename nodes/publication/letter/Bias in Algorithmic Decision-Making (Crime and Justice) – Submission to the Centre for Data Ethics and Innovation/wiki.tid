@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003604
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204782
 name:Bias in Algorithmic Decision-Making (Crime and Justice) – Submission to the Centre for Data Ethics and Innovation
 publication.type:letter
 purpose:
 sector:government
 sponsoring.org:
-tags:[[research & briefings]] [[submissions & letters]]
+tags:[[submissions & letters]] [[research & briefings (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Bias in Algorithmic Decision-Making (Crime and Justice) – Submission to the Centre for Data Ethics and Innovation
 tmap.edges:{}
-tmap.id:4b03c5b0-e056-4423-b6cd-fdcc6abb1183
+tmap.id:7b491dcd-e109-4e47-9794-d5bc1a9f5944
 type:text/vnd.tiddlywiki
 url:https://bigbrotherwatch.org.uk/wp-content/uploads/2019/06/Big-Brother-Watch-submission-to-the-Centre-for-Data-Ethics-and-Innovation-Bias-in-Algorithmic-Decision-Making-Crime-and-Justice-June-2019.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 We   welcome   the   opportunity to   submit   evidence   to   the   Centre   for   Data   Ethics   and Innovation’sreview on bias in algorithmic decision-making.This  submission  will  focus  on  use  of  predictive  algorithms  in  both  policing  and  judicial decision-making.    New    technology    and    automated    systems,    encompassing    artificial intelligence, machine learningand big data analyticsare being used ever more widely in the criminal  justice  system.  These  are  being  used  to  predict  communities  to  target  with greater police  resources;  to  assess  individuals’risk  of  committing  crimes  in  the  future;  to  identify suspects in public places; and to supportpolice investigations.However,  these  new  systems  have  evidenced  some  extremely  concerning  biases.  There  are significant problems with the data being used to build and train these models, while some of those  building  the  models  have  shownlittle  regard  for  data  protection  or  human  rights.  This has  resulted  in  biased  and  discriminatory decisionsthat  are  in  large  part  automated,  with serious implications for the fairness of criminal justice. The protections afforded to individuals subject  to  these  biased,  unfair  or  unjust decisions  are  minimal.  Many  will  never  even  be aware they have been subject to such an automated decision.
+
+
 

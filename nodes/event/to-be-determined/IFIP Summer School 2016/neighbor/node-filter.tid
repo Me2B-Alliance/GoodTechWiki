@@ -1,12 +1,12 @@
-created:1582720021430
-filter:[field:tmap.id[507b261a-fc30-400f-b275-6889b4a75822]]
-map.base:507b261a-fc30-400f-b275-6889b4a75822
+created:1582954316170
+filter:[field:tmap.id[82d3a3e6-6aee-45c2-8135-21db41712953]]
+map.base:82d3a3e6-6aee-45c2-8135-21db41712953
 map.role:node-filter
 map.type:neighbor
-modified:1582720021430
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IFIP Summer School 2016/filter/nodes
-tmap.id:b9b5ff6d-ee02-49bd-8d6e-45bfa3c07bcf
+tmap.id:cc826fad-8ffa-455d-99da-0869edccf8aa
 type:text/vnd.tiddlywiki
 
 No body provided

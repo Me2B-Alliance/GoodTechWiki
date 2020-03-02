@@ -1,17 +1,17 @@
-config.central-topic:72f5117e-7f81-4647-b828-e981798028ed
+config.central-topic:686c10e0-72f0-4b9b-a252-6891fc1bae7b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021580
-id:72fa085b-a5df-44ee-b96b-60a477b43dbc
+created:1582954316277
+id:266653ed-1330-4fe2-be36-0ae500ff4f83
 isview:false
-map.base:72f5117e-7f81-4647-b828-e981798028ed
+map.base:686c10e0-72f0-4b9b-a252-6891fc1bae7b
 map.role:definition
 map.type:neighbor
-modified:1582720021580
+modified:1582954316277
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Briefing on the Report of the Bulk Powers Review by David Anderson QC
-tmap.id:72fa085b-a5df-44ee-b96b-60a477b43dbc
+tmap.id:266653ed-1330-4fe2-be36-0ae500ff4f83
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Briefing on the Report of the Bulk Powers Review by David Anderson QC

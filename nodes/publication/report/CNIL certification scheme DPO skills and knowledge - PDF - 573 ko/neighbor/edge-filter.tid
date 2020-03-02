@@ -1,12 +1,12 @@
-created:1582720021613
+created:1582954316309
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:de76a52e-e8a2-404b-9f67-4d77da3ad4f4
+map.base:56b730cc-39dd-4207-b373-0fceb8a2d3c4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021613
+modified:1582954316309
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CNIL certification scheme DPO skills and knowledge - PDF - 573 ko/filter/edges
-tmap.id:953256e0-48f5-4ecf-9af2-e2c835a5f71d
+tmap.id:1663d2c8-41ff-4971-9121-f257222bb1ad
 type:text/vnd.tiddlywiki
 
 No body provided

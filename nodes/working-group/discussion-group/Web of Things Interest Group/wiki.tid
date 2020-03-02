@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003382
+category:[[discussion group]]
+created:1582954204550
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003382
+modified:1582954204550
 name:Web of Things Interest Group
 parent.org:
 people:
@@ -18,12 +18,14 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Web of Things Interest Group
-tmap.edges:{"5ba66789-56d5-4fda-9e63-ba3e4967c3d8":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"},"c6bd8f43-c119-44f4-afbd-c1ab1183f4c4":{"to":"cc7565da-9bf4-40bd-aba3-8bad263ecd19","type":"connection"}}
-tmap.id:5afa64de-d0aa-47d2-95fd-39c08f48ddf2
+tmap.edges:{"b2d965fa-b29f-4b28-9ced-ea38e5106847":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"},"70924c19-d391-4bcc-a4bf-4b839c3be58d":{"to":"d90e7ec4-47cc-4cfe-bc62-19c7d5bfeed9","type":"connection"}}
+tmap.id:e47b0f2c-9e2a-4754-89f0-2b3901cda209
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/wot/ig/
 
 The Internet of Things (IoT) suffers from a lack of interoperability across platforms. As a result developers are faced with data silos, high costs and limited market potential. This can be likened to the situation before the Internet when there were competing non-interoperable networking technologies. The Internet makes it easy to develop networked applications independently of those technologies. W3C is seeking to do the same for the Internet of Things.
 
 To achieve this goal, we need platform independent APIs for application developers, and a means for different platforms to discover how to inter-operate with one another. The approach we are taking is based upon rich metadata that describes the data and interaction models exposed to applications, and the communications and security requirements for platforms to communicate effectively. A further aspect is the need to enable platforms to share the same meaning when they exchange data. We are therefore seeking to enable expression of the semantics of things and the domain constraints associated with them, building upon W3C's extensive work on RDF and Linked Data.
+
+
 

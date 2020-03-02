@@ -1,12 +1,12 @@
-created:1582720021633
+created:1582954316326
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:091fa0ed-6210-4d83-9fb2-095b6913cdd6
+map.base:e1adabba-a340-462d-bff3-a8e2092b34bc
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021633
+modified:1582954316326
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phones, but No Papers/filter/edges
-tmap.id:e3f337e6-ec09-4dd3-86d6-3f32f7ed98cd
+tmap.id:7737504e-24b2-4f6d-8bc4-ae7c6b65f3c5
 type:text/vnd.tiddlywiki
 
 No body provided

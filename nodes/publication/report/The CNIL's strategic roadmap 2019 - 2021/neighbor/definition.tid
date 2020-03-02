@@ -1,17 +1,17 @@
-config.central-topic:662603c6-296a-464c-bdc8-24381ec6c2cd
+config.central-topic:e4ba5586-2bcb-42be-a2a2-80884773af69
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021641
-id:e9e9386b-7c76-4b21-b8b5-57e5e00f7905
+created:1582954316335
+id:60efe408-7255-4094-8e8a-51f1b8843f2c
 isview:false
-map.base:662603c6-296a-464c-bdc8-24381ec6c2cd
+map.base:e4ba5586-2bcb-42be-a2a2-80884773af69
 map.role:definition
 map.type:neighbor
-modified:1582720021641
+modified:1582954316335
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The CNIL's strategic roadmap 2019 - 2021
-tmap.id:e9e9386b-7c76-4b21-b8b5-57e5e00f7905
+tmap.id:60efe408-7255-4094-8e8a-51f1b8843f2c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The CNIL's strategic roadmap 2019 - 2021

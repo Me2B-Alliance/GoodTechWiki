@@ -1,12 +1,12 @@
-created:1582720021499
+created:1582954316218
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:51180195-7a68-4aa4-82c4-6e3454768807
+map.base:e02d9e1f-270f-40d1-82ce-bf52d3b545cb
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021499
+modified:1582954316218
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Techfestival/filter/edges
-tmap.id:6ff0fc2b-26c6-4761-a718-c60e083505d7
+tmap.id:18d50d3b-4995-4b36-b764-1bd44441cd4d
 type:text/vnd.tiddlywiki
 
 No body provided

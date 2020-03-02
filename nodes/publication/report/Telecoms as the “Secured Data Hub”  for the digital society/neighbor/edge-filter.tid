@@ -1,12 +1,12 @@
-created:1582720021640
+created:1582954316331
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b251b554-64cb-4943-b7b4-3a9cd2e3467c
+map.base:112bcb51-bc21-4fe8-ac3b-d4ca3350aef7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021640
+modified:1582954316331
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Telecoms as the “Secured Data Hub”  for the digital society/filter/edges
-tmap.id:3d1b1d07-af34-4ffd-82ec-12605049e6b2
+tmap.id:313decc7-f281-4495-ae91-d30d816cb7d7
 type:text/vnd.tiddlywiki
 
 No body provided

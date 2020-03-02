@@ -1,12 +1,12 @@
-created:1582720021687
-filter:[field:tmap.id[c3114469-6b97-4300-a394-b19093652c5f]]
-map.base:c3114469-6b97-4300-a394-b19093652c5f
+created:1582954316368
+filter:[field:tmap.id[e263f93c-9b26-4a09-90a8-efe4422099c4]]
+map.base:e263f93c-9b26-4a09-90a8-efe4422099c4
 map.role:node-filter
 map.type:neighbor
-modified:1582720021687
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Footprint Videos/filter/nodes
-tmap.id:33e0ec31-34d4-405f-923e-597ecd9d6d90
+tmap.id:9ba33b65-688f-4c7e-b575-459e1c135030
 type:text/vnd.tiddlywiki
 
 No body provided

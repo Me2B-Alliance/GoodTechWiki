@@ -1,12 +1,12 @@
-created:1582720021659
+created:1582954316349
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:29616241-b529-4a1d-85aa-718c81381f90
+map.base:b04ef042-35ee-490c-9acd-d2042039d7ec
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021659
+modified:1582954316349
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Dynamic Client Registration Management (RFC7592)/filter/edges
-tmap.id:8de15acd-a2d3-465c-9215-9bdf396c5db6
+tmap.id:721791ba-6525-47fe-8b86-ded03855f830
 type:text/vnd.tiddlywiki
 
 No body provided

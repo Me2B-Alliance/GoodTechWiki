@@ -1,17 +1,17 @@
-config.central-topic:5da710ad-1348-4cc6-bf00-c97c026e8bd5
+config.central-topic:5011a1c3-be3f-4dbc-8235-d8cf4fdd498b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021533
-id:869b439f-8ac3-4824-8471-13ca41ab4809
+created:1582954316239
+id:4af9929e-29e7-42c5-ab2b-92ba422633ae
 isview:false
-map.base:5da710ad-1348-4cc6-bf00-c97c026e8bd5
+map.base:5011a1c3-be3f-4dbc-8235-d8cf4fdd498b
 map.role:definition
 map.type:neighbor
-modified:1582720021533
+modified:1582954316239
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Jim Hazard
-tmap.id:869b439f-8ac3-4824-8471-13ca41ab4809
+tmap.id:4af9929e-29e7-42c5-ab2b-92ba422633ae
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Jim Hazard

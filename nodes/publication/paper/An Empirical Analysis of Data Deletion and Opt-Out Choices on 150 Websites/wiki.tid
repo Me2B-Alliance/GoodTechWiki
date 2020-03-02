@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[hana habib]] [[yixin zou]] [[aditi jannu]] [[neha sridhar]] [[chelse swoopes]] [[alessandro acquisti]] [[lorrie faith cranor]] [[norman sadeh]] [[florian schaub]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites
 tmap.edges:{}
-tmap.id:d1db4eae-b0bc-43e9-b37b-f5d630d462ea
+tmap.id:415317f0-cdd0-4326-ba29-7a7e04a5951e
 type:text/vnd.tiddlywiki
 url:https://www.usenix.org/conference/soups2019/presentation/habib
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), Aug 2019
 
 Many websites offer visitors privacy controls and opt-out choices, either to comply with legal requirements or to address consumer privacy concerns. The way these control mechanisms are implemented can significantly affect individuals’ choices and their privacy outcomes. We present an extensive content analysis of a stratified sample of 150 English-language websites, assessing the usability and interaction paths of their data deletion options and opt-outs for email communications and targeted advertising. This heuristic evaluation identified substantial issues that likely make exercising these privacy choices on many websites difficult and confusing for US-based consumers. Even though the majority of analyzed websites offered privacy choices, they were located inconsistently across websites. Furthermore, some privacy choices were rendered unusable by missing or unhelpful information, or by links that did not lead to the stated choice. Based on our findings, we provide insights for addressing usability issues in the end-to-end interaction required to effectively exercise privacy choices and controls.
+
+
 

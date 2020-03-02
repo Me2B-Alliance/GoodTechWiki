@@ -1,12 +1,12 @@
-created:1582720021432
+created:1582954316171
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bce2654b-1694-43de-bdda-82bf20067926
+map.base:d8d91b74-958f-46a4-9295-617dd7c1f643
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021432
+modified:1582954316171
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Evolving Role of the Individual in Privacy Protection: 30 Years after the OECD Privacy Guidelines/filter/edges
-tmap.id:c19a2f22-42ab-4afe-8101-1962a699e116
+tmap.id:24ff18d9-bdc1-42dd-86a5-92ab1c2d2e4b
 type:text/vnd.tiddlywiki
 
 No body provided

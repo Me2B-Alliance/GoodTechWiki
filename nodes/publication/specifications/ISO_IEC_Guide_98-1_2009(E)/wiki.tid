@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003603
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204781
 name:ISO_IEC_Guide_98-1_2009(E)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
+tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions (tag)]] [[12 iso/iec guides (english) (tag)]]
 tech.focus:
 tiddler.classification:node
 title:ISO_IEC_Guide_98-1_2009(E)
 tmap.edges:{}
-tmap.id:2cfc10ae-69e3-45fc-8f08-dc4317d72420
+tmap.id:aa9c7e9d-24f2-46d9-9651-7f33d6b56c98
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_98%2D1_2009%28E%29_%2D_Uncertainty_of_measurement_%2D%2D_Part_1%2C_Introduction_to_the_expression_of_uncertainty_in_measurement.pdf?nodeid=8387212&vernum=-2
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Uncertainty of measurement -- Part 1, Introduction to the expression of uncertainty in measurement
 
 A  statement  of  measurement  uncertainty  is  indispensable  in  judging  the  fitness  for  purpose  of  a  measuredquantity value.  At the greengrocery store the customer would be content if, when buying a kilogram of fruit,the scales gave a value within, say, 2 grams of the fruit’s actual weight.  However, the dimensions of componentsof the gyroscopes within the inertial navigation systems of commercial aircraft are checked by measurement toparts in a million for correct functioning.Measurement uncertainty is a general concept associated with any measurement and can be used in professionaldecision  processes  as  well  as  judging  attributes  in  many  domains,  both  theoretical  and  experimental.   Asthe tolerances applied in industrial production become more demanding, the role of measurement uncertaintybecomes  more  important  when  assessing  conformity  to  these  tolerances.   Measurement  uncertainty  plays  acentral role in quality assessment and quality standards.Measurement is present in almost every human activity, including but not limited to industrial,  commercial,scientific, healthcare, safety and environmental.  Measurement helps the decision process in all these activities.Measurement uncertainty enables users of a measured quantity value to make comparisons, in the context ofconformity assessment, to obtain the probability of making an incorrect decision based on the measurement,and to manage the consequential risks.
+
+
 

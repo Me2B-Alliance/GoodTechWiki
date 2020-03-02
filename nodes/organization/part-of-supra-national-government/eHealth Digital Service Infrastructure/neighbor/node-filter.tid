@@ -1,12 +1,12 @@
-created:1582720021481
-filter:[field:tmap.id[864b5453-5a78-42c9-b97b-27d266dc1b29]]
-map.base:864b5453-5a78-42c9-b97b-27d266dc1b29
+created:1582954316206
+filter:[field:tmap.id[33d525d2-1278-4a44-862d-53a27a4b5853]]
+map.base:33d525d2-1278-4a44-862d-53a27a4b5853
 map.role:node-filter
 map.type:neighbor
-modified:1582720021481
+modified:1582954316206
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eHealth Digital Service Infrastructure/filter/nodes
-tmap.id:41f95a89-8987-48cf-872c-f97188f499ba
+tmap.id:9b255687-f96c-44a6-bcbc-cdf9db1d026a
 type:text/vnd.tiddlywiki
 
 No body provided

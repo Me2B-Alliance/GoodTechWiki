@@ -1,17 +1,17 @@
-config.central-topic:3dd53ef1-9f49-46df-bbbe-c66f2706c2c2
+config.central-topic:4d0d3601-80e2-4f21-b9f6-a7997aaa067c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021432
-id:c27a4074-6590-48cc-839a-d8333328ce3b
+created:1582954316171
+id:1d3b8213-2afb-4f9d-af7b-5559a5472b99
 isview:false
-map.base:3dd53ef1-9f49-46df-bbbe-c66f2706c2c2
+map.base:4d0d3601-80e2-4f21-b9f6-a7997aaa067c
 map.role:definition
 map.type:neighbor
-modified:1582720021432
+modified:1582954316171
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The International Conference of Data Protection and Privacy Commissioners
-tmap.id:c27a4074-6590-48cc-839a-d8333328ce3b
+tmap.id:1d3b8213-2afb-4f9d-af7b-5559a5472b99
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The International Conference of Data Protection and Privacy Commissioners

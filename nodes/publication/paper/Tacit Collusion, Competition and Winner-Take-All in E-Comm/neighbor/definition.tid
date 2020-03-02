@@ -1,17 +1,17 @@
-config.central-topic:10d37cbb-2e32-4fce-be43-af16806a9821
+config.central-topic:c571a1ab-c827-4206-9fdf-493665f8a3fb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021605
-id:507f4420-60b7-4ba1-9fe8-219a0918c53b
+created:1582954316302
+id:5b497ef8-9e1b-4b61-b493-93514ae1da4c
 isview:false
-map.base:10d37cbb-2e32-4fce-be43-af16806a9821
+map.base:c571a1ab-c827-4206-9fdf-493665f8a3fb
 map.role:definition
 map.type:neighbor
-modified:1582720021605
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tacit Collusion, Competition and Winner-Take-All in E-Comm
-tmap.id:507f4420-60b7-4ba1-9fe8-219a0918c53b
+tmap.id:5b497ef8-9e1b-4b61-b493-93514ae1da4c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tacit Collusion, Competition and Winner-Take-All in E-Comm

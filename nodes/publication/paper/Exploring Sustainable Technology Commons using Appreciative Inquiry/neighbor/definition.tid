@@ -1,17 +1,17 @@
-config.central-topic:c27607cd-9490-4eb2-b34d-1cbc279c25e5
+config.central-topic:1750402e-54cd-4924-9417-1cde90691973
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021594
-id:e7bb99d2-09cd-4196-b62b-d66ed46f757d
+created:1582954316295
+id:9f331801-081e-499c-bb70-38745e4af1c1
 isview:false
-map.base:c27607cd-9490-4eb2-b34d-1cbc279c25e5
+map.base:1750402e-54cd-4924-9417-1cde90691973
 map.role:definition
 map.type:neighbor
-modified:1582720021594
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Exploring Sustainable Technology Commons using Appreciative Inquiry
-tmap.id:e7bb99d2-09cd-4196-b62b-d66ed46f757d
+tmap.id:9f331801-081e-499c-bb70-38745e4af1c1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Exploring Sustainable Technology Commons using Appreciative Inquiry

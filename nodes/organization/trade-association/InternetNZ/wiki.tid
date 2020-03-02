@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003370
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003370
+modified:1582954204538
 org.name:InternetNZ
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:InternetNZ
-tmap.edges:{"751de1f1-defe-4b55-828b-db62568275cc":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:b65e9a55-3e8b-4dc6-9d70-c24aacd5c8ef
+tmap.edges:{"07bedc57-7e57-463a-a229-be3d8fb17722":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:c0141e72-2bb3-46c8-b41f-44d8bef9a7c9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://internetnz.nz/about
@@ -36,4 +36,6 @@ website:https://internetnz.nz/about
 InternetNZ is a voice, a helping hand and a guide to the Internet for all New Zealanders. It provides a voice for the Internet, to the government and the public; it gives a helping hand to the Internet community; and it provides a guide to those who seek  knowledge, support or any other method of benefiting the Internet and its users.
 
 InternetNZ ("Internet New Zealand Inc." and originally formed as the Internet Society of New Zealand) is a not-for-profit open membership organisation dedicated to protecting and promoting the Internet for New Zealand. It's vision is for a better world through a better Internet and it promotes the Internet’s benefits and protect its potential. InternetNZ focuses on advancing an open and uncaptureable Internet for New Zealand.
+
+
 

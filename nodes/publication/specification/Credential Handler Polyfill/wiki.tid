@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:Credential Handler Polyfill
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Credential Handler Polyfill
 tmap.edges:{}
-tmap.id:c628ae30-7f54-4d57-9e69-dbbbb112ed2a
+tmap.id:28f45a1c-3b5d-45ff-a7c3-ca0cd1f7b761
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/credential-handler-api/
 version.or.edition:
@@ -33,4 +33,6 @@ For example, a user may visit a website that wants them to login using OpenIdCon
 The Credential Handler receives the event via a Service Worker or, if the Credential Handler Polyfill is used, a simple page with no UI elements is loaded that uses the polyfill to receive and respond to the event.
 
 The Credential Handler must respond to the event with a credential that fulfills the request. If necessary, the Credential Handler may open a window on its website's origin to allow the user to interact with its website prior to responding. This UI can be styled and shaped according to the website owner's brand using arbitrary JavaScript and HTML like any other webpage.
+
+
 

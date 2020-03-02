@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003367
+created:1582954204533
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003367
+modified:1582954204533
 org.name:berlin Commissioner for Data Protection and Freedom of Information
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:berlin Commissioner for Data Protection and Freedom of Information
-tmap.edges:{"b53d7993-60f2-41a0-9e89-e46e5e2d4775":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"},"3abca6d3-e670-4698-8226-294d957f0f78":{"to":"c6285002-a683-4dcf-8733-ec7135c37e4c","type":"government-connection"}}
-tmap.id:5b801e8a-5818-4657-8854-3c7d7dfbc7de
+tmap.edges:{"09b5859a-44fc-4ab5-8aed-16f7a574b80e":{"to":"4d0d3601-80e2-4f21-b9f6-a7997aaa067c","type":"general-member"},"52f46503-6e2f-4ce5-a12e-b3ff5c1c9bd1":{"to":"843c608d-ac50-40d6-8d27-3d05f059a41a","type":"government-connection"}}
+tmap.id:847ac229-3196-4414-8740-94ebc70b7480
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://datenschutz-berlin.de/
+
+
 
 
 

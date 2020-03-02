@@ -1,12 +1,12 @@
-created:1582720021630
-filter:[field:tmap.id[d3547849-a90c-4847-bdfa-8fea69e61163]]
-map.base:d3547849-a90c-4847-bdfa-8fea69e61163
+created:1582954316322
+filter:[field:tmap.id[90fc72d2-9673-4a12-8f6d-646fdd71ae3b]]
+map.base:90fc72d2-9673-4a12-8f6d-646fdd71ae3b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021630
+modified:1582954316322
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Local Authority Data Loss/filter/nodes
-tmap.id:6c4bf781-44d0-4762-8a5e-46051fa32da5
+tmap.id:b2fe0ad7-588c-44f5-be80-859f0ac6ea63
 type:text/vnd.tiddlywiki
 
 No body provided

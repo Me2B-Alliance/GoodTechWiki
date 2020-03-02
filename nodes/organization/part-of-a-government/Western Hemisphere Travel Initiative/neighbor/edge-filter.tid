@@ -1,12 +1,12 @@
-created:1582720021477
+created:1582954316204
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:13f24441-3f6a-465e-9fc3-30b7f3a5ed5a
+map.base:21db4ba5-ac7d-46c6-8cd9-9feec3bcdf62
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021477
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Western Hemisphere Travel Initiative/filter/edges
-tmap.id:e30125f2-54f4-44ee-b446-56ebfa4c9a93
+tmap.id:11f5fe8f-047f-4640-a492-932f2a65c73b
 type:text/vnd.tiddlywiki
 
 No body provided

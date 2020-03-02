@@ -1,17 +1,17 @@
-config.central-topic:1784ad38-f114-4dec-8b13-489aac8450b3
+config.central-topic:59703d9f-3e2f-47c9-830c-7f029d53660b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021524
-id:8581645d-defc-4dc5-b24d-9aa766383d07
+created:1582954316233
+id:20ab7e5e-2687-4f60-b81c-d1f46b768962
 isview:false
-map.base:1784ad38-f114-4dec-8b13-489aac8450b3
+map.base:59703d9f-3e2f-47c9-830c-7f029d53660b
 map.role:definition
 map.type:neighbor
-modified:1582720021524
+modified:1582954316233
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Digital Life
-tmap.id:8581645d-defc-4dc5-b24d-9aa766383d07
+tmap.id:20ab7e5e-2687-4f60-b81c-d1f46b768962
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trust in Digital Life

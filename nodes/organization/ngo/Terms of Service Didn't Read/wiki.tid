@@ -1,7 +1,7 @@
 activities:[[research]] [[publication]]
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/terms-of-service-didn-t-read/about/
 location(s):[[berlin]]
 me2b.relationship:[[content source for me2b certification?]]
-modified:1582720003590
+modified:1582954204766
 org.name:Terms of Service Didn't Read
 org.type:ngo
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Terms of Service Didn't Read
-tmap.edges:{"4a481b87-dbd2-4ece-9321-85217e040e16":{"to":"6b19a921-14fb-4a37-8ded-6410137dda91","type":"Organization Supports Project or Product"}}
-tmap.id:2b3014af-8ed7-4751-a2ab-e8605f0f86df
+tmap.edges:{"9e43c831-e0e6-4e4d-a2ec-f86a076b0329":{"to":"ae31ff42-37fa-444a-9af2-aed99f974779","type":"Organization Supports Project or Product"}}
+tmap.id:bef9cb59-1362-4f01-9d47-feeec8d73f17
 twitter.profile:https://twitter.com/tosdr
 type:text/vnd.tiddlywiki
 website:https://tosdr.org/
@@ -37,4 +37,6 @@ website:https://tosdr.org/
 “I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that.  
 
 We are a user rights initiative to rate and label website terms & privacy policies: from very good Class A to very bad Class E.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021542
-filter:[field:tmap.id[d024b042-f727-4789-b33e-1676e9bfc7ff]]
-map.base:d024b042-f727-4789-b33e-1676e9bfc7ff
+created:1582954316253
+filter:[field:tmap.id[d5bb210d-2b22-43f1-a8d7-6ba35adc3d20]]
+map.base:d5bb210d-2b22-43f1-a8d7-6ba35adc3d20
 map.role:node-filter
 map.type:neighbor
-modified:1582720021542
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Energy/filter/nodes
-tmap.id:782c659d-6862-4691-8b82-a2d4a8b0d3cb
+tmap.id:7a26cedc-698a-4128-a746-3a644671708d
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021516
+created:1582954316226
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fc2e9907-2bfa-49e1-bdfc-11c8270e9b94
+map.base:2635600d-3a8e-4280-b30e-c3f6b7323b51
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021516
+modified:1582954316226
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kerberos Consortium/filter/edges
-tmap.id:bf4a9a88-943f-4c51-a7a6-7c1df2fc08a1
+tmap.id:f6f58e47-b2fd-4fbd-a894-1c59245b6f38
 type:text/vnd.tiddlywiki
 
 No body provided

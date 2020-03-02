@@ -1,12 +1,12 @@
-created:1582720021631
+created:1582954316323
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f7a64af6-dfdc-4216-bc32-6893baaf67d2
+map.base:f3790083-b889-4212-ad97-5d9304ac677b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021631
+modified:1582954316323
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/No More Magic Algorithms: Cultural Policy in an Era of Discoverability/filter/edges
-tmap.id:a33d597a-48a5-46d6-b06b-cc97f28b0070
+tmap.id:2cc63ae7-9c33-48d1-a1f0-c13b78e8b389
 type:text/vnd.tiddlywiki
 
 No body provided

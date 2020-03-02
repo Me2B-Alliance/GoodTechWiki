@@ -1,12 +1,12 @@
-created:1582720021585
+created:1582954316283
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:05ac3a78-d5ad-4a4f-ab12-bcc2bac970a1
+map.base:8fd5490d-b128-4858-915c-90ef7498aa07
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021585
+modified:1582954316283
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Joint letter to the Scottish Justice Committee regarding the proposed Biometrics Commissioner/filter/edges
-tmap.id:88c54487-dd42-419a-82c4-271cb578612c
+tmap.id:957d4bf8-f510-4a2f-b26d-08d288397d5d
 type:text/vnd.tiddlywiki
 
 No body provided

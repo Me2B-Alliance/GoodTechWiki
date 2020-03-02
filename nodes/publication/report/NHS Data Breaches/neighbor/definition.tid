@@ -1,17 +1,17 @@
-config.central-topic:2b24de9b-e476-4622-94e1-80340f096238
+config.central-topic:c67ec9f6-2c84-489f-84c5-5f6aac3f6ad1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021632
-id:936d2c13-4d82-417a-a100-689562209ec8
+created:1582954316323
+id:f67d52bf-11ee-4bfb-97a8-a35a907aa2e3
 isview:false
-map.base:2b24de9b-e476-4622-94e1-80340f096238
+map.base:c67ec9f6-2c84-489f-84c5-5f6aac3f6ad1
 map.role:definition
 map.type:neighbor
-modified:1582720021632
+modified:1582954316323
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NHS Data Breaches
-tmap.id:936d2c13-4d82-417a-a100-689562209ec8
+tmap.id:f67d52bf-11ee-4bfb-97a8-a35a907aa2e3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NHS Data Breaches

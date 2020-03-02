@@ -1,17 +1,17 @@
-config.central-topic:ec9562bb-cbcd-440b-9f08-073f039d0162
+config.central-topic:ae50e548-accf-485a-81d1-b3f2805186d4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021656
-id:1aeb8001-d96f-4104-b62d-da73eec89681
+created:1582954316345
+id:9c827a7b-98da-4e62-ad2d-6d077d1602c0
 isview:false
-map.base:ec9562bb-cbcd-440b-9f08-073f039d0162
+map.base:ae50e548-accf-485a-81d1-b3f2805186d4
 map.role:definition
 map.type:neighbor
-modified:1582720021656
+modified:1582954316345
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/JSON-LD
-tmap.id:1aeb8001-d96f-4104-b62d-da73eec89681
+tmap.id:9c827a7b-98da-4e62-ad2d-6d077d1602c0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of JSON-LD

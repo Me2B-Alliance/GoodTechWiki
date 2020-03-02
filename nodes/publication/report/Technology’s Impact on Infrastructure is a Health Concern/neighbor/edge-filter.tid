@@ -1,12 +1,12 @@
-created:1582720021640
+created:1582954316330
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:cd0f6494-479e-4c96-a397-5e9ebaf31364
+map.base:115b2b1f-acde-4529-98de-def7dbc61c42
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021640
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Technology’s Impact on Infrastructure is a Health Concern/filter/edges
-tmap.id:f33c7c82-fe3c-447f-92a5-1301738c0239
+tmap.id:3d1cd920-5078-4656-b3db-0f7e527bd311
 type:text/vnd.tiddlywiki
 
 No body provided

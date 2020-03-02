@@ -1,17 +1,17 @@
-config.central-topic:8b436b35-dcb5-4b61-94af-2cacca540b4d
+config.central-topic:640d1460-ff8f-4a73-9781-d8f895e29577
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021699
-id:60fbffc7-5154-404e-a1a4-b005340b4620
+created:1582954316380
+id:09a91ccd-945c-4c5e-bed1-56b756265c80
 isview:false
-map.base:8b436b35-dcb5-4b61-94af-2cacca540b4d
+map.base:640d1460-ff8f-4a73-9781-d8f895e29577
 map.role:definition
 map.type:neighbor
-modified:1582720021699
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Assurance Working Group
-tmap.id:60fbffc7-5154-404e-a1a4-b005340b4620
+tmap.id:09a91ccd-945c-4c5e-bed1-56b756265c80
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity Assurance Working Group

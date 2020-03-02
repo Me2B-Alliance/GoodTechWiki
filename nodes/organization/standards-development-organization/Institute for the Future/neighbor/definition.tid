@@ -1,17 +1,17 @@
-config.central-topic:a44778ee-9c80-4fa7-a956-e6c6cda81654
+config.central-topic:ea8874ad-e7d9-4b00-922f-f4261ea5bfaf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021484
-id:6c3ad9a0-d49c-40e7-91c3-c75d3941212e
+created:1582954316208
+id:cead75cb-510b-442f-8767-a9682544d378
 isview:false
-map.base:a44778ee-9c80-4fa7-a956-e6c6cda81654
+map.base:ea8874ad-e7d9-4b00-922f-f4261ea5bfaf
 map.role:definition
 map.type:neighbor
-modified:1582720021484
+modified:1582954316208
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Institute for the Future
-tmap.id:6c3ad9a0-d49c-40e7-91c3-c75d3941212e
+tmap.id:cead75cb-510b-442f-8767-a9682544d378
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Institute for the Future

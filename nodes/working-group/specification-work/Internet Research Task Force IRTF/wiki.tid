@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003326
+category:[[specification work]]
+created:1582954204493
 date.ended:
 date.founded:2012-04-17
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003326
+modified:1582954204493
 name:Internet Research Task Force IRTF
 parent.org:IETF
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Internet Research Task Force IRTF
-tmap.edges:{"b5ec576d-2591-4fc0-95e3-6af47847dd23":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"},"345038ef-25fd-423f-8ce0-dbe12883719b":{"to":"ace6fb70-095e-4ef7-aa4b-6829f616dd3c","type":"default"},"46cec160-fd73-45c0-934e-b6bab9159418":{"to":"30d0028e-ee1a-445e-bccf-b986f09df232","type":"organization-for-group"}}
-tmap.id:5b943bee-c709-4611-83f9-f1e4e470688e
+tmap.edges:{"1f9f87d6-b9b0-433b-882c-d3943918aad5":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"},"49e99662-d53a-49f4-94ad-51560848331b":{"to":"b461e7eb-7ad9-44b3-ae07-a22b06ccced8","type":"default"},"f7740042-c666-4781-8107-13572bc0422b":{"to":"868fcf9d-a6f2-4232-8dea-c4d2630349b4","type":"organization-for-group"}}
+tmap.id:7a003842-ab2a-422d-b974-3b3d755ccd3a
 type:text/vnd.tiddlywiki
 url:https://irtf.org
 
@@ -30,4 +30,6 @@ In order to respond to increasing traffic volume in the current Internet for app
 Information-centric networking (ICN) is an approach to evolve the Internet infrastructure to directly support this use by introducing uniquely named data as a core Internet principle. Data becomes independent from location, application, storage, and means of transportation, enabling in-network caching and replication. The expected benefits are improved efficiency, better scalability with respect to information/bandwidth demand and better robustness in challenging communication scenarios. These concepts are known under different terms, including but not limited to: Network of Information (NetInf), Named Data Networking (NDN) and Publish/Subscribe Networking.
 
 ICN concepts can be applied to different layers of the protocol stack: name-based data access can be implemented on top of the existing IP infrastructure, e.g., by providing resource naming, ubiquitous caching and corresponding transport services, or it can be seen as a packet-level internetworking technology that would cause fundamental changes to Internet routing and forwarding. In summary, ICN is expected to evolve the Internet architecture at different layers.
+
+
 

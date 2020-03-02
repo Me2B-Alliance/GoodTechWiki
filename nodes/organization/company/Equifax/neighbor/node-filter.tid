@@ -1,12 +1,12 @@
-created:1582720021438
-filter:[field:tmap.id[99203f04-14c6-4b25-860f-080aa22e05dc]]
-map.base:99203f04-14c6-4b25-860f-080aa22e05dc
+created:1582954316177
+filter:[field:tmap.id[bacea8a5-264c-4a96-862b-42c4c4434b70]]
+map.base:bacea8a5-264c-4a96-862b-42c4c4434b70
 map.role:node-filter
 map.type:neighbor
-modified:1582720021438
+modified:1582954316177
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Equifax/filter/nodes
-tmap.id:8944ef05-2e07-4303-b25b-c8199af553c7
+tmap.id:f033ec61-7ebd-4833-a8de-64416588ab2d
 type:text/vnd.tiddlywiki
 
 No body provided

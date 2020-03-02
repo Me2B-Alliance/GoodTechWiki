@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003333
+category:[[specification work]]
+created:1582954204500
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003333
+modified:1582954204500
 name:UMA Developer
 parent.org:Kantara
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:UMA Developer
-tmap.edges:{"c18985d7-28fe-496f-b75b-7eb59fd5ddf8":{"to":"a6df14ff-14f9-43b5-8108-3365e23180fb","type":"organization-for-group"}}
-tmap.id:0e19cc8a-3a69-4c50-8f6c-9f90862a6c53
+tmap.edges:{"3b365bc2-441e-4ab8-a627-687e3d670b3a":{"to":"2648f44e-5ca9-4959-8646-8d89cb6b79a2","type":"organization-for-group"}}
+tmap.id:98a0828e-1e36-4adc-98dd-f39ddb9cf861
 type:text/vnd.tiddlywiki
 url:http://kantarainitiative.org/confluence/display/umadev/home
+
+
 
 
 

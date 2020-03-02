@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003590
+modified:1582954204766
 org.name:Open Technology Institute
 org.type:to-be-determined
 parent.org:New America
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Open Technology Institute
-tmap.edges:{"9e9fe596-4ee6-4e9a-984c-1cf00f221221":{"to":"0a16add3-9486-42fb-bb36-8109dac1cb9e","type":"Sponsors"},"f2015302-9301-493d-9085-50ff715b51b0":{"to":"2d0764ee-e542-4415-929a-9580614a2d81","type":"Sponsors"}}
-tmap.id:2e23861f-dd18-447b-b348-a62f67f57c29
+tmap.edges:{"926a7017-706f-493c-afa7-acb36deff43c":{"to":"d24983d1-3d51-4e3d-84d9-2a7b9ae14f9a","type":"Sponsors"},"ab835692-22b7-4e45-9205-6d4f19f48cca":{"to":"bd571562-7fed-4f72-a362-9834dc0df05a","type":"Sponsors"}}
+tmap.id:d8812dc4-3443-4a5f-bdc4-5e98ce340e85
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.newamerica.org/oti/
 
 “The Open Technology Institute looks at how, in this digital age, we ensure that there is universal access, that we have an Internet that is as Sir Timothy Berners-Lee envisioned: one that is open and free, ... where inequities in other parts of society don’t play out.”
+
+
 

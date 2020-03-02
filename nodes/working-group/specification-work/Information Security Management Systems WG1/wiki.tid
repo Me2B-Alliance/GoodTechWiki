@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003324
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003324
+modified:1582954204491
 name:Information Security Management Systems WG1
 parent.org:ISO/IEC
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Information Security Management Systems WG1
-tmap.edges:{"7df18479-f0a6-427f-918a-124fa1e1e354":{"to":"1dffc408-db8d-4580-ae04-400a2e5bc81e","type":"organization-for-group"}}
-tmap.id:6fdbbafa-c55c-49d4-a7ce-2674daa1c876
+tmap.edges:{"1f9fdf58-e960-4297-b660-ad6387a7e43c":{"to":"b5f5fa7e-2e8e-46b7-896b-d79f5ea7ee27","type":"organization-for-group"}}
+tmap.id:dfc65e34-7c37-4321-8d58-e9eafb21ecbd
 type:text/vnd.tiddlywiki
 url:
 
@@ -43,4 +43,6 @@ Automotive industry
 Standards bodies, such as IETF, IEEE
 International institutions, e.g. OECD, APEC, EU
 IAF and CASCO, and other relevant groups regarding the development of accreditation and certification standards and guidelines
+
+
 

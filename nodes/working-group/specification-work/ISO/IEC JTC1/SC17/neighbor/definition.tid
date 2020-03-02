@@ -1,17 +1,17 @@
-config.central-topic:58b741f7-12aa-4bb6-8db5-8d6ec33af651
+config.central-topic:217fa241-fbba-4b13-af08-0eaca260997c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021699
-id:ca12b6e5-4f95-4dec-a571-49b75755d214
+created:1582954316379
+id:a277501a-1dcf-4985-9012-46367cef1422
 isview:false
-map.base:58b741f7-12aa-4bb6-8db5-8d6ec33af651
+map.base:217fa241-fbba-4b13-af08-0eaca260997c
 map.role:definition
 map.type:neighbor
-modified:1582720021699
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC JTC1/SC17
-tmap.id:ca12b6e5-4f95-4dec-a571-49b75755d214
+tmap.id:a277501a-1dcf-4985-9012-46367cef1422
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO/IEC JTC1/SC17

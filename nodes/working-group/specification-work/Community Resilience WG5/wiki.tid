@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003327
+category:[[specification work]]
+created:1582954204494
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003327
+modified:1582954204494
 name:Community Resilience WG5
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Community Resilience WG5
-tmap.edges:{"258dfb9f-ed87-47ed-9e8f-8a7ef08d7c3e":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:7e07f83f-ab00-4cb9-b7f3-858a542c4642
+tmap.edges:{"9cef4a4b-0c03-4d12-8bfd-2e27ea390015":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:391fd910-7460-47c1-ae8b-748d60ec74a0
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

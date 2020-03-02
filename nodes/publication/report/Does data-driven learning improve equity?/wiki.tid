@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003603
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204779
 name:Does data-driven learning improve equity?
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[enabling connected learning]]
+tags:[[enabling connected learning (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Does data-driven learning improve equity?
 tmap.edges:{}
-tmap.id:c7bcd555-d05c-423e-b3a2-391b2a80a2af
+tmap.id:7f67ef94-4de7-4479-9009-db13bebef43d
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/does-data-driven-learning-improve-equity/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Student data can and has served as an equalizer, but it also has the potential to perpetuate discriminatory practices. In order to leverage student data to move toward equity in education, researchers, parents, and educators must be aware of the ways in which data serves to equalize as well as disenfranchise. Common discourse surrounding data as an equalizer can fall along a spectrum of “yes, it’s the fix” or “this will never work.” Reality is more complicated than that.
 
 Points: “Does data-driven learning improve equity?” That depends, says Mikaela Pitcan in this Points original. Starting assumptions, actual data use practices, interpretation, context context context — all complicate the story around education data and must be kept in mind if equity is our objective.
+
+
 

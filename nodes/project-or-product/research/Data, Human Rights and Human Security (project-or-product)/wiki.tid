@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Data, Human Rights and Human Security
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Data, Human Rights and Human Security (project-or-product)
 tmap.edges:{}
-tmap.id:acc2cef2-95dc-4ab5-8331-f34c5298a3c1
+tmap.id:395ff17b-3ae8-4c45-8a63-e04b8d0dcec1
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/initiatives/data-human-rights/
 version.or.edition:
 working.group:
 
 Data can provide real-time awareness about disaster, violence, or protest. Yet practitioners, researchers, and policymakers face unique challenges and opportunities when assessing technological benefit, risk, and harm. The Data, Human Rights, and Human Security initiative asks: How can these technologies be used responsibly to assist people in need, prevent abuse, and protect them from harm?
+
+
 

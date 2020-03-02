@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003339
+created:1582954204507
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003339
+modified:1582954204507
 name:Web Crypto API
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Web Crypto API
-tmap.edges:{"b0caf275-1336-49d0-bf90-72b916a6579c":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
-tmap.id:a1b4af18-51e6-4b71-ad2f-86b9db7dfe3c
+tmap.edges:{"1a829f84-1924-47f0-8e3c-def554630a47":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"}}
+tmap.id:888c0541-7e6c-462e-82bd-4a4395d46958
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/tr/webcryptoapi/
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

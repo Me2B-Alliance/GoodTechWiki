@@ -1,12 +1,12 @@
-created:1582720021476
+created:1582954316202
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fceb8eea-6f63-4635-a8ab-e298991ffe18
+map.base:fe823f6c-e1cd-44e1-9c53-268ead281008
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021476
+modified:1582954316202
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Citizenship and Immigration Services/filter/edges
-tmap.id:64dc0383-b541-4a40-8045-7e150782eb3e
+tmap.id:e830329b-dc01-493d-b425-254abca8ebdb
 type:text/vnd.tiddlywiki
 
 No body provided

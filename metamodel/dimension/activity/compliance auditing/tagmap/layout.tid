@@ -1,0 +1,24 @@
+created: 15891217220303000
+map.base: 862bd96f-9c98-423a-b39a-53f8cca71f8a
+map.role: layout
+map.type: tagmap
+modified: 20200229090709179
+tiddler.classification: map
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/compliance auditing/map
+tmap.id: b525111f-57d6-4fc0-b1ff-b2cb386d500e
+type: text/vnd.tiddlywiki
+
+{
+ "48453bd8-05d7-4dcd-9e1e-3813344bd87c": {
+  "x": -31,
+  "y": -32
+ },
+ "07ed6971-73bc-4479-8ff0-712282744059": {
+  "x": -12,
+  "y": 44
+ },
+ "b93395bf-7b5b-4194-8488-5c2d04d6715c": {
+  "x": 45,
+  "y": -12
+ }
+}

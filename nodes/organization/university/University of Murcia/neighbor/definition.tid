@@ -1,17 +1,17 @@
-config.central-topic:e69a7e44-d694-46f3-a6db-e7eb15318060
+config.central-topic:0284f532-ac1b-4216-b844-7cf5d9bc7f86
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021527
-id:2ba2708d-c321-4d26-8ea2-4c9da126f601
+created:1582954316235
+id:756136f4-6a6f-4f91-8d07-2b36ab59fb13
 isview:false
-map.base:e69a7e44-d694-46f3-a6db-e7eb15318060
+map.base:0284f532-ac1b-4216-b844-7cf5d9bc7f86
 map.role:definition
 map.type:neighbor
-modified:1582720021527
+modified:1582954316235
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/University of Murcia
-tmap.id:2ba2708d-c321-4d26-8ea2-4c9da126f601
+tmap.id:756136f4-6a6f-4f91-8d07-2b36ab59fb13
 type:text/vnd.tiddlywiki
 
 Neighbor Map of University of Murcia

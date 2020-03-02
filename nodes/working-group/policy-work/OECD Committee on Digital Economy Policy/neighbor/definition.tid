@@ -1,17 +1,17 @@
-config.central-topic:e56496ca-2def-4175-9325-a75115be42ae
+config.central-topic:8537e0ad-958b-494e-8f0c-c1e34d2f0c7a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021694
-id:ab68dff0-3048-4033-9352-3b2e3b85a411
+created:1582954316376
+id:c07d0953-3503-4e9a-b1b3-90e477c4eb52
 isview:false
-map.base:e56496ca-2def-4175-9325-a75115be42ae
+map.base:8537e0ad-958b-494e-8f0c-c1e34d2f0c7a
 map.role:definition
 map.type:neighbor
-modified:1582720021694
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OECD Committee on Digital Economy Policy
-tmap.id:ab68dff0-3048-4033-9352-3b2e3b85a411
+tmap.id:c07d0953-3503-4e9a-b1b3-90e477c4eb52
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OECD Committee on Digital Economy Policy

@@ -1,12 +1,12 @@
-created:1582720021628
+created:1582954316320
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4751180e-bb30-45c1-99a0-5f67e00a0b7f
+map.base:44f21c80-ca2a-410e-8080-04c6c2969ca6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021628
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP REPORTS N°1 : Privacy Towards 2020 (A4)'/filter/edges
-tmap.id:7cfe78d9-b50d-49bb-8609-175d7ebf3e4f
+tmap.id:86e239b4-1195-4664-a7d9-a8d1c149fa8f
 type:text/vnd.tiddlywiki
 
 No body provided

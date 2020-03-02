@@ -1,12 +1,12 @@
-created:1582720021629
+created:1582954316322
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e1d8390f-09ec-4206-b098-f5f8f19a8edd
+map.base:84a6d9ae-5e01-46e8-8a44-1e130b72563a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021629
+modified:1582954316322
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Like it or Not, Facebook Is Now a Media Company/filter/edges
-tmap.id:a97384fc-f22b-4bda-9201-a3566f208e5e
+tmap.id:1a7093a2-1b92-4d62-90e7-6901a1ea2be5
 type:text/vnd.tiddlywiki
 
 No body provided

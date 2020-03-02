@@ -1,12 +1,12 @@
-created:1582720021694
+created:1582954316376
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d9727810-37ed-44f8-b626-0d99e9ac1c05
+map.base:b58c77ed-1304-40ef-8d6b-6baa3ef02a54
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021694
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Jericho Forum/filter/edges
-tmap.id:2673b49b-0090-463e-a20f-f9894f8bb22a
+tmap.id:626647b8-f912-474d-9178-3e0e36006aad
 type:text/vnd.tiddlywiki
 
 No body provided

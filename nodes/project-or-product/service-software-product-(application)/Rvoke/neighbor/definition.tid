@@ -1,17 +1,17 @@
-config.central-topic:6b1ed83f-899f-4545-8a1a-8c1b0abf124c
+config.central-topic:dd185257-574e-4352-9777-72f39d139598
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021563
-id:94e20e8b-4e6d-4544-b902-4fd76efb1ffa
+created:1582954316266
+id:6e0956be-7c06-4b45-a4af-6c09df79c259
 isview:false
-map.base:6b1ed83f-899f-4545-8a1a-8c1b0abf124c
+map.base:dd185257-574e-4352-9777-72f39d139598
 map.role:definition
 map.type:neighbor
-modified:1582720021563
+modified:1582954316266
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rvoke
-tmap.id:94e20e8b-4e6d-4544-b902-4fd76efb1ffa
+tmap.id:6e0956be-7c06-4b45-a4af-6c09df79c259
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Rvoke

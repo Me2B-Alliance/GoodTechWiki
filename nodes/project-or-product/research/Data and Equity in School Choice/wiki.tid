@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Data and Equity in School Choice
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[enabling connected learning]] [[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[enabling connected learning (tag)]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Data and Equity in School Choice
 tmap.edges:{}
-tmap.id:8e1139b6-0ab4-48c2-8fd4-25df8f739c15
+tmap.id:f8883107-4201-43fc-b9d0-1ff8dc2d934a
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/initiatives/enabling-connected-learning/data-and-equity-in-school-choice/
 version.or.edition:
 working.group:
 
 The Data and Equity in School Choice project aims to better understand whether, and in what ways, and to what ends, parents and youth draw on publicly available school performance data when making decisions about where to apply and enroll. We will explore how parents and young people in New York City experience school selection in a context in which admission decisions to both public and charter schools are made, at least in part, by algorithm.
+
+
 

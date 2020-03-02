@@ -1,17 +1,17 @@
-config.central-topic:cfdc8d17-546d-4b9e-b208-cfaaf2185890
+config.central-topic:f3ea3128-62c9-441d-963b-728285ac3bf7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021559
-id:9de81bc4-6b8d-4683-9dae-689dd1cc954e
+created:1582954316265
+id:26ace4f0-0bd2-41bf-847f-a540c58aa058
 isview:false
-map.base:cfdc8d17-546d-4b9e-b208-cfaaf2185890
+map.base:f3ea3128-62c9-441d-963b-728285ac3bf7
 map.role:definition
 map.type:neighbor
-modified:1582720021559
+modified:1582954316265
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eTranslation
-tmap.id:9de81bc4-6b8d-4683-9dae-689dd1cc954e
+tmap.id:26ace4f0-0bd2-41bf-847f-a540c58aa058
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eTranslation

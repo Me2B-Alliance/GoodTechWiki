@@ -1,17 +1,17 @@
-config.central-topic:288e9b62-6057-4143-946f-5a9e2adcdf50
+config.central-topic:d0d9db9d-6d23-4bbe-a9be-46b5ed01fcf4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021605
-id:6b9e8846-6983-4825-8738-f31e4fc048e4
+created:1582954316304
+id:fd2bba06-5a19-4e44-8235-2db6c15b5669
 isview:false
-map.base:288e9b62-6057-4143-946f-5a9e2adcdf50
+map.base:d0d9db9d-6d23-4bbe-a9be-46b5ed01fcf4
 map.role:definition
 map.type:neighbor
-modified:1582720021605
+modified:1582954316304
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/When GDPR becomes real, and Blockchain is no longer Fairy Dust
-tmap.id:6b9e8846-6983-4825-8738-f31e4fc048e4
+tmap.id:fd2bba06-5a19-4e44-8235-2db6c15b5669
 type:text/vnd.tiddlywiki
 
 Neighbor Map of When GDPR becomes real, and Blockchain is no longer Fairy Dust

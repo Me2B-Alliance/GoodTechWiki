@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003345
+created:1582954204512
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003345
+modified:1582954204512
 name:Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards – Machine readable travel documents – Part 3: Official travel documents
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Issuer Identification Numbers (IINs)/Application Provider Identifiers (RIDs)Identification cards – Machine readable travel documents – Part 3: Official travel documents
-tmap.edges:{"51db112f-3688-46b1-9f54-e667915d72f5":{"to":"9a22259c-d2d7-40ec-8fd4-acec7ab8c3b6","type":"specification-of-group"}}
-tmap.id:4a4e964e-f48e-4bf1-8f9f-e7ff141b18bf
+tmap.edges:{"04bebebe-8d96-4483-8262-947815ceb77f":{"to":"2b2a15e1-c0c8-4491-b888-da45aca198b9","type":"specification-of-group"}}
+tmap.id:3f834109-f23c-4d44-ba7b-8d20f0e5beef
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -27,4 +27,6 @@ working.group:
 
 The current edition of the following document is adopted as International Standard ISO/IEC 7501-3: 1997: International Civil Aviation Organization (ICAO), Doc 9303 Part 3 - Size-1 and Size-2 Machine Readable Official Travel Documents, Sections Ill and IV, Technical Specifications.
 This International Standard specifies generic formats and minimum data elements for visual inspection and machine reading of official travel documents in the ID-1 and ID-2 card formats containing a single form of machine readable data (optical character recognition, OCR), which may at the option of Governments, be accepted in lieu of a passport as defined in Annex 9 (Chapter 3, paragraph 3.4) to the Convention on International Civil Aviation year 1946 (as revised).
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021653
+created:1582954316343
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2a516eae-7eef-44ba-8f00-96cf94653535
+map.base:6860dd57-07a2-4bf1-8e94-6124e2568b30
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021653
+modified:1582954316343
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes/filter/edges
-tmap.id:97323964-8708-44d9-973c-85cf65524681
+tmap.id:e3abbbe2-9642-462e-bd85-bd5384b51c02
 type:text/vnd.tiddlywiki
 
 No body provided

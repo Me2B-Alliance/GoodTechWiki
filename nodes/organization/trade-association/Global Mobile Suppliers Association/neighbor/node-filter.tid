@@ -1,12 +1,12 @@
-created:1582720021511
-filter:[field:tmap.id[8db70e82-8103-43f3-a2cb-5bbdd42e13f5]]
-map.base:8db70e82-8103-43f3-a2cb-5bbdd42e13f5
+created:1582954316224
+filter:[field:tmap.id[728366e0-1478-4403-ba69-a21d6e5d20f9]]
+map.base:728366e0-1478-4403-ba69-a21d6e5d20f9
 map.role:node-filter
 map.type:neighbor
-modified:1582720021511
+modified:1582954316224
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Mobile Suppliers Association/filter/nodes
-tmap.id:f7eecba0-f1d2-4c29-9d33-178bf197ae76
+tmap.id:172a2198-6544-4fb7-8aec-e77cd93a951f
 type:text/vnd.tiddlywiki
 
 No body provided

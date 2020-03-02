@@ -1,12 +1,12 @@
-created:1582720021441
-filter:[field:tmap.id[7f51b013-df17-42a5-a4cb-f2edf9e423a8]]
-map.base:7f51b013-df17-42a5-a4cb-f2edf9e423a8
+created:1582954316179
+filter:[field:tmap.id[e4b0a21e-b757-4dbe-bcfc-72b25b783fd5]]
+map.base:e4b0a21e-b757-4dbe-bcfc-72b25b783fd5
 map.role:node-filter
 map.type:neighbor
-modified:1582720021441
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/JoloCom/filter/nodes
-tmap.id:35c41aba-93d0-4847-97e8-f9cb144ff3e5
+tmap.id:cb16d832-e2f8-44a6-a7fb-8475b72a1a5f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021682
-filter:[field:tmap.id[b85f3a1f-a2d6-4954-932a-7b26c03d86b8]]
-map.base:b85f3a1f-a2d6-4954-932a-7b26c03d86b8
+created:1582954316362
+filter:[field:tmap.id[f16098f0-d6a0-40c6-a1bc-dc1ce42f0292]]
+map.base:f16098f0-d6a0-40c6-a1bc-dc1ce42f0292
 map.role:node-filter
 map.type:neighbor
-modified:1582720021682
+modified:1582954316362
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Toward Better Usability, Security, and Privacy of Information Technology/filter/nodes
-tmap.id:2dd7e665-e36b-4d98-ac0e-370ef0a66ed9
+tmap.id:7eb773e5-3655-4879-b97a-dc7837e91c7a
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021675
+created:1582954316358
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:02771737-8195-4147-a47c-f5a0ef503f64
+map.base:b235482c-8d6c-44ca-90ab-f253843e27e0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021675
+modified:1582954316358
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain: Perspectives on Research, Technology and Policy/filter/edges
-tmap.id:c812e5ec-6e2c-4759-b15c-4a4d1fa1ad74
+tmap.id:20f80705-2939-444a-9657-23395934c5c8
 type:text/vnd.tiddlywiki
 
 No body provided

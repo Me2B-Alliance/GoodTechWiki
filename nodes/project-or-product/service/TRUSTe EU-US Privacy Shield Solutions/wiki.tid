@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TRUSTe EU-US Privacy Shield Solutions
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:TRUSTe EU-US Privacy Shield Solutions
 tmap.edges:{}
-tmap.id:da79507b-af6a-4fb0-94d7-29a01be0f8dc
+tmap.id:877ec015-d75c-4088-a1ef-6de59164aaa2
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/eu-us-privacy-shield/
 version.or.edition:
 working.group:
 
 Demonstrate EU-US Privacy Shield compliance for customer and employee data transfers with an independent third party review and verification.
+
+
 

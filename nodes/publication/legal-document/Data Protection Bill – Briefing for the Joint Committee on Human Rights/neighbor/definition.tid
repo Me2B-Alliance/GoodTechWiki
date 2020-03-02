@@ -1,17 +1,17 @@
-config.central-topic:43055fe5-6692-4bf2-8a6e-d72277612477
+config.central-topic:01060da0-0161-458b-a685-e4d40b1b3ca2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021579
-id:7f04de4c-9653-4e59-a1a4-e9a7bcfb059b
+created:1582954316278
+id:c9c98acc-ecb4-4dbc-b3df-0dfc8b21bc29
 isview:false
-map.base:43055fe5-6692-4bf2-8a6e-d72277612477
+map.base:01060da0-0161-458b-a685-e4d40b1b3ca2
 map.role:definition
 map.type:neighbor
-modified:1582720021579
+modified:1582954316278
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data Protection Bill – Briefing for the Joint Committee on Human Rights
-tmap.id:7f04de4c-9653-4e59-a1a4-e9a7bcfb059b
+tmap.id:c9c98acc-ecb4-4dbc-b3df-0dfc8b21bc29
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data Protection Bill – Briefing for the Joint Committee on Human Rights

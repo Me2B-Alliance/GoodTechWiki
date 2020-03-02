@@ -1,17 +1,17 @@
-config.central-topic:079ae969-3bf7-4a9e-ab5e-aeab7fc3452f
+config.central-topic:c13712a5-d8e5-4e9d-bafe-5262080dc316
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021458
-id:517e0faf-4bae-4a2d-9369-c4bd7b4480fc
+created:1582954316187
+id:21d039f4-07e6-4678-85ab-a49ace2ad8dd
 isview:false
-map.base:079ae969-3bf7-4a9e-ab5e-aeab7fc3452f
+map.base:c13712a5-d8e5-4e9d-bafe-5262080dc316
 map.role:definition
 map.type:neighbor
-modified:1582720021458
+modified:1582954316187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Knowledge
-tmap.id:517e0faf-4bae-4a2d-9369-c4bd7b4480fc
+tmap.id:21d039f4-07e6-4678-85ab-a49ace2ad8dd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Knowledge

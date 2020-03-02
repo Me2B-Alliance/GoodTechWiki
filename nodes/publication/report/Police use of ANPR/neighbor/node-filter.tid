@@ -1,12 +1,12 @@
-created:1582720021634
-filter:[field:tmap.id[d5d281ba-06e7-4a07-a452-c23116434f75]]
-map.base:d5d281ba-06e7-4a07-a452-c23116434f75
+created:1582954316325
+filter:[field:tmap.id[2c39c86f-588e-45fa-bbbc-b9720ec3c3de]]
+map.base:2c39c86f-588e-45fa-bbbc-b9720ec3c3de
 map.role:node-filter
 map.type:neighbor
-modified:1582720021634
+modified:1582954316325
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police use of ANPR/filter/nodes
-tmap.id:11aa5a9d-928d-47d5-8e21-2245d045f4d9
+tmap.id:57e392d1-55d6-4913-9544-48451245b304
 type:text/vnd.tiddlywiki
 
 No body provided

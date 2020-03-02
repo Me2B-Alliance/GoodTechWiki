@@ -1,17 +1,17 @@
-config.central-topic:06cfa4d6-e83b-4830-ba66-e690b1f9ef9b
+config.central-topic:4e589c2c-349b-4c74-a0d7-fa6169dec578
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021429
-id:3e9f431a-660f-43d5-88c8-ba58807a1ee0
+created:1582954316168
+id:63a0907b-52a4-4ed2-b668-a2aa36439655
 isview:false
-map.base:06cfa4d6-e83b-4830-ba66-e690b1f9ef9b
+map.base:4e589c2c-349b-4c74-a0d7-fa6169dec578
 map.role:definition
 map.type:neighbor
-modified:1582720021429
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EuroCrypt 2017
-tmap.id:3e9f431a-660f-43d5-88c8-ba58807a1ee0
+tmap.id:63a0907b-52a4-4ed2-b668-a2aa36439655
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EuroCrypt 2017

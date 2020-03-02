@@ -1,17 +1,17 @@
-config.central-topic:2dba2762-d131-4f5e-bb2d-0c3d48639195
+config.central-topic:bba5d97d-b46e-45c0-9983-7bfffeebb561
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021491
-id:c1f31289-0d80-4c2d-8bc9-5d9eddb4120e
+created:1582954316215
+id:92777293-f9ea-4743-b293-45b4897f4378
 isview:false
-map.base:2dba2762-d131-4f5e-bb2d-0c3d48639195
+map.base:bba5d97d-b46e-45c0-9983-7bfffeebb561
 map.role:definition
 map.type:neighbor
-modified:1582720021491
+modified:1582954316215
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Partnership for Sustainable Development Data
-tmap.id:c1f31289-0d80-4c2d-8bc9-5d9eddb4120e
+tmap.id:92777293-f9ea-4743-b293-45b4897f4378
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global Partnership for Sustainable Development Data

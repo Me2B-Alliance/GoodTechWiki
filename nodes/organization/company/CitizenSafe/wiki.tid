@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003390
+created:1582954204559
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003390
+modified:1582954204559
 org.name:CitizenSafe
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CitizenSafe
-tmap.edges:{"ed910470-f6da-4853-8122-1d55addb101a":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"},"11705bbd-4672-4b9e-ac7c-47dbf8af0f7c":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:6d8c9b2b-b962-4910-b3a0-e04f663d0221
+tmap.edges:{"e84098f0-b210-4a23-9d5f-e54e2fee8448":{"to":"0eb79291-2a2a-4d18-bd85-8e627af01f5f","type":"certified-idp"},"b5a31cf8-af91-4ee5-a639-b839b848e877":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:b333f9b8-e3d2-45b5-82b2-d21215cabbd6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.citizensafe.co.uk
+
+
 
 
 

@@ -1,12 +1,12 @@
-created:1582720021538
-filter:[field:tmap.id[364a0dcd-c372-4b98-aab0-9df018e1974e]]
-map.base:364a0dcd-c372-4b98-aab0-9df018e1974e
+created:1582954316244
+filter:[field:tmap.id[1d04a8ad-6a63-4eb2-9b8a-d1de46ba73ce]]
+map.base:1d04a8ad-6a63-4eb2-9b8a-d1de46ba73ce
 map.role:node-filter
 map.type:neighbor
-modified:1582720021538
+modified:1582954316244
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tim Bray/filter/nodes
-tmap.id:e0c922a4-826e-4f6e-b531-afa4b9c55e58
+tmap.id:53afc671-28e7-4da9-bc2c-cc48bc884601
 type:text/vnd.tiddlywiki
 
 No body provided

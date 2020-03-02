@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003336
+created:1582954204504
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003336
+modified:1582954204504
 org.name:ULD - Unabhängiges Landeszentrum fur Datenschutz
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ULD - Unabhängiges Landeszentrum fur Datenschutz
-tmap.edges:{"fac5e0f9-0e02-4463-a0ca-d6c2c59857f3":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:7abc3ef3-1bf9-4a88-8b7f-6b0ab2cd2a3c
+tmap.edges:{"69e53990-219e-4903-b351-5e6189dbfc88":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:c336c487-32fc-4b1a-b759-4613c12ebdd3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.datenschutzzentrum.de
+
+
 
 
 

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003378
+created:1582954204547
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003378
+modified:1582954204547
 name:ePrivacy Directive
 publication.type:legislation
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:ePrivacy Directive
 tmap.edges:{}
-tmap.id:0c5cfe54-5bf7-418b-8222-5319c988bab0
+tmap.id:a5e3ef0c-3194-4cdb-8ada-4a5f9ac68d8d
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/digital-single-market/en/news/eprivacy-directive
 version.or.edition:
@@ -35,4 +35,6 @@ The Directive on Privacy and Electronic Communications, known as the ePrivacy Di
 5) Spam: subscribers must give their prior consent before unsolicited commercial communications ("spam") are addressed to them. This also covers SMS text messages and other electronic messages received on any fixed or mobile terminal.
 6) Public directories: subscribers' prior consent is required in order for their telephone numbers, e-mail addresses and postal addresses to appear in public directories.
 7) Calling-line identification: subscribers must be given the option not to have their telephone number disclosed when they make a call.
+
+
 

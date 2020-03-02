@@ -1,12 +1,12 @@
-created:1582720021451
-filter:[field:tmap.id[22a377ab-1b8b-4147-9920-10c4364cafb7]]
-map.base:22a377ab-1b8b-4147-9920-10c4364cafb7
+created:1582954316182
+filter:[field:tmap.id[5d201faa-a0e0-485d-81bd-b3f34ac86e5b]]
+map.base:5d201faa-a0e0-485d-81bd-b3f34ac86e5b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021451
+modified:1582954316182
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Post Office/filter/nodes
-tmap.id:040c4a43-3327-4e5d-a62b-1490345f0156
+tmap.id:91e8f8bb-7248-4ab0-87b6-647e5f0de6f7
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003352
+category:[[research]]
+created:1582954204518
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003352
+modified:1582954204518
 name:ICCRG Internet Congestion Control Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:ICCRG Internet Congestion Control Research Group
-tmap.edges:{"dcc9ebc7-dd0d-4027-a451-c6514008118d":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
-tmap.id:42548326-61c0-4a18-8e16-fc8b1bc4e87d
+tmap.edges:{"389d5180-f8ad-4d47-aebe-d28cfec93928":{"to":"7a003842-ab2a-422d-b974-3b3d755ccd3a","type":"organization-for-group"}}
+tmap.id:cad056af-2c88-42e5-b59e-600a68a1ad35
 type:text/vnd.tiddlywiki
 url:https://irtf.org/iccrg
 version.or.edition:
@@ -47,4 +47,6 @@ There are many different aspects to congestion control that the ICCRG should con
 Also within scope for the ICCRG should be consideration of how congestion control interacts with QoS mechanisms, with traffic engineering, and with lower-layer technologies such as optical-burst-switching. Finally, of significant importance is the interaction between denial-of-service attacks targeted at bandwidth exhaustion, any mechanisms intended to prevent such attacks, and the congestion control architecture. Thus the context for the work of this group is necessarily wide-reaching, and touches on both architecture and mechanism.
 
 Because congestion control is typically a key function of transport protocols, it is hard to separate other transport layer issues from congestion control. Considerations for deployment of transport protocols are therefore also considered within scope. The ICCRG may also consider congestion and protocol performance problems in general IP networks, i.e., not only on the global Internet. One example of such IP networks are multi-tenant, heterogeneous datacenters, which in some sense represent a microcosm of the larger Internet; changes to the transport protocols being considered in that space are fundamental and can have broader implications.
+
+
 

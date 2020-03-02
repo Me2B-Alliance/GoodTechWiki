@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003604
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204782
 name:Linked Data Cryptographic Suite Registry
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Linked Data Cryptographic Suite Registry
 tmap.edges:{}
-tmap.id:7cf5e541-1a83-475f-ab03-2db8c4848d51
+tmap.id:9eb5304f-5ec2-4dfa-9afa-3a4861c0f765
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/ld-cryptosuite-registry
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 This repository contains the Linked Data Cryptographic Suite Registry which is a list of all known Linked Data cryptographic suites and their current level of maturity.
 
 We encourage contributions meeting the Contribution Guidelines. While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the public-credentials mailing list as well.
+
+
 

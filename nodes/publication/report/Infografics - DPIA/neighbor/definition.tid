@@ -1,17 +1,17 @@
-config.central-topic:bf9d2a93-9c12-437f-ace3-25c5ef977105
+config.central-topic:3dd798bc-9b19-47b4-89b4-48de7650d5a7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021628
-id:49ddb7d8-f97e-456f-878c-8acb68ad0827
+created:1582954316321
+id:7fe0df8b-06d7-481a-8cec-ad8a3121091c
 isview:false
-map.base:bf9d2a93-9c12-437f-ace3-25c5ef977105
+map.base:3dd798bc-9b19-47b4-89b4-48de7650d5a7
 map.role:definition
 map.type:neighbor
-modified:1582720021628
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Infografics - DPIA
-tmap.id:49ddb7d8-f97e-456f-878c-8acb68ad0827
+tmap.id:7fe0df8b-06d7-481a-8cec-ad8a3121091c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Infografics - DPIA

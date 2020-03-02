@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003382
+category:[[discussion group]]
+created:1582954204550
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003382
+modified:1582954204550
 name:Web of Things Community Group
 parent.org:
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Web of Things Community Group
-tmap.edges:{"1171afda-f611-43c4-83d7-88d2b88142a7":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
-tmap.id:cc7565da-9bf4-40bd-aba3-8bad263ecd19
+tmap.edges:{"20e2645e-78dd-44ef-a9d1-9f7f47e9f6eb":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"}}
+tmap.id:d90e7ec4-47cc-4cfe-bc62-19c7d5bfeed9
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/community/wot/
+
+
 
 
 

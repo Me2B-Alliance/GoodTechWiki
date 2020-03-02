@@ -1,17 +1,17 @@
-config.central-topic:0afef8ef-c195-4ede-bdb3-0229fe415aa9
+config.central-topic:ecbce5b6-b898-49b9-ae8c-38af60d4fc28
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021450
-id:f1c94495-b063-4a1e-ab87-04b527a3cb71
+created:1582954316181
+id:59e392cf-14e5-4bff-8668-6e0e46f347d4
 isview:false
-map.base:0afef8ef-c195-4ede-bdb3-0229fe415aa9
+map.base:ecbce5b6-b898-49b9-ae8c-38af60d4fc28
 map.role:definition
 map.type:neighbor
-modified:1582720021450
+modified:1582954316181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nomura Research Institute
-tmap.id:f1c94495-b063-4a1e-ab87-04b527a3cb71
+tmap.id:59e392cf-14e5-4bff-8668-6e0e46f347d4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Nomura Research Institute

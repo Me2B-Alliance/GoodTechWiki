@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204772
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204772
 org.name:Trustless Computing Certification Body (TCCB)
 org.type:standards development organization
 parent.org:Trustless Computing Association
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Trustless Computing Certification Body (TCCB)
 tmap.edges:{}
-tmap.id:ddca3364-478b-447b-88c8-a31547a0a4fb
+tmap.id:f329a51e-fa7e-4212-a4ab-d6df6dc5461b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.trustlesscomputing.org/
@@ -39,4 +39,6 @@ Since 2013, the Trustless Computing Association has been building a uniquely acc
 Initially for the most sensitive human communications and transactions of tens of millions of World citizens, it will evolve to certify root-of-trust sub-systems of the most society-critical  IT systems in the areas of social media, autonomous, AI, 5G, IoT, cyber-physical, and public security systems.
 
 It will be a private international standards setting and certification body that will issue a label that IT providers can apply for, in compliance with all current EU and Swiss laws, and downward compatibility with EU eIDAS Qualified and the future Swiss eID LoT3.
+
+
 

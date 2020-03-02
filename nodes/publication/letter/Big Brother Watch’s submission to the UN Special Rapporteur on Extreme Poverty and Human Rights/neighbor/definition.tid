@@ -1,17 +1,17 @@
-config.central-topic:dd89773d-fa32-47c2-a64c-f4e600e3057c
+config.central-topic:5ae410e6-ea4a-40f4-bd6a-7bb46cd1fc8c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021586
-id:b4fd23dd-4e97-45f7-8698-07f83899d24e
+created:1582954316282
+id:b9792225-d03b-44ee-ad17-16ef1bb91884
 isview:false
-map.base:dd89773d-fa32-47c2-a64c-f4e600e3057c
+map.base:5ae410e6-ea4a-40f4-bd6a-7bb46cd1fc8c
 map.role:definition
 map.type:neighbor
-modified:1582720021586
+modified:1582954316282
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Brother Watch’s submission to the UN Special Rapporteur on Extreme Poverty and Human Rights
-tmap.id:b4fd23dd-4e97-45f7-8698-07f83899d24e
+tmap.id:b9792225-d03b-44ee-ad17-16ef1bb91884
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Big Brother Watch’s submission to the UN Special Rapporteur on Extreme Poverty and Human Rights

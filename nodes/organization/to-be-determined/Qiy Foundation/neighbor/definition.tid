@@ -1,17 +1,17 @@
-config.central-topic:eb1e9222-5c52-4bdf-b861-a885534ecf40
+config.central-topic:25bd4042-18de-4b96-8828-9a26540ca1fd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021498
-id:860af51f-f905-41ac-893e-6418eadaadf7
+created:1582954316217
+id:1b17c83b-3204-4be4-b3bd-619f59cd87c0
 isview:false
-map.base:eb1e9222-5c52-4bdf-b861-a885534ecf40
+map.base:25bd4042-18de-4b96-8828-9a26540ca1fd
 map.role:definition
 map.type:neighbor
-modified:1582720021498
+modified:1582954316217
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Qiy Foundation
-tmap.id:860af51f-f905-41ac-893e-6418eadaadf7
+tmap.id:1b17c83b-3204-4be4-b3bd-619f59cd87c0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Qiy Foundation

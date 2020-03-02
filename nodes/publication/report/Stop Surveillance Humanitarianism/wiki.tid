@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[mark latonero]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:Stop Surveillance Humanitarianism
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Stop Surveillance Humanitarianism
 tmap.edges:{}
-tmap.id:efbc54a2-7a7c-4ef0-aea6-9a219678da44
+tmap.id:4ff2ff80-3a3a-4b8e-bf10-ad97c8d7a047
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/stop-surveillance-humanitarianism/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Technology can often do more harm than good in humanitarian situations. In an op-ed for The New York Times, Research Lead Mark Latonero argues against surveillance humanitarianism.
 
     “Despite the best intentions, the decision to deploy technology like biometrics is built on a number of unproven assumptions, such as, technology solutions can fix deeply embedded political problems. And that auditing for fraud requires entire populations to be tracked using their personal data. And that experimental technologies will work as planned in a chaotic conflict setting. And last, that the ethics of consent don’t apply for people who are starving.”
+
+
 

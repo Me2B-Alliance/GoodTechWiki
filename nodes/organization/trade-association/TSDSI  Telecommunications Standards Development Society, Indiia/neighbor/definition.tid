@@ -1,17 +1,17 @@
-config.central-topic:a0eb2b9a-7f92-4767-9dfc-bc5a6ed03025
+config.central-topic:da211626-bd2b-4935-bfa8-96fbaa90aec4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021524
-id:097b3b2f-3c06-4577-baf5-0860a8b354c0
+created:1582954316231
+id:6d8309ef-5f84-4f1f-b582-34d4f71c6265
 isview:false
-map.base:a0eb2b9a-7f92-4767-9dfc-bc5a6ed03025
+map.base:da211626-bd2b-4935-bfa8-96fbaa90aec4
 map.role:definition
 map.type:neighbor
-modified:1582720021524
+modified:1582954316231
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TSDSI  Telecommunications Standards Development Society, Indiia
-tmap.id:097b3b2f-3c06-4577-baf5-0860a8b354c0
+tmap.id:6d8309ef-5f84-4f1f-b582-34d4f71c6265
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TSDSI  Telecommunications Standards Development Society, Indiia

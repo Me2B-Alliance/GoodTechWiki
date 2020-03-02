@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003382
+category:[[discussion group]]
+created:1582954204550
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003382
+modified:1582954204550
 name:Working Party on Security and Privacy in the Digital Economy (WPSDE)
 parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Working Party on Security and Privacy in the Digital Economy (WPSDE)
-tmap.edges:{"d9214a9b-d31d-4929-a6fc-88ac26cfdbcf":{"to":"2c7f8fa2-38cb-4712-8f3d-7fc2cf5cda6e","type":"convenor"},"19c854e6-df6a-41c4-aa9f-93fee4d98e0c":{"to":"e56496ca-2def-4175-9325-a75115be42ae","type":"specification-of-group"}}
-tmap.id:617b1393-fda6-40a8-a512-bdc3b0a493e4
+tmap.edges:{"3da73b61-1be7-4c49-87db-42b7a3de6315":{"to":"7188f61a-8cbf-40c8-b092-03f87f018800","type":"convenor"},"a08d5b6e-f782-4cbb-b040-83b974c056fc":{"to":"8537e0ad-958b-494e-8f0c-c1e34d2f0c7a","type":"specification-of-group"}}
+tmap.id:e7ccb88f-19ec-465d-858e-3824ca6adb07
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

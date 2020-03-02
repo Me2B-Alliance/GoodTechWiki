@@ -1,12 +1,12 @@
-created:1582720021628
+created:1582954316321
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1cf30dee-a2e3-4c45-9fb5-c5bc45dd12ef
+map.base:6cf7eb3f-fcb5-46d7-ad67-2153b40f9253
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021628
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP newsletter N°3 : How can we control our personal data online?/filter/edges
-tmap.id:258a2021-0dd4-43b3-9547-674c5fdd1c55
+tmap.id:71605fdc-9dff-4344-b488-77d57ebd18f6
 type:text/vnd.tiddlywiki
 
 No body provided

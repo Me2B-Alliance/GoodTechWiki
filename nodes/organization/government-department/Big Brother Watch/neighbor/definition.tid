@@ -1,17 +1,17 @@
-config.central-topic:3a1428e5-db85-40fb-bd45-64d644b801c1
+config.central-topic:1d30479b-f098-442e-b28d-7c068a8ab0a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021461
-id:0445df7b-b23c-4578-98e8-dbfdfe77d5a3
+created:1582954316189
+id:89e82a4e-6d7a-4e34-9bc6-9c3f4a6cc06e
 isview:false
-map.base:3a1428e5-db85-40fb-bd45-64d644b801c1
+map.base:1d30479b-f098-442e-b28d-7c068a8ab0a2
 map.role:definition
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Brother Watch
-tmap.id:0445df7b-b23c-4578-98e8-dbfdfe77d5a3
+tmap.id:89e82a4e-6d7a-4e34-9bc6-9c3f4a6cc06e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Big Brother Watch

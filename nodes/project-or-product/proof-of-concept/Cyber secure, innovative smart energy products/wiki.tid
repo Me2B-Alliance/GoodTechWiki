@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003359
+category:[[proof of concept]]
+created:1582954204526
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003359
+modified:1582954204526
 name:Cyber secure, innovative smart energy products
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:Cyber secure, innovative smart energy products
 tmap.edges:{}
-tmap.id:cb6b0a85-510b-4a0a-bef0-5225878dbc8d
+tmap.id:d749b8e8-3d60-4154-bd04-251b63709f6c
 type:text/vnd.tiddlywiki
 url:http://www.cyberwiser.eu/pilots/cyber-secure-innovative-smart-energy-products
 version.or.edition:
@@ -33,4 +33,6 @@ This Pilot focuses on testing the effectiveness of the WISER approach when appli
 
 
 The events of are medium impact with relatively high probability, and related to typical Internet of Things situations. The pilot evaluation will centre on the adaptability and scalability of WISER signalling and real-time monitoring platform to cope with highly distributed and dynamic target infrastructures. It also focuses their capability to process and analyse massive amounts of cyber security data.
+
+
 

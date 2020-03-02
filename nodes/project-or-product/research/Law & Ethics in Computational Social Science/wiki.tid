@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Law & Ethics in Computational Social Science
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]]
+tags:[[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Law & Ethics in Computational Social Science
 tmap.edges:{}
-tmap.id:1e02362b-441d-4d4b-b2db-0552d477e2f7
+tmap.id:2f9b4fd1-cfb0-4fbf-b34e-6830da49e7b3
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/#law_ethics_in_comp
 version.or.edition:
 working.group:
 
 Machine learning raises novel challenges for ensuring non-discrimination, due process, and understandability in decision-making. This initiative uses computational approaches and quantitative and qualitative datasets to translate findings to policymakers, regulators, and advocates who seek to understand issues in data and AI ethics.
+
+
 

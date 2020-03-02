@@ -1,12 +1,12 @@
-created:1582720021684
+created:1582954316364
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d5f6c550-79ca-4852-b7d8-0fa1a8d8a16d
+map.base:32a3d5c8-83bc-4a76-b711-4fc3056e4a18
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021684
+modified:1582954316364
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on Mobile processing of Personal Data and Security/filter/edges
-tmap.id:763d3695-a29e-4029-bda8-7658d4d292fe
+tmap.id:87e091bf-f8f5-43cc-aa67-1e51bc0da773
 type:text/vnd.tiddlywiki
 
 No body provided

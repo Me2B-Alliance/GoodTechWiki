@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204540
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204540
 org.name:ATIS   The Alliance for Telecommunications Industry Solutions, USA
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ATIS   The Alliance for Telecommunications Industry Solutions, USA
-tmap.edges:{"1550231e-e927-47c9-a743-5fc71f939c31":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"},"e7fc0d44-df04-4e91-a78a-85a2cdcfa91a":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"}}
-tmap.id:a73941e9-8958-45c6-ae00-b302639aa22c
+tmap.edges:{"92f093db-1b75-4382-8489-a327e45a241c":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"},"bc32ebd4-3682-4ed3-838e-f355a169120e":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"}}
+tmap.id:0d1d42c6-32c5-4828-9ec8-f524bcf74167
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.atis.org
+
+
 
 
 

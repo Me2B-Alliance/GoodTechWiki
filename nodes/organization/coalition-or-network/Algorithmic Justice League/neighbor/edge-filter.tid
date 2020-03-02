@@ -1,12 +1,12 @@
-created:1582720021433
+created:1582954316172
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1248baa5-f36b-44dc-aca1-66b727a3b04b
+map.base:d156e5ff-c140-48b3-8526-168fd0df8aa9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021433
+modified:1582954316172
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithmic Justice League/filter/edges
-tmap.id:e2238e1c-3739-43d5-a60c-625aac4e1806
+tmap.id:cc570fbe-c7af-4705-9592-84cf7a0d9733
 type:text/vnd.tiddlywiki
 
 No body provided

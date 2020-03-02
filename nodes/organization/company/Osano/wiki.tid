@@ -1,38 +1,46 @@
-activities:[[service provider]] [[software development]] [[compliance auditing]]
-annual.budget:
-audience:
-created:1582720003590
-date.ended:
-date.founded:
-digital.harms.addressed:
-element.type:organization
-funding:
-github.profile:https://github.com/osano
-input.source:me2b
-key.people:
-linkedin.profile:https://www.linkedin.com/company/osano/
-location(s):
-me2b.relationship:
-modified:1582720003590
-org.name:Osano
-org.type:company
-parent.org:
-partners:
-products.and.or.services:
-purpose:
-relevant.publications:
-scope:
-sector:for-profit
-status:
-tags:
-tech.focus:
-tiddler.classification:node
-title:Osano
-tmap.edges:{"c0719f77-b666-43f2-9a48-6e102c5cfdaf":{"to":"a19ed132-5d7c-402f-a544-33891b04412c","type":"Organization Supports Project or Product"},"ff7a03a7-9bc9-4997-acaf-73cc4146d386":{"to":"a19ed132-5d7c-402f-a544-33891b04412c","type":"Organization Supports Project or Product"}}
-tmap.id:0976b7ce-9c00-4d18-a636-9cc519a2b537
-twitter.profile:https://twitter.com/osanoatx
-type:text/vnd.tiddlywiki
-website:https://www.osano.com
+activities: [[service provider]] [[software development]] [[compliance auditing]]
+annual.budget: 
+audience: 
+created: 15891212051606000
+date.ended: 
+date.founded: 
+digital.harms.addressed: 
+editing.dates: yes
+editing.location: yes
+editing.tags: no
+editing.tags.$fields$: yes
+editing.tags.activities: no
+editing.tags.audience: no
+element.type: organization
+funding: 
+github.profile: https://github.com/osano
+input.source: me2b
+key.people: 
+linkedin.profile: https://www.linkedin.com/company/osano/
+location(s): 
+me2b.relationship: 
+modified: 20200229095301590
+org.name: Osano
+org.type: company
+parent.org: 
+partners: 
+products.and.or.services: 
+purpose: 
+relevant.publications: 
+scope: 
+sector: for-profit
+status: 
+tags: 
+tech.focus: 
+tiddler.classification: node
+title: Osano
+tmap.edges: {"fbe99d1f-118c-446f-8aa5-287f5293db81":{"to":"3d7f33da-3b66-48bb-b6e9-0aa9731cfa74","type":"Organization Supports Project or Product"},"30a616f5-58b6-4971-890c-a5992f7c36a5":{"to":"3d7f33da-3b66-48bb-b6e9-0aa9731cfa74","type":"Organization Supports Project or Product"}}
+tmap.id: 48453bd8-05d7-4dcd-9e1e-3813344bd87c
+twitter.profile: https://twitter.com/osanoatx
+type: text/vnd.tiddlywiki
+website: https://www.osano.com
 
 Osano is an easy-to-use data privacy platform that instantly helps your website become compliant with laws such as GDPR and CCPA. Osano works to keep you out of trouble and monitors all of the vendors you share data with – so you don’t have to.
+
+
 

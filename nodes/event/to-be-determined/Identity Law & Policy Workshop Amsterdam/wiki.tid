@@ -1,13 +1,13 @@
 audience:
-category:to be determined
-created:1582720003381
+category:[[to be determined]]
+created:1582954204549
 date:
 element.type:event
 frequency:
 github.profile:
 host.organization:Open Identity Exchange
 location(s):
-modified:1582720003381
+modified:1582954204549
 name:Identity Law & Policy Workshop Amsterdam
 partners:
 people:
@@ -15,11 +15,13 @@ relevant.publications:
 tags:
 tiddler.classification:node
 title:Identity Law & Policy Workshop Amsterdam
-tmap.edges:{"5144d97e-5876-40d7-a50b-f7646aa3035d":{"to":"5bd836be-9532-47c4-858a-7f49567d9c45","type":"work"},"8a2e9040-aaed-41f8-aed7-ca1cdd8366be":{"to":"99752387-1b69-402d-b79d-d9d5db724475","type":"author"}}
-tmap.id:9acccb76-1e72-4022-9ce1-c2b7b04877f1
+tmap.edges:{"619403be-801d-49ed-8691-f01868015770":{"to":"d1a3833f-548b-4f18-a62c-2c31ae30ec83","type":"work"},"c18148d3-5d27-43c9-bf69-d17fc22b3801":{"to":"26a19d6a-4f83-41ee-9efb-562081feb695","type":"author"}}
+tmap.id:dd41e857-f10a-442e-ac78-116afe8d7a85
 type:text/vnd.tiddlywiki
 website:
 working.group:
+
+
 
 
 

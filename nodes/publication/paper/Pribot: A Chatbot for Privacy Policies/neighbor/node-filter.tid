@@ -1,12 +1,12 @@
-created:1582720021601
-filter:[field:tmap.id[82c8683f-76aa-44d0-887e-0f03dd9af36a]]
-map.base:82c8683f-76aa-44d0-887e-0f03dd9af36a
+created:1582954316300
+filter:[field:tmap.id[5e87cf68-7307-4c0d-8069-932f71ed6652]]
+map.base:5e87cf68-7307-4c0d-8069-932f71ed6652
 map.role:node-filter
 map.type:neighbor
-modified:1582720021601
+modified:1582954316300
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Pribot: A Chatbot for Privacy Policies/filter/nodes
-tmap.id:d4c031e3-fc31-48f6-b091-ac3dd63350ad
+tmap.id:3b4c44aa-82a5-4181-88e7-ad44e713cb0a
 type:text/vnd.tiddlywiki
 
 No body provided

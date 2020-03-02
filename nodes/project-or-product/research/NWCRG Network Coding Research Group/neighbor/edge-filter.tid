@@ -1,12 +1,12 @@
-created:1582720021550
+created:1582954316258
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2224b1e0-2385-4c11-8c15-916e0c061f92
+map.base:5523193d-2238-4904-ab75-a764fa4808b2
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021550
+modified:1582954316258
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NWCRG Network Coding Research Group/filter/edges
-tmap.id:db238cf8-4aa9-4f36-b8bb-ad714ed97e64
+tmap.id:f5f52440-412f-42a8-976c-d53e4fedee67
 type:text/vnd.tiddlywiki
 
 No body provided

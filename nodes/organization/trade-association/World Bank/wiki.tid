@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204541
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204541
 org.name:World Bank
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:World Bank
-tmap.edges:{"dfe02e05-0d6b-4ac4-ab31-f764312be021":{"to":"d571b43e-c2f6-47de-bccc-513867f20bb2","type":"author"},"6f0993c3-e289-47af-bd9e-f7b6c584b6cc":{"to":"5bd836be-9532-47c4-858a-7f49567d9c45","type":"sponsor"}}
-tmap.id:6fcf9086-9fdd-424a-8859-5c7c3e9ec6fd
+tmap.edges:{"4b228593-4178-4f09-a3b2-17aefd114a57":{"to":"ea6cd763-f0d1-4bbd-bca8-024fb4f8a8d9","type":"author"},"8d5148f4-1fd0-4fba-beae-f7c054e5bdd6":{"to":"d1a3833f-548b-4f18-a62c-2c31ae30ec83","type":"sponsor"}}
+tmap.id:2d2ac9db-ac90-46ae-9e75-264e9a4f3f61
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,17 +1,17 @@
-config.central-topic:e39f8b9b-070a-45bd-bf8c-ca235e45189c
+config.central-topic:d879d238-5353-4fef-bef1-7fbe3f39d44a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021653
-id:7e94333d-1203-4926-a88b-b13e04a8bcf4
+created:1582954316344
+id:e85930a4-3dfc-497c-80e0-61f32ca19fad
 isview:false
-map.base:e39f8b9b-070a-45bd-bf8c-ca235e45189c
+map.base:d879d238-5353-4fef-bef1-7fbe3f39d44a
 map.role:definition
 map.type:neighbor
-modified:1582720021653
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OpenID Connect 1.0
-tmap.id:7e94333d-1203-4926-a88b-b13e04a8bcf4
+tmap.id:e85930a4-3dfc-497c-80e0-61f32ca19fad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Health Relationship Trust Profile for OpenID Connect 1.0

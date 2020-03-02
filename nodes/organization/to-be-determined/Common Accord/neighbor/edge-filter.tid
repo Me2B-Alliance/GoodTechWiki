@@ -1,12 +1,12 @@
-created:1582720021488
+created:1582954316210
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bede0c95-9ad3-4ec1-be44-1c632a0f61a2
+map.base:3ac83473-8643-4f51-b1fe-a91f8a3df032
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021488
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Common Accord/filter/edges
-tmap.id:9d72a387-9059-481a-8334-c5a3e2bb7751
+tmap.id:cf02c80a-3cb2-4949-bd4a-1f9b6c212f1a
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003325
+category:[[specification work]]
+created:1582954204492
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003325
+modified:1582954204492
 name:IOC: International Mobile Subscriber Identity (IMSI) Oversight Council
 parent.org:ATIS   The Alliance for Telecommunications Industry Solutions, USA
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:IOC: International Mobile Subscriber Identity (IMSI) Oversight Council
-tmap.edges:{"2830fc08-0a51-48e1-8357-f703b9b375ef":{"to":"a73941e9-8958-45c6-ae00-b302639aa22c","type":"organization-for-group"}}
-tmap.id:39ef3483-4850-468c-b940-00b3c210f9cf
+tmap.edges:{"a87cfafb-eccd-484e-be12-54628c30d274":{"to":"0d1d42c6-32c5-4828-9ec8-f524bcf74167","type":"organization-for-group"}}
+tmap.id:80755c96-02fe-4b83-bc1d-5afee4b5ae3d
 type:text/vnd.tiddlywiki
 url:http://www.atis.org/01_committ_forums/ioc/about.asp
 
 IOC is an open industry council of telecommunications companies and other organizations with a direct interest in the management of IMSI codes—the critical 15-digit number used within mobile phones that allows service operators to identify mobile terminals for purposes of international roaming. The IOC oversees the management of IMSI codes that have been assigned to the United States and its possessions as authorized by the U.S. Department of State since 1996.
+
+
 

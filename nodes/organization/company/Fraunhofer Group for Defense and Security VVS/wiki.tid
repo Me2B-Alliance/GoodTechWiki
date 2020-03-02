@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204555
 org.name:Fraunhofer Group for Defense and Security VVS
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:Fraunhofer Group for Defense and Security VVS
-tmap.edges:{"8c5a405b-1310-4d46-9200-b797482cc4f2":{"to":"52de80e0-cf0f-47c1-a75a-c2cec0dad1d5","type":"convenor"}}
-tmap.id:bc8ac647-a5cd-4da9-9930-e42ee7f6bec7
+tmap.edges:{"7702ac1a-cc32-4e75-97e3-4d11a1c56483":{"to":"4386bc10-311c-4dbe-b10c-2ed1384d57d7","type":"convenor"}}
+tmap.id:e3cd9fb4-9ef3-4d29-bb5f-51723fad4d3d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.vvs.fraunhofer.de/servlet/is/100261/
+
+
 
 
 

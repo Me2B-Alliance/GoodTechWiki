@@ -1,12 +1,12 @@
-created:1582720021649
+created:1582954316341
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c473639f-c594-4197-90fc-d5064de5c24f
+map.base:d803e7ee-193b-4190-8e39-120ae06f40a5
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021649
+modified:1582954316341
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AccountChooser Integration API Profile 1.0/filter/edges
-tmap.id:51272e5c-d3b1-4056-9950-e1f322785f85
+tmap.id:30d36184-3146-42b2-893c-7b5711a1f007
 type:text/vnd.tiddlywiki
 
 No body provided

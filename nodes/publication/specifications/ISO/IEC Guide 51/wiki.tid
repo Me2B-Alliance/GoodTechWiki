@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003603
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204781
 name:ISO/IEC Guide 51
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions]] [[12 iso/iec guides (english)]]
+tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions (tag)]] [[12 iso/iec guides (english) (tag)]]
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC Guide 51
 tmap.edges:{}
-tmap.id:63b120da-29f2-4148-aa5f-21a47eea0a1a
+tmap.id:02a0a0b0-9203-48ce-b917-7af8d2ddd1cc
 type:text/vnd.tiddlywiki
 url:https://www.iso.org/standard/53940.html
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Safety aspects — Guidelines for their inclusion in standards
 
 ISO/IEC Guide 51:2014 provides requirements and recommendations for the drafters of standards for the inclusion of safety aspects in standards. ISO/IEC Guide 51:2014 is applicable to any safety aspect related to people, property or the environment, or to a combination of these.
+
+
 

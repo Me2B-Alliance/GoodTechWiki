@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204556
 org.name:Miracle A/S
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Miracle A/S
-tmap.edges:{"beab49df-2047-4c3f-ae00-e80b27bc1ed6":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:fbb42f0a-fd16-46d1-826c-b015b2a9de81
+tmap.edges:{"0695c49b-4b1e-441c-9b84-dbe2646c24c2":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:c0977527-dd91-4dbd-ae90-ed6e1c075844
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://miracle.dk
+
+
 
 
 

@@ -1,12 +1,12 @@
-created:1582720021460
+created:1582954316188
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f883d63c-fbf3-42f5-b7fb-fb111400a95e
+map.base:c06ddac8-ba42-4d17-be62-fb0ace910d5c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021460
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Indian Government/filter/edges
-tmap.id:f813deae-71c5-487b-be0a-172d5f4beb94
+tmap.id:f3f4bfec-0fb3-4446-b877-35284e162573
 type:text/vnd.tiddlywiki
 
 No body provided

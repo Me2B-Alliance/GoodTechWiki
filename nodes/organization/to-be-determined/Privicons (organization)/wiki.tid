@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:[[max senges]] [[imanol urra]] [[jan schallaböck]] [[ulrich könig]]
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:Privicons
 org.type:to-be-determined
 parent.org:
@@ -29,10 +29,12 @@ tech.focus:
 tiddler.classification:node
 title:Privicons (organization)
 tmap.edges:{}
-tmap.id:a6d2a026-bef6-42f4-8898-c183667e9a9d
+tmap.id:710d1bcf-6dc5-4010-ba59-6308d63aec5c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://privicons.org/
 
 The Privicons project takes aim at the problem of email carelessness by means of "code-backed norms." Specifically, we have developed a vocabulary of icons for users to indicate how their email should be treated, a tool to affix icons to the beginning of email, and tentative commitments from email providers to test out the platform. The icons are based around ascii so that they can appear as embedded graphics or plain text and include a variety of instructions such as "don't print," "internal use only," and "confidential." And, importantly, the instructions can be overridden: we prefer an approach grounded in reminder and courtesy over hard-coded solutions that indiscriminately restrict speech.
+
+
 

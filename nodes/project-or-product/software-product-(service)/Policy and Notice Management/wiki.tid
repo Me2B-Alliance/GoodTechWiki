@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Policy and Notice Management
 parent.org:One Trust
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Policy and Notice Management
 tmap.edges:{}
-tmap.id:cc0ac230-5cfc-4934-90df-774ba3e253f2
+tmap.id:ef6c1c78-eb31-499d-8181-d12be282ce2d
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/onetrust-policy-and-notice-management/
 version.or.edition:
@@ -35,4 +35,6 @@ Global privacy laws like the CCPA and GDPR have created many challenges for orga
 Companies need to be able to identify web forms, policies and disclosures that exist across their digital properties and update and publish them within specific time periods to adhere to the range of global privacy regulations.
 
 The OneTrust Policy and Notice Management solution simplifies the complex process of creating, updating, and monitoring policies across websites and applications into one central location while eliminating the need of complex development work.
+
+
 

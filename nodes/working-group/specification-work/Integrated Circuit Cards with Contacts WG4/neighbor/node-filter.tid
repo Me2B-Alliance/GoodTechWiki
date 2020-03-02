@@ -1,12 +1,12 @@
-created:1582720021699
-filter:[field:tmap.id[42a3c567-29e4-46a0-85d2-cc508976326b]]
-map.base:42a3c567-29e4-46a0-85d2-cc508976326b
+created:1582954316380
+filter:[field:tmap.id[25474905-a48f-4488-959b-240f573a3504]]
+map.base:25474905-a48f-4488-959b-240f573a3504
 map.role:node-filter
 map.type:neighbor
-modified:1582720021699
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Integrated Circuit Cards with Contacts WG4/filter/nodes
-tmap.id:a08f126e-d1ac-4b97-bf19-f8fcf8377799
+tmap.id:c6dd7685-8a2e-42ed-b6af-09199d702bf4
 type:text/vnd.tiddlywiki
 
 No body provided

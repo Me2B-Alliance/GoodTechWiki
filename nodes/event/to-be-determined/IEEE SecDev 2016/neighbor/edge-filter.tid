@@ -1,12 +1,12 @@
-created:1582720021430
+created:1582954316168
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3ebfe462-abda-403a-ac0b-aa8337951d2e
+map.base:09b6dd90-2447-43d2-80d1-c0fd7ca54473
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021430
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE SecDev 2016/filter/edges
-tmap.id:3dcb478a-31d3-4326-ac4e-97dbec4d025b
+tmap.id:beaadd0c-c4f8-4eed-939d-9a0b73f3d382
 type:text/vnd.tiddlywiki
 
 No body provided

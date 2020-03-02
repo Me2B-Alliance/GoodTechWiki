@@ -1,12 +1,12 @@
-created:1582720021636
+created:1582954316328
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7efd9289-322a-4b1e-99a8-c942a67d6389
+map.base:fd45f0d7-5b7c-48dc-a65c-80ca75bf560e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021636
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping/filter/edges
-tmap.id:79b0067e-ecd4-41ce-85fa-6e5b3eec3745
+tmap.id:42636189-4043-4deb-9306-2682f30f0e3b
 type:text/vnd.tiddlywiki
 
 No body provided

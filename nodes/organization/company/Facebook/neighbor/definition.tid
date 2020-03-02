@@ -1,17 +1,17 @@
-config.central-topic:b5d5abcf-edf3-4502-87f5-188bfa36bcd3
+config.central-topic:fe6d50ff-e543-481e-93a2-338bb838a352
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021439
-id:d5c4b23d-0c00-46da-b20e-170c91a45813
+created:1582954316177
+id:ae318c87-7cc8-4503-97c9-392c05d0a30f
 isview:false
-map.base:b5d5abcf-edf3-4502-87f5-188bfa36bcd3
+map.base:fe6d50ff-e543-481e-93a2-338bb838a352
 map.role:definition
 map.type:neighbor
-modified:1582720021439
+modified:1582954316177
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Facebook
-tmap.id:d5c4b23d-0c00-46da-b20e-170c91a45813
+tmap.id:ae318c87-7cc8-4503-97c9-392c05d0a30f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Facebook

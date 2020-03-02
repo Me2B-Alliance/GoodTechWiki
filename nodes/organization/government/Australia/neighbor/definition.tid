@@ -1,17 +1,17 @@
-config.central-topic:ad46ae3b-7fce-4b21-b163-da8e1e8bcc8d
+config.central-topic:8f32f6e6-1dc7-41ca-aca3-d8bec01e3ead
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021460
-id:61ab6c00-432f-496c-b093-adb84fb35cb3
+created:1582954316188
+id:2d7ec5ef-69c7-4a3a-9c32-732ca6e5e714
 isview:false
-map.base:ad46ae3b-7fce-4b21-b163-da8e1e8bcc8d
+map.base:8f32f6e6-1dc7-41ca-aca3-d8bec01e3ead
 map.role:definition
 map.type:neighbor
-modified:1582720021460
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Australia
-tmap.id:61ab6c00-432f-496c-b093-adb84fb35cb3
+tmap.id:2d7ec5ef-69c7-4a3a-9c32-732ca6e5e714
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Australia

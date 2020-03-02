@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Data & Society Research
 parent.org:Data & Society Research Institute
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Data & Society Research
 tmap.edges:{}
-tmap.id:28cf7936-324a-41db-81b0-b2c632418b4b
+tmap.id:99cb49e6-88bd-4238-a6f9-aed7971157e1
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/
 version.or.edition:
@@ -39,4 +39,6 @@ Research at Data & Society is shaped by cross-cutting themes:
 Vulnerabilities in socio-technical systems
 
 While calls for greater accountability mechanisms within socio-technical systems are widespread, these systems are increasingly subject to manipulation, such as from biased data that infuse algorithmic models. These conditions require an assessment of strategic manipulation, a broad imagination about the possibilities for encoding fairness and accountability into technical systems, and deep ethnographic research that describes and understands new social activity.
+
+
 

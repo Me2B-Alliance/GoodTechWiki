@@ -1,12 +1,12 @@
-created:1582720021630
-filter:[field:tmap.id[2738b16e-5462-49eb-bd72-a4d2d84fdf3f]]
-map.base:2738b16e-5462-49eb-bd72-a4d2d84fdf3f
+created:1582954316322
+filter:[field:tmap.id[5ce4a35b-1112-455e-901d-7ddef736559c]]
+map.base:5ce4a35b-1112-455e-901d-7ddef736559c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021630
+modified:1582954316322
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MIT Computational Law Report/filter/nodes
-tmap.id:34603480-eb4b-43d6-a7c3-268977d1aae2
+tmap.id:985fe38d-52ce-451f-b670-821dea2b1e7a
 type:text/vnd.tiddlywiki
 
 No body provided

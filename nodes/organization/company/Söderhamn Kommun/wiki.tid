@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003385
+created:1582954204552
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003385
+modified:1582954204552
 org.name:Söderhamn Kommun
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Söderhamn Kommun
-tmap.edges:{"ec93d718-b555-4329-894d-0ecddb7202c7":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"}}
-tmap.id:d957603b-16b1-42f7-875b-9f45647750b3
+tmap.edges:{"0644723f-6c47-4f01-b0c2-f169423f5ad8":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"}}
+tmap.id:4b1aa319-8f23-46d0-90fa-aa53c5b82656
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.soderhamn.se
+
+
 
 
 

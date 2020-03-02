@@ -1,17 +1,17 @@
-config.central-topic:1e960bb2-3507-40f3-a623-0664f3a04a8c
+config.central-topic:328ae9c4-7202-4f10-b812-9930eb430c40
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021625
-id:b579b827-06c1-4860-b30f-d9f4a8a0e469
+created:1582954316318
+id:d92ec2e5-bd00-4adb-900b-7b64d2610852
 isview:false
-map.base:1e960bb2-3507-40f3-a623-0664f3a04a8c
+map.base:328ae9c4-7202-4f10-b812-9930eb430c40
 map.role:definition
 map.type:neighbor
-modified:1582720021625
+modified:1582954316318
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on Data Protection Impact Assessment (DPIA)
-tmap.id:b579b827-06c1-4860-b30f-d9f4a8a0e469
+tmap.id:d92ec2e5-bd00-4adb-900b-7b64d2610852
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on Data Protection Impact Assessment (DPIA)

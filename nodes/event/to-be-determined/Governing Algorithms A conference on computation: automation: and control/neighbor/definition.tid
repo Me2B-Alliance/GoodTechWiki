@@ -1,17 +1,17 @@
-config.central-topic:10a900d3-b8ec-46c3-ba19-8f8eb7058b31
+config.central-topic:6c52214b-7e93-4beb-afcb-ff7bbe954134
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021429
-id:81dcf9a6-da36-4670-b2e7-244704ec19c8
+created:1582954316168
+id:eae37c2d-345a-479b-bbe2-2bcb57acd8f0
 isview:false
-map.base:10a900d3-b8ec-46c3-ba19-8f8eb7058b31
+map.base:6c52214b-7e93-4beb-afcb-ff7bbe954134
 map.role:definition
 map.type:neighbor
-modified:1582720021429
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Governing Algorithms A conference on computation: automation: and control
-tmap.id:81dcf9a6-da36-4670-b2e7-244704ec19c8
+tmap.id:eae37c2d-345a-479b-bbe2-2bcb57acd8f0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Governing Algorithms A conference on computation: automation: and control

@@ -1,12 +1,12 @@
-created:1582720021471
+created:1582954316197
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:857e7b1b-ab44-4c64-b043-de0479ac92b0
+map.base:5b0650a1-d8fc-493e-8aaf-7d7ba610aa51
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021471
+modified:1582954316197
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Austrian Federal Ministry of Finance/filter/edges
-tmap.id:fec1e7a8-33e3-4272-971b-faa5c25b4d6c
+tmap.id:1d1e5748-87d3-4d3c-9963-0d80a434741f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021592
+created:1582954316288
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2ae293df-b14f-467b-a43e-91a822560f6b
+map.base:3b4e9555-0a72-4c85-9207-b9a71f977cb8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021592
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01/filter/edges
-tmap.id:7b5b9fba-6c96-4545-bd58-723ed3f80df9
+tmap.id:55b11877-4863-4ef7-8d97-2ba919ea47e3
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021683
-filter:[field:tmap.id[4fa4819a-659e-4e6e-b6e3-a089f10e5605]]
-map.base:4fa4819a-659e-4e6e-b6e3-a089f10e5605
+created:1582954316363
+filter:[field:tmap.id[5c26927f-ca31-463d-aef4-d4524e72ec36]]
+map.base:5c26927f-ca31-463d-aef4-d4524e72ec36
 map.role:node-filter
 map.type:neighbor
-modified:1582720021683
+modified:1582954316363
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Who Goes There?:  Authentication Through the Lens of Privacy/filter/nodes
-tmap.id:fd4fd169-7d12-4c1a-b68c-5d6ea7783351
+tmap.id:cfe99e69-da16-47bb-9515-7c33c8ba0386
 type:text/vnd.tiddlywiki
 
 No body provided

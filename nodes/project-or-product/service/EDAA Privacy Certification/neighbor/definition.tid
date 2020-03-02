@@ -1,17 +1,17 @@
-config.central-topic:238021f2-0d51-48ad-9bcc-5884af7a60d6
+config.central-topic:05936c4f-4656-4ac6-b064-c8d5441a2f8a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021554
-id:dcc22a28-698d-4764-a605-ca2874ccb864
+created:1582954316263
+id:9c9d7b6f-c850-472b-80d9-486113f6d82d
 isview:false
-map.base:238021f2-0d51-48ad-9bcc-5884af7a60d6
+map.base:05936c4f-4656-4ac6-b064-c8d5441a2f8a
 map.role:definition
 map.type:neighbor
-modified:1582720021554
+modified:1582954316263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/EDAA Privacy Certification
-tmap.id:dcc22a28-698d-4764-a605-ca2874ccb864
+tmap.id:9c9d7b6f-c850-472b-80d9-486113f6d82d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of EDAA Privacy Certification

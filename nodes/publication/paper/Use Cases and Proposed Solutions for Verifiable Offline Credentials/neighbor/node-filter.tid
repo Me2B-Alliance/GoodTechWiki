@@ -1,12 +1,12 @@
-created:1582720021605
-filter:[field:tmap.id[e55cd7d9-2c59-49fe-b699-8e3d8600c914]]
-map.base:e55cd7d9-2c59-49fe-b699-8e3d8600c914
+created:1582954316305
+filter:[field:tmap.id[1564c505-46ac-4347-80c1-c799787b49f1]]
+map.base:1564c505-46ac-4347-80c1-c799787b49f1
 map.role:node-filter
 map.type:neighbor
-modified:1582720021605
+modified:1582954316305
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Use Cases and Proposed Solutions for Verifiable Offline Credentials/filter/nodes
-tmap.id:9b3e9a7e-dbbb-42f5-a811-1882f81baf65
+tmap.id:120da424-3676-4033-b26c-d89cf1cf89fe
 type:text/vnd.tiddlywiki
 
 No body provided

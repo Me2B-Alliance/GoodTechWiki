@@ -1,17 +1,17 @@
-config.central-topic:1699fb46-3332-41b2-9f30-4ef3b43a78f3
+config.central-topic:71cd1494-04e5-491b-95f9-1d01a4b9f78b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021613
-id:cdf944d5-2822-4318-b48d-0ec7572c7cd9
+created:1582954316310
+id:98f2a237-7a86-4dfb-b476-215a6b7821c4
 isview:false
-map.base:1699fb46-3332-41b2-9f30-4ef3b43a78f3
+map.base:71cd1494-04e5-491b-95f9-1d01a4b9f78b
 map.role:definition
 map.type:neighbor
-modified:1582720021613
+modified:1582954316310
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Classroom Management Software – Another Brick in the Wall?
-tmap.id:cdf944d5-2822-4318-b48d-0ec7572c7cd9
+tmap.id:98f2a237-7a86-4dfb-b476-215a6b7821c4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Classroom Management Software – Another Brick in the Wall?

@@ -1,12 +1,12 @@
-created:1582720021594
-filter:[field:tmap.id[a78e094c-3af2-48ab-87df-17c8ca03a56b]]
-map.base:a78e094c-3af2-48ab-87df-17c8ca03a56b
+created:1582954316289
+filter:[field:tmap.id[3b76b3b9-04ba-4706-8cff-1201f60bfb37]]
+map.base:3b76b3b9-04ba-4706-8cff-1201f60bfb37
 map.role:node-filter
 map.type:neighbor
-modified:1582720021594
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Credential Wallets/filter/nodes
-tmap.id:5b8368d7-9816-4057-86a4-2771c44eefdb
+tmap.id:61e2053a-78f1-4884-9f15-bc12f5e36e71
 type:text/vnd.tiddlywiki
 
 No body provided

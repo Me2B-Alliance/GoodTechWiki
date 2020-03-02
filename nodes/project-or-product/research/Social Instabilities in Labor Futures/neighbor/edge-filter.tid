@@ -1,12 +1,12 @@
-created:1582720021552
+created:1582954316260
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bcd83b90-2c5a-4c55-ba05-88518568566f
+map.base:c4a08bb5-6ce3-493b-b35e-8491400efc75
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021552
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Social Instabilities in Labor Futures/filter/edges
-tmap.id:7be8de7c-9b7a-45cf-a6e9-ae737fd3793c
+tmap.id:9200d3cc-f047-4696-80ee-8f3e1a0e1531
 type:text/vnd.tiddlywiki
 
 No body provided

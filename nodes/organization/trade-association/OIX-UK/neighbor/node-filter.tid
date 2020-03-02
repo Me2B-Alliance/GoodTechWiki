@@ -1,12 +1,12 @@
-created:1582720021518
-filter:[field:tmap.id[bc1500cb-782e-4fe5-9ae5-9b687678fbdd]]
-map.base:bc1500cb-782e-4fe5-9ae5-9b687678fbdd
+created:1582954316228
+filter:[field:tmap.id[0ca17df6-c4dc-4cef-b7f0-2eca8000742a]]
+map.base:0ca17df6-c4dc-4cef-b7f0-2eca8000742a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021518
+modified:1582954316228
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OIX-UK/filter/nodes
-tmap.id:c64b62f3-c685-4c73-8a9e-6b69d925c36d
+tmap.id:09a6e27f-f5df-4b02-95bb-15508ac2eb57
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:c2e7fd1c-1efd-44a7-af3a-6bffd84ed72a
+config.central-topic:e0976f4a-f6cd-4a97-9172-9c9751966133
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021486
-id:5221e3f6-356f-44e3-8720-04ec46968aa9
+created:1582954316209
+id:ecc26a0b-0c0e-4223-ba77-e378bc8f6c60
 isview:false
-map.base:c2e7fd1c-1efd-44a7-af3a-6bffd84ed72a
+map.base:e0976f4a-f6cd-4a97-9172-9c9751966133
 map.role:definition
 map.type:neighbor
-modified:1582720021486
+modified:1582954316209
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/B Lab
-tmap.id:5221e3f6-356f-44e3-8720-04ec46968aa9
+tmap.id:ecc26a0b-0c0e-4223-ba77-e378bc8f6c60
 type:text/vnd.tiddlywiki
 
 Neighbor Map of B Lab

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:How to Convince Dad* of the Importance of Self-Sovereign Identity
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:How to Convince Dad* of the Importance of Self-Sovereign Identity
 tmap.edges:{}
-tmap.id:2425c6dd-af37-411b-86be-028ffbd644c6
+tmap.id:87e33f33-9f9f-4e70-9156-ef120a75e0ad
 type:text/vnd.tiddlywiki
 url:http://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 One of the major problems with bootstrapping self-sovereign identity is that it requires adoption by a large number of people. Pushing self-sovereign identity from the top-down is most likely to result in a technology that’s not actually used, but instead encouraging the average person to demand self-sovereign identity from the bottom-up will result in the organic development of a vibrant, well-utilized decentralized web-of-trust ecosystem.This paper addresses that need by ofering arguments to a variety of people who might be reluctant to use self-sovereign identity, uninterested in its possibilities, or oblivious to the dangers of centralization. By focusing on theneeds of real people, we hope to also encourage developers, engineers, and software business owners to create the apps that will address their reluctance and fulfll their needs, making self-sovereign identity a reality
+
+
 

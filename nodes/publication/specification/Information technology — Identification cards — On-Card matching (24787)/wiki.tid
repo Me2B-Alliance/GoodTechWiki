@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003344
+created:1582954204511
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003344
+modified:1582954204511
 name:Information technology — Identification cards — On-Card matching (24787)
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Information technology — Identification cards — On-Card matching (24787)
-tmap.edges:{"d9653ecb-f7b7-47d9-85ca-17bc2b87f28f":{"to":"7cb6e360-6de7-42d1-b653-60f350686aaf","type":"specification-of-group"}}
-tmap.id:f9df8874-a724-448a-86d0-edd439acebf3
+tmap.edges:{"5883a1d0-5e36-42fb-904c-f38224f22d16":{"to":"ed47d2ac-4a4e-4c74-ab2b-5538d702d1b8","type":"specification-of-group"}}
+tmap.id:f17978cb-c0ff-475e-9713-fd8228e0a6d7
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

@@ -1,17 +1,17 @@
-config.central-topic:09f64f23-5af8-4569-bf1b-df9d98a97fe0
+config.central-topic:b3f40f83-afb4-431f-97e5-3dbd57558d93
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021650
-id:2c5b4283-62d1-4d96-976c-d429ba2fce01
+created:1582954316342
+id:caef5d43-7d42-4801-902a-7a9e3c5115b5
 isview:false
-map.base:09f64f23-5af8-4569-bf1b-df9d98a97fe0
+map.base:b3f40f83-afb4-431f-97e5-3dbd57558d93
 map.role:definition
 map.type:neighbor
-modified:1582720021650
+modified:1582954316342
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DoNotTrack.Us
-tmap.id:2c5b4283-62d1-4d96-976c-d429ba2fce01
+tmap.id:caef5d43-7d42-4801-902a-7a9e3c5115b5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DoNotTrack.Us

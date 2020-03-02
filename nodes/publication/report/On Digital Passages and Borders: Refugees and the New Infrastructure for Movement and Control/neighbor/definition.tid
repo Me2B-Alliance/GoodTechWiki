@@ -1,17 +1,17 @@
-config.central-topic:f34ce4d6-5685-4c8f-b076-dde6b878daa1
+config.central-topic:9d2571db-9f19-414d-8de3-412ccb59856a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021633
-id:e2bd224d-bb5c-4e37-85ba-89638069e38d
+created:1582954316324
+id:7227385a-4b2d-4f40-9e8b-7e7d9388f7da
 isview:false
-map.base:f34ce4d6-5685-4c8f-b076-dde6b878daa1
+map.base:9d2571db-9f19-414d-8de3-412ccb59856a
 map.role:definition
 map.type:neighbor
-modified:1582720021633
+modified:1582954316324
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/On Digital Passages and Borders: Refugees and the New Infrastructure for Movement and Control
-tmap.id:e2bd224d-bb5c-4e37-85ba-89638069e38d
+tmap.id:7227385a-4b2d-4f40-9e8b-7e7d9388f7da
 type:text/vnd.tiddlywiki
 
 Neighbor Map of On Digital Passages and Borders: Refugees and the New Infrastructure for Movement and Control

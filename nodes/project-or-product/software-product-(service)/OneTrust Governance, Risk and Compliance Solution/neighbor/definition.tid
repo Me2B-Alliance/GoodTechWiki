@@ -1,17 +1,17 @@
-config.central-topic:2d58ae32-582e-417e-a60f-b46c576cc8e2
+config.central-topic:d432eab2-32f2-4606-b5a8-7245c150695a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021566
-id:c293ef7d-75aa-40b0-b70c-5b235123a395
+created:1582954316270
+id:1247999f-a8ee-40df-9b32-58d5bb7b9cef
 isview:false
-map.base:2d58ae32-582e-417e-a60f-b46c576cc8e2
+map.base:d432eab2-32f2-4606-b5a8-7245c150695a
 map.role:definition
 map.type:neighbor
-modified:1582720021567
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OneTrust Governance, Risk and Compliance Solution
-tmap.id:c293ef7d-75aa-40b0-b70c-5b235123a395
+tmap.id:1247999f-a8ee-40df-9b32-58d5bb7b9cef
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OneTrust Governance, Risk and Compliance Solution

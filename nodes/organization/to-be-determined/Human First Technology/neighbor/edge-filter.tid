@@ -1,12 +1,12 @@
-created:1582720021493
+created:1582954316214
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f88031a2-eb65-424d-8af1-dfd5cd9f8ef1
+map.base:a61ebbda-f0e5-49d5-bf66-c94e1a9cb03c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021493
+modified:1582954316214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Human First Technology/filter/edges
-tmap.id:e648eb66-e71f-4749-a006-cc71ef221bb4
+tmap.id:e597df51-a6cd-4be3-9afc-4d3658042236
 type:text/vnd.tiddlywiki
 
 No body provided

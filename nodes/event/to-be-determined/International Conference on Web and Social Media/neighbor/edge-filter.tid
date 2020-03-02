@@ -1,12 +1,12 @@
-created:1582720021430
+created:1582954316169
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:61863f8d-eaf4-4e44-b45a-98b9196c5760
+map.base:b18d12dc-04c5-4433-b5b2-6d92e047240f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021430
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Conference on Web and Social Media/filter/edges
-tmap.id:72f469a3-e858-4415-b6cd-b051240284b3
+tmap.id:8c0bd40f-8088-4c1e-9f4e-7451e6b05178
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:8aaa9093-ce7c-4aa0-8b59-a3d8728ac543
+config.central-topic:47a916c1-f05a-42c3-80bb-94c1e10884f6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021461
-id:d40ecb38-d1cb-4991-8cb6-b80c2a1ba100
+created:1582954316188
+id:ab0f4eca-183a-4713-8ea0-794d1d87d444
 isview:false
-map.base:8aaa9093-ce7c-4aa0-8b59-a3d8728ac543
+map.base:47a916c1-f05a-42c3-80bb-94c1e10884f6
 map.role:definition
 map.type:neighbor
-modified:1582720021461
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Turkish Government
-tmap.id:d40ecb38-d1cb-4991-8cb6-b80c2a1ba100
+tmap.id:ab0f4eca-183a-4713-8ea0-794d1d87d444
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Turkish Government

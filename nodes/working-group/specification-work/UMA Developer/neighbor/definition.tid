@@ -1,17 +1,17 @@
-config.central-topic:0e19cc8a-3a69-4c50-8f6c-9f90862a6c53
+config.central-topic:98a0828e-1e36-4adc-98dd-f39ddb9cf861
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021704
-id:4f4ef592-7607-48a2-97f2-592689ae68b4
+created:1582954316384
+id:358f7764-483e-49db-918d-a94775caee46
 isview:false
-map.base:0e19cc8a-3a69-4c50-8f6c-9f90862a6c53
+map.base:98a0828e-1e36-4adc-98dd-f39ddb9cf861
 map.role:definition
 map.type:neighbor
-modified:1582720021704
+modified:1582954316384
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UMA Developer
-tmap.id:4f4ef592-7607-48a2-97f2-592689ae68b4
+tmap.id:358f7764-483e-49db-918d-a94775caee46
 type:text/vnd.tiddlywiki
 
 Neighbor Map of UMA Developer

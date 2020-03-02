@@ -1,7 +1,7 @@
 activities:[[research]] [[publication]]
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003590
+modified:1582954204766
 org.name:Mozilla Foundation
 org.type:foundation
 parent.org:
@@ -28,11 +28,13 @@ tags:[[advocacy]]
 tech.focus:
 tiddler.classification:node
 title:Mozilla Foundation
-tmap.edges:{"5ab27220-7773-405a-b22c-d28ae9078234":{"to":"4fc366bb-4264-4563-ba31-7f1c138f3cad","type":"Organization Supports Project or Product"},"208a6b0e-227f-464c-880b-f75929ee2d19":{"to":"22939f07-68e4-4c8f-bad9-163599cd4d44","type":"Organization Supports Project or Product"},"0b96bb64-7311-4962-a8ac-cae321ccc37f":{"to":"1b3358de-e109-408f-ad1c-8f54a50c658e","type":"Organization Supports Project or Product"}}
-tmap.id:b13c15fe-92a2-4f29-b4a6-ef4a916a731d
+tmap.edges:{"0b8bb684-1a75-4772-ae6f-844da3199d86":{"to":"a5a13ad4-057c-484e-82ae-b26e4f578f69","type":"Organization Supports Project or Product"},"4556deb9-0545-4a1d-95e9-c4642ef1d203":{"to":"b641bfe7-df4e-4862-a1f7-cdaecc19b4a8","type":"Organization Supports Project or Product"},"563ab072-eb92-40fc-8372-3e21a5256d52":{"to":"17717ce7-f63a-4e0e-85fb-531419d37b46","type":"Organization Supports Project or Product"}}
+tmap.id:693ea472-b61d-40ca-9f29-19196548589e
 twitter.profile:https://twitter.com/mozilla
 type:text/vnd.tiddlywiki
 website:https://foundation.mozilla.org/en/
 
 The direct work of the Mozilla Foundation focuses on fueling the movement for a healthy internet. We do this by supporting a diverse group of fellows working on key internet issues, connecting open Internet leaders at events like MozFest, publishing critical research in the Internet Health Report, and rallying citizens around advocacy issues that connect the wellbeing of the Internet directly to everyday life.
+
+
 

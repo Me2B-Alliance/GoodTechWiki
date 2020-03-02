@@ -1,17 +1,17 @@
-config.central-topic:69976244-be39-4145-b68b-fa07816d0791
+config.central-topic:751638e9-1288-40d7-bb0f-9c45e959ae5a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021628
-id:7c825ca9-5737-408d-949e-604792267df4
+created:1582954316320
+id:4dc8d1ae-81d0-4cc2-84be-d55532177c01
 isview:false
-map.base:69976244-be39-4145-b68b-fa07816d0791
+map.base:751638e9-1288-40d7-bb0f-9c45e959ae5a
 map.role:definition
 map.type:neighbor
-modified:1582720021628
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP Report 6 - Shaping Choices in the Digital World : From dark patterns to data protection: the influence of ux/ui design on user umpowerment
-tmap.id:7c825ca9-5737-408d-949e-604792267df4
+tmap.id:4dc8d1ae-81d0-4cc2-84be-d55532177c01
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IP Report 6 - Shaping Choices in the Digital World : From dark patterns to data protection: the influence of ux/ui design on user umpowerment

@@ -1,12 +1,12 @@
-created:1582720021546
-filter:[field:tmap.id[c58507f4-5261-4985-a872-b7ca6df87ced]]
-map.base:c58507f4-5261-4985-a872-b7ca6df87ced
+created:1582954316257
+filter:[field:tmap.id[c09a8845-a2d1-4cc8-a0b6-6a39a1a80c21]]
+map.base:c09a8845-a2d1-4cc8-a0b6-6a39a1a80c21
 map.role:node-filter
 map.type:neighbor
-modified:1582720021546
+modified:1582954316257
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ICNRG Information-Centric Networking Research Group/filter/nodes
-tmap.id:9eb4ef0c-92d7-418d-8ce2-b6211c50d3dc
+tmap.id:4ada180d-9a0d-4f27-b696-15222e472276
 type:text/vnd.tiddlywiki
 
 No body provided

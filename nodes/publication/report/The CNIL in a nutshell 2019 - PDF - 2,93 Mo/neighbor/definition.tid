@@ -1,17 +1,17 @@
-config.central-topic:2047c41b-df16-4ef0-9fa2-ecd376df1fe5
+config.central-topic:105f8d6b-c73d-49a5-b2d3-e1af75dbbaf6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021641
-id:95b84020-8560-4256-98da-e3436d2b8a71
+created:1582954316331
+id:ad1b97f7-beb9-4a33-8da9-a611ec3a31cc
 isview:false
-map.base:2047c41b-df16-4ef0-9fa2-ecd376df1fe5
+map.base:105f8d6b-c73d-49a5-b2d3-e1af75dbbaf6
 map.role:definition
 map.type:neighbor
-modified:1582720021641
+modified:1582954316331
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The CNIL in a nutshell 2019 - PDF - 2,93 Mo
-tmap.id:95b84020-8560-4256-98da-e3436d2b8a71
+tmap.id:ad1b97f7-beb9-4a33-8da9-a611ec3a31cc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The CNIL in a nutshell 2019 - PDF - 2,93 Mo

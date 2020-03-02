@@ -1,12 +1,12 @@
-created:1582720021481
+created:1582954316206
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:574ff357-92dc-4123-99f4-e2054f90bac6
+map.base:d717d8b9-c4ad-407c-82d8-413d74016f54
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021481
+modified:1582954316206
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Semantic Interoperability Community (SEMIC)/filter/edges
-tmap.id:d8aac791-ba8e-4feb-b735-f37bf2a0ed03
+tmap.id:2ad500f0-88c7-406d-b5fa-ef3638339b4c
 type:text/vnd.tiddlywiki
 
 No body provided

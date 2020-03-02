@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003341
+created:1582954204508
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003341
+modified:1582954204508
 name:Consent Receipt Specification
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Consent Receipt Specification
-tmap.edges:{"1ab07761-7adf-4c9d-8349-9e129ada1168":{"to":"d42b8908-5426-4210-bf5c-57195abd7e10","type":"author"},"d59b1338-267f-4e8d-bba2-4c1b00033cd1":{"to":"5c889dfa-8c92-4991-b1b4-02a0e3dd277e","type":"author"},"6096410b-662f-44ac-8efc-3a67ba0f2bd5":{"to":"9b10215b-b868-4e3c-9895-70511678d2cb","type":"author"},"3a9294fa-2b06-4721-957e-e5dcd9f20351":{"to":"29acd6b1-3e8d-4f4a-9e67-51cc12f10fe5","type":"specification-of-group"}}
-tmap.id:0e95e324-1b51-477f-8efc-c518d672e99b
+tmap.edges:{"d4a9db29-75f5-41f4-98e3-f27e1410da5b":{"to":"d7dc70ed-39e7-48ae-9edc-86785075ee13","type":"author"},"ded20b6a-3640-4dff-895d-d74ad970dc93":{"to":"9fd99c7c-2cd3-4a15-bcb4-263b6b169988","type":"author"},"8da33319-220a-41fa-9819-23ef92d44619":{"to":"f19b5227-e7d1-4ece-bc26-12e7cb6d5547","type":"author"},"6e12bf11-a51f-4544-847c-2e80951088b7":{"to":"69c0070c-83e7-4f82-be92-789cb0585b51","type":"specification-of-group"}}
+tmap.id:5650981e-1feb-486f-b94d-223d92df6127
 type:text/vnd.tiddlywiki
 url:https://kantarainitiative.org/confluence/display/infosharing/consent+receipt+specification
 version.or.edition:
@@ -27,4 +27,6 @@ working.group:
 
 A consent receipt is a record of a consent provided to an individual at the point in a person agrees to the sharing of personal information.  It's purpose is to capture the privacy policy and its purpose for sharing personal information   so it can be  easily  used by people to communicate and manage consent and sharing of personal information once it is provided. 
 The working title of the specification has been, the Minimum Viable Consent Receipt.  (MVCR)
+
+
 

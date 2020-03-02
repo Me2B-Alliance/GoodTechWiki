@@ -1,12 +1,12 @@
-created:1582720021440
+created:1582954316178
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:49c0b31c-736e-47c3-9f11-5e5609c2d0ec
+map.base:0b186a0e-d396-4b5f-897d-c24202adea5a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021440
+modified:1582954316178
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Giesecke & Devrient (G&D)/filter/edges
-tmap.id:5f5d40fb-d293-4a5d-8275-463c0816651e
+tmap.id:5bdb8aa6-8f44-4c1b-b9b9-8bdf90762a22
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021699
-filter:[field:tmap.id[c4633a14-47e1-4d3a-bdb3-dc524ca7c7c2]]
-map.base:c4633a14-47e1-4d3a-bdb3-dc524ca7c7c2
+created:1582954316380
+filter:[field:tmap.id[3b9b57b4-8b62-4a3e-bf87-1dd3024a8763]]
+map.base:3b9b57b4-8b62-4a3e-bf87-1dd3024a8763
 map.role:node-filter
 map.type:neighbor
-modified:1582720021699
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Event Subscription Protocol/filter/nodes
-tmap.id:56d66eb5-87f8-4b8f-ad00-e6eb9a9ac5d1
+tmap.id:e49d66a0-d715-4a9f-99df-cce55daf9128
 type:text/vnd.tiddlywiki
 
 No body provided

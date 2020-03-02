@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:Data Transfer Project Overview and Fundamentals
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Data Transfer Project Overview and Fundamentals
 tmap.edges:{}
-tmap.id:3d55fcdd-d133-4b8b-81fc-80e6256d5910
+tmap.id:42a1c033-2f95-4fb7-aba7-2a24a193490e
 type:text/vnd.tiddlywiki
 url:https://datatransferproject.dev/dtp-overview.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The Data Transfer Project (DTP) extends data portability beyond a user’s ability to download a copyof their data from their service provider (“provider”), to providing the user the ability to initiate a1direct transfer of their data into and out of any participating provider.The Data Transfer Project is an open source initiative to encourage participation of as manyproviders as possible. The DTP will enhance the data portability ecosystem by reducing theinfrastructure burden on both providers and users, which should in turn increase the number ofservices offering portability. The protocols and methodology of the DTP enable direct,service-to-service data transfer with streamlined engineering work
+
+
 

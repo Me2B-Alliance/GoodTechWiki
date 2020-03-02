@@ -1,12 +1,12 @@
-created:1582720021564
+created:1582954316266
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:140a64c0-53a1-49cf-8842-019ffba1a87a
+map.base:6d3a4c36-bfc5-4a8e-9f08-fc94db59dfa7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021564
+modified:1582954316266
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Iubenda Internal Privacy Management/filter/edges
-tmap.id:12a7e3fc-9764-4096-8dc0-1e2dcc926994
+tmap.id:35ebfb8d-0090-4d42-99aa-60cb52f114cf
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021496
-filter:[field:tmap.id[2e23861f-dd18-447b-b348-a62f67f57c29]]
-map.base:2e23861f-dd18-447b-b348-a62f67f57c29
+created:1582954316216
+filter:[field:tmap.id[d8812dc4-3443-4a5f-bdc4-5e98ce340e85]]
+map.base:d8812dc4-3443-4a5f-bdc4-5e98ce340e85
 map.role:node-filter
 map.type:neighbor
-modified:1582720021496
+modified:1582954316216
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Technology Institute/filter/nodes
-tmap.id:c7e94c60-5a39-4a33-9ca7-ba5044018d55
+tmap.id:aa27b487-a0a6-4ea0-98ad-15684af38397
 type:text/vnd.tiddlywiki
 
 No body provided

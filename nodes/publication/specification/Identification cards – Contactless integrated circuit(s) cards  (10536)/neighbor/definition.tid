@@ -1,17 +1,17 @@
-config.central-topic:0ed3a251-29a9-4540-af12-bcd1e6e4bd97
+config.central-topic:fe4498c6-8f0a-4a7a-9b13-e48fc48fa12e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021655
-id:371d8b0f-4416-4abc-81a7-b1c8a84f36dd
+created:1582954316344
+id:c4b137bf-e4de-4412-a2cd-0e0b24629bbf
 isview:false
-map.base:0ed3a251-29a9-4540-af12-bcd1e6e4bd97
+map.base:fe4498c6-8f0a-4a7a-9b13-e48fc48fa12e
 map.role:definition
 map.type:neighbor
-modified:1582720021655
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Contactless integrated circuit(s) cards  (10536)
-tmap.id:371d8b0f-4416-4abc-81a7-b1c8a84f36dd
+tmap.id:c4b137bf-e4de-4412-a2cd-0e0b24629bbf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identification cards – Contactless integrated circuit(s) cards  (10536)

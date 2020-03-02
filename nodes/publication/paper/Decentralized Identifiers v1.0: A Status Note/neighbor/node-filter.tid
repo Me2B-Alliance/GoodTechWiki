@@ -1,12 +1,12 @@
-created:1582720021593
-filter:[field:tmap.id[cd15c58e-657e-4170-a772-73bb69ac38b0]]
-map.base:cd15c58e-657e-4170-a772-73bb69ac38b0
+created:1582954316289
+filter:[field:tmap.id[967224b8-9fa9-4a9b-931b-9f43e94c63d0]]
+map.base:967224b8-9fa9-4a9b-931b-9f43e94c63d0
 map.role:node-filter
 map.type:neighbor
-modified:1582720021593
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identifiers v1.0: A Status Note/filter/nodes
-tmap.id:3e790c02-0735-4adf-81ac-5609701949fb
+tmap.id:c306a824-daa3-4164-8c6c-b5f34a52de9d
 type:text/vnd.tiddlywiki
 
 No body provided

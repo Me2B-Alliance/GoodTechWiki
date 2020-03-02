@@ -1,17 +1,17 @@
-config.central-topic:8d8ce9f1-6dd3-462e-8139-262d9db4cbdd
+config.central-topic:d73dd383-6cf3-4491-9741-2532f6d717dc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021688
-id:3930acef-e6ea-4e3c-80c3-b9885473abc0
+created:1582954316368
+id:319bb09f-9a5c-469d-a6c8-39f4e86640e4
 isview:false
-map.base:8d8ce9f1-6dd3-462e-8139-262d9db4cbdd
+map.base:d73dd383-6cf3-4491-9741-2532f6d717dc
 map.role:definition
 map.type:neighbor
-modified:1582720021688
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PBS: Open Mind
-tmap.id:3930acef-e6ea-4e3c-80c3-b9885473abc0
+tmap.id:319bb09f-9a5c-469d-a6c8-39f4e86640e4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PBS: Open Mind

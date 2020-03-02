@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[service]] [[software product (application)]]
-created:1582720003596
+category:[[software product (application)]] [[service]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:IUBENDA COOKIE SOLUTION
 parent.org:iubenda
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:IUBENDA COOKIE SOLUTION
 tmap.edges:{}
-tmap.id:d9a7a3e4-ccfc-4536-ae18-a9a0a2a3f647
+tmap.id:f0e65615-7d3f-4d1d-9d2d-7631a64161ad
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/en/cookie-solution
 version.or.edition:
 working.group:
 
 Easily generate a fully customizable cookie banner, seamlessly collect consent and implement prior blocking with asynchronous re-activation.
+
+
 

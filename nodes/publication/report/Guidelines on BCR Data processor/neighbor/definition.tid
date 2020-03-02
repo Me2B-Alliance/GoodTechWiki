@@ -1,17 +1,17 @@
-config.central-topic:8df97140-e1d9-4552-bb92-d58e82193fb2
+config.central-topic:2a858d8e-1a76-4b8d-a158-844671548c19
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021625
-id:7206e806-2824-4303-ad41-53204433850f
+created:1582954316317
+id:719287e2-d09a-4f02-8f50-641cb13ad92c
 isview:false
-map.base:8df97140-e1d9-4552-bb92-d58e82193fb2
+map.base:2a858d8e-1a76-4b8d-a158-844671548c19
 map.role:definition
 map.type:neighbor
-modified:1582720021625
+modified:1582954316317
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on BCR Data processor
-tmap.id:7206e806-2824-4303-ad41-53204433850f
+tmap.id:719287e2-d09a-4f02-8f50-641cb13ad92c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Guidelines on BCR Data processor

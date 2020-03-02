@@ -1,17 +1,17 @@
-config.central-topic:a10c1b6e-4320-4e96-9a09-0733e5c772b7
+config.central-topic:649f3ce7-f16d-4fdb-8d71-5f21e73d046e
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021672
-id:4413eb98-d6e5-4aea-be66-ac30c222ba65
+created:1582954316356
+id:7df80fd9-28b4-405e-81df-6f53b7077440
 isview:false
-map.base:a10c1b6e-4320-4e96-9a09-0733e5c772b7
+map.base:649f3ce7-f16d-4fdb-8d71-5f21e73d046e
 map.role:definition
 map.type:neighbor
-modified:1582720021672
+modified:1582954316356
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Standard on data protection governance
-tmap.id:4413eb98-d6e5-4aea-be66-ac30c222ba65
+tmap.id:7df80fd9-28b4-405e-81df-6f53b7077440
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Standard on data protection governance

@@ -1,12 +1,12 @@
-created:1582720021484
-filter:[field:tmap.id[a44778ee-9c80-4fa7-a956-e6c6cda81654]]
-map.base:a44778ee-9c80-4fa7-a956-e6c6cda81654
+created:1582954316208
+filter:[field:tmap.id[ea8874ad-e7d9-4b00-922f-f4261ea5bfaf]]
+map.base:ea8874ad-e7d9-4b00-922f-f4261ea5bfaf
 map.role:node-filter
 map.type:neighbor
-modified:1582720021484
+modified:1582954316208
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Institute for the Future/filter/nodes
-tmap.id:0ba26074-cf7e-4bb4-8197-6fdee6cdf528
+tmap.id:d96c7156-ea23-4d7a-bdbb-4d1616fe7d06
 type:text/vnd.tiddlywiki
 
 No body provided

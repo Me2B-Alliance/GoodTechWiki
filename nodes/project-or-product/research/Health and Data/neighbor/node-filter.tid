@@ -1,12 +1,12 @@
-created:1582720021545
-filter:[field:tmap.id[b2c23129-2b84-4bfb-bbce-18d36fdd824a]]
-map.base:b2c23129-2b84-4bfb-bbce-18d36fdd824a
+created:1582954316256
+filter:[field:tmap.id[753624f0-9025-4d2f-b103-096838cc64e3]]
+map.base:753624f0-9025-4d2f-b103-096838cc64e3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021545
+modified:1582954316256
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health and Data/filter/nodes
-tmap.id:136ae645-4f37-4b68-9426-39594902f991
+tmap.id:da025a11-8ba5-4821-83a6-7ca60d782e40
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:b7edf0fb-bf85-4cee-9cdd-4e2d42e95e2f
+config.central-topic:595c7245-5d23-4f93-a8dd-924dfcd7fcac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021672
-id:c74d72f3-81ab-46d3-b4bd-18d3f020eb4d
+created:1582954316355
+id:a48413d7-3fcd-4883-9de9-d0a75e33ff99
 isview:false
-map.base:b7edf0fb-bf85-4cee-9cdd-4e2d42e95e2f
+map.base:595c7245-5d23-4f93-a8dd-924dfcd7fcac
 map.role:definition
 map.type:neighbor
-modified:1582720021672
+modified:1582954316355
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Introduction
-tmap.id:c74d72f3-81ab-46d3-b4bd-18d3f020eb4d
+tmap.id:a48413d7-3fcd-4883-9de9-d0a75e33ff99
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Compliance package Smart meters : Introduction

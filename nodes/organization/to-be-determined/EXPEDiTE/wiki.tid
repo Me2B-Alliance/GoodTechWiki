@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:EXPEDiTE
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:[[exploring opportunities and challenges for emerging personal data ecosyst
 tech.focus:
 tiddler.classification:node
 title:EXPEDiTE
-tmap.edges:{"3099756f-16b9-484e-b337-b8a8be8449dc":{"to":"0223a5f5-715f-4656-b44e-7a40216abe53","type":"Organization Supports Project or Product"}}
-tmap.id:36ac557c-c97f-45d4-8e4e-87caf4a55a01
+tmap.edges:{"10e5044e-d6b3-4e0f-9e82-6123e73f85e1":{"to":"d5fff437-240d-4632-a4c9-3421e273fe39","type":"Organization Supports Project or Product"}}
+tmap.id:88c27808-6e77-4e6b-a452-bf5106067ee1
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.expedite-project.eu/
@@ -37,4 +37,6 @@ website:https://www.expedite-project.eu/
 The full title of the project is “EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems: Empowering humans in the age of the GDPR – A Roadmap for Austria“. The Vienna University of Economics and Business (WU Wien), the Vienna University of Technology (TU Wien) and OwnYourData are the project  partners in this project which is funded by the Austrian Research Promotion Agency (FFG). Here is a short description of the project:
 
 In our increasingly digital societies, data is perceived as a key resource for economic growth. Among the highest-valued corporations today, many have business models that are essentially based on data of or about their users. This development has raised serious concerns about individuals’ right to privacy and their ability to exercise control over their own data, as well as about the broader shifts of power between data subjects and data controllers that this development entails. Consequently, European policy makers have passed the General Data Protection Regulation (GDPR), which has imposed stricter regulations on personal data handling practices within the EU.
+
+
 

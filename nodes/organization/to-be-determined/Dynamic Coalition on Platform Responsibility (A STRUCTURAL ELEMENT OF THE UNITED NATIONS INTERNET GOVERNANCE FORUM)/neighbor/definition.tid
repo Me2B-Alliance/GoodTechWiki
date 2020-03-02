@@ -1,17 +1,17 @@
-config.central-topic:fdb63efb-d86d-479e-b44f-d01aaa9f3f28
+config.central-topic:a8707cb7-e120-4aeb-af1b-c2488261e75c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021491
-id:184e3970-ef17-4dcc-a8d8-56e22db23f12
+created:1582954316212
+id:091baa28-e993-4738-b69a-b59df4df8ab0
 isview:false
-map.base:fdb63efb-d86d-479e-b44f-d01aaa9f3f28
+map.base:a8707cb7-e120-4aeb-af1b-c2488261e75c
 map.role:definition
 map.type:neighbor
-modified:1582720021491
+modified:1582954316212
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Dynamic Coalition on Platform Responsibility (A STRUCTURAL ELEMENT OF THE UNITED NATIONS INTERNET GOVERNANCE FORUM)
-tmap.id:184e3970-ef17-4dcc-a8d8-56e22db23f12
+tmap.id:091baa28-e993-4738-b69a-b59df4df8ab0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Dynamic Coalition on Platform Responsibility (A STRUCTURAL ELEMENT OF THE UNITED NATIONS INTERNET GOVERNANCE FORUM)

@@ -1,12 +1,12 @@
-created:1582720021482
-filter:[field:tmap.id[f8ed6a39-8ed7-417e-a704-8b3289950004]]
-map.base:f8ed6a39-8ed7-417e-a704-8b3289950004
+created:1582954316207
+filter:[field:tmap.id[30de9b81-fad3-4a9b-9638-aec1a96a43ee]]
+map.base:30de9b81-fad3-4a9b-9638-aec1a96a43ee
 map.role:node-filter
 map.type:neighbor
-modified:1582720021482
+modified:1582954316207
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/COPOLCO/filter/nodes
-tmap.id:fae07f74-384e-4fd7-813d-f997649db538
+tmap.id:86e901fd-d55d-4300-b289-2bf0b70fd3b3
 type:text/vnd.tiddlywiki
 
 No body provided

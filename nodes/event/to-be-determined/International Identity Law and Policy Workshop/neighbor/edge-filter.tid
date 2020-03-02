@@ -1,12 +1,12 @@
-created:1582720021431
+created:1582954316169
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5bd836be-9532-47c4-858a-7f49567d9c45
+map.base:d1a3833f-548b-4f18-a62c-2c31ae30ec83
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Identity Law and Policy Workshop/filter/edges
-tmap.id:6aeff006-86ed-40d2-91d1-0bd7da3b7cbe
+tmap.id:a66e734d-a645-432f-8668-195ec3d64a59
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003371
+created:1582954204539
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003371
+modified:1582954204539
 org.name:Uniform Law Commission
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Uniform Law Commission
-tmap.edges:{"cfd52fa7-4e1d-4741-81f2-7a28eeb34f61":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
-tmap.id:405825ee-fcce-4511-8186-1ff035eb6558
+tmap.edges:{"95e669bc-77ed-4163-b473-0699f5214561":{"to":"f6ef7b27-804e-47d0-84f9-37877a332464","type":"government-connection"}}
+tmap.id:c1f31534-5d9c-441a-be3d-56d5e235184d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

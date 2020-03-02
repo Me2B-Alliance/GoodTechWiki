@@ -1,17 +1,17 @@
-config.central-topic:2446dddc-0c07-43d3-adff-8a9117fbd841
+config.central-topic:e55d73b5-9d06-47de-a148-a2130e7e58d5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021469
-id:78eff6ef-3e6f-484e-8185-1eacd6ba373d
+created:1582954316195
+id:39240022-358c-4a16-a1a6-3d09d15d7257
 isview:false
-map.base:2446dddc-0c07-43d3-adff-8a9117fbd841
+map.base:e55d73b5-9d06-47de-a148-a2130e7e58d5
 map.role:definition
 map.type:neighbor
-modified:1582720021469
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The IO Foundation
-tmap.id:78eff6ef-3e6f-484e-8185-1eacd6ba373d
+tmap.id:39240022-358c-4a16-a1a6-3d09d15d7257
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The IO Foundation

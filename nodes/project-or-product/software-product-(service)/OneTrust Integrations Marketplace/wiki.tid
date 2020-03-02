@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:OneTrust Integrations Marketplace
 parent.org:One Trust
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:OneTrust Integrations Marketplace
 tmap.edges:{}
-tmap.id:69f3ffc6-f7db-48f2-b213-6114da5c244f
+tmap.id:14ad0cd0-a8a7-4929-b73b-be605f47dde5
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/integrations/
 version.or.edition:
 working.group:
 
 The OneTrust integration ecosystem includes a catalog of pre-integrated applications that make it easy to integrate privacy into your existing application workflows. We offer the industry’s broadest and deepest set of integrations, and are continuously adding new ones to our library. The OneTrust platform provides a powerful but flexible way to connect to your applications through APIs, SDKs, data feeds, system integration, and more.
+
+
 

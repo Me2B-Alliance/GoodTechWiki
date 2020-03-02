@@ -1,17 +1,17 @@
-config.central-topic:50ada2d3-ecee-4ad4-ae91-f9ea23032f06
+config.central-topic:1e6a2104-d41b-485d-a84d-801eb3327e91
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021544
-id:d2d09227-86c3-4f66-bc54-404e7515eb99
+created:1582954316255
+id:08133475-9ea5-4a26-9225-172c7ce5c550
 isview:false
-map.base:50ada2d3-ecee-4ad4-ae91-f9ea23032f06
+map.base:1e6a2104-d41b-485d-a84d-801eb3327e91
 map.role:definition
 map.type:neighbor
-modified:1582720021544
+modified:1582954316255
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fairness in Algorithmic Machine Translation
-tmap.id:d2d09227-86c3-4f66-bc54-404e7515eb99
+tmap.id:08133475-9ea5-4a26-9225-172c7ce5c550
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Fairness in Algorithmic Machine Translation

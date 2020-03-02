@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003389
+created:1582954204557
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003389
+modified:1582954204557
 org.name:scytl
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:scytl
-tmap.edges:{"30c59237-e9e8-4ab1-863b-0f840e58f75d":{"to":"f479d56a-2807-49ac-a79e-7ee0d32db671","type":"sponsor"}}
-tmap.id:9125db11-4419-4ce2-a7d7-3cd876241dcb
+tmap.edges:{"428674f8-4876-4cd7-9d48-f2f75d9b5634":{"to":"a6832925-4943-4d39-b358-1035ccd878f1","type":"sponsor"}}
+tmap.id:860eb056-14d8-4895-b5f0-ca64e4f24bd8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -36,4 +36,6 @@ website:
 Scytl´s secure election management and online voting solutions are helping organizations around the globe increase and improve participatory democracy, citizen empowerment and public transparency via innovative online technology. In other words, innovating democracy.
 
 Scytl offers the first end-to-end solution providing the highest level of security and transparency standards currently available. Our solution covers the full election process and the governance required between election periods with a broad portfolio of products developed specifically to cater to the needs and requirements for each cycle: Pre-Election, Election Day, Post-Election cycles and the Governance between election periods.
+
+
 

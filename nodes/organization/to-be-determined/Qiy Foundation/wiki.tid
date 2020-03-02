@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Qiy Foundation
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Qiy Foundation
-tmap.edges:{"113069b8-9a75-4cc5-b41a-1f323a3c3675":{"to":"01cbb0b6-879c-460a-bcab-fa99f5718a37","type":"Sponsors"}}
-tmap.id:eb1e9222-5c52-4bdf-b861-a885534ecf40
+tmap.edges:{"30345b2d-f611-4097-a3ef-0def3a82bbcc":{"to":"9b6665d2-4491-493d-8bb0-2b03a66a25b5","type":"Sponsors"}}
+tmap.id:25bd4042-18de-4b96-8828-9a26540ca1fd
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.qiyfoundation.org/
@@ -47,4 +47,6 @@ The result
 The vision and the mission are implemented in an open standard for the Qiy Trust Network and a set of rules and regulations under the guidance and supervision of an authority: the Qiy Foundation, which is governed independently.
 
 The Qiy Trust Network is implemented by DigitalMe. More information on using the network can be found on the DigitalMe Infrastructure page.
+
+
 

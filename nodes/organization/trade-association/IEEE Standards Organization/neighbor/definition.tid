@@ -1,17 +1,17 @@
-config.central-topic:62c1de60-47ba-4ac7-8c75-1e0c586758d6
+config.central-topic:e58b3a59-0b0e-4b30-83a8-c6b176257822
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021513
-id:0d0f9332-6fef-48cf-8624-20d110e209b4
+created:1582954316225
+id:656c17af-5009-4724-9fa1-023b4b85d173
 isview:false
-map.base:62c1de60-47ba-4ac7-8c75-1e0c586758d6
+map.base:e58b3a59-0b0e-4b30-83a8-c6b176257822
 map.role:definition
 map.type:neighbor
-modified:1582720021513
+modified:1582954316225
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Standards Organization
-tmap.id:0d0f9332-6fef-48cf-8624-20d110e209b4
+tmap.id:656c17af-5009-4724-9fa1-023b4b85d173
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Standards Organization

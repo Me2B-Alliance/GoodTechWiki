@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:Technology Can't Fix Algorithmic Injustice
 publication.type:news article
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Technology Can't Fix Algorithmic Injustice
 tmap.edges:{}
-tmap.id:eae2c454-5583-4c4f-a112-946cb3ad0c54
+tmap.id:4ea0c70c-4699-4ea6-a673-69531e154671
 type:text/vnd.tiddlywiki
 url:https://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmi
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Even if code is modified with the aim of securing procedural fairness, however, we are left with the deeper philosophical and political issue of whether neutrality constitutes fairness in background conditions of pervasive inequality and structural injustice. — Annette Zimmermann, Elena Di Rosa, Hochan Kim, *Boston Review*
+
+
 

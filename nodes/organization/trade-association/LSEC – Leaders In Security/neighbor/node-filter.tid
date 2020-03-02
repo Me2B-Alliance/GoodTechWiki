@@ -1,12 +1,12 @@
-created:1582720021516
-filter:[field:tmap.id[ee78f27f-88ac-42af-873b-20bb963fbe87]]
-map.base:ee78f27f-88ac-42af-873b-20bb963fbe87
+created:1582954316227
+filter:[field:tmap.id[b1e0764c-9933-4bfa-a065-72ec5f0c81ad]]
+map.base:b1e0764c-9933-4bfa-a065-72ec5f0c81ad
 map.role:node-filter
 map.type:neighbor
-modified:1582720021516
+modified:1582954316227
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/LSEC – Leaders In Security/filter/nodes
-tmap.id:d2db8110-6d31-4f48-a13b-2037da1fa6f5
+tmap.id:74e1a6fb-51f5-4b4e-b4e1-787bf4747d66
 type:text/vnd.tiddlywiki
 
 No body provided

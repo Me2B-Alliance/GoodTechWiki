@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003330
+category:[[specification work]]
+created:1582954204497
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003330
+modified:1582954204497
 name:Identity Verification Project
 parent.org:North American Security Products Organization
 people:
@@ -18,12 +18,14 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Identity Verification Project
-tmap.edges:{"e2d6d4fe-623d-4e33-9fc9-b1c757fa9274":{"to":"f7e6630d-5933-41d7-91db-7f3147785b68","type":"organization-for-group"}}
-tmap.id:0d52d986-a69f-4d40-bf1a-e2db03b897b4
+tmap.edges:{"56043ae0-68a3-4d2f-9f3f-a65970525a7a":{"to":"94f9ecf4-8f38-4cbb-8d6d-f7516674b9ef","type":"organization-for-group"}}
+tmap.id:e35e91cd-e435-4360-bae8-6d2f1de9250f
 type:text/vnd.tiddlywiki
 url:http://www.naspo.info/naspo-idpv-project
 
 Developing minimum requirements for (a) Reconciling an asserted identity to a single individual (b) Proofing the asserted identity by verifying corroborative evidence and by looking for symptoms of fraud
 Providing guidance for implementation and privacy concerns
 The proposed standard identifies sets of core identity attributes across the dimensions of Name, Location, Time and Identifier that in most cases, allows for resolution to a single identity. It also provides a list of supplemental attributes that can be used to prevent collisions in cases where the core attributes are not enough. The basis of these core and supplemental attributes are not theoretical, but based on extensive data modeling and analysis done on data sets that covered the U.S. population.
+
+
 

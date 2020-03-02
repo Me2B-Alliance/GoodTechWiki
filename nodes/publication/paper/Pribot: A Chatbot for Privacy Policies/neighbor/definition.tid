@@ -1,17 +1,17 @@
-config.central-topic:82c8683f-76aa-44d0-887e-0f03dd9af36a
+config.central-topic:5e87cf68-7307-4c0d-8069-932f71ed6652
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021601
-id:b7e0798e-7926-48d2-86bb-33d202e5e92c
+created:1582954316300
+id:8c635394-50c7-4535-b768-91ac0cbb1288
 isview:false
-map.base:82c8683f-76aa-44d0-887e-0f03dd9af36a
+map.base:5e87cf68-7307-4c0d-8069-932f71ed6652
 map.role:definition
 map.type:neighbor
-modified:1582720021601
+modified:1582954316300
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Pribot: A Chatbot for Privacy Policies
-tmap.id:b7e0798e-7926-48d2-86bb-33d202e5e92c
+tmap.id:8c635394-50c7-4535-b768-91ac0cbb1288
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Pribot: A Chatbot for Privacy Policies

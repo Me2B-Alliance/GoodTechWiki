@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003324
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003324
+modified:1582954204491
 name:ACE - Authentication and Authorization of Constrained Environments
 parent.org:IETF
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:ACE - Authentication and Authorization of Constrained Environments
-tmap.edges:{"a767c57a-e6ac-490f-ad4d-3e60d736c449":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:2f5c0f09-b6f7-46ff-8c3a-b30a417b5707
+tmap.edges:{"02e71411-c4c0-4916-9665-7ed740671618":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:232c610d-2e3b-48d6-8e8c-f0109159238d
 type:text/vnd.tiddlywiki
 url:
 
@@ -110,4 +110,6 @@ The working group has the following tasks:
 
 2) Identify authentication and authorization mechanisms suitable for
 resource access in constrained environments.
+
+
 

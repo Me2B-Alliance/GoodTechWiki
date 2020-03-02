@@ -1,12 +1,12 @@
-created:1582720021604
+created:1582954316302
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c307dd8a-4a16-496f-bd76-313e05a56184
+map.base:d40c644c-16c5-4d62-943f-4971bdf7891a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021604
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Security Issues and Recommendations for Online Social Networks/filter/edges
-tmap.id:9e04f25e-411e-4f9e-bec5-b61fdc85134d
+tmap.id:c8ed0a8a-7cd7-42b2-a347-ec7f9245410a
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003375
+created:1582954204543
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003375
+modified:1582954204543
 org.name:Keith Institute
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Keith Institute
-tmap.edges:{"24d8ba2d-2d61-4859-ab61-306b2c3a8275":{"to":"5e62ddbf-6da0-4993-bc88-e5e105538290","type":"connection"}}
-tmap.id:c1ae3d7d-82fb-4cfd-b729-f88007f4f304
+tmap.edges:{"b0168271-a7f1-4cb4-b46f-3eb6b888f149":{"to":"fc500f07-022c-47fb-b451-a1274413f044","type":"connection"}}
+tmap.id:a44d96b9-0237-478a-9458-9758b55a57c9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.keithinstitute.org/
+
+
 
 
 

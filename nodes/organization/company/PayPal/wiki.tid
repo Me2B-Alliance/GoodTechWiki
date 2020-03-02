@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003389
+created:1582954204558
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003389
+modified:1582954204558
 org.name:PayPal
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:PayPal
-tmap.edges:{"2934179d-8fa3-46cd-be77-53e84196096f":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:5dfbafb0-07aa-4a9a-89e0-48e58cafc6fa
+tmap.edges:{"7e0eeb77-5d02-4bc7-9bca-b6c50e1cce9c":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:676e738f-7e7d-403d-9c94-7425964d5dcc
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

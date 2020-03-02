@@ -1,12 +1,12 @@
-created:1582720021687
+created:1582954316368
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c3114469-6b97-4300-a394-b19093652c5f
+map.base:e263f93c-9b26-4a09-90a8-efe4422099c4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021687
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Footprint Videos/filter/edges
-tmap.id:6cc2b839-2945-4cd0-a92a-2df50f9a30dc
+tmap.id:3b9c80a1-402d-409a-bc01-92ec830361a8
 type:text/vnd.tiddlywiki
 
 No body provided

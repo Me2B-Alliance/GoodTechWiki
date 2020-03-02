@@ -1,12 +1,12 @@
-created:1582720021523
-filter:[field:tmap.id[b5d11e1b-a192-44ff-9c51-5619beee8ff3]]
-map.base:b5d11e1b-a192-44ff-9c51-5619beee8ff3
+created:1582954316232
+filter:[field:tmap.id[60d7aaa4-1120-476f-a628-61a0e3d2e652]]
+map.base:60d7aaa4-1120-476f-a628-61a0e3d2e652
 map.role:node-filter
 map.type:neighbor
-modified:1582720021523
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TTA  Telecommunications Technology Association, Korea/filter/nodes
-tmap.id:01908be6-0baf-45f3-a8b4-dc642b62b500
+tmap.id:86b6c6f9-3abc-4426-8b5a-55888bd52ecc
 type:text/vnd.tiddlywiki
 
 No body provided

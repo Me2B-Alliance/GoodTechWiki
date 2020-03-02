@@ -1,17 +1,17 @@
-config.central-topic:e2cbdb3d-ff85-420f-b7ca-3a1052f328d2
+config.central-topic:b9969334-91da-4bc1-bb9e-94e6b2c1acf1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021572
-id:1639bce8-9e9e-4a85-909b-b5aa6a0031da
+created:1582954316273
+id:51c610b1-fe3f-47ff-8523-974a3744a9bc
 isview:false
-map.base:e2cbdb3d-ff85-420f-b7ca-3a1052f328d2
+map.base:b9969334-91da-4bc1-bb9e-94e6b2c1acf1
 map.role:definition
 map.type:neighbor
-modified:1582720021572
+modified:1582954316273
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fire Mark Zuckerburg
-tmap.id:1639bce8-9e9e-4a85-909b-b5aa6a0031da
+tmap.id:51c610b1-fe3f-47ff-8523-974a3744a9bc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Fire Mark Zuckerburg

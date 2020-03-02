@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[h. habib]] [[y. zou]] [[a. jannu]] [[c. swoopes]] [[a. acquisti]] [[l.f. cranor]] [[n. sadeh]] [[f. schaub]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:An Empirical Analysis of Website Data Deletion and Opt-Out Choices
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:An Empirical Analysis of Website Data Deletion and Opt-Out Choices
 tmap.edges:{}
-tmap.id:aeef21dd-32ed-45c3-b983-33bfea0e6360
+tmap.id:8d9b0645-f8c9-4c98-8185-32454e63185f
 type:text/vnd.tiddlywiki
 url:https://uploads-ssl.webflow.com/5a2007a24a11ce000164d272/5ac8833b99758e1fbb1e21e0_chi-2018-opt.pdf
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 CHI 2018 Workshop on General Data Protection Regulation: An Opportunity for the HCI Community?, Apr 2018
 
 With the implementation of the GDPR, users are expectedto have more choices regarding their online privacy. How-ever, it is important to understand the current paradigm ofhow these online privacy choices are offered by websites,and evaluate whether people can use them effectively. Inthis workshop paper we present our progress on an empir-ical study of websites’ data deletion and opt-out choices.We find that although privacy choices are being offered,there is variation across websites in terms of where thosechoices are located and how they are described. Resultsfrom our analysis could help pinpoint these inconsisten-cies and improve the overall user experience for expressingthese types of privacy controls.
+
+
 

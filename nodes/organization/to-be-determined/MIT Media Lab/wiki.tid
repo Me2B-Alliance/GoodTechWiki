@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:MIT Media Lab
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:MIT Media Lab
-tmap.edges:{"e29d0e14-e260-4fc8-b3ca-35e34e9cf11f":{"to":"1248baa5-f36b-44dc-aca1-66b727a3b04b","type":"Sponsors"},"b38d3f5b-c037-48e8-8686-dd319cb5ae8e":{"to":"71bc8bd1-6455-4b56-87d1-83d973a3c673","type":"Sponsors"},"d91e81c7-eb09-4da6-9148-82ef60c97a89":{"to":"737b8318-4ca4-43f4-b0a9-3694478f58ba","type":"Sponsors"}}
-tmap.id:7f8c28ca-ff78-43a3-a401-d2649bca09c0
+tmap.edges:{"cd371b1b-f7da-41c5-b019-40f3f81bbe95":{"to":"d156e5ff-c140-48b3-8526-168fd0df8aa9","type":"Sponsors"},"fa622d22-a0ac-4eb9-975c-b555ee0b5c86":{"to":"fa50e9ec-3dfe-4d2c-9df2-50d8464be03f","type":"Sponsors"},"e952f3e0-8a55-4681-8a42-cef2aaf8bf0f":{"to":"b51c7f9e-a2d1-447c-a536-71c60d85e606","type":"Sponsors"}}
+tmap.id:8c6871a9-7d22-46c7-9622-4ca53baddc7b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.media.mit.edu
@@ -37,4 +37,6 @@ website:https://www.media.mit.edu
 "The combination of computing and communication, as we know it now and can expect it to evolve in the decades ahead, will vastly expand human creative capacity."
 –Jerry Wiesner, Media Lab building dedication, 1986
 True to Jerry’s vision, for over 30 years Media Lab researchers have anticipated and created technologies to make our lives safer, cleaner, healthier, fairer, and more productive. But along with benefits, technology’s everyday efficiencies have also brought their share of issues: obesity, poverty, ethical implications, bullying, divergent politics. The Media Lab’s interdisciplinary research community is uniquely equipped to address these concerns, leveraging the best that technology has to offer, and connecting technology back to the social and the human. Current Lab research examines the deeper implications of where technology creation and adoption has led us—and where we want to go next.
+
+
 

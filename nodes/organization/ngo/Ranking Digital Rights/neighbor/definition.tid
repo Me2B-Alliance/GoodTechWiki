@@ -1,17 +1,17 @@
-config.central-topic:0a16add3-9486-42fb-bb36-8109dac1cb9e
+config.central-topic:d24983d1-3d51-4e3d-84d9-2a7b9ae14f9a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021468
-id:3988e2b1-e22e-4e31-8a54-5a9048da449b
+created:1582954316195
+id:11de8e18-1315-41ec-b8eb-0c42fa09a535
 isview:false
-map.base:0a16add3-9486-42fb-bb36-8109dac1cb9e
+map.base:d24983d1-3d51-4e3d-84d9-2a7b9ae14f9a
 map.role:definition
 map.type:neighbor
-modified:1582720021468
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Ranking Digital Rights
-tmap.id:3988e2b1-e22e-4e31-8a54-5a9048da449b
+tmap.id:11de8e18-1315-41ec-b8eb-0c42fa09a535
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Ranking Digital Rights

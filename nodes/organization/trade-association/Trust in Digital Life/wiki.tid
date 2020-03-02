@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003377
+created:1582954204545
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003377
+modified:1582954204545
 org.name:Trust in Digital Life
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:Trust in Digital Life
-tmap.edges:{"71550a9b-2555-477d-8ec9-f2a3c3bb25b4":{"to":"2ffe8ef9-8f4c-4d65-9ae8-d5e8c11474fe","type":"convenor"}}
-tmap.id:1784ad38-f114-4dec-8b13-489aac8450b3
+tmap.edges:{"0b692a7a-96d6-4ff4-945f-5504df7447be":{"to":"2b3de8b7-3f8a-4624-9278-b94c3bcbe0b4","type":"convenor"}}
+tmap.id:59703d9f-3e2f-47c9-830c-7f029d53660b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
 
 Trust in Digital Life is a membership association comprising leading industry partners and knowledge institutes who exchange experience, share customer, market and technology insights, with the intention of improving the quality of trustworthy digital services and platforms available through joint research and development.
+
+
 

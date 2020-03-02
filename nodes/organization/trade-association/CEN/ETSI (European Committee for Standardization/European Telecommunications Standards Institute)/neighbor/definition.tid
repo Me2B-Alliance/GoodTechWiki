@@ -1,17 +1,17 @@
-config.central-topic:ade16d2a-8e19-4de3-a290-b8510ffb3117
+config.central-topic:5597cb83-fa04-49e6-9201-f5c36d816462
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021504
-id:c374d424-58f5-4e5c-8f78-c9de1560347f
+created:1582954316222
+id:dc33a42a-0930-443c-a700-91d404367221
 isview:false
-map.base:ade16d2a-8e19-4de3-a290-b8510ffb3117
+map.base:5597cb83-fa04-49e6-9201-f5c36d816462
 map.role:definition
 map.type:neighbor
-modified:1582720021504
+modified:1582954316222
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEN/ETSI (European Committee for Standardization/European Telecommunications Standards Institute)
-tmap.id:c374d424-58f5-4e5c-8f78-c9de1560347f
+tmap.id:dc33a42a-0930-443c-a700-91d404367221
 type:text/vnd.tiddlywiki
 
 Neighbor Map of CEN/ETSI (European Committee for Standardization/European Telecommunications Standards Institute)

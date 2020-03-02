@@ -1,8 +1,8 @@
 Assessments & Certifications:
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -11,7 +11,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TRUSTe Children's Privacy / COPPA
 parent.org:TrustArc / Trust-e
 partners:
@@ -25,11 +25,13 @@ terms.of.service:
 tiddler.classification:node
 title:TRUSTe Children's Privacy / COPPA
 tmap.edges:{}
-tmap.id:d42dc786-069f-4152-a3d9-357e4d947552
+tmap.id:eb38bc93-25aa-4f83-af48-3ab701b40a26
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/coppa-certification/
 version.or.edition:
 working.group:
 
 Demonstrate your commitment to kids' privacy with a COPPA certification.
+
+
 

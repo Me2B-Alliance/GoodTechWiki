@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003341
+created:1582954204508
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003341
+modified:1582954204508
 name:Financial Transaction Cards 4909
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Financial Transaction Cards 4909
-tmap.edges:{"9954caf7-49e4-4a58-a882-3934540ff090":{"to":"0cecfc38-1ca1-4b36-a076-dce3b364d185","type":"specification-of-group"}}
-tmap.id:185ec0ed-f8ac-4b5c-9cc9-174dd2801f08
+tmap.edges:{"8495c174-9f15-4f04-aee7-e256fe30b1e3":{"to":"d0afea23-90d9-496e-a17d-39e51fe8ad9c","type":"specification-of-group"}}
+tmap.id:5eed92ad-cd27-45a0-8d10-9864df3f1db0
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

@@ -1,7 +1,7 @@
 activities:[[outreach]]
 audience:
-category:research
-created:1582720003597
+category:[[research]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Chupadatos ("The Data Sucker")
 parent.org:CodingRights
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Chupadatos ("The Data Sucker")
 tmap.edges:{}
-tmap.id:85ff25e8-033f-44c0-9362-0cb4d483a5d4
+tmap.id:277c9847-1987-4671-b87a-285987934abe
 type:text/vnd.tiddlywiki
 url:https://chupadados.codingrights.org/en/
 version.or.edition:
 working.group:
 
 This project gathers stories from across Latin America about the mass collection and processing of data that governments: businesses and we ourselves carry out to monitor our cities: homes: wallets and bodies.
+
+
 

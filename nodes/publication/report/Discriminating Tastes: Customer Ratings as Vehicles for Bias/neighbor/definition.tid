@@ -1,17 +1,17 @@
-config.central-topic:50fb9916-5fc4-4305-88f1-8c112ccf1add
+config.central-topic:823508fe-6527-4aef-9a1f-0f071326c7d7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021617
-id:ad123b39-480f-4aaa-8932-eb9a0023f5ba
+created:1582954316314
+id:f7c48d1c-e080-4d2b-93be-3e1e821b558f
 isview:false
-map.base:50fb9916-5fc4-4305-88f1-8c112ccf1add
+map.base:823508fe-6527-4aef-9a1f-0f071326c7d7
 map.role:definition
 map.type:neighbor
-modified:1582720021617
+modified:1582954316314
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Discriminating Tastes: Customer Ratings as Vehicles for Bias
-tmap.id:ad123b39-480f-4aaa-8932-eb9a0023f5ba
+tmap.id:f7c48d1c-e080-4d2b-93be-3e1e821b558f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Discriminating Tastes: Customer Ratings as Vehicles for Bias

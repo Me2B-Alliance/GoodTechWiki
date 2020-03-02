@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003592
+created:1582954204768
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003592
+modified:1582954204768
 org.name:Consumers International
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Consumers International
-tmap.edges:{"b5180949-cb2d-4258-a981-83275c7e22e8":{"to":"796efe73-1e8b-409c-9430-75cd1132cc7e","type":"Organization Supports Project or Product"}}
-tmap.id:7c443f52-0cbd-4643-85a0-d9b21850dd01
+tmap.edges:{"3e8fd6f2-a537-4bb5-a9ed-994105e8401d":{"to":"f63db63e-0f82-4764-9f13-2ee406824912","type":"Organization Supports Project or Product"}}
+tmap.id:58d83fa8-b66b-4c27-8765-d041e741d20b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.consumersinternational.org/
@@ -41,4 +41,6 @@ We believe in a world where everyone has access to safe and sustainable products
 We are their voice in international policy-making forums and the global marketplace to ensure they are treated safely, fairly and honestly. We are resolutely independent, unconstrained by businesses or political parties.
 
 We work in partnership and exercise our influence with integrity, tenacity and passion to deliver tangible results.
+
+
 

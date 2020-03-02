@@ -1,17 +1,17 @@
-config.central-topic:82742c7b-60b7-439f-82a6-400226029ed6
+config.central-topic:c860343b-2fc3-4880-9719-a16af7fb361c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021603
-id:7f6ed338-c002-41c5-bcba-a54afcec0058
+created:1582954316302
+id:5cc372da-6549-4a7c-b96e-56054d9e1183
 isview:false
-map.base:82742c7b-60b7-439f-82a6-400226029ed6
+map.base:c860343b-2fc3-4880-9719-a16af7fb361c
 map.role:definition
 map.type:neighbor
-modified:1582720021603
+modified:1582954316302
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smart Signatures
-tmap.id:7f6ed338-c002-41c5-bcba-a54afcec0058
+tmap.id:5cc372da-6549-4a7c-b96e-56054d9e1183
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Smart Signatures

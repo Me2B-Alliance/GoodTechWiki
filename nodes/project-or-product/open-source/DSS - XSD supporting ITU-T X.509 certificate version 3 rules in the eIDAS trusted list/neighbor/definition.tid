@@ -1,17 +1,17 @@
-config.central-topic:08379716-66cd-4c69-ae0f-cf2123b4ef38
+config.central-topic:5e1a4de7-9192-4555-b72b-f5ffbf2d52e2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021539
-id:e92b4fe5-4bdc-4b71-9765-4a7c51a77256
+created:1582954316249
+id:449bf44c-b741-48ca-a6bc-fb2a47afc57c
 isview:false
-map.base:08379716-66cd-4c69-ae0f-cf2123b4ef38
+map.base:5e1a4de7-9192-4555-b72b-f5ffbf2d52e2
 map.role:definition
 map.type:neighbor
-modified:1582720021539
+modified:1582954316249
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list
-tmap.id:e92b4fe5-4bdc-4b71-9765-4a7c51a77256
+tmap.id:449bf44c-b741-48ca-a6bc-fb2a47afc57c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DSS - XSD supporting ITU-T X.509 certificate version 3 rules in the eIDAS trusted list

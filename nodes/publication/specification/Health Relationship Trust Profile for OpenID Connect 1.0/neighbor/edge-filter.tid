@@ -1,12 +1,12 @@
-created:1582720021653
+created:1582954316344
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e39f8b9b-070a-45bd-bf8c-ca235e45189c
+map.base:d879d238-5353-4fef-bef1-7fbe3f39d44a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021653
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OpenID Connect 1.0/filter/edges
-tmap.id:96b23e56-a136-4cb4-8d3b-8f8f6786ef1c
+tmap.id:78005982-b987-47d8-bf5e-4a6f30acc23f
 type:text/vnd.tiddlywiki
 
 No body provided

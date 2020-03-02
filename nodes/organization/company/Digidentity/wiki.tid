@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204556
 org.name:Digidentity
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digidentity
-tmap.edges:{"98a4365a-1c3e-4cc9-a09d-1bef91ff02be":{"to":"9acccb76-1e72-4022-9ce1-c2b7b04877f1","type":"sponsor"},"c2b38b31-a5b4-44af-91d8-40f70c140eb7":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"},"93ca4bed-68d2-4018-ad2b-15c22fb85f87":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:b873390b-df9d-4ac4-afa7-3d34053286bd
+tmap.edges:{"c8f928cb-83ff-4651-8227-0fd7ecb29822":{"to":"dd41e857-f10a-442e-ac78-116afe8d7a85","type":"sponsor"},"d8051171-1463-4460-864b-2142aa85a79d":{"to":"0eb79291-2a2a-4d18-bd85-8e627af01f5f","type":"certified-idp"},"0dc8b909-edbf-47e5-a0ee-69ffe003838b":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:917d7793-006e-47ac-85fd-2cc0ca98d574
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.digidentity.eu/en/
 
 Digidentity is a digital identity to make your online life simpler and safer. Together with GOV.UK Verify this is a new way to prove who you are online, so you can use government services like viewing your driving licence or filing your tax.
+
+
 

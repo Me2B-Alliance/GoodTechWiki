@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003605
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003605
+modified:1582954204782
 name:DID Primer
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DID Primer
 tmap.edges:{}
-tmap.id:4dfb1f39-9f4d-4bc0-9d89-e9d1f5b149f0
+tmap.id:94d59582-007a-4b99-93a4-0ffcde09ad7d
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/did-primer
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 A Decentralized Identifier (DID) is a new type of identifier that is globally unique, resolveable with high availability, and cryptographically verifiable. DIDs are typically associated with cryptographic material, such as public keys, and service endpoints, for establishing secure communication channels. DIDs are useful for any application that benefits from self-administered, cryptographically verifiable identifiers such as personal identifiers, organizational identifiers, and identifiers for Internet of Things scenarios. For example, current commercial deployments of W3C Verifiable Credentials heavily utilize Decentralized Identifiers to identify people, organizations, and things and to achieve a number of security and privacy-protecting guarantees. This document is an introduction to the concept of Decentralized Identifiers.
+
+
 

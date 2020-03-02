@@ -1,17 +1,17 @@
-config.central-topic:42cca833-d877-4a44-a1a3-de03c494f968
+config.central-topic:a8211c30-aac2-4986-9491-f4b6b1857a0f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021688
-id:ae4d9d38-f19e-4e38-a504-407830d58853
+created:1582954316368
+id:91a70627-2d2a-433b-8985-f1b643025588
 isview:false
-map.base:42cca833-d877-4a44-a1a3-de03c494f968
+map.base:a8211c30-aac2-4986-9491-f4b6b1857a0f
 map.role:definition
 map.type:neighbor
-modified:1582720021688
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doha Debates
-tmap.id:ae4d9d38-f19e-4e38-a504-407830d58853
+tmap.id:91a70627-2d2a-433b-8985-f1b643025588
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Doha Debates

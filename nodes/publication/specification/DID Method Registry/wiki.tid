@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003604
+created:1582954204782
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204782
 name:DID Method Registry
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:DID Method Registry
 tmap.edges:{}
-tmap.id:7f77eee3-5aeb-4137-afe0-811d83247395
+tmap.id:67c3884a-cbdf-40b6-a13f-7f455588e811
 type:text/vnd.tiddlywiki
 url:https://github.com/w3c-ccg/did-method-registry/
 version.or.edition:
@@ -27,5 +27,7 @@ volume.frequency:
 working.group:
 
 This document serves as an informative registry for all known Decentralized Identifier Methods and their associated specifications. 
+
+
 
 

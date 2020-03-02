@@ -1,17 +1,17 @@
-config.central-topic:fd19dffe-eca6-42f6-a85e-f0199f22fd6d
+config.central-topic:10ddab2f-ed8e-4301-9d37-0e87c6eb2085
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021557
-id:951de510-eec7-4b1d-92df-8c5d26b38238
+created:1582954316264
+id:36acd4db-fb96-4c2f-b658-9b1f3c81847a
 isview:false
-map.base:fd19dffe-eca6-42f6-a85e-f0199f22fd6d
+map.base:10ddab2f-ed8e-4301-9d37-0e87c6eb2085
 map.role:definition
 map.type:neighbor
-modified:1582720021557
+modified:1582954316264
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TRUSTe Data Collection Certification
-tmap.id:951de510-eec7-4b1d-92df-8c5d26b38238
+tmap.id:36acd4db-fb96-4c2f-b658-9b1f3c81847a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TRUSTe Data Collection Certification

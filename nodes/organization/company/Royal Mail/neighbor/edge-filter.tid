@@ -1,12 +1,12 @@
-created:1582720021451
+created:1582954316182
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:19c30c78-d0ff-44c1-9f18-4745ce6eda1f
+map.base:a1326fda-c524-4d52-93f0-c53f33d02104
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021451
+modified:1582954316182
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Royal Mail/filter/edges
-tmap.id:e17381cc-0ea7-41ca-8569-605acfbd3c43
+tmap.id:40d344ad-3e6b-4faa-bbec-5a85ed0cd6eb
 type:text/vnd.tiddlywiki
 
 No body provided

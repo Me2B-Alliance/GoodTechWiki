@@ -1,17 +1,17 @@
-config.central-topic:1b6e9d5c-9679-452d-b13c-9a7fb7907990
+config.central-topic:726e2975-b104-4be9-b5c9-051fd912dbca
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021583
-id:d1c25471-7578-4e3b-b6d0-79997ebfb5b6
+created:1582954316281
+id:b45386b2-0e9a-44ab-a663-50cdf13a84b1
 isview:false
-map.base:1b6e9d5c-9679-452d-b13c-9a7fb7907990
+map.base:726e2975-b104-4be9-b5c9-051fd912dbca
 map.role:definition
 map.type:neighbor
-modified:1582720021583
+modified:1582954316281
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data protection Directive
-tmap.id:d1c25471-7578-4e3b-b6d0-79997ebfb5b6
+tmap.id:b45386b2-0e9a-44ab-a663-50cdf13a84b1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data protection Directive

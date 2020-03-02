@@ -1,12 +1,12 @@
-created:1582720021450
-filter:[field:tmap.id[0976b7ce-9c00-4d18-a636-9cc519a2b537]]
-map.base:0976b7ce-9c00-4d18-a636-9cc519a2b537
+created:1582954316181
+filter:[field:tmap.id[48453bd8-05d7-4dcd-9e1e-3813344bd87c]]
+map.base:48453bd8-05d7-4dcd-9e1e-3813344bd87c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021450
+modified:1582954316181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Osano/filter/nodes
-tmap.id:1649df47-a8f3-4ff9-9051-8e28ab65521a
+tmap.id:236a8397-cb33-4577-a0d7-16fa3ff4128e
 type:text/vnd.tiddlywiki
 
 No body provided

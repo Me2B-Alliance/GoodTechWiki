@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003388
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003388
+modified:1582954204556
 org.name:Callcredit Information Group
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Callcredit Information Group
-tmap.edges:{"38bf8372-b4b1-44ff-bb91-cd5b7a0d56ad":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:768ad8f7-ab26-4e0e-b51b-94c80ffeaf19
+tmap.edges:{"72fadfa5-2a78-4923-8f95-a03a242de511":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:ac6bb310-daef-4b78-844a-aed77b01b7a3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

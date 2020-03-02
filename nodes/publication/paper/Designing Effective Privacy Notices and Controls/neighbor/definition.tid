@@ -1,17 +1,17 @@
-config.central-topic:dd567d98-a273-48a1-b28f-f4af03e496b4
+config.central-topic:37e1a916-037f-4a07-8158-8d2bd3ed13d6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021593
-id:247f2d73-3cd8-425a-bf59-9159a72ce84a
+created:1582954316289
+id:efaa3f07-ee64-4a28-ad53-4b4d9abc0102
 isview:false
-map.base:dd567d98-a273-48a1-b28f-f4af03e496b4
+map.base:37e1a916-037f-4a07-8158-8d2bd3ed13d6
 map.role:definition
 map.type:neighbor
-modified:1582720021593
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Designing Effective Privacy Notices and Controls
-tmap.id:247f2d73-3cd8-425a-bf59-9159a72ce84a
+tmap.id:efaa3f07-ee64-4a28-ad53-4b4d9abc0102
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Designing Effective Privacy Notices and Controls

@@ -1,17 +1,17 @@
-config.central-topic:f0332b89-9ac9-455d-8dd6-f6801a4820dc
+config.central-topic:92aae73e-8b4f-460f-b26b-36c958925961
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021634
-id:7b11d7e7-287c-485f-a23b-ff5ce067f9a8
+created:1582954316327
+id:5d1a5b5a-1850-4d88-8a4e-e69ab26357d3
 isview:false
-map.base:f0332b89-9ac9-455d-8dd6-f6801a4820dc
+map.base:92aae73e-8b4f-460f-b26b-36c958925961
 map.role:definition
 map.type:neighbor
-modified:1582720021634
+modified:1582954316327
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Impact Assessment (PIA) 1 : methodology
-tmap.id:7b11d7e7-287c-485f-a23b-ff5ce067f9a8
+tmap.id:5d1a5b5a-1850-4d88-8a4e-e69ab26357d3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Impact Assessment (PIA) 1 : methodology

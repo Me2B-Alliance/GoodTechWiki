@@ -1,17 +1,17 @@
-config.central-topic:48affdce-dfa2-4b66-b513-73b775c3c4c2
+config.central-topic:b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021428
-id:40d2fa82-43a1-474f-acc6-1f0589e67766
+created:1582954316167
+id:6797d3e4-71f0-42e4-b81e-9e7321bfd64c
 isview:false
-map.base:48affdce-dfa2-4b66-b513-73b775c3c4c2
+map.base:b95f37d3-bcd5-46e1-ac3e-0003f7a79ec8
 map.role:definition
 map.type:neighbor
-modified:1582720021428
+modified:1582954316167
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Annual Privacy Forum
-tmap.id:40d2fa82-43a1-474f-acc6-1f0589e67766
+tmap.id:6797d3e4-71f0-42e4-b81e-9e7321bfd64c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Annual Privacy Forum

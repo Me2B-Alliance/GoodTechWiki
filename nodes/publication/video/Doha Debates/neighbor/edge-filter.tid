@@ -1,12 +1,12 @@
-created:1582720021688
+created:1582954316368
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:42cca833-d877-4a44-a1a3-de03c494f968
+map.base:a8211c30-aac2-4986-9491-f4b6b1857a0f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021688
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Doha Debates/filter/edges
-tmap.id:415786da-ef7c-45d7-a46e-5879eae506d1
+tmap.id:27ae7197-93e6-4912-97de-af821320d296
 type:text/vnd.tiddlywiki
 
 No body provided

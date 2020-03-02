@@ -1,17 +1,17 @@
-config.central-topic:423bdc93-1392-40a4-9880-5c1721c88d9c
+config.central-topic:f4be1b4d-48a3-4d55-bb72-58e419ebc068
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021614
-id:58ea420f-a07f-4325-aed2-74019fc4c89d
+created:1582954316310
+id:b905647a-e1c7-4ab4-8293-f09cfa8092c5
 isview:false
-map.base:423bdc93-1392-40a4-9880-5c1721c88d9c
+map.base:f4be1b4d-48a3-4d55-bb72-58e419ebc068
 map.role:definition
 map.type:neighbor
-modified:1582720021614
+modified:1582954316310
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Consultation on regulatory proposals on consumer IoT security
-tmap.id:58ea420f-a07f-4325-aed2-74019fc4c89d
+tmap.id:b905647a-e1c7-4ab4-8293-f09cfa8092c5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Consultation on regulatory proposals on consumer IoT security

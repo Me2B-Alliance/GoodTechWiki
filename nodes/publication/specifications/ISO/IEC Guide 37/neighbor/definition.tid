@@ -1,17 +1,17 @@
-config.central-topic:e2747a81-a49f-422c-8e38-4f3fefd965ab
+config.central-topic:0370faaf-2a21-4c64-afa0-cdac4553e069
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021664
-id:466d7ff1-b04c-4b53-8e67-037414382562
+created:1582954316352
+id:80210ef9-21c3-4b17-9cb1-15032de8d19d
 isview:false
-map.base:e2747a81-a49f-422c-8e38-4f3fefd965ab
+map.base:0370faaf-2a21-4c64-afa0-cdac4553e069
 map.role:definition
 map.type:neighbor
-modified:1582720021664
+modified:1582954316352
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC Guide 37
-tmap.id:466d7ff1-b04c-4b53-8e67-037414382562
+tmap.id:80210ef9-21c3-4b17-9cb1-15032de8d19d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO/IEC Guide 37

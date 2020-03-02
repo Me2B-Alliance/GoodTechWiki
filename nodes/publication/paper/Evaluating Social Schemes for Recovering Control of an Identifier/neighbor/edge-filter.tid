@@ -1,12 +1,12 @@
-created:1582720021595
+created:1582954316294
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:82c30680-b9ed-40cf-a1c7-ddacff3ecbcd
+map.base:0df72a3d-d0bc-4112-bca5-7a0a1364577f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021595
+modified:1582954316294
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Evaluating Social Schemes for Recovering Control of an Identifier/filter/edges
-tmap.id:13461792-fe8c-432d-8bb7-0c8316dc8c45
+tmap.id:8384d342-d577-494b-8bd5-59497888dd60
 type:text/vnd.tiddlywiki
 
 No body provided

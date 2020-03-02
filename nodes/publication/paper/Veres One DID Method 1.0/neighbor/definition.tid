@@ -1,17 +1,17 @@
-config.central-topic:3822ef09-258c-4cd7-842d-29b8bf408724
+config.central-topic:5da608ce-0ade-4b6a-b4ba-9326c74a3f75
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021606
-id:ebbd33a1-c43a-41dc-9207-7751c2a59ba3
+created:1582954316303
+id:92c8e86d-6083-4c11-823d-c3bd30bddece
 isview:false
-map.base:3822ef09-258c-4cd7-842d-29b8bf408724
+map.base:5da608ce-0ade-4b6a-b4ba-9326c74a3f75
 map.role:definition
 map.type:neighbor
-modified:1582720021606
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Veres One DID Method 1.0
-tmap.id:ebbd33a1-c43a-41dc-9207-7751c2a59ba3
+tmap.id:92c8e86d-6083-4c11-823d-c3bd30bddece
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Veres One DID Method 1.0

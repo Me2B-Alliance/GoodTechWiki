@@ -1,12 +1,12 @@
-created:1582720021428
+created:1582954316168
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:52de80e0-cf0f-47c1-a75a-c2cec0dad1d5
+map.base:4386bc10-311c-4dbe-b10c-2ed1384d57d7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021428
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Future Security: Security Research Conference/filter/edges
-tmap.id:82e041c7-d7ef-467a-9829-81e5e760659e
+tmap.id:7f62d7f2-d185-431a-a30b-b82c99eb5854
 type:text/vnd.tiddlywiki
 
 No body provided

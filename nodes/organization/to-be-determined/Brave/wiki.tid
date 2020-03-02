@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003593
+created:1582954204769
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003593
+modified:1582954204769
 org.name:Brave
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Brave
-tmap.edges:{"809172c9-b134-4ad2-bc18-20fdf03efcaa":{"to":"3006aec6-74dc-45a8-9e49-8ee806c27388","type":"Organization Supports Project or Product"}}
-tmap.id:2d385116-9a32-4389-9c25-2084d795a86d
+tmap.edges:{"a5c2a76d-d94c-4866-80e7-31a5c264835b":{"to":"03d9f03f-0beb-40ef-a786-e21687a25869","type":"Organization Supports Project or Product"}}
+tmap.id:f70f1e1f-1a4c-4d8b-9dff-f2a6b5306052
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://brave.com/
@@ -39,4 +39,6 @@ Much more than a browser, Brave is a new way of thinking about how the web works
 Brave is on a mission to fix the web by giving users a safer, faster and better browsing experience while growing support for content creators through a new attention-based ecosystem of rewards.
 
 Join us. It’s time to fix the web together.
+
+
 

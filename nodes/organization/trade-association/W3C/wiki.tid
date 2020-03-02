@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003377
+created:1582954204545
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003377
+modified:1582954204545
 org.name:W3C
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:W3C
-tmap.edges:{"e70f8dd6-1a48-4aba-9a8a-eb51e3b2fa43":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:4ff3599a-833e-4e3c-8f60-cfa636d45e71
+tmap.edges:{"1b388460-0cbf-4c9a-a785-c9a8c3384e1b":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:bc0d418c-0bab-41d4-b1f4-d8b360942f7b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

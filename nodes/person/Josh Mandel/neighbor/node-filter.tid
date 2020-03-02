@@ -1,12 +1,12 @@
-created:1582720021533
-filter:[field:tmap.id[03d54a36-e688-4e90-a532-3e5faa5b3504]]
-map.base:03d54a36-e688-4e90-a532-3e5faa5b3504
+created:1582954316240
+filter:[field:tmap.id[09cb7858-d73b-4643-b69f-dac371fffa46]]
+map.base:09cb7858-d73b-4643-b69f-dac371fffa46
 map.role:node-filter
 map.type:neighbor
-modified:1582720021533
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Josh Mandel/filter/nodes
-tmap.id:420e57a5-d20a-4996-97e3-11fa6cf78687
+tmap.id:af04eb53-0294-4f97-a0fd-c49c53014b1e
 type:text/vnd.tiddlywiki
 
 No body provided

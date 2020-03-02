@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003359
+category:[[proof of concept]]
+created:1582954204526
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003359
+modified:1582954204526
 name:FastPass
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:FastPass
 tmap.edges:{}
-tmap.id:3e638c45-e0e0-4457-a890-533a9df7f6eb
+tmap.id:fbd6ce5a-8705-4229-974f-6faff944893b
 type:text/vnd.tiddlywiki
 url:https://www.fastpass-project.eu
 version.or.edition:
@@ -32,4 +32,6 @@ working.group:
 Security, mobility, harmonisation: at the crossroads of these challenges, the project FastPass will establish and demonstrate a harmonized and modular approach for Automated Border Control (ABC) gates at European borders. The aim is providing a solution facilitating both the border crossing for the traveller and the identity control for the border guards, while respecting data protection and privacy issues.
 
 FastPass brings together key players of the entire ABC value chain – system and component producers, research institutions, governmental authorities, data protection authorities and end-users. A demonstration and evaluation at all types of border (air, land and sea) will be implemented in at least three different member states. Based on an innovative reference architucture, adaptable to different border types, elaborated in a end-user centric way and privacy as well as security assessed, the FastPass solution answers your needs.
+
+
 

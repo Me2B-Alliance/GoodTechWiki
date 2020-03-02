@@ -1,12 +1,12 @@
-created:1582720021538
+created:1582954316243
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:672b283b-4396-4d70-8fb8-66d119b7e188
+map.base:564c71a5-a03e-47bb-ba52-779d518d4bf3
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021538
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thomas J. Smedinghoff/filter/edges
-tmap.id:b7d83e43-497f-470e-a4a8-1fe27f5f7692
+tmap.id:67235432-be7a-42c8-bb79-e60f381d64da
 type:text/vnd.tiddlywiki
 
 No body provided

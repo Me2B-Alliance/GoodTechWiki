@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Case Studies
 publication.type:case studies
 purpose:
 sector:
 sponsoring.org:
-tags:[[algorithms and publics]]
+tags:[[algorithms and publics (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Case Studies
 tmap.edges:{}
-tmap.id:da19d9ed-fa37-48a7-94fd-9e4a21f64c3f
+tmap.id:d3500764-96cf-470b-a192-78bb9f8317a5
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/pubs/ap/CaseStudies_PublicSphere_2016.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Algorithms and Publics began with a set of case studies that explored how algorithmic media is shaping the public sphere across a variety of dimensions, including the changing role of the journalism industry, the use of algorithms for censorship or international compliance, how algorithms are functioning within foreign policy aims, digital gerrymandering, the spread of misinformation, and more.
+
+
 

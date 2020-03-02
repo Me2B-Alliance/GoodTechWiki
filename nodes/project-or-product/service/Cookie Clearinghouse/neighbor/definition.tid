@@ -1,17 +1,17 @@
-config.central-topic:4bfdae11-52b7-41cb-af26-4d1da84c38c0
+config.central-topic:d7c11860-c1c6-477a-a9a4-22edfb8758c3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021555
-id:d80000e8-24dc-4d33-b140-eb77a92b1003
+created:1582954316262
+id:e8445999-874d-4354-aa07-c0944562b1eb
 isview:false
-map.base:4bfdae11-52b7-41cb-af26-4d1da84c38c0
+map.base:d7c11860-c1c6-477a-a9a4-22edfb8758c3
 map.role:definition
 map.type:neighbor
-modified:1582720021555
+modified:1582954316262
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cookie Clearinghouse
-tmap.id:d80000e8-24dc-4d33-b140-eb77a92b1003
+tmap.id:e8445999-874d-4354-aa07-c0944562b1eb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Cookie Clearinghouse

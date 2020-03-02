@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204538
 org.name:IBM Research - Zurich
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IBM Research - Zurich
-tmap.edges:{"854d1265-8988-44ba-ac14-eaf24ebe3698":{"to":"a3958744-51ce-45da-85f7-0168532d49f9","type":"organization-for-group"},"2929cc79-09ba-4fdb-ac7b-1188c53c5356":{"to":"64af7ba9-9669-4f94-a4cd-2e8d6d48abe4","type":"general-member"},"1da67a13-2ba1-4d16-95bb-19eebad94fad":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:f12f5e5f-d9e6-4bf6-98e1-234b1df662c1
+tmap.edges:{"4c606c74-528a-47cc-a4fc-f864e6c74e92":{"to":"71264201-fed6-41d5-80e9-0ffbfaaffb34","type":"organization-for-group"},"4957e159-4433-4fd0-91f5-5842b6e2de04":{"to":"10e32314-aead-4e10-a4d3-bb2e03d44ef9","type":"general-member"},"36c4abd6-4e02-4365-ab18-187dba359252":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:f3a96721-9d91-431c-bcc2-5054cc9944b8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

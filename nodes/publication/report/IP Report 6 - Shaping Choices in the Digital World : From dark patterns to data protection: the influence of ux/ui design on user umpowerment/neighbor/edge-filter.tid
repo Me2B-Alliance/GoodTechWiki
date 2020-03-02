@@ -1,12 +1,12 @@
-created:1582720021628
+created:1582954316320
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:69976244-be39-4145-b68b-fa07816d0791
+map.base:751638e9-1288-40d7-bb0f-9c45e959ae5a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021628
+modified:1582954316320
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP Report 6 - Shaping Choices in the Digital World : From dark patterns to data protection: the influence of ux/ui design on user umpowerment/filter/edges
-tmap.id:0a28a1ae-3696-46c6-8763-fac75b721ad5
+tmap.id:df2ff9d1-7e9a-4f01-8a13-5ad6fae107c0
 type:text/vnd.tiddlywiki
 
 No body provided

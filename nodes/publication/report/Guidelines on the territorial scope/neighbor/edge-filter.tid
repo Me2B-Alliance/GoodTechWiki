@@ -1,12 +1,12 @@
-created:1582720021626
+created:1582954316318
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d3bfdcbe-4ca5-4b47-926e-c5aa7d602572
+map.base:0fd455e2-267b-4f3f-8f16-faad6976499b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021626
+modified:1582954316318
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on the territorial scope/filter/edges
-tmap.id:3e91afea-e9d7-4d35-81ed-f7edc6131ab5
+tmap.id:7291d1dd-86a3-46a9-8063-9b614cac906b
 type:text/vnd.tiddlywiki
 
 No body provided

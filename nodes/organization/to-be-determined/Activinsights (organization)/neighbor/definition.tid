@@ -1,17 +1,17 @@
-config.central-topic:4f095ab2-70ca-4e11-a290-29cd5f9b66fb
+config.central-topic:fde3abd5-27da-4057-aa75-0f97575ac8a8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021486
-id:c32d737a-889b-40ee-9067-1bf765cd64d3
+created:1582954316209
+id:0e4150c5-36d6-4ecb-9975-ef624abbdb42
 isview:false
-map.base:4f095ab2-70ca-4e11-a290-29cd5f9b66fb
+map.base:fde3abd5-27da-4057-aa75-0f97575ac8a8
 map.role:definition
 map.type:neighbor
-modified:1582720021486
+modified:1582954316209
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Activinsights (organization)
-tmap.id:c32d737a-889b-40ee-9067-1bf765cd64d3
+tmap.id:0e4150c5-36d6-4ecb-9975-ef624abbdb42
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Activinsights (organization)

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003597
+category:[[software product (service)]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TrustArc Privacy Platform
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:TrustArc Privacy Platform
 tmap.edges:{}
-tmap.id:3cce3376-35ea-4977-a7f4-31574cea27c8
+tmap.id:43d0df1c-e3b0-4b22-8845-37292ff50dfb
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/privacy-platform/
 version.or.edition:
@@ -33,4 +33,6 @@ working.group:
 The TrustArc privacy platform provides a comprehensive solution to manage your privacy program. The platform includes a centralized dashboard with privacy compliance KPIs, a regulatory news and privacy insights feed and the ability to monitor risk and program maturity level.
 
 The platform and each of its modules are integrated and scalable, so they work together from the start and grow with you as your company needs change. As a SaaS solution, it’s easy to implement and easy to support.
+
+
 

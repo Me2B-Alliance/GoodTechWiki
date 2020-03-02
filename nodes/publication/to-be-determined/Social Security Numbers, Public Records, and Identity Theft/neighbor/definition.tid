@@ -1,17 +1,17 @@
-config.central-topic:60c20480-0440-47e5-afde-4dfbe7259789
+config.central-topic:7c1d0590-1a14-4056-88dd-7a74ead68d94
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021681
-id:5aaebba2-21de-4754-bdb7-21ac43393099
+created:1582954316362
+id:2cee8575-8e68-441b-925b-5c6f25fd1a94
 isview:false
-map.base:60c20480-0440-47e5-afde-4dfbe7259789
+map.base:7c1d0590-1a14-4056-88dd-7a74ead68d94
 map.role:definition
 map.type:neighbor
-modified:1582720021681
+modified:1582954316362
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Social Security Numbers, Public Records, and Identity Theft
-tmap.id:5aaebba2-21de-4754-bdb7-21ac43393099
+tmap.id:2cee8575-8e68-441b-925b-5c6f25fd1a94
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Social Security Numbers, Public Records, and Identity Theft

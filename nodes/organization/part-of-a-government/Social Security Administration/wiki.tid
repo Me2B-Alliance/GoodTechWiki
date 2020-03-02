@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003368
+created:1582954204536
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003368
+modified:1582954204536
 org.name:Social Security Administration
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Social Security Administration
-tmap.edges:{"b482052b-b1c0-40c5-9f14-ffcbca57cf73":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"},"32dc72cc-a77f-4cd1-9493-42d0f30e5cb7":{"to":"ec40f8e6-6275-49fb-a8ec-68b9166ecb2a","type":"company"}}
-tmap.id:aa198ef4-3e0f-4972-9844-86ba02cacd2f
+tmap.edges:{"457c078e-09f6-4864-b222-b5f53da5b9e0":{"to":"f6ef7b27-804e-47d0-84f9-37877a332464","type":"government-connection"},"6cb92029-ba47-4276-baed-0f3c3c2ca968":{"to":"b98277cb-40f7-4680-b4b2-dc1e7b6200a0","type":"company"}}
+tmap.id:8ec80fc4-639a-4dc6-af9e-2606b76af7a9
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

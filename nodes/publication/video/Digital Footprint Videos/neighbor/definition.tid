@@ -1,17 +1,17 @@
-config.central-topic:c3114469-6b97-4300-a394-b19093652c5f
+config.central-topic:e263f93c-9b26-4a09-90a8-efe4422099c4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021687
-id:1425ec4b-02fd-4395-bcb7-cae815f3d9cf
+created:1582954316368
+id:684fc1e7-3b66-4286-813e-a6024e836f92
 isview:false
-map.base:c3114469-6b97-4300-a394-b19093652c5f
+map.base:e263f93c-9b26-4a09-90a8-efe4422099c4
 map.role:definition
 map.type:neighbor
-modified:1582720021687
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Footprint Videos
-tmap.id:1425ec4b-02fd-4395-bcb7-cae815f3d9cf
+tmap.id:684fc1e7-3b66-4286-813e-a6024e836f92
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Digital Footprint Videos

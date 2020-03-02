@@ -1,17 +1,17 @@
-config.central-topic:b209ebfc-d07d-488e-9fec-660b84598e47
+config.central-topic:459d4190-1254-4c2c-ac61-245656c72d2b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021434
-id:74736874-907c-40b6-ad7a-048e9c35749b
+created:1582954316173
+id:98ccd7cb-5f81-418b-a35b-6f493d1ccd52
 isview:false
-map.base:b209ebfc-d07d-488e-9fec-660b84598e47
+map.base:459d4190-1254-4c2c-ac61-245656c72d2b
 map.role:definition
 map.type:neighbor
-modified:1582720021434
+modified:1582954316173
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Adobe
-tmap.id:74736874-907c-40b6-ad7a-048e9c35749b
+tmap.id:98ccd7cb-5f81-418b-a35b-6f493d1ccd52
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Adobe

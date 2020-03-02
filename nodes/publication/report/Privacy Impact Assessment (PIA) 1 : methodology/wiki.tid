@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003599
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003599
+modified:1582954204776
 name:Privacy Impact Assessment (PIA) 1 : methodology
 publication.type:report
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Privacy Impact Assessment (PIA) 1 : methodology
 tmap.edges:{}
-tmap.id:f0332b89-9ac9-455d-8dd6-f6801a4820dc
+tmap.id:92aae73e-8b4f-460f-b26b-36c958925961
 type:text/vnd.tiddlywiki
 url:https://www.cnil.fr/sites/default/files/atoms/files/cnil-pia-1-en-methodology.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The methodology of the French Data Protection Authority (CNIL) comprises three guides: one setting out the approach, a second containing facts that could be used for formalising the analysis and a third providing knowledge bases (a catalogue of controls aimed at complying with the legal requirements and treating the risks, and examples): These can be downloaded from the CNIL's website
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:e8be91c4-ea0c-46ce-b042-bfb2ca2c2e67
+config.central-topic:56731b1b-8bce-49b6-a46c-731cb6a347ac
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021535
-id:a063c417-436a-4570-81a9-1a9f1562068c
+created:1582954316242
+id:b8505ee7-3f21-4ecd-9b25-e738bdd65fb0
 isview:false
-map.base:e8be91c4-ea0c-46ce-b042-bfb2ca2c2e67
+map.base:56731b1b-8bce-49b6-a46c-731cb6a347ac
 map.role:definition
 map.type:neighbor
-modified:1582720021535
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/P. Tarjan
-tmap.id:a063c417-436a-4570-81a9-1a9f1562068c
+tmap.id:b8505ee7-3f21-4ecd-9b25-e738bdd65fb0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of P. Tarjan

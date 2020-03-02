@@ -1,13 +1,13 @@
 audience:
-category:to be determined
-created:1582720003381
+category:[[to be determined]]
+created:1582954204549
 date:
 element.type:event
 frequency:
 github.profile:
 host.organization:Bern University of Applied Sciences
 location(s):
-modified:1582720003381
+modified:1582954204549
 name:VoteID 2015
 partners:
 people:
@@ -15,8 +15,8 @@ relevant.publications:
 tags:
 tiddler.classification:node
 title:VoteID 2015
-tmap.edges:{"49b29f5a-c169-43f7-9faf-178eb5289ba8":{"to":"3570a3ae-733b-4b02-84f6-2d7d7089ff83","type":"author"}}
-tmap.id:f479d56a-2807-49ac-a79e-7ee0d32db671
+tmap.edges:{"1904b40f-1e15-4978-a22c-38a44a9be47e":{"to":"1665ff6b-652b-45a5-8be2-1f1a68a19f8f","type":"author"}}
+tmap.id:a6832925-4943-4d39-b358-1035ccd878f1
 type:text/vnd.tiddlywiki
 website:http://www.voteid15.org
 working.group:
@@ -24,4 +24,6 @@ working.group:
 The 5th International Conference on E-Voting and Identity will be held in Bern, Switzerland, 2-4 September 2015, with proceedings published by Springer, volume 9269. 
 
 They have a DEMO list of companies with various products in the space http://www.voteid15.org/system-demo-session/
+
+
 

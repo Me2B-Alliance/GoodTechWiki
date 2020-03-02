@@ -1,12 +1,12 @@
-created:1582720021474
+created:1582954316201
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b2d9e6e7-38ee-44aa-9180-d28e117f4900
+map.base:bd98e11b-dbbf-42fa-a516-8221e8b4785a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021474
+modified:1582954316201
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Justice Ministry in Israel/filter/edges
-tmap.id:64c464e4-fe8e-41d5-9b17-89c06915c3e5
+tmap.id:788c2ff4-760a-442d-a5b2-f7c61b87dcc6
 type:text/vnd.tiddlywiki
 
 No body provided

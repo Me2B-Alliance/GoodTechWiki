@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003376
+created:1582954204545
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003376
+modified:1582954204545
 org.name:IEEE Computer Society
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IEEE Computer Society
-tmap.edges:{"bc303e63-875c-4940-9a8f-2859f99867c5":{"to":"81de0666-99b6-465b-ac16-12b4f67b4c53","type":"founder"},"bcfefe09-2a35-460a-bf34-603fc18ec6a0":{"to":"b3b15157-c8e1-43ff-aeee-62b4175a903c","type":"organization-for-group"},"a79387a9-5f18-48c3-81ce-ef594357312c":{"to":"3ebfe462-abda-403a-ac0b-aa8337951d2e","type":"convenor"},"3ea67f89-f83b-40d4-8fec-bdda70123519":{"to":"62c1de60-47ba-4ac7-8c75-1e0c586758d6","type":"organization-for-group"},"785ec8d8-7cbc-4a74-a0cf-834bb104e031":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:5a21c8c4-d841-4cdd-ae50-dadbc4ceee4b
+tmap.edges:{"e4ec8d64-5b87-41ba-a46d-4ae81f303370":{"to":"ce315402-32c1-43ce-8108-1156e82ecd95","type":"founder"},"eea0ab57-4c06-49bb-af10-685cf46ee877":{"to":"26615b3d-d471-47d7-9247-3aa6b7ff0796","type":"organization-for-group"},"9ed37795-648d-46f4-acfe-868c3ca52614":{"to":"09b6dd90-2447-43d2-80d1-c0fd7ca54473","type":"convenor"},"b3eb24ab-3775-4134-b75c-3ab24f3d448d":{"to":"e58b3a59-0b0e-4b30-83a8-c6b176257822","type":"organization-for-group"},"4789aa27-b46b-428f-a5ee-431be7529010":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:e56960af-d5b2-456f-ba89-14dad74ae64f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.computer.org/web/guest
@@ -36,4 +36,6 @@ website:https://www.computer.org/web/guest
 The scope of the Society shall encompass all aspects of theory, design, practice, and application relating to computer and information processing science and technology.
 
 The IEEE Computer Society is the world's leading membership organization dedicated to computer science and technology. Serving more than 60,000 members, the IEEE Computer Society is the trusted information, networking, and career-development source for a global community of technology leaders that includes researchers, educators, software engineers, IT professionals, employers, and students.
+
+
 

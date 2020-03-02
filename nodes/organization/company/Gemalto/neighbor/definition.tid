@@ -1,17 +1,17 @@
-config.central-topic:2d8dd093-d875-4786-b8af-2ba030d37e04
+config.central-topic:ddaba559-9673-4b50-acf8-070c8bb92bed
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021439
-id:4c01bcac-4d59-4cff-ad8a-63f3f99b1446
+created:1582954316177
+id:0e91a86d-9e7d-455c-80a4-a3e00a429843
 isview:false
-map.base:2d8dd093-d875-4786-b8af-2ba030d37e04
+map.base:ddaba559-9673-4b50-acf8-070c8bb92bed
 map.role:definition
 map.type:neighbor
-modified:1582720021439
+modified:1582954316177
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Gemalto
-tmap.id:4c01bcac-4d59-4cff-ad8a-63f3f99b1446
+tmap.id:0e91a86d-9e7d-455c-80a4-a3e00a429843
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Gemalto

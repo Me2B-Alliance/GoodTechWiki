@@ -1,12 +1,12 @@
-created:1582720021614
+created:1582954316311
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ad51b591-1452-432d-b152-431c8deb7538
+map.base:5d3f2339-5d7d-4a6b-972b-ffa3e1d2837a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021614
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Critical Perspectives on Artificial Intelligence and Human Rights/filter/edges
-tmap.id:faf6eb02-ae4b-47b9-84ca-42fe280fc248
+tmap.id:880030e5-0d9c-45c7-8140-5ffbd9467039
 type:text/vnd.tiddlywiki
 
 No body provided

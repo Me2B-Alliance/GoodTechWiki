@@ -1,12 +1,12 @@
-created:1582720021589
+created:1582954316287
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9d311bdc-9c46-46ba-8a02-3ec2b03f96f0
+map.base:9f96c321-a13e-4630-9d69-6db13fe3d3df
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021589
+modified:1582954316287
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A DID for Everything/filter/edges
-tmap.id:1d0501b5-0d87-4272-81c7-f05728eec6e9
+tmap.id:2144cfaf-6794-47ce-b1ba-ef13087e2602
 type:text/vnd.tiddlywiki
 
 No body provided

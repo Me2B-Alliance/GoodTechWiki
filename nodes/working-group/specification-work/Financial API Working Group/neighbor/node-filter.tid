@@ -1,12 +1,12 @@
-created:1582720021697
-filter:[field:tmap.id[7b41aea4-419f-4107-9d20-779aa7f9445b]]
-map.base:7b41aea4-419f-4107-9d20-779aa7f9445b
+created:1582954316378
+filter:[field:tmap.id[18e1ed02-2fdf-4ce7-a66e-81cf81ca7855]]
+map.base:18e1ed02-2fdf-4ce7-a66e-81cf81ca7855
 map.role:node-filter
 map.type:neighbor
-modified:1582720021697
+modified:1582954316378
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial API Working Group/filter/nodes
-tmap.id:8120fabe-47b1-4cdd-85f5-fb23f8f641ee
+tmap.id:511fea18-3925-45ad-9e65-137eadff7baa
 type:text/vnd.tiddlywiki
 
 No body provided

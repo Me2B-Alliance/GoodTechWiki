@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003380
+created:1582954204548
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003380
+modified:1582954204548
 org.name:United States Government
 org.type:government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:United States Government
-tmap.edges:{"57b6742d-be54-4f57-aec0-56442f5113f4":{"to":"6fcf9086-9fdd-424a-8859-5c7c3e9ec6fd","type":"executive-member"},"0e7031cb-0482-4f16-baba-95f1fda15364":{"to":"8db06087-da84-473e-846f-44f31a1be1ca","type":"funding-flow"},"41ca8701-1a06-4e1a-9fdb-be23b79570a3":{"to":"a4b45457-27fc-4c70-a946-e40f5fcd3688","type":"government-connection"}}
-tmap.id:09dc49bf-3c28-409f-87ba-e1e88e2695d9
+tmap.edges:{"fd3f5e12-0e7c-4db0-a2a4-fb4eb862f013":{"to":"2d2ac9db-ac90-46ae-9e75-264e9a4f3f61","type":"executive-member"},"9114ff3c-c880-460b-b532-166b09b28837":{"to":"ba07938e-80c9-45af-bfd8-e02ab3eed812","type":"funding-flow"},"497c85ce-0217-4a03-908c-d25fe15d7a4e":{"to":"ae40e730-b2c3-4e36-9252-adc21df851a6","type":"government-connection"}}
+tmap.id:f6ef7b27-804e-47d0-84f9-37877a332464
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

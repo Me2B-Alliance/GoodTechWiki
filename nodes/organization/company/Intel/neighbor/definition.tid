@@ -1,17 +1,17 @@
-config.central-topic:ae1e132e-07a9-404a-a1ae-4d7d1aff6ba4
+config.central-topic:f80e8375-0414-45ec-8f0a-4a2b5bfb2d01
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021441
-id:cd304350-af99-4e40-be9a-f593ef893d39
+created:1582954316178
+id:244bda01-d208-40e9-b3cf-d099dd7027e1
 isview:false
-map.base:ae1e132e-07a9-404a-a1ae-4d7d1aff6ba4
+map.base:f80e8375-0414-45ec-8f0a-4a2b5bfb2d01
 map.role:definition
 map.type:neighbor
-modified:1582720021441
+modified:1582954316178
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intel
-tmap.id:cd304350-af99-4e40-be9a-f593ef893d39
+tmap.id:244bda01-d208-40e9-b3cf-d099dd7027e1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Intel

@@ -1,12 +1,12 @@
-created:1582720021594
+created:1582954316290
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9f35681e-047e-4fc2-9163-67fcf7f6dae6
+map.base:eaee116d-84fd-4557-b0fa-14da0c13f33b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021594
+modified:1582954316290
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Engineering Privacy for Verified Credentials/filter/edges
-tmap.id:d69ef419-9e7a-46e1-bf3b-301104c20c68
+tmap.id:b0a086bc-1a8c-41d8-96a3-2807de51be7b
 type:text/vnd.tiddlywiki
 
 No body provided

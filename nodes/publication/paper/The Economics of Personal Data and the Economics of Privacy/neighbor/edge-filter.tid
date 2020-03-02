@@ -1,12 +1,12 @@
-created:1582720021604
+created:1582954316303
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dc9fd9b2-52de-4395-8929-b95db6d203d1
+map.base:2f140f9f-1ddc-4b59-9b35-efd570d994c7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021604
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Economics of Personal Data and the Economics of Privacy/filter/edges
-tmap.id:a87854b8-157d-4145-82af-566e25cbb7c7
+tmap.id:3c052b77-c1ce-4302-8b78-bb645ead22c8
 type:text/vnd.tiddlywiki
 
 No body provided

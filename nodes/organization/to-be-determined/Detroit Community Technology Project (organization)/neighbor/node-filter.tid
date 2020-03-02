@@ -1,12 +1,12 @@
-created:1582720021489
-filter:[field:tmap.id[e6f3cca8-b58b-44c8-bcd7-99f4e94b8503]]
-map.base:e6f3cca8-b58b-44c8-bcd7-99f4e94b8503
+created:1582954316211
+filter:[field:tmap.id[ff25ba83-2429-4060-a821-2a75b2d1a053]]
+map.base:ff25ba83-2429-4060-a821-2a75b2d1a053
 map.role:node-filter
 map.type:neighbor
-modified:1582720021489
+modified:1582954316211
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Detroit Community Technology Project (organization)/filter/nodes
-tmap.id:54f5c82c-1342-4d81-9447-6afbf2737f27
+tmap.id:3d629c49-ce76-4d00-881e-0aac30925787
 type:text/vnd.tiddlywiki
 
 No body provided

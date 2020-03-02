@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003375
+created:1582954204544
 date.ended:
 date.founded:1999-10-19
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003375
+modified:1582954204544
 org.name:Address Supporting Organization
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Address Supporting Organization
-tmap.edges:{"e653dfdc-6cd1-4c45-8285-5e8d8f7ea24b":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"connection"},"7ea42249-a399-47a6-99a2-cef0c73a7ae5":{"to":"934918f2-265d-4b33-a1b4-724bf46ad77c","type":"connection"}}
-tmap.id:2fe2ecb5-6956-4d42-b4d0-1d56896e4c10
+tmap.edges:{"d84cdd16-9733-4bae-97c2-29420f8154fd":{"to":"ad19671f-3022-4169-b1ab-07a594efeb1e","type":"connection"},"00b4653d-f396-423b-af3c-94fb09c60170":{"to":"495b308a-1601-4009-aa86-d82ccc4b8d6d","type":"connection"}}
+tmap.id:c9505b26-b8e1-4597-8f07-d87362475964
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://aso.icann.org
@@ -38,4 +38,6 @@ Under the ICANN ASO Memorandum of Understanding, the ASO AC’s responsibilities
 1. Undertaking a role in the global policy development process.
 2. Defining procedures for the selection of individuals to serve on other ICANN bodies, in particular on the ICANN Board, and implementing any roles assigned to the AC in such procedures. The ASO AC selects ICANN Board seats 9 and 10.
 3. Providing advice to the ICANN Board on number resource allocation policy, in conjunction with the RIRs.
+
+
 

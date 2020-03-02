@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003352
+category:[[research]]
+created:1582954204518
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003352
+modified:1582954204518
 name:ICNRG Information-Centric Networking Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:ICNRG Information-Centric Networking Research Group
-tmap.edges:{"3cf69e47-6ad2-4c7e-93c7-9df323acdc11":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
-tmap.id:c58507f4-5261-4985-a872-b7ca6df87ced
+tmap.edges:{"11001397-a127-4d39-a8ec-fc4c69f82654":{"to":"7a003842-ab2a-422d-b974-3b3d755ccd3a","type":"organization-for-group"}}
+tmap.id:c09a8845-a2d1-4cc8-a0b6-6a39a1a80c21
 type:text/vnd.tiddlywiki
 url:https://irtf.org/icnrg
 version.or.edition:
@@ -60,4 +60,6 @@ Specifically, the ICNRG is focusing on the following short-term goals:
 * To produce a document that provides a survey of different approaches and techniques
 * To produce a document that describes the ICN problem statement, the main concepts and research challenges in depth
 * To define reference baseline scenarios to enable performance comparisons between different approaches
+
+
 

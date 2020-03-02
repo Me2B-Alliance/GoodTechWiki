@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003389
+created:1582954204557
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003389
+modified:1582954204557
 org.name:Post Office
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Post Office
-tmap.edges:{"886ceb4f-c55d-4361-91df-e326df9d5e79":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"}}
-tmap.id:22a377ab-1b8b-4147-9920-10c4364cafb7
+tmap.edges:{"2e3fb570-893c-4bb7-9244-99c662fcc1b8":{"to":"0eb79291-2a2a-4d18-bd85-8e627af01f5f","type":"certified-idp"}}
+tmap.id:5d201faa-a0e0-485d-81bd-b3f34ac86e5b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.postoffice.co.uk/government-verify
@@ -36,4 +36,6 @@ website:http://www.postoffice.co.uk/government-verify
 At Post Office, we aspire to be at the very heart of customers’ choice by becoming the most trusted provider of essential services to every person in the land.
 
 We’re the UK's largest retail network and the largest financial services chain in the UK with more branches than all of the UK’s banks and building societies put together. We also have growing direct channels such as contact centres and online - meaning we’re there for more customers, in more ways.
+
+
 

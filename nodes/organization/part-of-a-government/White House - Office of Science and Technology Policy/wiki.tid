@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:White House - Office of Science and Technology Policy
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:White House - Office of Science and Technology Policy
-tmap.edges:{"6281b2d7-b61d-40e6-ad50-ca77a4ab4fe0":{"to":"a8b7256f-6466-4f79-8936-878a9d54cf2b","type":"author"},"cadcaa34-1f37-4706-974a-42f72dae3eba":{"to":"05d5be06-c1b1-410e-b68d-03fccb0363bb","type":"author"},"1ce05597-b97c-4fc8-ada2-43c8470344db":{"to":"09dc49bf-3c28-409f-87ba-e1e88e2695d9","type":"government-connection"}}
-tmap.id:de7d1c01-cef4-43b0-a5de-47f48a8d873f
+tmap.edges:{"c0bf069f-dcc9-4fd9-a8ee-62a42e5e04d7":{"to":"b61b3f0e-d840-41bc-8c4e-cfc6eb8a336c","type":"author"},"c4d5fc3b-bf5c-4ae9-8fc9-67d57f09aa1e":{"to":"a77a9d20-3063-40f2-8694-e0cad1b8e08c","type":"author"},"f0e5a33a-554b-4241-ab46-26266e90c213":{"to":"f6ef7b27-804e-47d0-84f9-37877a332464","type":"government-connection"}}
+tmap.id:974a556d-e572-4a9a-b6d6-5217a81de960
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

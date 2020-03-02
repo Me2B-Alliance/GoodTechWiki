@@ -1,17 +1,17 @@
-config.central-topic:c1fffb0b-8986-4642-b22b-7fee54e55d4e
+config.central-topic:c26e9f27-b6c1-4082-bb77-1c8364b9c589
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021703
-id:af22e2b1-f34b-4fbf-b098-a8d0689268d2
+created:1582954316383
+id:bab6c95c-fcb6-433c-921f-b71b404fc0ee
 isview:false
-map.base:c1fffb0b-8986-4642-b22b-7fee54e55d4e
+map.base:c26e9f27-b6c1-4082-bb77-1c8364b9c589
 map.role:definition
 map.type:neighbor
-modified:1582720021703
+modified:1582954316383
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SAML - Security Assertion Markup Language
-tmap.id:af22e2b1-f34b-4fbf-b098-a8d0689268d2
+tmap.id:bab6c95c-fcb6-433c-921f-b71b404fc0ee
 type:text/vnd.tiddlywiki
 
 Neighbor Map of SAML - Security Assertion Markup Language

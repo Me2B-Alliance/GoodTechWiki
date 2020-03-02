@@ -1,17 +1,17 @@
-config.central-topic:70d112ea-3dd3-40db-9fc1-6641666d12a0
+config.central-topic:6a975d8e-fa81-4948-a7b3-8db065f9affd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021679
-id:8b8b804a-ffa3-4f0b-bd0a-b85605cac0e3
+created:1582954316360
+id:1a319597-8526-4e29-90b1-8e894b2da1a3
 isview:false
-map.base:70d112ea-3dd3-40db-9fc1-6641666d12a0
+map.base:6a975d8e-fa81-4948-a7b3-8db065f9affd
 map.role:definition
 map.type:neighbor
-modified:1582720021679
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Interoperability of Identities and Identity Management Systems
-tmap.id:8b8b804a-ffa3-4f0b-bd0a-b85605cac0e3
+tmap.id:1a319597-8526-4e29-90b1-8e894b2da1a3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Interoperability of Identities and Identity Management Systems

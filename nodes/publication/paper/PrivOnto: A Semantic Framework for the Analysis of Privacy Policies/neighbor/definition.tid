@@ -1,17 +1,17 @@
-config.central-topic:34d15258-84d3-46c4-89d7-1cf89d882eaa
+config.central-topic:982b052c-a657-4680-a6b5-e75a2cae15ab
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021601
-id:5e9a61f6-24c8-4d8a-bd6c-7e0325bed43a
+created:1582954316300
+id:7fa372dd-384f-4789-a5f6-4013b625e4a8
 isview:false
-map.base:34d15258-84d3-46c4-89d7-1cf89d882eaa
+map.base:982b052c-a657-4680-a6b5-e75a2cae15ab
 map.role:definition
 map.type:neighbor
-modified:1582720021601
+modified:1582954316300
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PrivOnto: A Semantic Framework for the Analysis of Privacy Policies
-tmap.id:5e9a61f6-24c8-4d8a-bd6c-7e0325bed43a
+tmap.id:7fa372dd-384f-4789-a5f6-4013b625e4a8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PrivOnto: A Semantic Framework for the Analysis of Privacy Policies

@@ -1,12 +1,12 @@
-created:1582720021535
-filter:[field:tmap.id[2171fe94-2972-46c5-80ba-a28c17f512df]]
-map.base:2171fe94-2972-46c5-80ba-a28c17f512df
+created:1582954316242
+filter:[field:tmap.id[80560d36-e5df-4974-b66a-dd4b853b1efb]]
+map.base:80560d36-e5df-4974-b66a-dd4b853b1efb
 map.role:node-filter
 map.type:neighbor
-modified:1582720021535
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phil Hunt/filter/nodes
-tmap.id:cd145b3a-17c8-4074-8284-78a92a3bd1c9
+tmap.id:6aaaeb20-459e-473f-a29e-44d7279f983b
 type:text/vnd.tiddlywiki
 
 No body provided

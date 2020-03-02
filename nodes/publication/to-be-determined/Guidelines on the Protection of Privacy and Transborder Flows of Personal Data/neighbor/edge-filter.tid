@@ -1,12 +1,12 @@
-created:1582720021678
+created:1582954316359
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:945ff00e-e58a-4276-8fe6-2e2280f85a59
+map.base:6028fe1c-59cd-4d77-a1b2-99712d7b58ae
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021678
+modified:1582954316359
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Guidelines on the Protection of Privacy and Transborder Flows of Personal Data/filter/edges
-tmap.id:f7ffbbdc-94c0-4033-aa69-f7f38c02b89e
+tmap.id:31c3deb9-cd03-4572-abca-0123287041c7
 type:text/vnd.tiddlywiki
 
 No body provided

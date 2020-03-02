@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003338
+created:1582954204505
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003338
+modified:1582954204505
 name:Fluffy: Simplified Key Exchange for Constrained Environments
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Fluffy: Simplified Key Exchange for Constrained Environments
-tmap.edges:{"f4418070-9843-4990-af65-2329a775b13c":{"to":"2f5c0f09-b6f7-46ff-8c3a-b30a417b5707","type":"organization-for-group"}}
-tmap.id:cb733955-50f6-4fa6-bcb3-48a5b6b13880
+tmap.edges:{"a9e65b10-ebe3-4ffb-9bb4-3e23372ea4c5":{"to":"232c610d-2e3b-48d6-8e8c-f0109159238d","type":"organization-for-group"}}
+tmap.id:ef57d0c0-7fa7-49ca-94d0-c9fce63df0dc
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

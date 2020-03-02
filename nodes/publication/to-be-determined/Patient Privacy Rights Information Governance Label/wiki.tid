@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,9 +8,9 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Patient Privacy Rights Information Governance Label
-publication.type:TO BE DETERMINED
+publication.type:to-be-determined
 purpose:
 sector:
 sponsoring.org:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Patient Privacy Rights Information Governance Label
 tmap.edges:{}
-tmap.id:8c3d77b1-9382-41ba-92ff-4e93a94f044d
+tmap.id:90f4c095-ccae-45d9-a51e-c735cb91497d
 type:text/vnd.tiddlywiki
 url:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3439701
 version.or.edition:
@@ -43,4 +43,6 @@ lock-in and is often accomplished using Open Standards.
 Indications for Use:​ The five separately self-asserted statements on the PPR Information
 Governance Label are subject to legal enforcement as would the privacy policy associated with
 The Service.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:ad7a0e74-9b6a-41ca-b86d-bdfa4fc53e1e
+config.central-topic:efc048a3-90be-42a3-bb65-de1d7621731c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021604
-id:15eb19d8-475c-424a-a922-cc6583157e81
+created:1582954316303
+id:5c8c29b4-4062-4338-b29c-0917d7efae11
 isview:false
-map.base:ad7a0e74-9b6a-41ca-b86d-bdfa4fc53e1e
+map.base:efc048a3-90be-42a3-bb65-de1d7621731c
 map.role:definition
 map.type:neighbor
-modified:1582720021604
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Teaching Johnny Not to Fall for Phish
-tmap.id:15eb19d8-475c-424a-a922-cc6583157e81
+tmap.id:5c8c29b4-4062-4338-b29c-0917d7efae11
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Teaching Johnny Not to Fall for Phish

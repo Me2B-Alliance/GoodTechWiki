@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204540
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204540
 org.name:IEEE Standards Organization
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IEEE Standards Organization
-tmap.edges:{"a2c26045-bf4c-4cf5-82b5-fe8055efb563":{"to":"5a21c8c4-d841-4cdd-ae50-dadbc4ceee4b","type":"connection"},"d6cb7d2e-1f89-4dc2-9407-6fad6879e4f8":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
-tmap.id:62c1de60-47ba-4ac7-8c75-1e0c586758d6
+tmap.edges:{"4ae1c9e9-4d85-44ac-b968-78b01b53c0c3":{"to":"e56960af-d5b2-456f-ba89-14dad74ae64f","type":"connection"},"6af10114-16fa-4f48-8757-98155b530d99":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"}}
+tmap.id:e58b3a59-0b0e-4b30-83a8-c6b176257822
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://standards.ieee.org
 
 We are a leading consensus building organization that nurtures, develops & advances global technologies. Our work drives the functionality, capabilities and interoperability of a wide range of products and services that transform the way people live, work and communicate.
+
+
 

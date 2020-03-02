@@ -1,17 +1,17 @@
-config.central-topic:d5202543-a1ee-4995-a97c-0b5b88d58e34
+config.central-topic:19c1487a-293f-4169-b39e-02420518ff97
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021662
-id:d1bee541-fd2c-4469-bceb-7a4c587bd556
+created:1582954316351
+id:ffd91ecf-2984-4d33-b5e0-611805e11472
 isview:false
-map.base:d5202543-a1ee-4995-a97c-0b5b88d58e34
+map.base:19c1487a-293f-4169-b39e-02420518ff97
 map.role:definition
 map.type:neighbor
-modified:1582720021662
+modified:1582954316351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tracking Compliance and Scope
-tmap.id:d1bee541-fd2c-4469-bceb-7a4c587bd556
+tmap.id:ffd91ecf-2984-4d33-b5e0-611805e11472
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tracking Compliance and Scope

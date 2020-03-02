@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003340
+created:1582954204507
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003340
+modified:1582954204507
 name:FIDO 2.0: Key Attestation Format
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:FIDO 2.0: Key Attestation Format
-tmap.edges:{"5737fdcb-6d12-4194-9ea9-583adcb93abb":{"to":"34df587c-8867-42d0-a1d2-80c3a5b0427d","type":"organization-for-group"},"1c99e222-3d34-414a-bb7a-00e2a29d95c0":{"to":"e062a5a7-322b-45a5-ba54-2fa66e64c7ac","type":"organization-for-group"}}
-tmap.id:e64ab4ba-a85c-45f2-83a3-c96cecb6325e
+tmap.edges:{"51e9e07e-e39f-4218-b75f-451d498b05b0":{"to":"1b2520c7-cc32-4b74-a0ef-c8c6df905904","type":"organization-for-group"},"1f0c521a-7e80-4a26-903f-69672468c627":{"to":"39a7440f-080c-4ef2-9576-0b28536cc72f","type":"organization-for-group"}}
+tmap.id:dd6ec718-7521-4245-bb86-a2fac821b189
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/submission/2015/subm-fido-key-attestation-20151120/
 version.or.edition:
@@ -30,4 +30,6 @@ FIDO specifications support different user verification methods (PIN based, fing
 FIDO uses the concept of attestation to provide a cryptographic proof of the authenticator model to the relying party. The relying party can derive the authenticator security characteristics from this proof.
 
 This specification defines generic data structures that cover the semantics of FIDO Authenticator attestation. This specification also provides a profile of these structures when a TPM [TPM] acts as a crypto kernel. More profiles are expected to be added as the specification evolves.
+
+
 

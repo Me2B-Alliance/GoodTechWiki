@@ -1,17 +1,17 @@
-config.central-topic:64d8ea72-707c-4961-95da-4b6a361c4597
+config.central-topic:b7ec2478-0d54-428e-878c-5e65527e3c76
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021647
-id:811f9f0b-8de4-4404-a591-5d481b2f5f86
+created:1582954316339
+id:9068e2f5-4a86-410e-801a-4fd6f74d43ea
 isview:false
-map.base:64d8ea72-707c-4961-95da-4b6a361c4597
+map.base:b7ec2478-0d54-428e-878c-5e65527e3c76
 map.role:definition
 map.type:neighbor
-modified:1582720021647
+modified:1582954316339
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Where policy and practice collide: Comparing United States, South African and European Union approaches to protecting children online
-tmap.id:811f9f0b-8de4-4404-a591-5d481b2f5f86
+tmap.id:9068e2f5-4a86-410e-801a-4fd6f74d43ea
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Where policy and practice collide: Comparing United States, South African and European Union approaches to protecting children online

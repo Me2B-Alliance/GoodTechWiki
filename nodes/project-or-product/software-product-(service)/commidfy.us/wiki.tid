@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003597
+category:[[software product (service)]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:[[certification candidate]]
-modified:1582720003597
+modified:1582954204773
 name:commidfy.us
 parent.org:Commodify Inc
 partners:
@@ -24,12 +24,14 @@ terms.of.service:
 tiddler.classification:node
 title:commidfy.us
 tmap.edges:{}
-tmap.id:60dd81d3-4e96-4c65-8307-bb32b0fc1821
+tmap.id:012f3e59-7dfe-40e6-ade6-803813031179
 type:text/vnd.tiddlywiki
 url:http://commodify.us
 version.or.edition:
 working.group:
 
 commodify.us is a web application that allows people to visualize and license their Facebook data directly to marketers. After exporting it from Facebook and uploading it to commodify.us: users can choose to license their anonymized data under private: fair use: or commercial licenses and effectively cut out the middle man.
+
+
 
 

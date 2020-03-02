@@ -1,12 +1,12 @@
-created:1582720021603
+created:1582954316301
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:7f3fdb67-db01-468f-904e-a34d1928c4f4
+map.base:56d384d5-2ec2-42a3-940a-c4611a856a56
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021603
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Receipt-Free Homomorphic Elections and Write-in Ballots/filter/edges
-tmap.id:be35b577-f3d5-40e2-b340-fa9548150811
+tmap.id:0bb8a61b-8871-4b90-bc28-fd90f8146622
 type:text/vnd.tiddlywiki
 
 No body provided

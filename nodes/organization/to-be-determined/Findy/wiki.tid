@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Findy
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Findy
 tmap.edges:{}
-tmap.id:d8c88dd3-a7b9-43af-bf92-4d3f87f2b71b
+tmap.id:1f123994-db00-46ac-85ed-ccc1c4d08ba5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.findy.fi/
@@ -44,4 +44,6 @@ A decentralised identity ledger consists of a limited set of public, permissione
     enabling privacy-preserving tools (revocation accumulators) for revocation checks
 
 The Findy ledger, run first as a test network and sandbox for pilots will be operated and coordinated by local legal entities that i) commit to maintain the network and its nodes along the initial Findy governance rules under development during 2019-20, and ii) agree to work in good faith towards setting up a joint, long-term ledger infrastructure project that stands responsible for operating the distributed ledger. Entities are expected to cover their own operational and development related costs. Result of the first phase will mature eventually with a production ledger for commercial use, potentially with a different name.
+
+
 

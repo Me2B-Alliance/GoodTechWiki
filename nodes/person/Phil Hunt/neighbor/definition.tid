@@ -1,17 +1,17 @@
-config.central-topic:2171fe94-2972-46c5-80ba-a28c17f512df
+config.central-topic:80560d36-e5df-4974-b66a-dd4b853b1efb
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021535
-id:e3ad69c4-33be-4782-b887-aa0dd5730a64
+created:1582954316242
+id:f6077222-1e7e-4c40-b348-e01a43419906
 isview:false
-map.base:2171fe94-2972-46c5-80ba-a28c17f512df
+map.base:80560d36-e5df-4974-b66a-dd4b853b1efb
 map.role:definition
 map.type:neighbor
-modified:1582720021535
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phil Hunt
-tmap.id:e3ad69c4-33be-4782-b887-aa0dd5730a64
+tmap.id:f6077222-1e7e-4c40-b348-e01a43419906
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Phil Hunt

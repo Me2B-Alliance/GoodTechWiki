@@ -1,17 +1,17 @@
-config.central-topic:eff0a95c-4c1d-4cf7-902b-62ae88f8167f
+config.central-topic:26265fc8-791d-4744-b42f-bf3a46a1adf9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021597
-id:1fe57f6f-7869-4d13-bb25-9a6aacb73136
+created:1582954316296
+id:e07283ed-2191-45cf-a158-8fe0b004c254
 isview:false
-map.base:eff0a95c-4c1d-4cf7-902b-62ae88f8167f
+map.base:26265fc8-791d-4744-b42f-bf3a46a1adf9
 map.role:definition
 map.type:neighbor
-modified:1582720021597
+modified:1582954316296
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Increasing the Salience of Data Use Opt-Outs Online
-tmap.id:1fe57f6f-7869-4d13-bb25-9a6aacb73136
+tmap.id:e07283ed-2191-45cf-a158-8fe0b004c254
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Increasing the Salience of Data Use Opt-Outs Online

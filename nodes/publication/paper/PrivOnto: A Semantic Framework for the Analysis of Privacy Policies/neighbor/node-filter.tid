@@ -1,12 +1,12 @@
-created:1582720021601
-filter:[field:tmap.id[34d15258-84d3-46c4-89d7-1cf89d882eaa]]
-map.base:34d15258-84d3-46c4-89d7-1cf89d882eaa
+created:1582954316300
+filter:[field:tmap.id[982b052c-a657-4680-a6b5-e75a2cae15ab]]
+map.base:982b052c-a657-4680-a6b5-e75a2cae15ab
 map.role:node-filter
 map.type:neighbor
-modified:1582720021601
+modified:1582954316300
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PrivOnto: A Semantic Framework for the Analysis of Privacy Policies/filter/nodes
-tmap.id:6139af92-feb3-4535-9fb2-aaf94839eaba
+tmap.id:a98ade93-ffd7-417b-a7a6-b3648256e5e6
 type:text/vnd.tiddlywiki
 
 No body provided

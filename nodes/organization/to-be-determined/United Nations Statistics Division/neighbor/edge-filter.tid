@@ -1,12 +1,12 @@
-created:1582720021500
+created:1582954316219
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3e4e59cc-b0ed-47df-8e1c-06b46399db9c
+map.base:d52a5e5e-1a11-4da8-ad07-c7c87cbd0765
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021500
+modified:1582954316219
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations Statistics Division/filter/edges
-tmap.id:823c625b-6d67-4cd5-8333-14ce56253ea9
+tmap.id:145c5389-2923-4abf-a9a3-6b6bb86af809
 type:text/vnd.tiddlywiki
 
 No body provided

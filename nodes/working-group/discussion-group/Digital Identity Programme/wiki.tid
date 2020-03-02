@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003325
+category:[[discussion group]]
+created:1582954204492
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003325
+modified:1582954204492
 name:Digital Identity Programme
 parent.org:GSMA
 people:
@@ -18,12 +18,14 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Digital Identity Programme
-tmap.edges:{"5234aa1d-e12a-4752-b407-fd00c904480b":{"to":"bdfb3b59-870b-403f-b2dd-12578c7d4705","type":"organization-for-group"}}
-tmap.id:6d495d57-f476-4f1e-ab53-347c70464af4
+tmap.edges:{"d5ba98aa-8941-48ee-9037-1d97619933da":{"to":"8c67e0f1-ad22-4574-8868-2d5435ccaeaa","type":"organization-for-group"}}
+tmap.id:2c53f59e-3033-4c53-99c9-87f105222aec
 type:text/vnd.tiddlywiki
 url:http://www.gsma.com/mobilefordevelopment/programmes/digital-identity
 
 Enabling digital identity through the power of mobileOur mission is to leverage mobile as a solution for a unique, secure and scalable form of identity, catalysing greater socio-economic impact in emerging markets. 
 Proof of identity is a prerequisite to socio-economic development and essential to accessing basic services, adding value to millions of lives. The GSMA Digital Identity programme is working with mobile operators, governments and the development community to demonstrate the opportunities, barriers and value of mobile as a scalable and trusted solution to providing a unique and secure identification.
 We aim to use mobile to enable a trusted and robust digital identity for the underserved, leading to greater social, political and economic inclusion and bringing visibility to the people and places where it matters most.
+
+
 

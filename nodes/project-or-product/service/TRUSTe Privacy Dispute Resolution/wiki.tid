@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003597
+category:[[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:TRUSTe Privacy Dispute Resolution
 parent.org:TrustArc / Trust-e
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:TRUSTe Privacy Dispute Resolution
 tmap.edges:{}
-tmap.id:816d269a-99c9-49ca-b9e1-53790e4b31e6
+tmap.id:ba380890-f7f4-4efa-8e60-7427c927e202
 type:text/vnd.tiddlywiki
 url:https://www.trustarc.com/products/dispute-resolution-services/
 version.or.edition:
 working.group:
 
 Meet independent recourse mechanism and privacy dispute resolution requirements for EU US Privacy Shield and other regulatory requirements.
+
+
 

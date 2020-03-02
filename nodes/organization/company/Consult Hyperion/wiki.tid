@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003390
+created:1582954204559
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003390
+modified:1582954204559
 org.name:Consult Hyperion
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Consult Hyperion
-tmap.edges:{"952272b1-6f40-44e6-9e83-d7be7f9c0cff":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:b848c536-11de-4397-b0e3-972d1a5106c6
+tmap.edges:{"e6d8acb8-ae6e-4e8f-9195-0c4443ecfe51":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:685189f3-4fd7-4f3c-9931-9c3fdf63a6e8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.chyp.com
+
+
 
 
 

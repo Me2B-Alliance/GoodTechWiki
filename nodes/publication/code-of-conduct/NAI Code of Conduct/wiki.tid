@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:NAI Code of Conduct
 publication.type:code of conduct
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:NAI Code of Conduct
 tmap.edges:{}
-tmap.id:c3201b9a-f531-4f7c-9895-52ddade45be0
+tmap.id:dbd5d1ba-1c41-47bb-af3e-7fd455618a6c
 type:text/vnd.tiddlywiki
 url:https://www.networkadvertising.org/sites/default/files/nai_code2018.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The NAI Code of Conduct, is a set of self-regulatory principles which all NAI member companies must agree to uphold in order to be members. The Code requires notice and choice with respect to Personalized Advertising, limits the types of data that member companies can use for advertising purposes, and imposes a host of substantive restrictions on member companies' collection, use, and transfer of data used for Personalized Advertising.
+
+
 

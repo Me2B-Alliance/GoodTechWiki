@@ -1,17 +1,17 @@
-config.central-topic:59fca2d0-e92d-4bbd-b079-c424d5f9b46a
+config.central-topic:e9a5b46b-b976-4449-ae6f-d8762db82f5b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021480
-id:d35276b2-be42-445a-9cf4-6efdadcdd4fa
+created:1582954316205
+id:61a16ec7-11d6-470d-ba84-621da564cdbf
 isview:false
-map.base:59fca2d0-e92d-4bbd-b079-c424d5f9b46a
+map.base:e9a5b46b-b976-4449-ae6f-d8762db82f5b
 map.role:definition
 map.type:neighbor
-modified:1582720021480
+modified:1582954316205
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISA2 Interoperability Solutions for European Public Administrators
-tmap.id:d35276b2-be42-445a-9cf4-6efdadcdd4fa
+tmap.id:61a16ec7-11d6-470d-ba84-621da564cdbf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISA2 Interoperability Solutions for European Public Administrators

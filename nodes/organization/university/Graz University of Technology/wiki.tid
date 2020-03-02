@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003337
+created:1582954204504
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003337
+modified:1582954204504
 org.name:Graz University of Technology
 org.type:university
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Graz University of Technology
-tmap.edges:{"c272a5f2-3022-43dc-8074-cbc03f5dd991":{"to":"7ed098e0-66f0-4199-b147-d8d352738344","type":"funding-flow"}}
-tmap.id:5d699235-9071-4a7d-b9f9-a0a6e40157be
+tmap.edges:{"86a3df58-2dcb-4f77-bd63-5b97db59231e":{"to":"2a0a43ea-d17f-4529-884a-5114d15a301f","type":"funding-flow"}}
+tmap.id:ec0fd53e-786d-4ec0-800d-99e428838ab3
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.iaik.tugraz.at/content/partnerships/a-sit/
@@ -43,4 +43,6 @@ As a consultant, IAIK offers expert knowledge in rapidly-evolving information te
 
 Teaching
 All courses are aligned to IAIK's research interests. We emphasize new teaching methods: Teams of Master's students work on up-to-date research problems. This teaching method corresponds to the dynamics of knowledge creation and matches the short life cycles of relevant knowledge. Moreover, it combines the requirements from the industry with the goal to offer a scientific education.
+
+
 

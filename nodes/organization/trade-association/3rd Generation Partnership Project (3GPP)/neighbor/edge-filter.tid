@@ -1,12 +1,12 @@
-created:1582720021509
+created:1582954316220
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8a951c75-f001-48af-ba28-f6c3493052b1
+map.base:335fb521-5d5b-44dc-8075-686ccd8372c9
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021509
+modified:1582954316220
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/3rd Generation Partnership Project (3GPP)/filter/edges
-tmap.id:8ac5a7a7-e581-4180-8fe2-28fdea265a20
+tmap.id:5b7a578f-6ed5-4c42-9c92-33fde6ca3b22
 type:text/vnd.tiddlywiki
 
 No body provided

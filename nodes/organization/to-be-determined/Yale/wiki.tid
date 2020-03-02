@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003593
+created:1582954204769
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003593
+modified:1582954204769
 org.name:Yale
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Yale
-tmap.edges:{"f5b68928-78a8-4248-a296-d180ee591c48":{"to":"cb7a14a1-2dcd-4546-b287-38b1fe86c518","type":"Organization Supports Project or Product"}}
-tmap.id:c55a333f-8a00-4a99-8071-095151dc98cb
+tmap.edges:{"ab7dbe24-598e-4654-81d0-16f0bb2574c0":{"to":"14b84aba-d97a-4705-a51e-dbc744f3dcfc","type":"Organization Supports Project or Product"}}
+tmap.id:b8b6fe7f-125e-4d42-9710-4fc91723e9b5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.yale.edu/
@@ -37,4 +37,6 @@ website:https://www.yale.edu/
 Since its founding in 1701, Yale has been dedicated to expanding and sharing knowledge, inspiring innovation, and preserving cultural and scientific information for future generations.
 
 Yale’s reach is both local and international. It partners with its hometown of New Haven, Connecticut to strengthen the city’s community and economy. And it engages with people and institutions across the globe in the quest to promote cultural understanding, improve the human condition, delve more deeply into the secrets of the universe, and train the next generation of world leaders.
+
+
 

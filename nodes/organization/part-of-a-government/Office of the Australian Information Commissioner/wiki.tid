@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:Office of the Australian Information Commissioner
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Office of the Australian Information Commissioner
-tmap.edges:{"6be6b0cd-16be-4839-808a-aedb746b1874":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"}}
-tmap.id:d48d98b6-676a-48ad-b7bd-600b23036468
+tmap.edges:{"043daee8-be06-4f9d-8beb-526b82165de8":{"to":"4d0d3601-80e2-4f21-b9f6-a7997aaa067c","type":"general-member"}}
+tmap.id:7984efbc-5461-4e91-b9a2-e3573611e07c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.oaic.gov.au
@@ -50,4 +50,6 @@ The OAIC was established under the Australian Information Commissioner Act 2010 
 The first Privacy Commissioner was appointed in 1989. Major changes to federal freedom of information (FOI) law made in 2010 established the OAIC as the body responsible for privacy, FOI and information policy functions. The AIC Act was passed on 13 May 2010, received Royal Assent on 31 May 2010, and came into effect on 1 November 2010. The Office of the Privacy Commissioner, which was the national privacy regulator, was integrated into the OAIC at this time.
 
 The OAIC currently has one commissioner: the Information Commissioner. Despite their titles, all commissioners can exercise the privacy and freedom of information (FOI) functions. However, only the Information Commissioner may exercise the information policy functions.
+
+
 

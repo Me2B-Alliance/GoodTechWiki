@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204531
 org.name:Innovation and Networks Executive Agency
 org.type:part of supra-national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Innovation and Networks Executive Agency
-tmap.edges:{"79f20241-308e-44db-ac9d-df3e2c4f3ca0":{"to":"68c59e7d-2484-4661-916b-94bb6c1c8bac","type":"funding-flow"}}
-tmap.id:24174354-7280-4b97-a719-d53130bd53fb
+tmap.edges:{"c4806ebb-324f-4699-b3e2-b0d8b9855e46":{"to":"550c7a5f-d61a-48f6-bb52-ab0e8358542a","type":"funding-flow"}}
+tmap.id:b19f015b-7e07-488a-b8f3-111c16e16c63
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

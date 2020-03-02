@@ -1,12 +1,12 @@
-created:1582720021524
-filter:[field:tmap.id[fad79e8e-3a1f-4a87-b593-046489e7828d]]
-map.base:fad79e8e-3a1f-4a87-b593-046489e7828d
+created:1582954316232
+filter:[field:tmap.id[04a51f7a-7e4a-4f49-952e-970d7b089cb0]]
+map.base:04a51f7a-7e4a-4f49-952e-970d7b089cb0
 map.role:node-filter
 map.type:neighbor
-modified:1582720021524
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Vendorcom/filter/nodes
-tmap.id:818d659a-e720-4fcb-8d19-29776767e50c
+tmap.id:dfabda3e-84aa-41b2-9b82-38d94c02f38e
 type:text/vnd.tiddlywiki
 
 No body provided

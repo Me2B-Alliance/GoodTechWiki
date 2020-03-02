@@ -1,17 +1,17 @@
-config.central-topic:7284d121-9d42-41cb-af30-3e7c295ccf71
+config.central-topic:42086e61-276f-4741-9dde-3e4614df0557
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021589
-id:c8562cee-06a4-4da9-b762-8a0d670a4610
+created:1582954316287
+id:5e86624c-65de-485e-998d-f097c447f4d0
 isview:false
-map.base:7284d121-9d42-41cb-af30-3e7c295ccf71
+map.base:42086e61-276f-4741-9dde-3e4614df0557
 map.role:definition
 map.type:neighbor
-modified:1582720021589
+modified:1582954316287
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Agentschap voor Innovatie door
-tmap.id:c8562cee-06a4-4da9-b762-8a0d670a4610
+tmap.id:5e86624c-65de-485e-998d-f097c447f4d0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Agentschap voor Innovatie door

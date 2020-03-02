@@ -1,12 +1,12 @@
-created:1582720021476
+created:1582954316203
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4b1d159a-98d9-4842-a676-80d6a645d4a1
+map.base:08f762c0-7b65-4c75-a406-664bc80df1f0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021476
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Customs and Boarder Protection/filter/edges
-tmap.id:0ddda5e9-c504-4857-923e-f1296ca427ca
+tmap.id:85edde0c-a4bb-4e49-96bf-52ffb792bbd8
 type:text/vnd.tiddlywiki
 
 No body provided

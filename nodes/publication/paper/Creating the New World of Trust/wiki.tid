@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:Creating the New World of Trust
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Creating the New World of Trust
 tmap.edges:{}
-tmap.id:69914639-b7b0-4267-bbb6-5d7ead7ea285
+tmap.id:081f2b21-11fd-412e-9d54-8f70677e6211
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 On November 3rd and 4th, the Rebuilding the Web of Trust design workshop looked at the future of decentralized trust on the internet with the goal of producing 3-5 white papers and specs. Those papers were polished for release in December, leaving the question: what's next?Our major goal is to produce something notable for the 25th anniversary of PGP, in July 2016. This should be a working proof-of-concept that can help the Web of Trust to reach a broader audience. It should be something that's both usable and used and it needs to be compelling.If we can meet this goal, we can make our design ideas into reality.
+
+
 

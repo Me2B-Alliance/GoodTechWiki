@@ -1,12 +1,12 @@
-created:1582720021682
+created:1582954316363
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9b10215b-b868-4e3c-9895-70511678d2cb
+map.base:f19b5227-e7d1-4ece-bc26-12e7cb6d5547
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021682
+modified:1582954316363
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Usable Consents: Tracking and Managing Use of Personal Data With a Consent Transaction Receipt/filter/edges
-tmap.id:d86230a8-318e-40d3-98a9-d88637710337
+tmap.id:4da8c020-5a6e-4bd4-9220-cf0312d56c67
 type:text/vnd.tiddlywiki
 
 No body provided

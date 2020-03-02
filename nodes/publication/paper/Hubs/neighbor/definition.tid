@@ -1,17 +1,17 @@
-config.central-topic:1a91cb55-61b9-4906-99c5-0d697dddeb75
+config.central-topic:9baabfa6-1959-4dd6-a5e8-aeeed58ec054
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021595
-id:8a40140c-acf2-4981-ab4c-fd39670f9724
+created:1582954316295
+id:fba57f66-75a3-4074-a939-08dd34b14736
 isview:false
-map.base:1a91cb55-61b9-4906-99c5-0d697dddeb75
+map.base:9baabfa6-1959-4dd6-a5e8-aeeed58ec054
 map.role:definition
 map.type:neighbor
-modified:1582720021595
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Hubs
-tmap.id:8a40140c-acf2-4981-ab4c-fd39670f9724
+tmap.id:fba57f66-75a3-4074-a939-08dd34b14736
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Hubs

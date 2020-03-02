@@ -1,13 +1,13 @@
 audience:
 authors.editors:Josh Mandel;Justin Richer
-created:1582720003343
+created:1582954204510
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003343
+modified:1582954204510
 name:Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Health Relationship Trust Profile for Fast Healthcare Interoperability Resources (FHIR) OAuth 2.0 Scopes
-tmap.edges:{"5a098ca2-fa98-41b9-8952-8527c41b2123":{"to":"0f6005ae-1e2a-49c0-b414-69edf47e430b","type":"specification-of-group"}}
-tmap.id:2a516eae-7eef-44ba-8f00-96cf94653535
+tmap.edges:{"bf413109-e688-476f-b4f9-3bd77ca8475f":{"to":"3ec55377-2ffc-42a4-a181-b3ee5157e2ef","type":"specification-of-group"}}
+tmap.id:6860dd57-07a2-4bf1-8e94-6124e2568b30
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -30,4 +30,6 @@ FHIR is an HTTP-based, resource-oriented RESTful API based on a set of clinical,
 The OAuth 2.0 protocol framework defines a mechanism to allow a resource owner to delegate access to a protected resource for a client application, optionally limited by a set of scopes.
 
 This specification profiles the OAuth 2.0 protocol scopes to be used with the FHIR protocol to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.
+
+
 

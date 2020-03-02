@@ -1,12 +1,12 @@
-created:1582720021610
+created:1582954316307
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5ec144a4-de86-471c-bccc-b17e63bba24b
+map.base:be771877-11a2-4027-8a32-8a6401a5845b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021610
+modified:1582954316307
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Are There Limits to Online Free Speech?/filter/edges
-tmap.id:908f3be5-867c-4349-8306-a50182150ae8
+tmap.id:e4240758-c82f-4703-b723-931693e1c8c1
 type:text/vnd.tiddlywiki
 
 No body provided

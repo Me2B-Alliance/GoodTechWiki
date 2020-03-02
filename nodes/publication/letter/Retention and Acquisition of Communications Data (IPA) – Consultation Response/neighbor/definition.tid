@@ -1,17 +1,17 @@
-config.central-topic:416c8e71-f1a2-4f7b-a911-360262cf3feb
+config.central-topic:6d0283d1-2685-48e6-bf9e-2969161f8ad3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021587
-id:0c2b0ec7-c582-464a-9f42-03a64dfec2ac
+created:1582954316284
+id:59493c05-05d5-4178-a321-2e8522d11394
 isview:false
-map.base:416c8e71-f1a2-4f7b-a911-360262cf3feb
+map.base:6d0283d1-2685-48e6-bf9e-2969161f8ad3
 map.role:definition
 map.type:neighbor
-modified:1582720021587
+modified:1582954316284
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Retention and Acquisition of Communications Data (IPA) – Consultation Response
-tmap.id:0c2b0ec7-c582-464a-9f42-03a64dfec2ac
+tmap.id:59493c05-05d5-4178-a321-2e8522d11394
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Retention and Acquisition of Communications Data (IPA) – Consultation Response

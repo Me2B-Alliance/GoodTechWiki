@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204555
 org.name:Symantec
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Symantec
-tmap.edges:{"34a3cc62-8069-4451-b528-8dde739d5633":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:a1a1810a-7ba2-4849-b6e2-e7a67ca8aa1f
+tmap.edges:{"5bc48fb3-6290-4a04-8ef8-e3b349554703":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:fbad62ac-9088-4a37-b04c-414b9d8ce3e5
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

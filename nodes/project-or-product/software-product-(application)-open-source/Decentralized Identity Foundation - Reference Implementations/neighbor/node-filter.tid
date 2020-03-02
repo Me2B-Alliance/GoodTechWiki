@@ -1,12 +1,12 @@
-created:1582720021540
-filter:[field:tmap.id[9ba8067b-dd95-4286-818d-d05a2b831376]]
-map.base:9ba8067b-dd95-4286-818d-d05a2b831376
+created:1582954316268
+filter:[field:tmap.id[e087275f-a6b1-4cdc-8cd0-5be3fee0cc90]]
+map.base:e087275f-a6b1-4cdc-8cd0-5be3fee0cc90
 map.role:node-filter
 map.type:neighbor
-modified:1582720021540
+modified:1582954316268
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Identity Foundation - Reference Implementations/filter/nodes
-tmap.id:dbdbd279-6732-459e-884c-3f4e82a2dfde
+tmap.id:78d3cde0-1dee-4ddc-8bd4-0660fc0df9b2
 type:text/vnd.tiddlywiki
 
 No body provided

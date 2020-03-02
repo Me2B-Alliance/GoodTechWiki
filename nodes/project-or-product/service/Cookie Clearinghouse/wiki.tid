@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003347
+category:[[service]]
+created:1582954204514
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003347
+modified:1582954204514
 name:Cookie Clearinghouse
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:[[dead]]
 terms.of.service:
 tiddler.classification:node
 title:Cookie Clearinghouse
-tmap.edges:{"7793d535-d8e6-4840-9d63-de56783310d8":{"to":"352b99e1-8d06-4bf5-83f2-19934c23a627","type":"connection"}}
-tmap.id:4bfdae11-52b7-41cb-af26-4d1da84c38c0
+tmap.edges:{"ff26a089-31bc-4972-997a-26b76c9397b7":{"to":"a4abe0bf-4d71-4f9a-acb1-31648d4009c3","type":"connection"}}
+tmap.id:d7c11860-c1c6-477a-a9a4-22edfb8758c3
 type:text/vnd.tiddlywiki
 url:http://cch.law.stanford.edu
 version.or.edition:
 working.group:
 
 The Cookie Clearinghouse will publish block-lists and allow-lists based on objective, predictable criteria. Right now, we are in the process of developing those criteria. As a result, and with the input that we receive from this process, we may make changes to the ideas outlined below.
+
+
 

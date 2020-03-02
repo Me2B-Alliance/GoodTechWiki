@@ -1,12 +1,12 @@
-created:1582720021591
-filter:[field:tmap.id[1d3c0cfa-f098-4715-9200-5b9e43d00eb7]]
-map.base:1d3c0cfa-f098-4715-9200-5b9e43d00eb7
+created:1582954316288
+filter:[field:tmap.id[481df661-2d58-4494-b9ec-abfdc4bca73f]]
+map.base:481df661-2d58-4494-b9ec-abfdc4bca73f
 map.role:node-filter
 map.type:neighbor
-modified:1582720021591
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Automated Analysis of Privacy Requirements for Mobile Apps/filter/nodes
-tmap.id:35240d3e-4521-4f9c-9647-81de0545a001
+tmap.id:97b5517c-a763-4c51-91cd-02489b4edc25
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204541
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204541
 org.name:ITU-T  International Telecommunication Union
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ITU-T  International Telecommunication Union
-tmap.edges:{"b30d2483-b54c-47ce-ab60-8fbcbf555d13":{"to":"a4b45457-27fc-4c70-a946-e40f5fcd3688","type":"government-connection"},"43a35b63-0bfb-43a0-9969-e22abbbd1e7d":{"to":"8083a802-4ad4-40c9-974d-f70d5ce11834","type":"affiliate"},"77625363-88c7-4010-b94a-3ca48e17bad6":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
-tmap.id:3d2b9d5a-d98e-4b79-b0ce-79c257eef29a
+tmap.edges:{"ed4dbfa5-cc6f-42ee-8a91-205fd1bbd027":{"to":"ae40e730-b2c3-4e36-9252-adc21df851a6","type":"government-connection"},"915f9905-286f-4251-9281-46d726e0d241":{"to":"8d5ed3c3-54ad-4d5c-a3ad-51893a08b602","type":"affiliate"},"d7a56971-d4a9-479f-862b-07f29eb030d8":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"}}
+tmap.id:ab7ba005-a5a3-45cb-8c3f-4e43e28331f4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.itu.int/en/itu-t/pages/default.aspx
@@ -36,4 +36,6 @@ website:https://www.itu.int/en/itu-t/pages/default.aspx
 The ITU Telecommunication Standardization Sector (ITU-T) is one of the three sectors (divisions or units) of the International Telecommunication Union (ITU); it coordinates standards for telecommunications.
 
 The standardization efforts of ITU commenced in 1865 with the formation of the International Telegraph Union (ITU). ITU became a specialized agency of the United Nations in 1947. The International Telegraph and Telephone Consultative Committee (CCITT, from French: Comité Consultatif International Téléphonique et Télégraphique) was created in 1956, and was renamed ITU-T in 1993.[1]
+
+
 

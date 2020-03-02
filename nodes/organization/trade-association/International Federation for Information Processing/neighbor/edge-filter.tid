@@ -1,12 +1,12 @@
-created:1582720021515
+created:1582954316226
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:088269eb-b683-4f19-89b1-d5f245b56de3
+map.base:a22f77f4-c14f-488a-b727-e10061afed4b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021515
+modified:1582954316226
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/International Federation for Information Processing/filter/edges
-tmap.id:29254d96-9703-4794-be74-92f48c573323
+tmap.id:7279cdb5-1ea8-4ad6-b14d-1268922a5dba
 type:text/vnd.tiddlywiki
 
 No body provided

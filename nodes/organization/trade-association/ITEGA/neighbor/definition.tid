@@ -1,17 +1,17 @@
-config.central-topic:cdb4916b-1049-4a4c-95be-8e3b0eb9604b
+config.central-topic:418ad144-dd94-4004-a95b-f59bba0aed03
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021513
-id:0103a4c8-0d21-4651-9ea4-ba5adcdca204
+created:1582954316225
+id:bc75d9eb-be8c-4430-baf2-a910ee3c1287
 isview:false
-map.base:cdb4916b-1049-4a4c-95be-8e3b0eb9604b
+map.base:418ad144-dd94-4004-a95b-f59bba0aed03
 map.role:definition
 map.type:neighbor
-modified:1582720021513
+modified:1582954316225
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ITEGA
-tmap.id:0103a4c8-0d21-4651-9ea4-ba5adcdca204
+tmap.id:bc75d9eb-be8c-4430-baf2-a910ee3c1287
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ITEGA

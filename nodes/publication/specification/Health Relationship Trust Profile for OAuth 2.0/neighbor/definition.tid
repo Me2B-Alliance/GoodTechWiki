@@ -1,17 +1,17 @@
-config.central-topic:15027cfe-26b2-4983-ba2b-a358f67c9c9f
+config.central-topic:b0d21867-02f8-4424-b248-b27a0fc9f650
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021653
-id:31964a52-9624-4007-8dde-46a29a067891
+created:1582954316343
+id:d66d40d1-ea67-4316-b084-209a91f2e839
 isview:false
-map.base:15027cfe-26b2-4983-ba2b-a358f67c9c9f
+map.base:b0d21867-02f8-4424-b248-b27a0fc9f650
 map.role:definition
 map.type:neighbor
-modified:1582720021653
+modified:1582954316343
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OAuth 2.0
-tmap.id:31964a52-9624-4007-8dde-46a29a067891
+tmap.id:d66d40d1-ea67-4316-b084-209a91f2e839
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Health Relationship Trust Profile for OAuth 2.0

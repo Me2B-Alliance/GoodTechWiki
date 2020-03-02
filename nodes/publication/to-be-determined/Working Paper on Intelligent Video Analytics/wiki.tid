@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003357
+created:1582954204524
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003357
+modified:1582954204524
 name:Working Paper on Intelligent Video Analytics
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:Working Paper on Intelligent Video Analytics
 tmap.edges:{}
-tmap.id:0840d1cd-1e5f-47ed-9302-0e997aae0061
+tmap.id:d0fb15b9-a11c-4ce6-afd8-77cada09b923
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/1164/wp_intelligent_video_analytics_corrected.pdf?1452848980
 version.or.edition:
@@ -31,4 +31,6 @@ Increasingly, intelligent video analytics1 technologies are being used to detect
 This paper addresses the use of intelligent video analytics technologies by both private and pub- lic sector. The technologies that are the subject of this paper are used to detect and/or track indi- viduals and objects, but not to identify them. This paper applies to upgrades to existing video sur- veillance systems, standalone “smart CCTV” or digital signage systems through the addition of intelligent video analytics capabilities, as well as new, purpose-built systems incorporating these technologies. This paper explores the privacy implications of these technologies and provides recommendations for transparent and privacy-friendly implementations.
 
 Other technologies that aim to identify individuals by using video technology and computer vision, such as biometric face recognition or number plate recognition systems, are beyond the scope of this paper. They are dealt with only to the extent necessary to show the difference regarding their privacy implications as they are subject to special privacy considerations.
+
+
 

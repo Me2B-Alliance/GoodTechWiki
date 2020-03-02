@@ -1,17 +1,17 @@
-config.central-topic:eba3befd-9f00-4944-8f5e-97c617b17c79
+config.central-topic:b5172016-a542-4936-a212-f5b8a0ab76a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021464
-id:7e0a6f8b-a0c0-4f6a-ab29-8b6f5dd7e220
+created:1582954316191
+id:c35d2fbb-1292-440f-b0d7-4dbd3609fe0c
 isview:false
-map.base:eba3befd-9f00-4944-8f5e-97c617b17c79
+map.base:b5172016-a542-4936-a212-f5b8a0ab76a2
 map.role:definition
 map.type:neighbor
-modified:1582720021464
+modified:1582954316191
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ColorCoded
-tmap.id:7e0a6f8b-a0c0-4f6a-ab29-8b6f5dd7e220
+tmap.id:c35d2fbb-1292-440f-b0d7-4dbd3609fe0c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ColorCoded

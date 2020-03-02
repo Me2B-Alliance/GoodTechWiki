@@ -1,12 +1,12 @@
-created:1582720021646
+created:1582954316339
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f2771681-b2f6-46aa-8e89-cbe1643c1960
+map.base:23298c2d-51f0-49ad-898b-6497fe32d600
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021646
+modified:1582954316339
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What’s Propaganda Got To Do With It?/filter/edges
-tmap.id:7e02278f-ede0-47e1-b038-cc5cccad4ef5
+tmap.id:a504acff-74d0-4cc9-9474-67bb5c968187
 type:text/vnd.tiddlywiki
 
 No body provided

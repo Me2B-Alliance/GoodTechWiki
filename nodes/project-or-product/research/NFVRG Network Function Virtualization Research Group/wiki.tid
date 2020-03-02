@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003351
+category:[[research]]
+created:1582954204518
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003351
+modified:1582954204518
 name:NFVRG Network Function Virtualization Research Group
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:NFVRG Network Function Virtualization Research Group
-tmap.edges:{"464d944d-14cc-44a8-9218-9a85d2487824":{"to":"a9e8ca91-4328-4479-9b71-03b42679824c","type":"connection"},"9fbdb16f-0f7f-4b30-93b5-fd1ddb9e9eba":{"to":"5b943bee-c709-4611-83f9-f1e4e470688e","type":"organization-for-group"}}
-tmap.id:ca9475a2-42f6-4e16-b5fb-de2af96261de
+tmap.edges:{"4e5b016c-6cf4-4366-99d3-c78632e3bcf9":{"to":"4c416c97-44f4-4a68-a14a-066238708fa6","type":"connection"},"31658056-5afb-400e-b2c4-d7be86cff7fa":{"to":"7a003842-ab2a-422d-b974-3b3d755ccd3a","type":"organization-for-group"}}
+tmap.id:28eab72a-de75-48a9-baed-3aa4f3a67177
 type:text/vnd.tiddlywiki
 url:https://irtf.org/nfvrg
 version.or.edition:
@@ -34,4 +34,6 @@ Network Function Virtualization (NFV) is a key emerging area for network operato
 The technologies enabling the virtualization of network functions (NFs) are currently in an early stage, and they need researchers to develop new architectures, systems, and software, and to explore trade-offs and possibilities for leveraging virtualized infrastructure to provide support for network functions. The Network Function Virtualization Research Group (NFVRG) will bring together researchers and grow the community around the world in both academia and industry to explore this new research area. Beyond the direct activity through the IRTF collaboration tools it will organize research group meetings and workshops at premier conferences (such as IEEE ICC, IEEE GLOBECOM) and inviting special issues in well-known publications.
 
 The NFVRG will focus on research problems associated with NFV-related topics and on bringing a research community together that can jointly address them, concentrating on problems that relate not just to networking but also to computing and storage aspects in such environments. It is hoped that the outcome of the research will benefit research efforts in other groups within the IRTF (and especially the SDNRG) and standardization activities of IETF WGs (like the ones going in SFC). Specific results can also spawn activities via IRTF & IETF BoF meetings and/or provide useful input to other related efforts in the ETSI NFV ISG or other standards bodies.
+
+
 

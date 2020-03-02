@@ -1,17 +1,17 @@
-config.central-topic:94334707-104e-4d40-ae73-b366963ecf78
+config.central-topic:7c7b2b6d-ccd2-4e97-9b88-899c9fdc576d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021457
-id:338a1802-4aeb-4490-b201-f791a9213cfd
+created:1582954316187
+id:94e0f18d-810c-42e8-9678-1d0d502ad01c
 isview:false
-map.base:94334707-104e-4d40-ae73-b366963ecf78
+map.base:7c7b2b6d-ccd2-4e97-9b88-899c9fdc576d
 map.role:definition
 map.type:neighbor
-modified:1582720021457
+modified:1582954316187
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TheGoodData
-tmap.id:338a1802-4aeb-4490-b201-f791a9213cfd
+tmap.id:94e0f18d-810c-42e8-9678-1d0d502ad01c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TheGoodData

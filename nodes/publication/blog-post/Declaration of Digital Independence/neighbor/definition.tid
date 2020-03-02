@@ -1,17 +1,17 @@
-config.central-topic:6b6861d6-9b5b-4525-a116-1b98a269a740
+config.central-topic:07d34ea8-9e12-4ad8-bcac-4fb53c938c11
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021574
-id:5341c44b-cefb-40e2-9422-5a7b77bc969b
+created:1582954316274
+id:8c5957f7-0606-4cfa-a6f5-af5870586158
 isview:false
-map.base:6b6861d6-9b5b-4525-a116-1b98a269a740
+map.base:07d34ea8-9e12-4ad8-bcac-4fb53c938c11
 map.role:definition
 map.type:neighbor
-modified:1582720021574
+modified:1582954316274
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Declaration of Digital Independence
-tmap.id:5341c44b-cefb-40e2-9422-5a7b77bc969b
+tmap.id:8c5957f7-0606-4cfa-a6f5-af5870586158
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Declaration of Digital Independence

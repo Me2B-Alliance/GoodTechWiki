@@ -1,12 +1,12 @@
-created:1582720021550
+created:1582954316260
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ace6fb70-095e-4ef7-aa4b-6829f616dd3c
+map.base:b461e7eb-7ad9-44b3-ae07-a22b06ccced8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021550
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SDNRG Software-Defined Networking Research Group/filter/edges
-tmap.id:1f13da62-ddb2-4b99-b7cf-c4434a9a1d35
+tmap.id:9ef93b6c-203f-463e-a27f-853157c75acd
 type:text/vnd.tiddlywiki
 
 No body provided

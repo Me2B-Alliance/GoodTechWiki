@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003334
+created:1582954204502
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003334
+modified:1582954204502
 org.name:Ku Leuven
 org.type:university
 parent.org:
@@ -27,11 +27,13 @@ tags:[[europe]]
 tech.focus:
 tiddler.classification:node
 title:Ku Leuven
-tmap.edges:{"539af27f-a0f6-43b8-b69c-30bd7e7463fe":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"},"face80a8-d6e2-42fe-ae92-e9af1cdd311e":{"to":"ee78f27f-88ac-42af-873b-20bb963fbe87","type":"founder"}}
-tmap.id:a5e1d451-5d38-4e73-bd17-85e1ef23a042
+tmap.edges:{"cd6237fc-d1d6-4916-95c5-a669ccc03857":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"},"9c9950de-0f01-435a-822e-b971cd2892fd":{"to":"b1e0764c-9933-4bfa-a065-72ec5f0c81ad","type":"founder"}}
+tmap.id:4c5da6f4-ccc8-44b4-b1b5-9a843783b436
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.kuleuven.be/english/
 
 The Katholieke Universiteit Leuven was founded in 1425. Inspired by the European Christian tradition, KU Leuven embraces the values of independent inquiry and pursues a policy of non-discrimination. KU Leuven conducts research in all academic disciplines. The technology transfer office, KU Leuven Research & Development, supports researchers in their interaction with industry. Doing a PhD at KU Leuven entails research in an internationally competitive environment.
+
+
 

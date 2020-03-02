@@ -1,12 +1,12 @@
-created:1582720021461
+created:1582954316189
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3a1428e5-db85-40fb-bd45-64d644b801c1
+map.base:1d30479b-f098-442e-b28d-7c068a8ab0a2
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Brother Watch/filter/edges
-tmap.id:e9488dfb-08b1-4d82-8ceb-03338bb4d318
+tmap.id:1b569589-837d-4df6-87b7-13c269b6936a
 type:text/vnd.tiddlywiki
 
 No body provided

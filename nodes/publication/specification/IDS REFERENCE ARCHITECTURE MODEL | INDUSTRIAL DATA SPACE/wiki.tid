@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE
 tmap.edges:{}
-tmap.id:650411f6-4782-4df3-a15e-2b1b7dcd0daf
+tmap.id:4e5c7e26-489a-4f4d-aa8a-90d3c6de1231
 type:text/vnd.tiddlywiki
 url:https://www.internationaldataspaces.org/wp-content/uploads/dlm_uploads/2018/04/InternationalDataSpacesAssociation_ReferenzArchitecture2.0.pdf
 version.or.edition:Version 2.0
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 THE INDUSTRIAL DATA SPACE IS A VIRTUAL DATA SPACE LEVERAGING EXISTING STANDARDS AND TECHNOLOGIES, AS WELL AS ACCEPTED GOVERNANCE MODELS FOR THE DATA ECONOMY, TO FACILITATE THE SECURE AND STANDARDIZED EXCHANGE AND EASY LINKAGE OF DATA IN A TRUSTED BUSINESS ECOSYSTEM. IT THEREBY PROVIDES A BASIS FOR SMART SERVICE SCENARIOS AND INNOVATIVE CROSS-COMPANY BUSINESS PROCESSES, WHILE AT THE SAME TIME MAKING SURE DATA SOVEREIGNTY IS GUARANTEED FOR THE PARTICIPATING DATA OWNERS.
+
+
 

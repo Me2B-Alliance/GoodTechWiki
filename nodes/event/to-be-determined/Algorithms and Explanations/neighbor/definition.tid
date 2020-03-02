@@ -1,17 +1,17 @@
-config.central-topic:d8dade42-19b2-489f-9369-727776f03568
+config.central-topic:2308e360-831e-42d0-a00f-ce082db27b46
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021426
-id:fd774c3b-d03c-46d5-ab1c-a8747f9a2efb
+created:1582954316168
+id:e58228b9-5c9f-4833-a5c9-0f235e99f7b5
 isview:false
-map.base:d8dade42-19b2-489f-9369-727776f03568
+map.base:2308e360-831e-42d0-a00f-ce082db27b46
 map.role:definition
 map.type:neighbor
-modified:1582720021426
+modified:1582954316168
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Algorithms and Explanations
-tmap.id:fd774c3b-d03c-46d5-ab1c-a8747f9a2efb
+tmap.id:e58228b9-5c9f-4833-a5c9-0f235e99f7b5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Algorithms and Explanations

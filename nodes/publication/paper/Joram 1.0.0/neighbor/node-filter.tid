@@ -1,12 +1,12 @@
-created:1582720021598
-filter:[field:tmap.id[b9d34455-1eb8-49ee-8d16-ab1e68c842d6]]
-map.base:b9d34455-1eb8-49ee-8d16-ab1e68c842d6
+created:1582954316297
+filter:[field:tmap.id[641832b7-da1c-4bab-9541-e586ed9a2d20]]
+map.base:641832b7-da1c-4bab-9541-e586ed9a2d20
 map.role:node-filter
 map.type:neighbor
-modified:1582720021598
+modified:1582954316297
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Joram 1.0.0/filter/nodes
-tmap.id:19b526df-579e-4610-9ca6-382cdead1162
+tmap.id:225558a4-95d3-4f73-aec0-dcbcdbc40450
 type:text/vnd.tiddlywiki
 
 No body provided

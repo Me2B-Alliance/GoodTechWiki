@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003598
+created:1582954204775
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003598
+modified:1582954204775
 name:The Data Portability Cooperation Specification
 publication.type:specification
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:The Data Portability Cooperation Specification
 tmap.edges:{}
-tmap.id:a2719b53-32fe-4855-b011-bf757cbf58c6
+tmap.id:fdfe8d69-73fa-4b0d-9fcb-4b9fe051b940
 type:text/vnd.tiddlywiki
 url:https://www.dataportabilitycooperation.org/specification.html
 version.or.edition:
@@ -32,4 +32,6 @@ The specification relies on JavaScript Object Notation (JSON) Data Interchange F
 https://tools.ietf.org/html/rfc7159
 
 It uses Json-Schema to describe the data, as defined by the official website https://json-schema.org/
+
+
 

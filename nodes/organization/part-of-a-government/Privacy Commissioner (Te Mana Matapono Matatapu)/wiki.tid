@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204532
 org.name:Privacy Commissioner (Te Mana Matapono Matatapu)
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Privacy Commissioner (Te Mana Matapono Matatapu)
-tmap.edges:{"336dc37c-9ddd-442a-8d32-1efad6b04c3e":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"}}
-tmap.id:9637a820-ce99-4f75-ab3f-72995cb95bef
+tmap.edges:{"056e8a70-22b7-4b19-a594-d55466474ba7":{"to":"4d0d3601-80e2-4f21-b9f6-a7997aaa067c","type":"general-member"}}
+tmap.id:f129930a-6471-425a-82c2-c81a57bf7c32
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.privacy.org.nz
+
+
 
 
 

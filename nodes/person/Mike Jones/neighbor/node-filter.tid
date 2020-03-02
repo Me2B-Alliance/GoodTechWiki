@@ -1,12 +1,12 @@
-created:1582720021535
-filter:[field:tmap.id[d6a24bda-1307-4744-87e3-479c90c826cc]]
-map.base:d6a24bda-1307-4744-87e3-479c90c826cc
+created:1582954316240
+filter:[field:tmap.id[78bc7cfb-7a80-43c2-9e3e-c56b4c83bff9]]
+map.base:78bc7cfb-7a80-43c2-9e3e-c56b4c83bff9
 map.role:node-filter
 map.type:neighbor
-modified:1582720021535
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mike Jones/filter/nodes
-tmap.id:fb81e92a-c970-4eab-9bb9-fd51aceea814
+tmap.id:e9422f82-511b-4e14-8aa0-671a5385edeb
 type:text/vnd.tiddlywiki
 
 No body provided

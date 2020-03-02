@@ -1,12 +1,12 @@
-created:1582720021517
-filter:[field:tmap.id[1ad28f35-6dea-47b0-8528-a881e94f72f6]]
-map.base:1ad28f35-6dea-47b0-8528-a881e94f72f6
+created:1582954316227
+filter:[field:tmap.id[0aefeeda-c2c5-4f6e-a872-5ce5ec95a42a]]
+map.base:0aefeeda-c2c5-4f6e-a872-5ce5ec95a42a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021517
+modified:1582954316227
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Linux Foundation/filter/nodes
-tmap.id:3398af58-089f-45db-b138-e216c29e22fb
+tmap.id:3b76fedf-b721-407e-8917-15541d57cea8
 type:text/vnd.tiddlywiki
 
 No body provided

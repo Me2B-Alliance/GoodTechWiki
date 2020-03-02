@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003391
+created:1582954204560
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003391
+modified:1582954204560
 org.name:ISO/IEC JTC 1 / SC27 IT Security Techniques
 org.type:standards development organization
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC JTC 1 / SC27 IT Security Techniques
-tmap.edges:{"08b87937-58d0-4d41-b743-dbea3caba72e":{"to":"4c6f078f-da74-4151-8b23-eb2d80be93a2","type":"organization-for-group"}}
-tmap.id:1dffc408-db8d-4580-ae04-400a2e5bc81e
+tmap.edges:{"f819e0f9-e21a-47bd-9354-0715c89c44e8":{"to":"45bcab16-cdd5-48a1-aa50-3a569257c25f","type":"organization-for-group"}}
+tmap.id:b5f5fa7e-2e8e-46b7-896b-d79f5ea7ee27
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
@@ -41,4 +41,6 @@ The development of standards for the protection of information and ICT. This inc
 * Security aspects of identity management, biometrics and privacy;
 * Conformance assessment, accreditation and auditing requirements in the area of information security;
 * Security evaluation criteria and methodology.
+
+
 

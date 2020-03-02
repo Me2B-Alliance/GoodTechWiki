@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003350
+category:[[research]]
+created:1582954204516
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003350
+modified:1582954204516
 name:Future of Identity in the Information Society (FIDIS)
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe|over]]
 terms.of.service:
 tiddler.classification:node
 title:Future of Identity in the Information Society (FIDIS)
-tmap.edges:{"36828dce-18f4-4331-b3e4-56df04b5ad10":{"to":"7359cf5a-4830-48ea-a605-d462b310ddd6","type":"author"},"9853f59e-98f0-4fe7-bb84-401a710a2aa0":{"to":"2dda1383-121b-403e-b28f-9d4eebfa05dd","type":"author"},"7909c3ff-cdb7-4b9a-a9dd-8306bced39f6":{"to":"83c4bf80-d613-45c5-be40-a4013258bca1","type":"author"},"a7af0044-6741-42d9-8c55-096ff78d446b":{"to":"6d5d2c29-7d79-47ae-b1a5-c0dcb0bf523d","type":"connection"},"921d409c-0660-4bfc-8807-2af2570c1012":{"to":"8931838c-c2cc-4baa-b72d-da184e1dfa5a","type":"author"},"768b4bfb-3942-4a82-ab4b-309d8d059dbc":{"to":"70d112ea-3dd3-40db-9fc1-6641666d12a0","type":"author"},"03430c78-3923-43cb-9b4a-0caeb59f43cb":{"to":"59fcf2e9-2d06-48a1-9771-557fe8a2f5e5","type":"connection"},"8b82a88e-ec06-48e7-ab21-d5b5f22f0b20":{"to":"a3d26539-3f04-49eb-bc4b-c79dcddaf5f2","type":"author"},"0ce06417-fa1f-482d-a1c7-f6010a2d86cd":{"to":"53817a99-2217-43ff-b24c-d94b5d8e6244","type":"author"}}
-tmap.id:478ee363-3475-4450-bc77-9c51748bf343
+tmap.edges:{"146041a7-a561-431a-bc9c-0d5ae9baef95":{"to":"e2e900b9-b0d8-4887-aace-05742002ed45","type":"author"},"b17b2132-7647-46d6-89ba-8cb88c70e192":{"to":"96e00008-0239-463b-9b72-2f9227886565","type":"author"},"0e497058-f940-483c-926a-cf5bb6c5e97c":{"to":"c9dc995b-2b36-43e5-a542-4d922c19e912","type":"author"},"b3559ec1-065f-4d48-9362-775b3ff650eb":{"to":"af7714aa-f9dd-4041-bde5-7237f0e162b8","type":"connection"},"ec93449e-1cfd-4946-9584-4bc8ef392baf":{"to":"6f12c577-6070-4226-818b-33a28275517d","type":"author"},"440ec01a-3b0c-45c8-9409-85eca7f9d9be":{"to":"6a975d8e-fa81-4948-a7b3-8db065f9affd","type":"author"},"6867966f-4bbe-49b4-999d-2ce32ac3b32b":{"to":"c564b589-851f-4da8-830d-0b6fa491e001","type":"connection"},"ffb197df-e8be-4365-be1f-051b1940dda5":{"to":"0e14364f-2720-4ccc-a9de-f90e8c84d879","type":"author"},"42fbfbf5-fb47-4bf3-af63-ef9ac947204f":{"to":"1857ac37-b130-4dcc-b165-170a476e8453","type":"author"}}
+tmap.id:bfd04874-58f3-4c65-bacb-8a73c47d7712
 type:text/vnd.tiddlywiki
 url:http://www.fidis.net/about/
 version.or.edition:
@@ -44,4 +44,6 @@ Our Results:
 * Integrated approaches to research
 * Legal, socio-economic, usability and application requirements.
 * Public architecture & specifications.
+
+
 

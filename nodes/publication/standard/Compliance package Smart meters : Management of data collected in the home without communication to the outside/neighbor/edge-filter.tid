@@ -1,12 +1,12 @@
-created:1582720021671
+created:1582954316355
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a7e475de-1ac0-496b-9fcd-6fd8dd0b94e7
+map.base:5c706093-887e-4314-9f70-d352b39f0363
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021671
+modified:1582954316355
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Compliance package Smart meters : Management of data collected in the home without communication to the outside/filter/edges
-tmap.id:81153f57-130c-4ba3-aa58-ab508bc18f8c
+tmap.id:78502bd8-f9b9-471e-af37-24dcf391c5f0
 type:text/vnd.tiddlywiki
 
 No body provided

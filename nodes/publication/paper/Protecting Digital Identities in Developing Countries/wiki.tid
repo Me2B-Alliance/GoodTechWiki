@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204777
 name:Protecting Digital Identities in Developing Countries
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Protecting Digital Identities in Developing Countries
 tmap.edges:{}
-tmap.id:5811c7c2-a086-4809-bf3c-34ade62bc671
+tmap.id:46411075-77fd-42cb-9f90-703df4027771
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 People  in  many  parts  of  the  developing  world  have little    or    no    infrastructure    for    well-regulated government and commercial processes. This creates a pressing  need  for  a  safe  place  to  store  important personal  data  needed  to  access  financial,  insurance, education and healthcare services. A universal digital identity    system    would    underpin    information assurance  through  verifiable  and  reliable  data  that can be presented when required. This paper presents a strong use case for a self-sovereign identity system with   verifiable   information   and   user-controllable release.
+
+
 

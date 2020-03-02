@@ -1,12 +1,12 @@
-created:1582720021633
+created:1582954316324
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e9d15084-b315-4442-9a8f-edb8240c6bee
+map.base:a24e1839-70ae-4ffe-affa-905692fcec34
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021633
+modified:1582954316324
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police Access to Digital Evidence (2017)/filter/edges
-tmap.id:187bf81f-27e7-4428-ba0e-10ab22700921
+tmap.id:a704edfa-0c51-44a4-be59-7dd07755ddfb
 type:text/vnd.tiddlywiki
 
 No body provided

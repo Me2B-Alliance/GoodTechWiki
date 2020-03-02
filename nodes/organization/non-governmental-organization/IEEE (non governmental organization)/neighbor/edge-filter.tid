@@ -1,12 +1,12 @@
-created:1582720021470
+created:1582954316196
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3d0d0635-59c5-42c0-b1c9-e317077bd9cd
+map.base:8c960451-b3f0-4339-b99f-3d20d9104888
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021470
+modified:1582954316196
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE (non governmental organization)/filter/edges
-tmap.id:aadb0af2-b393-4219-9247-90384c4f7bdc
+tmap.id:cb356529-25ff-45ef-a4ae-054f264972b9
 type:text/vnd.tiddlywiki
 
 No body provided

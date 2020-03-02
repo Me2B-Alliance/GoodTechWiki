@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003325
+category:[[specification work]]
+created:1582954204492
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003325
+modified:1582954204492
 name:Service Function Chaining  (sfc)
 parent.org:IETF
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Service Function Chaining  (sfc)
-tmap.edges:{"92c74ac7-dabc-4408-a671-f28675b5856e":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:a9e8ca91-4328-4479-9b71-03b42679824c
+tmap.edges:{"281371a3-2335-41f4-96bd-e08a5f8b6ab2":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:4c416c97-44f4-4a68-a14a-066238708fa6
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

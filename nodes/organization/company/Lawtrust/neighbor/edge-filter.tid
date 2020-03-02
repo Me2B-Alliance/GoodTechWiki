@@ -1,12 +1,12 @@
-created:1582720021442
+created:1582954316179
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:86ed8965-f7a7-4f83-ac0a-8a1bd7f47c1b
+map.base:ac4d44ac-5375-494a-9799-f7df9d667465
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021442
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lawtrust/filter/edges
-tmap.id:c4ffe01e-44de-4751-8f17-3f3725b4217c
+tmap.id:94a950b6-4a54-43f3-a557-f978d5fcff18
 type:text/vnd.tiddlywiki
 
 No body provided

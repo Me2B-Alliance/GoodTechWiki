@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003378
+created:1582954204547
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003378
+modified:1582954204547
 org.name:TNO
 org.type:non governmental organization
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:TNO
-tmap.edges:{"d87e0865-aa5b-4d33-b011-f8c39378dd94":{"to":"9c77c020-4960-4ff8-9ea9-7d259d1b6fab","type":"organization-for-group"}}
-tmap.id:aafcb198-2cf2-4b28-bb44-40f19e1cff9c
+tmap.edges:{"e3128c7b-1a64-4553-bec4-b9d51901f738":{"to":"b0798528-2d64-403c-bb42-8466a8bcdf1f","type":"organization-for-group"}}
+tmap.id:2b23e1c1-e38a-4b1a-8cac-610a2b91f410
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.tno.nl/nl/
@@ -46,4 +46,6 @@ Defence, Safety & Security: from a wide range of threats to controllable risks
 Urbanisation: from urbanisation bottlenecks to urban vitality
 Energy: from conventional sources to sustainable energy systems.
 Innovation with purpose is what TNO stands for. We develop knowledge not for its own sake, but for practical application.
+
+
 

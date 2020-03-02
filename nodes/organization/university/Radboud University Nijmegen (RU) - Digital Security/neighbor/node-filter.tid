@@ -1,12 +1,12 @@
-created:1582720021526
-filter:[field:tmap.id[6415466b-00ec-4943-82ef-0e763c7e1d30]]
-map.base:6415466b-00ec-4943-82ef-0e763c7e1d30
+created:1582954316234
+filter:[field:tmap.id[45c29d06-0b5e-4cd6-b7bb-88cde5ad9d04]]
+map.base:45c29d06-0b5e-4cd6-b7bb-88cde5ad9d04
 map.role:node-filter
 map.type:neighbor
-modified:1582720021526
+modified:1582954316234
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Radboud University Nijmegen (RU) - Digital Security/filter/nodes
-tmap.id:8598b851-8dcd-44a3-8640-491285e1a9ff
+tmap.id:7b4006de-909b-43f9-9121-2f57d10a80ec
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:fbff7f28-4c84-419d-9532-16fce7810f59
+config.central-topic:b3c7543c-f3bc-41be-a107-eb5eb118863c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021605
-id:c6455aef-67c5-47d5-85be-02c823580b67
+created:1582954316303
+id:5c1128bb-7dd1-49f8-8947-ea8668ab4bf2
 isview:false
-map.base:fbff7f28-4c84-419d-9532-16fce7810f59
+map.base:b3c7543c-f3bc-41be-a107-eb5eb118863c
 map.role:definition
 map.type:neighbor
-modified:1582720021605
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustworthy Privacy Indicators: Grades, Labels, Certifications and Dashboards
-tmap.id:c6455aef-67c5-47d5-85be-02c823580b67
+tmap.id:5c1128bb-7dd1-49f8-8947-ea8668ab4bf2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Trustworthy Privacy Indicators: Grades, Labels, Certifications and Dashboards

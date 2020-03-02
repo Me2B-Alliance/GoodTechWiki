@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[ben grosser]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:Computers Watching Movies
 publication.type:video
 purpose:
 sector:
 sponsoring.org:
-tags:[[film festival]]
+tags:[[film festival (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Computers Watching Movies
 tmap.edges:{}
-tmap.id:365372c9-72a4-4143-a0da-675e5808a83b
+tmap.id:0275ab23-9caf-4903-b308-4e4ff26ae810
 type:text/vnd.tiddlywiki
 url:https://vimeo.com/78711521
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 [excerpt: Computer watching the “Open the pod bay doors, Hal” scene from 2001: A Space Odessey]. A visualization of a computer vision algorithm watching well-known clips from popular movies
+
+
 

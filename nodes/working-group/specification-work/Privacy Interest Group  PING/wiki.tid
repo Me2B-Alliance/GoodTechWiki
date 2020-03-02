@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003330
+category:[[specification work]]
+created:1582954204497
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003330
+modified:1582954204497
 name:Privacy Interest Group  PING
 parent.org:W3C
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Privacy Interest Group  PING
-tmap.edges:{"1fa867ed-4ccb-43bd-b970-5848b436a36c":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
-tmap.id:5dc52168-9b5c-4f48-a0bb-cebb0e9aef93
+tmap.edges:{"a999d59b-ea77-47c3-aabe-739b4dc8eaed":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"}}
+tmap.id:53033503-d72a-40b1-9c25-167034f58e0e
 type:text/vnd.tiddlywiki
 url:http://www.w3.org/privacy/
 
 The group monitors ongoing privacy issues that affect the Web, investigates potential areas for new privacy work, and provides guidelines and advice for addressing privacy in standards development.
+
+
 

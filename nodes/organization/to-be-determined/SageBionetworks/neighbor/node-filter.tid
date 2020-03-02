@@ -1,12 +1,12 @@
-created:1582720021498
-filter:[field:tmap.id[04ec8256-d93c-432a-8496-9c873666e3ab]]
-map.base:04ec8256-d93c-432a-8496-9c873666e3ab
+created:1582954316217
+filter:[field:tmap.id[cea6c0e2-103b-4bcc-81c6-89d9c8f50f6b]]
+map.base:cea6c0e2-103b-4bcc-81c6-89d9c8f50f6b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021498
+modified:1582954316217
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SageBionetworks/filter/nodes
-tmap.id:ad6e3000-4a51-447a-8330-57a26cdd67e8
+tmap.id:5dfac96a-7e1c-4d42-8348-979feba6145b
 type:text/vnd.tiddlywiki
 
 No body provided

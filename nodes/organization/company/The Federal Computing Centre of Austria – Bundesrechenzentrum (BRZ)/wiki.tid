@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003383
+created:1582954204551
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003383
+modified:1582954204551
 org.name:The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ)
-tmap.edges:{"7aadc915-4f04-4e41-845d-119949cdb95b":{"to":"7ed098e0-66f0-4199-b147-d8d352738344","type":"funding-flow"},"00959bd6-97b2-40fa-9807-7f988ccac0dc":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
-tmap.id:0ab42b05-d977-4075-b1f8-7ceeae386f8b
+tmap.edges:{"d556985d-a479-4ee9-9048-46a7c43b61ce":{"to":"2a0a43ea-d17f-4529-884a-5114d15a301f","type":"funding-flow"},"040dad45-4747-49a3-beff-425e44dd6e61":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"}}
+tmap.id:699b6f1d-5b4c-4d0b-bc9b-1aa0e5fca24a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://en.brz.gv.at
 
 The Federal Computing Centre of Austria – Bundesrechenzentrum (BRZ) is the market-leading e-government partner of the federal administration in Austria. Primarily, the BRZ is in charge of approximately 1,200 employees, 3,000 servers and has equipped 1,200 locations throughout Austria with infrastructure; this service has successfully deployed more than 300 IT-processes. Overall, the BRZ supports more than 400 e-government applications that are used by five million users. The BRZ runs one of Austria's largest computing centres, its own parallel computing centre and ensures one of the most reliable infrastructures available. The Federal Computing Centre of Austria is also an internationally renowned cooperation partner and has been part of projects such as the Euritas (European Association of Public IT service provider).
+
+
 

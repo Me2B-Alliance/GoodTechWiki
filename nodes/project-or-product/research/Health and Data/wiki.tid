@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Health and Data
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Health and Data
 tmap.edges:{}
-tmap.id:b2c23129-2b84-4bfb-bbce-18d36fdd824a
+tmap.id:753624f0-9025-4d2f-b103-096838cc64e3
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/research/health-and-data/
 version.or.edition:
 working.group:
 
 Rapid technological innovation in health care, and the integration of digital data infrastructures in everyday life, has outpaced our understanding of how these developments affect human relationships, behaviors, and well-being. The Health and Data initiative produces empirical research about the unintended consequences of health data collection, equitable outcomes in data-centric approaches to health, and what constitutes healthy behavior in the context of technology use.
+
+
 

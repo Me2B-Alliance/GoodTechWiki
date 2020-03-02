@@ -1,12 +1,12 @@
-created:1582720021571
-filter:[field:tmap.id[b176f2e5-8bfe-4456-815e-9cfccb1bd1be]]
-map.base:b176f2e5-8bfe-4456-815e-9cfccb1bd1be
+created:1582954316272
+filter:[field:tmap.id[5228746b-11e5-49c0-b09e-9626288f9fb8]]
+map.base:5228746b-11e5-49c0-b09e-9626288f9fb8
 map.role:node-filter
 map.type:neighbor
-modified:1582720021571
+modified:1582954316272
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Battle for the Net/filter/nodes
-tmap.id:e8f97234-8978-4cc4-af32-2084c5085450
+tmap.id:e49b7649-888d-448a-b8ab-f1f6b1045355
 type:text/vnd.tiddlywiki
 
 No body provided

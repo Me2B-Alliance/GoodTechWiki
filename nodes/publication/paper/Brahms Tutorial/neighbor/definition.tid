@@ -1,17 +1,17 @@
-config.central-topic:999a552c-7455-4e6d-be5c-e9a64bc9f0de
+config.central-topic:8713eabf-4b79-4059-a34a-8f89a9c80a3a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021591
-id:03cb368d-86a4-4c61-ae10-a4766089ac71
+created:1582954316295
+id:9ff85973-8a77-443d-8bd7-0c0dca49fe56
 isview:false
-map.base:999a552c-7455-4e6d-be5c-e9a64bc9f0de
+map.base:8713eabf-4b79-4059-a34a-8f89a9c80a3a
 map.role:definition
 map.type:neighbor
-modified:1582720021591
+modified:1582954316295
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Brahms Tutorial
-tmap.id:03cb368d-86a4-4c61-ae10-a4766089ac71
+tmap.id:9ff85973-8a77-443d-8bd7-0c0dca49fe56
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Brahms Tutorial

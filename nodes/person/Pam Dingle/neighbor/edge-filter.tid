@@ -1,12 +1,12 @@
-created:1582720021535
+created:1582954316241
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:e3c8c7c9-6598-4315-9495-7fdd59d53620
+map.base:f0551cdf-7f91-41f9-a875-0b09cf63881e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021535
+modified:1582954316241
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Pam Dingle/filter/edges
-tmap.id:7c2170a4-876f-439b-98d0-910c58f558dc
+tmap.id:468b79d8-87d9-4ff0-ab35-ea7aec11ebef
 type:text/vnd.tiddlywiki
 
 No body provided

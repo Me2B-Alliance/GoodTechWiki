@@ -1,7 +1,7 @@
 activities:[[publication]]
 audience:
-category:research
-created:1582720003597
+category:[[research]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:That One Privacy Site - VPN Comparison
 parent.org:That One Privacy Site
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:That One Privacy Site - VPN Comparison
 tmap.edges:{}
-tmap.id:89f30e91-8c83-4009-a8e7-b082e0eedc98
+tmap.id:06828fde-2b39-45e5-9c18-5fc11be83e4a
 type:text/vnd.tiddlywiki
 url:https://thatoneprivacysite.net/
 version.or.edition:
 working.group:
 
 Welcome to the VPN Comparison!  This section is meant to be a resource to those who value their privacy, specifically those looking for information on VPNs (that isn’t disguised advertising).  When I started down the path of retaking my own privacy, there was very little unbiased and reliable information with regard to VPNs.
+
+
 

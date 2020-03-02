@@ -1,17 +1,17 @@
-config.central-topic:0d293ef9-64c3-4367-bb6f-126851092bee
+config.central-topic:0ff9621d-0d61-499a-ae06-06b5242056fe
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021609
-id:6a6156ed-5e66-4728-b6d9-79d750972d22
+created:1582954316306
+id:b1fdb504-f8d7-4480-956f-d122145e8555
 isview:false
-map.base:0d293ef9-64c3-4367-bb6f-126851092bee
+map.base:0ff9621d-0d61-499a-ae06-06b5242056fe
 map.role:definition
 map.type:neighbor
-modified:1582720021609
+modified:1582954316306
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Activity Report 2007
-tmap.id:6a6156ed-5e66-4728-b6d9-79d750972d22
+tmap.id:b1fdb504-f8d7-4480-956f-d122145e8555
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Activity Report 2007

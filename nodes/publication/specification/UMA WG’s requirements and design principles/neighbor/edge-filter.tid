@@ -1,12 +1,12 @@
-created:1582720021663
+created:1582954316350
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:fe267eac-7a9b-4d75-9d95-82e8cc007b8c
+map.base:ec072094-ec66-4913-9593-56998f288d04
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021663
+modified:1582954316350
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/UMA WG’s requirements and design principles/filter/edges
-tmap.id:0ca496bc-1532-4be9-8c84-d9344c3cb0ba
+tmap.id:f5d12a5a-18b2-4c22-aea0-98c7216146c4
 type:text/vnd.tiddlywiki
 
 No body provided

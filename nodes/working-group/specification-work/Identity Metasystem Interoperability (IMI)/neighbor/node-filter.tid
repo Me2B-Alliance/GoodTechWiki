@@ -1,12 +1,12 @@
-created:1582720021700
-filter:[field:tmap.id[b2e64047-b004-4394-9011-3ed0096568f3]]
-map.base:b2e64047-b004-4394-9011-3ed0096568f3
+created:1582954316380
+filter:[field:tmap.id[773005d1-9ae8-4454-b6e6-94289e39b326]]
+map.base:773005d1-9ae8-4454-b6e6-94289e39b326
 map.role:node-filter
 map.type:neighbor
-modified:1582720021700
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Metasystem Interoperability (IMI)/filter/nodes
-tmap.id:2cbab1f8-a0ab-4fda-a487-a4aae87275ff
+tmap.id:d4df6b94-c2cf-461f-9224-373709701247
 type:text/vnd.tiddlywiki
 
 No body provided

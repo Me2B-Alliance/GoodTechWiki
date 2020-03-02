@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:The Standard
 publication.type:standard
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:The Standard
 tmap.edges:{}
-tmap.id:e94dc832-9f49-420f-88f0-44ca71a3d23e
+tmap.id:7551dcc6-8c25-4e49-8ac1-b143f6944c88
 type:text/vnd.tiddlywiki
 url:https://www.thedigitalstandard.org/the-standard
 version.or.edition:
@@ -33,4 +33,6 @@ Each criteria has been color-coded to help direct your contribution and particip
     : Well understood with a developed testing approach in place.
     : Under development with some outstanding questions.
     : Under discussion, usually due to the sensitivity and complexity of the issue.
+
+
 

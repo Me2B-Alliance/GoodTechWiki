@@ -1,12 +1,12 @@
-created:1582720021572
-filter:[field:tmap.id[e2964d9b-3938-421c-b603-ab022bad1e81]]
-map.base:e2964d9b-3938-421c-b603-ab022bad1e81
+created:1582954316274
+filter:[field:tmap.id[d2cc23f7-0218-44b8-9098-f70c4100826f]]
+map.base:d2cc23f7-0218-44b8-9098-f70c4100826f
 map.role:node-filter
 map.type:neighbor
-modified:1582720021572
+modified:1582954316274
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA IMEI Services/filter/nodes
-tmap.id:450a1766-545a-42b4-a6a0-680fbf57033f
+tmap.id:3619425d-9645-47f5-89f0-6eb6d15190a4
 type:text/vnd.tiddlywiki
 
 No body provided

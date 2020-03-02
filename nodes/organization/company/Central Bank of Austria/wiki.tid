@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003386
+created:1582954204554
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003386
+modified:1582954204554
 org.name:Central Bank of Austria
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Central Bank of Austria
-tmap.edges:{"c60dc16a-1896-4db2-a8e6-e7fc38ce33bf":{"to":"7ed098e0-66f0-4199-b147-d8d352738344","type":"funding-flow"}}
-tmap.id:a49d5ffd-4d37-41b8-8cb7-2f4b17f9c542
+tmap.edges:{"97fcd11c-73d3-4017-9b45-53bbb0f1c8be":{"to":"2a0a43ea-d17f-4529-884a-5114d15a301f","type":"funding-flow"}}
+tmap.id:3b89b31f-8a32-4928-82a0-0776eeae541c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

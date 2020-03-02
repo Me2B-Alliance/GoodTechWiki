@@ -1,0 +1,17 @@
+config.central-topic:00050729-df30-4038-8b75-9cae77d5333d
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316211
+id:2de33b3b-bb50-4544-bee5-b879be458535
+isview:false
+map.base:00050729-df30-4038-8b75-9cae77d5333d
+map.role:definition
+map.type:neighbor
+modified:1582954316211
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/CitizenMe (to-be-determined)
+tmap.id:2de33b3b-bb50-4544-bee5-b879be458535
+type:text/vnd.tiddlywiki
+
+Neighbor Map of CitizenMe (to-be-determined)

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204540
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204540
 org.name:ISO/IEC
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ISO/IEC
-tmap.edges:{"b2f45543-d7e3-4bab-80cf-b2d00d9fc7b3":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"}}
-tmap.id:4c6f078f-da74-4151-8b23-eb2d80be93a2
+tmap.edges:{"48a99aa1-1f5d-461c-a9e2-7d2ddda88c2f":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"}}
+tmap.id:45bcab16-cdd5-48a1-aa50-3a569257c25f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.iso.org/iso/home.html
 
 The ISO (International Organization for Standardization) and the IEC (International Electrotechnical Commission) form the specialized system for worldwide standardization. National bodies that are members of ISO or IEC participate in the development of International Standards through technical committees established by the respective organization to deal with particular fields of technical activity. ISO and IEC technical committees collaborate in fields of mutual interest. Other international organizations, governmental and non-governmental in liaison with ISO and IEC, also take part in the work. Information technology standardization has some unique requirements as a consequence of the pace of innovation. Therefore, ISO and IEC have established a joint technical committee, ISO/IEC JTC1, Information Technology.
+
+
 

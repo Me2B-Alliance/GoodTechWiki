@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003357
+created:1582954204524
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003357
+modified:1582954204524
 name:web paymentsReport and Guidance on Road Pricing - ”Sofia Memorandum”
 publication.type:to be determined
 purpose:
@@ -18,7 +18,7 @@ tech.focus:
 tiddler.classification:node
 title:web paymentsReport and Guidance on Road Pricing - ”Sofia Memorandum”
 tmap.edges:{}
-tmap.id:1ea7d638-3f2d-44fa-8a8c-6aed43bdba5f
+tmap.id:677f44f2-a695-49ae-b283-58f9057af245
 type:text/vnd.tiddlywiki
 url:https://datenschutz-berlin.de/attachments/661/society_services.pdf?1278642489
 version.or.edition:
@@ -30,4 +30,6 @@ The Working Group recommends that the designers of large scale road pricing syst
 • Road pricing systems can and should be designed so that the detailed trip data are fully and permanently deleted from the system after the charges have been settled in order to prevent the creation of movement profiles or the potential for function-creep.
 • Processing of personal data for other purposes (e.g. pay-as you drive insurance or be- havioural-based marketing), should only be possible with clear and unambiguous con- sent from the individual.
 • In terms of enforcement, the system should not ascertain the identity of the driver or owner of a vehicle unless there is evidence that the driver has committed something which is defined as a violation of the road pricing system.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:85317365-7aad-423c-805a-146169d97820
+config.central-topic:8041992d-c0c4-459e-bc17-951c25e4febd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021632
-id:88e923ee-9d60-46b9-aa36-386e1edc3b96
+created:1582954316323
+id:7937de14-ed96-4d1f-a52a-c6117ba11633
 isview:false
-map.base:85317365-7aad-423c-805a-146169d97820
+map.base:8041992d-c0c4-459e-bc17-951c25e4febd
 map.role:definition
 map.type:neighbor
-modified:1582720021632
+modified:1582954316323
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Nannies Already Felt Like They Were Under Constant Surveillance. The Internet Has Made It Even Worse.
-tmap.id:88e923ee-9d60-46b9-aa36-386e1edc3b96
+tmap.id:7937de14-ed96-4d1f-a52a-c6117ba11633
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Nannies Already Felt Like They Were Under Constant Surveillance. The Internet Has Made It Even Worse.

@@ -1,17 +1,17 @@
-config.central-topic:2a5cb353-5d9b-46fc-94cf-6e84f55b674e
+config.central-topic:96cbe6d3-e174-4016-b105-0bc9cddecf78
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021467
-id:9f36e479-1ac5-4da0-a0f4-8541ea84bef9
+created:1582954316195
+id:36718f11-8570-4696-adbc-fda758179e84
 isview:false
-map.base:2a5cb353-5d9b-46fc-94cf-6e84f55b674e
+map.base:96cbe6d3-e174-4016-b105-0bc9cddecf78
 map.role:definition
 map.type:neighbor
-modified:1582720021467
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open Humans Foundation
-tmap.id:9f36e479-1ac5-4da0-a0f4-8541ea84bef9
+tmap.id:36718f11-8570-4696-adbc-fda758179e84
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open Humans Foundation

@@ -1,12 +1,12 @@
-created:1582720021493
+created:1582954316214
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f0937e97-d7f3-4a34-81ac-f0b20734645c
+map.base:95d7588a-2e4c-4da2-94de-6ec68b62996a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021493
+modified:1582954316214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Lifescope (organization)/filter/edges
-tmap.id:2c1e73ac-e309-4720-b05b-bad82cf618a8
+tmap.id:94bdfc92-d5c7-4ef7-9da0-86144fae2d62
 type:text/vnd.tiddlywiki
 
 No body provided

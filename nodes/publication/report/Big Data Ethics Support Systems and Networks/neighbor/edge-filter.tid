@@ -1,12 +1,12 @@
-created:1582720021615
+created:1582954316308
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3b545ad3-df4c-4201-ab51-e9f696eca0e0
+map.base:723d6479-59a7-42aa-b066-34499e3a8cdb
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021615
+modified:1582954316308
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Data Ethics Support Systems and Networks/filter/edges
-tmap.id:0b49cbe3-caeb-4e75-836c-027f64603b3b
+tmap.id:43e542b5-2375-434c-b17b-73ba2f77a83d
 type:text/vnd.tiddlywiki
 
 No body provided

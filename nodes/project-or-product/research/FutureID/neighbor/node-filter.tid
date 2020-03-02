@@ -1,12 +1,12 @@
-created:1582720021545
-filter:[field:tmap.id[e076701d-3224-4784-9ad7-6ea7040a84a0]]
-map.base:e076701d-3224-4784-9ad7-6ea7040a84a0
+created:1582954316256
+filter:[field:tmap.id[7f360554-cf25-4cc7-9c9c-8a8f4b85a6d1]]
+map.base:7f360554-cf25-4cc7-9c9c-8a8f4b85a6d1
 map.role:node-filter
 map.type:neighbor
-modified:1582720021545
+modified:1582954316256
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/FutureID/filter/nodes
-tmap.id:75047ca4-fb6f-4001-854f-5166a071c358
+tmap.id:44fbf90e-8cfb-48f1-b7b9-0658cc7c8e17
 type:text/vnd.tiddlywiki
 
 No body provided

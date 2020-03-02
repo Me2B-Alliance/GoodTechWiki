@@ -1,12 +1,12 @@
-created:1582720021595
-filter:[field:tmap.id[e24e0b54-d378-4067-ab8d-c537ac7dff67]]
-map.base:e24e0b54-d378-4067-ab8d-c537ac7dff67
+created:1582954316290
+filter:[field:tmap.id[a4b823ed-faed-48f6-b17a-b379ede801a8]]
+map.base:a4b823ed-faed-48f6-b17a-b379ede801a8
 map.role:node-filter
 map.type:neighbor
-modified:1582720021595
+modified:1582954316290
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Encrypted Data Vaults/filter/nodes
-tmap.id:af456bcf-ad36-43c6-a482-21913eed3032
+tmap.id:69740c29-58a6-4e40-8955-3867c79c36c8
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021476
-filter:[field:tmap.id[fceb8eea-6f63-4635-a8ab-e298991ffe18]]
-map.base:fceb8eea-6f63-4635-a8ab-e298991ffe18
+created:1582954316202
+filter:[field:tmap.id[fe823f6c-e1cd-44e1-9c53-268ead281008]]
+map.base:fe823f6c-e1cd-44e1-9c53-268ead281008
 map.role:node-filter
 map.type:neighbor
-modified:1582720021476
+modified:1582954316202
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US Citizenship and Immigration Services/filter/nodes
-tmap.id:6ccce87e-1210-44bc-9bc5-ed956fcb6b02
+tmap.id:0b47c79c-a06a-42cd-83d0-cdd426046658
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:9d6e665e-b28d-4548-b53c-198784e5ad47
+config.central-topic:e5384282-ef28-4876-b270-63147cb4bd3a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021682
-id:4bd24838-5cb8-4d77-b5d5-c080d0f44895
+created:1582954316363
+id:ebfc7a82-8c92-4b2b-a182-e6f302543ae7
 isview:false
-map.base:9d6e665e-b28d-4548-b53c-198784e5ad47
+map.base:e5384282-ef28-4876-b270-63147cb4bd3a
 map.role:definition
 map.type:neighbor
-modified:1582720021682
+modified:1582954316363
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Understanding your Online Identity Protecting Your Privacy
-tmap.id:4bd24838-5cb8-4d77-b5d5-c080d0f44895
+tmap.id:ebfc7a82-8c92-4b2b-a182-e6f302543ae7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Understanding your Online Identity Protecting Your Privacy

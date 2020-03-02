@@ -1,12 +1,12 @@
-created:1582720021617
+created:1582954316314
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:50fb9916-5fc4-4305-88f1-8c112ccf1add
+map.base:823508fe-6527-4aef-9a1f-0f071326c7d7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021617
+modified:1582954316314
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Discriminating Tastes: Customer Ratings as Vehicles for Bias/filter/edges
-tmap.id:78bd0bf3-ce6f-4139-a4cb-3a8c6d91518e
+tmap.id:77e22b16-18ec-455e-8a63-1888c16ee821
 type:text/vnd.tiddlywiki
 
 No body provided

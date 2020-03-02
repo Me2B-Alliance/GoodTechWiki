@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003372
+created:1582954204540
 date.ended:
 date.founded:1992-01-04
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003372
+modified:1582954204540
 org.name:RIPE NCC - The Réseaux IP Européens Network Coordination Centre
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:RIPE NCC - The Réseaux IP Européens Network Coordination Centre
-tmap.edges:{"6368e0cd-0f6f-4c2f-9932-1090ac46087c":{"to":"4ca1c3c6-9f6b-4ad7-a387-49850e446e21","type":"general-member"}}
-tmap.id:5bda3e17-7556-4067-b27d-b26c9b717f47
+tmap.edges:{"56012679-2cd4-4a4b-b3a3-cab29206b239":{"to":"ad19671f-3022-4169-b1ab-07a594efeb1e","type":"general-member"}}
+tmap.id:1dbb8f46-9c6e-4084-b638-a6d8ef2213ae
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.ripe.net
@@ -36,4 +36,6 @@ website:https://www.ripe.net
 The RIPE NCC supports the technical and administrative coordination of the infrastructure of the Internet. It is a not-for-profit membership organisation with over 10,000 (as of March 2014) members located in over 70 countries in its service region.
 
 Any individual or organisation can become a member of the RIPE NCC. The membership consists mainly of Internet service providers (ISPs), telecommunication organisations, educational institutions, governments, regulatory agencies, and large corporations.
+
+
 

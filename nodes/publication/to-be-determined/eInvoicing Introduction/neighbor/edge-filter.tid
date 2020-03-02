@@ -1,12 +1,12 @@
-created:1582720021686
+created:1582954316366
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:494333ed-70f0-456c-9fdb-d31f99b772e5
+map.base:705b3dfe-602f-4132-ba1e-af0c070afc95
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021686
+modified:1582954316366
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eInvoicing Introduction/filter/edges
-tmap.id:b90a787b-fcfd-4e33-977d-960275093538
+tmap.id:5add6d3f-c3c9-419c-aa26-4c0468e6c180
 type:text/vnd.tiddlywiki
 
 No body provided

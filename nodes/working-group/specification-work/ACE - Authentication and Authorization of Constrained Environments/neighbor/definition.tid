@@ -1,17 +1,17 @@
-config.central-topic:2f5c0f09-b6f7-46ff-8c3a-b30a417b5707
+config.central-topic:232c610d-2e3b-48d6-8e8c-f0109159238d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021694
-id:56ee4e8b-d53b-4037-998c-8c99ace6b3ec
+created:1582954316376
+id:11b22dc4-37f9-442a-827b-66515ab93bad
 isview:false
-map.base:2f5c0f09-b6f7-46ff-8c3a-b30a417b5707
+map.base:232c610d-2e3b-48d6-8e8c-f0109159238d
 map.role:definition
 map.type:neighbor
-modified:1582720021694
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ACE - Authentication and Authorization of Constrained Environments
-tmap.id:56ee4e8b-d53b-4037-998c-8c99ace6b3ec
+tmap.id:11b22dc4-37f9-442a-827b-66515ab93bad
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ACE - Authentication and Authorization of Constrained Environments

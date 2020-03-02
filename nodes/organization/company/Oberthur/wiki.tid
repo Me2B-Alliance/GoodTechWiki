@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204556
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204556
 org.name:Oberthur
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Oberthur
-tmap.edges:{"a29dadbf-0d39-4fce-9c7e-4b3e1dac882b":{"to":"6be2158c-9ae0-427e-bffd-13c0a0b432f0","type":"executive-member"}}
-tmap.id:7584b3db-fe53-4124-9146-f0bbc7328c2c
+tmap.edges:{"72bf9741-c2cd-4cdc-9b92-af5e00ee4396":{"to":"b7f9666c-d936-4f82-9eb8-a74adb1f0493","type":"executive-member"}}
+tmap.id:ca2bfd2c-a789-4959-9607-04b162973cad
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.oberthur.com
+
+
 
 
 

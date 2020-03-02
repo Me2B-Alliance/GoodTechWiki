@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003333
+category:[[specification work]]
+created:1582954204500
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003333
+modified:1582954204500
 name:Web Authentication
 parent.org:W3C
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Web Authentication
-tmap.edges:{"1cf1e3b1-312d-4f88-a015-28462f9a956c":{"to":"4ff3599a-833e-4e3c-8f60-cfa636d45e71","type":"organization-for-group"}}
-tmap.id:e062a5a7-322b-45a5-ba54-2fa66e64c7ac
+tmap.edges:{"e77da08f-72b0-4e7b-bfac-226001047477":{"to":"bc0d418c-0bab-41d4-b1f4-d8b360942f7b","type":"organization-for-group"}}
+tmap.id:39a7440f-080c-4ef2-9576-0b28536cc72f
 type:text/vnd.tiddlywiki
 url:https://www.w3.org/blog/webauthn/
 
@@ -28,4 +28,6 @@ The mission of the Web Authentication Working Group, in the Security Activity, i
 The Web Authentication Working Group will develop recommendation-track specifications defining an API, as well as signature and attestation formats which provide an asymmetric cryptography-based foundation for authentication of users to Web Applications.
 
 Overall goals include obviating the use of shared secrets, i.e. passwords, as authentication credentials, facilitating multi-factor authentication support as well as hardware-based key storage while respecting the Same Origin Policy.
+
+
 

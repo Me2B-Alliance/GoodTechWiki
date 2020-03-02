@@ -1,12 +1,12 @@
-created:1582720021675
+created:1582954316357
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:cfe3e81d-e3fc-457f-824f-1bd9e565fe81
+map.base:9a34c16e-422f-4b4b-a440-e10e19b00432
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021675
+modified:1582954316357
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ATTPS Achieving The Trust Paradigm Shift/filter/edges
-tmap.id:d2e736e2-e3db-4a28-84fd-ecac2012e92e
+tmap.id:95320d6a-ecd5-4dd1-b22c-67d94d1027a3
 type:text/vnd.tiddlywiki
 
 No body provided

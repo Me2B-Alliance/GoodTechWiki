@@ -1,17 +1,17 @@
-config.central-topic:0f2ba113-679d-466b-99cd-3b987a23f289
+config.central-topic:169e4d2c-29f3-4c56-8d25-4d7f82a08cec
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021657
-id:e445f107-5f9d-4083-968f-1a75ee929fe9
+created:1582954316346
+id:375a171d-22a8-404c-a8b6-5aa69388104c
 isview:false
-map.base:0f2ba113-679d-466b-99cd-3b987a23f289
+map.base:169e4d2c-29f3-4c56-8d25-4d7f82a08cec
 map.role:definition
 map.type:neighbor
-modified:1582720021657
+modified:1582954316346
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MODRNA Discovery
-tmap.id:e445f107-5f9d-4083-968f-1a75ee929fe9
+tmap.id:375a171d-22a8-404c-a8b6-5aa69388104c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MODRNA Discovery

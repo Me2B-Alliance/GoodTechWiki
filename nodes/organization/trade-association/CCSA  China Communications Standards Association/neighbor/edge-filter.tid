@@ -1,12 +1,12 @@
-created:1582720021508
+created:1582954316221
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6310bc07-bb79-44a7-9bcc-60b6067ade9e
+map.base:306a720a-a529-4ce7-9f51-6d7da321a397
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021508
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CCSA  China Communications Standards Association/filter/edges
-tmap.id:305e0bd2-b810-4667-92a0-2d06eb19bd08
+tmap.id:3acf967a-cc5b-41d5-a1a5-ad4f45795739
 type:text/vnd.tiddlywiki
 
 No body provided

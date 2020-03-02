@@ -1,17 +1,17 @@
-config.central-topic:c134e2b4-7155-41a4-af5f-c291ab3b8c4a
+config.central-topic:3a680d22-4aee-4fb0-a9a7-f244f93d81f5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021601
-id:d9a86154-6f79-4f08-b46b-234264293145
+created:1582954316301
+id:f56f2ab0-62f2-4067-9116-77bf210036f3
 isview:false
-map.base:c134e2b4-7155-41a4-af5f-c291ab3b8c4a
+map.base:3a680d22-4aee-4fb0-a9a7-f244f93d81f5
 map.role:definition
 map.type:neighbor
-modified:1582720021601
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Questions and Assumptions
-tmap.id:d9a86154-6f79-4f08-b46b-234264293145
+tmap.id:f56f2ab0-62f2-4067-9116-77bf210036f3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Questions and Assumptions

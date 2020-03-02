@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:How SSI Will Survive Capitalism
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:How SSI Will Survive Capitalism
 tmap.edges:{}
-tmap.id:812075f7-49ff-40bc-9938-994907252481
+tmap.id:39c92b88-7544-4602-87f0-22e2d5cb93d7
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The Self-Sovereign Identity (SSI) community has described several groundbreaking properties that arise from the adoption of its principles. Governance, as in business and fnancing structure, is arguably the most challenging of these properties, captured succinctly by Shoshana Zubof as: "Who decides? Who decides who decides?" However,even though the technology has matured greatly over recent years, bootstrapping an SSI product within the existing capitalistic market environment is complicated and has not been achieved at scale within any functional domain.A RWOT6 paper explored the challenges to a sustainable commons. In this paper, we apply the SWOT framework (Strengths, Weaknesses, Opportunities, and Threats) to identify potential paths to adoption. For example, what are the general implications of introducing a credential holder into existing issuer/verifer relationships? Our analysis leads to cooperative (in the legal sense) governance with focus on the holder (the wallet) as the key innovation, since issuers and verifers already exist. The healthcare industry is used as an example.
+
+
 

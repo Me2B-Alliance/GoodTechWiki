@@ -1,12 +1,12 @@
-created:1582720021687
+created:1582954316366
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:dd12116e-5a24-44b6-bac9-c9267bacd61f
+map.base:e843108e-a22e-40a6-b67f-da5d488d808b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021687
+modified:1582954316366
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/european Interoperability Framework (EIF) for European Public Services/filter/edges
-tmap.id:b392b196-eee7-467f-9873-d2244bcd19f4
+tmap.id:9b3d3347-eaed-43c1-8ab5-87a58f7a0716
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:a575ebc6-9256-444e-808a-ad048bcb59bc
+config.central-topic:afb5fa65-05a1-4fbb-967c-aab198ffe8c6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021542
-id:da0522bf-933b-4f79-89dc-68db1fba8023
+created:1582954316253
+id:5d0e0332-f0aa-4978-9ffc-3e99905e8615
 isview:false
-map.base:a575ebc6-9256-444e-808a-ad048bcb59bc
+map.base:afb5fa65-05a1-4fbb-967c-aab198ffe8c6
 map.role:definition
 map.type:neighbor
-modified:1582720021542
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AI on the Ground
-tmap.id:da0522bf-933b-4f79-89dc-68db1fba8023
+tmap.id:5d0e0332-f0aa-4978-9ffc-3e99905e8615
 type:text/vnd.tiddlywiki
 
 Neighbor Map of AI on the Ground

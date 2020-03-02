@@ -1,12 +1,12 @@
-created:1582720021477
-filter:[field:tmap.id[fd2f1de8-9929-406e-b861-109d53548cd1]]
-map.base:fd2f1de8-9929-406e-b861-109d53548cd1
+created:1582954316204
+filter:[field:tmap.id[de44603e-5dcc-4ad2-b003-c6c832d61733]]
+map.base:de44603e-5dcc-4ad2-b003-c6c832d61733
 map.role:node-filter
 map.type:neighbor
-modified:1582720021477
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/US National Information Exchange Model/filter/nodes
-tmap.id:f3fe29ee-5b0c-454a-83b6-a721504d5e87
+tmap.id:2daae280-df3d-41ea-9a65-bd0503ad6acb
 type:text/vnd.tiddlywiki
 
 No body provided

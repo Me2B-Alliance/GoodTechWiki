@@ -1,12 +1,12 @@
-created:1582720021688
-filter:[field:tmap.id[365372c9-72a4-4143-a0da-675e5808a83b]]
-map.base:365372c9-72a4-4143-a0da-675e5808a83b
+created:1582954316367
+filter:[field:tmap.id[0275ab23-9caf-4903-b308-4e4ff26ae810]]
+map.base:0275ab23-9caf-4903-b308-4e4ff26ae810
 map.role:node-filter
 map.type:neighbor
-modified:1582720021688
+modified:1582954316367
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Computers Watching Movies/filter/nodes
-tmap.id:0cc9038f-9141-405c-a407-22458383ea96
+tmap.id:1fe8f599-1cbb-4a69-8b60-79902b505ea0
 type:text/vnd.tiddlywiki
 
 No body provided

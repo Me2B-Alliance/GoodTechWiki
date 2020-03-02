@@ -1,12 +1,12 @@
-created:1582720021679
+created:1582954316360
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:bdcd8be6-cfcb-46df-8b83-d3adef2722c7
+map.base:f8ca2216-7c26-47b5-bdfa-a7f962c049c0
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021679
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NIFs Implementation and Monitoring State of Play 2015/filter/edges
-tmap.id:8be369f1-934d-4e23-9de9-8288907720f7
+tmap.id:73f51b8f-52ae-4949-baa6-8dbb1923a003
 type:text/vnd.tiddlywiki
 
 No body provided

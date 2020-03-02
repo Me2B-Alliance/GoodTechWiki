@@ -1,17 +1,17 @@
-config.central-topic:5de981b1-24da-46fd-a2c0-37d1659ff84c
+config.central-topic:991fc228-f7bf-46f3-bd35-318b247dcf57
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021637
-id:49d1b65b-402b-4f23-a77a-63e92f51b202
+created:1582954316329
+id:a68cd63c-2219-4a27-b71e-881ec4656336
 isview:false
-map.base:5de981b1-24da-46fd-a2c0-37d1659ff84c
+map.base:991fc228-f7bf-46f3-bd35-318b247dcf57
 map.role:definition
 map.type:neighbor
-modified:1582720021637
+modified:1582954316329
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Source Hacking: Media Manipulation in Practice
-tmap.id:49d1b65b-402b-4f23-a77a-63e92f51b202
+tmap.id:a68cd63c-2219-4a27-b71e-881ec4656336
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Source Hacking: Media Manipulation in Practice

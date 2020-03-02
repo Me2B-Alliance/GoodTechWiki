@@ -1,17 +1,17 @@
-config.central-topic:e2964d9b-3938-421c-b603-ab022bad1e81
+config.central-topic:d2cc23f7-0218-44b8-9098-f70c4100826f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021572
-id:c8244f71-396a-40c6-a35c-2167e494e42d
+created:1582954316274
+id:74e674f9-8c13-4b91-94aa-d940c4489677
 isview:false
-map.base:e2964d9b-3938-421c-b603-ab022bad1e81
+map.base:d2cc23f7-0218-44b8-9098-f70c4100826f
 map.role:definition
 map.type:neighbor
-modified:1582720021572
+modified:1582954316274
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA IMEI Services
-tmap.id:c8244f71-396a-40c6-a35c-2167e494e42d
+tmap.id:74e674f9-8c13-4b91-94aa-d940c4489677
 type:text/vnd.tiddlywiki
 
 Neighbor Map of GSMA IMEI Services

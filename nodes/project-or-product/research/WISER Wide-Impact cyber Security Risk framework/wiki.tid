@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003351
+category:[[research]]
+created:1582954204517
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003351
+modified:1582954204517
 name:WISER Wide-Impact cyber Security Risk framework
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:[[europe]]
 terms.of.service:
 tiddler.classification:node
 title:WISER Wide-Impact cyber Security Risk framework
-tmap.edges:{"a0e466eb-08e6-4d29-a2b5-f02b35b9b1b7":{"to":"cb6b0a85-510b-4a0a-bef0-5225878dbc8d","type":"funding-flow"},"f2f58ebf-bff5-4257-b138-5f7ac4069dff":{"to":"96a02bf1-dc41-4c41-b76c-e17d18ca4084","type":"funding-flow"}}
-tmap.id:9c1a2f36-06c0-42b6-8c88-a89ff6bf4404
+tmap.edges:{"db419372-41f4-4474-8606-050ba2a261e0":{"to":"d749b8e8-3d60-4154-bd04-251b63709f6c","type":"funding-flow"},"5465399f-b81e-446a-b370-c722af9b6fe6":{"to":"7007b237-33ab-4c63-8dfb-41803677eb45","type":"funding-flow"}}
+tmap.id:d2bfab1e-032c-4b47-ac19-4c06f8fdabac
 type:text/vnd.tiddlywiki
 url:http://www.cyberwiser.eu
 version.or.edition:
 working.group:
 
 WISER is a European collaborative Innovation Action that puts cyber-risk management at the very heart of good business practice, benefitting multiple industries in particular critical infrastructure and process owners, and ICT-intensive SMEs. Started on June 1st 2015, by 2017 WISER will provide a cyber-risk management framework able to assess, monitor and mitigate the risks in real-time, in multiple industries.
+
+
 

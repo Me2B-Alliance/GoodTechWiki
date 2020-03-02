@@ -1,17 +1,17 @@
-config.central-topic:40d6d399-29b2-41e3-8c60-d0abb0a90bb6
+config.central-topic:1e0db333-c663-4db4-9a0c-8267ad133941
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021560
-id:0505afb3-06bb-4214-a9f8-ac357c929d82
+created:1582954316272
+id:c2f6516a-1fb4-4fdc-972f-5b91c267bedf
 isview:false
-map.base:40d6d399-29b2-41e3-8c60-d0abb0a90bb6
+map.base:1e0db333-c663-4db4-9a0c-8267ad133941
 map.role:definition
 map.type:neighbor
-modified:1582720021560
+modified:1582954316272
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IoT Trust Framework
-tmap.id:0505afb3-06bb-4214-a9f8-ac357c929d82
+tmap.id:c2f6516a-1fb4-4fdc-972f-5b91c267bedf
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IoT Trust Framework

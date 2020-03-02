@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003376
+created:1582954204544
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003376
+modified:1582954204544
 org.name:Netnod
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Netnod
-tmap.edges:{"bca117be-7752-47d5-ae45-c5571d17a046":{"to":"7da742bf-c40e-43d2-bc0e-3dab0a5d86b5","type":"founder"},"61e37b66-0e09-4f62-a0f5-c78db7f61e12":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:ffb277e1-08c1-4601-8707-4ddfe10c0329
+tmap.edges:{"adebddfd-1501-4076-820d-bcb45669984e":{"to":"11021c3e-2336-4486-80b2-fb44b4fc82e6","type":"founder"},"68bfaba6-497a-40d7-a9c9-8a027dd0632f":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:0a8c3629-b61d-4036-bf5d-699581f6a8b8
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.netnod.se
 
 Netnod is a non-profit Internet infrastructure organisation. Netnod manages Internet exchange points (IXPs) in five cities in Sweden and one in Denmark. Netnod offers DNS anycast services worldwide, and is the proud operator of i.root-servers.net, one of 13 logical DNS root name servers in the world.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:f2ff1dc2-9d47-43e9-88ec-fb8f2ea9c03a
+config.central-topic:c267c0b8-1de2-406d-a4a9-e512343fcf45
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021458
-id:60972b2b-3dd6-4eea-a0f8-9bd164f2198c
+created:1582954316186
+id:8eef6014-77c7-441e-bfed-257ac826ec49
 isview:false
-map.base:f2ff1dc2-9d47-43e9-88ec-fb8f2ea9c03a
+map.base:c267c0b8-1de2-406d-a4a9-e512343fcf45
 map.role:definition
 map.type:neighbor
-modified:1582720021458
+modified:1582954316186
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Good ID
-tmap.id:60972b2b-3dd6-4eea-a0f8-9bd164f2198c
+tmap.id:8eef6014-77c7-441e-bfed-257ac826ec49
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Good ID

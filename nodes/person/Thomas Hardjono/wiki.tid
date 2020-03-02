@@ -1,16 +1,16 @@
-created:1582720003359
+created:1582954204526
 element.type:person
 github.profile:
 linkedin.profile:
 location:
-modified:1582720003359
+modified:1582954204526
 name:Thomas Hardjono
 organization:
 tags:
 tiddler.classification:node
 title:Thomas Hardjono
-tmap.edges:{"4ba4b39a-33c1-402f-8c31-750ead87e47a":{"to":"597b1f21-a80d-4109-b35e-7b48ffbd1034","type":"vice-chair"},"c96e14c9-b984-416c-b5bb-0c4cc4e4522f":{"to":"c1fffb0b-8986-4642-b22b-7fee54e55d4e","type":"vice-chair"},"3401d5ba-3c46-42cf-b7ca-1b1d00054b7d":{"to":"0c7df52a-58ee-4513-b25f-414625db5847","type":"vice-chair"},"3f0f99bf-7de5-4257-b588-2012bdfcf7ad":{"to":"e91dc6ca-c537-4b75-9f50-e79c02ce5230","type":"person-affiliated"},"6c641dd8-8054-4209-97fc-9eb0211f11ee":{"to":"fc2e9907-2bfa-49e1-bdfc-11c8270e9b94","type":"employee"},"7884892a-1200-4380-9b40-93bf6f53196a":{"to":"cded4651-7bdb-4125-91ab-ddc79b5654a5","type":"person-affiliated"},"d4d29296-32b3-4530-b7b2-c110a6458506":{"to":"25bc9626-3afc-4516-96da-ffd2312906df","type":"vice-chair"},"8c85d5b4-32ba-45c8-9c84-1f26572dc93e":{"to":"cf040d5b-250b-47ca-bfd3-795536027cac","type":"author"}}
-tmap.id:03efdb24-c563-49ad-be12-a93fc009eb1c
+tmap.edges:{"95e7f173-c409-4ac9-a1d5-e94d870dfbdd":{"to":"fe4085ab-50b7-4b6e-80cc-4f9b91cef85c","type":"vice-chair"},"2cb85c33-4a4f-4582-8154-bfc0c0f373c0":{"to":"c26e9f27-b6c1-4082-bb77-1c8364b9c589","type":"vice-chair"},"ecc6c943-8487-48ce-a825-bef9977c9ea8":{"to":"65c495aa-3b92-4313-b70b-72f721b7bc98","type":"vice-chair"},"98ceec5c-a3d3-43ff-be90-375cb27430bc":{"to":"c807bd7b-42b6-49bb-9c5f-9fecd010e312","type":"person-affiliated"},"fbde5e3b-8bf7-4286-b3fa-4cb4ab6d010f":{"to":"2635600d-3a8e-4280-b30e-c3f6b7323b51","type":"employee"},"6bef2c0e-1efe-44a6-a1d8-05c7f7a1a84c":{"to":"9e9684c5-8f96-45db-a741-68077c438212","type":"person-affiliated"},"e8474ea3-4b87-4c56-83d5-e42793db6399":{"to":"f8ebc877-6504-477f-b77c-bfcf5ef3c096","type":"vice-chair"},"062aa4e6-e586-4db7-a990-3a983e62ac11":{"to":"2e3b0bb3-2a2c-40dc-8f75-dd5e7fda866d","type":"author"}}
+tmap.id:c02f1d7c-df8d-48e9-a121-13566149ea07
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.kerberos.org/people/hardjono.html
@@ -27,4 +27,6 @@ His area of interest includes network security, cryptography, multicast security
 Thomas is active in a number of technical communities and standards organizations, including the IETF, IEEE, TCG, Oasis and Kantara. In the IETF Thomas was chair of the Multicast Security (MSEC) working group and the Group Security Research Group. He is an author of RFC 3740 and RFC 3547. Thomas was also co-chair of the TCG Infrastructure Working Group. He is author and editor of a number of core TCG specifications focusing on thesecurity infrastructure supporting the TPM hardware. Currently he is co-chair of the Security Services TC (SSTC) in Oasis (home of the SAML2.0 standard), and active contributor to the UMA WG in the Kantara initiative. The UMA WG is developing interoperability specifications for a user-centric and consent-based resource sharing in the Internet based on the OAuth2.0 authorization paradigm. Thomas is the MIT representative to the NSTIC IDESG.
 
 He is an active speaker at various security forums, panels and events.
+
+
 

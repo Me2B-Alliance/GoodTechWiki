@@ -1,6 +1,6 @@
 activities:
-category:general
-created:1582720003328
+category:[[general]]
+created:1582954204495
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003328
+modified:1582954204495
 name:Privacy and Identity
 parent.org:Internet Society ISOC
 people:
@@ -19,9 +19,11 @@ tech.focus:
 tiddler.classification:node
 title:Privacy and Identity
 tmap.edges:{}
-tmap.id:1d106aae-7537-47ad-8982-2fcdecef8734
+tmap.id:3671b447-ac9b-4f0f-bb05-7fe225d7e9aa
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

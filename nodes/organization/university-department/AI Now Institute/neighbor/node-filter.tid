@@ -1,12 +1,12 @@
-created:1582720021529
-filter:[field:tmap.id[f7acc1b5-468c-4dad-94f3-550d59fb4a8a]]
-map.base:f7acc1b5-468c-4dad-94f3-550d59fb4a8a
+created:1582954316236
+filter:[field:tmap.id[0443f5b4-c510-46c5-89fc-f365595db298]]
+map.base:0443f5b4-c510-46c5-89fc-f365595db298
 map.role:node-filter
 map.type:neighbor
-modified:1582720021529
+modified:1582954316236
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AI Now Institute/filter/nodes
-tmap.id:c0feb0cd-1f73-4bb8-8a87-1469e3148970
+tmap.id:8a0af57e-47a5-4ebb-9dc5-303fc27da3af
 type:text/vnd.tiddlywiki
 
 No body provided

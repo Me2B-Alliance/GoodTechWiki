@@ -1,17 +1,17 @@
-config.central-topic:e51e5306-00b7-4bdc-bb36-242020a9b6b8
+config.central-topic:c9119330-495d-4252-855d-b606654e42a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021551
-id:3a171075-d491-4585-9ff0-69ea07a2c5d0
+created:1582954316260
+id:af605a8d-5975-4103-8f4e-13bc05812ce9
 isview:false
-map.base:e51e5306-00b7-4bdc-bb36-242020a9b6b8
+map.base:c9119330-495d-4252-855d-b606654e42a2
 map.role:definition
 map.type:neighbor
-modified:1582720021551
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade
-tmap.id:3a171075-d491-4585-9ff0-69ea07a2c5d0
+tmap.id:af605a8d-5975-4103-8f4e-13bc05812ce9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of SSEDIC.2020 - Scoping the Single European Digital Identity Community for the next decade

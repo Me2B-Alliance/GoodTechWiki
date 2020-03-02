@@ -1,12 +1,12 @@
-created:1582720021681
+created:1582954316362
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:89d2ee4b-3757-4777-9d18-da3409903820
+map.base:d651bd02-14f7-4ad0-a4e0-534cd13197b7
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021681
+modified:1582954316362
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Towards a definition of the Internet of  Things (IoT)/filter/edges
-tmap.id:1fecc48e-ea2d-4fb2-816b-dd5f1df984f1
+tmap.id:49f117b2-04b3-4840-b51b-e6c65d89fc5b
 type:text/vnd.tiddlywiki
 
 No body provided

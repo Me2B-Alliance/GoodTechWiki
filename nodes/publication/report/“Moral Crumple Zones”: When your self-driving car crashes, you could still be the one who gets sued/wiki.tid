@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[madeleine clare elish]] [[tim hwang]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:“Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[intelligence and autonomy]]
+tags:[[intelligence and autonomy (tag)]]
 tech.focus:
 tiddler.classification:node
 title:“Moral Crumple Zones”: When your self-driving car crashes, you could still be the one who gets sued
 tmap.edges:{}
-tmap.id:f6268959-d313-40aa-995d-e5d29483a190
+tmap.id:9c72f1f5-6eea-4c59-a075-9946da6e3f74
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/moral-crumple-zones-when-your-self-driving-car-crashes-you-could-still-be-the-one-who-gets-sued
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 “In a self-driving car, the control of the vehicle is shared between the driver and the car’s software. How the software behaves is in turn controlled — designed —...
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:89d2ee4b-3757-4777-9d18-da3409903820
+config.central-topic:d651bd02-14f7-4ad0-a4e0-534cd13197b7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021681
-id:e3a71142-5eee-41ec-990b-fa0daeeeb78a
+created:1582954316362
+id:82f1a4b5-1452-4fed-9c1f-4c514808f941
 isview:false
-map.base:89d2ee4b-3757-4777-9d18-da3409903820
+map.base:d651bd02-14f7-4ad0-a4e0-534cd13197b7
 map.role:definition
 map.type:neighbor
-modified:1582720021681
+modified:1582954316362
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Towards a definition of the Internet of  Things (IoT)
-tmap.id:e3a71142-5eee-41ec-990b-fa0daeeeb78a
+tmap.id:82f1a4b5-1452-4fed-9c1f-4c514808f941
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Towards a definition of the Internet of  Things (IoT)

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:Internet Society
 org.type:to-be-determined
 parent.org:IETF
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Internet Society
-tmap.edges:{"416315bd-96bd-4f96-b95d-8da8b6abf226":{"to":"0e643bc8-19d2-466d-8c2f-9f0adeff750a","type":"Sponsors"}}
-tmap.id:ecac1609-3a92-45aa-8bad-aa2c7120a6ae
+tmap.edges:{"4decdcd3-598a-4a5f-bbdd-504639ceebf0":{"to":"0821c068-d8d2-42e3-aae4-0319a0ebd3a6","type":"Sponsors"}}
+tmap.id:c02ccf34-f895-4603-8dcc-112c54a3222e
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.internetsociety.org/
 
 The Internet Society was founded in 1992 by a number of people involved with the Internet Engineering Task Force (IETF). From those early days, one of our principal rationales is to provide an organizational home for and financial support for the Internet standards process.
+
+
 

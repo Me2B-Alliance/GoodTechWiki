@@ -1,12 +1,12 @@
-created:1582720021500
-filter:[field:tmap.id[3e4e59cc-b0ed-47df-8e1c-06b46399db9c]]
-map.base:3e4e59cc-b0ed-47df-8e1c-06b46399db9c
+created:1582954316219
+filter:[field:tmap.id[d52a5e5e-1a11-4da8-ad07-c7c87cbd0765]]
+map.base:d52a5e5e-1a11-4da8-ad07-c7c87cbd0765
 map.role:node-filter
 map.type:neighbor
-modified:1582720021500
+modified:1582954316219
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United Nations Statistics Division/filter/nodes
-tmap.id:f738eee0-e74d-4d1f-81ab-4cfe86e92d8b
+tmap.id:e61ee79f-afd2-438d-9464-4e42f54f2e61
 type:text/vnd.tiddlywiki
 
 No body provided

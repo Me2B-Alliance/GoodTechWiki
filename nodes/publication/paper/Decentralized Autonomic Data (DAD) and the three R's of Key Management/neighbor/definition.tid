@@ -1,17 +1,17 @@
-config.central-topic:3e6f0a3a-4bca-4ae7-a2a3-2a7f1973d7aa
+config.central-topic:66dfa7b7-1e3b-46bd-bd0c-af5fe8f122f0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021592
-id:3f7b17f1-5c2b-4528-966f-51a7f82aff34
+created:1582954316289
+id:8c63b6d5-e1b3-4e2e-be05-fe5994e51af8
 isview:false
-map.base:3e6f0a3a-4bca-4ae7-a2a3-2a7f1973d7aa
+map.base:66dfa7b7-1e3b-46bd-bd0c-af5fe8f122f0
 map.role:definition
 map.type:neighbor
-modified:1582720021592
+modified:1582954316289
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Decentralized Autonomic Data (DAD) and the three R's of Key Management
-tmap.id:3f7b17f1-5c2b-4528-966f-51a7f82aff34
+tmap.id:8c63b6d5-e1b3-4e2e-be05-fe5994e51af8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Decentralized Autonomic Data (DAD) and the three R's of Key Management

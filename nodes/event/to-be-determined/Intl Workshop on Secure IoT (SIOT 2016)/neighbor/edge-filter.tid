@@ -1,12 +1,12 @@
-created:1582720021431
+created:1582954316169
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:eafa8c53-e57e-4210-9e8e-5f8186e41da5
+map.base:60aa5d86-0370-4af2-a864-3b1ee3296821
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Intl Workshop on Secure IoT (SIOT 2016)/filter/edges
-tmap.id:a177abf4-5412-4e3d-b7f3-b86402d865b6
+tmap.id:faa41455-79c8-4c27-9aa6-d75cda898182
 type:text/vnd.tiddlywiki
 
 No body provided

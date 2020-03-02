@@ -1,17 +1,17 @@
-config.central-topic:975b12de-690c-4f76-a9ac-b25ef4f6975d
+config.central-topic:f062b619-111e-4947-b164-4741ac37dbec
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021585
-id:05942ff9-c430-4b75-92da-ae5a8a47a2a0
+created:1582954316282
+id:edafd659-681c-4ef8-b119-2237d0169589
 isview:false
-map.base:975b12de-690c-4f76-a9ac-b25ef4f6975d
+map.base:f062b619-111e-4947-b164-4741ac37dbec
 map.role:definition
 map.type:neighbor
-modified:1582720021585
+modified:1582954316282
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Big Brother Watch’s submission to The Law Society’s ‘Technology and the Law’ Policy Commission
-tmap.id:05942ff9-c430-4b75-92da-ae5a8a47a2a0
+tmap.id:edafd659-681c-4ef8-b119-2237d0169589
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Big Brother Watch’s submission to The Law Society’s ‘Technology and the Law’ Policy Commission

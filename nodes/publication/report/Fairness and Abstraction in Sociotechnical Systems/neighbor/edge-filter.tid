@@ -1,12 +1,12 @@
-created:1582720021623
+created:1582954316316
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:480ce337-5a71-49e4-a4e8-20d7ae39b5bd
+map.base:e72e73b5-4ade-4f0e-bf50-867ca325d22a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021623
+modified:1582954316316
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Fairness and Abstraction in Sociotechnical Systems/filter/edges
-tmap.id:9b6dedc3-b963-4d17-8abe-e867b1370a57
+tmap.id:7b982d11-98f4-4c2a-b4a4-850e36591761
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021639
+created:1582954316330
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:31479b9f-05ce-449c-8a3b-9ed4a43414f8
+map.base:32e6f8bf-cf9c-4be4-ace2-5a6048d0621c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021639
+modified:1582954316330
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Supporting Ethical Data Research: An Exploratory Study of Emerging Issues in Big Data and Technical Research/filter/edges
-tmap.id:41bab59b-7d63-4c8b-9a1c-10026d79afe2
+tmap.id:a75e866f-946f-49ba-88c2-4133b32453c2
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021509
-filter:[field:tmap.id[c86f9713-21fd-4f3c-808a-2deededff5a3]]
-map.base:c86f9713-21fd-4f3c-808a-2deededff5a3
+created:1582954316221
+filter:[field:tmap.id[487eb2e5-bb6d-4f19-8a5e-592716b3137b]]
+map.base:487eb2e5-bb6d-4f19-8a5e-592716b3137b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021509
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Internet Registration Authority (CIRA)/filter/nodes
-tmap.id:07be1812-6212-411e-8850-348033c4ea5f
+tmap.id:29895c53-1192-4be3-a323-1db63fbb73b2
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:ab18ea03-e7b4-4bd0-bf53-ec02a66194d0
+config.central-topic:1c93d127-7af2-4459-bb5c-709a11647dfc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021689
-id:72a47d6f-5da0-4b48-b23c-c68aefc9027f
+created:1582954316368
+id:154a19c4-09ea-4b30-a5f5-bad11fb60c31
 isview:false
-map.base:ab18ea03-e7b4-4bd0-bf53-ec02a66194d0
+map.base:1c93d127-7af2-4459-bb5c-709a11647dfc
 map.role:definition
 map.type:neighbor
-modified:1582720021689
+modified:1582954316368
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Warriors of the Net
-tmap.id:72a47d6f-5da0-4b48-b23c-c68aefc9027f
+tmap.id:154a19c4-09ea-4b30-a5f5-bad11fb60c31
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Warriors of the Net

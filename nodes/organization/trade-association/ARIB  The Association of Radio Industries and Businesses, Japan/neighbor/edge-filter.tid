@@ -1,12 +1,12 @@
-created:1582720021502
+created:1582954316222
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:381f20fd-1e81-42b3-9df3-57cc6575ebbe
+map.base:26eb9d42-b387-4148-bfe8-b2b21c36ee55
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021502
+modified:1582954316222
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ARIB  The Association of Radio Industries and Businesses, Japan/filter/edges
-tmap.id:9f20f7bb-da6c-4cc5-a478-6d906b8f4ca5
+tmap.id:84f27aff-e18d-451f-a52d-7d52e8c62c22
 type:text/vnd.tiddlywiki
 
 No body provided

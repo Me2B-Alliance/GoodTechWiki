@@ -1,12 +1,12 @@
-created:1582720021534
+created:1582954316241
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d7db1fd1-5f32-42ab-ad9e-5afaf6a10b23
+map.base:ae43d2d7-1dd8-4547-a7e3-136f2cd87877
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021534
+modified:1582954316241
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/N. Agarwal/filter/edges
-tmap.id:b7a1d6a9-b454-4771-9cf3-4bbe3949b163
+tmap.id:bc22e7e0-8623-40eb-b7ac-f65417345692
 type:text/vnd.tiddlywiki
 
 No body provided

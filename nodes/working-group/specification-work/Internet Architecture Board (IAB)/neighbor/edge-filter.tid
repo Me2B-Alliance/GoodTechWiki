@@ -1,12 +1,12 @@
-created:1582720021701
+created:1582954316380
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8d5e9bbb-d9d4-4bf8-844d-190f04a42647
+map.base:78b230ca-f2a6-4fed-b82b-217e87d7fa13
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021701
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Internet Architecture Board (IAB)/filter/edges
-tmap.id:7806d66d-9e0e-4345-a674-edcf5a76d018
+tmap.id:4b78eec5-b273-4586-8b0b-ba5bd00c8011
 type:text/vnd.tiddlywiki
 
 No body provided

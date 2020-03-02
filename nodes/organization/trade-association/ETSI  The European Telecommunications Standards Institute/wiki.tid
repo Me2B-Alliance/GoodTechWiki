@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003373
+created:1582954204542
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003373
+modified:1582954204542
 org.name:ETSI  The European Telecommunications Standards Institute
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:ETSI  The European Telecommunications Standards Institute
-tmap.edges:{"90ec0a5f-b7a6-483f-bb1f-aeccdf7ee6c2":{"to":"45862213-7428-4e24-8cd9-9b4bfff59644","type":"general-member"},"191c0b22-bda4-455f-893c-31c18fcf3c04":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"},"e2a95605-e7a5-4861-8426-ceadb24f029f":{"to":"8a951c75-f001-48af-ba28-f6c3493052b1","type":"executive-member"}}
-tmap.id:3cad3f08-5eb5-44f6-ba9c-23cbdeafa898
+tmap.edges:{"bfd7b6f5-63d7-473f-9db5-ef0a89de7db7":{"to":"e9348809-cda1-4141-bc11-f2270396413e","type":"general-member"},"0434ffbf-bd59-44ab-8dd3-f4396cc069a8":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"},"a0eb693a-f432-43fa-af17-7b4993cc3354":{"to":"335fb521-5d5b-44dc-8075-686ccd8372c9","type":"executive-member"}}
+tmap.id:074d1d79-3844-4a0a-b63f-e31cd20a2f1d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.etsi.org
@@ -38,4 +38,6 @@ We are officially recognized by the European Union as a European Standards Organ
 * We are a not-for-profit organization with more than 800 member organizations worldwide, drawn from 66 countries and five continents. Members include the world’s leading companies and innovative R&D organizations.
 * We are at the forefront of emerging technologies. We address the technical issues which will drive the economy of the future and improve life for the next generation.
 * Our presentation, ‘Welcome to the World of Standards’, provides a concise overview of ETSI and what we offer our members.
+
+
 

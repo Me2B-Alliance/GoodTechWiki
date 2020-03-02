@@ -1,12 +1,12 @@
-created:1582720021469
-filter:[field:tmap.id[2446dddc-0c07-43d3-adff-8a9117fbd841]]
-map.base:2446dddc-0c07-43d3-adff-8a9117fbd841
+created:1582954316195
+filter:[field:tmap.id[e55d73b5-9d06-47de-a148-a2130e7e58d5]]
+map.base:e55d73b5-9d06-47de-a148-a2130e7e58d5
 map.role:node-filter
 map.type:neighbor
-modified:1582720021469
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The IO Foundation/filter/nodes
-tmap.id:aa161dd1-5e9c-440a-965c-77890164234f
+tmap.id:85f0b52f-3a2b-4974-b41c-44313dfbeae0
 type:text/vnd.tiddlywiki
 
 No body provided

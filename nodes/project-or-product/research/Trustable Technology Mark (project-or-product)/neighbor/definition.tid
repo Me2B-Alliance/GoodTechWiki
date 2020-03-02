@@ -1,0 +1,17 @@
+config.central-topic:f121060b-f60d-4584-8713-4f9e865016d5
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316262
+id:d58f6be9-6909-4070-844c-146fc303f0e7
+isview:false
+map.base:f121060b-f60d-4584-8713-4f9e865016d5
+map.role:definition
+map.type:neighbor
+modified:1582954316262
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustable Technology Mark (project-or-product)
+tmap.id:d58f6be9-6909-4070-844c-146fc303f0e7
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Trustable Technology Mark (project-or-product)

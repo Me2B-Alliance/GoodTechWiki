@@ -1,12 +1,12 @@
-created:1582720021644
-filter:[field:tmap.id[f5e14eb8-37aa-4f9d-b12f-4a1256943853]]
-map.base:f5e14eb8-37aa-4f9d-b12f-4a1256943853
+created:1582954316337
+filter:[field:tmap.id[965960ba-9ea7-4ba2-bd42-7c2c6344ddf8]]
+map.base:965960ba-9ea7-4ba2-bd42-7c2c6344ddf8
 map.role:node-filter
 map.type:neighbor
-modified:1582720021644
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Traffic Spies/filter/nodes
-tmap.id:b90cbb76-7cd8-48c5-8b87-4983b2392080
+tmap.id:349ebbf7-b548-4bcd-bb51-4071e009fa9d
 type:text/vnd.tiddlywiki
 
 No body provided

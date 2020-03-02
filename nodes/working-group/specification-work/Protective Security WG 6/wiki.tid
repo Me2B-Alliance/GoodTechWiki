@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003325
+category:[[specification work]]
+created:1582954204492
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003325
+modified:1582954204492
 name:Protective Security WG 6
 parent.org:ISO/IEC JTC1/SC17
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Protective Security WG 6
-tmap.edges:{"b271cd16-99dd-4f4d-8a6e-168b9f2a9792":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:08b01c3d-3092-497b-a453-34b48af2ac33
+tmap.edges:{"db261d92-bc58-4e70-9b89-8b8495f8441f":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:a433d77b-2cac-4feb-b208-32056c930b86
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

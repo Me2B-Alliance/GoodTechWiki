@@ -1,17 +1,17 @@
-config.central-topic:61b7fe91-3d49-421c-b9d9-86c2669b3be4
+config.central-topic:39c5fd92-a279-449a-a9d7-8e535f8c517f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021638
-id:98584cf4-dd9f-49b4-810c-c0ab4803d161
+created:1582954316328
+id:89eb5f7d-e4d7-48f7-8a4f-485bc79c7367
 isview:false
-map.base:61b7fe91-3d49-421c-b9d9-86c2669b3be4
+map.base:39c5fd92-a279-449a-a9d7-8e535f8c517f
 map.role:definition
 map.type:neighbor
-modified:1582720021638
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Smile you’re on Body Worn Camera, Part 2 – Police (2017)
-tmap.id:98584cf4-dd9f-49b4-810c-c0ab4803d161
+tmap.id:89eb5f7d-e4d7-48f7-8a4f-485bc79c7367
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Smile you’re on Body Worn Camera, Part 2 – Police (2017)

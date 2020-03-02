@@ -1,17 +1,17 @@
-config.central-topic:e9d15084-b315-4442-9a8f-edb8240c6bee
+config.central-topic:a24e1839-70ae-4ffe-affa-905692fcec34
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021633
-id:15bd378a-b622-45a4-890b-69c41f8f4a44
+created:1582954316324
+id:4185deda-8add-4f37-b1d6-9317cfaa8bf6
 isview:false
-map.base:e9d15084-b315-4442-9a8f-edb8240c6bee
+map.base:a24e1839-70ae-4ffe-affa-905692fcec34
 map.role:definition
 map.type:neighbor
-modified:1582720021633
+modified:1582954316324
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Police Access to Digital Evidence (2017)
-tmap.id:15bd378a-b622-45a4-890b-69c41f8f4a44
+tmap.id:4185deda-8add-4f37-b1d6-9317cfaa8bf6
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Police Access to Digital Evidence (2017)

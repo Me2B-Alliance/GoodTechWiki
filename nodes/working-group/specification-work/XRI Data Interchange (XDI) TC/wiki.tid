@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003325
+category:[[specification work]]
+created:1582954204492
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003325
+modified:1582954204492
 name:XRI Data Interchange (XDI) TC
 parent.org:OASIS
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:XRI Data Interchange (XDI) TC
-tmap.edges:{"c38832f4-f8b2-458d-9b7d-f576b38d497e":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
-tmap.id:d11f01ec-9d16-4692-8843-60e8c368fe46
+tmap.edges:{"b51fa4ac-7820-4a3f-84fa-4590f1bf0f29":{"to":"4be18dba-56ed-4888-a70c-10b45c5a70b9","type":"organization-for-group"}}
+tmap.id:6162a5b6-1069-464d-bafc-368b9fe83a0a
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xdi
 
@@ -28,4 +28,6 @@ The purpose of the XDI TC is to define a format and protocol for semantic data i
 For more information, see the TC Charter and FAQ.
 
 The TC operates under a standing rule approved 17 July 2008 under which the TC does not hold regular official meetings and conducts all business by electronic ballot only. Unofficial weekly meetings are held to enable discussion among members but no business is conducted nor actions taken at those meetings.
+
+
 

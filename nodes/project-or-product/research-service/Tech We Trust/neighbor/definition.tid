@@ -1,17 +1,17 @@
-config.central-topic:aaa11b5b-f3a8-4479-a294-4292d4a814b7
+config.central-topic:b5354804-ad14-407d-bd34-f9be58be3c7b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021561
-id:e1cd8591-af39-4439-87dd-e243013db312
+created:1582954316261
+id:b26a7b67-eb8d-479e-8f56-d3ac20dcf8d3
 isview:false
-map.base:aaa11b5b-f3a8-4479-a294-4292d4a814b7
+map.base:b5354804-ad14-407d-bd34-f9be58be3c7b
 map.role:definition
 map.type:neighbor
-modified:1582720021561
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tech We Trust
-tmap.id:e1cd8591-af39-4439-87dd-e243013db312
+tmap.id:b26a7b67-eb8d-479e-8f56-d3ac20dcf8d3
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tech We Trust

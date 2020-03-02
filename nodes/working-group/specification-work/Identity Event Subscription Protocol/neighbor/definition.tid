@@ -1,17 +1,17 @@
-config.central-topic:c4633a14-47e1-4d3a-bdb3-dc524ca7c7c2
+config.central-topic:3b9b57b4-8b62-4a3e-bf87-1dd3024a8763
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021699
-id:c1821a97-331f-4bbc-9a8c-37d759496204
+created:1582954316380
+id:129a7968-0cb7-42df-b447-819ab9e58589
 isview:false
-map.base:c4633a14-47e1-4d3a-bdb3-dc524ca7c7c2
+map.base:3b9b57b4-8b62-4a3e-bf87-1dd3024a8763
 map.role:definition
 map.type:neighbor
-modified:1582720021699
+modified:1582954316380
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identity Event Subscription Protocol
-tmap.id:c1821a97-331f-4bbc-9a8c-37d759496204
+tmap.id:129a7968-0cb7-42df-b447-819ab9e58589
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identity Event Subscription Protocol

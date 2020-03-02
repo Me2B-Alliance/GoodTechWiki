@@ -1,17 +1,17 @@
-config.central-topic:08772191-a951-49e6-9829-0064e995d4c3
+config.central-topic:cd022154-47ab-4f32-ac2c-d3dd6916ab3f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021536
-id:e8eee27b-64e0-47a7-bd07-d733671e0d3a
+created:1582954316243
+id:a2d56057-2873-4d20-a5b9-7f49cad17f18
 isview:false
-map.base:08772191-a951-49e6-9829-0064e995d4c3
+map.base:cd022154-47ab-4f32-ac2c-d3dd6916ab3f
 map.role:definition
 map.type:neighbor
-modified:1582720021536
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Roy T. Fielding
-tmap.id:e8eee27b-64e0-47a7-bd07-d733671e0d3a
+tmap.id:a2d56057-2873-4d20-a5b9-7f49cad17f18
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Roy T. Fielding

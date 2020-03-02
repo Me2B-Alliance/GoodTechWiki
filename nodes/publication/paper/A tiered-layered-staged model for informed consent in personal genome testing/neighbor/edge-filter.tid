@@ -1,12 +1,12 @@
-created:1582720021589
+created:1582954316286
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:358331ef-dc77-41bd-a0dd-155c17aad7f1
+map.base:90080113-7da0-45bc-8578-206631dddc35
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021589
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A tiered-layered-staged model for informed consent in personal genome testing/filter/edges
-tmap.id:ffeceb7f-2710-45d8-9f36-7370a5030370
+tmap.id:c00255b7-dddf-41fa-8d40-be3a013c13fa
 type:text/vnd.tiddlywiki
 
 No body provided

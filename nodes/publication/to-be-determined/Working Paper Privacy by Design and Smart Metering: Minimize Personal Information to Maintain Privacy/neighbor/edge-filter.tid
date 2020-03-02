@@ -1,12 +1,12 @@
-created:1582720021683
+created:1582954316364
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3142601d-30ae-4dd7-924a-502c5cf29a63
+map.base:61b166c9-de94-4986-a692-d33b66c0977c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021683
+modified:1582954316364
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper Privacy by Design and Smart Metering: Minimize Personal Information to Maintain Privacy/filter/edges
-tmap.id:fa785154-e18e-4192-b9fe-434c76ab7d65
+tmap.id:48f46d0b-90e1-49aa-bfaf-03a8cc666763
 type:text/vnd.tiddlywiki
 
 No body provided

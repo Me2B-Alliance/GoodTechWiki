@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003353
+created:1582954204519
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003353
+modified:1582954204519
 name:National Strategy for Trusted Identities in Cyberspace
 publication.type:to be determined
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:National Strategy for Trusted Identities in Cyberspace
-tmap.edges:{"ed1c6ac3-2428-4352-9b42-97a3fa94b27e":{"to":"71c1a702-ad54-4327-8867-b734780aedd7","type":"connection"},"859e2f36-5015-4265-813b-9d302929076f":{"to":"d559246b-2e6b-4cba-bd36-16fa4e55b64e","type":"connection"}}
-tmap.id:a8b7256f-6466-4f79-8936-878a9d54cf2b
+tmap.edges:{"3df76058-1a85-46cc-97ef-019e80821bb3":{"to":"b20c0e8d-3697-41cf-87aa-7844dccb69a2","type":"connection"},"50790d9c-e334-4945-b754-3e197942dd78":{"to":"f116ded2-607d-41d2-8924-da69e03ace49","type":"connection"}}
+tmap.id:b61b3f0e-d840-41bc-8c4e-cfc6eb8a336c
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

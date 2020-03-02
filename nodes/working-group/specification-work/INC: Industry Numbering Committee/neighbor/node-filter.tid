@@ -1,12 +1,12 @@
-created:1582720021698
-filter:[field:tmap.id[6286151f-ab4f-48b1-b769-74e35d100685]]
-map.base:6286151f-ab4f-48b1-b769-74e35d100685
+created:1582954316379
+filter:[field:tmap.id[f8246138-eeec-4246-95dd-818082c41c37]]
+map.base:f8246138-eeec-4246-95dd-818082c41c37
 map.role:node-filter
 map.type:neighbor
-modified:1582720021698
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/INC: Industry Numbering Committee/filter/nodes
-tmap.id:a09209e3-0cbe-448b-b377-63f6ebb51ffb
+tmap.id:50ccd22b-22b3-4680-93c0-71fd597898d0
 type:text/vnd.tiddlywiki
 
 No body provided

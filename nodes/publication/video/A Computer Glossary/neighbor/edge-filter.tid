@@ -1,12 +1,12 @@
-created:1582720021687
+created:1582954316367
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:d908cbf5-6456-451e-b95a-e592fcba8c5d
+map.base:07761a4a-f6c9-4f89-a528-2fc36797a4b3
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021687
+modified:1582954316367
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/A Computer Glossary/filter/edges
-tmap.id:3ee50339-0040-477f-88dd-f23cfb80c068
+tmap.id:825843d4-80c6-4962-bca9-1c21bfe051d1
 type:text/vnd.tiddlywiki
 
 No body provided

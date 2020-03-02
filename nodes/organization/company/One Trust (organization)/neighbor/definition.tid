@@ -1,17 +1,17 @@
-config.central-topic:5fecfdb2-9a26-42e2-af96-b3ef24a3a589
+config.central-topic:67cc2249-e6e1-40c1-a15c-0bbbc4f52685
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021452
-id:c5116a7d-bb88-45b5-b0a3-f32fc0c3e004
+created:1582954316181
+id:d58d6597-2934-4be5-9c5f-3c0346d5c178
 isview:false
-map.base:5fecfdb2-9a26-42e2-af96-b3ef24a3a589
+map.base:67cc2249-e6e1-40c1-a15c-0bbbc4f52685
 map.role:definition
 map.type:neighbor
-modified:1582720021452
+modified:1582954316181
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/One Trust (organization)
-tmap.id:c5116a7d-bb88-45b5-b0a3-f32fc0c3e004
+tmap.id:d58d6597-2934-4be5-9c5f-3c0346d5c178
 type:text/vnd.tiddlywiki
 
 Neighbor Map of One Trust (organization)

@@ -1,12 +1,12 @@
-created:1582720021661
-filter:[field:tmap.id[fa4da004-8c2b-4dfb-abec-58ba05a02c91]]
-map.base:fa4da004-8c2b-4dfb-abec-58ba05a02c91
+created:1582954316349
+filter:[field:tmap.id[ded3e6b2-bca4-474a-a7e9-a941598e77d7]]
+map.base:ded3e6b2-bca4-474a-a7e9-a941598e77d7
 map.role:node-filter
 map.type:neighbor
-modified:1582720021661
+modified:1582954316349
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Considerations for Internet Protocols/filter/nodes
-tmap.id:835a5c34-23ff-46c7-97ce-e6b32f5442fa
+tmap.id:0d3271e4-fc5e-409f-8611-b11e313e2e9b
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:f37a7859-56a7-4146-8029-70ab50dc40ea
+config.central-topic:84c429a6-d4bf-4701-b58f-27e79f2d7f93
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021646
-id:f9aae0bf-4173-46aa-a078-9d1b32254805
+created:1582954316338
+id:c215d3e7-7fce-4abb-b5d7-d12b681b2874
 isview:false
-map.base:f37a7859-56a7-4146-8029-70ab50dc40ea
+map.base:84c429a6-d4bf-4701-b58f-27e79f2d7f93
 map.role:definition
 map.type:neighbor
-modified:1582720021646
+modified:1582954316338
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What I learned about the limits of school choice in New York City from a mother whose child uses a wheelchair
-tmap.id:f9aae0bf-4173-46aa-a078-9d1b32254805
+tmap.id:c215d3e7-7fce-4abb-b5d7-d12b681b2874
 type:text/vnd.tiddlywiki
 
 Neighbor Map of What I learned about the limits of school choice in New York City from a mother whose child uses a wheelchair

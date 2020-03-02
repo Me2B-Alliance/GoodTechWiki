@@ -1,12 +1,12 @@
-created:1582720021654
+created:1582954316344
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:650411f6-4782-4df3-a15e-2b1b7dcd0daf
+map.base:4e5c7e26-489a-4f4d-aa8a-90d3c6de1231
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021654
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IDS REFERENCE ARCHITECTURE MODEL | INDUSTRIAL DATA SPACE/filter/edges
-tmap.id:5b5ea559-924c-457e-9edf-d9849d43127a
+tmap.id:c138b292-efd7-4a78-acad-cfd349e3b8ad
 type:text/vnd.tiddlywiki
 
 No body provided

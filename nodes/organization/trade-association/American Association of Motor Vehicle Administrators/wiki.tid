@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003375
+created:1582954204543
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003375
+modified:1582954204543
 org.name:American Association of Motor Vehicle Administrators
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:American Association of Motor Vehicle Administrators
-tmap.edges:{"d4882a58-399e-4e1f-9d2a-4a8856601c53":{"to":"ec40f8e6-6275-49fb-a8ec-68b9166ecb2a","type":"company"}}
-tmap.id:e626d51c-ad16-4886-b383-14b69013ed5c
+tmap.edges:{"587be245-aa0b-41f3-8528-fada193c4d6e":{"to":"b98277cb-40f7-4680-b4b2-dc1e7b6200a0","type":"company"}}
+tmap.id:7b94dd7a-aab1-4e7c-a186-e837b00ff809
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.aamva.org
@@ -36,4 +36,6 @@ website:http://www.aamva.org
 The American Association of Motor Vehicle Administrators (AAMVA) is a tax-exempt, nonprofit organization developing model programs in motor vehicle administration, law enforcement and highway safety. The association also serves as an information clearinghouse in these areas, and acts as the international spokesman for these interests.
 
 Founded in 1933, AAMVA represents the state and provincial officials in the United States and Canada who administer and enforce motor vehicle laws. AAMVA’s programs encourage uniformity and reciprocity among the states and provinces. The association also serves as a liaison with other levels of government and the private sector. Its development and research activities provide guidelines for more effective public service. AAMVA’s membership includes associations, organizations and businesses that share an interest in the association’s goals.
+
+
 

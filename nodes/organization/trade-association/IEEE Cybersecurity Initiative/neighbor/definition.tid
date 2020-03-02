@@ -1,17 +1,17 @@
-config.central-topic:81de0666-99b6-465b-ac16-12b4f67b4c53
+config.central-topic:ce315402-32c1-43ce-8108-1156e82ecd95
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021512
-id:39ae39a1-b179-4c99-8746-58ec7b57097b
+created:1582954316225
+id:2918ec2f-a7dc-4a6f-ab08-95c687501eba
 isview:false
-map.base:81de0666-99b6-465b-ac16-12b4f67b4c53
+map.base:ce315402-32c1-43ce-8108-1156e82ecd95
 map.role:definition
 map.type:neighbor
-modified:1582720021512
+modified:1582954316225
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Cybersecurity Initiative
-tmap.id:39ae39a1-b179-4c99-8746-58ec7b57097b
+tmap.id:2918ec2f-a7dc-4a6f-ab08-95c687501eba
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Cybersecurity Initiative

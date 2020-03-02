@@ -1,12 +1,12 @@
-created:1582720021429
-filter:[field:tmap.id[f8b479c2-49ca-4e28-bdd9-3dce719943cb]]
-map.base:f8b479c2-49ca-4e28-bdd9-3dce719943cb
+created:1582954316169
+filter:[field:tmap.id[98cfdbb2-0d7d-47fa-b18c-b63c00d2fcee]]
+map.base:98cfdbb2-0d7d-47fa-b18c-b63c00d2fcee
 map.role:node-filter
 map.type:neighbor
-modified:1582720021429
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/AsiaCrypt/filter/nodes
-tmap.id:1b5a1633-c776-406f-a391-dced142867ff
+tmap.id:5d73d998-9c7a-4f5a-9188-a8e525738b10
 type:text/vnd.tiddlywiki
 
 No body provided

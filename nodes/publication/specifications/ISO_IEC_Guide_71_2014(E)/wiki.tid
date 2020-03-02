@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003603
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204781
 name:ISO_IEC_Guide_71_2014(E)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
+tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions (tag)]] [[12 iso/iec guides (english) (tag)]]
 tech.focus:
 tiddler.classification:node
 title:ISO_IEC_Guide_71_2014(E)
 tmap.edges:{}
-tmap.id:47310713-7ec4-451e-9783-000583a91cf5
+tmap.id:315a65ac-7484-4550-99e6-07a73e671e1e
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_71_2014%28E%29_Guide_for_addressing_accessibility_in_standards.pdf?nodeid=8387461&vernum=-2
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Guide for addressing accessibility in standards
 
 The purpose of this Guide is to assist standards developers (e.g. technical committees or working groups) to address accessibility in standards that focus, whether directly or indirectly, on any type of system that people use. It provides guidance for developing and writing appropriate accessibility requirements and recommendations in standards. However, while its intended audience are standards developers, this Guide contains information that can also be useful to other people, such as manufacturers, designers, service providers and educators.The second edition of this Guide, retitled “Guide for addressing accessibility in standards,” builds upon the edition published in 2001, titled “Guidelines for standards developers to address the needs of older persons and persons with disabilities”. This edition takes account of developments in thinking and practice which have taken place since 2001 and takes a more inclusive approach. This edition also sets out to improve the usability and adoption of the Guide itself. This Guide, like its predecessor, is intended to be part of the overall framework that standards bodies can use in their efforts to support the development of systems that suit the needs of diverse users.It is an important goal for the whole of society that all people, regardless of their age, size or ability, have access to the broadest range of systems. Issues of accessibility to and usability of systems have become more critical as the number of people (such as older persons, children, persons with reduced abilities and persons with disabilities) with diverse user accessibility needs has increased.
+
+
 

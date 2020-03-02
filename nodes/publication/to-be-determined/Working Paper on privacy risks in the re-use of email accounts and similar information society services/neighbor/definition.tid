@@ -1,17 +1,17 @@
-config.central-topic:1a376ddf-3a25-4583-bac6-25880f35f88b
+config.central-topic:ef53497e-9d1e-42bf-9370-c0ea7d9dd8fa
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021685
-id:98ebc23b-5693-4a58-bfcb-96512e7b069b
+created:1582954316365
+id:d5b6211d-69d4-470d-bbf8-6e9be1a6abb9
 isview:false
-map.base:1a376ddf-3a25-4583-bac6-25880f35f88b
+map.base:ef53497e-9d1e-42bf-9370-c0ea7d9dd8fa
 map.role:definition
 map.type:neighbor
-modified:1582720021685
+modified:1582954316365
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper on privacy risks in the re-use of email accounts and similar information society services
-tmap.id:98ebc23b-5693-4a58-bfcb-96512e7b069b
+tmap.id:d5b6211d-69d4-470d-bbf8-6e9be1a6abb9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper on privacy risks in the re-use of email accounts and similar information society services

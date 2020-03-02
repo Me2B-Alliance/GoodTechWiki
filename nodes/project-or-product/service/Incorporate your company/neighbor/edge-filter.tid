@@ -1,12 +1,12 @@
-created:1582720021555
+created:1582954316263
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6bfbd670-719c-496b-81d6-102db98cc3d7
+map.base:4de9887b-5441-4750-9443-f5f5cb5b558e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021555
+modified:1582954316263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Incorporate your company/filter/edges
-tmap.id:6650906a-c2e2-40a6-8c3e-432bf4d27bf5
+tmap.id:dbbfacdc-adb8-420d-9143-eea31bc1439c
 type:text/vnd.tiddlywiki
 
 No body provided

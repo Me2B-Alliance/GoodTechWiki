@@ -1,12 +1,12 @@
-created:1582720021640
-filter:[field:tmap.id[bf5a01a6-3716-4637-aadf-c6bb2d0381e8]]
-map.base:bf5a01a6-3716-4637-aadf-c6bb2d0381e8
+created:1582954316331
+filter:[field:tmap.id[f781c78e-67a8-4bda-9b9c-eead665a999a]]
+map.base:f781c78e-67a8-4bda-9b9c-eead665a999a
 map.role:node-filter
 map.type:neighbor
-modified:1582720021640
+modified:1582954316331
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Grim RIPA/filter/nodes
-tmap.id:c47f2978-7189-43c2-bbf0-2a39bd8da5b7
+tmap.id:134aad82-4068-431a-a2d1-77df8bb51685
 type:text/vnd.tiddlywiki
 
 No body provided

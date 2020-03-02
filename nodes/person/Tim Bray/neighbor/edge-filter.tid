@@ -1,12 +1,12 @@
-created:1582720021538
+created:1582954316244
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:364a0dcd-c372-4b98-aab0-9df018e1974e
+map.base:1d04a8ad-6a63-4eb2-9b8a-d1de46ba73ce
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021538
+modified:1582954316244
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tim Bray/filter/edges
-tmap.id:4c0590df-4e23-4d35-aa4d-78bdfe8ca532
+tmap.id:98df23fe-6bcd-491a-ae27-b267b984b6ad
 type:text/vnd.tiddlywiki
 
 No body provided

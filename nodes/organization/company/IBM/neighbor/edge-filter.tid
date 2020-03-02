@@ -1,12 +1,12 @@
-created:1582720021440
+created:1582954316178
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a3958744-51ce-45da-85f7-0168532d49f9
+map.base:71264201-fed6-41d5-80e9-0ffbfaaffb34
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021440
+modified:1582954316178
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IBM/filter/edges
-tmap.id:72abdaf8-a6e4-43fd-8cbf-ce3d250d9cd6
+tmap.id:bcea5502-0574-48e0-95be-87311c57dda4
 type:text/vnd.tiddlywiki
 
 No body provided

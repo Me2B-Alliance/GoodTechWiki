@@ -1,17 +1,17 @@
-config.central-topic:24341576-6a1c-4044-99a1-582c311ade29
+config.central-topic:76cc2536-9fb3-4fbd-90a9-315841b46d20
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021553
-id:6adeb6e5-8126-4028-8cfe-284e38a8c210
+created:1582954316261
+id:5c3685cf-ce4b-408e-8110-89ef3e17be88
 isview:false
-map.base:24341576-6a1c-4044-99a1-582c311ade29
+map.base:76cc2536-9fb3-4fbd-90a9-315841b46d20
 map.role:definition
 map.type:neighbor
-modified:1582720021553
+modified:1582954316261
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)
-tmap.id:6adeb6e5-8126-4028-8cfe-284e38a8c210
+tmap.id:5c3685cf-ce4b-408e-8110-89ef3e17be88
 type:text/vnd.tiddlywiki
 
 Neighbor Map of WITDOM (empoWering prIvacy and securiTy in non-trusteD envirOnMents)

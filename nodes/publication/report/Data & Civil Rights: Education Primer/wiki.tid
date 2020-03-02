@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003602
+created:1582954204779
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204779
 name:Data & Civil Rights: Education Primer
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[enabling connected learning]]
+tags:[[enabling connected learning (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Data & Civil Rights: Education Primer
 tmap.edges:{}
-tmap.id:58cd4c1b-56d5-4899-b13c-dc3731079dab
+tmap.id:094df3f1-f556-4ee0-b410-4e0663fd42a9
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/data-civil-rights-education-primer/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Many education reformers see the merging of student data, predictive analytics, processing tools, and technology-based instruction as the key to the future of education and a means to further opportunity and equity in education. However, despite widespread discussion of the potential benefits and costs of using data in educational reform, it is difficult to determine who benefits from reforms since there has been little assessment of these programs and few oversight mechanisms.
 
 This document is a workshop primer from Data & Civil Rights: Why “Big Data” is a Civil Rights Issue.
+
+
 

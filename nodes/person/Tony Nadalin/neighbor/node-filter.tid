@@ -1,12 +1,12 @@
-created:1582720021538
-filter:[field:tmap.id[a8a85509-7555-464e-b1aa-7eccff6a8e40]]
-map.base:a8a85509-7555-464e-b1aa-7eccff6a8e40
+created:1582954316243
+filter:[field:tmap.id[66ed2ba9-5c89-413a-91d9-4fad9b32a008]]
+map.base:66ed2ba9-5c89-413a-91d9-4fad9b32a008
 map.role:node-filter
 map.type:neighbor
-modified:1582720021538
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tony Nadalin/filter/nodes
-tmap.id:88e6ba78-f7ce-4c58-9b18-0b138c5b5dcd
+tmap.id:f2e148e4-cfc6-4d48-a792-3246df2c0747
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003359
+category:[[proof of concept]]
+created:1582954204526
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003359
+modified:1582954204526
 name:MobilePass
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:[[europe]]
 terms.of.service:
 tiddler.classification:node
 title:MobilePass
-tmap.edges:{"56870391-a1a3-4190-88ca-4a7af3e0d57b":{"to":"52de80e0-cf0f-47c1-a75a-c2cec0dad1d5","type":"default"}}
-tmap.id:3ed42f28-377a-4aab-aa37-b6f58b329ef8
+tmap.edges:{"9d110222-0885-4925-8ab3-7c86216efcae":{"to":"4386bc10-311c-4dbe-b10c-2ed1384d57d7","type":"default"}}
+tmap.id:3307e6e6-5142-46c8-bad4-68a40f9d3f8c
 type:text/vnd.tiddlywiki
 url:http://mobilepass-project.eu
 version.or.edition:
@@ -34,4 +34,6 @@ A secure, mDownload the MobilePass flyer!odular and distributed mobile border co
 MobilePass will focus on research and development towards technologically advanced mobile equipment at land border crossing points. This will allow border control authorities to check European, visa-holding and frequent third country travellers in a comfortable, fast and secure way. The mobile solution incorporates new technologies needed in mobile scenarios and embeds them in the actual border crossing workflow to speed up control procedures.
 
 MobilePass brings together system- and component producers, research institutions and governmental authorities. The entire innovation process, from components development to the integration into an efficient workflow will continuously be evaluated by border guard authorities.
+
+
 

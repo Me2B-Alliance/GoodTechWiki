@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003594
+created:1582954204770
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003594
+modified:1582954204770
 org.name:IETF
 org.type:to-be-determined
 parent.org:
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:IETF (to-be-determined)
-tmap.edges:{"1be98df2-cfe0-49a7-838a-521b15148afb":{"to":"ecac1609-3a92-45aa-8bad-aa2c7120a6ae","type":"Sponsors"}}
-tmap.id:33da72e1-5bb2-40db-8558-d26fd036abdf
+tmap.edges:{"cae955a0-8426-4a08-9ce5-7639b1fc43f9":{"to":"c02ccf34-f895-4603-8dcc-112c54a3222e","type":"Sponsors"}}
+tmap.id:109cca8b-2db6-49c7-ba0b-c2d7d798ce99
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://ietf.org/
 
 The IETF is a large open international community of network designers, operators, vendors, and researchers concerned with the evolution of the Internet architecture and the smooth operation of the Internet. The technical work of the IETF is done in Working Groups, which are organized by topic into several Areas. Much of the work is handled via mailing lists. The IETF holds meetings three times per year.
+
+
 

@@ -1,13 +1,13 @@
 audience:
-category:to be determined
-created:1582720003381
+category:[[to be determined]]
+created:1582954204549
 date:
 element.type:event
 frequency:
 github.profile:
 host.organization:IEEE Internet of Things
 location(s):
-modified:1582720003381
+modified:1582954204549
 name:Intl Workshop on Secure IoT (SIOT 2016)
 partners:
 people:
@@ -16,7 +16,7 @@ tags:
 tiddler.classification:node
 title:Intl Workshop on Secure IoT (SIOT 2016)
 tmap.edges:{}
-tmap.id:eafa8c53-e57e-4210-9e8e-5f8186e41da5
+tmap.id:60aa5d86-0370-4af2-a864-3b1ee3296821
 type:text/vnd.tiddlywiki
 website:http://siot-workshop.org
 working.group:
@@ -41,4 +41,6 @@ The focus of this workshop is to create a secure environment for connecting syst
 * Secure Operating Systems
 * **Privacy in Internet of Things**
 * Adaptive Security in Internet of Things
+
+
 

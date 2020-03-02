@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:Signal Failure?
 publication.type:report
 purpose:
 sector:government
 sponsoring.org:
-tags:[[research & briefings]]
+tags:[[research & briefings (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Signal Failure?
 tmap.edges:{}
-tmap.id:1a7a73d8-561a-4026-9187-9856ae8496b0
+tmap.id:80092cb6-a0ff-4f82-b146-d651324547db
 type:text/vnd.tiddlywiki
 url:https://bigbrotherwatch.org.uk/files/TFL_CCTVUse_Dec11.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Key FindingsAccording to a Freedom of Information request made by Big Brother Watch to Transport for London, TFL operates at least 82,826 CCTV camerasIn the last twelve months, 6,972 police requestsfor footage were granted by TFLAccordingly, footage from 91.6% of cameraswas not used by the policeThis is based on a generous assumption that footage from no camera was requested more than once, meaning that just 8.4% of TFL’s cameras were used in the prosecution of a crime. Consequently, the police did not request footage from more than 9 in 10(91.6%) of cameras.
+
+
 

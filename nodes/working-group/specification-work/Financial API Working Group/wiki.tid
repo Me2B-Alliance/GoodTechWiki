@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003326
+category:[[specification work]]
+created:1582954204493
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003326
+modified:1582954204493
 name:Financial API Working Group
 parent.org:OpenID foundation
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Financial API Working Group
-tmap.edges:{"3802b326-9a5f-414d-b6b5-25e25cad6067":{"to":"b96f25c7-de4d-4f8d-a9be-296ff6067335","type":"organization-for-group"}}
-tmap.id:7b41aea4-419f-4107-9d20-779aa7f9445b
+tmap.edges:{"09c26747-88c6-47d7-8abc-53232d1720d6":{"to":"d68e839d-d172-4c8b-9f17-8b981df00915","type":"organization-for-group"}}
+tmap.id:18e1ed02-2fdf-4ce7-a66e-81cf81ca7855
 type:text/vnd.tiddlywiki
 url:http://openid.net/wg/fapi/
 
@@ -31,4 +31,6 @@ This working group aims to rectify the situation by developing a REST/JSON model
 * enable users to control the security and privacy settings.
 
 Both commercial and investment banking account as well as insurance, and credit card accounts are to be considered.
+
+
 

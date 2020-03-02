@@ -1,12 +1,12 @@
-created:1582720021703
+created:1582954316384
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c1fffb0b-8986-4642-b22b-7fee54e55d4e
+map.base:c26e9f27-b6c1-4082-bb77-1c8364b9c589
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021703
+modified:1582954316384
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/SAML - Security Assertion Markup Language/filter/edges
-tmap.id:05cd6bbc-3e3f-4d21-9ebe-b49f141d5b41
+tmap.id:fe57b7c2-dd9d-4256-9af4-43741138d69f
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021590
+created:1582954316286
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3a338bdf-22e1-4cb6-8cf3-8df560bfa812
+map.base:ecb94013-73c3-411f-9e81-2556ef44a408
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021590
+modified:1582954316286
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Adjustable Autonomy and Human-Agent Teamwork in Practice: An Interim Report on Space Applications/filter/edges
-tmap.id:fedf2b3d-a50b-4be6-bf00-09c47981b239
+tmap.id:3d8a1c95-209a-49df-9c8d-9e11f611866f
 type:text/vnd.tiddlywiki
 
 No body provided

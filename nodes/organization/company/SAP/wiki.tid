@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003390
+created:1582954204558
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003390
+modified:1582954204558
 org.name:SAP
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:SAP
-tmap.edges:{"5fc66b5b-4e7a-4e65-a12e-1187d5d45f4a":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:63e17da3-48ac-4adf-9d0c-5ca0daf6fb09
+tmap.edges:{"b674c7fc-62f1-494a-b9cd-4d719de96d2d":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:e8510591-a3b4-45cc-8e39-f35fab8f8c87
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://go.sap.com/index.html
 
 SAP is the enterprise application software market leader, helping companies of all sizes and industries run better. From back office to boardroom, warehouse to storefront, desktop to mobile device, SAP helps people and organizations work together efficiently and use business insight effectively to stay ahead of the competition. SAP applications and services enable more than 232,000 customers to operate profitably, adapt continuously, and grow sustainably.
+
+
 

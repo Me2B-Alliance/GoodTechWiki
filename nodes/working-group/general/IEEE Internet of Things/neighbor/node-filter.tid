@@ -1,12 +1,12 @@
-created:1582720021692
-filter:[field:tmap.id[2872c0c2-2412-45bf-a8fa-5e5f261eb0bb]]
-map.base:2872c0c2-2412-45bf-a8fa-5e5f261eb0bb
+created:1582954316375
+filter:[field:tmap.id[746472db-34cf-4a05-a91c-6f7be653c9e7]]
+map.base:746472db-34cf-4a05-a91c-6f7be653c9e7
 map.role:node-filter
 map.type:neighbor
-modified:1582720021692
+modified:1582954316375
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Internet of Things/filter/nodes
-tmap.id:6a3671d5-982c-4591-a885-d05de132a1e7
+tmap.id:eb28dcd4-95c2-4e1b-8f01-5a735c3519ef
 type:text/vnd.tiddlywiki
 
 No body provided

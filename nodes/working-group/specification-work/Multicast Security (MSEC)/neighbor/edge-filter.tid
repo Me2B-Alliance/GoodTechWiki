@@ -1,12 +1,12 @@
-created:1582720021701
+created:1582954316381
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:25bc9626-3afc-4516-96da-ffd2312906df
+map.base:f8ebc877-6504-477f-b77c-bfcf5ef3c096
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021701
+modified:1582954316381
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Multicast Security (MSEC)/filter/edges
-tmap.id:5b4da351-3990-411f-8650-2bb8bb564840
+tmap.id:0bebc2cc-af34-4d43-84fa-db7b3f0419c0
 type:text/vnd.tiddlywiki
 
 No body provided

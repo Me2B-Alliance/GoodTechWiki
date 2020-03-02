@@ -1,17 +1,17 @@
-config.central-topic:ea51603c-e36b-4afa-b405-131625c042f9
+config.central-topic:acfa960b-6a75-4253-b6db-1a867341b605
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021598
-id:d7e936d2-6b48-4fcc-877a-68b5114b55ea
+created:1582954316298
+id:c5dba403-7fcc-42ca-8d82-85baa9252a27
 isview:false
-map.base:ea51603c-e36b-4afa-b405-131625c042f9
+map.base:acfa960b-6a75-4253-b6db-1a867341b605
 map.role:definition
 map.type:neighbor
-modified:1582720021598
+modified:1582954316298
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mediation, Automation, Power (paper)
-tmap.id:d7e936d2-6b48-4fcc-877a-68b5114b55ea
+tmap.id:c5dba403-7fcc-42ca-8d82-85baa9252a27
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mediation, Automation, Power (paper)

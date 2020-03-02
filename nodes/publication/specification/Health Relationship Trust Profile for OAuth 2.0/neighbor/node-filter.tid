@@ -1,12 +1,12 @@
-created:1582720021653
-filter:[field:tmap.id[15027cfe-26b2-4983-ba2b-a358f67c9c9f]]
-map.base:15027cfe-26b2-4983-ba2b-a358f67c9c9f
+created:1582954316343
+filter:[field:tmap.id[b0d21867-02f8-4424-b248-b27a0fc9f650]]
+map.base:b0d21867-02f8-4424-b248-b27a0fc9f650
 map.role:node-filter
 map.type:neighbor
-modified:1582720021653
+modified:1582954316343
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Health Relationship Trust Profile for OAuth 2.0/filter/nodes
-tmap.id:bd9031e9-6394-45ca-8337-56b91334f69f
+tmap.id:ff5e3f66-a558-4047-a559-cfe24f0269f0
 type:text/vnd.tiddlywiki
 
 No body provided

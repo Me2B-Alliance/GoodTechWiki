@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003370
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003370
+modified:1582954204538
 org.name:Thales Communications SA
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Thales Communications SA
-tmap.edges:{"eb3d6293-8c45-4039-b39a-4c764c9a81a1":{"to":"4d50c7d5-5282-41d1-895d-c3ec8ae492a3","type":"organization-for-group"},"ff67ad50-2fa7-46fb-8571-76982ee69db6":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:2ae4a591-dcf6-4634-8890-e6495222167f
+tmap.edges:{"aea417f4-e518-4b2d-8790-98bf3f44967b":{"to":"7168f982-f14b-4e76-ae04-89973e344d4d","type":"organization-for-group"},"7653bb24-e75a-4685-b482-e1c27cdce2c9":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:01091edd-633e-4a08-83af-635d9dd21160
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.thalesgroup.com/en
@@ -38,4 +38,6 @@ Thales Communications SA is a subsidiary of the Thales Group and is part of its 
 Thales Communications SA is a world leader in its domain of activity covering communications networks, satellite communications, mobile radio communications, naval and infrastructure communication systems, airborne communication, navigation and identification systems both for civil and military aircrafts, command information systems, radio surveillance systems and radio spectrum monitoring.
 
 Thales Communications SA’s leading position is based on constant and significant efforts in research and development for all the technologies involved in the ground, naval and airborne communication, identification and navigation fields both for military and civil applications, for which security and safety aspects are key.
+
+
 

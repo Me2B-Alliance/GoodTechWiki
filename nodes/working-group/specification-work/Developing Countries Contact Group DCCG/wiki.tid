@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003332
+category:[[specification work]]
+created:1582954204500
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003332
+modified:1582954204500
 name:Developing Countries Contact Group DCCG
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Developing Countries Contact Group DCCG
-tmap.edges:{"09a8df88-e181-4308-9701-57c372bac06d":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:f50afd7f-d1ef-43e6-ac5b-3ad9d7531610
+tmap.edges:{"acaeb558-1165-4c91-bf23-6ce9d0ba8a6e":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:a7a49ebc-1e5a-4d85-9781-58a10315e99e
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

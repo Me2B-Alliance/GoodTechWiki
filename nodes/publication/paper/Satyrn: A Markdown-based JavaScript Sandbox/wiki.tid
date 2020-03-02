@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:Satyrn: A Markdown-based JavaScript Sandbox
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Satyrn: A Markdown-based JavaScript Sandbox
 tmap.edges:{}
-tmap.id:7bbcc532-6b98-46dd-94d3-ae9809a45688
+tmap.id:250cfbb5-1967-4087-8ccf-ebf9f3b5baba
 type:text/vnd.tiddlywiki
 url:https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/satyrn.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 We set out to create a JavaScript native interpretation of Jupyter https://jupyter.org/, a notebook for both staticnarrative and interactive code.From Joe Andrieu:First, Jupyter is awesome. I frst learned about it in Jimmy Song's Programming Bitcoin course, which uses Jupyter to great efect with his open-source curriculum at https://github.com/jimmysong/pb-exercisesHowever, as I went through the class, I had signifcant technical issues with installing and setting up Jupyter and I could see how awesome this would be as a framework for general programming education for folks using JavaScript. Yes, there are some tools, like JSFiddle https://jsfddle.net/ that let you interactively play with JavaScript content, but nothing that combined the static parts of curriculum, like examples, illustrations, and explanations, with interactive parts where you could actually try some code out. It's true that Python is a beauty for working with large numbers like those found in cryptography (and hence cryptocurrency), while JavaScript requires extra work. BUT!
+
+
 

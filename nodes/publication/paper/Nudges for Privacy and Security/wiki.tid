@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[a. acquisti]] [[m. sleeper]] [[y. wang]] [[s. wilson]] [[i. adjerid]] [[r. balebako]] [[l. brandimarte]] [[l. f. cranor]] [[s. komanduri]] [[p. g. leon]] [[n. sadeh]] [[f. schaub]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:Nudges for Privacy and Security
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Nudges for Privacy and Security
 tmap.edges:{}
-tmap.id:4aaa24a6-1de6-437e-9479-a9022eeed657
+tmap.id:b0bf4992-b879-43ea-b140-e37e65f26ff3
 type:text/vnd.tiddlywiki
 url:https://dl.acm.org/citation.cfm?id=3054926
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 ACM Computing Surveys (CSUR), 50, 3, Oct 2017
 
 Advancements in information technology often task users with complex and consequential privacy and security decisions. A growing body of research has investigated individuals’ choices in the presence of privacy and information security tradeoffs, the decision-making hurdles affecting those choices, and ways to mitigate such hurdles. This article provides a multi-disciplinary assessment of the literature pertaining to privacy and security decision making. It focuses on research on assisting individuals’ privacy and security choices with soft paternalistic interventions that nudge users toward more beneficial choices. The article discusses potential benefits of those interventions, highlights their shortcomings, and identifies key ethical, design, and research challenges.
+
+
 

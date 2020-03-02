@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alex rosenblat]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:The Truth About How Uber’s App Manages Drivers
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[intelligence and autonomy]]
+tags:[[intelligence and autonomy (tag)]]
 tech.focus:
 tiddler.classification:node
 title:The Truth About How Uber’s App Manages Drivers
 tmap.edges:{}
-tmap.id:c3da9bf8-492a-4a62-b0bd-1cfcd6cf87cf
+tmap.id:aabb78ff-c82b-4bff-aa40-1121357f73d7
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/the-truth-about-how-ubers-app-manages-drivers/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 D&S Researcher Alex Rosenblat examines how Uber’s app design and deployment redistributes management functions to semiautomated and algorithmic systems, as well as to consumer ratings systems, creating ambiguity around...
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021654
+created:1582954316345
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:191b6b54-3569-4c00-af21-07732699c3a5
+map.base:d57cad45-1116-4385-89ff-25ac127895bb
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021654
+modified:1582954316345
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Identification of issuers (7812)/filter/edges
-tmap.id:7bdc235c-bf1c-4351-a55c-579e3520549a
+tmap.id:2b0e9923-72d0-48f2-90e2-b0eb8e4a2b4f
 type:text/vnd.tiddlywiki
 
 No body provided

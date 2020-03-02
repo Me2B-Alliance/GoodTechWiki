@@ -1,12 +1,12 @@
-created:1582720021603
+created:1582954316301
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:57238115-c15f-47be-93b7-6cfbe33929c2
+map.base:94ac374a-93d5-4f45-a0b1-6cf835ccd8f4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021603
+modified:1582954316301
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Question Answering for Privacy Policies: Combining Computational andLegal Perspectives/filter/edges
-tmap.id:a719020a-a815-4a4a-bffc-0536f4497192
+tmap.id:7a635ffd-296b-405a-a6a2-311eeb0cd552
 type:text/vnd.tiddlywiki
 
 No body provided

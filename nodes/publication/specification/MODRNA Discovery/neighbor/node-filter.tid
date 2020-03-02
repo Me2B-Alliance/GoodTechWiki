@@ -1,12 +1,12 @@
-created:1582720021657
-filter:[field:tmap.id[0f2ba113-679d-466b-99cd-3b987a23f289]]
-map.base:0f2ba113-679d-466b-99cd-3b987a23f289
+created:1582954316346
+filter:[field:tmap.id[169e4d2c-29f3-4c56-8d25-4d7f82a08cec]]
+map.base:169e4d2c-29f3-4c56-8d25-4d7f82a08cec
 map.role:node-filter
 map.type:neighbor
-modified:1582720021657
+modified:1582954316346
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MODRNA Discovery/filter/nodes
-tmap.id:48708a43-4d9f-425c-bbf9-080edcfb8faa
+tmap.id:15b8a9b2-9822-472e-a03e-7424382e5296
 type:text/vnd.tiddlywiki
 
 No body provided

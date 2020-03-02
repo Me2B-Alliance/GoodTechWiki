@@ -1,17 +1,17 @@
-config.central-topic:c5f83e91-0e26-46fd-8f97-05ceac451ec9
+config.central-topic:d827119c-8132-43c1-b27f-a0f264dc086c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021644
-id:de5eb234-8a99-479a-be0b-de2d48ea0f23
+created:1582954316337
+id:c741eb47-4faf-4a82-80fc-3f8aa346df20
 isview:false
-map.base:c5f83e91-0e26-46fd-8f97-05ceac451ec9
+map.base:d827119c-8132-43c1-b27f-a0f264dc086c
 map.role:definition
 map.type:neighbor
-modified:1582720021644
+modified:1582954316337
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Uber’s Phantom Cabs
-tmap.id:de5eb234-8a99-479a-be0b-de2d48ea0f23
+tmap.id:c741eb47-4faf-4a82-80fc-3f8aa346df20
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Uber’s Phantom Cabs

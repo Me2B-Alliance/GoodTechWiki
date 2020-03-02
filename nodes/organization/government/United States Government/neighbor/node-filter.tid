@@ -1,12 +1,12 @@
-created:1582720021461
-filter:[field:tmap.id[09dc49bf-3c28-409f-87ba-e1e88e2695d9]]
-map.base:09dc49bf-3c28-409f-87ba-e1e88e2695d9
+created:1582954316189
+filter:[field:tmap.id[f6ef7b27-804e-47d0-84f9-37877a332464]]
+map.base:f6ef7b27-804e-47d0-84f9-37877a332464
 map.role:node-filter
 map.type:neighbor
-modified:1582720021461
+modified:1582954316189
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/United States Government/filter/nodes
-tmap.id:211a42c8-da55-47ac-a690-1e4c4b4fa204
+tmap.id:edc80ef7-f34e-43d9-bb12-f50317ebed3f
 type:text/vnd.tiddlywiki
 
 No body provided

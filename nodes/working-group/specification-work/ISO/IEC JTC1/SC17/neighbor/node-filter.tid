@@ -1,12 +1,12 @@
-created:1582720021699
-filter:[field:tmap.id[58b741f7-12aa-4bb6-8db5-8d6ec33af651]]
-map.base:58b741f7-12aa-4bb6-8db5-8d6ec33af651
+created:1582954316379
+filter:[field:tmap.id[217fa241-fbba-4b13-af08-0eaca260997c]]
+map.base:217fa241-fbba-4b13-af08-0eaca260997c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021699
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC JTC1/SC17/filter/nodes
-tmap.id:9e687bf9-2dd1-41fc-9128-306c26984035
+tmap.id:ebc79490-9287-471a-98a2-0387d2234772
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,13 +1,13 @@
 audience:
 authors.editors:John Bradley;Mike Jones;Nat Sakimura
-created:1582720003347
+created:1582954204512
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003347
+modified:1582954204512
 name:OpenID Connect Dynamic Client Registration 1.0
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OpenID Connect Dynamic Client Registration 1.0
-tmap.edges:{"9979753d-ab6f-4719-a727-acc6dc7d2722":{"to":"82639463-00a0-47d3-b613-2b61004ef3c7","type":"specification-of-group"}}
-tmap.id:61592ae3-28fb-4b4d-beb5-e93280104b96
+tmap.edges:{"51ccde7e-3e68-4cc1-a52c-52c860d19c68":{"to":"4329ac9d-6fa7-4df2-bab2-c1a9f6ef6f45","type":"specification-of-group"}}
+tmap.id:1c121803-0679-45cc-86f6-e86107560629
 type:text/vnd.tiddlywiki
 url:http://openid.net/specs/openid-connect-registration-1_0.html
 version.or.edition:
@@ -26,4 +26,6 @@ volume.frequency:
 working.group:
 
 This specification defines how an OpenID Connect Relying Party can dynamically register with the End-User's OpenID Provider, providing information about itself to the OpenID Provider, and obtaining information needed to use it, including the OAuth 2.0 Client ID for this Relying Party.
+
+
 

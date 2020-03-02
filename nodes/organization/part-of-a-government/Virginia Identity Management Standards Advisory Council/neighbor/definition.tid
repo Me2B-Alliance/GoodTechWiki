@@ -1,17 +1,17 @@
-config.central-topic:d878764e-44cd-4d63-a1cb-769b5ce3ea7f
+config.central-topic:243ecff5-4eb9-4ef2-8550-460112a9b05f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021477
-id:9ef4615d-10ce-4f01-8163-9b4a5a8efa6e
+created:1582954316203
+id:c9d01112-84b4-429f-abcd-2c69107410e1
 isview:false
-map.base:d878764e-44cd-4d63-a1cb-769b5ce3ea7f
+map.base:243ecff5-4eb9-4ef2-8550-460112a9b05f
 map.role:definition
 map.type:neighbor
-modified:1582720021477
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Virginia Identity Management Standards Advisory Council
-tmap.id:9ef4615d-10ce-4f01-8163-9b4a5a8efa6e
+tmap.id:c9d01112-84b4-429f-abcd-2c69107410e1
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Virginia Identity Management Standards Advisory Council

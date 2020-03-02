@@ -1,13 +1,13 @@
 audience:
 authors.editors:Justin Richer
-created:1582720003339
+created:1582954204506
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003339
+modified:1582954204506
 name:Health Relationship Trust Profile for OAuth 2.0
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Health Relationship Trust Profile for OAuth 2.0
-tmap.edges:{"da08a56d-62a1-4e70-a6db-0a812f275113":{"to":"0f6005ae-1e2a-49c0-b414-69edf47e430b","type":"specification-of-group"}}
-tmap.id:15027cfe-26b2-4983-ba2b-a358f67c9c9f
+tmap.edges:{"50389f72-7fb3-4e59-8d8f-78fc582eb1d5":{"to":"3ec55377-2ffc-42a4-a181-b3ee5157e2ef","type":"specification-of-group"}}
+tmap.id:b0d21867-02f8-4424-b248-b27a0fc9f650
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
@@ -28,4 +28,6 @@ working.group:
 The OAuth 2.0 protocol framework defines a mechanism to allow a resource owner to delegate access to a protected resource for a client application.
 
 This specification profiles the OAuth 2.0 protocol framework to increase baseline security, provide greater interoperability, and structure deployments in a manner specifically applicable to (but not limited to) the healthcare domain.
+
+
 

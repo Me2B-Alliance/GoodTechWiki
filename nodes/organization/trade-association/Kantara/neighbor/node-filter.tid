@@ -1,12 +1,12 @@
-created:1582720021517
-filter:[field:tmap.id[a6df14ff-14f9-43b5-8108-3365e23180fb]]
-map.base:a6df14ff-14f9-43b5-8108-3365e23180fb
+created:1582954316227
+filter:[field:tmap.id[2648f44e-5ca9-4959-8646-8d89cb6b79a2]]
+map.base:2648f44e-5ca9-4959-8646-8d89cb6b79a2
 map.role:node-filter
 map.type:neighbor
-modified:1582720021517
+modified:1582954316227
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Kantara/filter/nodes
-tmap.id:4d8f4070-3a91-4856-8d14-d002276ea57a
+tmap.id:09f1819d-2a20-4a16-ad0f-9ea6d4bb7a8a
 type:text/vnd.tiddlywiki
 
 No body provided

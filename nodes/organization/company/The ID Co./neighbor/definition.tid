@@ -1,17 +1,17 @@
-config.central-topic:4836618f-77d3-4814-979c-bc21c9026527
+config.central-topic:ddab7241-7064-4f85-9171-39f57140514c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021455
-id:2f696232-1588-435c-a98f-fdd96edbaf37
+created:1582954316183
+id:90364558-fe69-4456-b61f-159138750a08
 isview:false
-map.base:4836618f-77d3-4814-979c-bc21c9026527
+map.base:ddab7241-7064-4f85-9171-39f57140514c
 map.role:definition
 map.type:neighbor
-modified:1582720021455
+modified:1582954316183
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The ID Co.
-tmap.id:2f696232-1588-435c-a98f-fdd96edbaf37
+tmap.id:90364558-fe69-4456-b61f-159138750a08
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The ID Co.

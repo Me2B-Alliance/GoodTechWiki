@@ -1,12 +1,12 @@
-created:1582720021679
-filter:[field:tmap.id[a8b7256f-6466-4f79-8936-878a9d54cf2b]]
-map.base:a8b7256f-6466-4f79-8936-878a9d54cf2b
+created:1582954316361
+filter:[field:tmap.id[b61b3f0e-d840-41bc-8c4e-cfc6eb8a336c]]
+map.base:b61b3f0e-d840-41bc-8c4e-cfc6eb8a336c
 map.role:node-filter
 map.type:neighbor
-modified:1582720021679
+modified:1582954316361
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Strategy for Trusted Identities in Cyberspace/filter/nodes
-tmap.id:47b22dc7-3f78-4089-9ac2-2060082136dd
+tmap.id:ca57a007-ad99-4681-9fb8-57151da527ac
 type:text/vnd.tiddlywiki
 
 No body provided

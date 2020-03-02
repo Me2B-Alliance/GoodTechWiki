@@ -1,17 +1,17 @@
-config.central-topic:cb6b0a85-510b-4a0a-bef0-5225878dbc8d
+config.central-topic:d749b8e8-3d60-4154-bd04-251b63709f6c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021541
-id:8daa717d-e741-49ab-b50b-66e7374152e5
+created:1582954316251
+id:46ea607f-df36-4ee1-b62b-7ac5dd851dc9
 isview:false
-map.base:cb6b0a85-510b-4a0a-bef0-5225878dbc8d
+map.base:d749b8e8-3d60-4154-bd04-251b63709f6c
 map.role:definition
 map.type:neighbor
-modified:1582720021541
+modified:1582954316251
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Cyber secure, innovative smart energy products
-tmap.id:8daa717d-e741-49ab-b50b-66e7374152e5
+tmap.id:46ea607f-df36-4ee1-b62b-7ac5dd851dc9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Cyber secure, innovative smart energy products

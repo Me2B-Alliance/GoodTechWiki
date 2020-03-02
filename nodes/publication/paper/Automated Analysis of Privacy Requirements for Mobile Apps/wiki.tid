@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[s. zimmeck]] [[z. wang]] [[l. zou]] [[r. iyengar]] [[b. liu]] [[f. schaub]] [[s. wilson]] [[n. sadeh]] [[s.m. bellovin]] [[j.r. reidenberg]]
-created:1582720003604
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003604
+modified:1582954204781
 name:Automated Analysis of Privacy Requirements for Mobile Apps
 publication.type:paper
 purpose:
 sector:
 sponsoring.org:
-tags:[[usable privacy policy - publications]]
+tags:[[usable privacy policy - publications (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Automated Analysis of Privacy Requirements for Mobile Apps
 tmap.edges:{}
-tmap.id:1d3c0cfa-f098-4715-9200-5b9e43d00eb7
+tmap.id:481df661-2d58-4494-b9ec-abfdc4bca73f
 type:text/vnd.tiddlywiki
 url:https://usableprivacy.org/files/news/NDSS17.pdf
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 NDSS'17: Network and Distributed System Security Symposium, Feb 2017
 
 Abstract—Mobile apps have to satisfy various privacy require-ments.  Notably,  app  publishers  are  often  obligated  to  provide  aprivacy  policy  and  notify  users  of  their  apps’  privacy  practices.But  how  can  a  user  tell  whether  an  app  behaves  as  its  policypromises?  In  this  study  we  introduce  a  scalable  system  to  helpanalyze   and   predict   Android   apps’   compliance   with   privacyrequirements.  We  discuss  how  we  customized  our  system  in  acollaboration with the California Office of the Attorney General.Beyond its use by regulators and activists our system is also meantto  assist  app  publishers  and  app  store  owners  in  their  internalassessments of privacy  requirement  compliance.Our analysis of 17,991 free Android apps shows the viabilityof combining machine learning-based privacy policy analysis withstatic code analysis of apps. Results suggest that 71% of apps thatlack  a  privacy  policy  should  have  one.  Also,  for  9,050  apps  thathave a policy, we find many instances of potential inconsistenciesbetween  what  the  app  policy  seems  to  state  and  what  the  codeof  the  app  appears  to  do.  In  particular,  as  many  as  41%  ofthese  apps  could  be  collecting  location  information  and  17%could be sharing such with third parties without disclosing so intheir policies. Overall, each app exhibits a mean of 1.83 potentialprivacy  requirement  inconsistencie
+
+
 

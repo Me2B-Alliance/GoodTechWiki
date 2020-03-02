@@ -1,17 +1,17 @@
-config.central-topic:013889e0-6af3-4f7e-8a2f-acbbd17e2e4d
+config.central-topic:b1ba01d7-6d28-4cb1-9e24-bd953aa7a571
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021469
-id:ecf3b50e-a967-402c-913d-572a6894ab45
+created:1582954316195
+id:0fc7ac49-2dcd-4e58-95a6-d2209ee7e3d7
 isview:false
-map.base:013889e0-6af3-4f7e-8a2f-acbbd17e2e4d
+map.base:b1ba01d7-6d28-4cb1-9e24-bd953aa7a571
 map.role:definition
 map.type:neighbor
-modified:1582720021469
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Identity Ecosystem Steering Group (IDESG)
-tmap.id:ecf3b50e-a967-402c-913d-572a6894ab45
+tmap.id:0fc7ac49-2dcd-4e58-95a6-d2209ee7e3d7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Identity Ecosystem Steering Group (IDESG)

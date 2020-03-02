@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003329
+category:[[specification work]]
+created:1582954204496
 date.ended:
 date.founded:1979-01-01
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003329
+modified:1582954204496
 name:Internet Architecture Board (IAB)
 parent.org:IETF
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Internet Architecture Board (IAB)
-tmap.edges:{"97b6c139-b805-46b5-9cc3-7e965abbdbf8":{"to":"138f237c-1bb9-40cf-b6d6-55cb16e59465","type":"connection"},"3f43cd02-5795-44fc-b392-b9c5eb702b70":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"},"df3ae447-9fb5-4d27-ac07-6ecaa6e001ec":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:8d5e9bbb-d9d4-4bf8-844d-190f04a42647
+tmap.edges:{"12d0306c-bdb0-4752-b535-03c9913b2181":{"to":"6d002ca3-6e57-4917-bea8-d67aa7b686c3","type":"connection"},"cf42f679-a940-4c9b-a19f-4b03a59063b3":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"},"9fa00690-0047-4d3f-b59e-28f9286c1cd8":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:78b230ca-f2a6-4fed-b82b-217e87d7fa13
 type:text/vnd.tiddlywiki
 url:https://www.iab.org
 
@@ -29,4 +29,6 @@ In its work, the IAB strives to:
 * Ensure that the Internet is a trusted medium of communication that provides a solid technical foundation for privacy and security, especially in light of pervasive surveillance,
 * Establish the technical direction for an Internet that will enable billions more people to connect, support the vision for an Internet of Things, and allow mobile networks to flourish, while keeping the core capabilities that have been a foundation of the Internet’s success, and
 * Promote the technical evolution of an open Internet without special controls, especially those which hinder trust in the network.
+
+
 

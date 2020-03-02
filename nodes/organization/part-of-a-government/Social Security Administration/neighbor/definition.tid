@@ -1,17 +1,17 @@
-config.central-topic:aa198ef4-3e0f-4972-9844-86ba02cacd2f
+config.central-topic:8ec80fc4-639a-4dc6-af9e-2606b76af7a9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021475
-id:c5d33d59-2d4c-418b-ba9d-2fa74169a3c9
+created:1582954316202
+id:5bd69c60-2bd1-491a-8dcd-244aa2c5c31c
 isview:false
-map.base:aa198ef4-3e0f-4972-9844-86ba02cacd2f
+map.base:8ec80fc4-639a-4dc6-af9e-2606b76af7a9
 map.role:definition
 map.type:neighbor
-modified:1582720021475
+modified:1582954316202
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Social Security Administration
-tmap.id:c5d33d59-2d4c-418b-ba9d-2fa74169a3c9
+tmap.id:5bd69c60-2bd1-491a-8dcd-244aa2c5c31c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Social Security Administration

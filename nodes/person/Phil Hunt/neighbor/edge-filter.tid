@@ -1,12 +1,12 @@
-created:1582720021535
+created:1582954316242
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2171fe94-2972-46c5-80ba-a28c17f512df
+map.base:80560d36-e5df-4974-b66a-dd4b853b1efb
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021535
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Phil Hunt/filter/edges
-tmap.id:bdc15f77-3122-4a61-94c1-d829f5741695
+tmap.id:2d77cb87-dd14-4b5d-970b-caab96a58e71
 type:text/vnd.tiddlywiki
 
 No body provided

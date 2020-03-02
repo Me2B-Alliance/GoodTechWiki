@@ -1,17 +1,17 @@
-config.central-topic:b24f039c-6708-4c62-b0be-fe9e29d9c90c
+config.central-topic:13605385-d5aa-4503-b487-f1feb43d26c4
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021621
-id:cb80bdd6-d2f8-419c-abb5-fb6cddf45033
+created:1582954316315
+id:a02dca90-6dfa-4f41-ad8a-7b73a182ba66
 isview:false
-map.base:b24f039c-6708-4c62-b0be-fe9e29d9c90c
+map.base:13605385-d5aa-4503-b487-f1feb43d26c4
 map.role:definition
 map.type:neighbor
-modified:1582720021621
+modified:1582954316315
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Education Equality Needs More Than Bootstraps
-tmap.id:cb80bdd6-d2f8-419c-abb5-fb6cddf45033
+tmap.id:a02dca90-6dfa-4f41-ad8a-7b73a182ba66
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Education Equality Needs More Than Bootstraps

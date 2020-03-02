@@ -1,17 +1,17 @@
-config.central-topic:c86f9713-21fd-4f3c-808a-2deededff5a3
+config.central-topic:487eb2e5-bb6d-4f19-8a5e-592716b3137b
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021509
-id:9e618c2b-9cdd-43eb-9923-a343cc3e3217
+created:1582954316221
+id:cf32dcb6-6e41-42ed-bd04-1198e6449cd4
 isview:false
-map.base:c86f9713-21fd-4f3c-808a-2deededff5a3
+map.base:487eb2e5-bb6d-4f19-8a5e-592716b3137b
 map.role:definition
 map.type:neighbor
-modified:1582720021509
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Canadian Internet Registration Authority (CIRA)
-tmap.id:9e618c2b-9cdd-43eb-9923-a343cc3e3217
+tmap.id:cf32dcb6-6e41-42ed-bd04-1198e6449cd4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Canadian Internet Registration Authority (CIRA)

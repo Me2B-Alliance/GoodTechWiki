@@ -1,12 +1,12 @@
-created:1582720021492
+created:1582954316214
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:2c7687cf-f08d-43c2-a5c4-51a5ab76f2bc
+map.base:dd243ae7-3664-437f-9a05-f7d8708c8137
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021492
+modified:1582954316214
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Growers Information Services Coop/filter/edges
-tmap.id:7c37e841-763f-488e-b33d-6b6b4cc37deb
+tmap.id:12a8fb5a-ed4e-4d94-9c4d-72836cf35193
 type:text/vnd.tiddlywiki
 
 No body provided

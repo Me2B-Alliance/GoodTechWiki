@@ -1,12 +1,12 @@
-created:1582720021530
+created:1582954316237
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5007cf5e-2e8b-4c56-82eb-3111f8d10be3
+map.base:f2a27a11-824b-4a64-a993-6af860782207
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021530
+modified:1582954316237
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Bob West/filter/edges
-tmap.id:1f8dd9bb-5a13-48da-9d1c-e4d179ddf42a
+tmap.id:4886eea0-42a9-4634-bd1d-64131b55ed69
 type:text/vnd.tiddlywiki
 
 No body provided

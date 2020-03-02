@@ -1,12 +1,12 @@
-created:1582720021670
+created:1582954316354
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ba6957fe-fe1e-4831-9ffe-b590a668597f
+map.base:27737b44-6984-4d9f-b6dc-f85e3c16ae1e
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021670
+modified:1582954316354
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_98-3_2008_Suppl_1_2008_Cor_1_2009(E)/filter/edges
-tmap.id:ca06c932-ba1a-4381-aff1-891bdf1d2845
+tmap.id:b1f187f1-7968-4e9a-a9d7-17a439f00fc5
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:AI in Context
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[ai on the ground]]
+tags:[[ai on the ground (tag)]]
 tech.focus:
 tiddler.classification:node
 title:AI in Context
 tmap.edges:{}
-tmap.id:f47efe9f-b1b6-4495-9dab-2fdd10cdaed3
+tmap.id:538fb075-3033-4804-91f6-d18327dc46b5
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/ai-in-context/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 “AI in Context” shows how automated and AI technologies are reconfiguring work in small family-owned farms and grocery stores.
+
+
 

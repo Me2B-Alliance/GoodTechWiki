@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003370
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003370
+modified:1582954204538
 org.name:GEANT (GEANT)
 org.type:trade association
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:GEANT (GEANT)
-tmap.edges:{"78604db6-0770-4122-ad2f-11c0c2f4c95f":{"to":"b075da9e-75ca-4256-9c93-708599bc2222","type":"general-member"}}
-tmap.id:66e0088f-d2c0-446d-bc1f-3edc6436ce8b
+tmap.edges:{"da690ad9-ee07-4d83-9acf-1d2295e1df8b":{"to":"8706c8a4-3475-47ee-880b-00b2160f8683","type":"general-member"}}
+tmap.id:07e4a1bd-1d53-4967-ad52-0a4fb71c76a2
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (service)
-created:1582720003598
+category:[[software product (service)]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Incident & Breach Management
 parent.org:One Trust
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:Incident & Breach Management
 tmap.edges:{}
-tmap.id:07963705-fec2-4949-b1e4-d25773b089b5
+tmap.id:25b82bb7-5576-430e-97d0-cbc2805d745d
 type:text/vnd.tiddlywiki
 url:https://www.onetrust.com/products/incident-breach-management/
 version.or.edition:
 working.group:
 
 OneTrust Incident & Breach Response helps centrally manage incidents, automate tasks, and maintain records for compliance and notification with global laws. The tool is powered by the Databreachpedia™ Global Law Engine, an innovative solution that integrates breach notification laws directly into the OneTrust platform. With OneTrust Incident & Breach Response, build context-aware automated workflows that help your organization rapidly respond to incidents and enhance breach notification decision-making
+
+
 

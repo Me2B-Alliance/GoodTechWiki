@@ -1,12 +1,12 @@
-created:1582720021442
-filter:[field:tmap.id[2a586ea7-4148-4c73-a15d-a989b9919fca]]
-map.base:2a586ea7-4148-4c73-a15d-a989b9919fca
+created:1582954316180
+filter:[field:tmap.id[49de08a5-8825-4218-ae66-b11a9015acac]]
+map.base:49de08a5-8825-4218-ae66-b11a9015acac
 map.role:node-filter
 map.type:neighbor
-modified:1582720021442
+modified:1582954316180
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft Belgium NV/filter/nodes
-tmap.id:7bf3d6ca-8e4f-407c-8804-0b2acc7dec7e
+tmap.id:532a1c40-13ae-458d-a2fa-d69ec41a0d4b
 type:text/vnd.tiddlywiki
 
 No body provided

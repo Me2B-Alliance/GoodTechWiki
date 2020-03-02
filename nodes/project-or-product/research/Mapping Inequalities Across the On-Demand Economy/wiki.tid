@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Mapping Inequalities Across the On-Demand Economy
 parent.org:Data & Society Research Institute
 partners:
@@ -19,12 +19,12 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[social instabilities in labor futures]] [[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[social instabilities in labor futures (tag)]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Mapping Inequalities Across the On-Demand Economy
 tmap.edges:{}
-tmap.id:e0127c0a-b24c-4b0c-87dc-dff6951f28c0
+tmap.id:8129a337-88e9-409a-a9db-8c694f088be1
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/labor_futures/mapping-inequalities-across-the-on-demand-economy/
 version.or.edition:
@@ -37,4 +37,6 @@ Through multi-sited ethnographic research, this project examines the experiences
 The fieldwork for this project targets what is at stake for workers across two segments of the on-demand economy: care and cleaning industry and ridehailing services, such as Uber and Lyft.
 
 This project is funded by the Robert Wood Johnson Foundation and the W.K Kellogg Foundation.
+
+
 

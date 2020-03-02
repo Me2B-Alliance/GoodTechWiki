@@ -1,7 +1,7 @@
 activities:
 audience:
-category:proof of concept
-created:1582720003358
+category:[[proof of concept]]
+created:1582954204525
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003358
+modified:1582954204525
 name:Private Identity as a Service
 parent.org:
 partners:
@@ -23,7 +23,7 @@ terms.of.service:
 tiddler.classification:node
 title:Private Identity as a Service
 tmap.edges:{}
-tmap.id:a4223c57-42ff-4b55-9cdf-2c4b9a2ffc62
+tmap.id:0fc7e33a-adde-4fcc-9744-a53b176889e8
 type:text/vnd.tiddlywiki
 url:http://www.pidaas.eu/cms/
 version.or.edition:
@@ -32,4 +32,6 @@ working.group:
 Project co-funded under the ICT Policy Support Programme (CIP - Call ICT PSP 7th call for proposals 2013). 
 8 Partners involved from Italy, Lithuania, Norway, Spain and United Kingdom. 
 Goals: exploiting traditional biometric technologies and platforms for identity management to create an innovative service based on biometric data.
+
+
 

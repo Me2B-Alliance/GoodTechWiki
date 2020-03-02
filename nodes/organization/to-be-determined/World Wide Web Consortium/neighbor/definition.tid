@@ -1,17 +1,17 @@
-config.central-topic:6124d531-72eb-435a-ab4f-fc025320ef46
+config.central-topic:f06094a6-f863-4135-b5f2-bdff3c6fe1a5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021500
-id:d6165b30-ff24-45db-b09e-e1b1b0cdc01a
+created:1582954316219
+id:2d88d123-40d6-4a30-946f-25a930a11196
 isview:false
-map.base:6124d531-72eb-435a-ab4f-fc025320ef46
+map.base:f06094a6-f863-4135-b5f2-bdff3c6fe1a5
 map.role:definition
 map.type:neighbor
-modified:1582720021501
+modified:1582954316219
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/World Wide Web Consortium
-tmap.id:d6165b30-ff24-45db-b09e-e1b1b0cdc01a
+tmap.id:2d88d123-40d6-4a30-946f-25a930a11196
 type:text/vnd.tiddlywiki
 
 Neighbor Map of World Wide Web Consortium

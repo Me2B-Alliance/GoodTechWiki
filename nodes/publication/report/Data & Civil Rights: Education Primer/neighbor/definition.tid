@@ -1,17 +1,17 @@
-config.central-topic:58cd4c1b-56d5-4899-b13c-dc3731079dab
+config.central-topic:094df3f1-f556-4ee0-b410-4e0663fd42a9
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021616
-id:0ee370f0-1964-45a3-a01b-2b60bef58e22
+created:1582954316311
+id:91c0b356-e86c-426d-a4f4-7b47bb184283
 isview:false
-map.base:58cd4c1b-56d5-4899-b13c-dc3731079dab
+map.base:094df3f1-f556-4ee0-b410-4e0663fd42a9
 map.role:definition
 map.type:neighbor
-modified:1582720021616
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Civil Rights: Education Primer
-tmap.id:0ee370f0-1964-45a3-a01b-2b60bef58e22
+tmap.id:91c0b356-e86c-426d-a4f4-7b47bb184283
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data & Civil Rights: Education Primer

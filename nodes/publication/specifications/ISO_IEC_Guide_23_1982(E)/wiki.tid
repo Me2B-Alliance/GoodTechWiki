@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003603
+created:1582954204781
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204781
 name:ISO_IEC_Guide_23_1982(E)
 publication.type:specifications
 purpose:
 sector:
 sponsoring.org:
-tags:[[00_iso/iec directives and guides functions]] [[consumer standards resources]] [[12 iso/iec guides (english)]]
+tags:[[consumer standards resources]] [[00_iso/iec directives and guides functions (tag)]] [[12 iso/iec guides (english) (tag)]]
 tech.focus:
 tiddler.classification:node
 title:ISO_IEC_Guide_23_1982(E)
 tmap.edges:{}
-tmap.id:054d2154-6382-4eff-af7e-9b3b19a43a49
+tmap.id:6312c901-ea80-4cb9-930e-a9d5257b1b7c
 type:text/vnd.tiddlywiki
 url:https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/8389141/ISO_IEC_Guide_23_1982%28E%29_%2D_Methods_of_indicating_conformity_with_standards_for_third%2Dparty_certification_systems.pdf?nodeid=8387838&vernum=-2
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Methods of indicating conformity with standards for third-party certification systems
 
 With the increased development of international trade and the increased demands by government authorities, purchasers, consumers and others to establish whether a product or Service conforms with Standards, it is becoming more and more important that the methods of indicating such conformity should be clearly understood. The questions which arise in considering this need would include : what is being certified? - by whom is it certified? who requires the certification? why is evidente of conformity required? how best is information on conformity transmitted to the buyer, user (consumer) or government authorities?
+
+
 

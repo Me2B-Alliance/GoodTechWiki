@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003374
+created:1582954204542
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003374
+modified:1582954204542
 org.name:Open PEPPOL
 org.type:trade association
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Open PEPPOL
-tmap.edges:{"fd2f32ad-d90b-4c57-97f8-5c02b6399100":{"to":"bbb08210-2cf6-462c-8348-300ce4251867","type":"connection"}}
-tmap.id:4e82b8a3-9bed-4e82-bb38-9be5b7b23e94
+tmap.edges:{"daf7f560-8e69-434f-9594-054d0c3c7411":{"to":"d79bc5b7-5e43-4939-a89a-2aeaf6ddbadb","type":"connection"}}
+tmap.id:9a83d46f-e528-429f-96c8-329876be975c
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.peppol.eu
@@ -42,4 +42,6 @@ The purpose of OpenPEPPOL is to enable European businesses to easily deal electr
 The Association provides an authoritative point of reference for networks of interoperable, PEPPOL-compliant infrastructure and the organisations that use it, ensuring high level governance and continuation of the agreement infrastructure. OpenPEPPOL is working towards providing its stakeholders with widely accepted technology standards and specifications, while ensuring sustainability and promoting and supporting the wider use of the PEPPOL specifications, building blocks and services.
 
 Business to business use of the PEPPOL-compliant infrastructure and use of PEPPOL-components in other areas beyond procurement are also recognised as important and is encouraged by the Association. PEPPOL is currently being implemented in several European countries to date and interest is now increasing outside of the EU.
+
+
 

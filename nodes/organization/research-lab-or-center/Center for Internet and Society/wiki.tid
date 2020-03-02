@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:Center for Internet and Society
 org.type:research lab or center
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Center for Internet and Society
-tmap.edges:{"5a909655-f93f-4065-9fd8-d23eea2676b9":{"to":"8551eebd-386d-451e-90f5-8989d375a8f6","type":"organization-for-group"}}
-tmap.id:46a70b33-5bb7-4220-8f56-2a8cfd253218
+tmap.edges:{"cfc2e669-bd57-4871-8e14-ab1ea19d9de7":{"to":"3bda626a-3fc9-467e-b64f-831fe3584a21","type":"organization-for-group"}}
+tmap.id:32ee0690-c43d-4ca2-a149-11d76f24c44a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

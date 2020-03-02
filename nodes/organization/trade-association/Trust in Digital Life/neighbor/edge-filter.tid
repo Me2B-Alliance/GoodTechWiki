@@ -1,12 +1,12 @@
-created:1582720021524
+created:1582954316233
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:1784ad38-f114-4dec-8b13-489aac8450b3
+map.base:59703d9f-3e2f-47c9-830c-7f029d53660b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021524
+modified:1582954316233
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust in Digital Life/filter/edges
-tmap.id:a86792dc-03c5-417b-b961-4f7e5e90367e
+tmap.id:3cf81fa5-3672-4d42-a659-74a58565867f
 type:text/vnd.tiddlywiki
 
 No body provided

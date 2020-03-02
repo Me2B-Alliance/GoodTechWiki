@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alessandro acquisti]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Essays on Privacy, Anonymity, and Tracking in Computer-mediated Economic Transactions
 tmap.edges:{}
-tmap.id:288e5d43-966a-4d2b-9f72-accbb9a94582
+tmap.id:cfb3213e-b992-4c40-baaa-e4a692e7f220
 type:text/vnd.tiddlywiki
 url:https://www.semanticscholar.org/paper/Essays-on-privacy%2C-anonymity%2C-and-tracking-in-Acquisti-Varian/735fab00146bd16776a9c84b16f941c48ba0c999
 version.or.edition:
@@ -30,4 +30,6 @@ As more organizations and individuals move on-line, concerns for privacy and sec
 Is there a combination of economic incentives and technological solutions to privacy issues that is acceptable for the individual and beneficial to society? Is there a “sweet spot” that satisfies the interests of all parties? 
 This dissertation combines technological and economic analysis to answer these questions. It introduces some of the most challenging technological and economic issues in the debate on privacy of personal information. It proposes cryptographic protocols to protect the privacy and anonymity of individuals in environments such as elections, payments, and recommendation systems. It then highlights novel economic aspects of the use of tracking and privacy-enhancing technologies. 
 On the technological side, the dissertation presents a novel method to protect the privacy of individuals through the coordination among parties that do not know each other. In this method, privacy is protected through anonymity, by hiding the identity of an individual completing a certain transaction amidst the identities of many other individuals completing similar transactions. These transactions are completed through a third party that does not need to be trusted. While several applications of this method are possible, this dissertation discusses its embodiment as an anonymous payment system and as an electronic voting and recommendation system. As a payment system, the method allows anonymous payments to be completed while guaranteeing the atomicity of the transaction. As a voting system, the method allows write-in ballots to be receipt-free and universally verifiable.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:6ee84bc0-3697-4c5f-82c9-b8ebde6b04d6
+config.central-topic:08592315-9772-476b-92ed-a3be248e7108
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021467
-id:6ead2a5f-7d72-41ff-962d-487c2db0a7e6
+created:1582954316192
+id:5278ae9a-9383-44fb-ab0a-31f19461bcd5
 isview:false
-map.base:6ee84bc0-3697-4c5f-82c9-b8ebde6b04d6
+map.base:08592315-9772-476b-92ed-a3be248e7108
 map.role:definition
 map.type:neighbor
-modified:1582720021467
+modified:1582954316192
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/MediaJustice
-tmap.id:6ead2a5f-7d72-41ff-962d-487c2db0a7e6
+tmap.id:5278ae9a-9383-44fb-ab0a-31f19461bcd5
 type:text/vnd.tiddlywiki
 
 Neighbor Map of MediaJustice

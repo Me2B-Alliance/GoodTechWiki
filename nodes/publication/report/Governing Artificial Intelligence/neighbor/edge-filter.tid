@@ -1,12 +1,12 @@
-created:1582720021624
+created:1582954316317
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:003cc1a4-92ee-43df-ae29-091a22da9da4
+map.base:0ca24f63-7fa1-44f2-8169-24dee80924cc
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021624
+modified:1582954316317
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Governing Artificial Intelligence/filter/edges
-tmap.id:dc1e8e23-8fcb-4209-826d-14eb3e8af94d
+tmap.id:13787064-7463-4726-a3a4-ebfedee779c5
 type:text/vnd.tiddlywiki
 
 No body provided

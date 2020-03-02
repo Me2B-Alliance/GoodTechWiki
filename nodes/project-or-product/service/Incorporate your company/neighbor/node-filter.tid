@@ -1,12 +1,12 @@
-created:1582720021555
-filter:[field:tmap.id[6bfbd670-719c-496b-81d6-102db98cc3d7]]
-map.base:6bfbd670-719c-496b-81d6-102db98cc3d7
+created:1582954316263
+filter:[field:tmap.id[4de9887b-5441-4750-9443-f5f5cb5b558e]]
+map.base:4de9887b-5441-4750-9443-f5f5cb5b558e
 map.role:node-filter
 map.type:neighbor
-modified:1582720021555
+modified:1582954316263
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Incorporate your company/filter/nodes
-tmap.id:0a9626b9-bd4b-4e2e-bb9d-cf9aa56cbca8
+tmap.id:683ca73c-5114-404e-a12b-67be5144b275
 type:text/vnd.tiddlywiki
 
 No body provided

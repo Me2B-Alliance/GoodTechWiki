@@ -1,17 +1,17 @@
-config.central-topic:5fcda69b-4062-49b0-9d58-4d5f03144600
+config.central-topic:56eefa81-535b-4ab1-aec8-47cf8b28d0d3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021663
-id:9ed79b47-e4c4-4759-bf92-1e9459d32889
+created:1582954316351
+id:786e869a-dc13-4d75-8c33-308546a9bd4a
 isview:false
-map.base:5fcda69b-4062-49b0-9d58-4d5f03144600
+map.base:56eefa81-535b-4ab1-aec8-47cf8b28d0d3
 map.role:definition
 map.type:neighbor
-modified:1582720021663
+modified:1582954316351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Verifiable Claims Use Cases 1.0
-tmap.id:9ed79b47-e4c4-4759-bf92-1e9459d32889
+tmap.id:786e869a-dc13-4d75-8c33-308546a9bd4a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Verifiable Claims Use Cases 1.0

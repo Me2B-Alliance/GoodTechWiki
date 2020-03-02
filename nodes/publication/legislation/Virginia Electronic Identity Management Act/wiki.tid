@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003379
+created:1582954204547
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003379
+modified:1582954204547
 name:Virginia Electronic Identity Management Act
 publication.type:legislation
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Virginia Electronic Identity Management Act
-tmap.edges:{"3768c496-cc3b-4d3d-8bf2-1e875d870631":{"to":"5bd836be-9532-47c4-858a-7f49567d9c45","type":"connection"}}
-tmap.id:85d3cc4f-76b0-488c-9ebe-329beb3c2714
+tmap.edges:{"e3780271-d763-49b8-a532-08078821af06":{"to":"d1a3833f-548b-4f18-a62c-2c31ae30ec83","type":"connection"}}
+tmap.id:84a435ee-764c-4e2b-9ccf-4431731b553c
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

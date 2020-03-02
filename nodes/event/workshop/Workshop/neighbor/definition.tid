@@ -1,17 +1,17 @@
-config.central-topic:956319e2-8482-4132-ba90-fdee12bdd2b5
+config.central-topic:9cb3e7d8-f015-455b-bf28-a191f000f00f
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021433
-id:80816731-3199-4e14-a858-c16f86f65b2c
+created:1582954316171
+id:2469e2e5-7940-496d-8aac-5f01af46a3f0
 isview:false
-map.base:956319e2-8482-4132-ba90-fdee12bdd2b5
+map.base:9cb3e7d8-f015-455b-bf28-a191f000f00f
 map.role:definition
 map.type:neighbor
-modified:1582720021433
+modified:1582954316171
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Workshop
-tmap.id:80816731-3199-4e14-a858-c16f86f65b2c
+tmap.id:2469e2e5-7940-496d-8aac-5f01af46a3f0
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Workshop

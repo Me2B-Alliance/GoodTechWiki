@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003367
+created:1582954204536
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003367
+modified:1582954204536
 org.name:Aadhaar - Unique Identification Authority of India UIDAI
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Aadhaar - Unique Identification Authority of India UIDAI
-tmap.edges:{"1a65a2d0-157e-45f2-abc4-711d16d9b352":{"to":"f883d63c-fbf3-42f5-b7fb-fb111400a95e","type":"government-connection"}}
-tmap.id:3be39709-e987-433a-982e-95fe6aad1217
+tmap.edges:{"b34b5389-4509-4235-a686-32743797a2ab":{"to":"c06ddac8-ba42-4d17-be62-fb0ace910d5c","type":"government-connection"}}
+tmap.id:2c59d4bb-aabc-4bf7-af90-c63f52c2a26b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

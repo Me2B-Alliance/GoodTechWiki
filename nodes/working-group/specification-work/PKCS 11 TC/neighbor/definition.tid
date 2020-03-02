@@ -1,17 +1,17 @@
-config.central-topic:3e672dfd-0c9a-45ad-87b1-e2480c3af115
+config.central-topic:e47ba1c7-2271-4f41-bc8a-3a0dc261775c
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021702
-id:5ff5e27d-ad9f-4a58-8549-2e0d38c9b34f
+created:1582954316382
+id:81c980c9-2041-4bbf-928c-b9e483b56176
 isview:false
-map.base:3e672dfd-0c9a-45ad-87b1-e2480c3af115
+map.base:e47ba1c7-2271-4f41-bc8a-3a0dc261775c
 map.role:definition
 map.type:neighbor
-modified:1582720021702
+modified:1582954316382
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/PKCS 11 TC
-tmap.id:5ff5e27d-ad9f-4a58-8549-2e0d38c9b34f
+tmap.id:81c980c9-2041-4bbf-928c-b9e483b56176
 type:text/vnd.tiddlywiki
 
 Neighbor Map of PKCS 11 TC

@@ -1,12 +1,12 @@
-created:1582720021483
-filter:[field:tmap.id[1dffc408-db8d-4580-ae04-400a2e5bc81e]]
-map.base:1dffc408-db8d-4580-ae04-400a2e5bc81e
+created:1582954316208
+filter:[field:tmap.id[b5f5fa7e-2e8e-46b7-896b-d79f5ea7ee27]]
+map.base:b5f5fa7e-2e8e-46b7-896b-d79f5ea7ee27
 map.role:node-filter
 map.type:neighbor
-modified:1582720021483
+modified:1582954316208
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO/IEC JTC 1 / SC27 IT Security Techniques/filter/nodes
-tmap.id:e13d5878-0b70-4226-9452-ddebcce9135d
+tmap.id:ff11dcd4-01ba-4dba-a187-74d444f51c39
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021442
+created:1582954316179
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0259c946-2f51-4869-bb46-a27b5bac0071
+map.base:398d901c-4b5c-45af-8394-7b51642b9863
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021442
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft France/filter/edges
-tmap.id:355cc0fe-e6c0-4453-8b30-e78cc59ea6ef
+tmap.id:37ebc1c7-0d11-43bc-bae7-90608ae3303e
 type:text/vnd.tiddlywiki
 
 No body provided

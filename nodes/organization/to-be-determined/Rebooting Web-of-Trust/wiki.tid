@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Rebooting Web-of-Trust
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Rebooting Web-of-Trust
 tmap.edges:{}
-tmap.id:d076dd07-6571-4b8a-b057-49a7a71913ba
+tmap.id:abc19e55-83e7-4016-bb40-d96f573fb201
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.weboftrust.info/
@@ -37,4 +37,6 @@ website:https://www.weboftrust.info/
 The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 
 But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
+
+
 

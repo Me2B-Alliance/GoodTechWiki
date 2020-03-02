@@ -1,12 +1,12 @@
-created:1582720021608
+created:1582954316305
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:37cf3d10-8f87-477b-aa53-3509003792c0
+map.base:1e526bf0-6417-4634-a3c0-ff0e934644b6
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021608
+modified:1582954316305
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/2019 Ranking Digital Rights/filter/edges
-tmap.id:b7101b04-5f10-4d80-bc4a-1b5e70b174a0
+tmap.id:19ca1942-4bf9-4b24-912a-84d48dacc736
 type:text/vnd.tiddlywiki
 
 No body provided

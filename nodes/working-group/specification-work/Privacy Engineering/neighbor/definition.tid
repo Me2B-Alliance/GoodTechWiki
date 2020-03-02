@@ -1,17 +1,17 @@
-config.central-topic:87808b3d-8a0f-446b-81be-3349ad97e6c0
+config.central-topic:27b08679-12fb-485c-b2e1-02e062b80a77
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021702
-id:69db9051-5b4f-4a1e-a40a-c76989f1e96b
+created:1582954316382
+id:e9b49815-35a9-4b51-b84d-ffe31a7c021f
 isview:false
-map.base:87808b3d-8a0f-446b-81be-3349ad97e6c0
+map.base:27b08679-12fb-485c-b2e1-02e062b80a77
 map.role:definition
 map.type:neighbor
-modified:1582720021702
+modified:1582954316382
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Engineering
-tmap.id:69db9051-5b4f-4a1e-a40a-c76989f1e96b
+tmap.id:e9b49815-35a9-4b51-b84d-ffe31a7c021f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Privacy Engineering

@@ -1,17 +1,17 @@
-config.central-topic:29616241-b529-4a1d-85aa-718c81381f90
+config.central-topic:b04ef042-35ee-490c-9acd-d2042039d7ec
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021659
-id:d59c30da-f6d4-4a63-8a9c-7ce395b4b658
+created:1582954316349
+id:3eae3113-1313-4541-934b-dcfe605264e2
 isview:false
-map.base:29616241-b529-4a1d-85aa-718c81381f90
+map.base:b04ef042-35ee-490c-9acd-d2042039d7ec
 map.role:definition
 map.type:neighbor
-modified:1582720021659
+modified:1582954316349
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/OAuth Dynamic Client Registration Management (RFC7592)
-tmap.id:d59c30da-f6d4-4a63-8a9c-7ce395b4b658
+tmap.id:3eae3113-1313-4541-934b-dcfe605264e2
 type:text/vnd.tiddlywiki
 
 Neighbor Map of OAuth Dynamic Client Registration Management (RFC7592)

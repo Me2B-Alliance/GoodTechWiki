@@ -1,12 +1,12 @@
-created:1582720021552
-filter:[field:tmap.id[bcd83b90-2c5a-4c55-ba05-88518568566f]]
-map.base:bcd83b90-2c5a-4c55-ba05-88518568566f
+created:1582954316260
+filter:[field:tmap.id[c4a08bb5-6ce3-493b-b35e-8491400efc75]]
+map.base:c4a08bb5-6ce3-493b-b35e-8491400efc75
 map.role:node-filter
 map.type:neighbor
-modified:1582720021552
+modified:1582954316260
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Social Instabilities in Labor Futures/filter/nodes
-tmap.id:c49b19e5-c30b-400e-85c2-87de72f5b99e
+tmap.id:d734b26f-d249-4669-b4c6-077dbdcba5ca
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,17 +1,17 @@
-config.central-topic:a8a85509-7555-464e-b1aa-7eccff6a8e40
+config.central-topic:66ed2ba9-5c89-413a-91d9-4fad9b32a008
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021538
-id:e34342c3-65ee-4fd7-8932-f93a5d8ff266
+created:1582954316243
+id:2a694d3f-ab61-4466-aa2a-4d32ea651eb8
 isview:false
-map.base:a8a85509-7555-464e-b1aa-7eccff6a8e40
+map.base:66ed2ba9-5c89-413a-91d9-4fad9b32a008
 map.role:definition
 map.type:neighbor
-modified:1582720021538
+modified:1582954316243
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Tony Nadalin
-tmap.id:e34342c3-65ee-4fd7-8932-f93a5d8ff266
+tmap.id:2a694d3f-ab61-4466-aa2a-4d32ea651eb8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Tony Nadalin

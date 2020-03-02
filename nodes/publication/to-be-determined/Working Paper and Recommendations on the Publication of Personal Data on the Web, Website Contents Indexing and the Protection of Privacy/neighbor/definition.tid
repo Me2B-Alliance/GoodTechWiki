@@ -1,17 +1,17 @@
-config.central-topic:9ca7a780-a84b-4cac-9eb3-4f37f2871875
+config.central-topic:9ec65aac-2ad3-4ff8-b66b-1e6a0dbb1555
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021683
-id:58e21753-bca5-4ed8-9862-e5639b8a7ae8
+created:1582954316364
+id:dbf0dffa-3823-48ab-8244-7169205fe409
 isview:false
-map.base:9ca7a780-a84b-4cac-9eb3-4f37f2871875
+map.base:9ec65aac-2ad3-4ff8-b66b-1e6a0dbb1555
 map.role:definition
 map.type:neighbor
-modified:1582720021683
+modified:1582954316364
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Working Paper and Recommendations on the Publication of Personal Data on the Web, Website Contents Indexing and the Protection of Privacy
-tmap.id:58e21753-bca5-4ed8-9862-e5639b8a7ae8
+tmap.id:dbf0dffa-3823-48ab-8244-7169205fe409
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Working Paper and Recommendations on the Publication of Personal Data on the Web, Website Contents Indexing and the Protection of Privacy

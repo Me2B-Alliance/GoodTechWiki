@@ -1,0 +1,12 @@
+created:1582965000909
+filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+map.base:e725613a-4838-44d9-8911-c7c4e2a55ded
+map.role:edge-filter
+map.type:tagmap
+modified:1582965000909
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/certification/filter/edges
+tmap.id:dbd7530e-fb14-4c9f-a81b-bc6e84a4c21c
+type:text/vnd.tiddlywiki
+
+No body provided

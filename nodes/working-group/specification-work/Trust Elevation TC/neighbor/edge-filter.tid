@@ -1,12 +1,12 @@
-created:1582720021703
+created:1582954316384
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:6769925c-e10d-4f1c-8dc8-3371ab829120
+map.base:e3c9dd96-06eb-46b8-b47d-150536ba562a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021703
+modified:1582954316384
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trust Elevation TC/filter/edges
-tmap.id:2b9091e0-acf0-43d8-88a8-6486c5691b2e
+tmap.id:0e827f26-6f82-4614-9ece-50cddbf1fcfd
 type:text/vnd.tiddlywiki
 
 No body provided

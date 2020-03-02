@@ -1,12 +1,12 @@
-created:1582720021689
-filter:[field:tmap.id[bbcb3823-ed03-48a1-bc5e-cc052130440b]]
-map.base:bbcb3823-ed03-48a1-bc5e-cc052130440b
+created:1582954316369
+filter:[field:tmap.id[9ca9e0dd-1e69-48e5-b19f-3a46ef2748c3]]
+map.base:9ca9e0dd-1e69-48e5-b19f-3a46ef2748c3
 map.role:node-filter
 map.type:neighbor
-modified:1582720021689
+modified:1582954316369
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain Working Group/filter/nodes
-tmap.id:f13924d3-2bac-4bd4-98d2-37ca23e7803a
+tmap.id:be50e978-71ea-40ac-baf8-3b1061227f61
 type:text/vnd.tiddlywiki
 
 No body provided

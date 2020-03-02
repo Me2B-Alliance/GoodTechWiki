@@ -1,7 +1,7 @@
 activities:[[software development]]
 annual.budget:
 audience:
-created:1582720003590
+created:1582954204766
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:https://www.linkedin.com/company/mozilla-corporation/about/
 location(s):[[mountainview]] [[california]]
 me2b.relationship:
-modified:1582720003590
+modified:1582954204766
 org.name:Mozilla (Corporation)
 org.type:company
 parent.org:
@@ -28,11 +28,13 @@ tags:[[privacy]]
 tech.focus:
 tiddler.classification:node
 title:Mozilla (Corporation)
-tmap.edges:{"ba75aa1c-bd8c-4ba0-9ef3-774555da3ef0":{"to":"2e89b9fb-2108-42cf-8f6e-2ffccd2d7d07","type":"Organization Supports Project or Product"}}
-tmap.id:099f3561-aef9-4ce7-8c05-25f40e185484
+tmap.edges:{"a30bf5f0-c7d2-44ad-8284-1ae112a928bc":{"to":"cb51a871-0eb2-4314-abaa-a0dd22620b9d","type":"Organization Supports Project or Product"}}
+tmap.id:a51b7565-26b9-4da5-b612-a6b77b7c4741
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.mozilla.org/
 
 Mozilla makes browsers, apps, code and tools that put people before profit.
+
+
 

@@ -1,17 +1,17 @@
-config.central-topic:bc9ad150-eb0c-4cb7-9f72-af5384f0e71d
+config.central-topic:ffa6b5ef-2472-48e3-a9a7-98de0669bdc0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021486
-id:215c8138-197e-453e-99fc-71b27f44085a
+created:1582954316210
+id:3e9231bf-49cf-48e0-bca5-35e3f7aef83a
 isview:false
-map.base:bc9ad150-eb0c-4cb7-9f72-af5384f0e71d
+map.base:ffa6b5ef-2472-48e3-a9a7-98de0669bdc0
 map.role:definition
 map.type:neighbor
-modified:1582720021486
+modified:1582954316210
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/All Tech is Human
-tmap.id:215c8138-197e-453e-99fc-71b27f44085a
+tmap.id:3e9231bf-49cf-48e0-bca5-35e3f7aef83a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of All Tech is Human

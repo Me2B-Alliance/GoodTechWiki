@@ -1,12 +1,12 @@
-created:1582720021455
+created:1582954316183
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4836618f-77d3-4814-979c-bc21c9026527
+map.base:ddab7241-7064-4f85-9171-39f57140514c
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021455
+modified:1582954316183
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The ID Co./filter/edges
-tmap.id:b1fbbc3d-45a5-4fbe-a964-c943ccbb1e75
+tmap.id:23fb5efc-f280-49e1-8334-5ab4b42ca825
 type:text/vnd.tiddlywiki
 
 No body provided

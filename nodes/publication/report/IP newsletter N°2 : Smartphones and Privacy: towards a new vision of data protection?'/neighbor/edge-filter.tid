@@ -1,12 +1,12 @@
-created:1582720021628
+created:1582954316321
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:b4951ff4-be67-4bd9-aff3-4c7d459afab8
+map.base:a6f7c4da-e0d4-4124-a884-557ca36abe90
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021628
+modified:1582954316321
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IP newsletter N°2 : Smartphones and Privacy: towards a new vision of data protection?'/filter/edges
-tmap.id:bc84f6a4-1be7-4d8f-959d-02b4aec13a2f
+tmap.id:f2c5ce0f-ad4c-477d-a9b8-f7569000d45a
 type:text/vnd.tiddlywiki
 
 No body provided

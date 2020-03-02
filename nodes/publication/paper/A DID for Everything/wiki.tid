@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204777
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/WebOfTrustInfo/
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204777
 name:A DID for Everything
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:A DID for Everything
 tmap.edges:{}
-tmap.id:9d311bdc-9c46-46ba-8a02-3ec2b03f96f0
+tmap.id:9f96c321-a13e-4630-9d69-6db13fe3d3df
 type:text/vnd.tiddlywiki
 url:https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.pdf
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 The decentralized identifer (DID) is a new and open standard type of globally unique identifer that ofers a model for lifetime-scope portable digital identity that does not depend on any centralized authority and that can never be taken away by third-parties [14]. DIDs are supported by the W3C community [14] and the Decentralized Identity Foundation (DIF) [16]. They are the "atomic units" of a new layer of decentralized identity infrastructure. However, DIDs can be extended from identifers for people to any entity, thus identifying everything. We can use DIDs to help us identify and manage objects, machines, or agents through their digital twins; we can expand them to locations, to events, and even to pure data objects, which we refer to as decentralized autonomic data (DAD) items [1][3].
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021431
-filter:[field:tmap.id[a83c8231-5abd-441c-b9f9-08a46c251b43]]
-map.base:a83c8231-5abd-441c-b9f9-08a46c251b43
+created:1582954316170
+filter:[field:tmap.id[88f9d20a-5b78-464e-9819-f59da1829aa0]]
+map.base:88f9d20a-5b78-464e-9819-f59da1829aa0
 map.role:node-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316170
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open, Identity Summit/filter/nodes
-tmap.id:37e14907-b0bc-480f-81ec-9dd6dd9038a9
+tmap.id:f283dfcd-4264-4c24-aed6-151381f73d59
 type:text/vnd.tiddlywiki
 
 No body provided

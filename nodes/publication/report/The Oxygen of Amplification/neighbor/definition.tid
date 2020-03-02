@@ -1,17 +1,17 @@
-config.central-topic:016f4b24-5986-4188-89ac-8bc50cd10c49
+config.central-topic:4af72946-4284-4d96-b0e5-a87c20cfb6a2
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021641
-id:f9f53cd9-eab7-4e85-9ee2-cfa71c132312
+created:1582954316331
+id:b3778e13-c3cc-405a-ae6e-229945cc3c75
 isview:false
-map.base:016f4b24-5986-4188-89ac-8bc50cd10c49
+map.base:4af72946-4284-4d96-b0e5-a87c20cfb6a2
 map.role:definition
 map.type:neighbor
-modified:1582720021641
+modified:1582954316331
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Oxygen of Amplification
-tmap.id:f9f53cd9-eab7-4e85-9ee2-cfa71c132312
+tmap.id:b3778e13-c3cc-405a-ae6e-229945cc3c75
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Oxygen of Amplification

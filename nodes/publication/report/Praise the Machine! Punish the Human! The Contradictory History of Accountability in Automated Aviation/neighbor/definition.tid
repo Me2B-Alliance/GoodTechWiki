@@ -1,17 +1,17 @@
-config.central-topic:92d41a7a-9d7a-4599-89b6-69dde1918edf
+config.central-topic:389199b8-58e4-473d-a463-639ccdd8aa51
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021634
-id:a08b57f0-3eef-4272-91a8-75aca9e5d3c0
+created:1582954316326
+id:7edbe8de-fad8-4671-8a4a-96c3bd3f73d4
 isview:false
-map.base:92d41a7a-9d7a-4599-89b6-69dde1918edf
+map.base:389199b8-58e4-473d-a463-639ccdd8aa51
 map.role:definition
 map.type:neighbor
-modified:1582720021634
+modified:1582954316326
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Praise the Machine! Punish the Human! The Contradictory History of Accountability in Automated Aviation
-tmap.id:a08b57f0-3eef-4272-91a8-75aca9e5d3c0
+tmap.id:7edbe8de-fad8-4671-8a4a-96c3bd3f73d4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Praise the Machine! Punish the Human! The Contradictory History of Accountability in Automated Aviation

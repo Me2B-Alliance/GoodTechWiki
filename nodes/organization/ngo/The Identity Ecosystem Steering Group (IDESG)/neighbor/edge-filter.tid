@@ -1,12 +1,12 @@
-created:1582720021469
+created:1582954316195
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:013889e0-6af3-4f7e-8a2f-acbbd17e2e4d
+map.base:b1ba01d7-6d28-4cb1-9e24-bd953aa7a571
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021469
+modified:1582954316195
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Identity Ecosystem Steering Group (IDESG)/filter/edges
-tmap.id:982d62d9-8e87-4491-a54b-937caaebc554
+tmap.id:6fdecf7a-97d8-4e4e-ac72-bcaf44fc5de4
 type:text/vnd.tiddlywiki
 
 No body provided

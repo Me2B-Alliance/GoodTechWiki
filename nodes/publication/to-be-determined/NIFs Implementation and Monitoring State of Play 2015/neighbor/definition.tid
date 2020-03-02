@@ -1,17 +1,17 @@
-config.central-topic:bdcd8be6-cfcb-46df-8b83-d3adef2722c7
+config.central-topic:f8ca2216-7c26-47b5-bdfa-a7f962c049c0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021679
-id:96d67700-6e05-48d0-aa6f-01ecc8894e1a
+created:1582954316360
+id:ddb91e1e-38ae-489b-85b8-6323d27a5d76
 isview:false
-map.base:bdcd8be6-cfcb-46df-8b83-d3adef2722c7
+map.base:f8ca2216-7c26-47b5-bdfa-a7f962c049c0
 map.role:definition
 map.type:neighbor
-modified:1582720021679
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/NIFs Implementation and Monitoring State of Play 2015
-tmap.id:96d67700-6e05-48d0-aa6f-01ecc8894e1a
+tmap.id:ddb91e1e-38ae-489b-85b8-6323d27a5d76
 type:text/vnd.tiddlywiki
 
 Neighbor Map of NIFs Implementation and Monitoring State of Play 2015

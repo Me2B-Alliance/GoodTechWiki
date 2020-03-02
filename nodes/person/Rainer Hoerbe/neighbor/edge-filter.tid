@@ -1,12 +1,12 @@
-created:1582720021536
+created:1582954316242
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:961c6b68-b8ce-48d8-a280-641961b4a533
+map.base:d297f62d-3034-4575-9441-696e8e4a070b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021536
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Rainer Hoerbe/filter/edges
-tmap.id:7c13b57b-854b-4dd0-a194-6c6ea8d8fd7d
+tmap.id:5e63c890-a585-4248-a024-af558ecdf166
 type:text/vnd.tiddlywiki
 
 No body provided

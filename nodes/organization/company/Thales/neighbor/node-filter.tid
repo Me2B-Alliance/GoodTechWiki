@@ -1,12 +1,12 @@
-created:1582720021453
-filter:[field:tmap.id[4d50c7d5-5282-41d1-895d-c3ec8ae492a3]]
-map.base:4d50c7d5-5282-41d1-895d-c3ec8ae492a3
+created:1582954316184
+filter:[field:tmap.id[7168f982-f14b-4e76-ae04-89973e344d4d]]
+map.base:7168f982-f14b-4e76-ae04-89973e344d4d
 map.role:node-filter
 map.type:neighbor
-modified:1582720021453
+modified:1582954316184
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Thales/filter/nodes
-tmap.id:3339d617-4fce-44e5-ac12-178457d70b41
+tmap.id:b9281f18-6568-4dfb-8a38-ac9da7c23f33
 type:text/vnd.tiddlywiki
 
 No body provided

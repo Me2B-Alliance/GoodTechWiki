@@ -1,12 +1,12 @@
-created:1582720021512
+created:1582954316223
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:55c14f7d-1890-4a4f-af61-f3a328ec8b4c
+map.base:bd830828-0f85-438f-8c65-ce386d89c661
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021512
+modified:1582954316223
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/European Trust Foundation/filter/edges
-tmap.id:3828639a-8d43-4c91-a3b3-d74bb1e45aff
+tmap.id:22aab5ba-d4f6-4a35-b601-c650c7651833
 type:text/vnd.tiddlywiki
 
 No body provided

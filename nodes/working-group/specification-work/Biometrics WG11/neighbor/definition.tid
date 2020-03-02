@@ -1,17 +1,17 @@
-config.central-topic:7cb6e360-6de7-42d1-b653-60f350686aaf
+config.central-topic:ed47d2ac-4a4e-4c74-ab2b-5538d702d1b8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021695
-id:81623b34-ccd6-485f-b3e9-866248584622
+created:1582954316376
+id:15303066-2781-4d12-909d-bd0f4aea1e92
 isview:false
-map.base:7cb6e360-6de7-42d1-b653-60f350686aaf
+map.base:ed47d2ac-4a4e-4c74-ab2b-5538d702d1b8
 map.role:definition
 map.type:neighbor
-modified:1582720021695
+modified:1582954316376
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Biometrics WG11
-tmap.id:81623b34-ccd6-485f-b3e9-866248584622
+tmap.id:15303066-2781-4d12-909d-bd0f4aea1e92
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Biometrics WG11

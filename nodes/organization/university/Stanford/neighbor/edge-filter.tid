@@ -1,12 +1,12 @@
-created:1582720021527
+created:1582954316234
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:8551eebd-386d-451e-90f5-8989d375a8f6
+map.base:3bda626a-3fc9-467e-b64f-831fe3584a21
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021527
+modified:1582954316234
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Stanford/filter/edges
-tmap.id:a6398187-6a95-4f27-92ee-aecf61d36c4e
+tmap.id:075fefc9-7e55-48e6-8694-daec2644c21c
 type:text/vnd.tiddlywiki
 
 No body provided

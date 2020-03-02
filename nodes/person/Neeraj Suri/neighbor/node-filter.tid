@@ -1,12 +1,12 @@
-created:1582720021534
-filter:[field:tmap.id[4df3f5a5-4711-489f-8b7c-943b6a86a556]]
-map.base:4df3f5a5-4711-489f-8b7c-943b6a86a556
+created:1582954316240
+filter:[field:tmap.id[ed7bf4df-f773-4470-aff2-f9141a491fd9]]
+map.base:ed7bf4df-f773-4470-aff2-f9141a491fd9
 map.role:node-filter
 map.type:neighbor
-modified:1582720021534
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Neeraj Suri/filter/nodes
-tmap.id:50021077-74e6-47a5-9524-21d7e17074f9
+tmap.id:efeb3a66-3ed2-401e-a0ca-71fc63814ff8
 type:text/vnd.tiddlywiki
 
 No body provided

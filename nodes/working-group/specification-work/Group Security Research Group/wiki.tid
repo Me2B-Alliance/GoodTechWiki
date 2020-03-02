@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003330
+category:[[specification work]]
+created:1582954204497
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003330
+modified:1582954204497
 name:Group Security Research Group
 parent.org:IETF
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Group Security Research Group
-tmap.edges:{"f6fc00ec-0e85-4064-a46f-af9f7fe39b97":{"to":"612ceb24-bd15-45ee-99dd-7adb66446ce4","type":"organization-for-group"}}
-tmap.id:0c7df52a-58ee-4513-b25f-414625db5847
+tmap.edges:{"d03143b4-6c8f-4329-93fb-603d3e967ded":{"to":"3b2f5644-c89e-48a6-addc-7a93a096aa09","type":"organization-for-group"}}
+tmap.id:65c495aa-3b92-4313-b70b-72f721b7bc98
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

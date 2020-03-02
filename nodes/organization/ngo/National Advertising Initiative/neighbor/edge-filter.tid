@@ -1,12 +1,12 @@
-created:1582720021466
+created:1582954316193
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a14c3af1-0361-4723-9bb4-94fd3be91441
+map.base:c2270ff0-9ec4-435f-8a62-4cba5e281592
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021466
+modified:1582954316193
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/National Advertising Initiative/filter/edges
-tmap.id:71dd5bd7-f8c2-4aa9-be6b-7456cb6078de
+tmap.id:351b9019-415e-431a-b1e4-695ee7877064
 type:text/vnd.tiddlywiki
 
 No body provided

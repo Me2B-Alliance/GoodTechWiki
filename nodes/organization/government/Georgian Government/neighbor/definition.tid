@@ -1,17 +1,17 @@
-config.central-topic:0c4f8942-422d-486e-81c0-9d40a02a4286
+config.central-topic:adb6db54-b1b7-4bb8-9420-8d8063089953
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021460
-id:5522fa84-36af-4c1a-8bca-66a8c579fa00
+created:1582954316188
+id:dd016fa5-9c98-4647-8584-52fb104f56cb
 isview:false
-map.base:0c4f8942-422d-486e-81c0-9d40a02a4286
+map.base:adb6db54-b1b7-4bb8-9420-8d8063089953
 map.role:definition
 map.type:neighbor
-modified:1582720021460
+modified:1582954316188
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Georgian Government
-tmap.id:5522fa84-36af-4c1a-8bca-66a8c579fa00
+tmap.id:dd016fa5-9c98-4647-8584-52fb104f56cb
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Georgian Government

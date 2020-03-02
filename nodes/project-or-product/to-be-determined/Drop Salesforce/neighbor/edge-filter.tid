@@ -1,12 +1,12 @@
-created:1582720021575
+created:1582954316272
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:c1582ed7-37e4-4e95-af12-692d3c83cb24
+map.base:daae1641-1f5f-4700-b9fe-fc65d49f364b
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021575
+modified:1582954316272
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Drop Salesforce/filter/edges
-tmap.id:e3ead51e-cc40-4075-8210-66f4c2f17b70
+tmap.id:0aa79c8b-5aa2-4f81-85b7-112206399efe
 type:text/vnd.tiddlywiki
 
 No body provided

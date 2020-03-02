@@ -1,12 +1,12 @@
-created:1582720021484
-filter:[field:tmap.id[ddca3364-478b-447b-88c8-a31547a0a4fb]]
-map.base:ddca3364-478b-447b-88c8-a31547a0a4fb
+created:1582954316208
+filter:[field:tmap.id[f329a51e-fa7e-4212-a4ab-d6df6dc5461b]]
+map.base:f329a51e-fa7e-4212-a4ab-d6df6dc5461b
 map.role:node-filter
 map.type:neighbor
-modified:1582720021484
+modified:1582954316208
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Trustless Computing Certification Body (TCCB)/filter/nodes
-tmap.id:503e71a3-51f2-4384-a892-4e5239481223
+tmap.id:c3fc3544-043f-427e-90cd-202b6345e71d
 type:text/vnd.tiddlywiki
 
 No body provided

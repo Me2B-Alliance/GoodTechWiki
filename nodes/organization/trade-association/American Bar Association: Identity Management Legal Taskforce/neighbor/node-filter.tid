@@ -1,12 +1,12 @@
-created:1582720021503
-filter:[field:tmap.id[c8887f5f-3957-49ce-b1fe-504c61a66a19]]
-map.base:c8887f5f-3957-49ce-b1fe-504c61a66a19
+created:1582954316221
+filter:[field:tmap.id[0f579826-b654-4d77-9f19-a9ae4b321aa9]]
+map.base:0f579826-b654-4d77-9f19-a9ae4b321aa9
 map.role:node-filter
 map.type:neighbor
-modified:1582720021503
+modified:1582954316221
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/American Bar Association: Identity Management Legal Taskforce/filter/nodes
-tmap.id:f1f24d34-a4a3-42a1-a39c-02b9ee6f8243
+tmap.id:667969d0-548d-4103-ad7c-7992d821fe93
 type:text/vnd.tiddlywiki
 
 No body provided

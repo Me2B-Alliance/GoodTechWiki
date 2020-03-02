@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Datum
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Datum
 tmap.edges:{}
-tmap.id:3f5cc7d5-7f34-4eb4-b853-30700e890795
+tmap.id:a73c5a14-5701-4cac-a5b6-189ad94a0c16
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://datum.org
@@ -62,4 +62,6 @@ The data marketplace, enabling individuals to monetize their data on their terms
 Datum leverages BigchainDB and IPFS to provide an infinitely scalable,
 decentralized data storage backend.
 Data storage and data sharing is paid for by the DAT token.
+
+
 

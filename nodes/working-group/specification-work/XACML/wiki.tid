@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003324
+category:[[specification work]]
+created:1582954204491
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003324
+modified:1582954204491
 name:XACML
 parent.org:OASIS
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:XACML
-tmap.edges:{"8d7ed061-5eed-4f20-86e7-8c77d77f86e5":{"to":"fa8de664-d11d-48a3-8587-22320690d358","type":"organization-for-group"}}
-tmap.id:e44d8ec8-9583-4b1f-940d-49bdbf53cc03
+tmap.edges:{"c05327d5-793b-487a-aabc-756d1134c573":{"to":"4be18dba-56ed-4888-a70c-10b45c5a70b9","type":"organization-for-group"}}
+tmap.id:27d44d9b-c5b5-46ef-b877-b752155d4824
 type:text/vnd.tiddlywiki
 url:https://www.oasis-open.org/committees/xacml/
 
@@ -30,4 +30,6 @@ OASIS Standard
 Further info is below in the XACML 3.0 section.
 
 XACML 3.0 received the Influential Standardization Efforts Award at the European Identity Conference in Munich, May 2011.
+
+
 

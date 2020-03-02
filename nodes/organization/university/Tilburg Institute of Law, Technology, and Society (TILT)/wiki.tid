@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003335
+created:1582954204502
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003335
+modified:1582954204502
 org.name:Tilburg Institute of Law, Technology, and Society (TILT)
 org.type:university
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Tilburg Institute of Law, Technology, and Society (TILT)
-tmap.edges:{"274bffbc-9ce8-4238-8b51-b652183096e7":{"to":"9c77c020-4960-4ff8-9ea9-7d259d1b6fab","type":"organization-for-group"},"9ec2fbd5-69ea-4af2-abf0-2eb34cc37505":{"to":"646a4be2-e734-42e1-9ab7-4fabec72ac48","type":"funding-flow"}}
-tmap.id:f1dd16b5-6c80-45e0-a3ff-8f74840d3e03
+tmap.edges:{"fc629c37-696f-4cd2-b5e9-a5963bc60c68":{"to":"b0798528-2d64-403c-bb42-8466a8bcdf1f","type":"organization-for-group"},"ea06e668-d5c2-471b-90d3-103721ba9e72":{"to":"92739ff8-ea3e-4ab6-bb2c-d0ad5f5f75c1","type":"funding-flow"}}
+tmap.id:49e78755-1d7d-48e6-9d9d-968c2cf2a2f6
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/
@@ -36,4 +36,6 @@ website:http://www.tilburguniversity.edu/research/institutes-and-research-groups
 TILT studies emerging technologies and their impact on the individual and society, recognizing the interplay between technology, regulation and fundamental values & human rights.
 
 The Tilburg Institute for Law, Technology, and Society (TILT) is a top player in the field of the regulation of technology and its normative implications. We conduct research into the legal and social implications of various emerging technologies such as ICT, bio- and nanotechnology, neurotechnology and robotics. A key feature of the institute’s research program is the interaction between legal, technological, and social perspectives. TILT is consistently ranked a top institute for research and education by national and international Legal Research and Education Assessment Committees.
+
+
 

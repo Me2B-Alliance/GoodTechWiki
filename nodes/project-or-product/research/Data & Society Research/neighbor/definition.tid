@@ -1,17 +1,17 @@
-config.central-topic:28cf7936-324a-41db-81b0-b2c632418b4b
+config.central-topic:99cb49e6-88bd-4238-a6f9-aed7971157e1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021544
-id:b8c5694b-8bfb-40e4-8cc8-c631001bb01b
+created:1582954316254
+id:62ead2eb-e330-4514-8de9-19d4e9be3a9c
 isview:false
-map.base:28cf7936-324a-41db-81b0-b2c632418b4b
+map.base:99cb49e6-88bd-4238-a6f9-aed7971157e1
 map.role:definition
 map.type:neighbor
-modified:1582720021544
+modified:1582954316254
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Data & Society Research
-tmap.id:b8c5694b-8bfb-40e4-8cc8-c631001bb01b
+tmap.id:62ead2eb-e330-4514-8de9-19d4e9be3a9c
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Data & Society Research

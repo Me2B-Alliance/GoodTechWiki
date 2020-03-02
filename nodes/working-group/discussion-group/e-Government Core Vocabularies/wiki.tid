@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003323
+category:[[discussion group]]
+created:1582954204490
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003323
+modified:1582954204490
 name:e-Government Core Vocabularies
 parent.org:Semantic Interoperability Community (SEMIC)
 people:
@@ -18,8 +18,8 @@ status:
 tech.focus:
 tiddler.classification:node
 title:e-Government Core Vocabularies
-tmap.edges:{"b7477b20-dd39-418e-8158-1b3631dc6e52":{"to":"f63119bb-2659-4bac-8af7-3d7f0bd35412","type":"author"}}
-tmap.id:df47bcb5-854f-4875-8272-5eab5b54042f
+tmap.edges:{"89dac7f8-44a8-469a-a918-9c7688ab711c":{"to":"e063d159-7498-4387-b405-f4708ffd8791","type":"author"}}
+tmap.id:ed66f720-637a-4e8f-92b1-dea081524547
 type:text/vnd.tiddlywiki
 url:https://joinup.ec.europa.eu/node/145983
 
@@ -41,4 +41,6 @@ CORE Person Vocabulary
 CORE Public Service Vocabulary
 CORE Criterion & Evidence Vocabulary
 CORE Public Organization Vocabulary
+
+
 

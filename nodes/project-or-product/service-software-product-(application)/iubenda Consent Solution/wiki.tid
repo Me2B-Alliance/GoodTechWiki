@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[service]] [[software product (application)]]
-created:1582720003596
+category:[[software product (application)]] [[service]]
+created:1582954204772
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003596
+modified:1582954204772
 name:iubenda Consent Solution
 parent.org:iubenda
 partners:
@@ -24,11 +24,13 @@ terms.of.service:
 tiddler.classification:node
 title:iubenda Consent Solution
 tmap.edges:{}
-tmap.id:9c652fcc-6f2a-4606-a23a-86214a8fa3c7
+tmap.id:19462457-00e5-4b31-954c-af5cc2f590e9
 type:text/vnd.tiddlywiki
 url:https://www.iubenda.com/en/consent-solution
 version.or.edition:
 working.group:
 
 Record and manage GDPR consent and privacy preferences for each of your users. It smoothly integrates with your consent collection forms, syncs with your legal documents and includes a user-friendly dashboard for reviewing consent records of your activities.
+
+
 

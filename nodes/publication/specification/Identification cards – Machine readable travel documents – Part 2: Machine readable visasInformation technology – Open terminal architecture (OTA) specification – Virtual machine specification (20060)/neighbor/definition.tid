@@ -1,17 +1,17 @@
-config.central-topic:36a58501-fc77-474f-94e2-76534dce0628
+config.central-topic:438604de-bd96-4862-aa36-4d0d12a421e6
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021655
-id:0e5daf99-bd5a-4613-bcc4-e7cc94c45037
+created:1582954316345
+id:2b43d85e-e15a-4b25-9397-7a5cd9ca4da4
 isview:false
-map.base:36a58501-fc77-474f-94e2-76534dce0628
+map.base:438604de-bd96-4862-aa36-4d0d12a421e6
 map.role:definition
 map.type:neighbor
-modified:1582720021655
+modified:1582954316345
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)
-tmap.id:0e5daf99-bd5a-4613-bcc4-e7cc94c45037
+tmap.id:2b43d85e-e15a-4b25-9397-7a5cd9ca4da4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Identification cards – Machine readable travel documents – Part 2: Machine readable visasInformation technology – Open terminal architecture (OTA) specification – Virtual machine specification (20060)

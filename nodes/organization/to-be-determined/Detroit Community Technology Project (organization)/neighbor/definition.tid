@@ -1,17 +1,17 @@
-config.central-topic:e6f3cca8-b58b-44c8-bcd7-99f4e94b8503
+config.central-topic:ff25ba83-2429-4060-a821-2a75b2d1a053
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021489
-id:1a392fb9-a773-48b9-9fb8-9a184586818d
+created:1582954316211
+id:61f97b4e-1241-44e0-825f-5c650df3f4a4
 isview:false
-map.base:e6f3cca8-b58b-44c8-bcd7-99f4e94b8503
+map.base:ff25ba83-2429-4060-a821-2a75b2d1a053
 map.role:definition
 map.type:neighbor
-modified:1582720021489
+modified:1582954316211
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Detroit Community Technology Project (organization)
-tmap.id:1a392fb9-a773-48b9-9fb8-9a184586818d
+tmap.id:61f97b4e-1241-44e0-825f-5c650df3f4a4
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Detroit Community Technology Project (organization)

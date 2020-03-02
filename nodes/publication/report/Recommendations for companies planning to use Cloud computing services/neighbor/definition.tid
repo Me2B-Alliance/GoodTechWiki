@@ -1,17 +1,17 @@
-config.central-topic:e001a125-481f-443a-a05f-df25be782b01
+config.central-topic:5a91cbce-f486-4a9e-befa-cf38dcff9066
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021635
-id:238c37d0-cd61-4aa8-840d-d67cecea7bc6
+created:1582954316328
+id:aa231b4d-c4fc-4164-be81-ff1a66e6b852
 isview:false
-map.base:e001a125-481f-443a-a05f-df25be782b01
+map.base:5a91cbce-f486-4a9e-befa-cf38dcff9066
 map.role:definition
 map.type:neighbor
-modified:1582720021635
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Recommendations for companies planning to use Cloud computing services
-tmap.id:238c37d0-cd61-4aa8-840d-d67cecea7bc6
+tmap.id:aa231b4d-c4fc-4164-be81-ff1a66e6b852
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Recommendations for companies planning to use Cloud computing services

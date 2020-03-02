@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:The Institute for Law and the Web at the University of Southampton (ILAWS)
 org.type:research lab or center
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:The Institute for Law and the Web at the University of Southampton (ILAWS)
-tmap.edges:{"7ccfa1ff-c835-4e02-9225-bf9aea34c406":{"to":"ab60c9bd-d25a-4822-927b-246566e57536","type":"organization-for-group"},"e00f14bf-92ae-4391-91af-fd5e66092eab":{"to":"c94cd7b9-2d4b-4443-b1d2-ad8ec381bf12","type":"general-member"}}
-tmap.id:2893a532-5a59-4ac1-b0eb-034c9cc88348
+tmap.edges:{"e126e1a5-b4f0-48f8-b674-fe5e31baf246":{"to":"8880ba1e-0fb8-43d5-8c41-795b33cced06","type":"organization-for-group"},"af00285d-2c91-432b-966b-91751a6d52fb":{"to":"20463f7d-3a99-4a99-81d8-a1ec4fa7040c","type":"general-member"}}
+tmap.id:794324e3-013a-4bb2-a00b-961f0e83cb4f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.southampton.ac.uk/ilaws/index.page
 
 The Institute for Law and the Web at the University of Southampton (ILAWS) was established to work on the legal issues, problems and opportunities associated with the Internet, the Web and digital technology. It is a unique interdisciplinary research centre that combines legal expertise in key domains such as information technology law, ecommerce, Information Technology (IT) law and public policy, and intellectual property (IP) law. The Institute combines a brief to look at the crucial current issues for commerce and government, alongside cutting-edge ‘futuregazing’ to discover what the legal issues of the future will be. ILAWS members work closely with colleagues in the University of Southampton and beyond in disciplines such as cyber security, psychology, web science etc. It now has six full time members of staff, four visiting research fellows and a dozen PhD students. ILAWS is a partner in a high profile University of Southampton research centre: the Southampton Cyber Security centre of excellence.
+
+
 

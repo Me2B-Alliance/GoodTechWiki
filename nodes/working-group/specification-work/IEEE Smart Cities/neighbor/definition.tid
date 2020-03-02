@@ -1,17 +1,17 @@
-config.central-topic:b3b15157-c8e1-43ff-aeee-62b4175a903c
+config.central-topic:26615b3d-d471-47d7-9247-3aa6b7ff0796
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021698
-id:8bb772f3-82c0-402e-8dea-425897747938
+created:1582954316379
+id:20c82653-8364-469d-9c23-ee1c9aaa7161
 isview:false
-map.base:b3b15157-c8e1-43ff-aeee-62b4175a903c
+map.base:26615b3d-d471-47d7-9247-3aa6b7ff0796
 map.role:definition
 map.type:neighbor
-modified:1582720021698
+modified:1582954316379
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IEEE Smart Cities
-tmap.id:8bb772f3-82c0-402e-8dea-425897747938
+tmap.id:20c82653-8364-469d-9c23-ee1c9aaa7161
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IEEE Smart Cities

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003383
+created:1582954204551
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003383
+modified:1582954204551
 org.name:comsign
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:comsign
-tmap.edges:{"b82b02a4-e533-424e-937a-491ca3ab7d66":{"to":"b2d9e6e7-38ee-44aa-9180-d28e117f4900","type":"certified-idp"},"3db19d23-319b-4209-85b8-d8f485a0c855":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"general-member"}}
-tmap.id:88a76c90-cb6b-4a93-a5a3-e1f93f6fe1e9
+tmap.edges:{"1b969390-c731-4c53-bfc0-a9864513a7be":{"to":"bd98e11b-dbbf-42fa-a516-8221e8b4785a","type":"certified-idp"},"209683d0-8b79-4759-9552-5865e0f05181":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"general-member"}}
+tmap.id:4c403873-3c7a-473e-a10f-1929abca3f73
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.comsign.co.uk
@@ -36,4 +36,6 @@ website:https://www.comsign.co.uk
 ComSign is the leading Israeli company authorized to issue legally binding digital signature approved by the law and by the Justice Ministry
 
 ComSign's objective is to stop the foot-dragging bureaucracy and sending the public to government, banking and other institutions and entities in order to have documents signed, and in fact to grant every home in Israel a computerized signature on documents in their computer. This digital signature is, of course, equal in acceptability to (and even better than) that of the person's handwritten signature and is legally submissible as if the document was hand signed on paper.
+
+
 

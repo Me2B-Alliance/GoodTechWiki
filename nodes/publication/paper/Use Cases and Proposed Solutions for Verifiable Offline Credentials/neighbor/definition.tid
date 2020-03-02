@@ -1,17 +1,17 @@
-config.central-topic:e55cd7d9-2c59-49fe-b699-8e3d8600c914
+config.central-topic:1564c505-46ac-4347-80c1-c799787b49f1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021605
-id:86f30de8-ad4b-424e-87f3-85b3448d25c6
+created:1582954316305
+id:40da6170-7a54-4d90-8b42-d9ad9c98e150
 isview:false
-map.base:e55cd7d9-2c59-49fe-b699-8e3d8600c914
+map.base:1564c505-46ac-4347-80c1-c799787b49f1
 map.role:definition
 map.type:neighbor
-modified:1582720021605
+modified:1582954316305
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Use Cases and Proposed Solutions for Verifiable Offline Credentials
-tmap.id:86f30de8-ad4b-424e-87f3-85b3448d25c6
+tmap.id:40da6170-7a54-4d90-8b42-d9ad9c98e150
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Use Cases and Proposed Solutions for Verifiable Offline Credentials

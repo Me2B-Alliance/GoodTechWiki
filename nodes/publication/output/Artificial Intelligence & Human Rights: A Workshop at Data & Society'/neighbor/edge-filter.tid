@@ -1,12 +1,12 @@
-created:1582720021588
+created:1582954316285
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:4943a5d6-f929-407f-8fe5-9c432757fd08
+map.base:b11a154f-76ab-4cb5-8494-90c3a5823fda
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021588
+modified:1582954316285
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Artificial Intelligence & Human Rights: A Workshop at Data & Society'/filter/edges
-tmap.id:3f4854fd-6373-47d6-870a-88410130a7db
+tmap.id:36320e91-78cf-4ec6-a6cc-b5f41f0533c1
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Dataswift
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:[[mydata operator]]
 tech.focus:
 tiddler.classification:node
 title:Dataswift
-tmap.edges:{"9c09566c-e71a-47ad-b994-d30e3a72984a":{"to":"27119e90-fce4-43a1-9917-73e627efa366","type":"Organization Supports Project or Product"}}
-tmap.id:4430beb9-8820-44f8-9c9d-d5dedeb33d3c
+tmap.edges:{"caa203e6-e393-4b26-b14f-25b9437b7055":{"to":"d0fdcf5b-30e5-4e10-b280-72c96f2fc718","type":"Organization Supports Project or Product"}}
+tmap.id:5dfbda20-a890-40ec-aa9f-b3ec060ed421
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://dataswift.io/
@@ -37,4 +37,6 @@ website:https://dataswift.io/
 Dataswift is a complete developers platform for personal data accounts and infrastructure
 
 With Dataswift, you get a complete toolkit for managing user-owned personal data accounts out-of-the-box. One API interface. One conversation. One permission model. Dozens of features. You'll be amazed at everything you can do with personal data accounts. And we're just getting started.
+
+
 

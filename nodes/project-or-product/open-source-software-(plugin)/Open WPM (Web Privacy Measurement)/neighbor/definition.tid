@@ -1,17 +1,17 @@
-config.central-topic:22939f07-68e4-4c8f-bad9-163599cd4d44
+config.central-topic:b641bfe7-df4e-4862-a1f7-cdaecc19b4a8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021560
-id:9f8d3035-7db2-4d5f-b59a-c5074be2a56e
+created:1582954316249
+id:6fb0bc9a-e175-4b5d-a6df-afc1579da519
 isview:false
-map.base:22939f07-68e4-4c8f-bad9-163599cd4d44
+map.base:b641bfe7-df4e-4862-a1f7-cdaecc19b4a8
 map.role:definition
 map.type:neighbor
-modified:1582720021560
+modified:1582954316249
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Open WPM (Web Privacy Measurement)
-tmap.id:9f8d3035-7db2-4d5f-b59a-c5074be2a56e
+tmap.id:6fb0bc9a-e175-4b5d-a6df-afc1579da519
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Open WPM (Web Privacy Measurement)

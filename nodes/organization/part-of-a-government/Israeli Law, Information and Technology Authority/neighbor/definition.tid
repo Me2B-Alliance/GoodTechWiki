@@ -1,17 +1,17 @@
-config.central-topic:ea24e0e3-ccb0-4d0b-972e-1e1427ef9c8e
+config.central-topic:525cac72-9496-4d21-a729-b739163c8648
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021474
-id:256e9012-111a-44b9-998d-44a2a0b654c3
+created:1582954316201
+id:e749960e-8c3c-478f-a19e-31477fa813de
 isview:false
-map.base:ea24e0e3-ccb0-4d0b-972e-1e1427ef9c8e
+map.base:525cac72-9496-4d21-a729-b739163c8648
 map.role:definition
 map.type:neighbor
-modified:1582720021474
+modified:1582954316201
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Israeli Law, Information and Technology Authority
-tmap.id:256e9012-111a-44b9-998d-44a2a0b654c3
+tmap.id:e749960e-8c3c-478f-a19e-31477fa813de
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Israeli Law, Information and Technology Authority

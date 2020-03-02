@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003598
+category:[[research]]
+created:1582954204774
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003598
+modified:1582954204774
 name:Intelligence and Autonomy
 parent.org:Data & Society Research Institute
 partners:
@@ -19,16 +19,18 @@ purpose:
 relevant.publications:
 status:
 supported.identity.technologies:
-tags:[[ai on the ground]] [[data & society research]] [[publications]] [[parent]]
+tags:[[publications]] [[parent]] [[ai on the ground (tag)]] [[data & society research (tag)]]
 terms.of.service:
 tiddler.classification:node
 title:Intelligence and Autonomy
 tmap.edges:{}
-tmap.id:9f4ffea0-bd79-4c47-8e37-38529b7fa404
+tmap.id:c45671c0-9d64-4169-95f6-d830aa3f6a10
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/intelligence-and-autonomy/
 version.or.edition:
 working.group:
 
 The Intelligence & Autonomy Initiative—active from 2014-2018—developed grounded, qualitative research in order to provide nuanced understanding of emerging technologies and to inform the design, evaluation, and regulation of AI-driven systems.
+
+
 

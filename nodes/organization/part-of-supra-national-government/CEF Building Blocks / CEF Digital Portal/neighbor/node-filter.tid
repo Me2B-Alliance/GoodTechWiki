@@ -1,12 +1,12 @@
-created:1582720021478
-filter:[field:tmap.id[80451c2b-560a-433b-a3b8-6ea3adcfcc16]]
-map.base:80451c2b-560a-433b-a3b8-6ea3adcfcc16
+created:1582954316204
+filter:[field:tmap.id[1a5160e8-2519-4afe-99df-bc04f78e7d62]]
+map.base:1a5160e8-2519-4afe-99df-bc04f78e7d62
 map.role:node-filter
 map.type:neighbor
-modified:1582720021478
+modified:1582954316204
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CEF Building Blocks / CEF Digital Portal/filter/nodes
-tmap.id:0ffc4b0f-981f-4c16-900a-f2f50f978f37
+tmap.id:d284ab8e-2280-40c0-8ad6-de14cd15794f
 type:text/vnd.tiddlywiki
 
 No body provided

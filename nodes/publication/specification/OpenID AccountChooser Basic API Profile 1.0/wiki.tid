@@ -1,13 +1,13 @@
 audience:
 authors.editors:Pam Dingle;Tim Bray
-created:1582720003338
+created:1582954204506
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003338
+modified:1582954204506
 name:OpenID AccountChooser Basic API Profile 1.0
 publication.type:specification
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:OpenID AccountChooser Basic API Profile 1.0
-tmap.edges:{"4265f4eb-5ea1-4bb6-a3f6-8aa030eec985":{"to":"58e27121-48d7-426d-98a5-5a72332c34eb","type":"specification-of-group"}}
-tmap.id:8660b405-5b95-4541-b2c5-84d194a05ad1
+tmap.edges:{"838f42be-d5de-44cf-abda-7494c3c0e6f6":{"to":"15809002-1915-4f3f-a7f4-61f76d3fe45c","type":"specification-of-group"}}
+tmap.id:f5929a57-1c1f-4e58-9a10-614fe0c0aa80
 type:text/vnd.tiddlywiki
 url:http://openid.net/wordpress-content/uploads/2016/05/account-chooser-basic-v8.pdf
 version.or.edition:
@@ -30,4 +30,6 @@ AccountChooser is a facility where users can store basic identifying information
 This specification standardizes a simple JavaScript interface that can be offered by an AccountChooser, enabling Sites to embed AccountChooser functionality into login and signup pages, and allowing Sites to push new Account Records into the Chooser. By manipulating a JSON object passed as a javascript variable to an API maintained by the Chooser, Sites may interact with the Chooser without writing code.
 
 For developers wishing to build or deeply integrate with an AccountChooser programatically, or for a deeper understanding of hot and cold choosers, storage best practices and privacy recommendations, see the OpenID AccountChooser Developer Specification 1.0 document.
+
+
 

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003370
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003370
+modified:1582954204538
 org.name:NEC Laboratories Europe
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:NEC Laboratories Europe
-tmap.edges:{"0024c09d-a222-465e-b582-1d6743e614e9":{"to":"6e738b27-8269-4b20-a9d6-ab79ceec9544","type":"organization-for-group"},"e7f754bf-542f-4202-aac1-acdc50ee52b5":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:c17d54f8-8e58-43f8-b6d8-b8c836e18ae4
+tmap.edges:{"f86c0e82-35a9-496d-8e91-626a0bcc7685":{"to":"3a8955ab-ed3e-44dd-950d-796fd230a972","type":"organization-for-group"},"3947e0dd-3821-4820-b660-93b7047291dd":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:4a3de826-c57b-41f5-a9fc-b64427638dfc
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://uk.nec.com/en_gb/emea/about/neclab_eu/
@@ -36,4 +36,6 @@ website:http://uk.nec.com/en_gb/emea/about/neclab_eu/
 NEC Europe Ltd. established the NEC Laboratories Europe in 1994. Today, the laboratories are located in Heidelberg and Acton/London. Research and development functions are integrated into the same organization to shorten the time to market of cutting-edge ICT technologies. Special emphasis is placed on solutions meeting the needs of NEC’s European customers. NEC Laboratories Europe collaborates with NEC’s global research organizations in Japan, China, and the US, as well as with NEC’s business units.
 
 The laboratories focus on software-oriented research and development for the future internet. New communication architectures and protocols supporting multimedia and mobility over the Internet, together with intelligent internet services, security, privacy and cloud computing solutions addressing the convergence of information and communication technologies and markets, are the core of our work. A market research team continuously analyses market trends and market requirements to ensure that R&D activities address actual market needs.
+
+
 

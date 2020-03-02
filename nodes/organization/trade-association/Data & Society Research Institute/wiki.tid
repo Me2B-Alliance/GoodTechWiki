@@ -1,7 +1,7 @@
 activities:[[research]]
 annual.budget:
 audience:
-created:1582720003591
+created:1582954204767
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003591
+modified:1582954204767
 org.name:Data & Society Research Institute
 org.type:trade association
 parent.org:
@@ -28,11 +28,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Data & Society Research Institute
-tmap.edges:{"5252308a-7245-49b5-b13f-434f4369499d":{"to":"28cf7936-324a-41db-81b0-b2c632418b4b","type":"Organization Supports Project or Product"},"02e91145-0e1f-4411-9a06-f471f7a6d24f":{"to":"5679167d-2e39-4352-9b3e-8283e57c43ee","type":"Organization Supports Project or Product"},"1789de44-9de8-4d73-8d90-695ef59f61ff":{"to":"0a3d50a8-3a01-4fd2-a010-ad636d3817ac","type":"Organization Supports Project or Product"},"02fbadf7-0141-4f3a-9a16-a07478088451":{"to":"a575ebc6-9256-444e-808a-ad048bcb59bc","type":"Organization Supports Project or Product"},"fc87bed0-0612-4da1-82f8-008be9b6e790":{"to":"9f4ffea0-bd79-4c47-8e37-38529b7fa404","type":"Organization Supports Project or Product"},"bf9b931e-fc52-4116-bcb4-616448588ad1":{"to":"bcd83b90-2c5a-4c55-ba05-88518568566f","type":"Organization Supports Project or Product"},"f931fd83-919c-4dec-b912-61973b599e15":{"to":"e0127c0a-b24c-4b0c-87dc-dff6951f28c0","type":"Organization Supports Project or Product"},"82905e8d-815e-4bb5-826e-0ae5e6fe331d":{"to":"b2c23129-2b84-4bfb-bbce-18d36fdd824a","type":"Organization Supports Project or Product"},"7b7ae611-6bd8-4260-9672-a467074c9607":{"to":"46479357-bccc-4808-aa54-57da5ec19ddb","type":"Organization Supports Project or Product"},"4130bdec-f94d-4768-9100-d21c92e13f12":{"to":"3bfbca11-d5bb-4a05-85e3-24fbb5246519","type":"Organization Supports Project or Product"},"9fb0f93e-d97c-4ddf-98ab-0da0f3cf5e84":{"to":"1e02362b-441d-4d4b-b2db-0552d477e2f7","type":"Organization Supports Project or Product"},"42d7ad28-9a22-402f-803a-31f9ec66bd2a":{"to":"50ada2d3-ecee-4ad4-ae91-f9ea23032f06","type":"Organization Supports Project or Product"},"943ffca8-561d-4114-9bad-82ce9f59662e":{"to":"74b65580-afd2-4235-a690-4fc8df0c6cba","type":"Organization Supports Project or Product"},"b1086132-1f15-486d-88d1-2088827fd819":{"to":"7f5a6121-b5a0-4bca-b81d-1ee6c0212556","type":"Organization Supports Project or Product"},"8cda3d9e-1251-407e-8f90-944dc1a4df8a":{"to":"8e1139b6-0ab4-48c2-8fd4-25df8f739c15","type":"Organization Supports Project or Product"},"b8b6e626-80a0-447e-b2f4-e373833f8624":{"to":"ec2734f3-3c9c-4718-908b-beeaad995ff5","type":"Organization Supports Project or Product"},"2aae3fc7-334d-4e2d-921b-d09405dbb01b":{"to":"5a01bf93-8b4d-464f-9a41-8c3e10581892","type":"Organization Supports Project or Product"},"4a73a3a0-47f3-47e7-8a30-7e444084e0b2":{"to":"46479357-bccc-4808-aa54-57da5ec19ddb","type":"Organization Supports Project or Product"}}
-tmap.id:20db6dbb-8f7f-4318-998b-afd1626a3b3a
+tmap.edges:{"1c698d9c-683b-4f90-b375-ec1acbeb8ef0":{"to":"99cb49e6-88bd-4238-a6f9-aed7971157e1","type":"Organization Supports Project or Product"},"3b7514c8-f1e7-49f6-8d45-41d3781fb5bf":{"to":"26f6356a-6d8c-41a2-a44e-cca7c3dce37a","type":"Organization Supports Project or Product"},"21b14b89-db73-4ca3-a998-f1b21e779fe6":{"to":"7c3a9576-c119-4978-a9bc-2dca93466660","type":"Organization Supports Project or Product"},"083561f8-9e68-42c0-9d8a-c97a481eb897":{"to":"afb5fa65-05a1-4fbb-967c-aab198ffe8c6","type":"Organization Supports Project or Product"},"41191301-4439-4e67-ba22-410875ef99ff":{"to":"c45671c0-9d64-4169-95f6-d830aa3f6a10","type":"Organization Supports Project or Product"},"40d1bead-7638-49a8-8392-29633b08766f":{"to":"c4a08bb5-6ce3-493b-b35e-8491400efc75","type":"Organization Supports Project or Product"},"6c7bd478-1dc1-4327-b5cb-0a621dec4ce6":{"to":"8129a337-88e9-409a-a9db-8c694f088be1","type":"Organization Supports Project or Product"},"55c86dd1-996a-4454-ad12-f7fb3b8b498f":{"to":"753624f0-9025-4d2f-b103-096838cc64e3","type":"Organization Supports Project or Product"},"351418b0-26fd-44f8-8059-c1953a879611":{"to":"8df6d8fa-b81b-4514-bbe1-e5b0fe5b35ae","type":"Organization Supports Project or Product"},"eeb64434-9a5b-49e1-a288-c18f544d5372":{"to":"199952e0-abf4-4d3f-a467-7598f3ecbd20","type":"Organization Supports Project or Product"},"1002e680-d09b-40db-9785-b077cbffa954":{"to":"2f9b4fd1-cfb0-4fbf-b34e-6830da49e7b3","type":"Organization Supports Project or Product"},"b62ed662-f1c6-459e-aa8e-c250ff13417d":{"to":"1e6a2104-d41b-485d-a84d-801eb3327e91","type":"Organization Supports Project or Product"},"e8ce34a4-6ffc-46c0-96bc-71bcfec1591f":{"to":"41c9acfa-2caf-4b78-bd09-a6d1fdf8d9ef","type":"Organization Supports Project or Product"},"adbf67a2-7956-439e-9705-60673f56c25b":{"to":"b4f4abbc-08cc-4a8b-b761-b50b84b7f477","type":"Organization Supports Project or Product"},"d837c178-de4e-460a-87a1-87723a02e735":{"to":"f8883107-4201-43fc-b9d0-1ff8dc2d934a","type":"Organization Supports Project or Product"},"bfa07c24-82f7-4042-908a-1a3579843f4b":{"to":"a2812a4a-d618-4de1-9407-113944fa1b04","type":"Organization Supports Project or Product"},"6ac6fa5f-79da-46f1-8720-3694bc4d23df":{"to":"12c0dee7-4287-4b59-b7e7-61eb3f621e44","type":"Organization Supports Project or Product"},"5bceeeff-2f87-4fe7-9f31-4dfe0f9ce870":{"to":"8df6d8fa-b81b-4514-bbe1-e5b0fe5b35ae","type":"Organization Supports Project or Product"}}
+tmap.id:9c601ce4-0920-4a9c-8a15-35e1551eb085
 twitter.profile:https://twitter.com/datasociety
 type:text/vnd.tiddlywiki
 website:https://datasociety.net/
 
 Data & Society is an independent nonprofit research institute that advances public understanding of the social implications of data-centric technologies and automation.
+
+
 

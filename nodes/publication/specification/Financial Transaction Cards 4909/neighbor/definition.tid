@@ -1,17 +1,17 @@
-config.central-topic:185ec0ed-f8ac-4b5c-9cc9-174dd2801f08
+config.central-topic:5eed92ad-cd27-45a0-8d10-9864df3f1db0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021653
-id:acb2a429-983d-4b0e-93b8-7c2d239dae49
+created:1582954316344
+id:6f2038c4-4cd7-48bb-9ecf-9c348cb31835
 isview:false
-map.base:185ec0ed-f8ac-4b5c-9cc9-174dd2801f08
+map.base:5eed92ad-cd27-45a0-8d10-9864df3f1db0
 map.role:definition
 map.type:neighbor
-modified:1582720021653
+modified:1582954316344
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Financial Transaction Cards 4909
-tmap.id:acb2a429-983d-4b0e-93b8-7c2d239dae49
+tmap.id:6f2038c4-4cd7-48bb-9ecf-9c348cb31835
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Financial Transaction Cards 4909

@@ -1,17 +1,17 @@
-config.central-topic:ee9487c0-7b3a-4906-b6fd-0c21bef14f23
+config.central-topic:80069c3d-a802-4b9e-9c4f-7e7eb6eda7b3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021673
-id:a199327e-2879-4c0b-9885-065898435c78
+created:1582954316356
+id:64419254-8565-4a8b-a8cb-6e0dede2550f
 isview:false
-map.base:ee9487c0-7b3a-4906-b6fd-0c21bef14f23
+map.base:80069c3d-a802-4b9e-9c4f-7e7eb6eda7b3
 map.role:definition
 map.type:neighbor
-modified:1582720021673
+modified:1582954316356
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Attribution 4.0 International (CC BY 4.0)
-tmap.id:a199327e-2879-4c0b-9885-065898435c78
+tmap.id:64419254-8565-4a8b-a8cb-6e0dede2550f
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Attribution 4.0 International (CC BY 4.0)

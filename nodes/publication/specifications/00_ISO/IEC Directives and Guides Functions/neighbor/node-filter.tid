@@ -1,12 +1,12 @@
-created:1582720021664
-filter:[field:tmap.id[d9beccfb-25b5-471b-a7cf-f69dd804ad41]]
-map.base:d9beccfb-25b5-471b-a7cf-f69dd804ad41
+created:1582954316351
+filter:[field:tmap.id[bc6db09c-709f-4fe0-bdde-4e7d619c9998]]
+map.base:bc6db09c-709f-4fe0-bdde-4e7d619c9998
 map.role:node-filter
 map.type:neighbor
-modified:1582720021664
+modified:1582954316351
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/00_ISO/IEC Directives and Guides Functions/filter/nodes
-tmap.id:7d609083-60bc-4b6b-8578-8a3a79c174ef
+tmap.id:d6947493-ae82-453e-a977-4c93c17700f2
 type:text/vnd.tiddlywiki
 
 No body provided

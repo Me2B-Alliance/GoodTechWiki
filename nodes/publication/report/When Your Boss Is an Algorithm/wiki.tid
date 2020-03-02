@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alex rosenblat]]
-created:1582720003602
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003602
+modified:1582954204778
 name:When Your Boss Is an Algorithm
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[social instabilities in labor futures]] [[mapping inequalities across the on-demand economy]]
+tags:[[social instabilities in labor futures (tag)]] [[mapping inequalities across the on-demand economy (tag)]]
 tech.focus:
 tiddler.classification:node
 title:When Your Boss Is an Algorithm
 tmap.edges:{}
-tmap.id:f76bfa3e-ea6d-4d5e-8b3e-e32b6d65e228
+tmap.id:374e0578-4753-4920-86e2-53c4cbcbdf48
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/when-your-boss-is-an-algorithm/
 version.or.edition:
@@ -29,4 +29,6 @@ working.group:
 Building off the research for her book Uberland: How Algorithms are Rewriting the Rules of Work, Data & Society Researcher Alex Rosenblat explains algorithmic management in the gig-economy.
 
     “Data and algorithms are presented as objective, neutral, even benevolent: Algorithms gave us super-convenient food delivery services and personalized movie recommendations. But Uber and other ride-hailing apps have taken the way Silicon Valley uses algorithms and applied it to work, and that’s not always a good thing.”
+
+
 

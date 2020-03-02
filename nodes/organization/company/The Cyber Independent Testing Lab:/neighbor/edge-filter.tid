@@ -1,12 +1,12 @@
-created:1582720021453
+created:1582954316184
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:0dfa8e42-7156-401f-8b7a-c13cd1748c5d
+map.base:fdc27622-ceca-4aea-b9b5-7d83b838a6f8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021453
+modified:1582954316184
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Cyber Independent Testing Lab:/filter/edges
-tmap.id:36fac7c1-687d-4967-905d-5ff2e8c572dd
+tmap.id:13db9ab0-5979-48fe-8e80-dd9a8ad48960
 type:text/vnd.tiddlywiki
 
 No body provided

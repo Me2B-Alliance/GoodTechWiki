@@ -1,17 +1,17 @@
-config.central-topic:0ef243ef-f805-4314-a98b-2405d54c92bc
+config.central-topic:324e5834-22cf-4048-8999-d8683efeba7a
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021705
-id:9647d5d0-961c-427b-b0cc-82e19c390039
+created:1582954316385
+id:7624b613-2a1b-413f-8f21-dafca7d5f6dd
 isview:false
-map.base:0ef243ef-f805-4314-a98b-2405d54c92bc
+map.base:324e5834-22cf-4048-8999-d8683efeba7a
 map.role:definition
 map.type:neighbor
-modified:1582720021705
+modified:1582954316385
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/eDocuments
-tmap.id:9647d5d0-961c-427b-b0cc-82e19c390039
+tmap.id:7624b613-2a1b-413f-8f21-dafca7d5f6dd
 type:text/vnd.tiddlywiki
 
 Neighbor Map of eDocuments

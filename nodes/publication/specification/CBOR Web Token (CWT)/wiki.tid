@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003343
+created:1582954204510
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003343
+modified:1582954204510
 name:CBOR Web Token (CWT)
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CBOR Web Token (CWT)
-tmap.edges:{"d43911a8-6ab6-4880-bec5-7ae121b79369":{"to":"2f5c0f09-b6f7-46ff-8c3a-b30a417b5707","type":"organization-for-group"}}
-tmap.id:2bbaaf4c-4013-412f-900e-f31505c2e015
+tmap.edges:{"da10070d-cb09-41ad-a069-fe2dcab156ef":{"to":"232c610d-2e3b-48d6-8e8c-f0109159238d","type":"organization-for-group"}}
+tmap.id:47d5072e-9309-4c06-8943-201a80be7682
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

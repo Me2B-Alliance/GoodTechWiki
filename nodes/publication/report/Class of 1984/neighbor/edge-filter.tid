@@ -1,12 +1,12 @@
-created:1582720021613
+created:1582954316310
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:340265ca-8492-4ba3-9f56-c0d1212b2a77
+map.base:f98118af-8ab1-46c7-a0ff-422753eabf9f
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021613
+modified:1582954316310
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Class of 1984/filter/edges
-tmap.id:620f91c8-a3c2-44f3-82bc-87f8af33fc52
+tmap.id:05126cdc-e84b-4266-acd6-815c3e1c80f6
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003364
+created:1582954204531
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003364
+modified:1582954204531
 org.name:eHealth Digital Service Infrastructure
 org.type:part of supra-national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:eHealth Digital Service Infrastructure
-tmap.edges:{"dd1b0245-475f-4f29-a0be-33989bb1eb86":{"to":"1bf553b1-50ec-40aa-afc0-9beb3b8ffa9b","type":"government-connection"}}
-tmap.id:864b5453-5a78-42c9-b97b-27d266dc1b29
+tmap.edges:{"cea5aba7-4f80-4b91-a961-dded573f85b3":{"to":"db728214-6d97-4097-8e87-9f813e3c56d3","type":"government-connection"}}
+tmap.id:33d525d2-1278-4a44-862d-53a27a4b5853
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204514
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204514
 name:U.S. Passport Verification Services (USPVS)
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:U.S. Passport Verification Services (USPVS)
-tmap.edges:{"df28da76-cfd5-4b59-b62d-157dc25b3b8b":{"to":"e626d51c-ad16-4886-b383-14b69013ed5c","type":"organization-for-group"}}
-tmap.id:04adc9b5-b8ea-4320-9ab7-44f823bf3619
+tmap.edges:{"8f41b23e-cba9-4906-ae71-309503b83449":{"to":"7b94dd7a-aab1-4e7c-a186-e837b00ff809","type":"organization-for-group"}}
+tmap.id:7152ee4f-e713-4da9-b57c-8d60fdc49c7a
 type:text/vnd.tiddlywiki
 url:http://www.aamva.org/us-passport-verification-services/
 version.or.edition:
 working.group:
+
+
 
 
 

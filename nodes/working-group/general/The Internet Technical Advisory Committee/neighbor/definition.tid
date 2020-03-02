@@ -1,17 +1,17 @@
-config.central-topic:b075da9e-75ca-4256-9c93-708599bc2222
+config.central-topic:8706c8a4-3475-47ee-880b-00b2160f8683
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021693
-id:8cee24b6-3c2a-4bb1-acd4-ce5aa98e6127
+created:1582954316375
+id:a2904572-ca68-4299-8438-949d6097aa50
 isview:false
-map.base:b075da9e-75ca-4256-9c93-708599bc2222
+map.base:8706c8a4-3475-47ee-880b-00b2160f8683
 map.role:definition
 map.type:neighbor
-modified:1582720021693
+modified:1582954316375
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Internet Technical Advisory Committee
-tmap.id:8cee24b6-3c2a-4bb1-acd4-ce5aa98e6127
+tmap.id:a2904572-ca68-4299-8438-949d6097aa50
 type:text/vnd.tiddlywiki
 
 Neighbor Map of The Internet Technical Advisory Committee

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204515
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204515
 name:Electronic Verification of Vital Events (EVVE)
 parent.org:
 partners:
@@ -22,8 +22,8 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:Electronic Verification of Vital Events (EVVE)
-tmap.edges:{"1cb81bea-3792-495e-be87-74f259d811a7":{"to":"476391fc-82fa-4df7-8af2-0229fd537835","type":"organization-for-group"}}
-tmap.id:ec40f8e6-6275-49fb-a8ec-68b9166ecb2a
+tmap.edges:{"497cd81c-e6a9-4a79-95b5-905bc6788a80":{"to":"8317ae44-c3cd-4b4d-a349-324de744fca2","type":"organization-for-group"}}
+tmap.id:b98277cb-40f7-4680-b4b2-dc1e7b6200a0
 type:text/vnd.tiddlywiki
 url:http://www.naphsis.org/about-evve
 version.or.edition:
@@ -45,4 +45,6 @@ Many state and federal agencies actively utilize EVVE to improve business operat
 * Army National Guard
 * Regional FBI Offices
 * Secretary of State Offices
+
+
 

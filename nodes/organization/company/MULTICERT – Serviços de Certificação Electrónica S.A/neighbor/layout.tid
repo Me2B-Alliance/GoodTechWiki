@@ -1,11 +1,16 @@
-created:1582720021442
-map.base:b9610c9a-3439-4ad8-8dd5-31cd815b1084
-map.role:layout
-map.type:neighbor
-modified:1582720021442
-tiddler.classification:map
-title:$:/plugins/felixhayashi/tiddlymap/graph/views/MULTICERT – Serviços de Certificação Electrónica S.A/map
-tmap.id:62435dec-d022-45a1-bec0-5b5a744420f6
-type:text/vnd.tiddlywiki
+created: 15891213161709000
+map.base: 5058362e-9e0e-4dc0-83da-840142b022a3
+map.role: layout
+map.type: neighbor
+modified: 20200229071538640
+tiddler.classification: map
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/MULTICERT – Serviços de Certificação Electrónica S.A/map
+tmap.id: c09b5ed2-d1b5-435a-b8a2-e81b540cf739
+type: text/vnd.tiddlywiki
 
-{}
+{
+ "5058362e-9e0e-4dc0-83da-840142b022a3": {
+  "x": -9,
+  "y": -8
+ }
+}

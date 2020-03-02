@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003337
+created:1582954204504
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003337
+modified:1582954204504
 org.name:European Union
 org.type:supra national government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:European Union
-tmap.edges:{"803a51ec-7cad-4ae8-b89b-ad78eab283ab":{"to":"90c38665-78e8-438e-9023-7a25079b32a4","type":"connection"}}
-tmap.id:311dfdcd-72bd-4e76-8579-c6e8e6c03231
+tmap.edges:{"11c45b43-620e-4569-a0f0-c0f90f7898e7":{"to":"559c7157-8718-4062-9f97-e0b049964418","type":"connection"}}
+tmap.id:62f2039d-e667-4e1b-8e28-e46d4f742801
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

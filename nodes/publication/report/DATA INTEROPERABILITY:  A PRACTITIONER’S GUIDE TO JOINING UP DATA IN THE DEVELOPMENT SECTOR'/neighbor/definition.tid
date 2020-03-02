@@ -1,17 +1,17 @@
-config.central-topic:18707d07-fdd9-4e60-b4f2-584451be5bd2
+config.central-topic:17a67871-5092-4eaf-a770-d1141a2cc919
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021614
-id:c2392ab6-3879-4c39-acb0-8d8ecbe3aa4b
+created:1582954316311
+id:37417a4f-9310-4fee-bb5b-2d23fae3c350
 isview:false
-map.base:18707d07-fdd9-4e60-b4f2-584451be5bd2
+map.base:17a67871-5092-4eaf-a770-d1141a2cc919
 map.role:definition
 map.type:neighbor
-modified:1582720021614
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DATA INTEROPERABILITY:  A PRACTITIONER’S GUIDE TO JOINING UP DATA IN THE DEVELOPMENT SECTOR'
-tmap.id:c2392ab6-3879-4c39-acb0-8d8ecbe3aa4b
+tmap.id:37417a4f-9310-4fee-bb5b-2d23fae3c350
 type:text/vnd.tiddlywiki
 
 Neighbor Map of DATA INTEROPERABILITY:  A PRACTITIONER’S GUIDE TO JOINING UP DATA IN THE DEVELOPMENT SECTOR'

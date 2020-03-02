@@ -1,12 +1,12 @@
-created:1582720021606
-filter:[field:tmap.id[8a764d39-cf6c-4080-8cfc-7df076e4474f]]
-map.base:8a764d39-cf6c-4080-8cfc-7df076e4474f
+created:1582954316305
+filter:[field:tmap.id[d436b532-0342-4c7f-b0da-8188f29f76f5]]
+map.base:d436b532-0342-4c7f-b0da-8188f29f76f5
 map.role:node-filter
 map.type:neighbor
-modified:1582720021606
+modified:1582954316305
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Which Apps have Privacy Policies?/filter/nodes
-tmap.id:6a5ac88d-28c7-46cb-b012-27f4b1e28b98
+tmap.id:94a245e0-29c0-4489-b5de-7572a82c02b5
 type:text/vnd.tiddlywiki
 
 No body provided

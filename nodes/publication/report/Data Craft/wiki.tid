@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[amelia acker]]
-created:1582720003601
+created:1582954204778
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,18 +8,18 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003601
+modified:1582954204778
 name:Data Craft
 publication.type:report
 purpose:
 sector:
 sponsoring.org:
-tags:[[media manipulation]]
+tags:[[media manipulation (tag)]]
 tech.focus:
 tiddler.classification:node
 title:Data Craft
 tmap.edges:{}
-tmap.id:b3779240-c510-42be-8b62-729edc654184
+tmap.id:93d6a02b-b389-433a-93e9-240bd28cb66c
 type:text/vnd.tiddlywiki
 url:https://datasociety.net/output/data-craft/
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Data Craft analyzes how bad actors manipulate metadata to create effective disinformation campaigns and provides tips for researchers and technology companies trying to spot this “data craft.”
+
+
 

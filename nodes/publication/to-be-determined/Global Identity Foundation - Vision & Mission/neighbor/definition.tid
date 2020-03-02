@@ -1,17 +1,17 @@
-config.central-topic:3b5ab814-1804-4f3b-b89e-e042870a1c1d
+config.central-topic:7c16cbe1-4c23-4a87-98b9-e850825cbf10
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021678
-id:3f7fa522-4cda-4436-979f-7ffd5d13e4a9
+created:1582954316360
+id:ede36c0b-d12f-4b4c-a610-9b83b4aa5f02
 isview:false
-map.base:3b5ab814-1804-4f3b-b89e-e042870a1c1d
+map.base:7c16cbe1-4c23-4a87-98b9-e850825cbf10
 map.role:definition
 map.type:neighbor
-modified:1582720021678
+modified:1582954316360
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Global Identity Foundation - Vision & Mission
-tmap.id:3f7fa522-4cda-4436-979f-7ffd5d13e4a9
+tmap.id:ede36c0b-d12f-4b4c-a610-9b83b4aa5f02
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Global Identity Foundation - Vision & Mission

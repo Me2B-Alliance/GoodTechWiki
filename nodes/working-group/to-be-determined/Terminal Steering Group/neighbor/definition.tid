@@ -1,17 +1,17 @@
-config.central-topic:96f86bb8-e447-45ee-a45c-5f7cded7f67a
+config.central-topic:1c21bc7a-5884-4fee-979c-33448e9987d3
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021708
-id:18fd4e92-7003-4d34-b6d8-8c7044ddcba6
+created:1582954316387
+id:734ce53a-74b4-44fe-9e1f-8642955bab9d
 isview:false
-map.base:96f86bb8-e447-45ee-a45c-5f7cded7f67a
+map.base:1c21bc7a-5884-4fee-979c-33448e9987d3
 map.role:definition
 map.type:neighbor
-modified:1582720021708
+modified:1582954316387
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Terminal Steering Group
-tmap.id:18fd4e92-7003-4d34-b6d8-8c7044ddcba6
+tmap.id:734ce53a-74b4-44fe-9e1f-8642955bab9d
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Terminal Steering Group

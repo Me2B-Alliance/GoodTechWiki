@@ -1,6 +1,6 @@
 activities:
-category:specification work
-created:1582720003329
+category:[[specification work]]
+created:1582954204496
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003329
+modified:1582954204496
 name:Communication Group AHG1
 parent.org:ISO/TC 292 Security and Resilience
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Communication Group AHG1
-tmap.edges:{"2f7dae53-cc68-41c7-8006-92d549924eed":{"to":"dfdf459c-ac87-4fb0-896a-cba3eb11485a","type":"organization-for-group"}}
-tmap.id:34c84fc1-5e6f-4b0f-9713-e553ae45127b
+tmap.edges:{"c94e2fef-9009-4f5a-b699-d57acaa5e722":{"to":"5f65f930-ca55-41c4-99b9-fe751f6fa50f","type":"organization-for-group"}}
+tmap.id:adf9af27-573a-40a2-be63-a9efa0ca4133
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

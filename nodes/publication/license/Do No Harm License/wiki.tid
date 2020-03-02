@@ -1,6 +1,6 @@
 audience:
 authors.editors:
-created:1582720003600
+created:1582954204776
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:https://github.com/raisely/NoHarm
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003600
+modified:1582954204776
 name:Do No Harm License
 publication.type:license
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Do No Harm License
 tmap.edges:{}
-tmap.id:e06b0938-18b1-4a88-951b-65103331451b
+tmap.id:0d9b827a-7db0-4c2b-ab77-4cb5ab36e50c
 type:text/vnd.tiddlywiki
 url:https://github.com/raisely/NoHarm
 version.or.edition:
@@ -35,4 +35,6 @@ As developers we can no longer close our eyes to the fact that open source code 
 The Do No Harm License is for developers that agree in general with the principles of open source software, but are uncomfortable with their software being used as part of efforts to destroy lives, our environment and our future.
 
 In short, developers who use this license want their code to contribute to a just world for all.
+
+
 

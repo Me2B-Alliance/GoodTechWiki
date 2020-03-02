@@ -1,12 +1,12 @@
-created:1582720021662
-filter:[field:tmap.id[1f871d78-ce5b-4618-babf-36c260b10306]]
-map.base:1f871d78-ce5b-4618-babf-36c260b10306
+created:1582954316350
+filter:[field:tmap.id[9ac9d0bb-92a5-4399-a629-8e2307b71ec7]]
+map.base:9ac9d0bb-92a5-4399-a629-8e2307b71ec7
 map.role:node-filter
 map.type:neighbor
-modified:1582720021662
+modified:1582954316350
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/The Verifiable Claims Task Force/filter/nodes
-tmap.id:58cf7f4a-4177-4ccf-b7f9-c070cee971a7
+tmap.id:54bb0e1c-f507-49cd-a927-64bdbc8ea654
 type:text/vnd.tiddlywiki
 
 No body provided

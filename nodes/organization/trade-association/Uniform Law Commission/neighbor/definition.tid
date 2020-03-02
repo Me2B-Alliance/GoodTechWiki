@@ -1,17 +1,17 @@
-config.central-topic:405825ee-fcce-4511-8186-1ff035eb6558
+config.central-topic:c1f31534-5d9c-441a-be3d-56d5e235184d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021526
-id:9c16d34f-3e6b-4b06-97e4-bf8eca6e5ef6
+created:1582954316232
+id:bc5b6ef0-5d70-4cf5-9f83-3ecab1fa9a51
 isview:false
-map.base:405825ee-fcce-4511-8186-1ff035eb6558
+map.base:c1f31534-5d9c-441a-be3d-56d5e235184d
 map.role:definition
 map.type:neighbor
-modified:1582720021526
+modified:1582954316232
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Uniform Law Commission
-tmap.id:9c16d34f-3e6b-4b06-97e4-bf8eca6e5ef6
+tmap.id:bc5b6ef0-5d70-4cf5-9f83-3ecab1fa9a51
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Uniform Law Commission

@@ -1,12 +1,12 @@
-created:1582720021635
+created:1582954316327
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:53596dbe-4f85-4f11-9cc9-126976ba990c
+map.base:0156d35b-85dd-4cab-b80b-d41b57ba7892
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021635
+modified:1582954316327
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Privacy Impact Assessment (PIA) : application to connected objects/filter/edges
-tmap.id:3ab69f54-b6d6-42a9-a6d1-7bbb7d9b1727
+tmap.id:cea14b8c-a1fb-4fef-b854-b96e9a4495ea
 type:text/vnd.tiddlywiki
 
 No body provided

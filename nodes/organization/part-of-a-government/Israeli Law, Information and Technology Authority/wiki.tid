@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003368
+created:1582954204536
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003368
+modified:1582954204536
 org.name:Israeli Law, Information and Technology Authority
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Israeli Law, Information and Technology Authority
-tmap.edges:{"801df7da-89da-48f6-9820-60b5d4084387":{"to":"bce2654b-1694-43de-bdda-82bf20067926","type":"convenor"}}
-tmap.id:ea24e0e3-ccb0-4d0b-972e-1e1427ef9c8e
+tmap.edges:{"b85e7a69-5651-4f49-a029-8050fd70b59e":{"to":"d8d91b74-958f-46a4-9295-617dd7c1f643","type":"convenor"}}
+tmap.id:525cac72-9496-4d21-a729-b739163c8648
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

@@ -1,7 +1,7 @@
 activities:
 audience:
-category:[[service]] [[software product (application)]]
-created:1582720003597
+category:[[software product (application)]] [[service]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:
-modified:1582720003597
+modified:1582954204773
 name:Rvoke
 parent.org:ATAM ID
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Rvoke
 tmap.edges:{}
-tmap.id:6b1ed83f-899f-4545-8a1a-8c1b0abf124c
+tmap.id:dd185257-574e-4352-9777-72f39d139598
 type:text/vnd.tiddlywiki
 url:https://rvoke.com/
 version.or.edition:
@@ -43,4 +43,6 @@ We wanted to do something about it, so we created Rvoke, giving you the power to
 We also wanted to help organisations, many of whom do not have the capability or capacity to efficiently and accurately identify subjects, nor to respond to subject access requests.
 
 By integrating with Rvoke, organisations can fully automate any request, speeding up the process and providing consumers with their data whenever they might request it.
+
+
 

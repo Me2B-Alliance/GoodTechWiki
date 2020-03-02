@@ -1,17 +1,17 @@
-config.central-topic:45417ec6-d207-4644-b477-35dabc4217bd
+config.central-topic:ee38a9ab-a4f2-4f6f-8410-8a7bed4d56d1
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021558
-id:82d4651b-81b8-40ac-9cac-608982392cb4
+created:1582954316265
+id:da83d4e2-3b46-41c3-83d6-3f2165b08acc
 isview:false
-map.base:45417ec6-d207-4644-b477-35dabc4217bd
+map.base:ee38a9ab-a4f2-4f6f-8410-8a7bed4d56d1
 map.role:definition
 map.type:neighbor
-modified:1582720021558
+modified:1582954316265
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TrustArc GDPR Validation
-tmap.id:82d4651b-81b8-40ac-9cac-608982392cb4
+tmap.id:da83d4e2-3b46-41c3-83d6-3f2165b08acc
 type:text/vnd.tiddlywiki
 
 Neighbor Map of TrustArc GDPR Validation

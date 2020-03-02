@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204537
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204537
 org.name:Privacy Commissioner of Canada (Commissariat à la protection de la vie privée du Canada)
 org.type:part of a government
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Privacy Commissioner of Canada (Commissariat à la protection de la vie privée du Canada)
-tmap.edges:{"f033dd21-926f-4deb-859c-5d16603cc070":{"to":"613d5606-af22-4a50-aee4-106c14b15fc6","type":"government-connection"},"59456562-b056-4218-ae8a-3e7b6c892151":{"to":"3dd53ef1-9f49-46df-bbbe-c66f2706c2c2","type":"general-member"}}
-tmap.id:932570ed-786f-4846-a169-bb5b6b5e3f8c
+tmap.edges:{"25371251-4148-43c2-9c4b-5a49c3c41a51":{"to":"3e282531-bd45-4b46-adfb-21f20aea2526","type":"government-connection"},"72366a9e-7463-4458-b0a8-95fad7fb2177":{"to":"4d0d3601-80e2-4f21-b9f6-a7997aaa067c","type":"general-member"}}
+tmap.id:c8c80709-d12c-4ed6-b0a4-895a1aaf0439
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.priv.gc.ca/index_e.asp
@@ -40,4 +40,6 @@ The Commissioner is an advocate for the privacy rights of Canadians and his powe
 * Publicly reporting on the personal information-handling practices of public and private sector organizations;
 * Supporting, undertaking and publishing research into privacy issues; and
 * Promoting public awareness and understanding of privacy issues.
+
+
 

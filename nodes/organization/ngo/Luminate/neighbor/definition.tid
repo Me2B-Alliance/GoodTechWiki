@@ -1,17 +1,17 @@
-config.central-topic:bf8ede04-9db8-4e24-9e33-7c29a9225baa
+config.central-topic:bfd03973-f2ce-4fbb-a5f6-5e11fc924ca7
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021466
-id:87e95b96-3b99-46c4-9a31-283b91ec6f21
+created:1582954316193
+id:6aee52b8-8ea1-419e-b45b-578d417f7a73
 isview:false
-map.base:bf8ede04-9db8-4e24-9e33-7c29a9225baa
+map.base:bfd03973-f2ce-4fbb-a5f6-5e11fc924ca7
 map.role:definition
 map.type:neighbor
-modified:1582720021466
+modified:1582954316193
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Luminate
-tmap.id:87e95b96-3b99-46c4-9a31-283b91ec6f21
+tmap.id:6aee52b8-8ea1-419e-b45b-578d417f7a73
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Luminate

@@ -1,17 +1,17 @@
-config.central-topic:a3958744-51ce-45da-85f7-0168532d49f9
+config.central-topic:71264201-fed6-41d5-80e9-0ffbfaaffb34
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021440
-id:224b51aa-13dc-46d1-804d-6d73a3b22e76
+created:1582954316178
+id:012a8cf1-1558-4045-a6e7-90e4ce67401b
 isview:false
-map.base:a3958744-51ce-45da-85f7-0168532d49f9
+map.base:71264201-fed6-41d5-80e9-0ffbfaaffb34
 map.role:definition
 map.type:neighbor
-modified:1582720021440
+modified:1582954316178
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IBM
-tmap.id:224b51aa-13dc-46d1-804d-6d73a3b22e76
+tmap.id:012a8cf1-1558-4045-a6e7-90e4ce67401b
 type:text/vnd.tiddlywiki
 
 Neighbor Map of IBM

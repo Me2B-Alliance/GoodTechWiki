@@ -1,7 +1,7 @@
 activities:
 audience:
-category:research
-created:1582720003350
+category:[[research]]
+created:1582954204517
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003350
+modified:1582954204517
 name:ELSA
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:ELSA
-tmap.edges:{"65e61e5e-5c89-45aa-b465-7a4780892624":{"to":"0dcd375e-c299-4335-b3ff-f2226b925a8a","type":"connection"},"c43045a7-6b66-47fa-ab36-ebdbb1121850":{"to":"bf4aaceb-b4e3-47a8-92ce-cf30621a3291","type":"connection"},"ceecfb4e-9249-43bb-af1a-8e0fc1ddd415":{"to":"45019ade-54f0-4643-99fd-f173c746d7c0","type":"connection"},"80bcd92d-28ca-486d-9fca-5b9710e3ae59":{"to":"b33e970d-0136-4955-b51e-489e83f7e264","type":"connection"}}
-tmap.id:6d5d2c29-7d79-47ae-b1a5-c0dcb0bf523d
+tmap.edges:{"b71d5fe4-3de8-495c-8ace-476c7297d87b":{"to":"925e1a11-7618-419f-afed-25cd7df9aa71","type":"connection"},"61acd066-11dd-4030-ba59-9c48b73b43be":{"to":"cfc93913-16d0-411b-8fc1-1eb822b79360","type":"connection"},"1601463c-8957-437d-ad20-bac0752844ac":{"to":"b30f8d45-33b8-4d07-82a0-83c01e6fc654","type":"connection"},"1cd0789b-6792-468c-a71f-e30f5a69303d":{"to":"10c403d6-6a00-4438-aee2-aedb09801ffe","type":"connection"}}
+tmap.id:af7714aa-f9dd-4041-bde5-7237f0e162b8
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 working.group:
+
+
 
 
 

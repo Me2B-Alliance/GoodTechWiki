@@ -1,17 +1,17 @@
-config.central-topic:f6fa7159-9182-48c5-859e-aafaed88e239
+config.central-topic:a47b37bd-aae8-43d6-80ea-6c27d622c6b5
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021604
-id:da3466c7-4b4d-47e9-9b7c-c4a5bd16adbf
+created:1582954316303
+id:46a8df52-1480-4345-a1aa-f24a6c4d8b40
 isview:false
-map.base:f6fa7159-9182-48c5-859e-aafaed88e239
+map.base:a47b37bd-aae8-43d6-80ea-6c27d622c6b5
 map.role:definition
 map.type:neighbor
-modified:1582720021604
+modified:1582954316303
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Towards Automatic Classification of Privacy Policy Text
-tmap.id:da3466c7-4b4d-47e9-9b7c-c4a5bd16adbf
+tmap.id:46a8df52-1480-4345-a1aa-f24a6c4d8b40
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Towards Automatic Classification of Privacy Policy Text

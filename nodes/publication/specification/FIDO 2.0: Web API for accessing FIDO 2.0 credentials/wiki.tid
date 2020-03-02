@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003347
+created:1582954204512
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003347
+modified:1582954204512
 name:FIDO 2.0: Web API for accessing FIDO 2.0 credentials
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:FIDO 2.0: Web API for accessing FIDO 2.0 credentials
-tmap.edges:{"424e9e11-40c4-4e26-9346-d9527f5c6766":{"to":"34df587c-8867-42d0-a1d2-80c3a5b0427d","type":"organization-for-group"},"444a514f-a76e-4698-87e5-66479855ad0e":{"to":"e062a5a7-322b-45a5-ba54-2fa66e64c7ac","type":"organization-for-group"}}
-tmap.id:de60ab00-2de6-4a70-adef-91d3999d8169
+tmap.edges:{"7d1d6834-66f0-44f4-a025-692eb5f547a7":{"to":"1b2520c7-cc32-4b74-a0ef-c8c6df905904","type":"organization-for-group"},"18574409-9601-4ec0-a677-dc7b75113fe6":{"to":"39a7440f-080c-4ef2-9576-0b28536cc72f","type":"organization-for-group"}}
+tmap.id:91b198df-fdba-490e-8121-176353ea581f
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

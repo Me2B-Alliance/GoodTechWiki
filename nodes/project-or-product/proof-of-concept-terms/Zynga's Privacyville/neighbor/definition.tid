@@ -1,17 +1,17 @@
-config.central-topic:bfba345e-3ed4-4fe8-9e3a-e4161aaacfaf
+config.central-topic:e4f2182a-62a4-4472-9146-7acb6f997bfc
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021568
-id:200093fa-0ac3-46ee-a2ac-5b9284f1395d
+created:1582954316253
+id:5112a184-0c9c-4862-b643-1dc4e3567f90
 isview:false
-map.base:bfba345e-3ed4-4fe8-9e3a-e4161aaacfaf
+map.base:e4f2182a-62a4-4472-9146-7acb6f997bfc
 map.role:definition
 map.type:neighbor
-modified:1582720021568
+modified:1582954316253
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Zynga's Privacyville
-tmap.id:200093fa-0ac3-46ee-a2ac-5b9284f1395d
+tmap.id:5112a184-0c9c-4862-b643-1dc4e3567f90
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Zynga's Privacyville

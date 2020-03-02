@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Omidyar Network
 org.type:to-be-determined
 parent.org:
@@ -28,8 +28,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Omidyar Network
-tmap.edges:{"0848de25-d140-4ddc-85e2-3962ced49866":{"to":"f2ff1dc2-9d47-43e9-88ec-fb8f2ea9c03a","type":"Sponsors"}}
-tmap.id:3e95eddc-a671-4d41-8030-407abdb28e7d
+tmap.edges:{"983a28ed-6ae2-4a6a-a492-f6138b9885bb":{"to":"c267c0b8-1de2-406d-a4a9-e512343fcf45","type":"Sponsors"}}
+tmap.id:eb6f1873-3638-4425-86f7-91308e1f216f
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://www.omidyar.com/
@@ -43,4 +43,6 @@ We’re a global network of innovators, entrepreneurs, technologists, advocates,
     We believe that markets and technology can be forces for good but only as part of a broader social contract.
 
 We articulate strong, forward-looking points of view. We have a bias for innovation and action, but are willing to experiment, fail, and learn. We leverage the transformative power of people, markets, ideas, and technology.  We deploy our proven flexible capital model and whatever tools are needed to accelerate the solutions equal to the scale of today’s challenges.
+
+
 

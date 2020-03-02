@@ -1,0 +1,17 @@
+config.central-topic:836fc8b2-60d6-40b1-b907-adf9a11325b9
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316167
+id:2da760b2-7575-41bf-a723-0877355372ce
+isview:false
+map.base:836fc8b2-60d6-40b1-b907-adf9a11325b9
+map.role:definition
+map.type:neighbor
+modified:1582954316167
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/836fc8b2-60d6-40b1-b907-adf9a11325b9
+tmap.id:2da760b2-7575-41bf-a723-0877355372ce
+type:text/vnd.tiddlywiki
+
+Neighbor Map of 836fc8b2-60d6-40b1-b907-adf9a11325b9

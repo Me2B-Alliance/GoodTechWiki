@@ -1,17 +1,17 @@
-config.central-topic:bf21c5c7-2d16-471a-9a0f-22f6f4fb3d36
+config.central-topic:86d41575-8411-4bd2-be89-540e9c01d0bf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021669
-id:aaa1f613-46ee-4b25-a6a8-9938d27696b2
+created:1582954316353
+id:c2026e65-12cd-475f-bbd1-737e48f45fc7
 isview:false
-map.base:bf21c5c7-2d16-471a-9a0f-22f6f4fb3d36
+map.base:86d41575-8411-4bd2-be89-540e9c01d0bf
 map.role:definition
 map.type:neighbor
-modified:1582720021669
+modified:1582954316353
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISO_IEC_Guide_17_2016(E)
-tmap.id:aaa1f613-46ee-4b25-a6a8-9938d27696b2
+tmap.id:c2026e65-12cd-475f-bbd1-737e48f45fc7
 type:text/vnd.tiddlywiki
 
 Neighbor Map of ISO_IEC_Guide_17_2016(E)

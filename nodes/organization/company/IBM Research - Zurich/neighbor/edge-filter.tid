@@ -1,12 +1,12 @@
-created:1582720021440
+created:1582954316179
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:f12f5e5f-d9e6-4bf6-98e1-234b1df662c1
+map.base:f3a96721-9d91-431c-bcc2-5054cc9944b8
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021440
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/IBM Research - Zurich/filter/edges
-tmap.id:cdfad3d2-108c-4d3b-afed-9d499e083863
+tmap.id:acea3344-7bc2-492a-8470-f46453c956f7
 type:text/vnd.tiddlywiki
 
 No body provided

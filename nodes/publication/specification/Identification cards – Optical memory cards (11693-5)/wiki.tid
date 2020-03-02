@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003338
+created:1582954204506
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003338
+modified:1582954204506
 name:Identification cards – Optical memory cards (11693-5)
 publication.type:specification
 purpose:
@@ -17,13 +17,15 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Identification cards – Optical memory cards (11693-5)
-tmap.edges:{"2174d405-8d16-4d28-b80f-5567dec45b46":{"to":"5edf8d2d-b2d8-4f67-9641-41aea66240da","type":"specification-of-group"}}
-tmap.id:ad8ea8e1-02a1-493e-8340-57b5d040a449
+tmap.edges:{"5a28421f-9f46-4cbc-a13b-ea4db0dc0321":{"to":"379a5e86-38e3-48f1-8cba-5587831dba33","type":"specification-of-group"}}
+tmap.id:f6e39233-8960-4de4-946b-9ddddef136b6
 type:text/vnd.tiddlywiki
 url:
 version.or.edition:
 volume.frequency:
 working.group:
+
+
 
 
 

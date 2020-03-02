@@ -1,17 +1,17 @@
-config.central-topic:0259c946-2f51-4869-bb46-a27b5bac0071
+config.central-topic:398d901c-4b5c-45af-8394-7b51642b9863
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021442
-id:22efe8de-b2b8-4f80-85ba-b4896146306f
+created:1582954316179
+id:d4a516fc-b012-4587-82ce-ee84fc8828ec
 isview:false
-map.base:0259c946-2f51-4869-bb46-a27b5bac0071
+map.base:398d901c-4b5c-45af-8394-7b51642b9863
 map.role:definition
 map.type:neighbor
-modified:1582720021442
+modified:1582954316179
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Microsoft France
-tmap.id:22efe8de-b2b8-4f80-85ba-b4896146306f
+tmap.id:d4a516fc-b012-4587-82ce-ee84fc8828ec
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Microsoft France

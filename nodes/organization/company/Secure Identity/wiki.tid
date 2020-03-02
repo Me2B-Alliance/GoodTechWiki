@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003369
+created:1582954204538
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003369
+modified:1582954204538
 org.name:Secure Identity
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Secure Identity
-tmap.edges:{"dc254b8e-e4bb-471d-87dd-69175cee6c30":{"to":"8c3785d7-9797-4f41-a706-b96201df1b83","type":"certified-idp"},"e1a7f542-2137-4a21-a18e-7397e34a8d6a":{"to":"0af0c83a-5840-4e71-8c33-0ae5748eb830","type":"organization-for-group"}}
-tmap.id:980235d1-c419-442f-923d-aa58a657310d
+tmap.edges:{"87315539-0eec-4c4e-9164-3714e82319fe":{"to":"0eb79291-2a2a-4d18-bd85-8e627af01f5f","type":"certified-idp"},"97198918-3253-4700-82fb-bdf1b05b03a1":{"to":"6ca9cdbf-f404-40f6-a6fa-91f3d36e8b3d","type":"organization-for-group"}}
+tmap.id:4dcb0c6e-ece5-4647-9c34-91f010df279d
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://secureidentity.co.uk
+
+
 
 
 

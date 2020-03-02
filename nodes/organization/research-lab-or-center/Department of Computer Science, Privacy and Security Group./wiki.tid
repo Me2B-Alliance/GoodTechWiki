@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003362
+created:1582954204529
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003362
+modified:1582954204529
 org.name:Department of Computer Science, Privacy and Security Group.
 org.type:research lab or center
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Department of Computer Science, Privacy and Security Group.
-tmap.edges:{"5cf5220d-1703-4ce6-849d-39fcfbbd4fe4":{"to":"507b261a-fc30-400f-b275-6889b4a75822","type":"convenor"}}
-tmap.id:9272fb11-8a95-4eef-bbca-2adcf38b2a78
+tmap.edges:{"37ad51ac-62ce-4e82-accd-0b6d91ca0a34":{"to":"82d3a3e6-6aee-45c2-8135-21db41712953","type":"convenor"}}
+tmap.id:3be7353c-e220-4473-8a4b-602b1aab6400
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://prisec.kau.se
+
+
 
 
 

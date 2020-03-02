@@ -1,12 +1,12 @@
-created:1582720021534
+created:1582954316238
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a28ea060-ed85-4ebd-9b07-668d7f67a6d9
+map.base:768526f3-18fd-4b95-9000-6ee7b84d9001
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021534
+modified:1582954316238
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/David Singer/filter/edges
-tmap.id:ee0c563b-63a3-4d3a-8e26-08322d652ad8
+tmap.id:10a907e3-73df-42c5-acef-cf4ec7ba8b5b
 type:text/vnd.tiddlywiki
 
 No body provided

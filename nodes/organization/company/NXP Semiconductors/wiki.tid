@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003390
+created:1582954204559
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003390
+modified:1582954204559
 org.name:NXP Semiconductors
 org.type:company
 parent.org:
@@ -27,8 +27,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:NXP Semiconductors
-tmap.edges:{"3ca4d0be-2926-426b-8276-489db256b889":{"to":"1784ad38-f114-4dec-8b13-489aac8450b3","type":"general-member"}}
-tmap.id:fe872027-236a-4c30-8daf-5d1efb9a5d03
+tmap.edges:{"8ba732d3-3836-48b5-ad34-97164d3167a8":{"to":"59703d9f-3e2f-47c9-830c-7f029d53660b","type":"general-member"}}
+tmap.id:867df90f-e201-4849-8335-20234b5c8cb4
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:http://www.nxp.com/
@@ -36,4 +36,6 @@ website:http://www.nxp.com/
 NXP Semiconductors N.V. is a global semiconductor company with operations in more than 25 countries. The company provides high performance mixed signal (HPMS) and standard product solutions that leverage its leading radio frequency, analog, power management, interface, security and digital processing expertise.
 
 NXP Identification, a key NXP business area, leads the way in secure identification, secure transactions, tagging and authentication. It is at the heart of many exciting applications, by carefully and selectively engaging in markets at the forefront of technology where it can differentiate itself and emerge as a world-class leader. NXP Identification delivers fully supported multi-application solutions to its customers without compromising security features, performance, or the speed at which the design can be brought to market.
+
+
 

@@ -1,12 +1,12 @@
-created:1582720021525
+created:1582954316233
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:ee52b7d1-d22e-440f-ac2d-bb78adccce66
+map.base:7dda0877-c7b9-494a-9a7a-7b29c00498da
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021525
+modified:1582954316233
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/CASED (Center for Advanced Security Research Darmstadt)/filter/edges
-tmap.id:f22e6b88-2503-47ad-9d36-bfcbd5e529a2
+tmap.id:3703aaaa-e2d3-42f3-ab7f-df7683048df9
 type:text/vnd.tiddlywiki
 
 No body provided

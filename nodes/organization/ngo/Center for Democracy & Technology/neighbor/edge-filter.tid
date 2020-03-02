@@ -1,12 +1,12 @@
-created:1582720021464
+created:1582954316190
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5fbe4a09-a175-4655-9efe-c7dbe8873d9c
+map.base:8ba616f4-0d81-468b-b56e-d959633f02f4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021464
+modified:1582954316190
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Center for Democracy & Technology/filter/edges
-tmap.id:b247ca06-7129-4b63-b9a1-f92da8232131
+tmap.id:ed3a53b8-d762-48d5-901e-83307ff10f1f
 type:text/vnd.tiddlywiki
 
 No body provided

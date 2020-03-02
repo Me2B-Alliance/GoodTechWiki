@@ -1,12 +1,12 @@
-created:1582720021536
+created:1582954316242
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:5c17f860-f657-4bfd-a902-6743f0561f82
+map.base:1a66ed4c-9874-4161-a2ff-e8e702ff6226
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021536
+modified:1582954316242
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Paul Simmonds/filter/edges
-tmap.id:0ef291cb-3b12-4568-bce4-f309e4f5aa96
+tmap.id:ea8c9ad5-88bd-499c-92ba-49bbcf99d796
 type:text/vnd.tiddlywiki
 
 No body provided

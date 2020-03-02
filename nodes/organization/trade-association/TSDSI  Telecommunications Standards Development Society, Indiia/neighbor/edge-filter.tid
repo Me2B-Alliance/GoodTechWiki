@@ -1,12 +1,12 @@
-created:1582720021524
+created:1582954316231
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a0eb2b9a-7f92-4767-9dfc-bc5a6ed03025
+map.base:da211626-bd2b-4935-bfa8-96fbaa90aec4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021524
+modified:1582954316231
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/TSDSI  Telecommunications Standards Development Society, Indiia/filter/edges
-tmap.id:32be1f0d-a325-48dd-a120-f765c111068f
+tmap.id:26776bc5-9648-4836-9c9c-6a17078d0cba
 type:text/vnd.tiddlywiki
 
 No body provided

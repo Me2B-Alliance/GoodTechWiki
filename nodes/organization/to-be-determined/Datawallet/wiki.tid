@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003595
+created:1582954204771
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -13,7 +13,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003595
+modified:1582954204771
 org.name:Datawallet
 org.type:to-be-determined
 parent.org:
@@ -29,7 +29,7 @@ tech.focus:
 tiddler.classification:node
 title:Datawallet
 tmap.edges:{}
-tmap.id:5297b840-59a3-42bb-a6d0-11c7f10807ad
+tmap.id:e5b5323f-4416-426b-97b0-3c6b34b2405b
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:https://datawallet.com
@@ -40,4 +40,6 @@ With Datawallet, consumers have a simple, private and meaningful way to control 
 Datawallet allows customers to visualize the data they create, set permissions for their data, and receive rewards for allowing companies to use their data. Through Datawallet’s personal API, your customers can leverage additional data from Facebook, Google, and Amazon, enabling companies to deliver personalized experiences that are unmatched by their competition.
 
 Datawallet products are seamlessly implemented with efficient mapping of your current data environment for CCPA compliance. Uniquely adaptable, Datawallet generates the visuals, controls and structures that are most important to you. Gain trust with transparency and control, and provide customers a clear-cut guide about how you’re using their data with fine-grained permissioning over its access. Powered by blockchain, every permissioning change is stored in an easily auditable blockchain record.
+
+
 

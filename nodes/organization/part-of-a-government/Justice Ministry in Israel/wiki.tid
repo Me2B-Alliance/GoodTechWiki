@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003365
+created:1582954204532
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003365
+modified:1582954204532
 org.name:Justice Ministry in Israel
 org.type:part of a government
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Justice Ministry in Israel
-tmap.edges:{"41f2f3e3-bf46-42e5-b7da-8fbdec06e53d":{"to":"35046ba7-9e28-482e-ae6e-929bcaf608f5","type":"government-connection"}}
-tmap.id:b2d9e6e7-38ee-44aa-9180-d28e117f4900
+tmap.edges:{"9db11893-3b59-4e94-92de-56861670a62a":{"to":"8a00a3a5-d4c7-4696-9bbe-87203d1e65a4","type":"government-connection"}}
+tmap.id:bd98e11b-dbbf-42fa-a516-8221e8b4785a
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

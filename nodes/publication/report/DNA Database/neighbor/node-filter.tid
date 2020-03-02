@@ -1,12 +1,12 @@
-created:1582720021615
-filter:[field:tmap.id[d8182ab4-2479-4b97-81c1-b12453245ff9]]
-map.base:d8182ab4-2479-4b97-81c1-b12453245ff9
+created:1582954316311
+filter:[field:tmap.id[53f7aac7-312c-4f21-9c60-6858b9641f19]]
+map.base:53f7aac7-312c-4f21-9c60-6858b9641f19
 map.role:node-filter
 map.type:neighbor
-modified:1582720021615
+modified:1582954316311
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DNA Database/filter/nodes
-tmap.id:ed3abf82-5a45-457d-99a3-3304e1f5d870
+tmap.id:aeef1ed9-c18e-4241-8676-4a86971c83b1
 type:text/vnd.tiddlywiki
 
 No body provided

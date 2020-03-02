@@ -1,17 +1,17 @@
-config.central-topic:02771737-8195-4147-a47c-f5a0ef503f64
+config.central-topic:b235482c-8d6c-44ca-90ab-f253843e27e0
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021675
-id:e1723a43-cb9d-4bc9-bfcb-9186f1a532fa
+created:1582954316357
+id:ecc8916c-cc57-44dc-993c-e795e007b992
 isview:false
-map.base:02771737-8195-4147-a47c-f5a0ef503f64
+map.base:b235482c-8d6c-44ca-90ab-f253843e27e0
 map.role:definition
 map.type:neighbor
-modified:1582720021675
+modified:1582954316357
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain: Perspectives on Research, Technology and Policy
-tmap.id:e1723a43-cb9d-4bc9-bfcb-9186f1a532fa
+tmap.id:ecc8916c-cc57-44dc-993c-e795e007b992
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Blockchain: Perspectives on Research, Technology and Policy

@@ -1,17 +1,17 @@
-config.central-topic:c50b6cc9-7560-4896-bc17-f7171036592a
+config.central-topic:0941a237-f41c-461f-ac66-0b46d551d7b8
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021463
-id:fc32352f-4aba-4003-8d48-25647d1121ab
+created:1582954316190
+id:f95598db-cba5-485d-97ce-7a7f258be99a
 isview:false
-map.base:c50b6cc9-7560-4896-bc17-f7171036592a
+map.base:0941a237-f41c-461f-ac66-0b46d551d7b8
 map.role:definition
 map.type:neighbor
-modified:1582720021463
+modified:1582954316190
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Adaptable Security
-tmap.id:fc32352f-4aba-4003-8d48-25647d1121ab
+tmap.id:f95598db-cba5-485d-97ce-7a7f258be99a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Adaptable Security

@@ -1,13 +1,13 @@
 audience:
 authors.editors:
-created:1582720003382
+created:1582954204550
 date:
 digital.harms.addressed:
 element.type:publication
 github.profile:
 jurisdiction:
 license:
-modified:1582720003382
+modified:1582954204550
 name:Digital Footprint Videos
 publication.type:video
 purpose:
@@ -17,8 +17,8 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:Digital Footprint Videos
-tmap.edges:{"143b4376-2b0f-4067-88f9-80739139f381":{"to":"1d106aae-7537-47ad-8982-2fcdecef8734","type":"specification-of-group"}}
-tmap.id:c3114469-6b97-4300-a394-b19093652c5f
+tmap.edges:{"81dba655-e8c9-4db2-8026-60459c0b6b26":{"to":"3671b447-ac9b-4f0f-bb05-7fe225d7e9aa","type":"specification-of-group"}}
+tmap.id:e263f93c-9b26-4a09-90a8-efe4422099c4
 type:text/vnd.tiddlywiki
 url:http://www.internetsociety.org/your-digital-footprint
 version.or.edition:
@@ -31,4 +31,6 @@ Every day, whether we want to or not, most of us contribute to a growing portrai
 This portrait helps companies target content at specific markets and consumers, helps employers look into your background, and helps advertisers track your movements across multiple websites. Whatever you do online, you might be leaving digital footprints behind.
 So no matter what you do online it’s important that you know what kind of trail you’re leaving, and what the possible effects can be. 
 While it's not possible to have ZERO footprints, the first steps toward reducing your digital footprint and managing your digital identity are not that hard.
+
+
 

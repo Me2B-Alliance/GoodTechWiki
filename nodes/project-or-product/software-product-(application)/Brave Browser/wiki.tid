@@ -1,7 +1,7 @@
 activities:
 audience:
-category:software product (application)
-created:1582720003597
+category:[[software product (application)]]
+created:1582954204773
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -10,7 +10,7 @@ github.profile:
 input.source:me2b
 license:
 me2b.participation:[[certification candidate]]
-modified:1582720003597
+modified:1582954204773
 name:Brave Browser
 parent.org:Brave
 partners:
@@ -24,7 +24,7 @@ terms.of.service:
 tiddler.classification:node
 title:Brave Browser
 tmap.edges:{}
-tmap.id:3006aec6-74dc-45a8-9e49-8ee806c27388
+tmap.id:03d9f03f-0beb-40ef-a786-e21687a25869
 type:text/vnd.tiddlywiki
 url:https://brave.com/
 version.or.edition:
@@ -40,4 +40,6 @@ Customize your shield settings
 
 Choose your settings on a per-site or browser-wide basis. See how many ads and trackers are being blocked by Brave every day on the New Tab Page.
 Security meets simplicity
+
+
 

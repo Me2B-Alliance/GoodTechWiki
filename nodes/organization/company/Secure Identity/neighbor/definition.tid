@@ -1,17 +1,17 @@
-config.central-topic:980235d1-c419-442f-923d-aa58a657310d
+config.central-topic:4dcb0c6e-ece5-4647-9c34-91f010df279d
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021452
-id:2d22b3ae-9d77-455d-b813-4a6cc051b6be
+created:1582954316183
+id:ea1e4032-32d1-4752-a07d-01dc681af9c9
 isview:false
-map.base:980235d1-c419-442f-923d-aa58a657310d
+map.base:4dcb0c6e-ece5-4647-9c34-91f010df279d
 map.role:definition
 map.type:neighbor
-modified:1582720021452
+modified:1582954316183
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Secure Identity
-tmap.id:2d22b3ae-9d77-455d-b813-4a6cc051b6be
+tmap.id:ea1e4032-32d1-4752-a07d-01dc681af9c9
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Secure Identity

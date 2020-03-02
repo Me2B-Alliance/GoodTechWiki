@@ -1,0 +1,16 @@
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582965000917
+id:51b2dea7-0180-4a00-ae2a-edc80c3ad6b3
+isview:false
+map.base:7121d30a-4aa4-4f83-845c-a333ea98e68b
+map.role:definition
+map.type:tagmap
+modified:1582965000917
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/software development
+tmap.id:51b2dea7-0180-4a00-ae2a-edc80c3ad6b3
+type:text/vnd.tiddlywiki
+
+Tag Map of software development

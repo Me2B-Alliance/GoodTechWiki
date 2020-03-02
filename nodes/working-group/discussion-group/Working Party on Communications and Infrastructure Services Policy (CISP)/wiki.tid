@@ -1,6 +1,6 @@
 activities:
-category:discussion group
-created:1582720003382
+category:[[discussion group]]
+created:1582954204551
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -8,7 +8,7 @@ element.type:working-group
 github.profile:
 ipr:
 meeting.frequency:
-modified:1582720003382
+modified:1582954204551
 name:Working Party on Communications and Infrastructure Services Policy (CISP)
 parent.org:OECD (The Organisation for Economic Co-operation and Development)
 people:
@@ -18,10 +18,12 @@ status:
 tech.focus:
 tiddler.classification:node
 title:Working Party on Communications and Infrastructure Services Policy (CISP)
-tmap.edges:{"492466cf-d804-456d-a1db-c95bef7ae80d":{"to":"2c7f8fa2-38cb-4712-8f3d-7fc2cf5cda6e","type":"convenor"},"13ffd6a3-d520-4fe5-909b-2a5773f8589e":{"to":"e56496ca-2def-4175-9325-a75115be42ae","type":"specification-of-group"}}
-tmap.id:c45556a7-2566-44b0-8a05-0b603d683d4d
+tmap.edges:{"a7cac87e-de5d-4268-91e5-fc05b44f821c":{"to":"7188f61a-8cbf-40c8-b092-03f87f018800","type":"convenor"},"74da876e-b7eb-45c3-9518-c09f4ddc7b44":{"to":"8537e0ad-958b-494e-8f0c-c1e34d2f0c7a","type":"specification-of-group"}}
+tmap.id:19f3eee2-d850-4cda-8a67-c818d53b63ea
 type:text/vnd.tiddlywiki
 url:
+
+
 
 
 

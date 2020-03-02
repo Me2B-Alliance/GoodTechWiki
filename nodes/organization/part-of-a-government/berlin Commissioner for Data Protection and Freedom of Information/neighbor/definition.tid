@@ -1,17 +1,17 @@
-config.central-topic:5b801e8a-5818-4657-8854-3c7d7dfbc7de
+config.central-topic:847ac229-3196-4414-8740-94ebc70b7480
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021478
-id:8357c7e9-63fc-487d-892c-98109f8f01be
+created:1582954316203
+id:81ce1c6a-27d8-4709-b836-e52448454aae
 isview:false
-map.base:5b801e8a-5818-4657-8854-3c7d7dfbc7de
+map.base:847ac229-3196-4414-8740-94ebc70b7480
 map.role:definition
 map.type:neighbor
-modified:1582720021478
+modified:1582954316203
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/berlin Commissioner for Data Protection and Freedom of Information
-tmap.id:8357c7e9-63fc-487d-892c-98109f8f01be
+tmap.id:81ce1c6a-27d8-4709-b836-e52448454aae
 type:text/vnd.tiddlywiki
 
 Neighbor Map of berlin Commissioner for Data Protection and Freedom of Information

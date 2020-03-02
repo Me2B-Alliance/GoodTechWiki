@@ -1,12 +1,12 @@
-created:1582720021636
-filter:[field:tmap.id[198eec24-0a39-4763-81c1-42dcc73ed600]]
-map.base:198eec24-0a39-4763-81c1-42dcc73ed600
+created:1582954316328
+filter:[field:tmap.id[f25c9b47-768b-4112-855c-03da4da9979e]]
+map.base:f25c9b47-768b-4112-855c-03da4da9979e
 map.role:node-filter
 map.type:neighbor
-modified:1582720021636
+modified:1582954316328
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Regional Diversity in Autonomy and Work: A Case Study from Uber and Lyft Drivers'/filter/nodes
-tmap.id:bdb30024-0a04-45d5-a110-3527107267b1
+tmap.id:19b885eb-ce50-471a-b9cd-dfe41fb5b3cf
 type:text/vnd.tiddlywiki
 
 No body provided

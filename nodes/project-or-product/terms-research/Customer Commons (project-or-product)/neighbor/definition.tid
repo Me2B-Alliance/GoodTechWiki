@@ -1,0 +1,17 @@
+config.central-topic:3dab9d7e-3891-4d3b-b49f-e2cb6cfceeb1
+config.neighbourhood_scope:2
+config.show_inter_neighbour_edges:true
+config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
+created:1582954316271
+id:0b86016d-a02b-4df3-9dfc-c423cdbec9be
+isview:false
+map.base:3dab9d7e-3891-4d3b-b49f-e2cb6cfceeb1
+map.role:definition
+map.type:neighbor
+modified:1582954316271
+tiddler.classification:map
+title:$:/plugins/felixhayashi/tiddlymap/graph/views/Customer Commons (project-or-product)
+tmap.id:0b86016d-a02b-4df3-9dfc-c423cdbec9be
+type:text/vnd.tiddlywiki
+
+Neighbor Map of Customer Commons (project-or-product)

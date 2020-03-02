@@ -1,12 +1,12 @@
-created:1582720021647
+created:1582954316339
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9ed71e5c-3411-4fcf-bc06-81befc01a0ff
+map.base:0c4ea71d-64f9-4e80-916b-8909b72df384
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021647
+modified:1582954316339
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/What role do “power learners” play in online learning communities?/filter/edges
-tmap.id:4300cecb-7285-4da7-bb6a-9841aaaa9a16
+tmap.id:d449c3da-b6ac-46cf-ad88-03438394f542
 type:text/vnd.tiddlywiki
 
 No body provided

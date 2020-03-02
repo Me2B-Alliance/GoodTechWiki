@@ -1,17 +1,17 @@
-config.central-topic:cb8bc9bc-c4bd-4e2a-8aa7-8afa54e536b3
+config.central-topic:6cf42b92-cea7-4ec1-bed3-6eaaafe09c42
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021566
-id:7595bc19-741e-40e1-8012-0a899ea5a657
+created:1582954316270
+id:0d66c1ff-7e47-4fe1-8f4b-2b0077e9a0d8
 isview:false
-map.base:cb8bc9bc-c4bd-4e2a-8aa7-8afa54e536b3
+map.base:6cf42b92-cea7-4ec1-bed3-6eaaafe09c42
 map.role:definition
 map.type:neighbor
-modified:1582720021566
+modified:1582954316270
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Preference Center Management
-tmap.id:7595bc19-741e-40e1-8012-0a899ea5a657
+tmap.id:0d66c1ff-7e47-4fe1-8f4b-2b0077e9a0d8
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Preference Center Management

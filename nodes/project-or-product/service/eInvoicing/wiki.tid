@@ -1,7 +1,7 @@
 activities:
 audience:
-category:service
-created:1582720003348
+category:[[service]]
+created:1582954204514
 date.begun:
 date.ended:
 digital.harms.addressed:
@@ -9,7 +9,7 @@ element.type:project-or-product
 github.profile:
 license:
 me2b.participation:
-modified:1582720003348
+modified:1582954204514
 name:eInvoicing
 parent.org:
 partners:
@@ -22,12 +22,14 @@ tags:
 terms.of.service:
 tiddler.classification:node
 title:eInvoicing
-tmap.edges:{"424f17dd-51cf-4ced-8193-c0a66c998480":{"to":"494333ed-70f0-456c-9fdb-d31f99b772e5","type":"author"}}
-tmap.id:bbb08210-2cf6-462c-8348-300ce4251867
+tmap.edges:{"b3b65fee-6356-41b7-a8b5-5a92e4ec84f5":{"to":"705b3dfe-602f-4132-ba1e-af0c070afc95","type":"author"}}
+tmap.id:d79bc5b7-5e43-4939-a89a-2aeaf6ddbadb
 type:text/vnd.tiddlywiki
 url:https://ec.europa.eu/cefdigital/wiki/display/cefdigital/einvoicing
 version.or.edition:
 working.group:
 
 eInvoicing represents a clear example of how digital innovation can provide efficiencies and cost-cutting measures of tangible benefit to public administrations, citizens and businesses throughout Europe. Since 2001, European legislation has given electronic invoices legal equivalence with their paper counterparts.
+
+
 

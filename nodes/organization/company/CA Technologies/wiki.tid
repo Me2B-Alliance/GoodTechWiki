@@ -1,7 +1,7 @@
 activities:
 annual.budget:
 audience:
-created:1582720003387
+created:1582954204555
 date.ended:
 date.founded:
 digital.harms.addressed:
@@ -12,7 +12,7 @@ key.people:
 linkedin.profile:
 location(s):
 me2b.relationship:
-modified:1582720003387
+modified:1582954204555
 org.name:CA Technologies
 org.type:company
 parent.org:
@@ -27,11 +27,13 @@ tags:
 tech.focus:
 tiddler.classification:node
 title:CA Technologies
-tmap.edges:{"5474eae4-9c07-45e9-b4f7-05c84ce6f785":{"to":"bc1500cb-782e-4fe5-9ae5-9b687678fbdd","type":"executive-member"}}
-tmap.id:fdc4e006-43a3-4021-adb9-b894056547d8
+tmap.edges:{"31b8b0d7-2a8c-4714-85d2-86bc9de59849":{"to":"0ca17df6-c4dc-4cef-b7f0-2eca8000742a","type":"executive-member"}}
+tmap.id:4bc7bfe2-a95e-4677-9f47-74c562a8b5cd
 twitter.profile:
 type:text/vnd.tiddlywiki
 website:
+
+
 
 
 

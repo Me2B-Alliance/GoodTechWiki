@@ -1,17 +1,17 @@
-config.central-topic:19553659-0069-4870-9ec0-c6d5d1bac22c
+config.central-topic:4217087c-0761-4aab-9b1c-3f6029f7b6bf
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021534
-id:a51a4593-5df6-4b64-ae2c-36b391848695
+created:1582954316240
+id:28ae4621-7972-4571-9997-2f8729b9379e
 isview:false
-map.base:19553659-0069-4870-9ec0-c6d5d1bac22c
+map.base:4217087c-0761-4aab-9b1c-3f6029f7b6bf
 map.role:definition
 map.type:neighbor
-modified:1582720021534
+modified:1582954316240
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Mark Lizar
-tmap.id:a51a4593-5df6-4b64-ae2c-36b391848695
+tmap.id:28ae4621-7972-4571-9997-2f8729b9379e
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Mark Lizar

@@ -1,17 +1,17 @@
-config.central-topic:01ba269c-3c46-4002-be1c-89902f7c039c
+config.central-topic:3b834ee4-763d-4696-b7ba-1b5c261632bd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021464
-id:ce9689ab-48d7-4c02-a56d-a84ffc4876df
+created:1582954316194
+id:1e5fec54-ffee-481d-9bdb-467c01fbfe23
 isview:false
-map.base:01ba269c-3c46-4002-be1c-89902f7c039c
+map.base:3b834ee4-763d-4696-b7ba-1b5c261632bd
 map.role:definition
 map.type:neighbor
-modified:1582720021464
+modified:1582954316194
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Center for Humane Technology
-tmap.id:ce9689ab-48d7-4c02-a56d-a84ffc4876df
+tmap.id:1e5fec54-ffee-481d-9bdb-467c01fbfe23
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Center for Humane Technology

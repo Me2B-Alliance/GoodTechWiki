@@ -1,12 +1,12 @@
-created:1582720021617
+created:1582954316313
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:3aea463a-4a83-4945-968b-7a983e721db7
+map.base:26fe6f60-74bc-48f0-8467-f9ad2f6ae352
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021617
+modified:1582954316313
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Digital Rights of Children | DML Trust Challenge Webinar/filter/edges
-tmap.id:e1d51394-614a-4da8-ae0f-ea825741c02a
+tmap.id:201b105f-9506-4a52-8387-a15940b8e868
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,6 +1,6 @@
 audience:
 authors.editors:[[alessandro acquisti]]
-created:1582720003603
+created:1582954204780
 date:
 digital.harms.addressed:
 element.type:publication
@@ -8,7 +8,7 @@ github.profile:
 input.source:me2b
 jurisdiction:
 license:
-modified:1582720003603
+modified:1582954204780
 name:Government-Scale Monetary Forgery: Economics and Countermeasures
 publication.type:paper
 purpose:
@@ -19,7 +19,7 @@ tech.focus:
 tiddler.classification:node
 title:Government-Scale Monetary Forgery: Economics and Countermeasures
 tmap.edges:{}
-tmap.id:7fe73bef-d4bf-451e-b68c-660583c9a355
+tmap.id:11c48a1d-7663-4a18-8466-f5bd4af7328d
 type:text/vnd.tiddlywiki
 url:https://kilthub.cmu.edu/articles/Countermeasures_against_Government-Scale_Monetary_Forgery/6467840
 version.or.edition:
@@ -27,4 +27,6 @@ volume.frequency:
 working.group:
 
 Despite cryptographic breakthroughs in the area of digital cash and the rapid advance of information technology, physical cash remains the dominant currency: it is easy to use and its exchanges are largely independent of computing devices. However, physical cash is vulnerable to rising threats - such as large scale, government-mandated forgeries - that digital cash may protect against more effectively. We study mechanisms to combine physical cash with digital cash to remove their respective shortcomings and obtain their combined advantages. We discuss initial mechanisms, ranging from cryptographic signatures embedded in 2-D barcodes, to physical one-way functions coupled with online verification systems, and examine their cost and benefit trade-offs.
+
+
 

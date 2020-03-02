@@ -1,12 +1,12 @@
-created:1582720021482
+created:1582954316207
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:9593d62b-1c96-4236-81c8-4ad5127e0ac4
+map.base:95c882eb-b0dd-4d37-8465-20005f165b4a
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021482
+modified:1582954316207
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Chair of Mobile Business & Multilateral Security/filter/edges
-tmap.id:e8c00494-ceda-4ad9-8e46-721f238518a6
+tmap.id:db23e945-ec2f-46ca-8256-63376a416b08
 type:text/vnd.tiddlywiki
 
 No body provided

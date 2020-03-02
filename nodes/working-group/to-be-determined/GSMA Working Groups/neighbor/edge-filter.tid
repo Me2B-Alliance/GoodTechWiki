@@ -1,12 +1,12 @@
-created:1582720021707
+created:1582954316386
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:a97b9aa7-e6ae-461a-bfc2-ba2d1d492690
+map.base:79e783e3-1ff3-49d3-827a-37c0c3e7e4d4
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021707
+modified:1582954316386
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/GSMA Working Groups/filter/edges
-tmap.id:707e423c-c3e1-49d5-8a2a-3828205c531c
+tmap.id:93bda7e5-a03f-4840-b499-c0764b180f73
 type:text/vnd.tiddlywiki
 
 No body provided

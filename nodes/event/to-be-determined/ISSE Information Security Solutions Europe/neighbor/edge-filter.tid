@@ -1,12 +1,12 @@
-created:1582720021431
+created:1582954316169
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:21c73a83-34a9-4809-8b8e-ebd16df5387d
+map.base:e6712801-8237-44b2-b4c7-3692c02d9228
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021431
+modified:1582954316169
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/ISSE Information Security Solutions Europe/filter/edges
-tmap.id:82209f15-8831-4965-b06c-0e48aff367a9
+tmap.id:8f210661-296f-4441-9910-136e50100d46
 type:text/vnd.tiddlywiki
 
 No body provided

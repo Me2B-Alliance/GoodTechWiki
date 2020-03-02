@@ -1,17 +1,17 @@
-config.central-topic:5be7bd37-5848-4113-91e6-a324cd000472
+config.central-topic:700e3903-84d3-40e1-8270-5d44dd02a2cd
 config.neighbourhood_scope:2
 config.show_inter_neighbour_edges:true
 config.vis:{"forceAtlas2Based":{"gravitationalConstant":-1250,"springLength":650,"springConstant":0.05,"centralGravity":0.01,"damping":0.4},"solver":"forceAtlas2Based","stabilization":{"enabled":false,"iterations":1000,"updateInterval":10,"onlyDynamicEdges":false,"fit":true}}
-created:1582720021700
-id:55a8f998-805a-434b-abf0-e07f681fc0be
+created:1582954316381
+id:840e7d88-a4b9-480f-adf4-4e4b7c6c283a
 isview:false
-map.base:5be7bd37-5848-4113-91e6-a324cd000472
+map.base:700e3903-84d3-40e1-8270-5d44dd02a2cd
 map.role:definition
 map.type:neighbor
-modified:1582720021700
+modified:1582954316381
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5
-tmap.id:55a8f998-805a-434b-abf0-e07f681fc0be
+tmap.id:840e7d88-a4b9-480f-adf4-4e4b7c6c283a
 type:text/vnd.tiddlywiki
 
 Neighbor Map of Issuer Identification Numbers (IINs) / Application Provider Identifiers (RIDs)  WG5

@@ -1,12 +1,12 @@
-created:1582720021621
+created:1582954316314
 filter:-[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-map.base:23526537-5584-4533-94cd-a4ab08deaba7
+map.base:fae3951e-4916-4c81-a2d6-1454e5e16888
 map.role:edge-filter
 map.type:neighbor
-modified:1582720021621
+modified:1582954316314
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/Don’t Believe Every AI You See/filter/edges
-tmap.id:afacee5c-cdfa-4b62-9ac7-f7e8514c0720
+tmap.id:191e591e-5643-4f3e-8a8a-a367696f82d0
 type:text/vnd.tiddlywiki
 
 No body provided

@@ -1,12 +1,12 @@
-created:1582720021592
-filter:[field:tmap.id[2ae293df-b14f-467b-a43e-91a822560f6b]]
-map.base:2ae293df-b14f-467b-a43e-91a822560f6b
+created:1582954316288
+filter:[field:tmap.id[3b4e9555-0a72-4c85-9207-b9a71f977cb8]]
+map.base:3b4e9555-0a72-4c85-9207-b9a71f977cb8
 map.role:node-filter
 map.type:neighbor
-modified:1582720021592
+modified:1582954316288
 tiddler.classification:map
 title:$:/plugins/felixhayashi/tiddlymap/graph/views/DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01/filter/nodes
-tmap.id:2f2c6a57-c9b1-4532-9499-49fd49210d53
+tmap.id:66489f3e-bdf6-4aeb-b822-c69e2b8369f0
 type:text/vnd.tiddlywiki
 
 No body provided
