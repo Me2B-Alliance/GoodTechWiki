@@ -4,5 +4,5 @@ title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/publication
 type:text/vnd.tiddlywiki
 scope: [field:element.type[publication]]
 style: {"color":{"border":"rgba(35,244,206,125)","background":"rgba(182,9,111,62)"}}
-fa-icon: \xff026
-tw-icon: 
+fa-icon: 
+tw-icon: $:/icons/organization

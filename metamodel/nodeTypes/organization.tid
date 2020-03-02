@@ -1,8 +1,9 @@
-created:1583112783310
-modified:1583112783310
-title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/organization
-type:text/vnd.tiddlywiki
+created: 15831130113100000
+fa-icon: 
+modified: 20200302061022520
+priority: 1
 scope: [field:element.type[organization]]
 style: {"color":{"border":"rgba(225,204,190,37)","background":"rgba(118,144,229,94)"}}
-fa-icon: \xff209
-tw-icon: 
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/organization
+tw-icon: $:/icons/organization
+type: text/vnd.tiddlywiki

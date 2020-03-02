@@ -4,5 +4,5 @@ title:$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/person
 type:text/vnd.tiddlywiki
 scope: [field:element.type[person]]
 style: {"color":{"border":"rgba(25,78,243,158)","background":"rgba(142,128,54,30)"}}
-fa-icon: \xff207
-tw-icon: 
+fa-icon: 
+tw-icon: $:/icons/users
